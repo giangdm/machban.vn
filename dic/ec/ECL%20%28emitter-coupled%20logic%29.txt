@@ -1,0 +1,5 @@
+﻿@ECL (emitter-coupled logic)
+#(Tech) mạch luận lý ghép cực phát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạch logic ghép cực phát

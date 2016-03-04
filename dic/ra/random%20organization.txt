@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự tổ chức ngẫu nhiên (bộ nhớ)
+@Lĩnh vực: điện tử & viễn thông
+#tổ chức ngẫu nhiên

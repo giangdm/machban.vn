@@ -1,0 +1,3 @@
+﻿@U-form enterprise
+#(Econ) Doanh nghiệp dạng chữ U.
+: Một công ty mà mọi quyết định đều do một ban điều hành ban ra.

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giới hạn bền thực khi gãy đứt
+#ứng suất thực khi gãy dứt

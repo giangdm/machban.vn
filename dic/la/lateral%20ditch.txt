@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#kênh phân phối
+#mương nhánh
+#rãnh tiêu nước
+@Lĩnh vực: cơ khí & công trình
+#kênh tiêu thụ
+@Lĩnh vực: xây dựng
+#mương bên
+#rãnh phụ
+@Chuyên ngành kỹ thuật
+#kênh phân phối
+#mương nhánh
+#rãnh tiêu nước
+@Lĩnh vực: cơ khí & công trình
+#kênh tiêu thụ
+@Lĩnh vực: xây dựng
+#mương bên
+#rãnh phụ

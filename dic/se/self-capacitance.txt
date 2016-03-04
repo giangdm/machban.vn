@@ -1,0 +1,8 @@
+﻿@self-capacitance
+*danh từ
+#điện dung riêng (bản thân)
+@Chuyên ngành kỹ thuật
+#điện dung bản thân
+#điện dung riêng
+@Lĩnh vực: điện lạnh
+#điện dung tự thân

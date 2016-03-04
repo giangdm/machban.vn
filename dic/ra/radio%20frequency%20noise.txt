@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tạp âm vô tuyến điện
+#tiếng ồn tần số vô tuyến

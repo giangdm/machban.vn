@@ -1,0 +1,2 @@
+﻿@Ceilings and floors
+#(Econ) Mức trần và mức sàn; Mức đỉnh và mức đáy.

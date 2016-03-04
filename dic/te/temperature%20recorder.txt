@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy ghi nhiệt độ
+@Lĩnh vực: điện lạnh
+#bộ ghi nhiệt độ
+@Lĩnh vực: hóa học & vật liệu
+#đồng hồ đo nhiệt độ
+@Lĩnh vực: xây dựng
+#dụng cụ ghi nhiệt độ

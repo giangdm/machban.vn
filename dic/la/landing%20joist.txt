@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#chiếu nghỉ (cầu thang)
+#dầm chiếu nghỉ
+@Lĩnh vực: xây dựng
+#dầm cuốn thang
+@Lĩnh vực: toán & tin
+#rầm chiếu nghỉ (cầu thang)
+@Chuyên ngành kỹ thuật
+#chiếu nghỉ (cầu thang)
+#dầm chiếu nghỉ
+@Lĩnh vực: xây dựng
+#dầm cuốn thang
+@Lĩnh vực: toán & tin
+#rầm chiếu nghỉ (cầu thang)

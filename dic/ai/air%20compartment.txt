@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ngăn thông khí
+@Lĩnh vực: điện lạnh
+#ngăn thông gió

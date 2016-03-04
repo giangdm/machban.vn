@@ -1,0 +1,2 @@
+﻿@automatic gain control circuit
+#(Tech) mạch điều khiển tăng ích tự động

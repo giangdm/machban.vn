@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ làm việc
+#nhiệt độ vận hành
+@Lĩnh vực: cơ khí & công trình
+#nhiệt độ làm việc (của máy)

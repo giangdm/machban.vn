@@ -1,0 +1,14 @@
+﻿@electrostatic storage
+#(Tech) bộ trữ điện tĩnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ tĩnh điện
+#lưu tĩnh điện
+@Lĩnh vực: xây dựng
+#kho tĩnh điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ tĩnh điện
+#lưu tĩnh điện
+@Lĩnh vực: xây dựng
+#kho tĩnh điện

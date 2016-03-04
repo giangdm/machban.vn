@@ -1,0 +1,6 @@
+﻿@Ability to pay
+#(Econ) Khả năng chi trả.
+@Chuyên ngành kinh tế
+#khả năng chi trả
+#khả năng trả nợ
+#năng lực chi trả

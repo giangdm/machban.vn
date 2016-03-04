@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp ống
+@Lĩnh vực: hóa học & vật liệu
+#tầng ống
+@Lĩnh vực: xây dựng
+#thợ đặt ống

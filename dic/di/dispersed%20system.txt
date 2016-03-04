@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ phân tán
+@Lĩnh vực: điện tử & viễn thông
+#hệ tản mạn

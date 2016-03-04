@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#giàn ống có cánh
+@Lĩnh vực: điện lạnh
+#dàn ống có cánh
+@Lĩnh vực: xây dựng
+#ống xoắn nhỏ
+@Chuyên ngành kỹ thuật
+#giàn ống có cánh
+@Lĩnh vực: điện lạnh
+#dàn ống có cánh
+@Lĩnh vực: xây dựng
+#ống xoắn nhỏ

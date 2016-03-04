@@ -1,0 +1,3 @@
+﻿@Agency shop
+#(Econ) Nghiệp đoàn.
+: Yêu cầu công nhân tham gia tuyển dụng không phải gia nhập công đoàn nhưng phải đóng công đoàn phí.

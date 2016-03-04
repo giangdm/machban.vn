@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hệ số tương quan điển hình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ số tương quan chính tắc

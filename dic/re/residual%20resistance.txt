@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện trở dư
+@Lĩnh vực: cơ khí & công trình
+#độ bền dư
+#sức kháng dư

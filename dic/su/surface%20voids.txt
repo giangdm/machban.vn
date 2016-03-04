@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#lỗ rỗng trên bề mặt
+#rỗ trên bề mặt

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#cổ phiếu ký danh
+#cổ phiếu tư nhân
+#dịch vụ cá biệt
+@Chuyên ngành kỹ thuật
+#cổ phần ký danh

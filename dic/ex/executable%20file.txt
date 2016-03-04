@@ -1,0 +1,18 @@
+﻿@executable file
+#(Tech) tập tin khả thi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin khả thi
+#tập tin thi hành được
+#tệp chạy được
+#tệp thi hành được
+@Lĩnh vực: xây dựng
+#tệp thực thi được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin khả thi
+#tập tin thi hành được
+#tệp chạy được
+#tệp thi hành được
+@Lĩnh vực: xây dựng
+#tệp thực thi được

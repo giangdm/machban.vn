@@ -1,0 +1,22 @@
+﻿@Ceiling
+#(Econ) Mức trần
+: Giới hạn tăng sản lượng trong thuyết CHU KỲ KINH DOANH. Trần đạt được khi tất cả các yếu tố sản xuất đạt tới mức toàn năng.
+<!-- more -->
+@ceiling /'si:liɳ/
+*danh từ
+#trần (nhà...)
+#(hàng không) độ cao tối đa (của một máy bay)
+#giá cao nhất; bậc lương cao nhất
+#to hit the ceiling
+#(từ Mỹ,nghĩa Mỹ) nổi giận, tức giận
+@Chuyên ngành kinh tế
+#độ cao tối đa
+#hạn mức cao nhất
+#mức trần
+@Chuyên ngành kỹ thuật
+#sàn
+#trần
+@Lĩnh vực: xây dựng
+#độ cao tối đa
+#trần (nhà), sàn
+#trần nhà

@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#chiều cao cột áp
+#cột áp thủy tĩnh
+@Lĩnh vực: xây dựng
+#cột nước hình học
+#đầu nước dâng
+#độ cao cao trình
+@Lĩnh vực: cơ khí & công trình
+#độ cao do vị thế
+@Chuyên ngành kỹ thuật
+#chiều cao cột áp
+#cột áp thủy tĩnh
+@Lĩnh vực: xây dựng
+#cột nước hình học
+#đầu nước dâng
+#độ cao cao trình
+@Lĩnh vực: cơ khí & công trình
+#độ cao do vị thế

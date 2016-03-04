@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chi tiêu bất ngờ
+#chi tiêu tùy thuộc
+@Chuyên ngành kỹ thuật
+#chi phí dự phòng

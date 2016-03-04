@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khu thương mại
+@Chuyên ngành kỹ thuật
+#khu buôn bán

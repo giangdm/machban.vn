@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ dầu
+#động cơ điêzen
+@Lĩnh vực: điện lạnh
+#động cơ (dùng) dầu
+@Lĩnh vực: cơ khí & công trình
+#động cơ chạy dầu (điêzen)
+@Lĩnh vực: vật lý
+#động cơ dầu nặng

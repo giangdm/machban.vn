@@ -1,0 +1,2 @@
+﻿@conversion conductance
+#(Tech) độ truyền dẫn hoán đổi

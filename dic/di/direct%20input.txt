@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đầu vào trực tiếp
+#sự nhập trực tiếp
+@Lĩnh vực: toán & tin
+#nhập trực tiếp

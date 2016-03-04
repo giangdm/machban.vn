@@ -1,0 +1,22 @@
+﻿@feedback loop
+#(Tech) vòng hồi tiếp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chu trình hồi tiếp
+@Lĩnh vực: toán & tin
+#vòng (lặp) hồi tiếp
+#vòng liên hệ ngược
+@Lĩnh vực: đo lường & điều khiển
+#vòng hồi tiếp
+@Lĩnh vực: điện lạnh
+#vòng phản hồi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chu trình hồi tiếp
+@Lĩnh vực: toán & tin
+#vòng (lặp) hồi tiếp
+#vòng liên hệ ngược
+@Lĩnh vực: đo lường & điều khiển
+#vòng hồi tiếp
+@Lĩnh vực: điện lạnh
+#vòng phản hồi

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm bốc cháy
+#điểm đánh lửa
+#nhiệt độ bốc cháy
+#vít lửa
+@Lĩnh vực: ô tô
+#thời điểm đánh lửa

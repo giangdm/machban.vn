@@ -1,0 +1,6 @@
+﻿@Tax expenditure
+#(Econ) Chi tiêu (để) tránh thuế.
+: Cụm thuật ngữ dùng để chỉ các khoản khấu trừ mà được dùng để giảm nghĩa vụ nộp thuế - nói chung là nghĩa vụ nộp thuế thu nhập.
+@Chuyên ngành kinh tế
+#chi giảm thuế
+#chi tiêu thuế

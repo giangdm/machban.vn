@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu ứng Joule-Thomson
+@Lĩnh vực: điện lạnh
+#hiệu ứng Joule-Kelvin

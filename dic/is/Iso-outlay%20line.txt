@@ -1,0 +1,3 @@
+﻿@Iso-outlay line
+#(Econ) Đường đẳng chi.
+: (Còn được gọi là đường cong đẳng chi). Xem ISO-COST CURVE.

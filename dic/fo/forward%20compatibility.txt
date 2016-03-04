@@ -1,0 +1,6 @@
+﻿@forward compatibility
+#(Tech) tính tương thuận, tương thích tiến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính tương thích hướng tới
+#tính tương thích thuận

@@ -1,0 +1,4 @@
+﻿@actual power
+#(Tech) công suất hữu hiệu, công suất thực
+@Chuyên ngành kỹ thuật
+#công suất thực

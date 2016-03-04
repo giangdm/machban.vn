@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ phân tích màu
+@Lĩnh vực: vật lý
+#máy phân tích màu

@@ -1,0 +1,3 @@
+﻿@Separation of ownership from control
+#(Econ) Sự tách biệt giữa quyền sở hữu và quyền kiểm soát.
+: Điêu này xảy ra trong những công ty cổ phần lớn, trong đó những cổ phần có quyền bỏ phiếu được chia cho một số lượng lớn cổ đông.

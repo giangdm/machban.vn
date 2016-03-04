@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cầu quay
+#cầu xoay
+#cầu xoay (để tàu thuyền đi lại)

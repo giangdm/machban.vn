@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#phần ứng quay
+@Lĩnh vực: điện
+#phần ứng có chốt xoay
+#phần ứng xoay

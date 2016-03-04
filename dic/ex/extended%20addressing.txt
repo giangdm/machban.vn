@@ -1,0 +1,2 @@
+﻿@extended addressing
+#(Tech) định vị nối dài, định địa chỉ nối dài

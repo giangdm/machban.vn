@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đạo hàm bậc hai
+#hệ số vi phân bậc hai

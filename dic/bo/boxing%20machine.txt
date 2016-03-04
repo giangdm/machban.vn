@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#máy đóng gói vào thùng hoặc hộp
+@Chuyên ngành kỹ thuật
+#máy đóng hộp
+#máy làm hộ cactông

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#buồng lạnh cuối
+@Lĩnh vực: điện lạnh
+#buồng tản nhiệt sau

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự cố cách điện
+@Lĩnh vực: điện
+#sự hỏng cách điện

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lệnh khởi đầu
+@Lĩnh vực: toán & tin
+#lệnh ban đầu
+#lệnh khởi động

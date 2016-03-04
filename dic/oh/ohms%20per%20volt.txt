@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#số ôm/mỗi vôn
+@Lĩnh vực: điện
+#ôm trên volt

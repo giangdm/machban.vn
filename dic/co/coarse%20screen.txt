@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#lưới thô
+#sàng mắt lưới to
+@Chuyên ngành kỹ thuật
+#lưới chắn thô
+#lưới chắn thưa
+#lưới in thô
+#lưới in thưa
+#sàng lỗ to
+#sàng thô

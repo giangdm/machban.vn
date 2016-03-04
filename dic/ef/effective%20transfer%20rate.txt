@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tốc độ truyền hiệu dụng
+#tốc độ truyền thực

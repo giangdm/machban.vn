@@ -1,0 +1,5 @@
+﻿@destination field
+#(Tech) trường nhận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trường đích vùng biến

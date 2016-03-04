@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm tới hạn
+@Lĩnh vực: y học
+#điểm nóng
+@Lĩnh vực: hóa học & vật liệu
+#điểm tỏa nhieet của phản ứng tỏa nhiệt
+@Lĩnh vực: xây dựng
+#đốm nóng
+@Lĩnh vực: cơ khí & công trình
+#sự thiêu tích mạnh
+@Lĩnh vực: vật lý
+#vết nóng
+#vệt nóng

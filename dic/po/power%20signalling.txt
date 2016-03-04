@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#báo hiệu dùng điện
+#đánh tín hiệu dùng điện
+@Lĩnh vực: điện
+#sự báo hiệu công suất

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khung hình dừng
+#khung hình tĩnh
+@Lĩnh vực: toán & tin
+#khung tĩnh

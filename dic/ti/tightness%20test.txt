@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#phép thử độ kín
+@Lĩnh vực: xây dựng
+#sự thử nghiệm độ chặt

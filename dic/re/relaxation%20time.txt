@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thời gian chùng
+#thời gian chùng (cốt thép)
+#thời gian mới
+@Lĩnh vực: điện lạnh
+#thời gian hồi phục
+@Lĩnh vực: hóa học & vật liệu
+#thời gian khử ứng lực

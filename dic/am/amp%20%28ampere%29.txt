@@ -1,0 +1,2 @@
+﻿@amp (ampere)
+#(Tech) ampere (ampe); = amplifier

@@ -1,0 +1,3 @@
+﻿@Local finance
+#(Econ) Tài chính địa phương.
+: Thu nhập và chi tiêu của chính quyền  khu vực (địa phương).

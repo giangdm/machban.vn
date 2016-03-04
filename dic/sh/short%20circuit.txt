@@ -1,0 +1,18 @@
+﻿@short circuit /'ʃɔ:t'sə:kit/
+*danh từ
+#(điện học) mạch ngắn, mạch chập
+*ngoại động từ
+#(điện học) làm ngắn mạch, làm chập mạch ((cũng) short)
+#làm đơn giản; bớt ngắn đi
+@Chuyên ngành kỹ thuật
+#đoản mạch
+#ngắn mạch
+@Lĩnh vực: cơ khí & công trình
+#chạm điện
+#mạch chập
+#mạch ngắn
+#sự chạm điện (đoản mạch)
+@Lĩnh vực: điện
+#chập mạch, ngắn mạch
+#sự đoản mạch
+#sự ngắn mạch

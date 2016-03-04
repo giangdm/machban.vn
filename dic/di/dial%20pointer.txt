@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kim thang đo
+@Lĩnh vực: đo lường & điều khiển
+#kim mặt số

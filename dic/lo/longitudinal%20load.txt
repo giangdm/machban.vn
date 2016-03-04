@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#gia tải dọc
+#tải trọng dọc
+@Lĩnh vực: điện
+#tải trọng dọc (trục)

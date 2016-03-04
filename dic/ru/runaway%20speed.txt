@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tốc độ lồng
+@Lĩnh vực: điện
+#tốc độ lồng (của động cơ)

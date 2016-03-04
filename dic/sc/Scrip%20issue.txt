@@ -1,0 +1,7 @@
+﻿@Scrip issue
+#(Econ) Cổ phiếu phát hành cho cổ đông hiện hành.
+: Xem BONUS ISSUE.
+@Chuyên ngành kinh tế
+#phát hành cổ phiếu biếu không
+#sự phân phối cổ phiếu
+#sự phát hành cổ phiếu

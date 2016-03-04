@@ -1,0 +1,8 @@
+﻿@acoustic coupler
+#(Tech) bộ ghép âm, bổ đổi âm sang số
+@Chuyên ngành kỹ thuật
+#cặp viên âm
+@Lĩnh vực: điện lạnh
+#bộ ghép âm thanh
+@Lĩnh vực: toán & tin
+#bộ nối âm

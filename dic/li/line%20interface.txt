@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao diện đường truyền
+@Lĩnh vực: điện
+#khớp nối đường dây
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao diện đường truyền
+@Lĩnh vực: điện
+#khớp nối đường dây

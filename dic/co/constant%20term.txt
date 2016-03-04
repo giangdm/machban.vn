@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#số hạng thường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số hạng không đổi

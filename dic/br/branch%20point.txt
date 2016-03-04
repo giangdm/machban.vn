@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm nối
+#điểm phân nhánh
+#điểm rẽ nhánh
+@Lĩnh vực: điện lạnh
+#điểm nút ở mạng điện

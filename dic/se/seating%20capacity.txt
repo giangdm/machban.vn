@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#số chỗ ngồi
+@Lĩnh vực: giao thông & vận tải
+#định viên toa xe
+@Lĩnh vực: xây dựng
+#số chỗ ngồi (trong hội trường)

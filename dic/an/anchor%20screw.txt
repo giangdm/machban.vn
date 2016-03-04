@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đinh ốc neo
+@Lĩnh vực: xây dựng
+#đinh ốc bệ máy
+@Lĩnh vực: toán & tin
+#đinh ốc hệ máy
+@Lĩnh vực: hóa học & vật liệu
+#vít chốt
+#vít neo

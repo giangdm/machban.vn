@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#đường cắt kinh tuyến
+#mặt cắt kinh tuyến
+#sự cắt theo kinh tuyến

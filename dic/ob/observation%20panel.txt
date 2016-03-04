@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng điều khiển
+#bảng quan sát
+#cửa quan sát
+@Lĩnh vực: xây dựng
+#panô quan sát được

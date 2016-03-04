@@ -1,0 +1,7 @@
+﻿@sound-ranging
+*danh từ
+#sự xác định khoảng cách bằng âm thanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#định tầm bằng âm (thanh)
+#sự định tầm bằng âm (thanh)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khoang thử nghiệm
+#sàn thử nghiệm
+@Lĩnh vực: vật lý
+#phòng lớn thử nghiệm

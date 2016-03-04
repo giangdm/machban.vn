@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều hợp giao diện nối tiếp
+#bộ thích ứng giao diện nối tiếp

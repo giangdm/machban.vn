@@ -1,0 +1,6 @@
+﻿@echo sounder
+#(Tech) máy dò bằng tiếng dội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy dò tiếng vang
+#máy hồi âm đo sâu

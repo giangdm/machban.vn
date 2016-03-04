@@ -1,0 +1,5 @@
+﻿@Keynes effect
+#(Econ) Hiệu ứng Keynes.
+: Một thay đổi của cầu đối với hàng hoá là kết quả của sự thay đổi trong mức giá chung.
+@Chuyên ngành kinh tế
+#hiệu ứng keynes

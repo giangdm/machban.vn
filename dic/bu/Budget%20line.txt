@@ -1,0 +1,7 @@
+﻿@Budget line
+#(Econ) Đường ngân sách
+: Một đường trong Không gian hàng hoá chỉ ra những tổ hợp mà người tiêu dùng có thể mua đựơc ở mức thu nhập nhất định.
+@Chuyên ngành kinh tế
+#đường biểu diễn ngân sách
+#đường khả năng tiêu thụ
+#đường ngân sách

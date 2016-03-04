@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đánh lửa
+#bugi
+#nến đánh lửa
+#nến điện
+@Lĩnh vực: ô tô
+#bu gi đánh lửa
+#nến đánh lửa (ở động cơ đốt trong)
+@Lĩnh vực: cơ khí & công trình
+#bugi (nến điện)

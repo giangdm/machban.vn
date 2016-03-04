@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#máy đo độ cứng Brinell's
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy đo độ cứng Brinell
+@Lĩnh vực: toán & tin
+#máy đo độ cứng Bronell

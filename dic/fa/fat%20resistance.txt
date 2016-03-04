@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#tính không thấm dầu mỡ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tính chịu dầu
+#tính chịu mỡ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tính chịu dầu
+#tính chịu mỡ

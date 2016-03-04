@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#khả năng làm lạnh
+#năng suất làm lạnh
+#năng suất lạnh
+#năng suất ướp lạnh
+@Lĩnh vực: điện
+#dung tích làm lạnh
+@Lĩnh vực: điện lạnh
+#năng suất làm mát

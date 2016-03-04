@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cái chỉ báo công suất
+@Lĩnh vực: cơ khí & công trình
+#cái chỉ công suất

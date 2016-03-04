@@ -1,0 +1,23 @@
+﻿@Cash flow
+#(Econ) Luồng tiền, ngân lưu, dòng kim lưu.
+: Tổng thu nhập giữ lại và khoản khấu hao còn lại của một hãng.
+@Chuyên ngành kinh tế
+#lượng lưu động tiền mặt
+#lượng thu tiền mặt
+#luồng tiền mặt
+#luồng tiền mặt thu vào
+#lưu lượng tiền mặt
+@Chuyên ngành kỹ thuật
+#lưu thông tiền mặt
+@Lĩnh vực: xây dựng
+#chu kỳ tiền mặt
+#vòng quay tiền mặt
+@Lĩnh vực: giao thông & vận tải
+#dòng tiền
+@Lĩnh vực: điện tử & viễn thông
+#dung sai suy giảm
+#ngưỡng suy giảm
+<!-- more -->
+@cash flow
+*danh từ
+#vòng quay tiền mặt, chu kỳ tiền mặt

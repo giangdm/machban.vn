@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều khiển bằng tay
+@Lĩnh vực: điện lạnh
+#điều chỉnh cơ
+@Lĩnh vực: toán & tin
+#điều khiển cơ giới
+@Lĩnh vực: xây dựng
+#sự kiểm tra cơ học

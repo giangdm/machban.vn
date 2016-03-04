@@ -1,0 +1,2 @@
+﻿@EIA RS-232 interface
+#(Tech) giao diện theo tiêu chuẩn RS-232 của EIA

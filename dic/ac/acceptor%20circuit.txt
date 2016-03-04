@@ -1,0 +1,6 @@
+﻿@acceptor circuit
+#(Tech) mạch cộng hưởng nối tiếp, mạch nhận
+@Chuyên ngành kỹ thuật
+#mạch nhận
+@Lĩnh vực: điện lạnh
+#mạch hấp thụ

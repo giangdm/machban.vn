@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn dây cuối
+@Lĩnh vực: điện lạnh
+#đầu dây quấn
+#phần đầu nối dây quấn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn dây cuối
+@Lĩnh vực: điện lạnh
+#đầu dây quấn
+#phần đầu nối dây quấn

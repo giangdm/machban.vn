@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tụ điện trữ năng lượng
+@Lĩnh vực: điện
+#tụ tích năng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tụ điện trữ năng lượng
+@Lĩnh vực: điện
+#tụ tích năng

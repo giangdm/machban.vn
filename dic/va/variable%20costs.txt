@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#biến phí
+#phí khả biến
+#phí tổn khả biến
+@Chuyên ngành kỹ thuật
+#giá biến đổi

@@ -1,0 +1,3 @@
+﻿@Company bargaining
+#(Econ) Đàm phán công ty.
+: ĐÀM PHÁN TẬP THỂ  giữa các đại diện của một công ty, có thể có một hoặc nhiều hơn các nhà máy trên khắp đất nước và những người đại diện cho công nhân viên chức, để đưa ra mức lương và điều kiện làm việc trong công ty. Xem PLANT BARGAINING.

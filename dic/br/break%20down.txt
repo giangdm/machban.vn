@@ -1,0 +1,30 @@
+﻿@Chuyên ngành kinh tế
+#hỏng hóc
+#hỏng hóc (về máy móc)
+#ngưng hoạt động
+#pan
+#phân ra
+#tách ra
+@Chuyên ngành kỹ thuật
+#bị phá hủy
+#bỏng
+#gián đoạn
+#hỏng
+#hư
+#làm sụp đổ
+#làm vỡ
+#ngừng
+#mất hiệu quả
+#phá hủy
+#sự phân tích
+#tháo dỡ
+#vỡ
+@Lĩnh vực: vật lý
+#bị đánh thủng
+@Lĩnh vực: cơ khí & công trình
+#bị hỏng (xe)
+@Lĩnh vực: xây dựng
+#bị phá hỏng
+@Lĩnh vực: điện
+#sự đánh thủng
+#sự gây hư hỏng

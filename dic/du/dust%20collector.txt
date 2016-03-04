@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lọc bụi
+#máy hút bụi
+@Lĩnh vực: điện
+#bộ thu bụi tro
+@Lĩnh vực: hóa học & vật liệu
+#máy góp bụi
+@Lĩnh vực: điện lạnh
+#ống tụ bụi
+@Lĩnh vực: cơ khí & công trình
+#thiết bị ngưng bụi

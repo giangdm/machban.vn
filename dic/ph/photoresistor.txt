@@ -1,0 +1,9 @@
+﻿@photoresistor
+*danh từ
+#(kỹ thuật) cái điện trở quang
+@Chuyên ngành kỹ thuật
+#quang điện trở
+@Lĩnh vực: vật lý
+#cái quang điện trở
+@Lĩnh vực: điện
+#điện trở quang

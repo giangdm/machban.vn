@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#khối lọc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bột giấy lọc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bột giấy lọc

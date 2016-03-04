@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bánh mài
+#đá mài
+#đĩa mài
+@Lĩnh vực: ô tô
+#đĩa đá mài
+@Lĩnh vực: xây dựng
+#đĩa rà

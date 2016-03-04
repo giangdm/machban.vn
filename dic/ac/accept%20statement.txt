@@ -1,0 +1,2 @@
+﻿@accept statement
+#(Tech) câu lệnh nhận

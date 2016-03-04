@@ -1,0 +1,58 @@
+﻿@Performance
+#(Econ) Thành quả.
+<!-- more -->
+@performance /pə'fɔ:məns/
+*danh từ
+#sự làm; sự thực hiện; sự thi hành (lệnh...); sự cử hành (lễ...); sự hoàn thành (nhiệm vụ)
+=the performance of a promise: sự thực hiện lời hứa
+=the performance of one's duties: sự hoàn thành nhiệm vụ
+#việc diễn, việc đóng (phim, kịch...); cuộc biểu diễn
+=evening performance: buổi biểu diễn ban tối
+#kỳ công
+#(thể dục,thể thao) thành tích
+#(kỹ thuật) hiệu suất (máy)
+#(kỹ thuật) đặc tính
+#(hàng không) đặc điểm bay (tầm xa, độ cao, tốc độ, trọng tải...)
+@Chuyên ngành kinh tế
+#biểu hiện
+#đặc điểm
+#hiệu năng
+#hiệu suất (của thiết bị)
+#hiệu suất khai thác
+#sự thực hiện
+#thành quả
+#thành tích
+#thi hành (hợp đồng)
+#tính năng (của máy móc)
+#tình trạng công tác
+#tình trạng tiêu thụ (hàng hóa)
+@Chuyên ngành kỹ thuật
+#biểu diễn
+#chất lượng
+#đặc tính
+#đặc trưng
+#đường đặc tính
+#hiệu năng
+#hiệu quả
+#hiệu suất
+#năng suất
+#năng suất vận hành
+#sự thi hành
+#sự thực hiện
+#sự vận hành
+@Lĩnh vực: điện tử & viễn thông
+#công năng
+@Lĩnh vực: điện
+#đặc tính hoạt động
+#thành tựu
+#tính năng kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#đặc tính máy
+@Lĩnh vực: điện lạnh
+#sự thực hiên
+@Lĩnh vực: ô tô
+#tính năng xe
+<!-- more -->
+@performance
+#sự thực hiện
+#automatic p. sự thực hiện tự động

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#buồng quạt gió
+@Lĩnh vực: điện lạnh
+#buồng thổi gió

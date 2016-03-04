@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#cáp đồng tâm
+#cáp đồng trục
+#đường dây đồng tâm
+#đường dây đồng trục
+#đường trục
+#đường truyền đồng tâm
+#đường truyền đồng trục
+@Lĩnh vực: xây dựng
+#đường đồng tâm
+@Lĩnh vực: toán & tin
+#đường đồng trục

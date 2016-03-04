@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất động
+@Lĩnh vực: xây dựng
+#cột áp do vận tốc
+@Lĩnh vực: cơ khí & công trình
+#cột nước vận tốc
+@Lĩnh vực: toán & tin
+#đầu tốc độ

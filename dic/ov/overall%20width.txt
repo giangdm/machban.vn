@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chiều rộng tổng cộng
+@Lĩnh vực: xây dựng
+#chiều rộng tổng thể
+@Lĩnh vực: cơ khí & công trình
+#độ rộng tổng cộng

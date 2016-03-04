@@ -1,0 +1,2 @@
+﻿@casting out
+#phương pháp thử tính (nhân hay cộng)

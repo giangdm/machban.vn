@@ -1,0 +1,5 @@
+﻿@dielectric coefficient
+#(Tech) hệ số điện môi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hệ số điện môi

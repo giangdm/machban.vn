@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất ép thẳng
+#ứng suất phá hoại (vỡ)
+#ứng suất phá hủy

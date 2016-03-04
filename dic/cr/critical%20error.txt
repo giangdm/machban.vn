@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi nặng
+#lỗi tới hạn
+@Lĩnh vực: điện
+#sai số cực trị
+#sai số tới hạn

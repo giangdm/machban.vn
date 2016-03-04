@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#riêng lẻ
+@Lĩnh vực: đo lường & điều khiển
+#điểm tạo dao động liên tục không mong muốn

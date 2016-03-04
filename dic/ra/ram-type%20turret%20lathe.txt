@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng Rand
+@Lĩnh vực: toán & tin
+#bảng đồ họa

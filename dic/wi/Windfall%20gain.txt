@@ -1,0 +1,6 @@
+﻿@Windfall gain
+#(Econ) Thu nhập bất thường.
+: Một khoản thu nhập thêm không lường trước được.
+@Chuyên ngành kinh tế
+#lãi bất ngờ
+#tiền kiếm được bất ngờ

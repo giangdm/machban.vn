@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mô tơ kiểu lồng sóc
+@Lĩnh vực: điện
+#động cơ lồng sóc

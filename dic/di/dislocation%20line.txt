@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đường biến vị
+@Lĩnh vực: điện lạnh
+#mật độ lệch mạng

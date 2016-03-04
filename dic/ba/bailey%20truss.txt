@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giàn hoa ba khớp
+#giàn rỗng ba khớp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giàn Bailey

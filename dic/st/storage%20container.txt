@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#container bảo quản
+#container chứa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#côngtenơ bảo quản

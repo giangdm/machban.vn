@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hiệu suất
+@Chuyên ngành kỹ thuật
+#hệ số khai thác
+#hệ số sử dụng
+@Lĩnh vực: điện
+#hệ số thực hiện

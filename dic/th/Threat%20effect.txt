@@ -1,0 +1,5 @@
+﻿@Threat effect
+#(Econ) Tác động đe doạ.
+: Tác động mà giới chủ phi nghiệp đoàn trả tiền công nghiệp đoàn, hay xấp sỉ như vậy, hìng ngăn chặn việc thành lập nghiệp đoàn của nhân viên mình.
+@Chuyên ngành kinh tế
+#tác động đe dọa

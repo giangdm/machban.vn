@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sổ hóa đơn
+#sổ nhật ký (kế toán)
+#sổ tạp ký

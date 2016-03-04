@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#phép thử khả năng thấm
+@Lĩnh vực: hóa học & vật liệu
+#phép thử độ xuyên thấu
+#phép xác định độ quánh
+@Lĩnh vực: toán & tin
+#sự thí nghiệm xuyên
+@Lĩnh vực: xây dựng
+#thí nghiệm độ xuyên (để đo độ cứng)

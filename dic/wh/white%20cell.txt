@@ -1,0 +1,2 @@
+﻿@white cell ['waitsel]
+#Xem white corpuscle

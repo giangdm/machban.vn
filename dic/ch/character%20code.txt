@@ -1,0 +1,8 @@
+﻿@character code
+#(Tech) mã ký tự
+@Chuyên ngành kinh tế
+#mã chữ cái
+@Chuyên ngành kỹ thuật
+#mã ký tự
+@Lĩnh vực: toán & tin
+#mã kí tự

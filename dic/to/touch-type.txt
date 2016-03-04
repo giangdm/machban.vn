@@ -1,0 +1,3 @@
+﻿@touch-type
+*động từ
+#đánh máy không cần nhìn vào bàn phím

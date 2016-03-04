@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ăng ten tuyến tính đối xứng
+#dây trời tuyến tính đối xứng

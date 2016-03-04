@@ -1,0 +1,3 @@
+﻿@protogen
+*danh từ
+#gen tương ứng trội

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập xác định của một quan hệ

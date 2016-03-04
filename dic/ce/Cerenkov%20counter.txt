@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đếm Cherenkov
+#ống đếm Cherenkov
+@Lĩnh vực: điện lạnh
+#bộ đếm Cerenkov
+#máy đếm Cerenkov
+@Lĩnh vực: vật lý
+#ống đếm Cerenkov

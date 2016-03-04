@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy đúc ống
+#máy ghép ống
+#máy quấn ống

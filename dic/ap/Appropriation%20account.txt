@@ -1,0 +1,7 @@
+﻿@Appropriation account
+#(Econ) Tài khoản phân phối lãi.
+: Các doanh nghiệp duy trì các tài khoản này cho thấy lợi nhuận sau khi trả thuế được phân phối hay sử dụng như thế nào. (Xem ALLOWANCES AND EXPENSES CORPORATION TAX, ALLOWANCES AND EXPENSES INCOME TAX, TAXABLE INCOME.
+@Chuyên ngành kinh tế
+#tài khoản phân bố
+#tài khoản phân bổ, quyết toán phân phối (lỗ, lãi)
+#tài khoản phân phối lãi

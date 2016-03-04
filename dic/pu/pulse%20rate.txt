@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#số lần mạch đập, nhịp mạch
+@Lĩnh vực: điện tử & viễn thông
+#tần số xung
+#tốc độ xung

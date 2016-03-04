@@ -1,0 +1,3 @@
+﻿@octostyle
+*danh từ
+#xem octastyle

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#động lực kế kiểu không
+@Lĩnh vực: đo lường & điều khiển
+#lực kế kiểu chỉ không

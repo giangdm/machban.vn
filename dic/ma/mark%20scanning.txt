@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#sự cảm biến dấu hiệu
+#sự đọc dấu hiệu
+#sự quét dấu hiệu
+@Lĩnh vực: toán & tin
+#đọc từng điểm quang học
+#quét điểm
+#quét ký hiệu đánh dấu
+#sự đọc quét dấu hiệu
+#sự quét nhãn
+@Lĩnh vực: điện tử & viễn thông
+#quét dấu hiệu

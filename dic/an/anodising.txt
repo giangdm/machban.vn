@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#anôt hóa
+#sự dương hóa
+#sự xử lý anot
+@Lĩnh vực: điện
+#sự tạo anôt

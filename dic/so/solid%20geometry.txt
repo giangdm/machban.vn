@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hình học không gian
+@Lĩnh vực: toán & tin
+#hình học lập thể
+#hình học nổi
+@Lĩnh vực: hóa học & vật liệu
+#hình học tập thể

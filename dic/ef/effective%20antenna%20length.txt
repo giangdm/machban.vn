@@ -1,0 +1,7 @@
+﻿@effective antenna length
+#(Tech) độ dài hữu hiệu của ăngten
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ dài ăng ten hiệu dụng
+@Lĩnh vực: toán & tin
+#độ dài hiệu dụng của ăng ten

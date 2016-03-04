@@ -1,0 +1,6 @@
+﻿@diagonal matrix
+#(Tech) ma trận chéo
+@Chuyên ngành kỹ thuật
+#ma trận đường chéo
+@Lĩnh vực: toán & tin
+#ma trận chéo

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tổn hao biến đổi
+@Lĩnh vực: vật lý
+#tổn hao bộ chuyển đổi

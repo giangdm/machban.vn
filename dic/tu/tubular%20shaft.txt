@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#trục rỗng
+@Lĩnh vực: hóa học & vật liệu
+#trục hình ống
+@Lĩnh vực: cơ khí & công trình
+#trục ống

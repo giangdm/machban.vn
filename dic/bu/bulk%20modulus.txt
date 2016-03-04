@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#môđun đàn hồi khối
+#môđun nén
+#suất nén
+@Lĩnh vực: cơ khí & công trình
+#môđun (đàn hồi) khối
+@Lĩnh vực: xây dựng
+#môđun biến dạng thể tích
+#môđun biến đổi thể tích
+@Lĩnh vực: vật lý
+#môđun đàn hòi
+@Lĩnh vực: toán & tin
+#môđun rời

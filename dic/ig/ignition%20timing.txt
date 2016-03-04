@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều chỉnh đánh lửa
+#sự định thời đánh lửa
+@Lĩnh vực: ô tô
+#cân lửa
+@Lĩnh vực: điện lạnh
+#định thời mồi
+@Lĩnh vực: cơ khí & công trình
+#sự chỉnh lửa

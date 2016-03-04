@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tiền tố ab (để nhận dạng độ điện từ hệ CGS)

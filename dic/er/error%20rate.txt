@@ -1,0 +1,31 @@
+﻿@error rate
+#(Tech) độ sai lầm
+@Chuyên ngành kinh tế
+#tỉ lệ sai sót
+#tỷ lệ sai sót
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ số lỗi
+#tần số lỗi
+#tỉ lệ lỗi
+#tỉ suất lỗi
+#tỷ lệ lỗi
+@Lĩnh vực: điện tử & viễn thông
+#suất lỗi
+#suất sai hỏng
+#tỷ lệ sai hỏng
+@Lĩnh vực: điện lạnh
+#tỷ số lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ số lỗi
+#tần số lỗi
+#tỉ lệ lỗi
+#tỉ suất lỗi
+#tỷ lệ lỗi
+@Lĩnh vực: điện tử & viễn thông
+#suất lỗi
+#suất sai hỏng
+#tỷ lệ sai hỏng
+@Lĩnh vực: điện lạnh
+#tỷ số lỗi

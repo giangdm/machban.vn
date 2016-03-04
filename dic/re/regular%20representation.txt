@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu diễn chính qui
+@Lĩnh vực: điện lạnh
+#biểu diễn chính quy

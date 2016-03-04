@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lưới quạt gió
+@Lĩnh vực: điện lạnh
+#ghi quạt gió

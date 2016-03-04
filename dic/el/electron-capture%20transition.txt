@@ -1,0 +1,2 @@
+﻿@electron-capture transition
+#(Tech) sự chuyển tiếp thu nạp điện tử

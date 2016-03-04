@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+#đường chuyển hóa ngược
+#đường khử
+#đường nghịch chuyển

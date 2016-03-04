@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#khe hở chiều trục
+#khe hở dọc bạc lót
+#khe hở hướng trục
+#khoảng chạy chết chiều trục
+#lượng hở dọc trục
+@Chuyên ngành kỹ thuật
+#khe hở chiều trục
+#khe hở dọc bạc lót
+#khe hở hướng trục
+#khoảng chạy chết chiều trục
+#lượng hở dọc trục

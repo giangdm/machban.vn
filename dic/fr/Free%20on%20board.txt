@@ -1,0 +1,12 @@
+﻿@Free on board
+#(Econ) Giao hàng tại bến.
+: Xem FOB.
+<!-- more -->
+@free on board /'fri:ɔn'bɔ:d/
+*phó từ
+#giao hàng tận bến ((viết tắt) f.o.b,  F.O.B)
+@Chuyên ngành kinh tế
+#giao lên tàu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#giao tại tàu

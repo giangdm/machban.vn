@@ -1,0 +1,2 @@
+﻿@computer capacity
+#(Tech) năng lực máy điện toán, phạm vi tính toán

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tài sản thuần
+#tài sản thực
+#tài sản tịnh

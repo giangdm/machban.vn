@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#môi trường được sưởi
+@Lĩnh vực: xây dựng
+#môi trường mang nhiệt
+@Lĩnh vực: cơ khí & công trình
+#môi trường nhiệt
+#vật mang nhiệt
+@Lĩnh vực: điện lạnh
+#môi trường sưởi ấm

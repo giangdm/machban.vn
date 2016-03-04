@@ -1,0 +1,3 @@
+﻿@run-around
+*danh từ
+#lảng tránh

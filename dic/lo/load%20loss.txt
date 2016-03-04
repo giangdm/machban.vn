@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự cắt mạch do tải
+#sự mất điện do tải
+#tổn thất mang tải
+@Lĩnh vực: điện lạnh
+#tổn hao do (phụ) tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự cắt mạch do tải
+#sự mất điện do tải
+#tổn thất mang tải
+@Lĩnh vực: điện lạnh
+#tổn hao do (phụ) tải

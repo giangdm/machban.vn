@@ -1,0 +1,9 @@
+﻿@public limited company
+*danh từ
+#<vt>  PLC, plc công ty cổ phần hữu hạn
+@Chuyên ngành kinh tế
+#công ty hữu hạn cổ phần công khai
+#công ty vô danh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#công ty cổ phần hữu hạn

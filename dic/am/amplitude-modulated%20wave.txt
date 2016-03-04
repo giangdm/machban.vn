@@ -1,0 +1,2 @@
+﻿@amplitude-modulated wave
+#(Tech) sóng biến điệu biên (độ)

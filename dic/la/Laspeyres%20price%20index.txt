@@ -1,0 +1,3 @@
+﻿@Laspeyres price index
+#(Econ) Chỉ số giá Laspeyres.
+: Một chỉ số bình quân gia quyền so với năm gốc.

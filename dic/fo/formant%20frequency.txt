@@ -1,0 +1,2 @@
+﻿@formant frequency
+#(Tech) tần số đỉnh cộng hưởng

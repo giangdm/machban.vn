@@ -1,0 +1,3 @@
+﻿@Detrending
+#(Econ) Khử khuynh hướng; Giảm khuynh hướng.
+: Quá trình mà một khuynh hướng về thời gian được loại bỏ khỏi số liệu, thường bằng việc trước tiên ước tính một khuynh hướng theo thời gian và tính toán các số dư. Xem FILTER.

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy kết đông lỏng
+#máy lạnh (chu trình) nén (không) khí
+#máy lạnh ejectơ
+#máy lạnh kiểu phun
+@Lĩnh vực: điện lạnh
+#hệ thống lạnh ejectơ

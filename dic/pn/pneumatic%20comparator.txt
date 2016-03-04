@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ so sánh khí nén
+@Lĩnh vực: cơ khí & công trình
+#thiết bị so (kiểu) khí nén

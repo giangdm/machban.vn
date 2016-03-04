@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#điên tích riêng
+@Lĩnh vực: điện lạnh
+#tỷ số điện tích-khối lượng

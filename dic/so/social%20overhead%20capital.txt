@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#vốn gián tiếp xã hội (cơ sở hạ tầng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vốn phụ phí xã hội

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#âm ly đã cách điện
+#bộ khuếch đại cách ly
+#bộ khuếch đại cô lập

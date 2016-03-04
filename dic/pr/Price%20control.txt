@@ -1,0 +1,11 @@
+﻿@Price control
+#(Econ) Kiểm soát giá.
+: Nói chung thường liên quan tới việc quy định giá cả bằng luật pháp của nhà nước.
+@Chuyên ngành kinh tế
+#khống chế giá cả
+#kiểm soát giá cả
+#sự kiểm soát giá cả
+<!-- more -->
+@price control
+*danh từ
+#kiểm soát giá cả

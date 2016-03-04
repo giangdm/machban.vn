@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đa công
+#bộ tập trung đường dây
+@Lĩnh vực: điện
+#bộ tập chung đường truyền
+#bộ tập trung từ xa
+@Lĩnh vực: toán & tin
+#bộ trộn kênh
+@Chuyên ngành kỹ thuật
+#bộ đa công
+#bộ tập trung đường dây
+@Lĩnh vực: điện
+#bộ tập chung đường truyền
+#bộ tập trung từ xa
+@Lĩnh vực: toán & tin
+#bộ trộn kênh

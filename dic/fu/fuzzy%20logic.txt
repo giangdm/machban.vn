@@ -1,0 +1,5 @@
+﻿@fuzzy logic
+#(Tech) lôgic mờ, luận lý mờ [Toán]
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lôgic mờ

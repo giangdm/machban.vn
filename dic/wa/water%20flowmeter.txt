@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ công tơ nước
+@Lĩnh vực: đo lường & điều khiển
+#lưu lượng kế (đo) nước

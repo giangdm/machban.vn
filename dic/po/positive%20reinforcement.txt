@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cốt thép chịu mômen dương
+@Lĩnh vực: xây dựng
+#cốt thép dương (cốt thép chịu mômen dương)

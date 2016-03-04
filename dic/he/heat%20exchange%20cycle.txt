@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sơ đồ trao đổi nhiệt
+@Lĩnh vực: điện lạnh
+#chu trình [quá trình
+#chu trình trao đổi nhiệt
+@Lĩnh vực: vật lý
+#quá trình trao đổi nhiệt

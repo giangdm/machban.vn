@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dùng để chỉ bất kỳ một vật trang trí nào phía dưới một bộ phận nhô ra
+#một vật ở ngay phía trên trụ ngạch và phía dưới trần

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#công ty cấp vốn
+#công ty nhận trả (chiết khấu các phiếu khoán nhận được)

@@ -1,0 +1,2 @@
+﻿@additive primary color
+#(Tech) màu cơ bản cộng thêm

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#trọng tải đăng ký tịnh (tàu chở hàng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#trọng tải đăng ký tịnh

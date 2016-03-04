@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#biến trở
+#điện trở biến đổi
+#điện trở điều chỉnh được
+@Lĩnh vực: điện
+#thiết bị chiết áp

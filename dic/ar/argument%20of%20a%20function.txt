@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lý lẽ của một chức năng
+@Lĩnh vực: toán & tin
+#aguimen của một hàm số

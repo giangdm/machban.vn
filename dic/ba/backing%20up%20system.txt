@@ -1,0 +1,2 @@
+﻿@backing up system
+#(Tech) hệ thống sao trữ dự phòng

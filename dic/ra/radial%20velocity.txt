@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#vận tốc theo tia
+#vận tốc xuyên tâm

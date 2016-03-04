@@ -1,0 +1,5 @@
+﻿@graphic character
+#(Tech) ký tự đồ họa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký tự đồ họa

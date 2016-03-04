@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#độ hỗ cảm
+#hệ số hỗ cảm
+#hệ số tự cảm
+#hỗ cảm
+#sự hỗ cảm
+@Lĩnh vực: ô tô
+#cảm ứng tương hỗ
+@Lĩnh vực: điện
+#điện cảm tương hỗ

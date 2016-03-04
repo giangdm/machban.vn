@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ chỉ đọc
+@Lĩnh vực: toán & tin
+#bộ lưu trữ chỉ đọc

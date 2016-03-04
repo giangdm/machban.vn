@@ -1,0 +1,6 @@
+﻿@display attribute
+#(Tech) thuộc tính hiển thị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thuộc tính hiển thị
+#thuộc tính màn hình

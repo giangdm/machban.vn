@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tụ (điện) không khí
+@Lĩnh vực: điện
+#tụ không khí

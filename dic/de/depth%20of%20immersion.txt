@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#chiều sâu ngập
+@Lĩnh vực: xây dựng
+#chiều sâu nhúm chìm
+#độ mớn nước
+@Lĩnh vực: điện lạnh
+#chiều sâu nhúng chìm
+@Lĩnh vực: giao thông & vận tải
+#độ sâu chìm
+#độ sâu nhấn chìm

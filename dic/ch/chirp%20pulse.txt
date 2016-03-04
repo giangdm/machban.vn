@@ -1,0 +1,2 @@
+﻿@chirp pulse
+#(Tech) xung biến điệu tần số tuyến tính

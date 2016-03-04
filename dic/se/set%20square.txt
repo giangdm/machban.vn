@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bản tam giác
+@Lĩnh vực: xây dựng
+#ê ke vẽ
+@Lĩnh vực: toán & tin
+#thước vuông, ê-ke

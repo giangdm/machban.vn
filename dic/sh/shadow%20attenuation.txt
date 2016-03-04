@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#suy giảm do vùng bóng (của sóng vô tuyến)

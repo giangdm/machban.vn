@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#không khí tiêu thụ
+@Lĩnh vực: điện lạnh
+#tổng lượng không khí

@@ -1,0 +1,13 @@
+﻿@activity ratio
+#(Tech) tỉ số hoạt động
+@Chuyên ngành kinh tế
+#tỷ số hoạt động
+@Chuyên ngành kỹ thuật
+#hệ số hoạt động
+@Lĩnh vực: điện lạnh
+#suất hoạt động
+@Lĩnh vực: toán & tin
+#tỉ lệ hoạt động
+#tỉ lệ sử dụng
+#tỉ số hoạt động
+#tỷ lệ hoạt động

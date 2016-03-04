@@ -1,0 +1,3 @@
+﻿@Reserve assets ratio
+#(Econ) Tỷ lệ tài sản dự trữ.
+: Là tỷ lệ tối thiểu mà tất cả các ngân hàng và các CÔNG TY TÀI CHÍNH có quy mô lớn hơn hoạt động tại Anh trong thời gian từ 1971 đến 1981 phải duy trì giữa các tài sản được xác định là hợp lệ và các khoản nợ được xác định bằng cách tương tự là hợp lệ.

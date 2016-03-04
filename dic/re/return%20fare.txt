@@ -1,0 +1,6 @@
+﻿@return fare
+*danh từ
+#vé khứ hồi
+@Chuyên ngành kinh tế
+#giá vé khứ hồi
+#tiền vé khứ hồi

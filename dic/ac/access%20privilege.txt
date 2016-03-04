@@ -1,0 +1,2 @@
+﻿@access privilege
+#(Tech) đặc quyền truy cập [NB]

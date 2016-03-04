@@ -1,0 +1,5 @@
+﻿@morphing
+#Một kỹ xảo hoạt hình bằng máy tính để vẽ xen các hình động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kỹ xảo morphing

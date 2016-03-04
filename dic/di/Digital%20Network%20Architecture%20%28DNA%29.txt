@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cấu trúc mạng số
+@Lĩnh vực: toán & tin
+#kiến trúc mạng số

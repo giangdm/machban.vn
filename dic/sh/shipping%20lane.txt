@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#đường biển
+#hành lang hàng hải
+@Chuyên ngành kỹ thuật
+#tuyến đường biển
+@Lĩnh vực: giao thông & vận tải
+#đường hàng hải thương mại

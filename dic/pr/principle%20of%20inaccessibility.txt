@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#nguyên lý Caratheodory
+#nguyên lý không tiếp cận được

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dây cáp nhiều tao
+#dây thừng nhiều tao

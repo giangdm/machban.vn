@@ -1,0 +1,11 @@
+﻿@data item
+#(Tech) mục dữ liệu
+@Chuyên ngành kỹ thuật
+#mục dữ liệu
+#phần tử dữ liệu
+#trường dữ liệu
+@Lĩnh vực: toán & tin
+#đơn vị dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#linh kiện dữ liệu
+#sự thông tin

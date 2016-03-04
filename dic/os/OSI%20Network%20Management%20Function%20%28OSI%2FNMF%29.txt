@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Chức năng quản lý mạng của OSI

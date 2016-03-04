@@ -1,0 +1,2 @@
+﻿@graphical icon
+#(Tech) hình tượng đồ họa

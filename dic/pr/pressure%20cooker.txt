@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#nồi nấu áp lực
+#nồi thanh trùng
+@Chuyên ngành kỹ thuật
+#nồi áp suất
+#nồi hấp
+#nồi thanh trùng
+@Lĩnh vực: hóa học & vật liệu
+#nồi (chịu) áp suất

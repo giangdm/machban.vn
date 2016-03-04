@@ -1,0 +1,2 @@
+﻿@epitaxial resistor
+#(Tech) cái điện trở kéo lớp mặt ngoài

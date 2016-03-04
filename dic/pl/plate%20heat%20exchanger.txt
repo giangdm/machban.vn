@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ trao dổi nhiệt dạng tấm
+#thiết bị hồi nhiệt dạng tấm

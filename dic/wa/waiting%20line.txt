@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn kiểm tra
+#hàng chờ
+#hàng đợi
+@Lĩnh vực: toán & tin
+#tuyến báo trước

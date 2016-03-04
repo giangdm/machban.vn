@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ chuyển mạch n ngả
+#công tắc n ngả

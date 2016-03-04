@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#VA (đơn vị công suất biểu kiến)
+@Lĩnh vực: điện
+#volt-ampere
+#von-ampe

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#biểu diễn số
+@Lĩnh vực: điện lạnh
+#hệ (thống) đếm
+@Lĩnh vực: toán & tin
+#sự biểu diễn số

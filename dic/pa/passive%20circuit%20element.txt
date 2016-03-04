@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phần tử mạch thụ động
+@Lĩnh vực: điện
+#phần tử mạch thụ động (vô công)

@@ -1,0 +1,2 @@
+﻿@Cumulative probality
+#(Econ) Xác suất tích luỹ.

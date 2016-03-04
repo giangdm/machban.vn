@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kết thúc khối truyền (ETB)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kết thúc khối phát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kết thúc khối truyền (ETB)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kết thúc khối phát

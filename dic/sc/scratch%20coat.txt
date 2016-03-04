@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp phun
+#lớp trát nền
+#lớp vẩy
+@Lĩnh vực: xây dựng
+#lớp trát khía
+#lớp trát làm nhám

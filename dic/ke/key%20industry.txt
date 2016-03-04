@@ -1,0 +1,21 @@
+﻿@Chuyên ngành kinh tế
+#công nghiệp cơ bản
+#công nghiệp then chốt
+#ngành công nghiệp non trẻ
+#ngành công nghiệp then chốt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#công nghiệp căn bản
+@Lĩnh vực: xây dựng
+#công nghiệp chính yếu
+#kỹ nghệ căn bản
+@Lĩnh vực: cơ khí & công trình
+#ngành công nghiệp chính yếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#công nghiệp căn bản
+@Lĩnh vực: xây dựng
+#công nghiệp chính yếu
+#kỹ nghệ căn bản
+@Lĩnh vực: cơ khí & công trình
+#ngành công nghiệp chính yếu

@@ -1,0 +1,2 @@
+﻿@damping circuit
+#(Tech) mạch suy giảm

@@ -1,0 +1,2 @@
+﻿@blocksize
+#(Tech) cỡ khối; cỡ khối kiện

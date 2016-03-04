@@ -1,0 +1,2 @@
+﻿@buzzer signal
+#(Tech) tín hiệu rè rè

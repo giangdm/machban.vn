@@ -1,0 +1,40 @@
+﻿@imaginary c. at infinity
+#vòng ảo ở vô tận
+#c. of convergence hình tròn hội tụ
+#c. of curvature đường trong chính khúc
+#c. of declination vòng lệch
+#c. of influence vòng ảnh hưởng
+#c. of inversion vòng tròn nghịch đảo
+#c. of permutation chu trình hoán vị
+#asymptotic c. đường tròn tiẹm cận
+#circumscribed c. vòng tròn ngoại tiếp
+#coaxial c.s vòng tròn đồng trục
+#concentric c.s vòng tròn đồng tâm
+#critical c. vòng tròn tới hạn
+#director c. đường tròn chi phương
+#eccentric c.s of an ellipse vòng tâm sai của elip
+#escribed c. (of a triangle) vòng tròn bàng tiếp (của một tam giác)
+#externally tangent c.s các vòng tròn tiếp xúc ngoài
+#focal c. vòng tròn tiêu
+#generating c. đường tròn sinh
+#great c. vòng tròn lớn (của hình cầu)
+#horizontal c. vòng chân trời
+#imaginary c. vòng ảo
+#impedance c. vòng tổng trở
+#inscribed c. (of a triangle) vòng tròn nội tiếp (một tam giác)
+#limit c. đường giới hạn (trong hình học Lôbatrepxki)
+#nine-point c. vòng tròn chín điểm (của một tam giác)
+#non-degenerate c. vòng tròn không suy biến
+#null c. vòng điểm
+#oriented c. vòng tròn định hướng
+#orthogonal c.s vòng tròn trực giao
+#osculating c. vòng tròn mật tiếp
+#parallel c. (hình học) đường tròn vĩ tuyến
+#proper c. vòng tròn [thông thường, thật sự]
+#radical c. vòng tròn đẳng phương
+#small c. vòng tròn bé (của hình cầu)
+#simple c. vòng tròn đơn
+#tangent c.s các vòng tròn tiếp xúc
+#transit c. (thiên văn) vòng kinh tuyến
+#vertical c. (hình học) vòng kinh tuyến
+#virtual c. chu trình ảo, vòng tròn ảo

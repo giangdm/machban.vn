@@ -1,0 +1,6 @@
+﻿@Recognition lag
+#(Econ) Trễ trong nhận thức.
+: Lag khoảng thời gian kể từ từ khi một yếu tố có khả năng gây bất ổn xảy ra cho đến khi nó được các nhà hoạch định chính sách nhận định là có khả năng gây bất ổn.
+@Chuyên ngành kinh tế
+#độ trễ thừa nhận
+#sự chậm thừa nhận

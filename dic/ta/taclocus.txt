@@ -1,0 +1,2 @@
+﻿@taclocus
+#(hình học) quỹ tích các tiếp điểm (của các đường thuộc một họ nào đó)

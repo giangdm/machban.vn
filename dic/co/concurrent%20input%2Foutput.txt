@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vào/ra đồng thời
+#xuất nhập tương tranh

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#đường bao cấu trúc
+@Lĩnh vực: xây dựng
+#đường biên cấu tạo

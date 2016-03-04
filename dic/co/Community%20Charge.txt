@@ -1,0 +1,3 @@
+﻿@Community Charge
+#(Econ) Thuế cộng đồng.
+: Một loại thuế áp dụng ở Anh cuối thập kỷ 80 thay thế cho các loại thuế khác.

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hàm chính qui từng mảng
+@Lĩnh vực: toán & tin
+#hàm chính quy từng mảnh

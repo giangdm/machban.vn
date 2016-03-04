@@ -1,0 +1,9 @@
+﻿@breakpoint
+#(Tech) điểm cắt, điểm dừng, điểm gián đoạn
+@Chuyên ngành kỹ thuật
+#điểm chuyển tiếp
+#điểm dừng
+#điểm gãy
+#điểm ngắt
+@Lĩnh vực: xây dựng
+#chỗ thủng

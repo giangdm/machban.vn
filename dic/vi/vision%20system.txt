@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống nhìn
+@Lĩnh vực: toán & tin
+#hệ thống thị giác (trong người máy)

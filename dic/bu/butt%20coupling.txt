@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp kiểu măng sông
+#khớp nối đối tiếp
+#khớp ống
+#khớp trục
+#khớp trục kiểu ống

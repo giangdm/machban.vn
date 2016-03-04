@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#thông lượng qua một phần tử mạch

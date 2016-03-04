@@ -1,0 +1,11 @@
+﻿@black-out /'blækaut/
+*danh từ
+#sự tắt đèn, sự kín ánh đèn; thời gian tối hoàn toàn (ở sân khấu, lúc phòng không)
+#sự thoáng ngất đi, sự thoáng mất trí nhớ; sự thoáng hoa mắt (phi công)
+#sự mất điện
+#(từ Mỹ,nghĩa Mỹ) sự che giấu đi, sự ỉm đi
+*tính từ
+#(từ Mỹ,nghĩa Mỹ) che giấu đi, ỉm đi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hủy bỏ ngược

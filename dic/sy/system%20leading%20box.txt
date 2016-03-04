@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tủ chứa các đầu dây (điện thoại, điện báo)

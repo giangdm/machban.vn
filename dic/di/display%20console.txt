@@ -1,0 +1,2 @@
+﻿@display console
+#(Tech) bàn điều khiển hiển thị

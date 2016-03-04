@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sai số trung bình
+@Lĩnh vực: y học
+#độ sai trung bình
+@Lĩnh vực: điện tử & viễn thông
+#sai số bình quân

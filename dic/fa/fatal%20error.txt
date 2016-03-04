@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi định mệnh
+#lỗi không thể tráng
+#lỗi nặng
+#lỗi nghiêm trọng
+@Chuyên ngành kỹ thuật
+#lỗi định mệnh
+#lỗi không thể tráng
+#lỗi nặng
+#lỗi nghiêm trọng

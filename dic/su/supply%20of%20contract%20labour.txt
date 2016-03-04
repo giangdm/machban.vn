@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#sự cung cấp lao động theo hợp đồng
+#sự cung cấp lao đông theo hợp đồng (sự nhận làm khoán)

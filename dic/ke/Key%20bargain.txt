@@ -1,0 +1,3 @@
+﻿@Key bargain
+#(Econ) Thương lượng chủ chốt.
+: Một hình thức chỉ đạo tiền lương cụ thể mà trong đó một khoản thanh toán tiền lương được dùng làm tham chiếu cho toàn bộ những khoản lương phải trả sau đó.

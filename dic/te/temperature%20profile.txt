@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biên dạng nhiệt độ
+#biến dạng nhiệt độ
+#profin nhiệt độ
+@Lĩnh vực: vật lý
+#profil nhiệt độ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự chuyển động tuần hoàn không khí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sơ đồ mạng ống gió

@@ -1,0 +1,2 @@
+﻿@alphanumeric position
+#(Tech) vị trí chữ-số

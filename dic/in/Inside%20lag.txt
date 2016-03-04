@@ -1,0 +1,9 @@
+﻿@Inside lag
+#(Econ) Độ trễ bên trong.
+: Sự chậm trễ giữa việc nhận thức ra nhu cầu phải có hành động chính sách và sự thực hiện chính sách.
+@Chuyên ngành kinh tế
+#bên trong
+#độ trễ
+#độ trễ trong
+#sự chậm trễ
+#sự chậm trễ trong

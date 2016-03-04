@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cánh trên
+#đai trên
+@Lĩnh vực: toán & tin
+#đai trên, cánh trên

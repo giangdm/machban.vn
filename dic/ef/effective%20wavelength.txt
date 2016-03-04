@@ -1,0 +1,6 @@
+﻿@effective wavelength
+#(Tech) độ dài sóng hữu hiệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bước sóng hiệu dụng
+#độ dài sóng hiệu dụng

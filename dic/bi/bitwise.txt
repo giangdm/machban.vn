@@ -1,0 +1,5 @@
+﻿@bitwise
+#(Tech) phân theo bit
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tôn bit

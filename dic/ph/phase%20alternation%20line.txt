@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ màu pal
+#hệ truyền hình màu xoay pha

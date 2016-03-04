@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đetectơ hạt
+#máy dò hạt
+#máy phát hiện hạt

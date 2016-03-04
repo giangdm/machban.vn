@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hợp số
+#hợp tử
+#số đa hợp
+@Lĩnh vực: toán & tin
+#tạp số

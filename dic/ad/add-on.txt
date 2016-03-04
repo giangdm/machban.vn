@@ -1,0 +1,14 @@
+﻿@add-on
+#(Tech) thiết bị thêm vào, phụ kiện, phụ tùng tăng cường; thêm vào, tăng năng
+@Chuyên ngành kỹ thuật
+#bổ sung
+#chương trình phụ trợ
+#phần bổ sung
+#sự bổ sung
+#thiết bị bổ sung
+#thiết bị phụ trợ
+@Lĩnh vực: toán & tin
+#chương trình bổ sung
+#phần mở rộng
+#phần phụ trợ
+#phần tăng cường

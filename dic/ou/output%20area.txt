@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng dữ liệu
+@Lĩnh vực: toán & tin
+#vùng ra
+#vùng xuất
+#vùng xuất dữ liệu

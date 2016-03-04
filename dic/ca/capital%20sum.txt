@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số tiền cơ bản
+#tổng số tiền vốn

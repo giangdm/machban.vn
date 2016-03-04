@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số chảy
+#lưu lượng đơn vị
+#lưu lượng riêng vận chuyển
+#môđun dòng chảy
+@Lĩnh vực: cơ khí & công trình
+#tỷ lưu

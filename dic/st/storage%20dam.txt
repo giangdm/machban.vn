@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đập chứa nước
+#đập giữ nước
+@Lĩnh vực: xây dựng
+#đập (của) hồ chứa nước
+#đập trữ nước
+@Lĩnh vực: điện
+#đập tích nước

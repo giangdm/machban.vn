@@ -1,0 +1,3 @@
+﻿@Marginal propensity to comsume (MPC)
+#(Econ) Thiên hướng tiêu dùng cận biên.
+: Là mức thay đổi trong tiêu dùng do tăng thêm một đơn vị thu nhập.

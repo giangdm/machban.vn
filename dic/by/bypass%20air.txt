@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#không khí phân luồng
+@Lĩnh vực: điện lạnh
+#không khí bypas
+#không khí qua nhánh phụ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đếm bằng số
+@Lĩnh vực: toán & tin
+#đếm chữ số
+#tính chữ số

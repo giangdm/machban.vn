@@ -1,0 +1,9 @@
+﻿@block transfer
+#(Tech) chuyển từng khối một
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chuyển khối
+@Lĩnh vực: toán & tin
+#sự chuyển khối
+#sự truyền khối
+#truyền khối

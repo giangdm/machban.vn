@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tải nhiệt cảm biến được
+#tải nhiệt cảm nhận được
+#tải nhiệt hiện

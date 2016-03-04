@@ -1,0 +1,2 @@
+﻿@disk caching program
+#(Tech) chương trình gia tốc đĩa

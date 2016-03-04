@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo kiểu chiết áp
+@Lĩnh vực: đo lường & điều khiển
+#khí cụ đo có bù
+#máy đo có bù

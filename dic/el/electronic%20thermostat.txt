@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#rơle nhiệt độ điện tử
+#tecmostat điện tử
+#thermostat điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#rơle nhiệt độ điện tử
+#tecmostat điện tử
+#thermostat điện tử

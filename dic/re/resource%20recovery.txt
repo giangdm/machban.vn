@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#khôi phục tài nguyên
+@Chuyên ngành kỹ thuật
+#sự cấp phát tài nguyên
+@Lĩnh vực: toán & tin
+#sự cấp phát nguồn
+#sự phân bổ nguồn
+#sự phân bổ tài nguyên
+@Lĩnh vực: xây dựng
+#sự khôi phục tài nguyên

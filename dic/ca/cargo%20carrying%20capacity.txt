@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tải trọng hàng hóa
+#tải trọng hữu ích
+#tải trọng ròng
+#tải trọng tịnh

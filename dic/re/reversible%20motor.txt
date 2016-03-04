@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ đảo chiều được
+#động cơ thuận nghịch
+@Lĩnh vực: cơ khí & công trình
+#động cơ (điện) thuận nghịch
+@Lĩnh vực: điện
+#động cơ đảo chiều (được)

@@ -1,0 +1,11 @@
+﻿@Capital goods
+#(Econ) Tư liệu sản xuất, hàng tư liệu sản xuất.
+: Xem CAPITAL.
+@Chuyên ngành kinh tế
+#sản phẩm cơ bản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hàng thiết bị
+#nguyên liệu sản xuất
+@Lĩnh vực: giao thông & vận tải
+#tư liệu sản xuất

@@ -1,0 +1,8 @@
+﻿@function generator
+#(Tech) bộ tạo hàm số
+@Chuyên ngành kỹ thuật
+#bộ sinh hàm
+#bộ tạo chức năng
+#máy phát hàm
+@Lĩnh vực: toán & tin
+#máy biến đổi

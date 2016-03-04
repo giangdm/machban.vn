@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phương pháp trọng lực
+#phương pháp trọng lượng

@@ -1,0 +1,3 @@
+﻿@Policy - off
+#(Econ) Thời kỳ không áp dụng chính sách.
+: Thời kỳ có sự thương lượng tập thể tự do. Ở thời kỳ này không có sự tồn tại chính sách thu nhập.

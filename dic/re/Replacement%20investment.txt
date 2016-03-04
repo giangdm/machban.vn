@@ -1,0 +1,8 @@
+﻿@Replacement investment
+#(Econ) Đầu tư thay thế.
+: Là khoản tiền cần thiết để thay thế phần vốn đầu tư cơ bản đã được sử dụng hết trong quá trình sản xuất.
+@Chuyên ngành kinh tế
+#đầu tư thay thế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đầu tư thay thế

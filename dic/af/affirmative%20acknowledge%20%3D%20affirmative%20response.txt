@@ -1,0 +1,1 @@
+﻿@affirmative acknowledge = affirmative response

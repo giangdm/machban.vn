@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ rung Kapp
+@Lĩnh vực: điện
+#máy rung Kapp

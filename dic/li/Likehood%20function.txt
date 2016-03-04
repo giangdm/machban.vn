@@ -1,0 +1,3 @@
+﻿@Likehood function
+#(Econ) Hàm hợp lý
+: Trong kinh tế lượng, một trung bình mà theo đó mô hình có khả năng thực nhất có thể được suy ra từ một tập hợp hữu hạn các quan sát đối với các sự kiện được cho là do mô hình tạo ra.

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộc sôlênôit tiêu chuẩn
+@Lĩnh vực: điện lạnh
+#solenoit mẫu
+#solenoit tiêu chuẩn

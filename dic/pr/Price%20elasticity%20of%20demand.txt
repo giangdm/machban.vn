@@ -1,0 +1,7 @@
+﻿@Price elasticity of demand
+#(Econ) Độ co giãn của cầu theo giá.
+: Độ phản ứng của lượng cầu của một hàng hoá đối với giá của chính nó.
+@Chuyên ngành kinh tế
+#co giãn của cầu theo giá
+#tính co dãn của mức cầu theo giá
+#tính co giãn của mức cầu theo giá

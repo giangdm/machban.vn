@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ đếm và hẹn giờ
+@Lĩnh vực: toán & tin
+#đồng hồ đếm

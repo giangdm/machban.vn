@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sơ đồ (vòng tuần hoàn) hai cấp
+#sơ đồ hai cấp
+#vòng tuần hoàn hai cấp

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#amoniac lỏng
+@Chuyên ngành kỹ thuật
+#bình chứa amoniac lỏng
+@Lĩnh vực: vật lý
+#amoniac lỏng
+@Chuyên ngành kỹ thuật
+#bình chứa amoniac lỏng
+@Lĩnh vực: vật lý
+#amoniac lỏng

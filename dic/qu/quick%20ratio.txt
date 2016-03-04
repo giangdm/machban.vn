@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hệ số về khả năng thanh toán nhanh
+#tỉ suất tiền mặt sử dụng ngay
+#tỷ lệ chuyển đổi nhanh
+#tỷ số khả năng thanh toán
+#tỷ số tài sản nhanh

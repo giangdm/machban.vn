@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mã đích
+#mã đối tượng
+#mã máy

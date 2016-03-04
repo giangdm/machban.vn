@@ -1,0 +1,9 @@
+﻿@frequency translation
+#(Tech) sự chuyển dịch tần
+@Chuyên ngành kỹ thuật
+#chuyển đổi tần số
+#sự biến đổi tần số
+#sự chuyển vị tần
+@Lĩnh vực: toán & tin
+#sự dịch chuyển tần số
+#sự tịnh tiến tần số

@@ -1,0 +1,2 @@
+﻿@electronic scanning = electron scanning
+#(Tech) quét điện tử

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ thu biến xung
+@Lĩnh vực: điện lạnh
+#thiết bị cảm biến xung

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#ngưỡng tần số vi sai

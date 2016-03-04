@@ -1,0 +1,4 @@
+﻿@calling rate
+#(Tech) suất gọi
+@Chuyên ngành kỹ thuật
+#mức gọi

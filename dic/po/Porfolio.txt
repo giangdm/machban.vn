@@ -1,0 +1,3 @@
+﻿@Porfolio
+#(Econ) Danh mục đầu tư.
+: Tập hợp các tài sản của một cá nhân hoặc tổ chức.

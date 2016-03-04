@@ -1,0 +1,5 @@
+﻿@Continuous variable
+#(Econ) Biến số liên tục
+: Một biến số có thể lấy bất cứ giá trị nào (nghĩa là nó có thể thay đổi mà không gián đoạn) giữa những giới hạn xác định (có thể là vô hạn) (Xem DISCRETE VARIABLE).
+@Chuyên ngành kỹ thuật
+#biến liên tục

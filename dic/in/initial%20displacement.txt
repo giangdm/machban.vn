@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chuyển vị ban đầu
+@Lĩnh vực: toán & tin
+#sự dời chỗ ban đầu

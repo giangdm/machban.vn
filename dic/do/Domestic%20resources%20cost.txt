@@ -1,0 +1,2 @@
+﻿@Domestic resources cost
+#(Econ) Chi phí tài nguyên trong nước.

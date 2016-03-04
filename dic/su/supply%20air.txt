@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#không khí cấp
+#không khí cấp vào
+@Lĩnh vực: điện lạnh
+#gió cấp
+#không khi sạch
+@Lĩnh vực: xây dựng
+#không khí được cung cấp

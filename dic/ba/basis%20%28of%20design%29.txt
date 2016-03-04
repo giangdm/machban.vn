@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ sở thiết kế
+@Lĩnh vực: xây dựng
+#nguyên tắc thiết kế

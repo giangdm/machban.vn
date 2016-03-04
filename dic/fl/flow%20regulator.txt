@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều chỉnh lưu lượng
+@Lĩnh vực: hóa học & vật liệu
+#bộ điều chỉnh dòng chảy
+@Lĩnh vực: xây dựng
+#bộ điều tiết dòng song
+@Lĩnh vực: toán & tin
+#bộ điều tiết dòng sông
+@Chuyên ngành kỹ thuật
+#bộ điều chỉnh lưu lượng
+@Lĩnh vực: hóa học & vật liệu
+#bộ điều chỉnh dòng chảy
+@Lĩnh vực: xây dựng
+#bộ điều tiết dòng song
+@Lĩnh vực: toán & tin
+#bộ điều tiết dòng sông

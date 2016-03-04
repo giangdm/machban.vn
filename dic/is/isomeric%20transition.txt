@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chuyển đổi đồng phân
+@Lĩnh vực: vật lý
+#sự chuyển đồng phân

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng luân phiên
+@Lĩnh vực: toán & tin
+#bảng xen kẽ

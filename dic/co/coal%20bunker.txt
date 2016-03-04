@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bunke than
+#kho chứa than
+@Lĩnh vực: điện
+#phễu than

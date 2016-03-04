@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#được vận hành tự động
+@Lĩnh vực: điện lạnh
+#được hoạt động tự động

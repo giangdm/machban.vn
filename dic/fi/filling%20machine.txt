@@ -1,0 +1,31 @@
+﻿@Chuyên ngành kinh tế
+#máy nạp
+#máy rót
+@Chuyên ngành kỹ thuật
+#máy chất liệu
+#máy nạp đầy
+#máy rót
+#máy rót đầy
+#máy xúc nhiều gàu
+@Lĩnh vực: cơ khí & công trình
+#dụng cụ rót
+#máy cấp phôi
+#máy nạp tải
+@Lĩnh vực: xây dựng
+#máy chèn lấp (lò)
+@Lĩnh vực: toán & tin
+#máy nạp chất liệu
+@Chuyên ngành kỹ thuật
+#máy chất liệu
+#máy nạp đầy
+#máy rót
+#máy rót đầy
+#máy xúc nhiều gàu
+@Lĩnh vực: cơ khí & công trình
+#dụng cụ rót
+#máy cấp phôi
+#máy nạp tải
+@Lĩnh vực: xây dựng
+#máy chèn lấp (lò)
+@Lĩnh vực: toán & tin
+#máy nạp chất liệu

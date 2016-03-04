@@ -1,0 +1,2 @@
+﻿@ALGOL (algebraic oriented language)
+#(Tech) ngôn ngữ hướng đại số

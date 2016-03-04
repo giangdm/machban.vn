@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chi phí hiện hành
+#phí tổn hiện hành (trong kỳ kế toán)
+#phí tổn lưu động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giá hiện hành

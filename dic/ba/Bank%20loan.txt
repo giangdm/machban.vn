@@ -1,0 +1,7 @@
+﻿@Bank loan
+#(Econ) Khoản vay ngân hàng.
+: Để chỉ bất cứ khoản ứng trước nào của ngân hàng, nhung có sự phân biệt trong việc cho vay của ngân hàng giữa điều kiện MỨC THẤU CHI  và điều kiện cho vay.
+@Chuyên ngành kinh tế
+#khoản cho vay ngân hàng
+#khoản vay ngân hàng
+#tiền cho vay của ngân hàng

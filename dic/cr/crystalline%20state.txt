@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#trạng thái kết tinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#trạng thái kết tinh

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#quá trình tuần hoàn
+@Lĩnh vực: xây dựng
+#chu kỳ vòng
+#chu trình vòng
+#quá trình kín
+@Lĩnh vực: toán & tin
+#quá trình xiclic

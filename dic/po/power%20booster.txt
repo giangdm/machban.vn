@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ tăng điện thế
+@Lĩnh vực: xây dựng
+#bộ tăng điên lực
+@Lĩnh vực: toán & tin
+#bộ tăng điện lực
+@Lĩnh vực: cơ khí & công trình
+#bộ tăng lực
+@Lĩnh vực: ô tô
+#máy khuếch đại công suất

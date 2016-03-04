@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#vít có lỗ trên đầu
+@Lĩnh vực: cơ khí & công trình
+#vít đầu có lỗ sáu cạnh (hoặc bốn cạnh)

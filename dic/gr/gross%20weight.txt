@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#tổng trọng lượng (cả hàng hóa lẫn bao bì)
+#trọng lượng cả bì
+#trọng lượng gộp
+@Chuyên ngành kỹ thuật
+#tổng trọng
+@Lĩnh vực: xây dựng
+#trọng lượng kể cả bì
+@Lĩnh vực: điện
+#trọng lượng thô
+@Lĩnh vực: cơ khí & công trình
+#trọng lượng tổng cộng

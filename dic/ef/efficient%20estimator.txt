@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thống quả ước lượng hiệu quả
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ước lượng hiệu quả
+#ước lượng hữu hiệu

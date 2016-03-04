@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#bồn tiêu nước
+#diện tích tiêu nước
+#lưu vực
+#lưu vực sông
+#lưu vực tập trung nước
+#vùng giáng thủy
+#vùng mưa
+#vùng thoát nước
+#vùng thu nước
+#vùng tiêu nước
+@Lĩnh vực: xây dựng
+#thiết bị tích nước
+#trạm tích nước
+@Lĩnh vực: hóa học & vật liệu
+#vùng tích tụ nước

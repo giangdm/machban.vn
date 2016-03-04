@@ -1,0 +1,5 @@
+﻿@disk copy
+#(Tech) sao đĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sao chép đĩa

@@ -1,0 +1,13 @@
+﻿@Patent rights
+#(Econ) Quyền tác giả.
+: Cơ quan cấp bằng sáng chế cấp đặc quyền đặc biệt cho một sáng chế quy trình.
+@Chuyên ngành kinh tế
+#đặc quyền sáng chế
+#quyền chuyên lợi
+#quyền sở hữu công nghiệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#quyền sở hữu công nghiệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản quyền sáng chế

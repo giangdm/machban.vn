@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lốp xe
+@Lĩnh vực: xây dựng
+#vỏ bánh xe
+@Lĩnh vực: toán & tin
+#vỏ bánh xe, lốp xe

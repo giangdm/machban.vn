@@ -1,0 +1,10 @@
+﻿@error free
+#(Tech) không sai số; không sai lầm
+@Chuyên ngành kinh tế
+#không có sai sót
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#không có lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#không có lỗi

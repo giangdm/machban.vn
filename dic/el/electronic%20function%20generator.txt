@@ -1,0 +1,2 @@
+﻿@electronic function generator
+#(Tech) bộ tạo hàm số loại điện tử

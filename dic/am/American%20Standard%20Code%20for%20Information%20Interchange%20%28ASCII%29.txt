@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Mã tiêu chuẩn Mỹ dùng để trao đổi thông tin
+@Lĩnh vực: toán & tin
+#mã trao đổi thông tin tiêu chuẩn Hoa Kỳ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mã chuẩn Mỹ để chuyển đổi thông tin

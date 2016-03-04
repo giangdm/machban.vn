@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ dao động hốc
+#hốc (được) điều hưởng
+#hốc cộng hưởng
+#hốc cộng hưởng vi ba
+#hốc vi ba
+#phần tử cộng hưởng
+@Lĩnh vực: điện
+#bộ cộng hưởng hốc
+#bộ cộng hưởng kiểu hốc

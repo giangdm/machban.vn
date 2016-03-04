@@ -1,0 +1,5 @@
+﻿@Modern sector
+#(Econ) Khu vực hiện đại.
+: Một tên gọi khác của khu vực công nghiệp, hoặc đôi khi dùng để gọi khu vực chính phủ.
+@Chuyên ngành kinh tế
+#khu vực hiện đại

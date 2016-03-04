@@ -1,0 +1,5 @@
+﻿@Inverse relation
+#(Econ) Tương quan nghịch biến.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quan hệ ngược

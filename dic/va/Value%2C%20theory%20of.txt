@@ -1,0 +1,3 @@
+﻿@Value, theory of
+#(Econ) Lý thuyết về giá trị.
+: Gía trị nội tại của một hàng hoá.

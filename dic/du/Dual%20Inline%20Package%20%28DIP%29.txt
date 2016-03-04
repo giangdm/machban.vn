@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#vỏ vi mạch có hai hàng chân cắm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vỏ DIP
+#vỏ hai hàng chân

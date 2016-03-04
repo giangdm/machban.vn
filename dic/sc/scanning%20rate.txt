@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tốc độ quét
+@Lĩnh vực: toán & tin
+#tốc độ lấy mẫu
+@Lĩnh vực: giao thông & vận tải
+#tốc độ quét (rađa)

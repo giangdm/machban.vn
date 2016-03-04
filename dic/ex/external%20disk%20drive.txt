@@ -1,0 +1,8 @@
+﻿@external disk drive
+#(Tech) bộ quay đĩa ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ổ đĩa ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ổ đĩa ngoài

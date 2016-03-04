@@ -1,0 +1,10 @@
+﻿@Services
+#(Econ) Các dịch vụ.
+: Trên giác độ kinh tế, dịch vụ là các chức năng hoặc các nhiệm vụ được thực hiện mà người ta có cầu và do đó tạo ra giá cả hình thành nên một thị trường thích hợp.
+@Chuyên ngành kinh tế
+#các dịch vụ
+#ngành dịch vụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mạng lưới dịch vụ (trong nhà)
+#phương tiện (phục vụ) công cộng

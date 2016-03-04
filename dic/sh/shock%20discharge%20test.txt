@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thử bằng phóng điện xung kích
+@Lĩnh vực: điện
+#thử nghiệm phóng điện xung kích

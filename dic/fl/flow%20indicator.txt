@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu lượng kế
+@Lĩnh vực: điện lạnh
+#bộ chỉ báo dòng chảy
+#bộ chỉ thị dòng chảy
+@Lĩnh vực: cơ khí & công trình
+#bộ chỉ báo lưu lượng
+#cái đo dòng chảy
+@Chuyên ngành kỹ thuật
+#lưu lượng kế
+@Lĩnh vực: điện lạnh
+#bộ chỉ báo dòng chảy
+#bộ chỉ thị dòng chảy
+@Lĩnh vực: cơ khí & công trình
+#bộ chỉ báo lưu lượng
+#cái đo dòng chảy

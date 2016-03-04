@@ -1,0 +1,5 @@
+﻿@chain command
+#(Tech) lệnh chuỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lệnh móc nối

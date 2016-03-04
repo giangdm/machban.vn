@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tàu trục vớt cứu hộ
+@Chuyên ngành kỹ thuật
+#tàu cứu hộ
+@Lĩnh vực: giao thông & vận tải
+#tàu hộ

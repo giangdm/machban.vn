@@ -1,0 +1,2 @@
+﻿@analog element
+#(Tech) phần tử tương tự

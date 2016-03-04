@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tình trạng tài chánh đóng
+#vị thế đóng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#vị trí đóng

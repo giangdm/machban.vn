@@ -1,0 +1,5 @@
+﻿@accepting station
+#(Tech) trạm nhận tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trạm thu nhận

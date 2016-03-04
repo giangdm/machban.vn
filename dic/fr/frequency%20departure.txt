@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dịch tần số
+#độ lệch tần
+#độ lệch tần số
+@Lĩnh vực: điện tử & viễn thông
+#sự sai lệch tần số
+@Lĩnh vực: xây dựng
+#tấn số tức thời
+@Lĩnh vực: toán & tin
+#tần số tức thời

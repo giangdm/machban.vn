@@ -1,0 +1,5 @@
+﻿@Excess reserves
+#(Econ) Khoản dự trữ dư; Dự trữ dư.
+: Mức chênh lệch giữa tổng số dự trữ mà ngân hàng gửi tiền  Mỹ đang giữ và DỰ TRỮ BẮT BUỘC do luật pháp yêu cầu để trả nợ.
+@Chuyên ngành kinh tế
+#tiền dự trữ vượt mức

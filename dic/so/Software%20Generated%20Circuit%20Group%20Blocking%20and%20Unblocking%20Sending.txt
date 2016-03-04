@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#gửi chặn và không chặn nhóm mạch do phần mềm tạo ra

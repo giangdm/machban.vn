@@ -1,0 +1,3 @@
+﻿@Fixed coenfficients production function
+#(Econ) Hàm sản xuất có các hệ số cố định.
+: Hàm sản xuất, trong đó các đầu vào phải được kết hợp  theo các tỷ lệ cố định.

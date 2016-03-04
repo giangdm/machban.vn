@@ -1,0 +1,7 @@
+﻿@Temporary layoffs
+#(Econ) Sa thải tạm thời.
+: Các nhân viên bị giới chủ sa thải nhưng biết rằng họ có thể trở lại công việc của mình vào lúc nào đó trong tương lai gần.
+@Chuyên ngành kinh tế
+#giãn thợ tạm thời
+#sự dãn thợ tạm thời
+#sự giãn thợ tạm thời

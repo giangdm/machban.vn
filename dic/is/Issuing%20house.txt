@@ -1,0 +1,6 @@
+﻿@Issuing house
+#(Econ) Nhà phát hành.
+: Một tổ chức, thường là một ngân hàng thương mại, bên cạnh các hoạt động khác còn chuyên môn hoá trong quản lý việc phát hành cổ phần mới, trái phiếu công ty hoặc trái phiếu nhân danh các công ty hoặc các tổ chức khác có nhu cầu về tài chính, ví dụ như chính phủ và các cấp chính quyền địa phương.
+@Chuyên ngành kinh tế
+#công ty, nhà, hãng phát hành cổ phiếu
+#nhà phát hành

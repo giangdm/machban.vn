@@ -1,0 +1,14 @@
+﻿@automatic controller
+#(Tech) bộ điều khiển tự động
+@Chuyên ngành kỹ thuật
+#bộ điều chỉnh tự động
+#điều chỉnh tự động
+#điều khiển tự động
+@Lĩnh vực: đo lường & điều khiển
+#bộ điều khiển tự động
+@Lĩnh vực: cơ khí & công trình
+#bộ khống chế tự động
+@Lĩnh vực: điện lạnh
+#hiệu chỉnh tự động
+@Lĩnh vực: toán & tin
+#mạch điều khiển tự động

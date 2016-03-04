@@ -1,0 +1,2 @@
+﻿@electron-hole collision
+#(Tech) sự va chạm lỗ trống điện tử

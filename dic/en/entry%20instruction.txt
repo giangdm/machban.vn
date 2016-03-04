@@ -1,0 +1,10 @@
+﻿@entry instruction
+#(Tech) chỉ thị nhập vào
+@Chuyên ngành kỹ thuật
+#lệnh vào
+@Lĩnh vực: toán & tin
+#lệnh nhập
+@Chuyên ngành kỹ thuật
+#lệnh vào
+@Lĩnh vực: toán & tin
+#lệnh nhập

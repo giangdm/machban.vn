@@ -1,0 +1,5 @@
+﻿@bps (bits per second)
+#(Tech) bps (bits mỗi giây)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số bit trên giây

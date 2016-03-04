@@ -1,0 +1,4 @@
+﻿@default setting
+#(Tech) thiết lập mặc định
+@Chuyên ngành kỹ thuật
+#xếp mặc định

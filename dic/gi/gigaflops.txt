@@ -1,0 +1,2 @@
+﻿@gigaflops
+#(Tech) một tỷ FLOP ( một tỷ phép tính điểm di động mỗi giây)

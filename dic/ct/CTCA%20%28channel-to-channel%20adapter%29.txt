@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều hợp giữa các kênh
+#bộ điều hợp kênh nối kênh

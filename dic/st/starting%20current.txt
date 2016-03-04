@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng điện khởi động
+#dòng điện phát khởi
+@Lĩnh vực: điện lạnh
+#dòng điện mở máy

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ nghiêng bulông chính
+#độ nghiêng chốt chính
+#độ nghiêng trục chính
+#độ nghiêng trục lái

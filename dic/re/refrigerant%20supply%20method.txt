@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#phương pháp cung cấp (nạp) môi chất lạnh
+@Lĩnh vực: điện lạnh
+#phương pháp nạp môi chất lạnh

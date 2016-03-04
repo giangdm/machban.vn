@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nguyên lý công tối thiểu
+@Lĩnh vực: vật lý
+#nguyên lý công bé nhất
+#nguyên lý công cực tiểu
+#nguyên lý công nhỏ nhất

@@ -1,0 +1,3 @@
+﻿@excenter
+#tâm đường tròn bàng tiếp
+#e. of a triangle tâm vòng tròn bàng tiếp của một tam giác

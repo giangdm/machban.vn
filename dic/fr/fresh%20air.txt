@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#không khí mát
+@Chuyên ngành kỹ thuật
+#không khí cấp vào
+#không khí sạch
+@Lĩnh vực: y học
+#không khi mát
+@Lĩnh vực: điện lạnh
+#không khí trong lành
+#không khí tươi
+@Lĩnh vực: hóa học & vật liệu
+#không khí trong sạch

@@ -1,0 +1,2 @@
+﻿@mda
+#bộ điều hợp màn hình đơn sắc (MDA)

@@ -1,0 +1,8 @@
+﻿@cache memory
+#(Tech) bộ nhớ ẩn/đệm cao tốc
+@Chuyên ngành kỹ thuật
+#bộ nhớ cache
+#bộ nhớ truy cập nhanh
+@Lĩnh vực: toán & tin
+#cạc nhớ
+#vùng nhớ đệm

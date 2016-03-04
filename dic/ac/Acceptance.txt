@@ -1,0 +1,33 @@
+﻿@Acceptance
+#(Econ) chấp nhận thanh toán.
+: Hành vi chấp nhận một hối phiếu do cá nhân hay cơ quan nhận hối phiếu thực hiện, bao gồm ký hối phiếu và thường ký trên mặt hối phiếu.
+<!-- more -->
+@acceptance /ək'septəbl/
+*danh từ
+#sự nhận, sự chấp nhận, sự chấp thuận
+#sự thừa nhận, sự công nhận
+#sự hoan nghênh, sự tán thưởng, sự tán thành; sự tin
+=his statement will not find acceptance: lời tuyên bố của ông ta sẽ không được ai tin
+#(thương nghiệp) sự nhận thanh toán (hoá đơn); hoá đơn được nhận thanh toán
+=general acceptance: sự nhận thanh toán không cần có điều kiện
+=qualified acceptance: sự nhận thanh toán có điều kiện
+#acceptance of persons
+#sự thiên vị
+@Chuyên ngành kinh tế
+#chấp nhận (biên lai, hối phiếu)
+#nhận thanh toán
+#sự nhận
+#sự nhận trả
+#tiếp nhận
+@Chuyên ngành kỹ thuật
+#chấp nhận
+#nghiệm thu
+#sự chấp nhận
+#sự nghiệm thu
+#sự nhận
+#sự thu nhận
+#sự thừa nhận
+#sự tiếp nhận
+<!-- more -->
+@acceptance
+#sự nhận, sự thu nhận

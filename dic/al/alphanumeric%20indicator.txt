@@ -1,0 +1,2 @@
+﻿@alphanumeric indicator
+#(Tech) bộ chỉ báo chữ-số

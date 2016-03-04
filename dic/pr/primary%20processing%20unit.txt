@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ xử lý sơ cấp
+#đơn vị xử lý chính

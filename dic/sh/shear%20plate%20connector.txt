@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản nối có cạnh cắt
+#đầu nối tấm có cạnh cắt

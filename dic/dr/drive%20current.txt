@@ -1,0 +1,2 @@
+﻿@drive current
+#(Tech) dòng kích thích

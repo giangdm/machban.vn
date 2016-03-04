@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#bánh xe bằng thép
+#đĩa thép
+@Lĩnh vực: giao thông & vận tải
+#bánh xe thép

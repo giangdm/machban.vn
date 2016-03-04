@@ -1,0 +1,2 @@
+﻿@end-of-text (ETX)
+#(Tech) kết thúc văn bản, đầu cuối văn bản

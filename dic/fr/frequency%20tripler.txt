@@ -1,0 +1,5 @@
+﻿@frequency tripler
+#(Tech) bộ nhân ba tần số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mạch bội tần

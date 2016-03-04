@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#chịu lửa, chống cháy
+#tính không cháy
+@Lĩnh vực: xây dựng
+#độ bền chịu lửa
+#khả năng chống cháy
+@Lĩnh vực: hóa học & vật liệu
+#độ chịu lửa
+#sức cản lửa
+#sức chịu lửa
+#tính khó nóng chảy
+@Chuyên ngành kỹ thuật
+#chịu lửa, chống cháy
+#tính không cháy
+@Lĩnh vực: xây dựng
+#độ bền chịu lửa
+#khả năng chống cháy
+@Lĩnh vực: hóa học & vật liệu
+#độ chịu lửa
+#sức cản lửa
+#sức chịu lửa
+#tính khó nóng chảy

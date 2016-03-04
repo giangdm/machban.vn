@@ -1,0 +1,2 @@
+﻿@call(ing) relay
+#(Tech) bộ rờle gọi

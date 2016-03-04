@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#trái phiếu có thể chuộc lại
+#trái phiếu có thể thu hồi
+#trái phiếu hoàn trả tùy ý
+#trái phiếu thông báo hoàn trả

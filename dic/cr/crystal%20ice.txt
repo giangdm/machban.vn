@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#băng tinh thể
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đá pha lê
+#đá tinh thể

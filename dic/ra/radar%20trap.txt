@@ -1,0 +1,4 @@
+﻿@radar trap
+*danh từ
+#hệ thống rađa để phát hiện xe chạy quá tốc độ qui định
+#<Mỹ> khu vực khống chế tốc độ (của xe cộ, trong thành phố)

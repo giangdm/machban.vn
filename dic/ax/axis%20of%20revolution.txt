@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bản lề
+#trục quay
+#trục xoay
+@Lĩnh vực: điện lạnh
+#trục xoay vòng

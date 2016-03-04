@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#nội hàng
+#vận chuyển đường sông
+@Chuyên ngành kỹ thuật
+#giao thông đường sông
+@Lĩnh vực: cơ khí & công trình
+#giao thông thủy nội địa
+@Lĩnh vực: giao thông & vận tải
+#ngành hàng hải nội địa
+#sự đạo hàng đường sông
+#sự vận tải đường sông

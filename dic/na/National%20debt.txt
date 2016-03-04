@@ -1,0 +1,13 @@
+﻿@National debt
+#(Econ) Nợ quốc gia.
+: Theo định nghĩa thông thường thì khái niệm này phản ánh tổng số nghĩa vụ nợ còn tồn đọng của chính quyền trung ương và được chia là hai loại: nợ có thể bán được, tức là CHỨNG KHOÁN được trao đổi ; và nợ không thể bán được, ví dụ như giấy chứng nhận tiết kiệm quốc gia.
+@Chuyên ngành kinh tế
+#công nợ quốc gia
+#nợ của nhà nước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nợ quốc gia
+<!-- more -->
+@national debt
+*danh từ
+#nợ quốc gia

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#kế toán công nợ
+#khoản phải trả
+#số tiền nợ
+#số tiền phải trả
+@Chuyên ngành kỹ thuật
+#khoản phải trả
+@Lĩnh vực: giao thông & vận tải
+#tài khoản phải trả

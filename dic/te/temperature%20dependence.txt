@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phụ thuộc nhiệt độ
+@Lĩnh vực: điện lạnh
+#phụ thuộc nhiệt độ

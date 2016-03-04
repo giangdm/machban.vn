@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bóc lớp cách ly
+@Lĩnh vực: cơ khí & công trình
+#làm sạch lõi cách điện

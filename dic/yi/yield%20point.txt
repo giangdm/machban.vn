@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm cong
+#điểm rão
+#giới hạn chảy
+#giới hạn đàn hồi
+#giới hạn rão
+#tải trọng giới hạn
+#ứng suất chảy
+@Lĩnh vực: xây dựng
+#điểm hóa mềm
+#điểm lưu động
+#giới hạn của sức chịu
+@Lĩnh vực: toán & tin
+#điểm khởi lưu
+#điểm khởi thủy dòng chảy (điểm tới hạn)
+#điểm lưu

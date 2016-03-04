@@ -1,0 +1,5 @@
+﻿@Objective function
+#(Econ) Hàm mục tiêu.
+: Là một hàm số liên hệ mục tiêu (biến số cần tối ưu hoá) với biến số lựa chọn trong một bài toán tối ưu hoá.
+@Chuyên ngành kỹ thuật
+#hàm mục tiêu

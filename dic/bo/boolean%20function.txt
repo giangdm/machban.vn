@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm logic
+@Lĩnh vực: toán & tin
+#hàm luận lý
+@Chuyên ngành kỹ thuật
+#hàm Bun
+@Lĩnh vực: toán & tin
+#hàm Bool
+#hàm Boole

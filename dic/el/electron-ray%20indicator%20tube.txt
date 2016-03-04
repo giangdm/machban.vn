@@ -1,0 +1,2 @@
+﻿@electron-ray indicator tube
+#(Tech) đèn chỉ báo tia diện tử

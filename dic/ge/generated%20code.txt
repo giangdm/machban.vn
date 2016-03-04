@@ -1,0 +1,2 @@
+﻿@generated code
+#(Tech) ký tự xử lý được tạo

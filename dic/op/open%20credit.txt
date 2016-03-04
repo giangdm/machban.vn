@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khoản vay không có bảo đảm
+#tín dụng không cần vật bảo đảm
+#tín dụng không có bảo đảm
+#tín dụng ngỏ

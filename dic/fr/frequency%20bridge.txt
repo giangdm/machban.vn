@@ -1,0 +1,5 @@
+﻿@frequency bridge
+#(Tech) cầu tần số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cầu tần số

@@ -1,0 +1,5 @@
+﻿@diode peak detector
+#(Tech) bộ kiểm sóng đỉnh điôt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ tách sóng đỉnh diode

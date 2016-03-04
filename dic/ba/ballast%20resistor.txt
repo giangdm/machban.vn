@@ -1,0 +1,13 @@
+﻿@ballast resistor
+#(Tech) cái điện trở ổn dòng
+@Chuyên ngành kỹ thuật
+#điện trở đệm
+#điện trở hạn chế dòng
+#điện trở phụ
+@Lĩnh vực: điện
+#điện trở balát
+#điện trở chấn lưu
+#điện trở ổn định dòng
+#điện trở phụ von kế
+@Lĩnh vực: điện lạnh
+#điện trở kiểu chấn lưu

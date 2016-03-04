@@ -1,0 +1,7 @@
+﻿@European Payments Union
+#(Econ) Liên minh Thanh toán Châu Âu.
+: Năm 1950, TỔ CHỨC HỢP TÁC KINH TẾ CHÂU ÂU thành lập Liên minh Thanh toán Châu Âu, thay thế cho hệ thống các tổ chức thanh toán Châu Âu do các hiệp định thanh toán trong Châu Âu năm 1948 và năm 1949 đưa vào áp dụng. Mục đích của liên minh này tạo điều kiện choa thanh toán thặng dư hay thâm hụt đa phương giữa các nước Châu Âu (và các khu vực tiền tệ ở nước ngoài tương ứng của chúng) và khuyến khích các chính sách tự do hoá mậu dịch bằng cách đưa ra các phương tịên tín dụng tự động cho các thành viên gặp phải thâm hụt cán cân thanh toán.
+@Chuyên ngành kinh tế
+#Liên hiệp Chi phó Châu Âu
+#Liên hiệp Tiền tệ châu Âu
+#liên minh thanh toán Châu Âu

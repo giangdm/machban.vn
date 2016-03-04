@@ -1,0 +1,6 @@
+﻿@current address
+#(Tech) địa chỉ hiện thời
+@Chuyên ngành kỹ thuật
+#địa chỉ hiện tại
+@Lĩnh vực: toán & tin
+#địa chỉ hiện hành

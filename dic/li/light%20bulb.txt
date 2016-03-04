@@ -1,0 +1,23 @@
+﻿@light bulb
+*danh từ
+#bóng đèn
+@Chuyên ngành kỹ thuật
+#bóng đèn
+#đèn dây tóc
+#đèn nóng sáng
+@Lĩnh vực: xây dựng
+#bóng đèn điện
+@Lĩnh vực: toán & tin
+#bóng đèn sáng
+@Lĩnh vực: điện lạnh
+#đèn sợi nung
+@Chuyên ngành kỹ thuật
+#bóng đèn
+#đèn dây tóc
+#đèn nóng sáng
+@Lĩnh vực: xây dựng
+#bóng đèn điện
+@Lĩnh vực: toán & tin
+#bóng đèn sáng
+@Lĩnh vực: điện lạnh
+#đèn sợi nung

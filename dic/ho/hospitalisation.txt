@@ -1,0 +1,5 @@
+﻿@hospitalisation
+*danh từ
+#sự đưa vào bệnh viện
+#sự nằm bệnh viện
+#thời kỳ nằm bệnh viện

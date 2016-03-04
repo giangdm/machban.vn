@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tiền cứng
+#tiền đúc kim loại
+#tiền đúc kim loại (thường dùng lẫn lộn với hard currency)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tiền cứng

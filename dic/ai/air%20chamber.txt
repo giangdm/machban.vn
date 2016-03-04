@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#buồng hơi
+#buồng khí
+#ruột bánh xe
+@Lĩnh vực: điện lạnh
+#buông không khí
+@Lĩnh vực: cơ khí & công trình
+#ngăn chứa hơi
+@Lĩnh vực: xây dựng
+#săm (lốp xe)

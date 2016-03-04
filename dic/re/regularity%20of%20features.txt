@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tính đều đặn các đường nét

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tốc độ giảm nhiệt độ
+#tỷ lệ (tốc độ) giảm nhiệt độ
+#tỷ lệ giảm nhiệt độ

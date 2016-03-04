@@ -1,0 +1,3 @@
+﻿@Trans-shipment points
+#(Econ) Các điểm chuyển đổi phương tiện vận chuyển.
+: Các địa điểm mà tại đó vận tải thay đổi từ loại này sang loại khác.

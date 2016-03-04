@@ -1,0 +1,5 @@
+﻿@automatic starter
+#(Tech) bộ khởi động tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ khởi động tự động

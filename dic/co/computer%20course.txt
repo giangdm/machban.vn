@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp học máy tính
+@Lĩnh vực: toán & tin
+#khóa tin học

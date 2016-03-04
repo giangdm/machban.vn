@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#lò sấy quay
+#lò sấy thùng quay
+@Chuyên ngành kỹ thuật
+#lò luyện xoay
+#lò quay
+#lò xoay

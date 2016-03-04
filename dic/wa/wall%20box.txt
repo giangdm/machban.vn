@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#hốc tường
+@Lĩnh vực: điện
+#hộp công tắc ở tường
+@Lĩnh vực: điện lạnh
+#hộp điện tường (chứa công tắc, ổ cắm)
+@Lĩnh vực: xây dựng
+#hôp treo tường
+#hộp tường
+@Lĩnh vực: toán & tin
+#hộp treo tường
+@Lĩnh vực: vật lý
+#ổ điện tường

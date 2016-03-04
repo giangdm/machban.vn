@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bán
+#bán được hết
+#bán hết
+#bán lại
+#bán rẻ
+#bán sạch hết (hàng trữ trong kho)
+#bán tống đi
+#chuyển nhượng (cổ phần, cửa hiệu)

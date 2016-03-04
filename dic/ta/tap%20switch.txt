@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ chọn đầu nối ra
+@Lĩnh vực: điện lạnh
+#chuyển mạch nhiều đầu ra
+#chuyển mạch nhiều tiếp điểm

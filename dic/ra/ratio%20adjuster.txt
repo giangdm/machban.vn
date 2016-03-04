@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ điều chỉnh tỷ số
+@Lĩnh vực: điện lạnh
+#bộ điều chỉnh tỷ số (biến áp)

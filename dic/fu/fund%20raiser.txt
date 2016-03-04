@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hội viên xuất vốn
+#người góp vốn
+#người hay vay tiền
+#người thu tiền
+#vay vốn

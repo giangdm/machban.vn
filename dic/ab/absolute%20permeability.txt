@@ -1,0 +1,9 @@
+﻿@absolute permeability
+#(Tech) độ từ thẩm tuyệt đối
+@Chuyên ngành kỹ thuật
+#điện dung cảm ứng
+@Lĩnh vực: điện lạnh
+#độ (từ) thẩm tuyệt đối
+@Lĩnh vực: điện
+#độ thấm từ tuyệt đối
+#độ từ thẩm tuyệt đối

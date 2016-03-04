@@ -1,0 +1,2 @@
+﻿@byte-addressable storage
+#(Tech) bộ trữ có thể định vi bai

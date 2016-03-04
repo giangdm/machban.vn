@@ -1,0 +1,10 @@
+﻿@frequency multiplier
+#(Tech) bộ nhân tần số
+@Chuyên ngành kỹ thuật
+#bộ nhân tần
+#bộ nhân tần số
+@Lĩnh vực: toán & tin
+#bộ khuếch đại tần số
+#máy nhân tần số
+@Lĩnh vực: điện tử & viễn thông
+#máy tạo sóng hài

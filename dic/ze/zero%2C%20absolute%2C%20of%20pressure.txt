@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#áp suất không tuyệt đối
+#áp suất thấp nhất

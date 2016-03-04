@@ -1,0 +1,7 @@
+﻿@cutoff voltage
+#(Tech) điện thế cắt ngang
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện áp cuối
+@Lĩnh vực: toán & tin
+#điện áp giới hạn

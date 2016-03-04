@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chứng thư tư thực
+#hợp đồng cá nhân
+#thỏa ước riêng
+#tư khế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hợp đồng cá nhân

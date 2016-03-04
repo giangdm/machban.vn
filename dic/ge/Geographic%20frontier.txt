@@ -1,0 +1,3 @@
+﻿@Geographic frontier
+#(Econ) Giới hạn địa lý.
+: Cụm thuật ngữ được sử dụng trong lý thuyết phát triển kinh tế để mô tả một khu vực trong đó số với số dân, khả năng kỹ thuật, sở thích và khẩu vị nhất định, sẽ xuất hiện lợi tức tăng dần từ lao động và tư bản.

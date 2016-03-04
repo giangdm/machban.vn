@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ phân tích nhiễu
+#bộ phân tích tiếng ồn

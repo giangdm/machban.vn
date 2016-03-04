@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tập dữ liệu chia phần
+@Lĩnh vực: toán & tin
+#tập dữ liệu được phân nhỏ

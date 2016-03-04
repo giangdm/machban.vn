@@ -1,0 +1,3 @@
+﻿@Variable parameter models
+#(Econ) Các mô hình thông số khả biến.
+: Các mô hình kinh tế lượng, trong đó các thông số về dân số cần được ước lượng, được giả định là biến số, không giống như trong phân tích hồi quy mà trong đó các thông số được coi là cố định.

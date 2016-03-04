@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#cái dẫn giấy
+@Chuyên ngành kỹ thuật
+#cấu cấp giấy
+#cơ cấu đẩy giấy
+@Lĩnh vực: vật lý
+#cấu kẹp giấy
+#cấu nạp đẩy giấy
+@Lĩnh vực: toán & tin
+#khay tiếp giấy
+#sự đẩy giấy
+#sự tiếp giấy

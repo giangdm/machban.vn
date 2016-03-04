@@ -1,0 +1,9 @@
+﻿@Common market
+#(Econ) Thị trường chung.
+: Một khu vực thương kết hợp một số nước, trong đó tất cả đều có thể mua bán theo những điều kiện ngang nhau. Xem EUROPEAN COMMON MARKET.
+@Chuyên ngành kinh tế
+#thị trường chung châu âu
+<!-- more -->
+@common market
+*danh từ
+#Khối thị trường chung Âu châu

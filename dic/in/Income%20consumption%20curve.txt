@@ -1,0 +1,3 @@
+﻿@Income consumption curve
+#(Econ) Đường tiêu dùng thu nhập.
+: Tiếp điểm của đường BÀNG QUAN của người tiêu dùng và ĐƯỜNG NGÂN SÁCH xác định vị trí cân bằng của người tiêu dùng.

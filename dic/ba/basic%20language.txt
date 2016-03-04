@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#ngôn ngữ cơ sở (dùng trong tin học)
+@Chuyên ngành kỹ thuật
+#ngôn ngữ basic
+#ngôn ngữ cơ sở

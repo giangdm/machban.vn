@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#tính chống ồn
+#tính miễn trừ nhiễu
+@Lĩnh vực: toán & tin
+#tính miễn trừ ồn

@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kinh tế
+#biến số bậc hai trung bình (dùng trong thống kê)

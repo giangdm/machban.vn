@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#van lò xo an toàn
+@Lĩnh vực: hóa học & vật liệu
+#van xả áp suất dư

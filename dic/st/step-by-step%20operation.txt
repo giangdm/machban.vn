@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự vận hành từng bước
+@Lĩnh vực: đo lường & điều khiển
+#hoạt động từng bước
+@Lĩnh vực: toán & tin
+#thao tác đơn bước
+#thao tác từng bước một

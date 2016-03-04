@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+#chỉ số iot
+#giá trị iot
+@Lĩnh vực: hóa học & vật liệu
+#chỉ số iốt

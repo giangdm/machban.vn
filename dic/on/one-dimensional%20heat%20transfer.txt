@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự truyền nhiệt một chiều
+#truyền nhiệt một chiều

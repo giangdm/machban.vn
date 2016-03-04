@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#toa công-ten-nơ
+#xe tải công-ten-nơ
+#xe tải container
+@Chuyên ngành kỹ thuật
+#xe tải chở côngtennơ
+@Lĩnh vực: giao thông & vận tải
+#xe tải côngtennơ

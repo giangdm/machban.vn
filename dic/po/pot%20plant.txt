@@ -1,0 +1,3 @@
+﻿@pot plant
+*danh từ
+#cây trồng trong chậu hoa

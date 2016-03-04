@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sứ đứng
+@Lĩnh vực: điện
+#bầu đứng
+#cách điện đứng
+#vật cách điện trụ
+@Lĩnh vực: điện lạnh
+#sứ đỡ (cách điện)

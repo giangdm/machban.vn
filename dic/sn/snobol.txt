@@ -1,0 +1,6 @@
+﻿@snobol
+*(viết tắt)
+#ngôn ngữ SNOBOL; ngôn ngữ lập trình (nhất là để xử lý các ký hiệu)  (string-oriented symbolic language)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ SNOBOL

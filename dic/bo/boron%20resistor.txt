@@ -1,0 +1,2 @@
+﻿@boron resistor
+#(Tech) cái điện trở bo (Br)

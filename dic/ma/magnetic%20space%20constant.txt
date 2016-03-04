@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hằng số không gian từ
+@Lĩnh vực: điện lạnh
+#hằng số từ (thuật ngữ cũ)

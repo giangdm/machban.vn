@@ -1,0 +1,2 @@
+﻿@autotune transmitter
+#(Tech) máy phát tự điều hưởng

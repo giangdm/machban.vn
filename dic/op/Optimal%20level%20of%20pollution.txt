@@ -1,0 +1,3 @@
+﻿@Optimal level of pollution
+#(Econ) Mức ô nhiễm Tối ưu.
+: Là mức ô nhiễm mà bất kỳ chi phí thêm nào được bỏ ra để là giảm thiểu ô nhiễm lại đúng bằng với giá trị thiệt hại do ô nhiễm gây ra.

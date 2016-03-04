@@ -1,0 +1,9 @@
+﻿@arc discharge
+#(Tech) lamp đèn phóng hồ quang
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phóng điện hồ quang
+@Lĩnh vực: xây dựng
+#sự phóng điện cung lửa
+@Lĩnh vực: điện
+#sự phóng điện hồ quang

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lưỡi thử
+@Lĩnh vực: hóa học & vật liệu
+#thanh mẫu kiểm tra
+@Lĩnh vực: cơ khí & công trình
+#thanh mẫu thử
+@Lĩnh vực: xây dựng
+#thanh thí nghiệm

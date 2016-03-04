@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đất ở
+#đất xây dựng nhà ở
+#khu nhà ở
+@Lĩnh vực: cơ khí & công trình
+#khu vực nhà ở

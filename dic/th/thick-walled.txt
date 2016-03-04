@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#có thành dày
+#có tường dày
+@Lĩnh vực: cơ khí & công trình
+#thành dày
+@Lĩnh vực: điện lạnh
+#tường dày
+#vách dày

@@ -1,0 +1,5 @@
+﻿@Pareto optimum
+#(Econ) Tối ưu Pareto.
+: Khi các nguồn lực và sản lượng của một nền kinh tế được phân chia mà không có sự phân chia lại nào làm cho bất cứ ai khá lên mà cũng không là cho ít nhất là bất cứ một người nào khác kém đi thì lúc đó là có sự hiện hữu của một tối ưu Pareto.
+@Chuyên ngành kinh tế
+#Tính tối ưu Pareto

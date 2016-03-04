@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#số đo cuối
+@Lĩnh vực: đo lường & điều khiển
+#căn mẫu đo
+#thang đo chiều dài
+@Chuyên ngành kỹ thuật
+#số đo cuối
+@Lĩnh vực: đo lường & điều khiển
+#căn mẫu đo
+#thang đo chiều dài

@@ -1,0 +1,3 @@
+﻿@Dual labour market hypothesis
+#(Econ) Giả thiết thị trường lao động hai cấp.
+: Giả thuyết cho rằng thị trường lao động được phân thành 2 cấp: Cấp một và cấp hai.Những công việc có lương cao, có triển vọng về đề bạt, an toàn và trợ cấp cao, tạo thành khu vực cấp một của một nền kinh tế lưỡng cấp. Trong khu vực cấp hai, tiền lương được hình thành do cạnh tranh, công việc đủ nhiều để có thể sử dụng hết tất cả công nhân, tuy nhiên những công việc này có lương thấp, không ổn định và nói chung là không hấp dẫn. Những công nhân trong khu vực cấp hai do đó phải chịu tình trạng hữu nghiệp phiếm dụng.

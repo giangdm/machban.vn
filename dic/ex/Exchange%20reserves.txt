@@ -1,0 +1,5 @@
+﻿@Exchange reserves
+#(Econ) Dự trữ ngoại hối.
+: Xem EXTERNAL RESERVES
+@Chuyên ngành kinh tế
+#dự trữ ngoại hối

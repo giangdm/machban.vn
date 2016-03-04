@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dãy Cauchy
+@Lĩnh vực: vật lý
+#dãy hội tụ

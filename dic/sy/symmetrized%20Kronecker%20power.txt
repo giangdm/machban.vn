@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lũy thừa Kronecker đối xứng hóa
+#lũy thừa Kroneckơ đối xứng hóa

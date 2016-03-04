@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mảng logic lập trình được
+@Lĩnh vực: toán & tin
+#mảng logic khả lập trình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lôgic mảng có thể lập trình

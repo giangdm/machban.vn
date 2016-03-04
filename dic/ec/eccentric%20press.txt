@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy dập kiểu trục khuỷu
+#máy dập lệch tâm
+@Lĩnh vực: xây dựng
+#máy ép lệch tâm

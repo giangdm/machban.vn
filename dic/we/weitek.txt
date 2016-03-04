@@ -1,0 +1,2 @@
+﻿@weitek
+#Tên một bộ đồng xử lý số được chế tạo cho các máy tính dùng vi xử lý Intel 803386 và 80486 Các bộ đồng xử lý này có khả năng hoạt động nhanh hơn so với Intel 80387 và 80487 SX Bộ đồng xử lý Weitek 4167 có thể thực hiện phép tính số học dấu phẩu động với tốc độ nhanh gấp ba đến năm lần so với 486 đơn độc

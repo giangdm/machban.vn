@@ -1,0 +1,2 @@
+﻿@fixedpoint
+#dấu phảy cố định: Cách biểu diện các số thập phân sử dụng một số xác định vị trí sao cho dấu phảy ngăn cách phần nguyên và phần lồ chiếm một vị trí cố định

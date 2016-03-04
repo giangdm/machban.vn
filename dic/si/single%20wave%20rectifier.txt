@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ chỉnh lưu sóng đơn
+#bộ nắn điện sóng đơn

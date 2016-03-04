@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#ống thải
+#ống thải khí
+#ống thoát hơi
+#ống xả
+#ống xả khí
+#ống xả nước
+@Lĩnh vực: ô tô
+#ống pô
+@Lĩnh vực: cơ khí & công trình
+#ống thoát khí xả
+@Chuyên ngành kỹ thuật
+#ống thải
+#ống thải khí
+#ống thoát hơi
+#ống xả
+#ống xả khí
+#ống xả nước
+@Lĩnh vực: ô tô
+#ống pô
+@Lĩnh vực: cơ khí & công trình
+#ống thoát khí xả

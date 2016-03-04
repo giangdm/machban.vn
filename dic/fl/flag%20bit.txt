@@ -1,0 +1,12 @@
+﻿@flag bit
+#(Tech) bit cờ hiệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bit cờ
+#bit cờ hiệu
+#bit đồng bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bit cờ
+#bit cờ hiệu
+#bit đồng bộ

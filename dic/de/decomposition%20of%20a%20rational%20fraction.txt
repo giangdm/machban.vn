@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân tích một phân thức hữu tỉ

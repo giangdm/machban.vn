@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nhiệt kế điện trở bằng gecmani
+#nhiệt kế điện trở bằng germanium

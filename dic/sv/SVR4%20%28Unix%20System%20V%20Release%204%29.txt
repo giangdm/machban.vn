@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ điều hành Unix V phiên bản 4
+#SVR4

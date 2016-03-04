@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#đang sản xuất
+#đưa vào sản xuất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đang trong trạng thái hoạt động

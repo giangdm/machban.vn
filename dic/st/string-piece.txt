@@ -1,0 +1,3 @@
+﻿@string-piece
+*danh từ
+#(kiến trúc) rầm; kèo

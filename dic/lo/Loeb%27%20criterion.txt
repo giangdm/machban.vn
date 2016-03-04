@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tiêu chí Loeb
+#tiêu chí Popov
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tiêu chí Loeb
+#tiêu chí Popov

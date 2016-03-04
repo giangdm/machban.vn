@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#ban (phòng) nghiên cứu
+#phòng, bộ phận nghiên cứu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#phòng nghiên cứu

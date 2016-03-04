@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giàn Vierenđen (không có thanh xiên)
+#giànVaerenđe
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giàn có thanh bụng vuông góc (không thanh chéo)

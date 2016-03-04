@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#tỉ số bất điều
+@Chuyên ngành kỹ thuật
+#tiết diện ngang
+@Lĩnh vực: hóa học & vật liệu
+#mức độ cắt ngang
+@Lĩnh vực: điện lạnh
+#tỷ số chéo
+@Lĩnh vực: toán & tin
+#tỷ số kép
+#tỷ số phức hợp

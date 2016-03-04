@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#kiểm soát quá trình sản xuất
+#kiểm soát quy trình công nghệ
+@Chuyên ngành kỹ thuật
+#sự giám sát sản xuất
+#sự kiểm tra quá trình
+@Lĩnh vực: điện lạnh
+#điều khiển quá trình
+@Lĩnh vực: toán & tin
+#điều khiển quy trình
+#điều khiển tiến trình
+#sự điều khiển tiến trình

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chổi graphit
+#chổi than (ở máy điện)
+#chổi than graphit

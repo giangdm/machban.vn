@@ -1,0 +1,8 @@
+﻿@Forward exchange market
+#(Econ) Thị trường hối đoái định trước; Thị trường hối đoái kỳ hạn.
+: Thị trường trong đó các đồng tiền được mua và bán theo những tỷ giá hối đoái được cố định từ bây giờ và giao vào một thời gian nhất định trong tương lai.
+@Chuyên ngành kinh tế
+#thị trường ngoại hối kỳ hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thị trường chứng khoán cố định

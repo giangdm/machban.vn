@@ -1,0 +1,5 @@
+﻿@complement base
+#(Tech) cơ số bù
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cơ sở bổ sung

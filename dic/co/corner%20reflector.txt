@@ -1,0 +1,5 @@
+﻿@corner reflector
+#(Tech) cái phản xạ góc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ phản xạ góc

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trạm cảm biến
+#vị trí dò đọc
+@Lĩnh vực: điện tử & viễn thông
+#trạm dò

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giới hạn tiền thuê
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự hạn chế cho thuê

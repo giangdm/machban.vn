@@ -1,0 +1,6 @@
+﻿@stream-file
+*danh từ
+#(tin học) tập dữ liệu; tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tệp dữ liệu

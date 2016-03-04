@@ -1,0 +1,7 @@
+﻿@present tense
+*danh từ
+#<ngôn> một trong các thì của động từ (thí dụ: present, present perfect, present continuous: thì hiện tại, hiện tại hoàn thành, hiện tại tiếp diễn)
+@Chuyên ngành kỹ thuật
+#hiện hành
+#hiện tại
+#hiện thời

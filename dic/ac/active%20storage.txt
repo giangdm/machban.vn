@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ lưu trữ hoạt động
+@Lĩnh vực: toán & tin
+#bộ nhớ hoạt động
+#vùng lưu trữ hoạt động
+@Lĩnh vực: cơ khí & công trình
+#kho tiêu thụ

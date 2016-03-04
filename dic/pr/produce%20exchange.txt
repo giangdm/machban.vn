@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sở giao dịch hàng hóa (nông phẩm)
+#sở giao dịch hàng hóa (nông sản phẩm)
+#sở giao dịch nguyên liệu

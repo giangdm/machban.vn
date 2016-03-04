@@ -1,0 +1,2 @@
+﻿@computing fundamental(s)
+#(Tech) cơ bản tính toán, nguyên lý tính toán

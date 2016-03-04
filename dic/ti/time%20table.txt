@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#bảng ghi giờ
+@Lĩnh vực: xây dựng
+#thời khóa biểu

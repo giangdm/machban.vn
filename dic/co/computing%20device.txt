@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy tính
+#phương tiện tính toán
+@Lĩnh vực: toán & tin
+#thiết bị tính toán

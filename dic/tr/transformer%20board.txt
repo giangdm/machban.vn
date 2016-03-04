@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#các tông cách điện
+#tấm ép cách điện (dùng trong các biến áp)

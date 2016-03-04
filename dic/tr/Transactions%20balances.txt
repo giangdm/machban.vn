@@ -1,0 +1,3 @@
+﻿@Transactions balances
+#(Econ) Các số dư giao dịch.
+: Xem MONEY, THE DEMAND FOR.

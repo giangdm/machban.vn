@@ -1,0 +1,10 @@
+﻿@Graphical Kernel System (GKS)
+#(Tech) chuẩn đồ họa GKS (hệ thống đồ họa nồng cốt)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ đồ họa hạt nhân
+#hệ lõi đồ họa
+#hệ thống chuẩn đồ họa
+#hệ thống nhân đồ họa
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống lỗi đồ họa

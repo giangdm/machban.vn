@@ -1,0 +1,2 @@
+﻿@command menu
+#(Tech) đơn chọn lệnh

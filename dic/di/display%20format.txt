@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#khuôn màn hình
+@Lĩnh vực: toán & tin
+#dạng thức màn hình
+#khổ màn hình
+@Lĩnh vực: điện tử & viễn thông
+#khuôn hiển thị

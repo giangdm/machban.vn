@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bộ phận tách hơi nước
+#cốc ngưng
+@Chuyên ngành kỹ thuật
+#van hơi
+@Lĩnh vực: hóa học & vật liệu
+#ống ngừng hơi nước
+@Lĩnh vực: xây dựng
+#thiết bị tách nước ngưng

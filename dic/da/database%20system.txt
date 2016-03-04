@@ -1,0 +1,2 @@
+﻿@database system
+#(Tech) hệ thống kho dữ liệu

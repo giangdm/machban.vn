@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#độ dày tự nhiên
+@Lĩnh vực: toán & tin
+#trọng lượng tự nhiên
+@Lĩnh vực: giao thông & vận tải
+#tỷ trọng tự nhiên

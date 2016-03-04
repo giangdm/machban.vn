@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hiệu suất nhiệt động
+@Lĩnh vực: điện lạnh
+#hiệu suất nhiệt động (lực)

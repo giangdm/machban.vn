@@ -1,0 +1,3 @@
+﻿@Snob effect
+#(Econ) Hiệu ứng đua đòi.
+: Hiệu ứng xảy ra khi giá của một hàng hoá giảm xuống và một số bộ phận của cộng đồng tăng cầu về hàng hoá này, đồng thời một số bộ phận hoặc cá nhân khác thì giảm cầu nhằm mục đích tách biệt họ ra khỏi xu thế chung.

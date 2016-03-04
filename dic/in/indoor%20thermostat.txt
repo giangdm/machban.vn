@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bình điều nhiệt trong phòng
+#rơle nhiệt độ trong phòng
+#tecmostac trong phòng

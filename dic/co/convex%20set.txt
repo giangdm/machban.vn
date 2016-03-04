@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tập hợp lồi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập lồi

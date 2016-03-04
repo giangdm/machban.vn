@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thử va đập
+@Lĩnh vực: hóa học & vật liệu
+#phép thử nhỏ giọt
+@Lĩnh vực: cơ khí & công trình
+#thử trọng lượng rơi
+#thử vật nặng rơi

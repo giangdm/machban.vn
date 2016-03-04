@@ -1,0 +1,8 @@
+﻿@background job
+#(Tech) công việc thứ cấp, công việc bối cảnh
+@Chuyên ngành kỹ thuật
+#nhiệm vụ nền
+@Lĩnh vực: toán & tin
+#công việc phụ
+#công việc thứ cấp
+#công việc ưu tiên thấp

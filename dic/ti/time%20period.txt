@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#làn sóng điện mỗi giờ
+#làn sóng điện mỗi giờ (phát thanh, truyền hình, quảng cáo)
+@Chuyên ngành kỹ thuật
+#khoảng thời gian

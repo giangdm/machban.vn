@@ -1,0 +1,14 @@
+﻿@White noise
+#(Econ) Nhiễu trắng.
+: Mô tả sự biến thiên hoàn toàn mang tính ngẫu nhiên và không có các phần tử mang tính hệ thống nào.
+@Chuyên ngành kỹ thuật
+#tiếng ồn
+@Lĩnh vực: xây dựng
+#âm trắng
+#vệt trắng nhiễu âm
+@Lĩnh vực: điện tử & viễn thông
+#nhiễu trắng
+@Lĩnh vực: điện lạnh
+#tạp âm trắng
+#tạp nhiễu trắng
+#tiếng ồn trắng

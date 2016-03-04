@@ -1,0 +1,8 @@
+﻿@Commercial paper
+#(Econ) Thương phiếu
+: Một cụm thuật ngữ chung chỉ HỐI PHIẾU THƯƠNG MẠI
+@Chuyên ngành kinh tế
+#các văn kiện thương mại
+#công khố phiếu
+#thương phiếu
+#tiền ứng trước cho thương mại

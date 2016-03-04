@@ -1,0 +1,19 @@
+﻿@prime cost
+*danh từ
+#giá vốn, chi phí gốc
+@Chuyên ngành kinh tế
+#chi phí gốc
+#chi phí trực tiếp
+#giá thành
+#giá thành ban đầu
+#giá thành sản xuất
+#giá vốn
+#phí tổn ban đầu
+@Chuyên ngành kỹ thuật
+#giá gốc
+#giá thành
+#giá vốn
+@Lĩnh vực: xây dựng
+#giá thành ban đầu (theo dự toán)
+@Lĩnh vực: toán & tin
+#giá thành sản phẩm

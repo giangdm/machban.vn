@@ -1,0 +1,3 @@
+﻿@Appropriate products
+#(Econ) Các sản phẩm thích hợp.
+: Nói chung được dùng để chỉ những sản phẩm thích hợp cho sử dụng ở các nước đang phát triển.

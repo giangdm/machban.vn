@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#khuôn dập hở
+#khuôn ghép
+#khuôn tách
+@Lĩnh vực: xây dựng
+#khuôn bổ đôi
+#khuôn mở (được)
+#khuôn tháo được

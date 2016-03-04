@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#máy thu tiếng vọng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy thu tiếng vang

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bắt electron
+@Lĩnh vực: vật lý
+#sự bắt điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bắt electron
+@Lĩnh vực: vật lý
+#sự bắt điện tử

@@ -1,0 +1,2 @@
+﻿@ac (alternating current) power supply
+#(Tech) nguồn điện xoay chiều

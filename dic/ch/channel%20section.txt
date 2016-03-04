@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mặt cắt hình chữ U
+#thép hình chữ U
+@Lĩnh vực: cơ khí & công trình
+#thép hình lòng máng
+@Lĩnh vực: hóa học & vật liệu
+#tiết diện chữ U

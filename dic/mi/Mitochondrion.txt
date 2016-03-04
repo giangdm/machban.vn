@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#Ty lạp thể có chứa ATP và các enzyme liên quan đến các hoạt động chuyển hóa tế bào

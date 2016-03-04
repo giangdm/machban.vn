@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuyển mạch tương tự
+#công tắc tương tự
+#thiết bị chuyển đổi analog

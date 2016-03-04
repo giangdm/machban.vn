@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm thủy chuẩn
+#mốc cao đạc
+#mốc độ cao
+#mốc thủy chuẩn
+@Lĩnh vực: xây dựng
+#chuẩn cao đạc
+#mốc (cao độ)
+#mốc chuẩn trắc đạc
+@Lĩnh vực: giao thông & vận tải
+#chuẩn so sánh
+@Lĩnh vực: toán & tin
+#mốc cao đạt

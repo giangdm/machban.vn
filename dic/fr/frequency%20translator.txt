@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ biến đổi tần
+#bộ đổi tần
+@Lĩnh vực: điện lạnh
+#bộ biến tần
+#bộ chuyển đổi tần

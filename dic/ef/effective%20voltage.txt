@@ -1,0 +1,7 @@
+﻿@effective voltage
+#(Tech) điện áp hữu hiệu
+@Chuyên ngành kỹ thuật
+#điện áp hiệu dụng
+@Lĩnh vực: điện lạnh
+#hiệu điện thế hiệu dụng
+#thế hiệu hiệu dụng

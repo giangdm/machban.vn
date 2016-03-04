@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#máy QP
+#thiết bị QP

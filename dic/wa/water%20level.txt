@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#lò dọc tháo nước
+#nivô nước
+#mức nước
+#mực nước
+#ống bọt nước
+#ống nivô
+#ống thủy
+@Lĩnh vực: xây dựng
+#mực nước dưới đất
+#ống thủy bình
+@Lĩnh vực: hóa học & vật liệu
+#tầng tháo nước

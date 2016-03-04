@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mặt phím
+#vùng phím chọn số
+@Lĩnh vực: điện tử & viễn thông
+#sự quay số bấm nút

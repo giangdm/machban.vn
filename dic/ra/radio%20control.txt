@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều khiển (bằng) vô tuyến
+@Lĩnh vực: toán & tin
+#sự điều khiển vô tuyến

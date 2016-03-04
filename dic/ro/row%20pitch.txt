@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#giãn cách dòng
+@Lĩnh vực: toán & tin
+#bước hàng
+#giãn cách hàng
+#khoảng cách giữa các hàng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự định tuyến liên miền không lớp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#định tuyến liên miền không phân cấp

@@ -1,0 +1,5 @@
+﻿@Reverse yield gap
+#(Econ) Chênh lệch nghịch đảo của lợi tức.
+: Xem Yield gap.
+@Chuyên ngành kinh tế
+#khoảng cách lợi suất ngược

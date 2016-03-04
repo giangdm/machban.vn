@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường dây nối tiếp
+#thao tác nối tiếp
+#tuyến nối tiếp

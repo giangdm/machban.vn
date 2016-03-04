@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle cảm biến
+#rơle kiểu dụng cụ đo
+#rơle kiểu máy đo
+@Lĩnh vực: điện lạnh
+#máy đo tạo tiếp xúc

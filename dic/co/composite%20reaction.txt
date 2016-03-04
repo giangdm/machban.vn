@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phản ứng thuận nghịch
+@Lĩnh vực: xây dựng
+#phản ứng phức tạp

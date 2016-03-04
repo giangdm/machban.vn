@@ -1,0 +1,13 @@
+﻿@Land tax
+#(Econ) Thuế đất.
+: Một loại thuế đánh vào giá trị hoặc kích thước của mảnh đất.
+@Chuyên ngành kinh tế
+#địa tô
+#thuế đất
+#thuế ruộng đất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thuế đất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thuế đất

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bóng gió
+@Lĩnh vực: xây dựng
+#bóng gió (vùng lặng)
+#bóng khí động học (vùng tĩnh)

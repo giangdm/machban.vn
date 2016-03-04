@@ -1,0 +1,15 @@
+﻿@access control
+#(Tech) điều khiển truy cập
+@Chuyên ngành kinh tế
+#kiểm soát truy cập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều khiển truy cập
+#điều khiển truy xuất
+#sự điều khiển truy cập
+#sự kiểm soát truy cập
+#sự kiểm soát truy nhập
+@Lĩnh vực: xây dựng
+#kiểm soát lối vào
+@Lĩnh vực: điện tử & viễn thông
+#kiểm soát truy nhập

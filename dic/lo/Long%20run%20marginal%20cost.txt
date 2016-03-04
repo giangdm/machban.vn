@@ -1,0 +1,3 @@
+﻿@Long run marginal cost
+#(Econ) Chi phí cận biên dài hạn.
+: Chi phí tăng thêm khi sản suất thêm một đơn vị sản phẩm trong dài hạn.

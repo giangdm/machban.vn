@@ -1,0 +1,14 @@
+﻿@earth electrode
+#(Tech) địa điện cực
+@Chuyên ngành kỹ thuật
+#cọc tiếp đất
+#điện cực nối đất
+#điện cực tiếp đất
+#thanh tiếp đất
+@Lĩnh vực: điện lạnh
+#cực nối đất
+@Lĩnh vực: điện
+#cực tiếp đất
+#điện cực đất
+@Lĩnh vực: ô tô
+#điện cực bìa

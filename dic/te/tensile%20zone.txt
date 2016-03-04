@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp bị căng
+@Lĩnh vực: xây dựng
+#đới căng
+#miền chịu kéo
+@Lĩnh vực: cơ khí & công trình
+#lớp chịu kéo

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#nhà máy lọc
+#thiết bị lọc
+@Lĩnh vực: cơ khí & công trình
+#trạm lọc nước
+@Lĩnh vực: hóa học & vật liệu
+#xưởng lọc
+@Chuyên ngành kỹ thuật
+#nhà máy lọc
+#thiết bị lọc
+@Lĩnh vực: cơ khí & công trình
+#trạm lọc nước
+@Lĩnh vực: hóa học & vật liệu
+#xưởng lọc

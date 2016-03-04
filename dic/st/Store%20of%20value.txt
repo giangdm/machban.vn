@@ -1,0 +1,6 @@
+﻿@Store of value
+#(Econ) Tích trữ giá trị.
+: Một trong các chức năng của giá trị không giống như trong hệ thống hàng đổi hàng, tiền tệ cho phép của cải hay giá trị có thể tích trữ được.
+@Chuyên ngành kinh tế
+#cất giữ giá trị
+#sự chứa giá trị (một chức năng của tiền tệ)

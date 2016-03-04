@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tiêu chuẩn tạm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dự án tiêu chuẩn
+@Lĩnh vực: toán & tin
+#tiêu chuẩn thăm dò

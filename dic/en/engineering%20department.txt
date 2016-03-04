@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#phòng kỹ thuật công trình
+@Chuyên ngành kỹ thuật
+#phòng kỹ thuật
+#phòng thiết kế
+@Lĩnh vực: hóa học & vật liệu
+#phòng công nghệ
+@Chuyên ngành kỹ thuật
+#phòng kỹ thuật
+#phòng thiết kế
+@Lĩnh vực: hóa học & vật liệu
+#phòng công nghệ

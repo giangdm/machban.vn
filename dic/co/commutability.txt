@@ -1,0 +1,7 @@
+﻿@commutability
+#xem commutable
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khả năng giao hoán
+@Lĩnh vực: xây dựng
+#tính giao hoán

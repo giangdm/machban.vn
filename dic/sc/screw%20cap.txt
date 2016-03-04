@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#nút xoáy
+@Chuyên ngành kỹ thuật
+#mũ ốc
+@Lĩnh vực: điện
+#đui xoáy (ở đèn nóng sáng)
+@Lĩnh vực: xây dựng
+#êcu đinh vit
+#mũ đinh vit
+@Lĩnh vực: cơ khí & công trình
+#nắp có ren
+@Lĩnh vực: hóa học & vật liệu
+#mũ đinh ốc

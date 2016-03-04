@@ -1,0 +1,6 @@
+﻿@Cost minimization
+#(Econ) Tối thiểu hoá chi phí.
+: Đối với bất kỳ mức sản lượng nào, đó là việc lựa chọn tổ hợp đầu vào để sản xuất một lượng đầu ra nhất định với mức phí thấp nhất.
+@Chuyên ngành kinh tế
+#sự tối thiểu hóa phí tổn
+#tối thiểu hóa chi phí

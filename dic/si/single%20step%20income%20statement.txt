@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bảng lời lỗ dưới dạng đơn giá
+#báo cáo thu nhập không phân mục
+#kết số dạng tài khoản

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#cuộn cảm ứng
+@Lĩnh vực: điện lạnh
+#cuộn đánh lửa (ở động cơ đốt trong)
+#cuộn dây phóng điện
+@Lĩnh vực: điện
+#cuộn dây cảm điện
+#cuộn dây hồ quang
+#cuộn Ruhmkorff

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#điểm chảy dẻo liên tục
+#giới hạn chảy dẻo liên tục

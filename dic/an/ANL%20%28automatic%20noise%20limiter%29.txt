@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ hạn chế nhiễu tự động
+#bộ tự động hạn chế nhiễu

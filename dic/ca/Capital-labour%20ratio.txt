@@ -1,0 +1,6 @@
+﻿@Capital-labour ratio
+#(Econ) Tỷ số vốn/ lao động
+: Tỷ số mà LAO ĐỘNG và VỐN được kết hợp trong quá trình sản xuất.(Xem INVESTMENT).
+@Chuyên ngành kinh tế
+#tỉ suất tư bản-lao động
+#tỷ số vốn lao động

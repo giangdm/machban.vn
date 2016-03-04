@@ -1,0 +1,4 @@
+﻿@data recorder
+#(Tech) máy ghi dữ liệu
+@Chuyên ngành kỹ thuật
+#máy ghi dữ liệu

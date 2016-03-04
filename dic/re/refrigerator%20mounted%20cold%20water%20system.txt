@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tủ lạnh có bộ làm lạnh nước
+#tủ lạnh có bộ làm lạnh nước (có ngăn nước lạnh)
+#tủ lạnh có ngăn nước lạnh

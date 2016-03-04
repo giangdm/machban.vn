@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kinh tế
+#trọng lượng con sống
+#trọng lượng hơi
+@Chuyên ngành kỹ thuật
+#tải trọng
+@Lĩnh vực: hóa học & vật liệu
+#trọng lượng có ích
+@Lĩnh vực: ô tô
+#trọng lượng hàng tải
+#trọng tải có ích
+@Chuyên ngành kỹ thuật
+#tải trọng
+@Lĩnh vực: hóa học & vật liệu
+#trọng lượng có ích
+@Lĩnh vực: ô tô
+#trọng lượng hàng tải
+#trọng tải có ích

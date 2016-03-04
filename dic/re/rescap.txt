@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ tụ-trở
+#mạch đóng gói
+#mạch kết hợp
+@Lĩnh vực: điện lạnh
+#bộ trở tụ
+#cái trở-tụ
+#cái tụ-trở

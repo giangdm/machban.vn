@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#làm lạnh nước
+#sự làm nguội bằng nước
+#sự làm nguội nước
+@Lĩnh vực: điện lạnh
+#làm lạnh bằng nước
+#làm nguội bằng nước
+#sự làm lạnh nước
+@Lĩnh vực: xây dựng
+#sự dùng nước làm lạnh

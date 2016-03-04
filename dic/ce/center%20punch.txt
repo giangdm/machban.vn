@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#mũi đột
+@Lĩnh vực: xây dựng
+#đục tròn đánh dấu tâm
+#mũi dập tâm
+@Lĩnh vực: cơ khí & công trình
+#mũi đột dấu
+@Lĩnh vực: vật lý
+#sự đục lỗ tâm
+@Lĩnh vực: toán & tin
+#trục đòn đánh dấu tâm

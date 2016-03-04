@@ -1,0 +1,10 @@
+﻿@feed mechanism
+#(Tech) cơ cấu cung cấp
+@Chuyên ngành kỹ thuật
+#hộp số tự động
+@Lĩnh vực: toán & tin
+#cơ cấu tiếp liệu
+@Chuyên ngành kỹ thuật
+#hộp số tự động
+@Lĩnh vực: toán & tin
+#cơ cấu tiếp liệu

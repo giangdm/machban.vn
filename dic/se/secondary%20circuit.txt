@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch thứ cấp
+@Lĩnh vực: xây dựng
+#chu trình (mang nhiệt) thứ cấp
+@Lĩnh vực: ô tô
+#mạch điện thứ cấp (đánh lửa)
+@Lĩnh vực: điện
+#mạch nhị thứ
+@Lĩnh vực: điện lạnh
+#mạch thứ cấp (nối với cuộn thứ cấp của biến áp)

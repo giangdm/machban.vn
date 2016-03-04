@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều hợp đồ họa nâng cao
+#bộ tương thích đồ họa cải tiến
+#cạc EGA

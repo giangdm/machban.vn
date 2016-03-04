@@ -1,0 +1,6 @@
+﻿@background processing
+#(Tech) xử lý trong bối cảnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý thứ cấp
+#xử lý thứ cấp

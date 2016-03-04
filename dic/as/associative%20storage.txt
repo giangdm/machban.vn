@@ -1,0 +1,6 @@
+﻿@associative storage
+#(Tech) bộ trữ liên kết
+@Chuyên ngành kỹ thuật
+#bộ nhớ kết hợp
+@Lĩnh vực: toán & tin
+#vùng lưu trữ kết hợp

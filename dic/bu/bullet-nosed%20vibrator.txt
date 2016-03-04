@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ chấn động hình cầu
+@Lĩnh vực: toán & tin
+#dao động hình cầu

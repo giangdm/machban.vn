@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa hút
+#cửa hút có lưới
+#ghi hút (gió)
+#miệng lưới hút
+@Lĩnh vực: điện lạnh
+#ghi lấy gió
+#miệng lấy khí vào
+#miệng lưới lấy khí vào

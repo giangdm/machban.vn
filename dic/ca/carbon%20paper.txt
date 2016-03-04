@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giấy than (dùng để đánh máy)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giấy cacbon
+@Lĩnh vực: hóa học & vật liệu
+#giấy than

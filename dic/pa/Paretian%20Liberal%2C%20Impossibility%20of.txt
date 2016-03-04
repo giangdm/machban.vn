@@ -1,0 +1,3 @@
+﻿@Paretian Liberal, Impossibility of
+#(Econ) Tính không thể của tự do Pareto.
+: Tên đặt cho một định lý do A.K.Sen trình bày. Định lý chứng minh rằng không thể có QUY TẮC QUYẾT ĐỊNH XÃ HỘI nào có thể đồng thời thoả mãn tiêu chuẩn Pareto và cho phép các cá nhân có những quyết định về một số vấn đề riêng tư mà không tính đến (bất kể) nguyện vọng của những người khác (tự do cá nhân).

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#cơ quan tín dụng
+#nhà/sở giao dịch
+#phòng cho vay
+#phòng mua công trái
+#phòng vay mượn
+#tiệm cầm đồ

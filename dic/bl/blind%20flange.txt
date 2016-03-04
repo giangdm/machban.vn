@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ tiêu âm
+#cái nắp
+#cái nút
+#mặt bịt kín
+@Lĩnh vực: xây dựng
+#bích bịt đầu ống
+#bích bịt kín đầu ống
+#mép bích cụt
+@Lĩnh vực: cơ khí & công trình
+#bích đặc
+#bích tịt
+#nắp bích
+#nút mặt bích
+@Lĩnh vực: hóa học & vật liệu
+#mặt bích bít đầu ống
+@Lĩnh vực: toán & tin
+#mặt bích đặt

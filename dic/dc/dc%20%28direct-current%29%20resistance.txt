@@ -1,0 +1,2 @@
+﻿@dc (direct-current) resistance
+#(Tech) điện trở của điện một chiều

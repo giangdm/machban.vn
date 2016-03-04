@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nghề trồng cây ăn trái
+#nghề trồng rau quả
+@Chuyên ngành kỹ thuật
+#ngành trồng cây ăn quả

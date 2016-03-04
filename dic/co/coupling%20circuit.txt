@@ -1,0 +1,9 @@
+﻿@coupling circuit
+#(Tech) mạch ghép
+@Chuyên ngành kỹ thuật
+#mạch ghép
+#mạch nối
+@Lĩnh vực: xây dựng
+#mạch dấu
+@Lĩnh vực: điện
+#mạch điện nối

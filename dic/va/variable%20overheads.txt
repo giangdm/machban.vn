@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí chung khả biến
+#chi phí tổng quát biến đổi
+#chi phí tổng quát khả biến

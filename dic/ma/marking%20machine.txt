@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy dán nhãn
+@Chuyên ngành kỹ thuật
+#máy đánh dấu
+@Lĩnh vực: cơ khí & công trình
+#máy đóng nhãn
+#máy vạch dấu

@@ -1,0 +1,5 @@
+﻿@backward pointer
+#(Tech) con trỏ ngược
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#con trỏ ngược

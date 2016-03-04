@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dự án thí điểm
+#kế hoạch kiểm tra
+@Lĩnh vực: toán & tin
+#đề án thử nghiệm
+@Lĩnh vực: cơ khí & công trình
+#dự án thực nghiệm

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#quạt ly tâm
+@Lĩnh vực: xây dựng
+#máy quạt ly tâm
+@Lĩnh vực: hóa học & vật liệu
+#máy thổi ly tâm

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#xe cẩu
+#xe nhấc hàng
+@Chuyên ngành kỹ thuật
+#máy trục di động
+@Lĩnh vực: xây dựng
+#cần trục ô tô
+#máy trục tự hành
+@Lĩnh vực: cơ khí & công trình
+#cần trục tự hành

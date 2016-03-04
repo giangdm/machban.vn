@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#độ phản xạ
+#hệ số chuyển tiếp
+#hệ số không thích ứng
+#hệ số phản xạ
+#năng suất phản xạ
+@Lĩnh vực: điện tử & viễn thông
+#hệ số phản chiếu
+@Lĩnh vực: điện
+#tỷ số phản xạ

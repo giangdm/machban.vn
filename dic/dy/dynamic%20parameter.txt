@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thông số động
+@Lĩnh vực: cơ khí & công trình
+#thông số động lực

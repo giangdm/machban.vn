@@ -1,0 +1,9 @@
+﻿@Quadratic equation
+#(Econ) Phương trình bậc hai
+: Một phương trình chứa bình phương của một biến số như luỹ thừa cao nhất.
+@Chuyên ngành kinh tế
+#phương trình bậc hai
+@Chuyên ngành kỹ thuật
+#phương trình bậc hai
+@Lĩnh vực: toán & tin
+#phương trình bậc 2

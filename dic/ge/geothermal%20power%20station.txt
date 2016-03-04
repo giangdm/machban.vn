@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhà máy điện địa nhiệt
+@Lĩnh vực: điện
+#nhà máy địa nhiệt điện
+@Lĩnh vực: điện lạnh
+#trạm phát điện địa nhiệt

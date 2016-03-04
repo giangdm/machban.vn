@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khe đĩa mềm để nhập/xuất
+#khe đĩa mềm để vào/ra

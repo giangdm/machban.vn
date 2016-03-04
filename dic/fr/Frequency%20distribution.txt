@@ -1,0 +1,17 @@
+﻿@Frequency distribution
+#(Econ) Phân bố theo tần suất.
+: Thể hiện tóm tắt thường là dưới dạng bảng số hoặc BIỂU ĐỒ TẦN SUẤT, thể hiện số lần mà một BIẾN NGẪU NHIÊN nhận một giá trị nhất định hay khoảng giá trị trong một mẫu quan sát.
+@Chuyên ngành kinh tế
+#phân bố tần suất
+#sự phân bố tần, theo dải tần (trong thống kê)
+@Chuyên ngành kỹ thuật
+#mật độ phân phối
+@Lĩnh vực: toán & tin
+#mật độ phân bố
+#phân phối tần số
+@Lĩnh vực: y học
+#phân bố tần số
+@Lĩnh vực: xây dựng
+#phân tán tần số
+@Lĩnh vực: cơ khí & công trình
+#sự phân bố tần số

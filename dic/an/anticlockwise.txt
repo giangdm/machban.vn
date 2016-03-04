@@ -1,0 +1,2 @@
+﻿@anticlockwise
+#(Tech) ngược chiều kim đồng hồ

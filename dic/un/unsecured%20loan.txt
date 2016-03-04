@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khoản vay không có bảo đảm
+#khoản vay không có đảm bảo
+#nợ không bảo đảm

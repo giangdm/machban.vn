@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#các biện pháp kiểm soát trực tiếp
+@Chuyên ngành kỹ thuật
+#điều khiển trực tiếp
+@Lĩnh vực: toán & tin
+#điều chỉnh trực tiếp

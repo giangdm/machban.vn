@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chế độ chuyển khoản
+#chuyển khoản ngân hàng
+#chuyển khoản trực tiếp của ngân hàng
+#hệ thống chuyển khoản trực tiếp của ngân hàng

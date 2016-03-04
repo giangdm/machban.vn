@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#ô lưu trữ
+#ô nhớ
+#phần tử nhớ
+@Lĩnh vực: toán & tin
+#phần tử bộ nhớ
+#phần tử lưu trữ
+#thành phần lưu trữ

@@ -1,0 +1,11 @@
+﻿@colourable /'kʌlərəbl/
+*tính từ
+#có thể tô màu
+#chỉ đúng bề ngoài
+=a colourable argument: lý lẽ chỉ đúng bề ngoài
+#có thể tin được, có lý, có lẽ thật
+#giả mạo, đánh lừa
+=a colourable imitation: sự giả mạo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tô màu được

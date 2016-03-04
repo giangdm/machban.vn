@@ -1,0 +1,5 @@
+﻿@Command economy
+#(Econ) Nền kinh tế chỉ huy.
+: Xem PLANNED ECONOMY.
+@Chuyên ngành kinh tế
+#nền kinh tế chỉ huy

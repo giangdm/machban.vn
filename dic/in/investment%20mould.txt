@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khuôn mẫu chảy
+#khuôn sáp
+#khuôn vỏ mỏng

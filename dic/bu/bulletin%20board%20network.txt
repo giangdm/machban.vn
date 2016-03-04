@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng thông báo điện tử
+@Lĩnh vực: toán & tin
+#mạng thông báo điện tử

@@ -1,0 +1,2 @@
+﻿@graphic generator
+#(Tech) bộ tạo đồ họa

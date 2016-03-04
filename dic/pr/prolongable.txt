@@ -1,0 +1,9 @@
+﻿@prolongable /prolongable/
+*tính từ
+#có thể kéo dài, có thể nối dài thêm
+@Chuyên ngành kinh tế
+#có thể kéo dài
+#có thể nối dài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thác triển được

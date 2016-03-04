@@ -1,0 +1,12 @@
+﻿@fill factor
+#(Tech) hệ số điền
+@Chuyên ngành kỹ thuật
+#hệ số điền đầy
+#hệ số nạp
+@Lĩnh vực: cơ khí & công trình
+#hệ số đầy
+@Chuyên ngành kỹ thuật
+#hệ số điền đầy
+#hệ số nạp
+@Lĩnh vực: cơ khí & công trình
+#hệ số đầy

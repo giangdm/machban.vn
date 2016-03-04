@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp phủ bít kín
+@Lĩnh vực: xây dựng
+#lớp phủ kín (làm đường)

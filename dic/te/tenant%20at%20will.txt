@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#người hưởng dụng tùy ý
+#người thuê tùy ý
+#người thuê tùy ý (có thể chấm dứt hợp đồng bất cứ lúc nào)

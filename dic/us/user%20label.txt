@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhãn của người sử dụng
+@Lĩnh vực: điện tử & viễn thông
+#nhãn người dùng

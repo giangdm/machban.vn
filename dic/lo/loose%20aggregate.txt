@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cốt liệu mềm
+@Lĩnh vực: xây dựng
+#cốt liệu rời rạc

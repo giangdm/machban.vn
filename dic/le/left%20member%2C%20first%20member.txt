@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#vế trái
+@Lĩnh vực: toán & tin
+#vế thứ nhất
+#vế trái, vế thứ nhất
+@Chuyên ngành kỹ thuật
+#vế trái
+@Lĩnh vực: toán & tin
+#vế thứ nhất
+#vế trái, vế thứ nhất

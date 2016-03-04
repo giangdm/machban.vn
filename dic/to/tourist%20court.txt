@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#khách sạn dành cho khách đi xe hơi (có bãi đậu xe)
+#khách sạn dùng cho khách đi xe hơi (có bãi đậu xe...)

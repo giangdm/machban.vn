@@ -1,0 +1,9 @@
+﻿@candle-power /'kændl,pauə/
+*danh từ
+#(vật lý) nến
+=sixty candle-power lamp: đèn 60 nến
+@Chuyên ngành kỹ thuật
+#lực ánh sáng
+<!-- more -->
+@candle-power
+#lực ánh sáng

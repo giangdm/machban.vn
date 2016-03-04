@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dây dẫn nhôm
+@Lĩnh vực: điện
+#dây nhôm

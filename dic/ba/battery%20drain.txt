@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#pin khô
+#sự phóng điện acquy
+#sự tiêu hao acquy
+@Lĩnh vực: xây dựng
+#drain pin khô

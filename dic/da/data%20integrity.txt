@@ -1,0 +1,2 @@
+﻿@data integrity
+#(Tech) tính toàn vẹn của dữ liệu

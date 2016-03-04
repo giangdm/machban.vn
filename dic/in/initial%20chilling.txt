@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự làm lạnh sơ bộ
+@Chuyên ngành kỹ thuật
+#làm lạnh ban đầu
+#làm lạnh bước đầu
+#làm lạnh giai đoạn đầu
+@Lĩnh vực: điện lạnh
+#sự làm lạnh ban đầu

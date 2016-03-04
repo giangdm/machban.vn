@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thể tích buồng lạnh thô
+#tổng thể tích buồng lạnh

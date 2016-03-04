@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đa vectơ
+@Lĩnh vực: toán & tin
+#đa vecto

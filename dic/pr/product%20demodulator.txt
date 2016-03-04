@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ giải điều tích (số)
+#bộ tách sóng tích (số)

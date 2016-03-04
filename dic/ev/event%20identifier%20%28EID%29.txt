@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký hiệu nhận dạng biến cố
+#ký hiệu nhận dạng sự kiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký hiệu nhận dạng biến cố
+#ký hiệu nhận dạng sự kiện

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#công tắc trượt
+@Lĩnh vực: toán & tin
+#công tắc mạch trượt

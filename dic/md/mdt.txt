@@ -1,0 +1,2 @@
+﻿@mdt
+#thời gian ban ngày ở miền núi (Mountain Daylight Time)

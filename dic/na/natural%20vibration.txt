@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dao động riêng
+#sự dao động riêng
+@Lĩnh vực: vật lý
+#dao động tự nhiên
+@Lĩnh vực: xây dựng
+#tự nhiên

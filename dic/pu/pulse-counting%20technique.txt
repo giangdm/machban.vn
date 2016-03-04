@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kỹ thuật đếm xung
+@Lĩnh vực: vật lý
+#phương pháp đếm bằng xung

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#mẫu in sẵn
+#phiếu, tờ in
+@Chuyên ngành kỹ thuật
+#ấn phẩm
+#dạng giấy in
+#giấy mẫu in sẵn
+@Lĩnh vực: toán & tin
+#tài liệu in, ấn phẩm

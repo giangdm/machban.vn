@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#rủi ro tỉ giá
+#sự dễ bị rủi ro về tỉ giá (hối đoái)
+#sự dễ bị rủi ro về tỷ giá (hối đoái)

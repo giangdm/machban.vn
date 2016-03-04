@@ -1,0 +1,3 @@
+﻿@Price support scheme
+#(Econ) Kế hoạch trợ giá.
+: Một phương pháp nâng giá một hàng hoá trên thị trường một cách giả tạo.

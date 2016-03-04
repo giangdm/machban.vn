@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ thống lạnh dùng CO2
+#trạm lạnh dùng CO2 làm môi chất lạnh

@@ -1,0 +1,4 @@
+﻿@array element
+#(Tech) phần tử mảng
+@Chuyên ngành kỹ thuật
+#phần tử mảng

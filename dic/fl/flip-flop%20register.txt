@@ -1,0 +1,2 @@
+﻿@flip-flop register
+#(Tech) bộ ghi lật

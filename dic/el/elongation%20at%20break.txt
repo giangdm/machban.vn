@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#độ giãn dài giới hạn
+#độ giãn dài tới đứt
+#độ giãn khi đứt
+#độ giãn ở điểm gãy
+@Chuyên ngành kỹ thuật
+#độ giãn dài giới hạn
+#độ giãn dài tới đứt
+#độ giãn khi đứt
+#độ giãn ở điểm gãy

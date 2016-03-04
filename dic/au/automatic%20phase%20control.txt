@@ -1,0 +1,5 @@
+﻿@automatic phase control
+#(Tech) bộ điều chỉnh pha (vị tướng) tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự điều khiển pha tự động

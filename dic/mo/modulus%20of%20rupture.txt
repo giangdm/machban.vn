@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn bền uốn
+@Lĩnh vực: xây dựng
+#cường độ chịu kéo giới hạn
+#môđun phá hoại do uốn
+#môđun phá hoại do xoắn
+#môđun phá hủy

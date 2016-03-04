@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#áp lực địa tĩnh
+@Lĩnh vực: hóa học & vật liệu
+#áp suất định tĩnh

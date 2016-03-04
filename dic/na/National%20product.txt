@@ -1,0 +1,5 @@
+﻿@National product
+#(Econ) Sản phẩm quốc dân.
+: Xem NATION INCOME.
+@Chuyên ngành kinh tế
+#sản phẩm quốc gia

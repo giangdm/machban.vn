@@ -1,0 +1,2 @@
+﻿@mibf
+#thời gian trung bình giữa các sự cố (MTBF)  Thời gian hoạt động trung bình theo thống kê giữa thời điểm một linh kiện hay thiết bị bắt đầu công tác và thời điểm xảy ra sự cố đầu tiên của nó về điện tử hoặc cơ khí

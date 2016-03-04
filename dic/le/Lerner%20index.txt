@@ -1,0 +1,3 @@
+﻿@Lerner index
+#(Econ) Chỉ số Lerner
+: Khi CẠNH TRANH HOÀN HẢO tồn tại thì giá bán chi phí biên; do vậy chỉ số này sẽ có giá trị bằng 0.

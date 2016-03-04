@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bản phác họa
+#bản phác thảo
+#bản sơ thảo (một đề án...)
+@Chuyên ngành kỹ thuật
+#bản vẽ phác
+@Lĩnh vực: toán & tin
+#bản phác họa

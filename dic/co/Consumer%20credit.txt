@@ -1,0 +1,3 @@
+﻿@Consumer credit
+#(Econ) Tín dụng tiêu dùng
+: Một cụm thuật ngữ chung chỉ việc cho NGƯỜI TIÊU DÙNG vay để mua hàng hoá dịch vụ, nhưng thường không bao giờ gồm việc mua nhà.

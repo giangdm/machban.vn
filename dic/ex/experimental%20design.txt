@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thiết kế thử nghiệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sơ đồ thí nghiệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sơ đồ thí nghiệm

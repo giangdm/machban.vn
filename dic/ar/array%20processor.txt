@@ -1,0 +1,6 @@
+﻿@array processor
+#(Tech) bộ xử lý dẫy số
+@Chuyên ngành kỹ thuật
+#bộ xử lý mảng
+@Lĩnh vực: toán & tin
+#bộ xử lý vectơ

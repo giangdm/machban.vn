@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự hàn bằng hồ cacbon
+#sự hàn bằng hồ quang than
+@Lĩnh vực: điện
+#hàm hồ quang cacbon
+@Lĩnh vực: điện lạnh
+#hàn hồ quang điện cực than

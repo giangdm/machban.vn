@@ -1,0 +1,2 @@
+﻿@GI space
+#(Tech) vùng ký tự hình GI (A0-FF)

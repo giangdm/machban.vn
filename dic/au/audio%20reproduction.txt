@@ -1,0 +1,2 @@
+﻿@audio reproduction
+#(Tech) tái tạo âm thanh

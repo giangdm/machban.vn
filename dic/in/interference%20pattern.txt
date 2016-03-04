@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hình giao thoa
+#vân giao thoa
+@Lĩnh vực: điện tử & viễn thông
+#đồ thị giao thoa
+@Lĩnh vực: toán & tin
+#mẫu nhiễu

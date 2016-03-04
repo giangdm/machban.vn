@@ -1,0 +1,5 @@
+﻿@Einthoven galvanometer
+#(Tech) điện kế Einthoven
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện kế Einthoven

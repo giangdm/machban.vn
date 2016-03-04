@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự phóng điện tự nhiên
+@Lĩnh vực: điện
+#sự tự phóng điện
+@Lĩnh vực: cơ khí & công trình
+#tự thoát điện

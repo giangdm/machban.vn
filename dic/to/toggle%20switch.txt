@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chuyển mạch bập bênh
+#công tắc lật
+#mạch lật
+@Lĩnh vực: điện lạnh
+#chốt lật

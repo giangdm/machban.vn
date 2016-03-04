@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#điện trở riêng
+#điện trở suất
+@Lĩnh vực: điện
+#điện trở đặc trưng
+@Lĩnh vực: điện lạnh
+#điện trở riêng (tên cũ)

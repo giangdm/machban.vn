@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều khiển tần số tự động-AFC
+@Chuyên ngành kỹ thuật
+#mạch kiểm tần số tự động
+@Lĩnh vực: toán & tin
+#điều khiển tần số tự động
+#mạch điều khiển tần số tự động

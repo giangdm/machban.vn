@@ -1,0 +1,2 @@
+﻿@daisy-chain bus
+#(Tech) mẫu tuyến móc xích

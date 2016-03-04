@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nhà máy nhiệt điện mặt trời
+#trạm phát điện (dùng năng lượng) mặt trời

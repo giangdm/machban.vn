@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ trượt
+@Lĩnh vực: cơ khí & công trình
+#tốc độ quay trượt (đai truyền)
+@Lĩnh vực: điện lạnh
+#tốc độ trượt (ở máy cảm ứng)

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dải phòng cháy
+#hàng rào ngăn cháy
+#thành chống cháy
+@Lĩnh vực: điện
+#tường chống cháy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dải phòng cháy
+#hàng rào ngăn cháy
+#thành chống cháy
+@Lĩnh vực: điện
+#tường chống cháy

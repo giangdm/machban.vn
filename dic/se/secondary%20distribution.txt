@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phân phối cấp hai
+#phân phối lần thứ hai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phân phối thứ cấp (điện hạ áp)
+@Lĩnh vực: điện
+#sự phân phối thứ cấp

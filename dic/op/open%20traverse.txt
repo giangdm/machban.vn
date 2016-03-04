@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đường mở
+@Lĩnh vực: toán & tin
+#đa giác hở
+@Lĩnh vực: xây dựng
+#đường sườn hở
+#giao tuyến mở
+#lối đi không khép kín

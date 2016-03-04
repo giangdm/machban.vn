@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#biến logic
+@Lĩnh vực: xây dựng
+#biến số lôgic
+@Lĩnh vực: toán & tin
+#biến số luận lý
+<!-- more -->
+@Chuyên ngành kỹ thuật
+#biến logic
+@Lĩnh vực: xây dựng
+#biến số lôgic
+@Lĩnh vực: toán & tin
+#biến số luận lý

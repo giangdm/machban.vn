@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự thay đổi trạng thái chất kết tụ
+@Chuyên ngành kỹ thuật
+#sự thay đổi trạng thái
+#thay đổi trạng thái
+@Lĩnh vực: điện lạnh
+#biến đổi trạng thái
+#sự biến đổi trạng thái

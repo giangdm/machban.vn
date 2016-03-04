@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phương pháp làm lạnh paraelectric
+#phương pháp làm lạnh thuận điện

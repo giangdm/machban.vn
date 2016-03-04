@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dự trữ số giờ công
+#dự trữ thời gian làm việc

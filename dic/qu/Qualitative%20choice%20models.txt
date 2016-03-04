@@ -1,0 +1,3 @@
+﻿@Qualitative choice models
+#(Econ) Mô hình lựa chọn định tính.
+: Đây là các mô hình đã được đưa ra để giải quyết những dữ liệu phản ứng không liên tục, chẳng hạn như quyết định mua hay không mua xe ô tô, thay đổi việc làm, hoặc đi học đại học.

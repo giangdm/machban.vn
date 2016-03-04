@@ -1,0 +1,5 @@
+﻿@capacitor store
+#(Tech) bộ trữ điện dung
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ tụ điện

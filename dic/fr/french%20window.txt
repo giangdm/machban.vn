@@ -1,0 +1,11 @@
+﻿@french window
+*danh từ
+#<ktrúc> cửa kính ở ban công
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#Cửa sổ kiểu Pháp
+@Chuyên ngành kỹ thuật
+#cửa sổ
+@Lĩnh vực: xây dựng
+#cửa sổ hai cánh
+#cửa sổ pháp

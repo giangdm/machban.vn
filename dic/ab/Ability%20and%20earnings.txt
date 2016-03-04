@@ -1,0 +1,3 @@
+﻿@Ability and earnings
+#(Econ) Năng lực và thu nhập
+: Thước đo về khả năng và trình độ (học vấn) có tương quan chặt chẽ với nhau, làm tăng khả năng là phần lớn lợi tức được ước tính do giáo dục trên thực tế cũng chính là lợi tức do năng  lực

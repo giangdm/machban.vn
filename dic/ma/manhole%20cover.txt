@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#nắp che
+#nắp cửa chui
+#nắp đậy lỗ chui qua
+#nắp lỗ chui
+@Lĩnh vực: cơ khí & công trình
+#nắp chỗ chui (người vào)
+@Lĩnh vực: đo lường & điều khiển
+#nắp giếng kiểm tra
+#nắp hố thăm dò
+@Lĩnh vực: xây dựng
+#nắp hố ga

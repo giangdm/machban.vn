@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân phối gama
+@Lĩnh vực: điện tử & viễn thông
+#sự phân phối gamma

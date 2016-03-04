@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#công cụ tạo gợn sóng
+@Lĩnh vực: cơ khí & công trình
+#dụng cụ gấp mép
+@Lĩnh vực: điện
+#kìm gấp mép (nối kẹp)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#trạm xử lý nước
+@Chuyên ngành kỹ thuật
+#trạm xử lý nước thải
+@Lĩnh vực: xây dựng
+#trạm làm sạch nước thải

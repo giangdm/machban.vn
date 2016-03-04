@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#cần trục cột buồm
+@Lĩnh vực: giao thông & vận tải
+#cần cẩu tháp
+@Lĩnh vực: xây dựng
+#cần trục (kiểu) cột buồm
+#máy trục kiểu trụ
+@Lĩnh vực: cơ khí & công trình
+#cần trục cột
+#cần trục hai chân
+@Lĩnh vực: toán & tin
+#cẩu trục cột buồm

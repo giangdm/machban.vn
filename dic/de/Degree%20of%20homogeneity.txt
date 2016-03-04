@@ -1,0 +1,3 @@
+﻿@Degree of homogeneity
+#(Econ) Mức độ đồng nhất
+: Xem HOMOGENNOEUS FUNCTIONS.

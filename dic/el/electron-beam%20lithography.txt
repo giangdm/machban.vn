@@ -1,0 +1,8 @@
+﻿@electron-beam lithography
+#(Tech) phép in mặt bằng tia điện tử, phép quang khắc bằng tia điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khắc bằng chùm điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khắc bằng chùm điện tử

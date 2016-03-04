@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ lệch tương đối
+@Lĩnh vực: xây dựng
+#độ võng tương đối

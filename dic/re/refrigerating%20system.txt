@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hệ lạnh
+#hệ thống làm lạnh
+@Chuyên ngành kỹ thuật
+#hệ thống làm lạnh
+#thiết bị làm nguội
+@Lĩnh vực: cơ khí & công trình
+#hệ thống mát

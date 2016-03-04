@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giá ròng
+#giá thực
+#giá tịnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#thực giá

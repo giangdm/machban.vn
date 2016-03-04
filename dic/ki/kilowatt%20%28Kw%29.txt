@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#kilô-oát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bằng 1000 watt
+#kilôwatt
+@Lĩnh vực: điện
+#kilôoat
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bằng 1000 watt
+#kilôwatt
+@Lĩnh vực: điện
+#kilôoat

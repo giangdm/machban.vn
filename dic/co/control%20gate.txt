@@ -1,0 +1,9 @@
+﻿@control gate
+#(Tech) cổng điều khiển; cực cổng điều khiển
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cổng điều khiển
+@Lĩnh vực: cơ khí & công trình
+#cửa điều tiết
+@Lĩnh vực: xây dựng
+#cửa van điều tiết

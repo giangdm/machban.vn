@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#van bít
+#van chặn
+#van đóng
+@Lĩnh vực: điện lạnh
+#van khóa

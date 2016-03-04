@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ kênh đơn trên sóng mang
+@Lĩnh vực: điện tử & viễn thông
+#một kênh mỗi sóng mang

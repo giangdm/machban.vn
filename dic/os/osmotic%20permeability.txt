@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tính thấm thấu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính thấm lọc

@@ -1,0 +1,12 @@
+﻿@floating address
+#(Tech) địa chỉ thả nổi, địa chỉ động = symbolic address
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#địa chỉ di động
+#địa chỉ động
+#địa chỉ tương đối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#địa chỉ di động
+#địa chỉ động
+#địa chỉ tương đối

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hợp đồng đơn thuần
+#hợp đồng không thế chấp
+#hợp đồng thông thường
+#khế ước ký tư
+#khế ước ký tự
+#thỏa ước miệng (không có thị lực của công chứng viên)
+#thỏa ước miệng (không có thị thực của công chứng viên)

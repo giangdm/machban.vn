@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ chứa ẩm tuyệt đối
+#dung ẩm tuyệt đối
+#dung lượng ẩm tuyệt đối
+#hàm lượng ẩm tuyệt đối

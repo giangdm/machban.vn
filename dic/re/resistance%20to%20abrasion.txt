@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tính chịu mài mòn
+@Lĩnh vực: xây dựng
+#độ chịu mài mòn

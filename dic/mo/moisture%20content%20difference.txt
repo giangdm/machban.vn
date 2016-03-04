@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chênh lệch độ ẩm
+@Lĩnh vực: điện lạnh
+#độ chênh lệch độ ẩm
+#hiệu ẩm
+#hiệu độ ẩm

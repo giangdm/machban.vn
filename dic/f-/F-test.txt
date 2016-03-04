@@ -1,0 +1,2 @@
+﻿@F-test
+#(Econ) Kiểm định Fisher.

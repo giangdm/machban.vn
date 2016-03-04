@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#đường tải trọng
+@Lĩnh vực: điện
+#biểu đồ phụ tải
+#đường cong phụ tải
+#đường phụ tải
+@Lĩnh vực: điện lạnh
+#đường cong (phụ) tải
+@Lĩnh vực: xây dựng
+#đường cong tải trọng
+@Chuyên ngành kỹ thuật
+#đường tải trọng
+@Lĩnh vực: điện
+#biểu đồ phụ tải
+#đường cong phụ tải
+#đường phụ tải
+@Lĩnh vực: điện lạnh
+#đường cong (phụ) tải
+@Lĩnh vực: xây dựng
+#đường cong tải trọng

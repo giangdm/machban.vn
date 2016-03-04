@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#bến tàu nổi
+#cầu lên bờ
+#cầu tàu
+#chất lượng dỡ hàng lên bờ
+@Chuyên ngành kỹ thuật
+#bến tàu
+@Lĩnh vực: giao thông & vận tải
+#cầu lên bờ
+#sân tiếp nhận
+@Chuyên ngành kỹ thuật
+#bến tàu
+@Lĩnh vực: giao thông & vận tải
+#cầu lên bờ
+#sân tiếp nhận

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#ga hàng hóa
+@Chuyên ngành kỹ thuật
+#ga hàng hóa
+#lán chứa hàng
+@Lĩnh vực: giao thông & vận tải
+#kho hàng nhỏ

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự cấp nhiệt cục bộ
+#sự sưởi cục bộ
+@Lĩnh vực: điện
+#sự nung cục bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự cấp nhiệt cục bộ
+#sự sưởi cục bộ
+@Lĩnh vực: điện
+#sự nung cục bộ

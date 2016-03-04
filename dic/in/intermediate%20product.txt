@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sản phẩm trung gian
+@Chuyên ngành kỹ thuật
+#bán thành phẩm
+#sản phẩm trung gian

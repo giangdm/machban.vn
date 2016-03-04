@@ -1,0 +1,12 @@
+﻿@echo cancellation
+#(Tech) triệt tiếng dội
+@Chuyên ngành kỹ thuật
+#hủy bỏ phản hồi
+#khử phản hồi
+#kỹ thuật khử phản hồi
+#loại bỏ tiếng dội
+#sự triệt tiếng dội
+@Lĩnh vực: toán & tin
+#sự khử (tín hiệu) dội
+@Lĩnh vực: điện lạnh
+#triệt tín dội

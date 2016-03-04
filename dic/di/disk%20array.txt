@@ -1,0 +1,6 @@
+﻿@disk array
+#(Tech) mảng đĩa, dẫy đĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dãy đĩa
+#mảng đĩa

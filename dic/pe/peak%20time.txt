@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giờ cao điểm
+#giờ giá "đỏ". (quảng cáo trên truyền hình)
+#giờ giá đỏ (quảng cáo trên truyền hình)
+@Chuyên ngành kỹ thuật
+#giờ cao điểm
+@Lĩnh vực: hóa học & vật liệu
+#thời gian cao điểm

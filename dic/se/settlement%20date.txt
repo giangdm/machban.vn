@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#ngày thanh toán
+#thời điểm thanh lý
+@Chuyên ngành kỹ thuật
+#thời hạn thanh toán

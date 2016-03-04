@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ biến đổi quay
+#đynamôtô
+#máy biến điện hồi chuyển
+#máy chỉnh lưu đồng bộ
+#máy đổi điện quay
+@Lĩnh vực: điện
+#bộ biên đổi điện quay
+#bộ biến đổi đồng bộ
+#bộ đảo điện quay
+#máy biến điện kiểu quay
+@Lĩnh vực: điện lạnh
+#bộ chỉnh lưu quay
+#máy biến đổi quay
+#máy đảo đồng bộ

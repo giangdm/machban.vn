@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mạch khuếch đại trung tần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ khuếch đại IF
+@Lĩnh vực: toán & tin
+#bộ khuếch đại trung tần
+@Lĩnh vực: xây dựng
+#máy khuếch đại trung tần

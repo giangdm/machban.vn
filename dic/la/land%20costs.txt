@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phí tổn đất đai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giá đất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giá đất

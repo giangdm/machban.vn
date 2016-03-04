@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#địa hình quán tính
+#địa hình tĩnh
+#địa thể quán tính
+#địa thể tĩnh
+#địa vật quán tính
+#địa vật tĩnh

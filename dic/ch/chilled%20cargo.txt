@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hàng mát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hàng hóa được làm lạnh

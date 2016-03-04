@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tạo dạng thi hành
+#tạo dạng thực hiện
+#tiểu sử hoạt động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tạo dạng thi hành
+#tạo dạng thực hiện
+#tiểu sử hoạt động

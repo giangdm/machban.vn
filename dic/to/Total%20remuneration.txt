@@ -1,0 +1,3 @@
+﻿@Total remuneration
+#(Econ) Thù lao tổng.
+: Tổng các lợi ích bằng tiền mà người công nhân nhận được từ việc làm của mình.

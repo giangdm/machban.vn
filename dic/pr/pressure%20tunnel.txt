@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đường hầm áp lực
+#đường hầm có áp
+#đường ống có ép
+@Lĩnh vực: xây dựng
+#đường hầm có áp lực
+#hầm áp suất
+#hầm chịu áp

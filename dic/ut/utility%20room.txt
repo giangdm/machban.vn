@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#buồng chứa đồ cồng kềnh
+#buồng đặt động cơ
+#buồng sinh hoạt

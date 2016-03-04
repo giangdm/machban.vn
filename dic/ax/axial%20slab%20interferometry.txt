@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#đo giao thoa bản hướng trục
+#đo giao thoa tấm dọc trục

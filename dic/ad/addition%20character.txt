@@ -1,0 +1,2 @@
+﻿@addition character
+#(Tech) ký tự thêm vào = special character

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#građien co ngót (do bị khô hao)
+#gradient co ngót (do bị khô hao)

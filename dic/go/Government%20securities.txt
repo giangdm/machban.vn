@@ -1,0 +1,7 @@
+﻿@Government securities
+#(Econ) Chứng khoán của chính phủ.
+: Một cụm thuật ngữ chung chỉ số nợ có thể trao đổi được của chính phủ trung ương, từ thời hạn ngắn nhất, nghĩa là HỐI PHIẾU BỘ TÀI CHÍNH tới thời hạn rất dài và những khoản nợ không xác định ngày.
+@Chuyên ngành kinh tế
+#chứng khoán có giá của Chính phủ
+#chứng khoán của các cơ quan chính quyền
+#trái khoán Nhà nước

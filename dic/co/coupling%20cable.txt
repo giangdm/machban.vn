@@ -1,0 +1,5 @@
+﻿@coupling cable
+#(Tech) cáp ghép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cáp ghép nối

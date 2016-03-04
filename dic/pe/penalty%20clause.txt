@@ -1,0 +1,9 @@
+﻿@penalty clause
+*danh từ
+#điều khoản phạt
+@Chuyên ngành kinh tế
+#điều khoản phạt
+#điều khoản tiền phạt (khi hợp đồng bị vi phạm)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#điều khoản phạt

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu thức logic
+#biểu thức luận lý
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu thức Boole

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khoảng điều khiển
+#thời gian điều chỉnh
+@Lĩnh vực: toán & tin
+#khoảng kiểm tra

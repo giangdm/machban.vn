@@ -1,0 +1,9 @@
+﻿@upper case
+*danh từ
+#chữ hoa (nhất là chữ in)
+@Chuyên ngành kinh tế
+#chữ hoa
+#chữ hoa (in hoặc đánh máy)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#két trên

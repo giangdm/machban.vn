@@ -1,0 +1,5 @@
+﻿@Accumulated depreciation
+#(Econ) Khấu hao tích luỹ.
+@Chuyên ngành kinh tế
+#khấu hao lũy kế
+#sự khấu hao tích lũy

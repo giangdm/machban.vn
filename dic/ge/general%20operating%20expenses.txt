@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chi phí hoạt động tổng quát
+#chi phí nghiệp vụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tiền chi tiêu hoạt động
+#tiền chi tiêu vận hành

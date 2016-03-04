@@ -1,0 +1,2 @@
+﻿@Autarky economy
+#(Econ) Nền kinh tế tự cung tự cấp

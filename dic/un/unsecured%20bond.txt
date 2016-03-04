@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#trái khoán công ty không có bảo đảm
+#trái phiếu công ty không có bảo đảm
+#trái phiếu không bảo đảm
+#trái phiếu không có bảo đảm

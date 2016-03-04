@@ -1,0 +1,2 @@
+﻿@alternative command
+#(Tech) lệnh thay thế

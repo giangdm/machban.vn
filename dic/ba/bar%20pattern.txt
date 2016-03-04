@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hình mẫu màu
+#hình mẫu sọc
+@Lĩnh vực: điện tử & viễn thông
+#hình mẫu thanh
+@Lĩnh vực: toán & tin
+#mẫu vạch

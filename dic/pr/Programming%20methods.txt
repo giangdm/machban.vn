@@ -1,0 +1,3 @@
+﻿@Programming methods
+#(Econ) Phương pháp quy hoạch.
+: Một tên chung để gọi một loạt các kỹ thuật tối ưu hoá, thường bao gồm các phương pháp giải pháp lặp lại, một ví dụ là QUY HOẠCH TUYẾN.

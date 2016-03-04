@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phân phối điện
+@Lĩnh vực: điện
+#sự phân bổ công suất
+@Lĩnh vực: ô tô
+#sự phân phối công suất (truyền động 4 bánh)

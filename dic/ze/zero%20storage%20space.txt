@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng bảo quản ở dưới 0độ F (-17, 8 độC)
+#không gian (buồng) bảo quản ở dưới 00F

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#năng suất đã định
+@Chuyên ngành kỹ thuật
+#công suất định mức
+#công suất ghi
+@Lĩnh vực: cơ khí & công trình
+#công suất thiết kế
+#sản lượng định mức
+@Lĩnh vực: giao thông & vận tải
+#độ cao danh định
+@Lĩnh vực: xây dựng
+#dung tích danh nghĩa

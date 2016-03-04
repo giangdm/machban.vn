@@ -1,0 +1,8 @@
+﻿@fixed-head disk
+#(Tech) đĩa có đầu đọc cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đĩa có đầu cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đĩa có đầu cố định

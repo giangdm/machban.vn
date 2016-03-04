@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#đường xoáy (ở sát đuôi một tấm phẳng)

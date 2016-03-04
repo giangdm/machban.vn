@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ngân hàng dữ liệu
+#sở dữ liệu
+@Lĩnh vực: vật lý
+#sở dữ liệu máy tính

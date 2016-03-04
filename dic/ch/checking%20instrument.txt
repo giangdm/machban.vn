@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ đo hiệu chỉnh
+#dụng cụ đo thử nghiệm
+#dụng cụ kiểm tra
+#khí cụ đo kiểm tra

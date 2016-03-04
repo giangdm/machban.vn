@@ -1,0 +1,2 @@
+﻿@coordinate indexing
+#(Tech) chỉ số hóa tọa độ

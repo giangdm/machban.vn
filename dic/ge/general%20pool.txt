@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng chung
+@Lĩnh vực: toán & tin
+#vùng tổng quát

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chỉ huy công trường
+#chỉ huy thi công
+#người quản lý công trình

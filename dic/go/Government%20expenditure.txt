@@ -1,0 +1,3 @@
+﻿@Government expenditure
+#(Econ) Chi tiêu của chính phủ.
+: Muốn tìm hiểu chi tiết hơn, xem CHI TIÊU CÔNG CỘNG. Những chi tiêu này tạo nên một phần quan trọng của TỔNG CHI TIÊU và may mặc dù được coi là ngoại sinh trong MÔ HÌNH CHI TIÊU THU NHẬP đơn giản, vẫn chiếm giữ một vai trò quan trọng trong mô hình Keynes trong việc xác định MỨC THU NHẬP QUỐC DÂN CÂN BẰNG.

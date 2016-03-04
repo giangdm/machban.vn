@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#các chi phí sản xuất
+#chi phí chế tạo
+#chi phí sản xuất
+#phí tổn chế tạo
+#phí tổn sản xuất
+@Chuyên ngành kỹ thuật
+#giá thành chế tạo
+#giá thành sản xuất

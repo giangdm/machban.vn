@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#tổng khối lượng
+#tổng lượng
+#tổng số lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thể tích chung
+#thể tích tổng
+#tổng khối lượng

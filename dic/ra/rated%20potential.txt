@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#công suất khai thác tiềm năng (của một giếng)
+#tiềm năng danh nghĩa

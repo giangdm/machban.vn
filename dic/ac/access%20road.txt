@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#đường dẫn đến
+@Chuyên ngành kỹ thuật
+#đường dẫn lên cầu
+#đường dẫn vào ga
+#đường đến
+#đường nhánh
+#đường phụ
+#đường rẽ
+#đường vào
+@Lĩnh vực: xây dựng
+#đường (dẫn) vào

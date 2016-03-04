@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch vữa nằm
+@Lĩnh vực: xây dựng
+#mạch ngang
+@Lĩnh vực: cơ khí & công trình
+#mạch nối vỉa

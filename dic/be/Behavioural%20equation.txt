@@ -1,0 +1,5 @@
+﻿@Behavioural equation
+#(Econ) Phương trình về hành vi
+: Một mối quan hệ toán học trong một mô hình kinh tế hay kinh tế lượng, phản ánh sự phản ứng của một cá nhân hay một tập hợp các cá nhân đối với các khuyến khích kinh tế (ví dụ HÀM TIÊU DÙNG).
+@Chuyên ngành kinh tế
+#phương trình hành vi

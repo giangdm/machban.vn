@@ -1,0 +1,2 @@
+﻿@correlated state
+#(Tech) trạng thái tương quan

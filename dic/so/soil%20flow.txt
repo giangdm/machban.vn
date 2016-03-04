@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng đất chảy
+@Lĩnh vực: xây dựng
+#hiện tượng đất chảy
+@Lĩnh vực: cơ khí & công trình
+#từ biến của đá đất

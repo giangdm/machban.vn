@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bảng chuyển mạch đô thị
+#tổng đài cục bộ

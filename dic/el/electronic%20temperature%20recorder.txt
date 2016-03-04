@@ -1,0 +1,2 @@
+﻿@electronic temperature recorder
+#(Tech) bộ ghi nhiệt độ điện tử

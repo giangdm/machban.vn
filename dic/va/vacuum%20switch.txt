@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cái chuyển mạch chân không
+#chuyển mạch trong chân không
+@Lĩnh vực: xây dựng
+#núm ngắt điện chân không

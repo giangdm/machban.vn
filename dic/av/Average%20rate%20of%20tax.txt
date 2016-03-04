@@ -1,0 +1,3 @@
+﻿@Average rate of tax
+#(Econ) Suất thuế bình quân (suất thuế thực tế).
+: Được sử dụng khi nói về THUẾ THU NHẬP CÁ NHÂN nhưng cũng có thể áp dụng với các loại thuế khác. Thường được dùng để chỉ tổng thuế thu nhập dưới dạng một phần của thu nhập.

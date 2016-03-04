@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh nhiệt độ từ xa
+#khống chế nhiệt độ từ xa
+#sự điều chỉnh (khống chế) nhiệt độ từ xa

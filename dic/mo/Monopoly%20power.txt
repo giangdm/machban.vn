@@ -1,0 +1,6 @@
+﻿@Monopoly power
+#(Econ) Quyền lực độc quyền.
+: Là khả năng của một doanh nghiệp hoặc một nhóm các doanh nghiệp trong việc tác động đến giá cả thị trường của một loại hàng hóa hoặc dịch vụ mà họ bán.
+@Chuyên ngành kinh tế
+#đại xí nghiệp độc quyền
+#quyền lực độc quyền

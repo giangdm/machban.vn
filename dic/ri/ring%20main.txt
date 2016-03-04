@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đường trục bao
+#đường trục vòng
+@Lĩnh vực: điện
+#đường dây vòng
+#mạch chính mắc vòng
+@Lĩnh vực: xây dựng
+#ống dẫn tròn

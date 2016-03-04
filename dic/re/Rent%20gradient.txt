@@ -1,0 +1,3 @@
+﻿@Rent gradient
+#(Econ) Gradient tiền thuê.
+: Là một mối quan hệ được sử dụng trong KINH TẾ HỌC ĐÔ THỊ, biểu thị mức tô phải trả cho một đơn vị đất đai như một hàm số của khoảng cách từ một điểm tham chiếu nhất định - thường là một thành phố hoặc trung tâm thị xã.

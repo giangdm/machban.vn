@@ -1,0 +1,5 @@
+﻿@Tariff factory
+#(Econ) Nhà máy tránh thuế quan.
+: Việc thay đổi địa điểm sản xuất một hàng hoá từ một nơi có giá thành thấp tới một nơi có giá thành cao ở một nước khác- nơi mà không thể bán mặt hàng này được do thuế quan cao.
+@Chuyên ngành kinh tế
+#xưởng quan thuế

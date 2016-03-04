@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạng dữ liệu chuyển theo bó
+@Lĩnh vực: điện tử & viễn thông
+#mạng truyền theo bó

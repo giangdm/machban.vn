@@ -1,0 +1,12 @@
+﻿@electron conduction
+#(Tech) sự truyền dẫn điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#dẫn điện điện tử
+@Lĩnh vực: điện lạnh
+#dẫn nhiệt điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#dẫn điện điện tử
+@Lĩnh vực: điện lạnh
+#dẫn nhiệt điện tử

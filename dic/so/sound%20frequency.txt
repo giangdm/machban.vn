@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#âm tần
+@Lĩnh vực: điện lạnh
+#tần số âm (thanh)
+@Lĩnh vực: vật lý
+#trường âm thanh

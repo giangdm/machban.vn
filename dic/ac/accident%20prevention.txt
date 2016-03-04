@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#biện pháp an toàn
+#dự phòng tai nạn
+@Chuyên ngành kỹ thuật
+#sự an toàn lao động
+#sự ngăn ngừa tai nạn
+#sự phòng ngừa tai nạn
+@Lĩnh vực: y học
+#phòng ngừa sự cố
+@Lĩnh vực: điện
+#sự phòng ngừa sự cố

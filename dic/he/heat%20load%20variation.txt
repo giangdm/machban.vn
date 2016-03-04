@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biến thiên tải nhiệt
+#sự biến thiên nhiệt tải
+#sự thay đổi nhiệt tải
+#thay đổi tải nhiệt

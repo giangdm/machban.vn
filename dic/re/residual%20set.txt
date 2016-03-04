@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự biến dạng dư
+@Lĩnh vực: toán & tin
+#tập (hợp) dư

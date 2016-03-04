@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp có tải
+#điện áp làm việc
+#điện áp mạch kín
+@Lĩnh vực: điện
+#điện áp trên phụ tải

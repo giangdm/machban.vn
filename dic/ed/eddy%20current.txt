@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng điện xoáy
+@Lĩnh vực: điện
+#dòng điện phucô
+@Lĩnh vực: điện lạnh
+#dòng Foucault

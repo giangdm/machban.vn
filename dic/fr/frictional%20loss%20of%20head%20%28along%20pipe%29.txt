@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hao hụt áp lực theo chiều dài ống

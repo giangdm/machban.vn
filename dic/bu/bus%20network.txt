@@ -1,0 +1,5 @@
+﻿@bus network
+#(Tech) mạng lưới mạch nối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạng bus

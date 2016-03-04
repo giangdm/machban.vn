@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#tốc độ dộng cơ
+@Lĩnh vực: hóa học & vật liệu
+#tốc độ máy phát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#tốc độ dộng cơ
+@Lĩnh vực: hóa học & vật liệu
+#tốc độ máy phát

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#xe chạy bằng acquy
+@Lĩnh vực: ô tô
+#xe chạy acquy
+@Lĩnh vực: điện
+#xe chạy bằng điện

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực
+@Lĩnh vực: xây dựng
+#hao hụt cột áp
+#sự mất mát cột áp

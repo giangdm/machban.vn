@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều hành kiểm tra kênh
+@Lĩnh vực: điện tử & viễn thông
+#bộ điệu hành kiểm tra kênh

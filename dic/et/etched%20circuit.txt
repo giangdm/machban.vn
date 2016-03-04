@@ -1,0 +1,8 @@
+﻿@etched circuit
+#(Tech) mạch khắc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mạch khắc axít
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mạch khắc axít

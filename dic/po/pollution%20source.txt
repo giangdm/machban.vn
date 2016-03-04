@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nguồn ô nhiễm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: môi trường
+#nguồn gây ô nhiễm

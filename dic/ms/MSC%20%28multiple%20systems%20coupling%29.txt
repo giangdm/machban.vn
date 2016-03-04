@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự ghép đa hệ
+#sự ghép nối nhiều hệ thống

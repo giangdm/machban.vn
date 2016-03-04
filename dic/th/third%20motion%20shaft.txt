@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#trục chuyển động thứ ba
+#trục dẫn động chính
+#trục động thứ ba
+#trục ra
+#trục ra của hộp số

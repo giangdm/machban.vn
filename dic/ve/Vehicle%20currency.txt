@@ -1,0 +1,9 @@
+﻿@Vehicle currency
+#(Econ) Đồng tiền phương tiện.
+: Trong các trung tâm buôn bán ngoại hối lớn, hầu hết mọi giao dịch được thực hiện với một số đồng tiền chủ chốt, những người nắm giữ các loại tiền khác chuyển đổi chúng sang một hay vài loại đồng tiền chủ chốt này để thực hiện giao dịch thương mại của mình.
+@Chuyên ngành kinh tế
+#chuyển tệ
+#đồng tiền mậu dịch
+#đồng tiền môi giới
+#đồng tiền thu chuyển
+#đồng tiền trung chuyển

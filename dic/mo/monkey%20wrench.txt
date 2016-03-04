@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#mỏ lết đầu dẹt
+@Lĩnh vực: xây dựng
+#clê hàm di động
+@Lĩnh vực: hóa học & vật liệu
+#kìm vặn
+@Lĩnh vực: cơ khí & công trình
+#mỏ lết đầu vuông
+@Lĩnh vực: ô tô
+#mỏ nết

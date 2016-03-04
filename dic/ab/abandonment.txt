@@ -1,0 +1,18 @@
+﻿@abandonment /ə'bændənmənt/
+*danh từ
+#sự bỏ, sự từ bỏ, sự bỏ rơi, sự ruồng bỏ
+#tình trạng bị bỏ rơi, tình trạng bị ruồng bỏ
+#sự phóng túng, sự tự do, sự buông thả
+@Chuyên ngành kinh tế
+#bỏ phế
+#sự giao phó (hàng hóa tổn thất cho công ty bảo hiểm)
+@Chuyên ngành kỹ thuật
+#bỏ
+#sự bỏ
+#sự hủy bỏ
+#sự loại bỏ
+@Lĩnh vực: hóa học & vật liệu
+#từ bỏ
+<!-- more -->
+@abandonment
+#(Tech) bỏ, từ bỏ (d)

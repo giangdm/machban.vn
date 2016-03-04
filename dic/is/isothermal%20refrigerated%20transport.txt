@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phương tiện tải đẳng nhiệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#vận chuyển lạnh đẳng nhiệt

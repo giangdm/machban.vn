@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cách điện ống
+@Lĩnh vực: điện lạnh
+#sứ kiểu lõi chỉ

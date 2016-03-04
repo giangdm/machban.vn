@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#ắcqui có thể sạc
+@Lĩnh vực: vật lý
+#pin nạp (điện) được

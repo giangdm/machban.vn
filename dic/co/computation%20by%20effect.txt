@@ -1,0 +1,2 @@
+﻿@computation by effect
+#(Tech) tính toán bằng hiêu quả [NB]

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ dập tia lửa
+#bộ thu tia lửa điện, cái triệt tia lửa điện
+#bộ triệt tia lửa
+@Lĩnh vực: hóa học & vật liệu
+#bộ phận ngăn đánh lửa
+@Lĩnh vực: cơ khí & công trình
+#bộ phận ngăn tia lửa
+@Lĩnh vực: giao thông & vận tải
+#thiết bị dập hồ quang

@@ -1,0 +1,2 @@
+﻿@emitter follower circuit
+#(Tech) mạch gánh cực phát xạ

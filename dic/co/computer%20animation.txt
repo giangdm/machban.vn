@@ -1,0 +1,9 @@
+﻿@computer animation
+#(Tech) hoạt họa điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hoạt hình bằng máy tính
+#hoạt hình máy tính
+#hoạt hình trên máy tính
+@Lĩnh vực: xây dựng
+#hoạt họa máy toán

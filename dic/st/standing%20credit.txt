@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tín dụng cấp sẵn
+#tín dụng dự phòng
+#tín dụng thường trực

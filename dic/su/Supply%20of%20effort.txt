@@ -1,0 +1,3 @@
+﻿@Supply of effort
+#(Econ) Cung nỗ lực.
+: Cung giờ hay cung nỗ lực thường được coi là đồng nghĩa. Quy ước này có lý khi nỗ lực trong công việc được kiểm soát trong công nghệ. Trong thực tế đầu vào thời gian bằng nhau có thể có giá trị năng suất rất khác nhau.

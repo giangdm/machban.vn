@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Tiêu chuẩn số N [0, 1, 1C, 2 và 3]

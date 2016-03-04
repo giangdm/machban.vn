@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#khả năng bay hơi
+@Chuyên ngành kỹ thuật
+#khả năng bay hơi
+#năng suất bay hơi
+#năng suất hơi
+@Chuyên ngành kỹ thuật
+#khả năng bay hơi
+#năng suất bay hơi
+#năng suất hơi

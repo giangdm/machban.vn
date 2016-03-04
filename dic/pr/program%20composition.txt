@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lập trình
+@Lĩnh vực: cơ khí & công trình
+#sự lập trình
+@Lĩnh vực: toán & tin
+#thảo chương

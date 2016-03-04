@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cáp băng
+#cáp dẹt
+@Lĩnh vực: toán & tin
+#cáp dẹp, cáp băng
+#cáp ruy băng

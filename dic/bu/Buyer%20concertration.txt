@@ -1,0 +1,3 @@
+﻿@Buyer concertration
+#(Econ) Sự tập trung người mua.
+: Để chỉ mức độ mà tổng giao dịch trên một thị trường bị thống trị bởi một vài người mua lớn nhất.

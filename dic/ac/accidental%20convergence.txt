@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự hội tụ ngẫu nhiên
+#tính hội tụ ngẫu nhiên

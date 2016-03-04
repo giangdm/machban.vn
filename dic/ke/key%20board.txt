@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng nút bấm
+@Lĩnh vực: hóa học & vật liệu
+#bảng ống cắm
+#vòng chìa khóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng nút bấm
+@Lĩnh vực: hóa học & vật liệu
+#bảng ống cắm
+#vòng chìa khóa

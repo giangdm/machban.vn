@@ -1,0 +1,26 @@
+﻿@Knife edge
+#(Econ) Điểm tựa mỏng manh.
+: Trong THUYẾT TĂNG TRƯỞNG, một vật cản đối với tăng trưởng ổn định khi Tốc độ tăng trưởng đảm bảo là không ổn định, ngoài vấn đề nữa là liệu tốc độ đảm bảo có ngang bằng Tốc độ tăng trưởng tự nhiên hay không.
+@Chuyên ngành kinh tế
+#sự tăng trưởng mong manh
+#tăng trưởng mong manh
+@Chuyên ngành kỹ thuật
+#cạnh sắc
+#dao tựa
+#lưỡi dao
+#lưỡi dao (của cân)
+#lưỡi dao (của cần)
+@Lĩnh vực: cơ khí & công trình
+#tựa sắc
+@Chuyên ngành kỹ thuật
+#cạnh sắc
+#dao tựa
+#lưỡi dao
+#lưỡi dao (của cân)
+#lưỡi dao (của cần)
+@Lĩnh vực: cơ khí & công trình
+#tựa sắc
+<!-- more -->
+@knife edge
+*danh từ
+#mép lưỡi dao

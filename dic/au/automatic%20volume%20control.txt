@@ -1,0 +1,8 @@
+﻿@automatic volume control
+#(Tech) điều chỉnh âm lượng tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#điều chỉnh âm lượng tự động
+#điều chỉnh thể tích tự động
+@Lĩnh vực: xây dựng
+#nút kiểm âm tự động

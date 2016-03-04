@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bề mặt bốc hơi
+@Chuyên ngành kỹ thuật
+#bề mặt bay hơi
+#vùng bay hơi
+@Chuyên ngành kỹ thuật
+#bề mặt bay hơi
+#vùng bay hơi

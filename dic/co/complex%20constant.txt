@@ -1,0 +1,6 @@
+﻿@complex constant
+#(Tech) hằng số tạp
+@Chuyên ngành kỹ thuật
+#hằng số phức
+@Lĩnh vực: toán & tin
+#hằng phức

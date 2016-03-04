@@ -1,0 +1,23 @@
+﻿@lead time ['li:d,taim]
+*danh từ
+# thời gian giữa lúc bắt đầu và lúc hoàn thành một quá trình sản xuất mới
+@Chuyên ngành kinh tế
+#thời gian chờ hàng
+#thời gian chở hàng
+#thời gian chuẩn bị chở
+#thời gian dẫn khách
+#thời gian đưa vào sản xuất
+#thời gian gom hàng
+#thời gian thực hiện (giao hàng)
+@Chuyên ngành kỹ thuật
+#lead time / thời gian trải qua
+@Lĩnh vực: toán & tin
+#lead time
+@Lĩnh vực: cơ khí & công trình
+#thời gian sớm
+@Chuyên ngành kỹ thuật
+#lead time / thời gian trải qua
+@Lĩnh vực: toán & tin
+#lead time
+@Lĩnh vực: cơ khí & công trình
+#thời gian sớm

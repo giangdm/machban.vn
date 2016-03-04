@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy cấp giấy
+#máy cấp giấy từng tờ
+#máy nạp giấy từng tờ

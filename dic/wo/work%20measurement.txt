@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#đo lường công việc
+#đo lường hiệu suất công tác
+#sự đánh giá công tác
+#sự đánh giá công tác, đo lường hiệu suất công tác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#phép đo tính toán khối lượng công việc

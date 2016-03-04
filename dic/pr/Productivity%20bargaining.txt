@@ -1,0 +1,6 @@
+﻿@Productivity bargaining
+#(Econ) Thương lượng theo năng suất.
+: Theo truyền thống đây là một thoả thuận lao động theo đó những thuận lợi loại này hoặc loại khác, chẳng hạn lương cao hơn hoặc được nghỉ nhiều hơn dành cho công nhân để đổi lấy những thay đổi trong cách làm việc hoặc tổ chức công việc nhằm tạo ra lao động hiệu quả hơn.
+@Chuyên ngành kinh tế
+#cuộc đàm phán của công đoàn về hợp đồng năng suất
+#thương lượng năng suất

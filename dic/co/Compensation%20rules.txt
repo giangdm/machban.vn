@@ -1,0 +1,6 @@
+﻿@Compensation rules
+#(Econ) Các quy tắc trả thù lao.
+: Một công thức xác định thu nhập của cá nhân. 1)Dựa trên thời gian làm việc của cá nhân. 2)Dựa trên kết quả hoàn thành công việc của cá nhân. 3)Dựa trên cơ sở kết qủa thực hiện của một đội như trong chế độ chia lợi nhuận hay thưởng theo đội. 4)Dựa trên kết quả thực hiện so sánh của cá nhân như đối với quy tắc THÙ LAO THEO XẾP HẠNG TRONG THI ĐẤU.
+@Chuyên ngành kinh tế
+#các quy tắc đền bù
+#các quy tắc đền bù (trong lao động)

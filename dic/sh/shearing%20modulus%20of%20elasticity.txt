@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#môđun đàn hồi loại hai
+#môđun đàn hồi ngang
+#môđun đàn hồi trượt
+@Lĩnh vực: xây dựng
+#môđun đàn hồi chống cắt

@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra tuổi thọ
+#sự kiểm tra tuổi thọ
+@Lĩnh vực: hóa học & vật liệu
+#phép thử tuổi thọ
+@Lĩnh vực: cơ khí & công trình
+#sự thử tuổi thọ
+@Lĩnh vực: điện
+#thử tuổi thọ
+@Chuyên ngành kỹ thuật
+#kiểm tra tuổi thọ
+#sự kiểm tra tuổi thọ
+@Lĩnh vực: hóa học & vật liệu
+#phép thử tuổi thọ
+@Lĩnh vực: cơ khí & công trình
+#sự thử tuổi thọ
+@Lĩnh vực: điện
+#thử tuổi thọ

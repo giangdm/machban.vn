@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính đầy đủ của hệ số thực
+#tính đầy đủ của một hệ thức

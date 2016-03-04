@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cách bố trí dự phòng
+@Lĩnh vực: điện lạnh
+#cách bố trí theo tầng

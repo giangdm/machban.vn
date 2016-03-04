@@ -1,0 +1,5 @@
+﻿@authentication code
+#(Tech) mã nhận đúng, mã chứng nhận chính xác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mã đoán nhận

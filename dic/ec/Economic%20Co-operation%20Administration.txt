@@ -1,0 +1,3 @@
+﻿@Economic Co-operation Administration
+#(Econ) Cơ quan Hợp tác kinh tế.
+: Một cơ quan viện trợ kinh tế, thành lập năm 1948 do Đạo luật Trợ giúp nước ngoài của Mỹ, quản lý KẾ HOẠCH MARSHALL đối với việc phục hồi kinh tế Châu Âu sau chiến tranh thế giới thứ hai.

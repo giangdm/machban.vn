@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#dấu hiệu
+#dấu quy chiếu
+#điểm chuẩn
+#điểm mốc
+#mốc độ cao tương đối
+#rơpe
+#vạch dấu
+#vạch mốc
+@Lĩnh vực: xây dựng
+#cột tiêu (trắc địa)
+#độ cao cọc tiêu
+@Lĩnh vực: toán & tin
+#dấu chuẩn
+#dấu hiệu cơ sở
+#dấu hiệu kiểm tra
+#dấu tham khảo
+#mốc kiểm tra

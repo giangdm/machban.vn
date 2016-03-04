@@ -1,0 +1,5 @@
+﻿@ground (GND)
+#(Tech) đất, nền, đáy, cơ sở; nối đất, nối âm (đ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đất, mát

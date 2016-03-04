@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#mối hàn kém
+#mối hàn khô
+#mối hàn vảy nguội
+#mối nối kém
+#mối nối khô
+@Lĩnh vực: xây dựng
+#khớp khô

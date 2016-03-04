@@ -1,0 +1,31 @@
+﻿@run down
+#chạy xuống (đường dốc...)
+#chảy xuống, chảy ròng ròng (mồ hôi...)
+#chết vì không lên giây (đồng hồ...)
+#kiệt sức (vì làm việc nhiều, vì thiếu ăn)
+#đè ngã (ai); đánh đắm, làm chìm (một chiếc tàu...) đụng phải, va phải
+#đuổi đến cùng đường (thú săn)
+#đuổi kịp, bắt được (người chạy trốn...)
+#tìm ra chỗ ẩn náp, phát hiện ra tung tích (của ai...)
+#bôi nhọ, nói xấu, gièm pha
+#to run in
+#chạy vào
+#xô vào đánh giáp lá cà; xô vào đánh gần người (quyền anh)
+#(thể dục,thể thao) mang bóng vào đường vạch khung thành bên đối phương và đặt xuống (bóng bầu dục)
+#(: to) ghé thăm
+=to run in to somebody: ghé thăm ai
+#(thông tục) bắt giam (ai)
+#(thông tục) làm cho (người ứng cử) chắc chắn trúng cử
+#cho chạy thử (máy mới cho thuần)
+#mắc (nợ)
+=to run in debt: mắc nợ
+@Chuyên ngành kinh tế
+#đâm vào
+#giảm
+#giảm bớt
+#giảm thiểu (biên chế...)
+#hạn chế (năng suất...)
+#thu hẹp kinh doanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#chạy men bờ (tàu thủy)

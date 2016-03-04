@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#sự ghi âm
+#sự ghi trên máy ghi âm
+@Chuyên ngành kỹ thuật
+#sự ghi băng
+@Lĩnh vực: điện tử & viễn thông
+#ghi lên băng
+@Lĩnh vực: toán & tin
+#ghi trên băng
+#sự ghi trên băng
+@Lĩnh vực: xây dựng
+#thâu băng

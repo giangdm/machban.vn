@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#dụng cụ tách cạn
+@Chuyên ngành kỹ thuật
+#dụng cụ lấy mẫu
+@Lĩnh vực: cơ khí & công trình
+#cơ cấu lấy mẫu

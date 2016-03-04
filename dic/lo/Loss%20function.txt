@@ -1,0 +1,5 @@
+﻿@Loss function
+#(Econ) Hàm thua lỗ.
+: Một hàm phi thoả dụng mà một nhà lập chính sách muốn tối thiểu hoá.
+@Chuyên ngành kỹ thuật
+#hàm tổn thất

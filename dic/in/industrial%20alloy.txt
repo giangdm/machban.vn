@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hợp kim kĩ nghệ
+@Lĩnh vực: toán & tin
+#hợp kim kỹ nghệ

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ pin (không nạp lại được)
+#bộ pin sơ cấp
+@Lĩnh vực: điện
+#pin sơ cấp (không nạp lại được)
+@Lĩnh vực: ô tô
+#pin thường (không nạp được)

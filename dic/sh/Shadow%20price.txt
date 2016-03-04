@@ -1,0 +1,7 @@
+﻿@Shadow price
+#(Econ) Giá bóng
+: Việc đánh giá một hàng hoá hay dịch vụ mà không có giá thị trường.
+@Chuyên ngành kinh tế
+#giá bóng
+#giá ngầm
+#giá vô hình

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#mức chất lượng chấp nhận được
+@Chuyên ngành kỹ thuật
+#mức chất lượng chấp nhận được
+#mức chất lượng khả chấp
+@Lĩnh vực: toán & tin
+#mức lẫn loạn cho phép

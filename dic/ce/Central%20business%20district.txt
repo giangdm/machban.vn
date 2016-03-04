@@ -1,0 +1,8 @@
+﻿@Central business district
+#(Econ) Khu kinh doanh trung tâm.
+: Một khu vực ở trung tâm các thành phố và đa số thị trấn lớn được sử dụng cho các hoạt động thương mại. Xem ACCESS/SPACE TRADE - OFF MODEL.
+@Chuyên ngành kinh tế
+#khu trung tâm thương mại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khu buôn bán trung tâm

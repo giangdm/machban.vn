@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cố thể tròn xoay
+@Lĩnh vực: xây dựng
+#vật rắn tròn xoay

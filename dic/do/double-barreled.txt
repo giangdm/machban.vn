@@ -1,0 +1,6 @@
+﻿@double-barreled
+#[có] hai nòng súng
+#gồm hai phần (tên họ, nối với nhau bằng gạch nối)
+@Chuyên ngành kinh tế
+#được bảo đảm kép
+#được song trùng bảo đảm

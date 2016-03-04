@@ -1,0 +1,2 @@
+﻿@computer picture
+#(Tech) hình ảnh bằng máy điện toán

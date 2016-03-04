@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#độ nở
+@Lĩnh vực: điện lạnh
+#độ dãn nở
+#độ giãn nở
+@Lĩnh vực: điện tử & viễn thông
+#độ mở rộng
+#độ nới rộng
+@Lĩnh vực: cơ khí & công trình
+#độ trương nở

@@ -1,0 +1,3 @@
+﻿@Income - expenditure model
+#(Econ) Mô hình thu nhập - chi tiêu
+: Mô hình một khu vực dạng Keynes đơn giản cho phép xác định được MỨC THU NHẬP QUỐC DÂN CÂN BẰNG.

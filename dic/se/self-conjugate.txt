@@ -1,0 +1,2 @@
+﻿@self-conjugate
+#tự liên hợp

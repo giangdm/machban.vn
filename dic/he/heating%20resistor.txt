@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện trở gia nhiệt
+@Lĩnh vực: giao thông & vận tải
+#điện trở nung
+@Lĩnh vực: điện lạnh
+#điện trở phát nhiệt

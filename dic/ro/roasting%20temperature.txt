@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ làm việc
+#nhiệt độ nung
+#nhiệt độ thiêu
+#nhiệt độ vận hành

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bảo toàn (tính) chắn lẻ
+@Lĩnh vực: vật lý
+#sự bảo toàn số chẵn lẻ

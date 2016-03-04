@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự giải điều dải (băng) bên duy nhất
+#sự tách sóng dải (băng) bên duy nhất

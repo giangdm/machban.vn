@@ -1,0 +1,5 @@
+﻿@Primary securities
+#(Econ) Chứng khoán sơ cấp.
+: Một cụm thuật ngữ đã được John G.Gurley và Edward S.Shaw đưa ra trong tác phẩm Tiền trong một thuyết về tài chính (1960) và có nghĩa là mọi hình thức nợ có thể được đem bán hoặc phát hành bởi những người vay nợ tức là những người đã đi vay cần nguồn vốn tài chính để mua tài sản thực tế.
+@Chuyên ngành kinh tế
+#chứng khoán sơ cấp

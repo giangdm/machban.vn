@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#mức kê lời bán lẻ
+#sai biệt giá bán lẻ
+#sai biệt giá bán lẻ (giữa giá mua vào và giá bán ra)

@@ -1,0 +1,5 @@
+﻿@computer room
+#(Tech) phòng máy điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phòng máy tính

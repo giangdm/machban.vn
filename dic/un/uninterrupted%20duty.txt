@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chế độ (vận hành) không được cắt tải
+@Lĩnh vực: điện
+#chế độ không ngắt
+#chịu tải không đứt quãng
+#vận hành không ngắt

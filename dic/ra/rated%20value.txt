@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#giá trị danh định
+@Lĩnh vực: điện
+#giá trị danh nghĩa
+@Lĩnh vực: điện lạnh
+#giá trị định mức
+#giá trị ghi
+#trị số danh định

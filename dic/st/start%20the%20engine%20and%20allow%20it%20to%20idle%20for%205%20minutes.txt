@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#khởi động động cơ và chạy không tải 5 phút

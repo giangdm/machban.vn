@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy vẽ đồ thị
+@Lĩnh vực: đo lường & điều khiển
+#máy vẽ hai trục

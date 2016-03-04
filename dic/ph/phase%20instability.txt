@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự bất ổn pha
+#tính bất ổn pha
+@Lĩnh vực: toán & tin
+#sự không ổn định pha

@@ -1,0 +1,2 @@
+﻿@conflict-free
+#(Tech) không xung đột

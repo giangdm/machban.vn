@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khoản thu và khoản chi
+#thu và chi
+@Chuyên ngành kỹ thuật
+#các khoản thu và chi

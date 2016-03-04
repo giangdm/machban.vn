@@ -1,0 +1,7 @@
+﻿@base material
+#(Tech) nguyên liệu; chất nền mạch in
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vật liệu móng
+@Lĩnh vực: ô tô
+#vật liệu nền

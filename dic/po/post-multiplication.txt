@@ -1,0 +1,5 @@
+﻿@post-multiplication
+#phép nhân thông thường (bắt đầu từ hàng thấp cấp)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép nhân thông thường (bắt đầu từ hàng thấp nhất)

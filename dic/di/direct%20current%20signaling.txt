@@ -1,0 +1,2 @@
+﻿@direct current signaling
+#(Tech) báo hiệu bằng dòng điện một chiều

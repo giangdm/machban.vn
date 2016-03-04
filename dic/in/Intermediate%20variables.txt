@@ -1,0 +1,3 @@
+﻿@Intermediate variables
+#(Econ) Biến trung gian
+: Xem Intermediate lag.

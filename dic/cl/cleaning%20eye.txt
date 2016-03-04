@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗ cọ rửa
+@Lĩnh vực: đo lường & điều khiển
+#lỗ kiểm tra độ sạch

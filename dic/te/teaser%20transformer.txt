@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#máy biến áp biến đổi
+@Lĩnh vực: điện lạnh
+#máy biến áp hai pha/ ba pha

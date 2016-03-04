@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy phát phóng dùng khe đánh lửa (loại cao tần)
+@Lĩnh vực: điện
+#máy phát sóng hồ quang

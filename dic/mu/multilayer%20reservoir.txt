@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tầng chứa nhiều lớp
+#tầng chứa nhiều vỉa

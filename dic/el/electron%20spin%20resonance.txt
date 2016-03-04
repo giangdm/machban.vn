@@ -1,0 +1,2 @@
+﻿@electron spin resonance
+#(Tech) cộng hưởng tự quay điện tử = electron paramagnetic resonance

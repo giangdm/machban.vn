@@ -1,0 +1,6 @@
+﻿@bitmap
+#(Tech) hình chấm, bản đồ tổng hợp bit
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ảnh nhị phân
+#ánh xạ bit

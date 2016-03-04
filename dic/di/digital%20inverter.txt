@@ -1,0 +1,2 @@
+﻿@digital inverter
+#(Tech) bộ biến đổi dạng số tự

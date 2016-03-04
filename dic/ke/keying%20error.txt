@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#lỗi đánh máy
+@Chuyên ngành kỹ thuật
+#lỗi đánh tín hiệu
+@Lĩnh vực: toán & tin
+#lỗi nhấn phím
+@Chuyên ngành kỹ thuật
+#lỗi đánh tín hiệu
+@Lĩnh vực: toán & tin
+#lỗi nhấn phím

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#thẻ (tín dụng) tinh ranh (có bộ nhớ)
+#thẻ tín dụng điện tử
+@Chuyên ngành kỹ thuật
+#thẻ thông minh
+@Lĩnh vực: toán & tin
+#cạc thông minh
+#thẻ mạch thông minh
+@Lĩnh vực: vật lý
+#vật liệu thông minh

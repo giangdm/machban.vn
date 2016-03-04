@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ trao đổi nhiệt không tiếp xúc
+#bộ trao đổi nhiệt không trực tiếp
+#bộ trao đổi nhiệt qua vách
+#thiết bị trao đổi nhiệt bề mặt

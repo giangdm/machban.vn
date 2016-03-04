@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự truyền nhiệt ba chiều
+#truyền nhiệt ba chiều

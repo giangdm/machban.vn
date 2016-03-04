@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#biến lượng hoãn xung
+#biến phụ
+#lượng biến đổi đệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến bù (lệch)
+#biến bù, (lệch)

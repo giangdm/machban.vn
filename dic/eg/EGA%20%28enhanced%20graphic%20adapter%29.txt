@@ -1,0 +1,2 @@
+﻿@EGA (enhanced graphic adapter)
+#(Tech) EGA (bộ phối hợp đồ họa được tăng cường)

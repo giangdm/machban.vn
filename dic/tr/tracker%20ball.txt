@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#ổ bi gần trong lỗ cắm chỉ lòi một phần
+@Chuyên ngành kỹ thuật
+#bóng điều khiển
+#bóng xoay
+@Lĩnh vực: toán & tin
+#cầu chuột
+#cầu tròn điều khiển
+#quả cầu đánh dấu

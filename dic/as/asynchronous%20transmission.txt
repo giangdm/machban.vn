@@ -1,0 +1,11 @@
+﻿@asynchronous transmission
+#(Tech) truyền dị bộ
+@Chuyên ngành kỹ thuật
+#sự truyền không đồng bộ
+@Lĩnh vực: vật lý
+#phát bất đồng bộ
+@Lĩnh vực: điện tử & viễn thông
+#sự truyền dẫn đi bộ
+@Lĩnh vực: toán & tin
+#truyền dị bộ
+#truyền không đồng bộ

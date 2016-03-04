@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cái cảm biến điện áp
+@Lĩnh vực: điện lạnh
+#kim quay đĩa áp điện
+#ống nói tinh thể

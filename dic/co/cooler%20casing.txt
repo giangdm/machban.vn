@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#vỏ lạnh bằng không khí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#vỏ dàn [thiết bị] lạnh

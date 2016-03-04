@@ -1,0 +1,11 @@
+﻿@Stationarity
+#(Econ) Tính chất tĩnh tại.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính dừng
+@Lĩnh vực: điện lạnh
+#tính đứng yên
+#tính tĩnh tại
+<!-- more -->
+@stationarity
+#tính dừng

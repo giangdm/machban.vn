@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#biểu đồ pha
+#biểu đồ trạng thái
+#đồ thị cân bằng pha
+#giản đồ pha
+#sơ đồ pha
+@Lĩnh vực: xây dựng
+#biểu đồ cân bằng pha
+@Lĩnh vực: giao thông & vận tải
+#giản đồ định pha
+@Lĩnh vực: điện lạnh
+#giản đồ thành phần

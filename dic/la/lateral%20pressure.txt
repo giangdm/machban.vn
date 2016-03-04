@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực bên
+#áp lực hông
+@Lĩnh vực: xây dựng
+#áp lực thành bên
+#áp lực trên phương ngang
+@Lĩnh vực: hóa học & vật liệu
+#áp suất bên
+@Chuyên ngành kỹ thuật
+#áp lực bên
+#áp lực hông
+@Lĩnh vực: xây dựng
+#áp lực thành bên
+#áp lực trên phương ngang
+@Lĩnh vực: hóa học & vật liệu
+#áp suất bên

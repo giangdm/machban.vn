@@ -1,0 +1,3 @@
+﻿@Market classification
+#(Econ) Phân loại thị trường.
+: Có rất nhiều cách khác nhau để phân loại thị trường.

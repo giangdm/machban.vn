@@ -1,0 +1,5 @@
+﻿@Factor intensity
+#(Econ) Mức độ/ cưòng độ huy động (sử dụng) các yếu tố sản xuất.
+@Chuyên ngành kinh tế
+#cường độ yếu tố
+#cường độ yếu tố (sản xuất)

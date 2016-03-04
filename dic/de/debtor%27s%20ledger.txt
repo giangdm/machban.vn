@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sổ bán hàng
+#sổ cái người thiếu nợ
+#sổ có nợ
+#số những người mắc nợ

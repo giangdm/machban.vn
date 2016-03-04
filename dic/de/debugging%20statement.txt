@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#câu lệnh gỡ rối
+@Lĩnh vực: điện tử & viễn thông
+#lệnh gỡ rối

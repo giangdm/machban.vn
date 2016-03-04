@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#calip hàm
+#cữ cặp
+#thước cặp
+#thước cặp có du tiêu
+#thước cặp có du xích
+@Lĩnh vực: toán & tin
+#du xích đo chiều sâu
+@Lĩnh vực: xây dựng
+#đu xích đo chiều sâu

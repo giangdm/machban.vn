@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dụng cụ đo điện trở đất
+@Lĩnh vực: điện
+#máy đo điện trở đất
+#máy đo điện trở nối đất
+#máy đo điện trở tiếp đất

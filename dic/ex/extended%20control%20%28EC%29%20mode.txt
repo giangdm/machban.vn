@@ -1,0 +1,2 @@
+﻿@extended control (EC) mode
+#(Tech) chế độ điều khiển nối dài

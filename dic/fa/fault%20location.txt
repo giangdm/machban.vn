@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#định vị sự cố
+@Lĩnh vực: điện
+#sự định vị sự cố
+#sự tìm chỗ chập mạch
+#sự tìm chỗ hỏng
+#tìm điểm sự cố
+@Lĩnh vực: cơ khí & công trình
+#sự dò khuyết tật
+@Lĩnh vực: điện tử & viễn thông
+#vị trí khuyết tật
+@Chuyên ngành kỹ thuật
+#định vị sự cố
+@Lĩnh vực: điện
+#sự định vị sự cố
+#sự tìm chỗ chập mạch
+#sự tìm chỗ hỏng
+#tìm điểm sự cố
+@Lĩnh vực: cơ khí & công trình
+#sự dò khuyết tật
+@Lĩnh vực: điện tử & viễn thông
+#vị trí khuyết tật

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết bị xử lý từ logic chia sẻ
+#thiết bị xử lý từ logic dùng chung

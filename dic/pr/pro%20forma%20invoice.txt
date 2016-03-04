@@ -1,0 +1,8 @@
+﻿@pro forma invoice
+*danh từ
+#bảng kê khai hàng gửi đến người mua (báo giá mà không bắt trả)
+@Chuyên ngành kinh tế
+#danh sách hàng gửi (chưa yêu cầu trả tiền)
+#hóa đơn hình thức
+#hóa đơn ước giá
+#hóa đơn viết trước

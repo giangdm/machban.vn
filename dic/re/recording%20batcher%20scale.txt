@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thiết bị cân ghi tự động (phối liệu)

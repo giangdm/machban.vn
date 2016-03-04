@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giao thức truy nhập cấu hình ứng dụng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức truy cập cấu hình ứng dụng

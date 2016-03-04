@@ -1,0 +1,2 @@
+﻿@amplitude-frequency response characteristic
+#(Tech) đáp tuyến biên độ-tần số

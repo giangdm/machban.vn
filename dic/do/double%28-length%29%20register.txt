@@ -1,0 +1,2 @@
+﻿@double(-length) register
+#(Tech) bộ ghi chiều dài gấp đôi

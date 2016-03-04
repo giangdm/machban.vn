@@ -1,0 +1,5 @@
+﻿@adder accumulator
+#(Tech) bộ cộng tích lũy/tăng trữ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ cộng tích lũy

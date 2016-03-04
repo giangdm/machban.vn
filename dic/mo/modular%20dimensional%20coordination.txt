@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự điều hợp kích thước môđun
+#sự môđun hóa kích thước

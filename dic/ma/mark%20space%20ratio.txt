@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#tỷ số dấu cách
+#tỷ số dấu hiệu
+#tỷ số dấu hiệu-dấu cách

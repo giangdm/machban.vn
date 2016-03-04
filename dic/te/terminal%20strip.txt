@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dải gốc
+@Lĩnh vực: điện lạnh
+#băng đầu cực
+#bảng đầu cực
+#bảng đầu nối ra
+@Lĩnh vực: điện
+#dải điểm nối

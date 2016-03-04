@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn vị nhiệt
+#giá trị nhiệt
+@Lĩnh vực: điện lạnh
+#giá trị calo

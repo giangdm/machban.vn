@@ -1,0 +1,2 @@
+﻿@automatic range tracking
+#(Tech) truy tích theo cự ly tư động

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#micrô định hướng
+#micrô một hướng
+@Lĩnh vực: điện lạnh
+#micrô đơn hướng
+@Lĩnh vực: toán & tin
+#micrô một chiều

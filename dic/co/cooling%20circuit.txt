@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sơ đồ lạnh
+@Lĩnh vực: điện lạnh
+#mạch làm lạnh
+#mạch làm mát

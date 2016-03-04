@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự tính toán hệ thống lạnh
+#sự tính toán trạm lạnh
+#tính toán hệ (thống) lạnh
+#tính toán trạm lạnh

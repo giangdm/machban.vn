@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tác nhân phân tán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#chất gây phân tán
+#chất giải keo tụ
+#chất khử keo tụ

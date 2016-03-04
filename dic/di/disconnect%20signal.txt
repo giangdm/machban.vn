@@ -1,0 +1,5 @@
+﻿@disconnect signal
+#(Tech) tín hiệu cắt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tín hiệu ngắt

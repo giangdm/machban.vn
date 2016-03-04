@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bàn thử nghiệm
+#giá thử nghiệm
+@Lĩnh vực: điện lạnh
+#khung thử nghiệm
+@Lĩnh vực: cơ khí & công trình
+#thiết bị khoan thí nghiệm
+@Lĩnh vực: vật lý
+#thiết bị khoan thử nghiệm

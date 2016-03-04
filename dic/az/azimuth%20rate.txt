@@ -1,0 +1,2 @@
+﻿@azimuth rate
+#(Tech) tốc độ thay đổi phương vị

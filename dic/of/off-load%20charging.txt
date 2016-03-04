@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chất liệu khi không tải
+#nạp ngoài tải
+#sự nạp khí không tải

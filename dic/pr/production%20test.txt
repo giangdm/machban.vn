@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự thử nghiệm sản xuất
+@Lĩnh vực: hóa học & vật liệu
+#thử nghiệm sản xuất

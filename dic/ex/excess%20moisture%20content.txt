@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ chứa ẩm thừa
+#dung ẩm thừa
+#hàm lượng ẩm thừa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ chứa ẩm thừa
+#dung ẩm thừa
+#hàm lượng ẩm thừa

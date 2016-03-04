@@ -1,0 +1,25 @@
+﻿@Histogram
+#(Econ) Biểu đồ tần xuất.
+: Một minh hoạ bằng đồ thị của phân phối theo tần xuất ( hay PHÂN PHỐI XÁC SUẤT), trong đó tần suất (hay xác suất) là một biến lấy giá trị giữa các giới hạn được tính bằng chiều cao của một cột trên trục hoành giữa các giới hạn đó.
+@Chuyên ngành kinh tế
+#biểu đồ tần số
+#đa giác tần số
+#đồ thị vạch thẳng
+#trực phương đồ
+@Chuyên ngành kỹ thuật
+#biểu đồ
+#biểu đồ cột
+#tần số
+@Lĩnh vực: cơ khí & công trình
+#đường tần suất
+@Lĩnh vực: điện lạnh
+#histogam
+#thống kê đồ
+@Lĩnh vực: toán & tin
+#hoành đồ
+@Lĩnh vực: xây dựng
+#trụ đồ
+<!-- more -->
+@histogram
+*danh từ
+#biểu đồ

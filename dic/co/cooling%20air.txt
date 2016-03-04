@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#không khí lạnh
+@Chuyên ngành kỹ thuật
+#không khí làm lạnh
+#không khí lạnh
+@Lĩnh vực: điện lạnh
+#gió lạnh
+@Lĩnh vực: xây dựng
+#khí được làm mát

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bơm nhiệt (chạy bằng năng lượng) mặt trời
+#bơm nhiệt mặt trời (chạy bằng năng lượng mặt trời)

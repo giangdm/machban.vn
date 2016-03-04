@@ -1,0 +1,10 @@
+﻿@add-in
+#<tin> chương trình bổ sung
+@Chuyên ngành kỹ thuật
+#bổ sung
+#phần bổ sung
+#phần thêm
+@Lĩnh vực: cơ khí & công trình
+#linh kiện bổ sung
+@Lĩnh vực: xây dựng
+#món thêm vào

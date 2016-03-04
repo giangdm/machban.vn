@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thu nhập do lao động
+#thu nhập lao động
+#thu nhập lương
+#thu nhập từ lao động
+#tiền lương kiếm được
+@Chuyên ngành kỹ thuật
+#thu nhập

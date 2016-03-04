@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ chuẩn
+#nhiệt độ gốc
+#nhiệt độ quy chiếu
+@Lĩnh vực: điện lạnh
+#nhiệt độ chuẩn gốc
+#nhiệt độ gốc (mốc)
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt độ kết tinh lại
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt độ mốc

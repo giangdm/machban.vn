@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#sự hàn chồng
+@Lĩnh vực: điện
+#cuộn dây kiểu lợp
+#cuộn dây xếp lợp
+@Lĩnh vực: điện lạnh
+#hàn chồng
+@Lĩnh vực: cơ khí & công trình
+#mối hàn phủ
+@Chuyên ngành kỹ thuật
+#sự hàn chồng
+@Lĩnh vực: điện
+#cuộn dây kiểu lợp
+#cuộn dây xếp lợp
+@Lĩnh vực: điện lạnh
+#hàn chồng
+@Lĩnh vực: cơ khí & công trình
+#mối hàn phủ

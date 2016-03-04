@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bit trên giây
+#bit/s
+@Lĩnh vực: toán & tin
+#số bit trong mỗi giây

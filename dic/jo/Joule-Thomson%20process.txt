@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giãn nở Joule-Thomson
+#quá trình giãn nở Joule-Thomson
+#quá trình Joule-Thomson

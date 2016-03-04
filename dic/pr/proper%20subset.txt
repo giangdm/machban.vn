@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập (hợp) con riêng
+#tập (hợp) con thực
+#tập con riêng
+#tập con thực
+#tập hợp con thực sự

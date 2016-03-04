@@ -1,0 +1,7 @@
+﻿@susceptance
+*danh từ
+#điện nạp
+=inductive susceptance:điện nạp cảm tính
+@Chuyên ngành kỹ thuật
+#điện nạp
+#sự nạp điện

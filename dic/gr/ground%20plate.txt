@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#tấm bậu cửa
+#tấm đất
+#thanh dưới khung cửa
+#thanh ngang dưới
+@Lĩnh vực: vật lý
+#bản tiếp đất
+#tấm nối đất
+@Lĩnh vực: toán & tin
+#phiến chôn dưới chân
+@Lĩnh vực: xây dựng
+#phiến chôn dưới đất
+#tấm đế dầm đất
+@Lĩnh vực: điện lạnh
+#tấm đất (chôn trong đất)

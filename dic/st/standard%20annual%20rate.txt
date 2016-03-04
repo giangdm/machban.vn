@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#mức tiêu chuẩn hàng năm
+#niên suất tiêu chuẩn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mức tiền tiêu chuẩn hàng năm

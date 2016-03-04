@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tổ bơm nhiệt một khối
+#tổ bơm nhiệt nguyên cụm

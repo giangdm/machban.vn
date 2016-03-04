@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đối tượng ghép
+@Lĩnh vực: toán & tin
+#đối tượng kép
+#đối tượng phức hợp

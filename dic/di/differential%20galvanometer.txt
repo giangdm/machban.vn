@@ -1,0 +1,4 @@
+﻿@differential galvanometer
+#(Tech) điện kế sai động
+@Chuyên ngành kỹ thuật
+#điện kế vi sai

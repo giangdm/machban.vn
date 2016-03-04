@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#phân tích quy trình công nghệ
+#phân tích thao tác
+#phân tích trình tự các công đoạn gia công
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự phân tích động tác
+@Lĩnh vực: toán & tin
+#sự phân tích tác động

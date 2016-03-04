@@ -1,0 +1,5 @@
+﻿@GDP deflator
+#(Econ) Hệ số khử lạm phát cho GDP.
+@Chuyên ngành kinh tế
+#chỉ số giảm lạm phát GDP
+#nhân tố điều chỉnh giá của tổng sản phẩm quốc nội

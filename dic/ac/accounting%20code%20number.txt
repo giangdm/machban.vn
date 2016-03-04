@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#mã số kế toán
+#số thứ tự kế toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#số mã kế toán

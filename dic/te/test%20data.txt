@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#dữ liệu thử nghiệm
+@Chuyên ngành kỹ thuật
+#dữ liệu thử
+#số liệu thí nghiệm
+#số liệu thực nghiệm
+@Lĩnh vực: toán & tin
+#dữ liệu kiểm thử
+#dữ liệu kiểm tra
+#số liệu (đo) kiểm tra
+@Lĩnh vực: xây dựng
+#số liệu thử nghiệm

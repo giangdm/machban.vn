@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ tâm sản phẩm
+@Lĩnh vực: điện lạnh
+#nhiệt độ bên trong sản phẩm

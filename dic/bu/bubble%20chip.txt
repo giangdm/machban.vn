@@ -1,0 +1,7 @@
+﻿@bubble chip
+#(Tech) phiến tinh thể bọt, chip bọt
+@Chuyên ngành kỹ thuật
+#mạch bọt từ
+@Lĩnh vực: toán & tin
+#chip bọt
+#vi mạch bọt

@@ -1,0 +1,5 @@
+﻿@block gap
+#(Tech) khoảng cách (ký lục) khối = interblock gap
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khe cách khối

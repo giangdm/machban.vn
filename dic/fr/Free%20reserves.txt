@@ -1,0 +1,10 @@
+﻿@Free reserves
+#(Econ) Dự trữ tự do.
+: Tổng dụ trữ pháp định tại một thể chế nhận tiền gửi trừ đi lượng dự trữ yêu cầu và trừ đi lượng dự trữ vay được từ Quỹ Dự trữ Liên bang.
+@Chuyên ngành kinh tế
+#dự trữ tự do
+#số dự trữ nhàn dỗi
+#tiền dự trữ tự do
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự dự báo có sẵn

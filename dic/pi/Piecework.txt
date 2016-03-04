@@ -1,0 +1,7 @@
+﻿@Piecework
+#(Econ) Việc làm khoán.
+: Một hệ thống thanh toán trong đó cá nhân được thanh toán theo khối lượng sản phẩm làm ra.
+<!-- more -->
+@piecework
+*danh từ
+#công việc trả lương theo số lượng sản phẩm làm ra (chứ không phải theo giờ); việc khoán

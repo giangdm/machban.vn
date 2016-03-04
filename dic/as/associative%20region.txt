@@ -1,0 +1,2 @@
+﻿@associative region
+#(Tech) vùng liên kết

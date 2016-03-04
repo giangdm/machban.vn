@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#trưởng gian hàng
+#trưởng phòng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#trưởng bộ môn
+#trưởng khoa
+#trưởng ty
+#vụ trưởng

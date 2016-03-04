@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ký hiệu linh kiện
+#ký hiệu thành phần

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#quá trình rời rạc
+@Lĩnh vực: toán & tin
+#phương pháp số
+@Lĩnh vực: điện tử & viễn thông
+#quá trình số

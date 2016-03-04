@@ -1,0 +1,34 @@
+﻿@Chuyên ngành kỹ thuật
+#đĩa
+#gioăng
+#puli
+#ròng rọc
+#vật hình đĩa
+#vòng đệm
+#vòng đệm dẹt
+#vòng đệm phẳng
+@Lĩnh vực: xây dựng
+#gioăng dẹt
+#khoen chêm dẹt
+@Lĩnh vực: cơ khí & công trình
+#long đền dẹp
+#long đền dẹt
+@Lĩnh vực: ô tô
+#vòng đệm dẹp
+@Chuyên ngành kỹ thuật
+#đĩa
+#gioăng
+#puli
+#ròng rọc
+#vật hình đĩa
+#vòng đệm
+#vòng đệm dẹt
+#vòng đệm phẳng
+@Lĩnh vực: xây dựng
+#gioăng dẹt
+#khoen chêm dẹt
+@Lĩnh vực: cơ khí & công trình
+#long đền dẹp
+#long đền dẹt
+@Lĩnh vực: ô tô
+#vòng đệm dẹp

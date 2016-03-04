@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#áp suất đường ống
+@Lĩnh vực: hóa học & vật liệu
+#áp suất đường ống chính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#áp suất đường ống
+@Lĩnh vực: hóa học & vật liệu
+#áp suất đường ống chính

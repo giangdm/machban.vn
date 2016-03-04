@@ -1,0 +1,3 @@
+﻿@Dependency burden
+#(Econ) Gánh nặng ăn theo.
+: Một tình huốn trong đó tỷ lệ trẻ em rất cao trong toàn bộ dân số sống phụ thuộc vào một tỷ lệ người lớn nhỏ hơn nhiều.

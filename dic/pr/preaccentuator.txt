@@ -1,0 +1,3 @@
+﻿@preaccentuator
+*danh từ
+#(kỹ thuật) bộ chỉnh tần, mạch chỉnh tần

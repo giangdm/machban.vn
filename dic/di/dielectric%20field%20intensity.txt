@@ -1,0 +1,2 @@
+﻿@dielectric field intensity
+#(Tech) cường độ trường điện môi

@@ -1,0 +1,6 @@
+﻿@Rostow model
+#(Econ) Mô hình Rostow
+: Một thuyết tăng trưởng kinh tế do giáo sư W.W Rostow đưa ra năm 1961. Ông phân chia quá trình tăng trưởng thành 5 giai đoạn: 1)Xã hội truyền thống; 2)Các điều kiện tiên quyết để cất cánh;3)Cất cánh;4)Tiến tới trưởng thành;5)Giai đoạn tiêu dùng cao.
+@Chuyên ngành kinh tế
+#Mô hình Rostow
+#mô hình Rostow (về 5 thời kỳ tăng trưởng kinh tế)

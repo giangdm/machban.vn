@@ -1,0 +1,11 @@
+﻿@market value ['mɑ:kit,vælju]
+*danh từ
+# giá bán ở thị trường
+@Chuyên ngành kinh tế
+#giá trị thị trường
+@Chuyên ngành kỹ thuật
+#giá trị thị trường
+@Lĩnh vực: toán & tin
+#giá thị trường
+@Lĩnh vực: xây dựng
+#giá trị theo thị trường

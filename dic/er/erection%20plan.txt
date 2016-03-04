@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#bản vẽ thi công
+@Lĩnh vực: cơ khí & công trình
+#kế hoạch lắp ráp
+@Lĩnh vực: hóa học & vật liệu
+#kế hoạch ráp dựng
+@Chuyên ngành kỹ thuật
+#bản vẽ thi công
+@Lĩnh vực: cơ khí & công trình
+#kế hoạch lắp ráp
+@Lĩnh vực: hóa học & vật liệu
+#kế hoạch ráp dựng

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vòng tròn Mo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vòng Mohr
+#vòng ứng suất

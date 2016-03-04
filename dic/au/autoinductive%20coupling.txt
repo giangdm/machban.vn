@@ -1,0 +1,2 @@
+﻿@autoinductive coupling
+#(Tech) ghép biến áp tự động

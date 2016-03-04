@@ -1,0 +1,6 @@
+﻿@acyclicity
+#tính không tuần hoàn, tính xilic
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính không tuần hoàn
+#tính phi xiclic

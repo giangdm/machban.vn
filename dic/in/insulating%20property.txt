@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#khả năng ngăn cách
+@Chuyên ngành kỹ thuật
+#khả năng cách nhiệt
+#tính chất cách nhiệt
+@Lĩnh vực: điện lạnh
+#khả năng cách điện
+@Lĩnh vực: xây dựng
+#tính cách âm
+#tính cách điện
+#tính cách nhiệt

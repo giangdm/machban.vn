@@ -1,0 +1,2 @@
+﻿@begin window
+#(Tech) bắt đầu cửa xổ [NB]

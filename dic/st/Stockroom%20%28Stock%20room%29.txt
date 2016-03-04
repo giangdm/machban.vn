@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phòng kho (để hàng hóa)
+#phòng triển lãm (hàng hóa)
+@Chuyên ngành kinh tế
+#buồng kho (để hàng hóa)
+#phòng triển lãm hàng hóa
+#phòng trưng bày

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#trái khoán có quan hệ với chỉ số giá cả
+#trái phiếu chỉ số hóa

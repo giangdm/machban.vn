@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiễu giữa các ký hiệu
+#nhiễu liên ký hiệu

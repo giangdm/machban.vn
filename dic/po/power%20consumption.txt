@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kinh tế
+#sự tiêu dùng năng lượng
+@Chuyên ngành kỹ thuật
+#công suất tiêu thụ
+#mức tiêu thụ công suất
+#sự tiêu thụ năng lượng
+@Lĩnh vực: điện
+#công suất vào
+#mức tiêu thụ điện
+#sự tiêu thụ công suất
+@Lĩnh vực: xây dựng
+#sự điều thụ năng lượng
+@Lĩnh vực: cơ khí & công trình
+#sự tiêu hao công suất
+#sự tiêu hao năng lượng
+@Lĩnh vực: toán & tin
+#sức mua
+#sức tiêu thụ
+@Lĩnh vực: hóa học & vật liệu
+#tiêu thụ năng lượng

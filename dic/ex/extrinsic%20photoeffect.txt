@@ -1,0 +1,2 @@
+﻿@extrinsic photoeffect
+#(Tech) hiệu ứng quang ngoại lai

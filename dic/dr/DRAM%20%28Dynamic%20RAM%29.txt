@@ -1,0 +1,2 @@
+﻿@DRAM (Dynamic RAM)
+#(Tech) bộ nhớ truy cập ngẫu nhiên năng động

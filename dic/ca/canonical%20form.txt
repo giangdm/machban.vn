@@ -1,0 +1,8 @@
+﻿@canonical form
+#(Tech) mẫu đúng tiêu chuẩn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dạng chính tắc
+#hạng thức hợp quy
+@Lĩnh vực: vật lý
+#ma trận quy chuẩn

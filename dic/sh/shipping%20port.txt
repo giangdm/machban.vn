@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#cảng bốc hàng
+#cảng gởi hàng
+#cảng gửi hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#cảng vận chuyển hàng đi
+#cảng xếp hàng đi

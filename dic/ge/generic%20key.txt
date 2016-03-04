@@ -1,0 +1,4 @@
+﻿@generic key
+#(Tech) khóa chung
+@Chuyên ngành kỹ thuật
+#khóa chung

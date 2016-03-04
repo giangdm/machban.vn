@@ -1,0 +1,7 @@
+﻿@European Currency Unit
+#(Econ) Đơn vị tiền tệ Châu Âu.
+: Xem EUROPEAN MONETARY SYSTEM.
+@Chuyên ngành kinh tế
+#đơn vị tiền tệ Châu Âu (ECU)
+@Chuyên ngành kinh tế
+#đơn vị tiền tệ Châu Âu

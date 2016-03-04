@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#đường thành phần hạt
+@Lĩnh vực: xây dựng
+#phép đo độ hạt
+#sự phân bố cỡ hạt

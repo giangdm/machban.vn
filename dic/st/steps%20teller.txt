@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đếm bước
+@Lĩnh vực: xây dựng
+#đồng hồ đếm nước
+#thước đo bước răng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biên hệ số khuếch đại
+@Lĩnh vực: đo lường & điều khiển
+#chênh lệch khuếch đại

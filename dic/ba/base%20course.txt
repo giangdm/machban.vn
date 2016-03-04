@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp đáy
+#lớp đáy của khối xây
+#lớp đệm
+#lớp gạch đặt ngang
+#lớp lót
+#lớp móng
+#lớp nền
+#lớp san bằng
+#móng
+#sự chuẩn bị
+@Lĩnh vực: xây dựng
+#hàng gạch chân tường
+#lớp bên dưới
+#lớp đáy (xây ngầm)
+#lớp gạch xây lót

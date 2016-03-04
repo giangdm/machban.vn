@@ -1,0 +1,2 @@
+﻿@edge card
+#(Tech) thẻ cạnh, bảng cạnh

@@ -1,0 +1,2 @@
+﻿@cycle per second
+#(Tech) chu kỳ mỗi giây, héc

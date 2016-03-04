@@ -1,0 +1,2 @@
+﻿@correcting code
+#(Tech) mã hiệu chỉnh = error correcting code

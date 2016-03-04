@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cạc giao diện
+#cạc giao tiếp
+#thẻ mạch giao diện
+@Lĩnh vực: điện tử & viễn thông
+#tấm mạch giao diện

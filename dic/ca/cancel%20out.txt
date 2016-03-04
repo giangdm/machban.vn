@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#làm căn bằng
+#làm mất giá trị
+@Chuyên ngành kỹ thuật
+#triệt tiêu
+#xóa
+@Lĩnh vực: toán & tin
+#giản ước
+#triệt tiêu lẫn nhau

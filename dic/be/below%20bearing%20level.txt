@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thấp hơn cao độ chịu lực

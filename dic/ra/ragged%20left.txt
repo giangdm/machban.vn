@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#gồ ghề trái
+#không cân trái
+#lề trái không dấu
+#lề trái lởm chởm
+#nhô trái
+@Lĩnh vực: toán & tin
+#không căn trái

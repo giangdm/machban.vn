@@ -1,0 +1,2 @@
+﻿@DC1-4 (Device Control 1-4)
+#(Tech) kiểm soát thiết bị 1-4, kiểm soát bộ phận 1-4

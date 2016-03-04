@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#phần trăm theo khối lượng
+@Lĩnh vực: xây dựng
+#tỷ lệ phần trăm thể tích

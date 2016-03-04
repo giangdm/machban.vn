@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#công nghiệp lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công nghiệp lạnh

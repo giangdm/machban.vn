@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ đếm nhấp nháy
+@Lĩnh vực: toán & tin
+#máy đếm độ nháy
+@Lĩnh vực: y học
+#máy ghi lấp lánh (lấp lánh kế)
+@Lĩnh vực: vật lý
+#ống đếm tần số nháy

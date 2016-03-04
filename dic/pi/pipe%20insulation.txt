@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cách ly đường ống (cách nhiệt, cách nước)
+#sự cách ly ống

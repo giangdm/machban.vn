@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#người có vé
+#người giữ vé
+#người giữ vé, người có vé

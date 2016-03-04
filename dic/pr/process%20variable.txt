@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến điều chỉnh
+@Lĩnh vực: cơ khí & công trình
+#biến quá trình
+@Lĩnh vực: hóa học & vật liệu
+#thông số biến đổi

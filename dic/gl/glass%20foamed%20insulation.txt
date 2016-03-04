@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cách nhiệt bằng thủy tinh xốp
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt kế thủy tinh

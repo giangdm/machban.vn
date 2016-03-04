@@ -1,0 +1,2 @@
+﻿@access menu
+#(Tech) đơn chọn truy cập

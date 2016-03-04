@@ -1,0 +1,9 @@
+﻿@generated address
+#(Tech) địa chỉ được tạo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#địa chỉ (đã) tạo ra
+#địa chỉ đầy đủ
+#địa chỉ phát sinh
+#địa chỉ sinh ra
+#địa chỉ tính toán

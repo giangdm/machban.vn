@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý ngoại tuyến
+@Lĩnh vực: điện tử & viễn thông
+#xử lý ngoại tuyến

@@ -1,0 +1,3 @@
+﻿@Differentials
+#(Econ) Các cung bậc; Các mức chênh lệch.
+: Xem WAGE DIFFERENTIALS.

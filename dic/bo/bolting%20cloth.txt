@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#lưới vây
+#vải lưới sàng
+@Chuyên ngành kỹ thuật
+#vải rây
+@Lĩnh vực: hóa học & vật liệu
+#vải dày

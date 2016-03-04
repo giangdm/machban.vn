@@ -1,0 +1,6 @@
+﻿@part of speech
+*danh từ
+#từ loại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#từ loại

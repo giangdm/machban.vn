@@ -1,0 +1,2 @@
+﻿@allocated block
+#(Tech) khối được phân định

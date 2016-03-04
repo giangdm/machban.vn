@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#sữa vôi
+@Chuyên ngành kỹ thuật
+#dung dịch vôi
+#hồ vôi
+#nước vôi
+@Lĩnh vực: xây dựng
+#vôi trắng
+@Chuyên ngành kỹ thuật
+#dung dịch vôi
+#hồ vôi
+#nước vôi
+@Lĩnh vực: xây dựng
+#vôi trắng

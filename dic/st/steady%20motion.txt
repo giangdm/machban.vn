@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuyển động ổn định
+@Lĩnh vực: vật lý
+#chuyển động ổn định (không thay đổi vận tốc)

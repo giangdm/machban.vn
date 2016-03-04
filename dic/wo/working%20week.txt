@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#ngày làm việc trong một tuần
+#thời gian làm việc trong tuần
+#tuần làm việc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tuần làm việc

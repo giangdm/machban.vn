@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự trễ điện môi
+@Lĩnh vực: điện lạnh
+#trễ điện

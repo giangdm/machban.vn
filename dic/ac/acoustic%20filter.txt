@@ -1,0 +1,9 @@
+﻿@acoustic filter
+#(Tech) bộ lọc âm thanh
+@Chuyên ngành kỹ thuật
+#bộ lọc âm thanh
+#bộ lọc sóng âm
+@Lĩnh vực: toán & tin
+#bộ lọc âm
+@Lĩnh vực: xây dựng
+#thiết bị lọc âm

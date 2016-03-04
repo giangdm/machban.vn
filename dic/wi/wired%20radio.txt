@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy vô tuyến
+@Lĩnh vực: điện
+#máy vô tuyến truyền dây

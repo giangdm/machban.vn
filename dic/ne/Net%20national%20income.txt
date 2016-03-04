@@ -1,0 +1,8 @@
+﻿@Net national income
+#(Econ) Thu nhập quốc dân ròng
+: Xem NATIONAL INCOME.
+@Chuyên ngành kinh tế
+#thu nhập quốc dân tịnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#Thu nhập quốc dân ròng (NNI)

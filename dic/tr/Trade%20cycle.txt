@@ -1,0 +1,8 @@
+﻿@Trade cycle
+#(Econ) Chu kỳ thương mại.
+: Cũng còn gọi là chu kỳ kinh doanh hay chu kỳ kinh tế. Sự biến động trong mức độ hoạt động kinh tế (thường thể hiện dưới dạng thu nhập quốc dân) tạo thành một hình thái đều đặn, với việc mở rộng hoạt động theo một quá trình thu hẹp, sau đó là tiếp tục mở rộng.
+@Chuyên ngành kinh tế
+#chu kỳ kinh tế
+#chu kỳ thương mại
+#chu kỳ thương nghiệp
+#chu kỳ thương nghiệp, chu kỳ kinh tế

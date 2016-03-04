@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nguyên lý tầng sôi
+@Lĩnh vực: điện lạnh
+#phương pháp tầng sôi

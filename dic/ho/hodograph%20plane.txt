@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường đầu mút vectơ
+#đường đầu tốc
+#mặt phẳng tốc đồ
+#mặt phẳng tốc độ
+#tốc đồ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ống dẫn nước
+@Lĩnh vực: đo lường & điều khiển
+#ống định hướng

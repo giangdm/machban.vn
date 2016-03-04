@@ -1,0 +1,5 @@
+﻿@Capital intensity
+#(Econ) Cường độ vốn.
+: Tỷ số vốn so với lao động được sử dụng trong quá trình sản xuất. Xem PRODUCTION FUNCTION.
+@Chuyên ngành kinh tế
+#cường độ vốn

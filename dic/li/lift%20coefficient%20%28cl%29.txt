@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#hệ số nâng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#hệ số lực nâng
+#hệ số nâng nổi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#hệ số nâng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#hệ số lực nâng
+#hệ số nâng nổi

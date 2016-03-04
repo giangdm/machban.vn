@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#công tắc tecmostat
+#rơle nhiệt độ
+@Lĩnh vực: điện lạnh
+#chuyển mạch nhiệt tĩnh

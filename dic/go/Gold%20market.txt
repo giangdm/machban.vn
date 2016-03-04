@@ -1,0 +1,5 @@
+﻿@Gold market
+#(Econ) Thị trường vàng.
+: Thị trường buôn bán vàng kim loại, tiền vàng hay vàng nén.
+@Chuyên ngành kinh tế
+#thị trường vàng

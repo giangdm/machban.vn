@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bớt giá số lượng
+#chiết khấu
+#chiết khấu mua bán số lượng lớn
+#giảm giá số lượng
+#giảm giá theo số lượng

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tỉ lệ phần trăm
+@Lĩnh vực: cơ khí & công trình
+#thành phần phần trăm

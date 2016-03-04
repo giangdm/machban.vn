@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khóa điều khiển truy nhập
+@Lĩnh vực: điện tử & viễn thông
+#khóa kiểm soát truy nhập

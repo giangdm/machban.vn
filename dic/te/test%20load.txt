@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng thí nghiệm
+@Lĩnh vực: đo lường & điều khiển
+#nạp kiểm định
+@Lĩnh vực: xây dựng
+#tải trọng thử nghiệm

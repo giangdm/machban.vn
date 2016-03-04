@@ -1,0 +1,2 @@
+﻿@character packing
+#(Tech) dồn ký tự, nén ký tự

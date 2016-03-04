@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#ôm tĩnh điện
+@Lĩnh vực: điện lạnh
+#statom (đơn vị điện trở trong hệ CGSE)

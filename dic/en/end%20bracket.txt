@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giá đỡ phía đầu máy
+@Lĩnh vực: điện
+#giá lắp ở đầu máy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giá đỡ phía đầu máy
+@Lĩnh vực: điện
+#giá lắp ở đầu máy

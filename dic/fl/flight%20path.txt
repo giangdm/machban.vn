@@ -1,0 +1,11 @@
+﻿@flight path
+*danh từ
+#hướng bay
+@Chuyên ngành kỹ thuật
+#đường bay
+@Lĩnh vực: điện tử & viễn thông
+#đường chuyến bay
+@Chuyên ngành kỹ thuật
+#đường bay
+@Lĩnh vực: điện tử & viễn thông
+#đường chuyến bay

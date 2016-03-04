@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch mua để bán, bán để mua hàng hóa kỳ hạn
+#giao dịch trao đổi hàng hóa kỳ hạn

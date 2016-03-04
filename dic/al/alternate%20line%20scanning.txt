@@ -1,0 +1,2 @@
+﻿@alternate line scanning
+#(Tech) quét dòng xen kẽ

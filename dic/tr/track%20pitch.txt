@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bước vệt
+#khoảng cách rãnh
+@Lĩnh vực: điện lạnh
+#bước rãnh
+@Lĩnh vực: toán & tin
+#độ dày của rãnh ghi
+#giãn cách rãnh

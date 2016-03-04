@@ -1,0 +1,3 @@
+﻿@Growth-profitability function
+#(Econ) Hàm lợi nhuận - tăng trưởng.
+: Đề cập đến Tỷ suất lợi nhuận tối đa mà một hãng có thể duy trì được ở các tỷ lệ tăng trưởng khác nhau.

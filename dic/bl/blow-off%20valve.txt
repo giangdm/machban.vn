@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#van thoát
+#van xả
+@Lĩnh vực: điện
+#van xả bẩn
+@Lĩnh vực: ô tô
+#van xả khí (tăng áp)

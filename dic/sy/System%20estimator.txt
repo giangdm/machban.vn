@@ -1,0 +1,3 @@
+﻿@System estimator
+#(Econ) Ước lượng hệ thống.
+: Còn gọi là ước lượng với đầy đủ thông tin. Một ước lượng dùng để ước lượng toàn bộ các tham số trong một hệ phương trình đồng thời cùng một lúc, và có tính đến sự tương quan giữa các số dư của các phương trình khác nhau.

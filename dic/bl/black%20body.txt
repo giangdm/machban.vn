@@ -1,0 +1,6 @@
+﻿@black body
+#(Tech) vật thể đen
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#vật đen
+#vật đen tuyệt đối

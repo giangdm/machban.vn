@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ký phát một hối phiếu
+#ra phiếu
+#xuất phiếu

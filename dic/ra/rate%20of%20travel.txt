@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#tốc độ chạy
+#tốc độ di chuyển (thanh điều khiển)
+@Lĩnh vực: cơ khí & công trình
+#tốc độ di chuyển

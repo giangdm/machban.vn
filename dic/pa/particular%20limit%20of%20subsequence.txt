@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giới hạn riêng của dãy số

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#lá từ tính
+#lớp từ tính

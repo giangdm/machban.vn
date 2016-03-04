@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chu kỳ không đổi
+@Lĩnh vực: toán & tin
+#chu trình không đổi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chu kỳ không đổi
+@Lĩnh vực: toán & tin
+#chu trình không đổi

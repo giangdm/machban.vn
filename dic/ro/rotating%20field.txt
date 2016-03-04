@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#từ trường quay
+@Lĩnh vực: điện lạnh
+#trường (véctơ) quay
+@Lĩnh vực: điện
+#trường quay

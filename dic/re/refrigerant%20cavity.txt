@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng chứa môi chất lạnh
+#hốc chứa môi chất lạnh

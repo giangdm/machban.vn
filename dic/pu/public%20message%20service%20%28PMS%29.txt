@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dịch vụ thông báo chung
+#dịch vụ thông báo công cộng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dịch vụ nhắn tin công cộng

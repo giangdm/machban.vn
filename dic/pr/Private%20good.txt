@@ -1,0 +1,3 @@
+﻿@Private good
+#(Econ) Hàng hoá riêng tư.
+: Một hàng hoá sẽ thể hiện sự cạnh tranh (Xem RIVAL) trong tiêu dùng và là loại hàng hoá mà người sản và người tiêu dùng đều có khả năng thực hiện được sự loại trừ.

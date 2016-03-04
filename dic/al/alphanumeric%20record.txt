@@ -1,0 +1,2 @@
+﻿@alphanumeric record
+#(Tech) bản ghi chữ-số

@@ -1,0 +1,6 @@
+﻿@External diseconomy
+#(Econ) Ảnh hưởng phi kinh tế từ bên ngoài; Tính phi kinh tế từ bên ngoài
+: Xem EXTERNALITIES.
+@Chuyên ngành kinh tế
+#bất kinh tế ngoại bộ
+#kinh tế không ngoại bộ

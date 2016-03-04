@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy ép hơi
+@Lĩnh vực: xây dựng
+#máy ép khí
+@Lĩnh vực: toán & tin
+#máy khí ép

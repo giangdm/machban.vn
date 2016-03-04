@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#khoảng sáng gầm xe
+@Lĩnh vực: ô tô
+#chiều cao gầm xe
+#cự ly trên đường
+#khoảng cách mặt đường (khung xe)
+@Lĩnh vực: xây dựng
+#khoảng cách (đến) mặt đường

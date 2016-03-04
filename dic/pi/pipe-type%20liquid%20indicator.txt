@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ống thủy
+@Lĩnh vực: điện lạnh
+#bộ chỉ thị lỏng kiểu ống
+@Lĩnh vực: đo lường & điều khiển
+#mức lỏng kế kiểu ống

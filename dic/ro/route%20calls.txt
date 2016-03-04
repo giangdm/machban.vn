@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cho số
+@Lĩnh vực: điện tử & viễn thông
+#cuộc gọi theo tuyến

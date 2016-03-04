@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#máy hàn hơi
+#máy hàn xì
+@Lĩnh vực: hóa học & vật liệu
+#máy hàn khí

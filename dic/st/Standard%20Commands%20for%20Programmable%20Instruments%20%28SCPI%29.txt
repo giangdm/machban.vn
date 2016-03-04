@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#các lệnh tiêu chuẩn cho các công cụ có thể lập trình

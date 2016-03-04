@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự đẩy Coulomb
+@Chuyên ngành kỹ thuật
+#lực đẩy coulomb
+@Lĩnh vực: vật lý
+#lực đẩy tĩnh điện

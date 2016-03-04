@@ -1,0 +1,10 @@
+﻿@Floating debt
+#(Econ) Nợ thả nổi
+: Một phần NỢ QUỐC GIA được vay dưới dạng các CHỨNG KHOÁN ngắn hạn thông thường dùng để chỉ bộ phận được thể hiện bởi HỐI PHIẾU BỘ TÀI CHÍNH. Số nợ này là thả nổi theo nghĩa là nó liên tục giảm cho quá trình thanh toán nợ.
+<!-- more -->
+@floating debt /floating debt/
+*danh từ
+#nợ động (nợ phải trả một phần khi cần hay đến hạn nào đó)
+@Chuyên ngành kinh tế
+#nợ nổi
+#nợ nóng

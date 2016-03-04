@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ máy phân tốc
+@Lĩnh vực: điện lạnh
+#động cơ vi sai

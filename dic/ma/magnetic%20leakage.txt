@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự dò rỉ
+#sự rò từ
+@Lĩnh vực: điện
+#độ rò từ (thông)
+@Lĩnh vực: điện lạnh
+#đường rò từ

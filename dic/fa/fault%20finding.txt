@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự phát hiện sai hỏng
+#sự tìm lỗi
+@Lĩnh vực: điện
+#sự tìm chỗ sai hỏng
+#sự tìm chỗ sự cố
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự phát hiện sai hỏng
+#sự tìm lỗi
+@Lĩnh vực: điện
+#sự tìm chỗ sai hỏng
+#sự tìm chỗ sự cố

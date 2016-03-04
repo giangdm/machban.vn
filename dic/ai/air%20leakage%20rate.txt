@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tỉ lệ rò rỉ không khí
+#tỷ lệ rò rỉ không khí

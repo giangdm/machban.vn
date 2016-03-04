@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#điều khoản bảo lưu, bảo vệ
+@Chuyên ngành kỹ thuật
+#điều kiện bổ sung
+@Lĩnh vực: xây dựng
+#phụ gia (trong trường hợp ngoại lệ)

@@ -1,0 +1,2 @@
+﻿@autorange
+#(Tech) thang đo tự động

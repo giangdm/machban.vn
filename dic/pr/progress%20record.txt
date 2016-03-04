@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hạch toán nghiệp vụ
+#thống kê hàng ngày

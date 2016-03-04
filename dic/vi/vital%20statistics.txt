@@ -1,0 +1,10 @@
+﻿@vital statistics
+*thành ngữ vital
+@Chuyên ngành kinh tế
+#thống kê dân sinh
+#thống kê dân số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#thống kê sinh đẻ
+@Lĩnh vực: toán & tin
+#thống kê tuổi thọ

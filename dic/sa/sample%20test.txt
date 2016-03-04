@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thí nghiệm mẫu
+@Lĩnh vực: cơ khí & công trình
+#sự nghiên cứu mẫu
+#sự thử chọn mẫu (để xác định phần trăm chính phẩm)

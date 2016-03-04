@@ -1,0 +1,2 @@
+﻿@color analyser
+#(Tech) bộ phân tích màu

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#lượng dãn nước có tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự thay đổi tải trọng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự thay đổi tải trọng

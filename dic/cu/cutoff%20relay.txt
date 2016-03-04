@@ -1,0 +1,6 @@
+﻿@cutoff relay
+#(Tech) cái nối điện cắt ngang
+@Chuyên ngành kỹ thuật
+#rơle ngắt
+@Lĩnh vực: điện
+#rơle cắt mạch

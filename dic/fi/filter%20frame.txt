@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#khung máy lọc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#giá lọc
+#khung lọc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#giá lọc
+#khung lọc

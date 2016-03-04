@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn vị quản lý bộ nhớ
+@Lĩnh vực: xây dựng
+#đơn vị quản lý trí nhớ

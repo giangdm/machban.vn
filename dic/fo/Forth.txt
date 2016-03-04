@@ -1,0 +1,27 @@
+﻿@Forth
+#(Tech) chương ngữ Forth
+<!-- more -->
+@forth /fɔ:θ/
+*phó từ
+#về phía trước, ra phía trước, lộ ra
+=to go back and forth: đi đi lại lại, đi tới đi lui
+=to put forth leaves: trổ lá (cây)
+=to bring forth a problem: đưa ra một vấn đề
+=to sail forth: (hàng hải) ra khơi
+#and so forth
+#vân vân
+#from this time (day) forth
+#từ nay về sau
+#to far forth
+#đến mức độ
+#so far forth as
+#đến bất cứ mức nào
+*giới từ
+#(từ cổ,nghĩa cổ) từ phía trong (cái gì) ra, ra khỏi
+@Chuyên ngành kỹ thuật
+#về phía trước
+<!-- more -->
+@forth
+#về phía trước; từ nay về sau
+#and so f.vân vân
+#so far f. trong trừng mực ấy

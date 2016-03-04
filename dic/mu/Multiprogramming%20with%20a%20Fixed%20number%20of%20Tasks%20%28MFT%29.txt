@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lập trình nhiều lớp với một số tác nghiệp cố định

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bitum chảy
+#bitum lỏng vừa
+#bitum nhớt

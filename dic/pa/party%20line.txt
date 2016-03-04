@@ -1,0 +1,19 @@
+﻿@party line /'pɑ:tilain/
+*danh từ
+#đường lối của đảng
+#(từ Mỹ,nghĩa Mỹ),  (như) party_wire
+@Chuyên ngành kinh tế
+#chính sách, đường lối của Đảng
+#điện thoại chung đường dây
+#điện thoại dùng chung đường dây
+#đường dây chia
+#tuyến (điện thoại) dùng chung
+@Chuyên ngành kỹ thuật
+#nhánh rẽ
+@Lĩnh vực: điện tử & viễn thông
+#đường dây chung
+#đường dây dùng chung
+@Lĩnh vực: xây dựng
+#giới hạn chung
+@Lĩnh vực: điện lạnh
+#tuyến rẽ

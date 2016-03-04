@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#trọng lượng ròng thuần túy
+#trọng lượng tịnh
+@Chuyên ngành kỹ thuật
+#khối lượng riêng
+@Lĩnh vực: cơ khí & công trình
+#trọng lượng tự thân

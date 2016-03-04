@@ -1,0 +1,7 @@
+﻿@Stockbroker
+#(Econ) Nhà môi giới chứng khoán.
+: Một nhà trung gian mua bán chứng khoán và cổ phiếu với tư cách là đại lý thay mặt cho khách hàng, ăn hoả hồng cho công việc đó.
+<!-- more -->
+@stockbroker /'stɔk,broukə/
+*danh từ
+#người mua bán cổ phần chứng khoán

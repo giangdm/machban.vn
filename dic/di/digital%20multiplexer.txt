@@ -1,0 +1,2 @@
+﻿@digital multiplexer
+#(Tech) bộ dạng đa hợp dạng số tự

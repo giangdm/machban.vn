@@ -1,0 +1,3 @@
+﻿@Brookings model
+#(Econ) Mô hình Brookings
+: Mô hình này đã được sử dụng để phân tích cấu trúc của CHU KỲ KINH DOANH và cho đánh giá CHÍNH SÁCH TIỀN TỆ, TÀI CHÍNH  và TĂNG TRƯỞNG KINH TẾ. Mô hình đánh dấu một bước quan trọng trong việc thống nhất nhiều thành phần khác nhau của nền kinh tế thành một quy mô lớn nhưng quản lý được, đây là một cột mốc trong việc phát triển các mô hình kinh tế lượng.

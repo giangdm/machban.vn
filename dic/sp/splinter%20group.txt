@@ -1,0 +1,3 @@
+﻿@splinter group
+*danh từ
+#nhóm phân lập

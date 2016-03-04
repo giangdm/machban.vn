@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#dàn treo (để bảo quản giò)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#ray treo

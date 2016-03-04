@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đặc trưng truyền dạt
+#đặc trưng truyền đạt
+@Lĩnh vực: điện tử & viễn thông
+#đặc tuyến truyền dẫn
+#đặc tuyến truyền qua (bộ lọc)

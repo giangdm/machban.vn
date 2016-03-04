@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt
+@Lĩnh vực: điện lạnh
+#dòng chuyển nhiệt
+@Lĩnh vực: toán & tin
+#dòng đoạn
+#dòng đoạn thiệt

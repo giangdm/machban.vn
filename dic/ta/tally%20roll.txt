@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#băng kiểm soát (sổ thu chi tiền mặt)
+#bảng kiểm toán (sổ thu chi tiền mặt)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#băng kiểm

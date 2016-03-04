@@ -1,0 +1,3 @@
+﻿@Paricipation rate
+#(Econ) Tỷ lệ tham gia.
+: Xem LABOUR FORCE PARTICIPA-TION RATE.

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chi phí làm hàng
+#chi phí sử lý
+#chi phí xử lý
+#chi phí xử lý hàng hóa bốc dỡ

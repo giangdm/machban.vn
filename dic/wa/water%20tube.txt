@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ống dẫn nước
+#ống nước
+@Lĩnh vực: điện
+#ống trao đổi nhiệt (trong lò hơi)

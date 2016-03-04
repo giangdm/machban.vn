@@ -1,0 +1,2 @@
+﻿@electromechanical automatic frequency control
+#(Tech) điều tần tự động bằng điện cơ

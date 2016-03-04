@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#mặt cắt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#mặt gia công bằng cắt

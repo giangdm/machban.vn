@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thanh điều khiển
+@Lĩnh vực: vật lý
+#thanh hấp thụ

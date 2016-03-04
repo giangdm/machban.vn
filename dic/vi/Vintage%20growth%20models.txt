@@ -1,0 +1,3 @@
+﻿@Vintage growth models
+#(Econ) Mô hình tăng trưởng theo thời gian.
+: Mô hình tăng trưởng kinh tế cho phép vốn và tiến bộ kỹ thuật kèm theo nó giảm đi theo thời gian.

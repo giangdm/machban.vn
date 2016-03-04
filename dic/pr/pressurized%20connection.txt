@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#mỗi mối nối có áp
+@Lĩnh vực: điện
+#mối nồi ép
+#sự nối có áp (đường dẫn đáy khí)

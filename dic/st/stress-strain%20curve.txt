@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng
+#biểu đồ biểu suất
+#biểu đồ ứng suất-biến dạng
+@Lĩnh vực: hóa học & vật liệu
+#đường cong ứng suất-biến dạng

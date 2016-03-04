@@ -1,0 +1,5 @@
+﻿@circle diagram
+#(Tech) sơ đồ vòng tròn/Xmit
+@Chuyên ngành kỹ thuật
+#biểu đồ tròn
+#đồ thị vòng

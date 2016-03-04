@@ -1,0 +1,9 @@
+﻿@cubic measure ['kju:bik,meʒə]
+*danh từ
+# đơn vị đo thể tích
+@Chuyên ngành kỹ thuật
+#dung tích
+@Lĩnh vực: toán & tin
+#độ đo thể tích
+@Lĩnh vực: đo lường & điều khiển
+#số đo thể tich

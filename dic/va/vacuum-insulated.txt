@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#được cách (nhiệt) bằng chân không
+#được cách nhiệt (bằng) chân không

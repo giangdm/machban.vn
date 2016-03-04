@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phân tầng nhiệt độ
+#sự phân tầng nhiệt độ

@@ -1,0 +1,10 @@
+﻿@error detection routine
+#(Tech) thường trình phát hiện sai lầm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đoạn chương trình phát hiện lỗi
+#thủ tục dò lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đoạn chương trình phát hiện lỗi
+#thủ tục dò lỗi

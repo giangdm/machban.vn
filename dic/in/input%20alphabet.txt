@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảng chữ (đưa) vào
+#bảng chữ nhập
+@Lĩnh vực: toán & tin
+#bộ chữ cái vào

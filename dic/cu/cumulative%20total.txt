@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tổng số dồn lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tổng tích lũy

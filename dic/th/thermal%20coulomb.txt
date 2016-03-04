@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#culông nhiệt (đơn vị entropy bằng 1 jun /kenvin

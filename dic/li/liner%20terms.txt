@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#điều kiện chủ tàu chịu phí bốc dỡ
+#điều kiện tàu chợ
+#điều kiện vận phí gồm cả phí bốc dỡ

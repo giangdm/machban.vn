@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kho hàng đã đóng cước
+#kho hàng đã đóng thuế

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch bộ đếm
+@Lĩnh vực: toán & tin
+#mạch đếm
+#sơ đồ đếm
+@Lĩnh vực: điện tử & viễn thông
+#mạch máy đếm

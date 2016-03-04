@@ -1,0 +1,17 @@
+﻿@go off
+#đi ra, ra đi, đi mất, đi biến, chuồn, bỏ đi
+#(sân khấu) vào (diễn viên)
+#nổ (súng)
+=the gun went off: súng nổ
+=the pistol did not go off: súng lục bắn không nổ
+#ung, thối, ươn, ôi
+=milk has gone off: sữa đã chua ra
+#ngủ say, lịm đi, ngất
+=she went off into a faint: cô ta ngất lịm đi
+#bán tống bán tháo, bán chạy (hàng hoá)
+#được tiến hành, diễn ra
+=the concert went off very well: buổi hoà nhạc đã diễn ra rất tốt đẹp
+#phai, bay (màu); phai nhạt (tình cảm); xuống sức (vận động viên); trở nên tiều tuỵ, xuống nước (phụ nữ)
+#chết
+@Chuyên ngành kỹ thuật
+#bắt đầu cứng (matít)

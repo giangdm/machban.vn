@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#gửi tiền
+#vốn khởi động (để triển khai một hoạt động nào đó)

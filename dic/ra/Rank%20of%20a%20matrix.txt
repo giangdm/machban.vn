@@ -1,0 +1,11 @@
+﻿@Rank of a matrix
+#(Econ) Hạng của ma trận.
+: Con số tối đa của hàng hay cột độc lập tuyến tính của ma trận.
+@Chuyên ngành kinh tế
+#dãy ma trận
+#hạng của ma trận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hạng của ma trận
+@Lĩnh vực: xây dựng
+#hạng ma trận

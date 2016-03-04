@@ -1,0 +1,3 @@
+﻿@Point utility possibility curve
+#(Econ) Đường khả năng thoả dụng điểm.
+: Một đường khả năng thoả dụng điểm có thể được vẽ cho mỗi giỏ hàng hoá.

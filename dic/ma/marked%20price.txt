@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giá ghi
+#giá ghi (tên hàng hóa)
+#giá ghi (trên hàng hóa)

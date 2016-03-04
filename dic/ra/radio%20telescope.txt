@@ -1,0 +1,8 @@
+﻿@radio telescope
+*danh từ
+#máy viễn vọng vô tuyến (thiết bị để tìm các ngôi sao, theo dõi con tàu vũ trụ  bằng sóng <rađiô> từ vũ trụ)
+@Chuyên ngành kỹ thuật
+#kính viễn vọng vô tuyến
+@Lĩnh vực: vật lý
+#kính thiên văn vô tuyến
+#viễn kính vô tuyến

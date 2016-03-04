@@ -1,0 +1,6 @@
+﻿@Efficient market hypothesis
+#(Econ) Giả thuyết về thị trường có hiệu quả.
+: Một quan điểm cho rằng  giá cổ phiếu trên thị trương chứng khoán là những ước tính tốt nhất về giá trị thực của cổ phiếu vì thị trường chứng khoán có cơ chế định giá tốt nhất.
+@Chuyên ngành kinh tế
+#giả thiết thị trường hiệu quả
+#giả thiết về hiệu quả của thị trường

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điểm điều khiển kế cận
+@Lĩnh vực: điện tử & viễn thông
+#điểm điều khiển phụ cận

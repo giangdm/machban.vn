@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tác động tiêu tán
+#tác dụng hao tán
+#tác dụng tiêu tán

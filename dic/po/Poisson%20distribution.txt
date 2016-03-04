@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#Phân phối Poisson
+@Chuyên ngành kỹ thuật
+#phân bổ poisson
+@Chuyên ngành kỹ thuật
+#phân bố Poisson
+@Lĩnh vực: toán & tin
+#phân phối Poisson

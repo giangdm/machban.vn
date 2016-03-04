@@ -1,0 +1,7 @@
+﻿@acceptance inspection
+#(Tech) kiểm tra nghiệm thu
+@Chuyên ngành kỹ thuật
+#sự kiểm tra nghiệm thu
+@Lĩnh vực: toán & tin
+#kiểm tra chấp nhận
+#kiểm tra thu nhận

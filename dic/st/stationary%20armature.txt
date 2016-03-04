@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phần cứng cố định
+#phần cứng dừng
+#phần cứng tĩnh tại

@@ -1,0 +1,7 @@
+﻿@Involuntary unemployment
+#(Econ) Thất nghiệp không tự nguyện.
+: Thất nghiệp sẽ được loại bỏ khi tổng cầu tăng lên, tổng cầu làm cho giá cả tăng lên và tiền công thực tế thấp đi.
+@Chuyên ngành kinh tế
+#tàu về
+#thất nghiệp không tự nguyện
+#thất nghiệp miễn cưỡng

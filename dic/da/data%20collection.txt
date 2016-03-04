@@ -1,0 +1,10 @@
+﻿@data collection
+#(Tech) sự thu thập dữ liệu
+@Chuyên ngành kỹ thuật
+#dữ liệu
+#sự bắt dữ liệu
+#tập hợp số liệu
+#thu thập dữ liệu
+@Lĩnh vực: xây dựng
+#khối dữ kiện
+#thu thập số liệu

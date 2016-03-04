@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#ngăn hoàn nhiệt
+#ngăn tái sinh (thiết bị tiệt trùng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đoạn phát lại (cơ sở)
+#phần phát lại (cơ sở)
+@Lĩnh vực: điện tử & viễn thông
+#đoạn phát sinh lại
+#đoạn tái sinh

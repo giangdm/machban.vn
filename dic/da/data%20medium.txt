@@ -1,0 +1,12 @@
+﻿@data medium
+#(Tech) môi thể dữ liệu
+@Chuyên ngành kỹ thuật
+#đĩa
+#môi trường ghi
+#phương tiện nhớ
+#tập nhớ
+#vật mang dữ liệu
+#vật trữ tin
+@Lĩnh vực: điện tử & viễn thông
+#môi trường dữ liệu
+#môi trường thông tin

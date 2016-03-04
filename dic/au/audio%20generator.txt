@@ -1,0 +1,5 @@
+﻿@audio generator
+#(Tech) máy tạo sóng âm tần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy phát sóng hạ tầng

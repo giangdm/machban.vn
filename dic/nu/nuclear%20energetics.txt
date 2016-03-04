@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#năng lượng học hạt nhân
+@Lĩnh vực: điện
+#ngành năng lượng hạt nhân

@@ -1,0 +1,12 @@
+﻿@flight simulator
+#(Tech) bộ mô phỏng phi hành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ mô phỏng bay
+#phòng tập lái
+#thiết bị mô phỏng bay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ mô phỏng bay
+#phòng tập lái
+#thiết bị mô phỏng bay

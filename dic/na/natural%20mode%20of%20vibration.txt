@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#dạng dao động riêng
+#dạng dao động tự do
+#kiểu giao động tự nhiên

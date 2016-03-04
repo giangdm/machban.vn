@@ -1,0 +1,2 @@
+﻿@computron
+#(Tech) đèn điện tử đa cực (dùng trong máy điện toán)

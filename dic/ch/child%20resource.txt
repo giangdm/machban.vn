@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#nguồn con
+@Lĩnh vực: toán & tin
+#tài nguyên con

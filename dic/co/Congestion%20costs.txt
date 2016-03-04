@@ -1,0 +1,5 @@
+﻿@Congestion costs
+#(Econ) Chi phí do tắc nghẽn.
+: Khi việc sử dụng một phương tiện hay dịch vụ đang được nhiều người dùng tăng lên, sẽ xuất hiện một chi phí (không nhất thiết bằng tiền) đối với người đang sử dụng chúng, thì phương tiện đó gọi là tắc nghẽn.
+@Chuyên ngành kinh tế
+#chi phí tắc nghẽn

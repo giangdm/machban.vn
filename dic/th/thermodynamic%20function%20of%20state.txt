@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#biến nhiệt động học
+#biến trạng thái
+#tham số trạng thái
+@Lĩnh vực: điện lạnh
+#hàm trạng thái nhiệt động lực học

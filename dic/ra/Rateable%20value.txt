@@ -1,0 +1,5 @@
+﻿@Rateable value
+#(Econ) Giá trị có thể đánh thuế.
+@Chuyên ngành kinh tế
+#giá trị phải chịu thuế
+#giá trị tài sản được đánh giá để nộp thuế hàng năm

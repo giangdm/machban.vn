@@ -1,0 +1,6 @@
+﻿@Potential national income
+#(Econ) Thu nhập quốc dân tiềm năng.
+: Xem FULL EMPLOYMENT NATIONAL INCOME.
+@Chuyên ngành kinh tế
+#thu nhập quốc dân tiềm tàng
+#thu nhập quốc gia tiềm tàng

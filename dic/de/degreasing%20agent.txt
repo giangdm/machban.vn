@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị khử dầu
+@Lĩnh vực: hóa học & vật liệu
+#chất khử dầu
+#chất khử dầu nhờn
+#chất khử mỡ
+#chất tẩy dầu, mỡ
+#chất tẩy nhờn
+@Lĩnh vực: vật lý
+#chất tẩy dầu mỡ
+@Lĩnh vực: xây dựng
+#thiết bị khử mỡ

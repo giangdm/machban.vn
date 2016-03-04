@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hệ số áp lực
+#hệ số áp lực nhiệt động
+@Chuyên ngành kỹ thuật
+#hệ số áp suất
+#hệ số nén ép
+@Lĩnh vực: toán & tin
+#hệ số áp lực

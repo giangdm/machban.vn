@@ -1,0 +1,7 @@
+﻿@complex permittivity
+#(Tech) hằng số điện môi phức tạp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hằng số điện môi phức
+@Lĩnh vực: điện lạnh
+#hệ số điện môi phức

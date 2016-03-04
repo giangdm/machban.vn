@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tín hiệu (báo) sẵn sàng để truyền
+#tín hiệu thông (có thể truyền)

@@ -1,0 +1,7 @@
+﻿@Accelerated depreciation
+#(Econ) Khấu hao nhanh, khấu hao gia tốc.
+: Xem DEPRECIATION
+@Chuyên ngành kinh tế
+#khấu hao gấp
+#khấu hao gia tốc
+#khấu hao nhanh

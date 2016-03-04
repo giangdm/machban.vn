@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện trở nhiều đầu nối ra
+#điện trở rẽ nhánh
+@Lĩnh vực: điện lạnh
+#điện trở nhiều đầu ra

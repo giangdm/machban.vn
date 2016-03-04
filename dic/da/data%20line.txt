@@ -1,0 +1,6 @@
+﻿@data line
+#(Tech) đường truyền dữ liệu
+@Chuyên ngành kỹ thuật
+#dòng dữ liệu
+#đường truyền dữ liệu
+#tuyến dữ liệu

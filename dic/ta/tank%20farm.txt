@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#chỗ đặt bể chứa
+#trạm xăng dầu
+@Lĩnh vực: xây dựng
+#bãi đặt bể chứa
+#trạm dự trữ (nhiên liệu)
+@Lĩnh vực: hóa học & vật liệu
+#kho chứa hiđrocacbon

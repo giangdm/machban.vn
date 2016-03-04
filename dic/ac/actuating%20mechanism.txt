@@ -1,0 +1,10 @@
+﻿@actuating mechanism
+#(Tech) cơ cấu động tác, cơ chế động tác
+@Chuyên ngành kỹ thuật
+#cơ cấu dẫn động
+#cơ cấu khởi động
+#cơ cấu thực hiện
+@Lĩnh vực: xây dựng
+#cơ cấu thao tác
+@Lĩnh vực: toán & tin
+#cơ cấu thừa hành

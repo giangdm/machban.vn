@@ -1,0 +1,3 @@
+﻿@food-chain
+*danh từ
+#hệ sinh vật mà cách sắp xếp là sinh vật lớp trên ăn sinh vật lớp dưới

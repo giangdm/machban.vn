@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền đứt giới hạn
+#độ bền kéo
+#giới hạn bền
+#sức chịu tối đa
+@Lĩnh vực: xây dựng
+#cường độ cực hạn
+#sức bền giới hạn
+@Lĩnh vực: cơ khí & công trình
+#giới hạn bền cực đại (lực cao nhất)
+#giới hạn phá hủy

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tần số hoàn điệu
+@Lĩnh vực: điện
+#tần số không biến điệu

@@ -1,0 +1,5 @@
+﻿@formatted display
+#(Tech) màn hình đã định khuôn dạng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#màn hình định khuôn

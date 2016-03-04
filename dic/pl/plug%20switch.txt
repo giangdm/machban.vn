@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chuyển mạch kiểu phích cắm
+#mạch cắm kiểu chốt
+#phích chuyển mạch

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#kế hoạch đánh số
+@Lĩnh vực: toán & tin
+#cách đánh số
+@Lĩnh vực: điện lạnh
+#sơ đồ đánh số

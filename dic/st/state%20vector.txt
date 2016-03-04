@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#vectơ tính trạng
+@Lĩnh vực: toán & tin
+#vectơ trạng thái

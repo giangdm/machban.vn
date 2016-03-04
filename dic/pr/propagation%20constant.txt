@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hằng số lan truyền
+#hằng số truyền
+#hệ số lan truyền

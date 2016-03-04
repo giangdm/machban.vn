@@ -1,0 +1,2 @@
+﻿@Gudden-Pohl effect
+#(Tech) hiệu ứng Gudden-Pohl

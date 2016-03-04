@@ -1,0 +1,8 @@
+﻿@simple interest
+*danh từ
+#lãi đơn (lãi trả cho tiền vốn thôi, không tính cả lãi cộng vào vốn)
+@Chuyên ngành kinh tế
+#lãi đơn
+@Chuyên ngành kỹ thuật
+#lãi đơn
+#lợi tức đơn giản

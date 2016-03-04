@@ -1,0 +1,3 @@
+﻿@Forecast error
+#(Econ) Sai số dự đoán.
+: Chênh lệch giữa giá trị dự đoán của một biến thu được bằng các phương pháp dự đoán kết qủa từ thực tế.

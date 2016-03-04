@@ -1,0 +1,6 @@
+﻿@dynamic resistance
+#(Tech) điện trở động; trở kháng động
+@Chuyên ngành kỹ thuật
+#điện trở động
+@Lĩnh vực: xây dựng
+#sức bền động lực

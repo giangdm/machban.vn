@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#định lý Clausius
+@Lĩnh vực: vật lý
+#phương trình Carnot-Clausius

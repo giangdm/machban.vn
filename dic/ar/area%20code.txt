@@ -1,0 +1,10 @@
+﻿@area code
+*danh từ
+#mã số vùng điện thoại
+@Chuyên ngành kinh tế
+#mã số khu vực (dùng cho điện thoại đuờng dài)
+@Chuyên ngành kỹ thuật
+#mã đường trục
+#mã vùng
+@Lĩnh vực: điện tử & viễn thông
+#mã địa phương

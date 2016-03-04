@@ -1,0 +1,3 @@
+﻿@etd
+*(viết tắt)
+#giờ khởi hành ước chừng (Estimated time of departure)

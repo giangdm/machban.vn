@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#công ty độc quyền
+#công ty hữu hạn tư nhân (ở Úc và Nam phi)
+#công ty hữu hạn tư nhân (ở Úc và ở Nam Phi)
+#công ty mẹ
+#công ty phát triển đất đai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#công ty độc quyền

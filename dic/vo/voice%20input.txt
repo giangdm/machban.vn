@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngõ vào thoại
+#sự nhập tín hiệu thoại

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự nghiên cứu, tham khảo, duyệt bảng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lệnh tìm bảng
+#tìm bảng, duyệt bảng

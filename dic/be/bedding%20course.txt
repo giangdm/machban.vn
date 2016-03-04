@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp đáy
+#lớp đệm
+@Lĩnh vực: xây dựng
+#sự chuẩn bị lớp đệm
+#sự lấp đầy lớp đệm
+#sự thêm liệu lớp đệm

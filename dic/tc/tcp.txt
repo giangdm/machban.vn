@@ -1,0 +1,5 @@
+﻿@tcp/ip
+#Một tập các giao thức dùng cho quá trình phát truyền và sửa lỗi đối với các dữ liệu, cho phép chuyển dữ liệu từ máy tính được ghép với mạng Internet sang các máy tính khác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#dung dịch trichlorphenol

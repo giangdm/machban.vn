@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị trao đổi nhiệt kiểu ống
+@Chuyên ngành kỹ thuật
+#ống trao đổi nhiệt
+@Lĩnh vực: xây dựng
+#bộ trao đổi nhiệt kiểu ống
+@Lĩnh vực: điện lạnh
+#dàn ống trao đổi nhiệt
+#giàn ống trao đổi nhiệt

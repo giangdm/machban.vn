@@ -1,0 +1,5 @@
+﻿@cassette tape
+#(Tech) băng cátxét
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#băng cassette

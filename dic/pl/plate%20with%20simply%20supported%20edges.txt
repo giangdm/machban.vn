@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản có các cạnh khớp
+#bản có các cạnh liên kết

@@ -1,0 +1,16 @@
+﻿@drainage basin
+*danh từ
+#lưu vực tiêu nước
+@Chuyên ngành kỹ thuật
+#bồn tiêu nước
+#diện tích tiêu nước
+#lưu vực
+#lưu vực sông
+#lưu vực tiêu nước
+#vùng giáng thủy
+#vùng mưa
+#vùng thoát nước
+#vùng thu nước
+#vùng tiêu nước
+@Lĩnh vực: hóa học & vật liệu
+#bồn thoát nước

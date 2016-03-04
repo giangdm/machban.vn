@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#quạt gió kiểu tuabin
+#quạt gió kiểu turbin

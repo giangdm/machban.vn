@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sản xuất cấp một
+#sản xuất nguyên khai
+#sản xuất sơ cấp

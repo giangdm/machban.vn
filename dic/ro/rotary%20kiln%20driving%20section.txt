@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ phận dẫn động của lò quay
+#vành dẫn động của lò quay

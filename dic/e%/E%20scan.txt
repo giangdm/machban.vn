@@ -1,0 +1,2 @@
+﻿@E scan
+#(Tech) quét kiểu E

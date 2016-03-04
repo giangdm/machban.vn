@@ -1,0 +1,6 @@
+﻿@Vacancy rate
+#(Econ) Tỷ lệ chỗ làm việc còn trống.
+: Một chỉ số về cầu lao động tại mức tiền công hiện hành.
+@Chuyên ngành kinh tế
+#tỉ số bỏ không
+#tỷ lệ bỏ không

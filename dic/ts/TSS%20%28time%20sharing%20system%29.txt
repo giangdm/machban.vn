@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống chia sẻ thời gian
+#hệ thống dùng chung thời gian

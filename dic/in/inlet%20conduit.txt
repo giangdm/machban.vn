@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ống dẫn vào
+@Lĩnh vực: điện lạnh
+#ống dẫn hút

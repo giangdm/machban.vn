@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cách quấn dây ngẫu nhiên
+#cuộn dây ngẫu nhiên
+#cuộn dây quấn tạp
+#kiểu quấn tạp
+#quấn dây ngẫu nhiên
+@Lĩnh vực: điện lạnh
+#cuộn dây lồng rời

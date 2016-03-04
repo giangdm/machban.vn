@@ -1,0 +1,24 @@
+﻿@base line
+#(Tech) đường đáy
+@Chuyên ngành kinh tế
+#tư liệu gốc
+@Chuyên ngành kỹ thuật
+#cạnh gốc
+#đường căn cứ
+#đường chính
+#đường chuẩn
+#đường cơ bản
+#đường đáy
+#đường đo
+#đường nối
+#đường trục
+@Lĩnh vực: điện tử & viễn thông
+#dòng cơ sở
+@Lĩnh vực: xây dựng
+#đường (tính) truyền
+#mặt chuẩn trắc địa
+#trục của đường
+@Lĩnh vực: giao thông & vận tải
+#đường chuẩn (đạo hàng)
+@Lĩnh vực: cơ khí & công trình
+#trục chính (khi lấy dấu)

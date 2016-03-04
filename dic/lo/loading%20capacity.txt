@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#năng lực tải trọng
+#sức chở nặng
+@Chuyên ngành kỹ thuật
+#khả năng chịu lực
+#khả năng tải
+#sức tải
+#tải trọng có ích
+@Chuyên ngành kỹ thuật
+#khả năng chịu lực
+#khả năng tải
+#sức tải
+#tải trọng có ích

@@ -1,0 +1,7 @@
+﻿@Mutually exclusive
+#(Econ) Loại từ lẫn nhau.
+@Chuyên ngành kỹ thuật
+#loại trừ lẫn nhau
+@Lĩnh vực: toán & tin
+#xung khắc
+#xung khắc nhau

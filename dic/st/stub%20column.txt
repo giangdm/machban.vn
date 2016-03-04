@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#cột ngắn
+@Lĩnh vực: cơ khí & công trình
+#cột thấp
+#trụ thấp

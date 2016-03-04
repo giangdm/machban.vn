@@ -1,0 +1,6 @@
+﻿@Wage-push inflation
+#(Econ) Lạm phát do tiền công đẩy.
+: Một biểu hiện của lạm phát do chi phí đẩy, coi nguyên nhân của quá trình lạm phát là do áp lực của nghiệp đoàn với thị trường lao động.
+@Chuyên ngành kinh tế
+#lạm phát do tiền lương tăng cao
+#lạm phát lương đẩy

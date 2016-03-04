@@ -1,0 +1,9 @@
+﻿@atomicity /ə'tə'misiti/
+*danh từ
+#hoá trị
+#số lượng nguyên tử trong phân tử (của một chất)
+@Chuyên ngành kỹ thuật
+#hóa trị
+#nguyên tử số
+@Lĩnh vực: toán & tin
+#tính nguyên tử

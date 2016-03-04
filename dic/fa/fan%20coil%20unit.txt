@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#buồng điều không
+#phòng điều không
+@Lĩnh vực: điện lạnh
+#bộ giàn quạt lạnh
+#tổ dàn quạt lạnh
+#tổ điều không
+@Chuyên ngành kỹ thuật
+#buồng điều không
+#phòng điều không
+@Lĩnh vực: điện lạnh
+#bộ giàn quạt lạnh
+#tổ dàn quạt lạnh
+#tổ điều không

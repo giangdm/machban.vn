@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#phân tích những số liệu theo chuỗi thời gian
+@Chuyên ngành kỹ thuật
+#phân tích chuỗi thời gian

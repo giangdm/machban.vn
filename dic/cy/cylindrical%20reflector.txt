@@ -1,0 +1,5 @@
+﻿@cylindrical reflector
+#(Tech) cái phản xạ trụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ phản xạ hình trụ

@@ -1,0 +1,5 @@
+﻿@pict
+#Một loại khuôn thức tệp đồ họa Macintosh, được biên soạn đầu tiên cho chương trình MacDraw
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#định dạng PICT

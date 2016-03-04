@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí ban đầu
+#chi phí sơ bộ
+#phí tổn trù bị (thành lập công ty)

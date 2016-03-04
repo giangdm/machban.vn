@@ -1,0 +1,12 @@
+﻿@Bureaux
+#(Econ) Văn phòng
+: Trong HỌC THUYẾT KINH TẾ VỀ SỰ QUAN LIÊU, những tổ chức phi lợi nhuận được tài trợ, ít nhất một phần từ trợ cấp định kỳ và cung ứng một tổng sản lượng để đổi lấy một ngân sách chứ không phải những đơn vị sản phẩm theo giá.
+<!-- more -->
+@bureaux /bjuə'rou/
+*(bất qui tắc) danh từ,  số nhiều bureaux,  bureaus
+#cục, nha, vụ
+=the Bureau of Information: cục thông tin (từ Mỹ,nghĩa Mỹ)
+=the Federal Bureau of Investigation: cục điều tra liên bang (Mỹ)
+=the Bureau of Personnel: vụ tổ chức
+#bàn làm việc, bàn giấy
+#tủ có ngăn kéo, tủ com mốt (có gương)

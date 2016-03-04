@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khuyết số của một không gian nửa phi Ơclít

@@ -1,0 +1,5 @@
+﻿@Supply of labour
+#(Econ) Cung lao động.
+: Số lao động cung cấp cho nền kinh tế chủ yếu được quyết định bởi số lượng dân ở tuổi làm việc.
+@Chuyên ngành kinh tế
+#sự cung ứng lao động

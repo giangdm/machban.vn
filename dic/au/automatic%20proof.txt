@@ -1,0 +1,2 @@
+﻿@automatic proof
+#(Tech) chứng minh tự động

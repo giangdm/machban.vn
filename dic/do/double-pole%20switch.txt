@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cầu dao hai cực
+#chuyển mạch hai cực
+#công tắc kép

@@ -1,0 +1,6 @@
+﻿@Full cost
+#(Econ) Chi phí đầy đủ.
+: Tại bất kỳ mức sản lượng nào, chi phí đầy đủ là tổng chi phí khả biến trung bình, chi phí cố định trung bình và phần lợi nhuận ròng.
+@Chuyên ngành kinh tế
+#phí tổn hoàn toàn
+#phí tổn toàn bộ

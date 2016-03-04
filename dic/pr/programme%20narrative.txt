@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bài tường thuật kế hoạch
+#thuyết minh kế hoạch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự mô tả chương trình

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#áp lực dương
+@Lĩnh vực: hóa học & vật liệu
+#áp suất dương

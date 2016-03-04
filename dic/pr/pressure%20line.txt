@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đường áp lực
+#đường có áp
+#đường ống chịu áp
+@Lĩnh vực: cơ khí & công trình
+#đường (ống) cao áp
+@Lĩnh vực: xây dựng
+#đường áp lực (vòm)

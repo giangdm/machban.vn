@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#kho làm lạnh
+#ngăn làm lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khu nhà kho được làm lạnh

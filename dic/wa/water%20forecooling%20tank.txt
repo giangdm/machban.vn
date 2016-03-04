@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bể làm nguội sơ bộ nước (rót vào khuôn làm đá)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tăng làm lạnh (mát) nước sơ bộ
+#thùng làm lạnh nước sơ bộ
+#thùng làm mát nước sơ bộ

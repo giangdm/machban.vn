@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hoạt động đơn
+#sự thao tác đơn
+@Lĩnh vực: điện tử & viễn thông
+#mạch tích hợp quang kiểu (dao động) đơn

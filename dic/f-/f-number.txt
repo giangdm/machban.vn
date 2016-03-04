@@ -1,0 +1,7 @@
+﻿@f-number
+*danh từ
+#hệ số hiệu dụng của thấu kính
+@Chuyên ngành kỹ thuật
+#số f
+@Chuyên ngành kỹ thuật
+#số f

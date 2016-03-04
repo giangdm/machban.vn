@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống thông tin quản lý
+#hệ thông tin quản lý
+@Lĩnh vực: toán & tin
+#hệ quản lý nhân sự
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống thông tin quản trị

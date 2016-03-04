@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ dò từ thông
+@Lĩnh vực: điện
+#độ rò từ thông
+#độ thất thoát từ thông
+#thông lượng rò

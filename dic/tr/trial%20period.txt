@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#giai đoạn thử việc
+#giai đoạn thử, thí nghiệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giai đoạn dùng thử
+@Lĩnh vực: cơ khí & công trình
+#thời gian thí nghiệm
+@Lĩnh vực: giao thông & vận tải
+#thời gian thử nghiệm
+#thời gian thử thách
+@Lĩnh vực: xây dựng
+#thời hạn thí nghiệm

@@ -1,0 +1,11 @@
+﻿@plan-
+#hình thái ghép chỉ vận động, có thể vận động
+#planospore
+#bào tử động
+#hình thái ghép có nghĩa là phẳng
+=plano-concave:phẳng - lồi
+#hình thái ghép chỉ vận động, có thể vận động
+#planospore
+#bào tử động
+#hình thái ghép có nghĩa là phẳng
+=plano-concave:phẳng - lồi

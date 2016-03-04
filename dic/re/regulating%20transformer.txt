@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#biến áp điều chỉnh
+#biến áp điều khiển
+@Lĩnh vực: điện lạnh
+#máy biến áp điều chỉnh

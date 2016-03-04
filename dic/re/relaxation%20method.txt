@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp nới lỏng
+@Lĩnh vực: toán & tin
+#phương pháp giảm dư

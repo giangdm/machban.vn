@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#lanhtô gạch
+#lanhtô gạch xây một hàng

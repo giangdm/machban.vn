@@ -1,0 +1,5 @@
+﻿@duty cycle
+#(Tech) chu kỳ làm việc; hệ số đầy (xung)
+@Chuyên ngành kỹ thuật
+#chu trình hoạt động
+#chu trình làm việc

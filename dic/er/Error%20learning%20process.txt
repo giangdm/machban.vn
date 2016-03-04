@@ -1,0 +1,3 @@
+﻿@Error learning process
+#(Econ) Quá trình nhận biết sai số.
+: Xem ADAPTIVE EXPECTATIONS.

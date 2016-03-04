@@ -1,0 +1,2 @@
+﻿@conjugate transfer constant
+#(Tech) hệ số truyền liên hợp

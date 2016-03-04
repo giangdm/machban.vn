@@ -1,0 +1,2 @@
+﻿@computational schema
+#(Tech) sơ đồ tính toán

@@ -1,0 +1,3 @@
+﻿@styl
+#hình thái ghép có nghĩa là cột : stylobate nền đỡ hàng cột
+#hình thái ghép có nghĩa lá gai : styloid dạng gai

@@ -1,0 +1,2 @@
+﻿@bead transistor
+#(Tech) đèn tinh thể hạt

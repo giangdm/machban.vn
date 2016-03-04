@@ -1,0 +1,2 @@
+﻿@end-of-transmission character
+#(Tech) ký tự kết thúc truyền

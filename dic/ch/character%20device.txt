@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị điều khiển
+@Lĩnh vực: toán & tin
+#thiết bị kiểu ký tự
+#xử lý kí tự

@@ -1,0 +1,5 @@
+﻿@absolute vector
+#(Tech) véctơ tuyệt đối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#vectơ tuyệt đối

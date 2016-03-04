@@ -1,0 +1,15 @@
+﻿@Inelastic
+#(Econ) Không co giãn.
+: Xem Elasticity.
+<!-- more -->
+@inelastic /,ini'læstik/
+*tính từ
+#không co dân, không đàn hồi
+#không mềm dẻo, khó thích nghi
+#(kinh tế) phản ứng chậm đối với những sự thay đổi (thị trường...)
+@Chuyên ngành kỹ thuật
+#không đàn hồi
+#phi đàn hồi
+<!-- more -->
+@inelastic
+#(vật lí) không đàn hồi

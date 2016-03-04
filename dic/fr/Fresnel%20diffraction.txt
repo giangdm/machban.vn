@@ -1,0 +1,7 @@
+﻿@Fresnel diffraction
+#(Tech) nhiễu xạ Fresnel
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiện tượng nhiễu xạ Fresnel
+@Lĩnh vực: vật lý
+#sự nhiễm xạ Fresnel

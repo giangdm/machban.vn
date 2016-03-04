@@ -1,0 +1,2 @@
+﻿@current indicator
+#(Tech) bộ chỉ báo dòng

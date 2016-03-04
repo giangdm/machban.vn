@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy quay đĩa hình
+#máy quay đĩa video
+@Lĩnh vực: toán & tin
+#máy chạy đĩa video

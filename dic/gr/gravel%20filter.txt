@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị lọc cát sỏi
+@Chuyên ngành kỹ thuật
+#bể lọc bằng sỏi
+@Lĩnh vực: xây dựng
+#thiết bị lọc sỏi

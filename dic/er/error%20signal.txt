@@ -1,0 +1,22 @@
+﻿@error signal
+#(Tech) tín hiệu sai số
+@Chuyên ngành kỹ thuật
+#tín hiệu báo lỗi
+@Lĩnh vực: điện lạnh
+#điện áp sai số
+@Lĩnh vực: toán & tin
+#tín hiệu sai
+@Lĩnh vực: đo lường & điều khiển
+#tín hiệu sai lệch
+@Lĩnh vực: giao thông & vận tải
+#tín hiệu trục trặc
+@Chuyên ngành kỹ thuật
+#tín hiệu báo lỗi
+@Lĩnh vực: điện lạnh
+#điện áp sai số
+@Lĩnh vực: toán & tin
+#tín hiệu sai
+@Lĩnh vực: đo lường & điều khiển
+#tín hiệu sai lệch
+@Lĩnh vực: giao thông & vận tải
+#tín hiệu trục trặc

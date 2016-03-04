@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#biểu đồ trục lệch sang phải (điện tâm đồ)

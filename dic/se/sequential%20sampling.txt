@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sự lấy mẫu liên tiếp
+@Chuyên ngành kỹ thuật
+#sự lấy mẫu tuần tự

@@ -1,0 +1,3 @@
+﻿@Wages structure
+#(Econ) Cấu trúc tiền công
+: Các thứ hạng tiền lương của các nhóm công nhân phân theo nghành, địa điểm làm việc theo nhóm nghề nghiệp hoặc chủng tộc.

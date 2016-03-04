@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dải dòng điện
+@Lĩnh vực: đo lường & điều khiển
+#khoảng (đo) dòng điện

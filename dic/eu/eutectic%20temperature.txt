@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt độ ơtetic
+@Chuyên ngành kỹ thuật
+#nhiệt độ ơtecti
+@Lĩnh vực: điện lạnh
+#nhiệt độ cùng tinh
+@Chuyên ngành kỹ thuật
+#nhiệt độ ơtecti
+@Lĩnh vực: điện lạnh
+#nhiệt độ cùng tinh

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#áp chân không kế (đo cả áp suất dư)
+@Lĩnh vực: đo lường & điều khiển
+#áp kế chân không (đo áp suất dư)

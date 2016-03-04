@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dò phóng xạ
+@Lĩnh vực: vật lý
+#phát hiện phóng xạ

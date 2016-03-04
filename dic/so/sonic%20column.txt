@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cột âm (thanh) (Phân bố âm theo chiều đứng)

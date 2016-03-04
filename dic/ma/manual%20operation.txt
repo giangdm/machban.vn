@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#sự điều hành bằng tay
+@Chuyên ngành kỹ thuật
+#sự thao tác thủ công
+@Lĩnh vực: điện tử & viễn thông
+#sự khai thác bằng tay
+@Lĩnh vực: toán & tin
+#thao tác bằng tay
+#thao tác nhân công
+#thao tác thủ công
+#vận hành thủ công

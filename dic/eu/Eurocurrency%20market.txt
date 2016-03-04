@@ -1,0 +1,6 @@
+﻿@Eurocurrency market
+#(Econ) Thị trường tiền tệ Châu ÂU.
+: Một thị trường quốc tế ở nước ngoài của các đồng tiền của các nước công nghiệp lớn (phương Tây).
+@Chuyên ngành kinh tế
+#thị trường các đồng tiền Châu Âu
+#thị trường tiền tệ Châu Âu

@@ -1,0 +1,4 @@
+﻿@frequency multiplier klystron
+#(Tech) đèn tốc điều nhân tần
+@Chuyên ngành kỹ thuật
+#klystron nhân tần

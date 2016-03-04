@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#diện tích sử dụng (của nhà)
+@Lĩnh vực: xây dựng
+#diện tích sàn sử dụng
+#diện tích sử dụng sàn

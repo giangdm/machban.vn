@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản dành riêng (cho việc gì)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trương mục dự phòng

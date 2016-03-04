@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#hộp nối cáp phân nhánh
+#mối hàn chữ T
+#mối nối chữ T
+#sự liên kết chữ T
+#sự liên kết vuông góc
+@Lĩnh vực: xây dựng
+#nối hình chữ T
+#mối nối hình chữ T

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vectơ cơ sở
+@Lĩnh vực: vật lý
+#vectơ gốc

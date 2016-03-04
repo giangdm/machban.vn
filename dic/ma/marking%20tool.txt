@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mũi vạch
+@Lĩnh vực: xây dựng
+#dụng cụ lấy dấu
+#dụng cụ vạch

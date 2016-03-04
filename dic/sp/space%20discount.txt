@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giá biểu giảm dần theo khoảng trống đã mua
+#giá bớt khoảng trống

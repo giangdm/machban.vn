@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ tính toán
+#đơn vị tính toán
+#đơn vị tỷ lệ

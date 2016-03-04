@@ -1,0 +1,9 @@
+﻿@Scatter diagram
+#(Econ) Đồ thị rải.
+@Chuyên ngành kỹ thuật
+#biểu đồ điểm
+@Lĩnh vực: toán & tin
+#đồ thị điểm
+#đồ thị tán xạ
+@Lĩnh vực: điện lạnh
+#sơ đồ tán xạ

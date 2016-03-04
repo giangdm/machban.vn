@@ -1,0 +1,182 @@
+﻿@get down
+#xuống, đi xuống; xuống ngựa; đem xuống, đưa xuống
+=to get down on one's knees: quỳ xuống
+#đánh đổ, đánh ngâ, đánh gục; hạ, bắn rơi (máy bay...)
+#nuốt (miếng ăn...)
+#to get in
+#vào, đi vào, len vào; tới nơi về (nhà...)
+=when does the train get in?: khi nào xe lửa tới?
+=to get in between two persons: len vào giữa hai người
+=to get in with someone: khéo len lõi được lòng ai
+#mang về, thu về
+=to get in the crop: thu hoạch mùa màng
+=to get money in: thu tiền về
+#trúng cử, được bầu (trong cuộc bầu cử)
+#đấm trúng, đánh trúng
+=to get a blow in: đấm trúng một thoi
+#to get into
+#vào, đi vào
+#(thông tục) mặc (quần áo); đi (giày ống...)
+#bốc lên (đầu); làm say chếnh choáng (rượu)
+=whisky gets into head: uýtky bốc lên đầu làm say chếnh choáng
+#lâm vào, mắc vào, nhiễm
+=to get into debt: mắc nợ
+=to get into a habit: nhiễm một thói quen
+#to get off
+#ra khỏi, thoát khỏi; sổ ra
+=to get off with a whole skin: thoát khỏi nguy hiểm
+#xuống (xe, tàu, ngựa...)
+#ra đi, khởi hành; bay lên (máy bay)
+#gỡ cho (ai) thoát tội, gỡ cho (ai) nhẹ tội; thoát khỏi khó khăn, thoát khỏi được sự trừng phạt, được tha thứ
+=to get off cheap (easy): thoát khỏi dễ dàng
+#bỏ, cởi bỏ, vứt bỏ, tống đi
+=to get off one's clothes: cởi quần áo
+#gửi đi, cho đi
+=to get a parcel off: gửi một gói hàng
+#làm bật ra, mở ra, làm lỏng ra
+=to get the lid off: mở bật một cái nắp ra
+#đi ngủ
+#tha (một bị cáo...)
+#trục (tàu đắm) lên
+=to get off with: làm thân được, chim được, ve vân được
+#to get on
+#lên, trèo lên
+=to get on a horse: lên ngựa
+#mặc (quần áo...) vào; đi (giày dép...) vào; đội (mũ...) vào
+#xúc tiến (một công việc...)
+#tiến bộ, tiến phát
+=to get on in life: thành công trong cuộc sống
+=to get on with one's studies: tiến bộ trong học tập
+#sống, làm ăn, xoay sở
+=how are you getting on?: dạo này anh làm ăn thế nào?
+=we can get on wothout his help: không có sự giúp đỡ của chúng tôi cũng vẫn xoay sở được
+#hoà thuận, ăn ý
+=they got on very well: chúng nó sống rất hoà thuận với nhau;
+=to get on with somebody: ăn ý với nhau
+=to get on with somebody: ăn ý với ai, sống hoà thuận với ai
+#gần đến, xấp xỉ
+=to be getting on for forty: xấp xỉ bốn mươi tuổi
+=it's getting on for dinner-time: gần đến giờ ăn rồi
+=to get on to: (từ Mỹ,nghĩa Mỹ) hiểu được
+#to get out
+#bắt ra, tống ra, đuổi ra; nhổ ra, kéo ra, lấy ra
+=to get money out of someone: bòn rút tiền bạc của ai
+#tẩy (vết bẩn...)
+#xuất bản (một cuốn sách...)
+#đọc, nói ra, phát âm (một từ...)
+#đi ra, ra ngoài
+=get out: cút đi!, ra ngay!, láo!, tầm bậy!
+=to get out of sight: đi mất hút không nhìn thấy đâu nữa
+#xuống (tàu, xe...)
+#thoát ra, lộ ra ngoài (tin tức, điều bí mật...)
+#thoát khỏi, dần dần bỏ, dần dần mất
+=to get out of a difficulty: thoát khỏi khó khăn
+=to get out of a habit: dần dần bỏ thói quen, dần dần mất đi thói quen
+=to get out of shape: trở thành méo mó, không còn ra hình thù gì
+=to get out of hand: thoát khỏi sự kiểm soát, không còn kiềm chế được nữa, trở nên loạn xạ (tình hình); làm dứt (việc gì)
+#to get over
+#làm xong (việc phiền phức)
+#vượt qua, khắc phục, khỏi
+=to get over difficulties: vượt qua mọi khó khăn, khắc phục mọi khó khăn
+=to get over a distance: vượt qua một quâng đường
+=to get over an illness: khỏi bệnh
+=to get over a surprise: hết ngạc nhiên
+#(từ lóng) dùng mưu lừa gạt (ai); phỉnh (ai)
+=to get over somebody: dùng mưu lừa gạt ai
+#bác bỏ (lý lẽ, chứng cớ...)
+#to get round
+#tán tỉnh, lừa phỉnh (ai), dùng mưu lừa gạt (ai, làm theo ý mình)
+#chuồn, lẩn tránh, không thi hành
+=to get round a question: lẩn tránh một câu hỏi
+=to get round the law: không thi hành luật
+#đi quanh
+#(từ Mỹ,nghĩa Mỹ) đến nơi
+#(từ Mỹ,nghĩa Mỹ) khỏi bệnh, bình phục
+#to get through
+#đi qua, chui qua, vượt qua; làm trôi qua (thời gian)
+#làm trọn, làm xong; chịu đựng đến cùng
+=to get through with a book: đọc hết một cuốn sách
+=to get through with one's work: làm trọn công việc, hoàn thành công việc
+#đem thông qua; được thông qua (đạo luật...)
+#to get to
+#bắt đầu
+=to get to work: bắt đầu làm việc, bắt tay vào việc
+#đạt đến, đi đến chỗ
+=they soon got to be friends: chẳng mấy lúc chúng đi đến chỗ thân nhau
+#to get together
+#nhóm lại, họp lại, tụ họp
+#thu góp, góp nhặt
+#(từ Mỹ,nghĩa Mỹ),  (thông tục) thảo luận, hội đàm; đồng ý nhau, đi đến chỗ thoả thuận
+#to get under
+#dập tắt (đám cháy...)
+#đè lên trên
+=to get one's opponent under: đè lên trên địch thủ
+#đi dưới, chui dưới (vật gì)
+#to get up
+#lôi lên, kéo lên, đưa lên, mang lên, đem lên
+#xây dựng nên, tổ chức, sắp đặt (một buổi lễ...); bày (mưu); chuẩn bị (bài giảng, bài thi...); bịa (một câu chuyện...)
+#trình bày, tô diểm, làm dáng cho (ai, cái gì...); tạo ra (một sự cảm động vờ...)
+#giặt sạch; là (quần áo)
+#tăng
+=to get up speed: tăng tốc độ
+#đứng dậy, ngủ dậy
+#leo lên, đi lên, bước lên
+#nổi dậy (gió...), dâng lên (nước biển...)
+#to get across (over) the footlights
+#(thông tục) đạt, được khán giả tiếp nhận dễ dàng (câu nói trong vở kịch...)
+#to get away with it
+#thành công, làm trôi chảy; thoát được sự trừng phạt
+#to get hold of
+#(xem) hold
+#to get home
+#trúng đích, đạt tới đích
+#to get it [hot]
+#bị chửi mắng
+#to get nowhere
+#không đi tới đâu, không đi tới kết quả gì
+#to get on like a house on fire
+#tiến nhanh lên phía trước; lan nhanh
+#tiến bộ vượt mức
+#rất hoà thuận; rất hợp ý tâm đầu
+#to get on one's legs (feet)
+#diễn thuyết, nói chuyện trước công chúng
+#to get on someone's nerves
+#(xem) nerve
+#to get one's hand in
+#làm quen với (việc gì...)
+#to get one's Indian up
+#(từ Mỹ,nghĩa Mỹ),  (từ lóng) phát cáu
+#to get one's own way
+#làm theo ý mình
+#to get one's shirt off (one's monkey up, one's rag out, one's Irish up)
+#phát cáu, nổi giận, mất bình tĩnh
+#to get out of bed on the wrong side
+#(xem) bed
+#to get somebody's back up
+#(xem) back
+#to get something on the brain
+#để cho cái gì làm ám ảnh tâm trí
+#to get the best of it
+#(xem) best
+#to get the better of
+#(xem) better
+#to get the gate
+#(xem) gate
+#to get the wind of someone
+#thắng ai; lợi thế hơn ai
+#to get the wind up
+#(xem) wind
+#to get under way
+#lên đường, khởi hành, nhổ neo; khởi công
+#to get wind (knowledge) of
+#nghe phong thanh (chuyện gì)
+#the news got wind
+#tin tức lan đi
+*danh từ
+#con (của thú vật) (dùng trong chuyện săn bắn)
+@Chuyên ngành kỹ thuật
+#đặt xuống
+#đem xuống
+#đưa xuống
+#đưa xuống (cán)
+#hạ xuống

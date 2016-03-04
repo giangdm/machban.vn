@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mạng siêu tần số
+@Lĩnh vực: toán & tin
+#mạng vi ba

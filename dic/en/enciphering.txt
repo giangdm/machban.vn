@@ -1,0 +1,2 @@
+﻿@enciphering
+#(Tech) sự mã hóa

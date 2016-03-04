@@ -1,0 +1,2 @@
+﻿@DAC (Data Acquisition and Control)
+#(Tech) điều khiển và thu nạp dữ kiện

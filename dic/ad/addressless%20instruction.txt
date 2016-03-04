@@ -1,0 +1,5 @@
+﻿@addressless instruction
+#(Tech) chỉ thị không địa chỉ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lệnh không địa chỉ

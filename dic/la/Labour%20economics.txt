@@ -1,0 +1,5 @@
+﻿@Labour economics
+#(Econ) Kinh tế học lao động.
+: Sự  nghiên cứu bản chất và các yếu tố quyết định tiền lương và việc làm.
+@Chuyên ngành kinh tế
+#kinh tế học lao động

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bật
+#cắt
+#cho chạy
+#đóng máy
+#gián đoạn
+#khắc
+#làm mộng
+@Lĩnh vực: xây dựng
+#khả rạch

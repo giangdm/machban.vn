@@ -1,0 +1,2 @@
+﻿@A except B gate
+#(Tech) cổng A loại trừ B

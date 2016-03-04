@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) lạnh hàng hải
+#hệ (thống) lạnh trên tàu thủy
+#trạm lạnh hàng hải
+#trạm lạnh trên tàu thủy

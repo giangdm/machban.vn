@@ -1,0 +1,5 @@
+﻿@pseudovector
+#(hình học) giả vectơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giả vecto

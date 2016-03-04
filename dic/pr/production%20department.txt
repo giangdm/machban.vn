@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phòng sản xuất
+@Chuyên ngành kỹ thuật
+#gian sản xuất
+#xưởng sản xuất

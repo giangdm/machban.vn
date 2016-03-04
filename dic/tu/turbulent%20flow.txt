@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#chuyển động xoáy
+#dòng chảy rối
+#dòng chảy xoáy
+#dòng xoáy
+#luồng chảy rối
+#luồng cuộn xoáy
+#sự chảy rối
+@Lĩnh vực: điện lạnh
+#dòng cuộn xoáy

@@ -1,0 +1,14 @@
+﻿@cylinder head
+#(cơ) nắp xilanh
+@Chuyên ngành kỹ thuật
+#đầu tròn
+#đầu trụ
+#đầu xi lanh (phía trước)
+#động cơ đầu xi lanh
+@Lĩnh vực: ô tô
+#đầu xi lanh
+#nắp qui lát (nắp máy)
+#nắp xilanh
+@Lĩnh vực: cơ khí & công trình
+#nắp máy (quy lát)
+#nắp nồi hãm

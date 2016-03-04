@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#độ nghiêng cắt chính của dao
+#góc cắt chính của dao

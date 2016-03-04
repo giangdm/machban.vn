@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#người dùng dịch vụ xử lý giao dịch-TPSU
+@Lĩnh vực: điện tử & viễn thông
+#người sử dụng dịch vụ xử lý giao dịch

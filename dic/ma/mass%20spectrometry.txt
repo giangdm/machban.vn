@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đo khối phổ
+@Lĩnh vực: vật lý
+#trắc khối phổ

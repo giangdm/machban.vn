@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phí tổn đầu tư
+@Chuyên ngành kỹ thuật
+#vốn đầu tư
+@Lĩnh vực: xây dựng
+#giá đầu tư
+@Lĩnh vực: điện
+#kinh phí đầu tư

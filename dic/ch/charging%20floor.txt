@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sàn công tác
+@Lĩnh vực: hóa học & vật liệu
+#sàn chất liệu
+#sàn nạp liệu
+@Lĩnh vực: cơ khí & công trình
+#sàn chất tải

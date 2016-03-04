@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sản phẩm gốc
+@Chuyên ngành kỹ thuật
+#nguyên liệu
+@Lĩnh vực: thực phẩm
+#nguyên liệu chế biến
+@Chuyên ngành kỹ thuật
+#nguyên liệu
+@Lĩnh vực: thực phẩm
+#nguyên liệu chế biến

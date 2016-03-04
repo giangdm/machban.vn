@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#người điều phối
+@Lĩnh vực: toán & tin
+#người điều tiết

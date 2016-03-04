@@ -1,0 +1,3 @@
+﻿@Real wages
+#(Econ) Tiền lương thực tế.
+: Là tiền lương được tính theo giá trị hàng hoá và dịch vụ mà số tiền đó có thể mua được.

@@ -1,0 +1,2 @@
+﻿@ac (alternating current) circuit
+#(Tech) mạch điện xoay chiều

@@ -1,0 +1,2 @@
+﻿@alphabetic value
+#(Tech) trị số thuộc chữ cái

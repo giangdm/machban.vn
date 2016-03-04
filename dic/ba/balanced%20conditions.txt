@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điều kiện cân bằng
+#trạng thái cân bằng
+@Lĩnh vực: điện lạnh
+#các điều kiện cân bằng

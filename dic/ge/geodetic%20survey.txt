@@ -1,0 +1,10 @@
+﻿@geodetic survey
+#(Tech) sự thăm dò trắc địa
+@Chuyên ngành kinh tế
+#việc đo đạc và lập bản đồ
+@Chuyên ngành kỹ thuật
+#sự đo vẽ trắc địa
+@Lĩnh vực: xây dựng
+#sự đo vẽ mặt đất
+#sự khảo sát trắc địa
+#trắc lượng địa

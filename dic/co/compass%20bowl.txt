@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hộp la bàn
+@Lĩnh vực: vật lý
+#chậu la bàn
+@Lĩnh vực: xây dựng
+#dĩa la bàn

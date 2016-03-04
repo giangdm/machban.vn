@@ -1,0 +1,7 @@
+﻿@forward chaining
+#(Tech) chuỗi suy luận thuận
+@Chuyên ngành kỹ thuật
+#liên hệ tiến
+@Lĩnh vực: toán & tin
+#sự kết chuỗi thuận
+#sự móc nối xuôi

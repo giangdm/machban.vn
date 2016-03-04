@@ -1,0 +1,2 @@
+﻿@composite gain
+#(Tech) độ tăng lợi đa hợp

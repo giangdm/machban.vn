@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#gián đoạn vô hạn
+@Lĩnh vực: xây dựng
+#tính gián đoạn vô hạn

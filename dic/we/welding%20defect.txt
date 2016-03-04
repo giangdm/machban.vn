@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#khuyết tật hàn
+@Lĩnh vực: cơ khí & công trình
+#lỗi hàn

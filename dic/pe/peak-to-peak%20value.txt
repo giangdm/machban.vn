@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#biên độ kép
+@Lĩnh vực: điện lạnh
+#giá trị đỉnh tới đỉnh
+#giá trị đỉnh-đỉnh
+@Lĩnh vực: điện
+#trị số đỉnh đối đỉnh

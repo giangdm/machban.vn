@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng làm lạnh
+@Lĩnh vực: xây dựng
+#công suất lạnh
+@Lĩnh vực: điện lạnh
+#mức tăng nhiệt
+#tản làm lạnh

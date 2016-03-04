@@ -1,0 +1,3 @@
+﻿@Carbon tax
+#(Econ) Thuế Carbon
+: Thuế đánh vào các nhiên liệu hoá thạch nhằm giảm lượng thải CO2 để giảm sự nóng lên của toàn cầu. Xem EXTERNALITIES, INTERNALIZATION.

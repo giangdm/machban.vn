@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#sự lấy mẫu dữ liệu
+#sự lấy mẫu dữ liệu đo
+#sự quét dữ liệu đo

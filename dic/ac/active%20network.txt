@@ -1,0 +1,12 @@
+﻿@active network
+#(Tech) mạng chủ động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#lưới điện chủ động
+#lưới điện có nguồn
+@Lĩnh vực: điện tử & viễn thông
+#mạng chủ động
+#mạng hoạt động
+@Lĩnh vực: điện lạnh
+#mạng có nguồn
+#mạng tích cực

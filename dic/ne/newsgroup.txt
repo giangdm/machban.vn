@@ -1,0 +1,5 @@
+﻿@newsgroup
+#nhóm thông tin, nhóm thảo luận
+@Chuyên ngành kỹ thuật
+#nhóm thảo luận
+#nhóm thông tin

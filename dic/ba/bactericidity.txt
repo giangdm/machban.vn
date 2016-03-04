@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tính diệt khuẩn
+#tính khử trùng
+#tính sát trùng

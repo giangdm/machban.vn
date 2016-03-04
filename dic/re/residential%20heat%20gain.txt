@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt thu (nhiệt tổn thất) vào nhà ở
+#nhiệt thu vào nhà ở
+@Lĩnh vực: điện lạnh
+#nhiệt tổn thất vào nhà ở
+#mức tăng nhiệt nhà ở

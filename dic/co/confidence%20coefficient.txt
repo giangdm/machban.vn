@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hệ số tin cậy
+@Chuyên ngành kỹ thuật
+#hệ số tin cậy
+#mức tin cậy

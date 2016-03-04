@@ -1,0 +1,3 @@
+﻿@External economies & diseconomies of scale
+#(Econ) Ảnh hưởng kinh tế và phi kinh tế từ bên ngoài theo quy mô.
+: Những ảnh hưởng có lợi hay có hại mà các hoạt động sản xuất của một hãng này gây ra cho các hoạt động sản xuất của hãng khác.

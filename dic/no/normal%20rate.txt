@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#mức giá (vận chuyển) thông
+#mức giá (vận chuyển) thông thường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cước định mức

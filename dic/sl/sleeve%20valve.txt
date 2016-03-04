@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#nắp hơi bao xi-lanh
+@Lĩnh vực: hóa học & vật liệu
+#van lồng
+@Lĩnh vực: cơ khí & công trình
+#van ống

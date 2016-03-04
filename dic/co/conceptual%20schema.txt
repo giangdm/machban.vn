@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sơ đồ khái niệm
+#sơ đồ quan niệm
+@Lĩnh vực: điện tử & viễn thông
+#sơ đồ quan niêm

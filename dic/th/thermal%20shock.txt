@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#sự giảm nhiệt độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#nhiệt xung
+@Lĩnh vực: điện lạnh
+#sốc nhiệt
+@Lĩnh vực: xây dựng
+#sự va đập nhiệt
+@Lĩnh vực: cơ khí & công trình
+#sự va nóng

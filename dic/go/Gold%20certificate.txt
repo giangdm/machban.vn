@@ -1,0 +1,6 @@
+﻿@Gold certificate
+#(Econ) Giấy chứng gửi vàng.
+: Một phương tiện ghi nợ hay giấy bạc do Bộ tài chính phát hành thể hiện ý muốn của Bộ tài chính biến một lượng vàng nhất định thành tiền.
+@Chuyên ngành kinh tế
+#chứng khoán vàng
+#giấy chứng chỉ vàng

@@ -1,0 +1,2 @@
+﻿@bilinear system
+#(Tech) hệ thống song tuyến [NB]

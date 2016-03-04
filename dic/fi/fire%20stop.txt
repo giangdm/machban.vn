@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#cầu chặn lửa
+#sự dừng cháy
+@Lĩnh vực: xây dựng
+#bộ phận chặn cháy
+@Lĩnh vực: vật lý
+#cữ chặn lửa
+@Chuyên ngành kỹ thuật
+#cầu chặn lửa
+#sự dừng cháy
+@Lĩnh vực: xây dựng
+#bộ phận chặn cháy
+@Lĩnh vực: vật lý
+#cữ chặn lửa

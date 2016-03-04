@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#OFDM
+@Lĩnh vực: toán & tin
+#dồn theo tần số trực giao

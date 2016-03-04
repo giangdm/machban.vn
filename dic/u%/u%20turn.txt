@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự quay ngược
+@Lĩnh vực: toán & tin
+#quay 180 độ
+#quay 1800

@@ -1,0 +1,23 @@
+﻿@go out
+#ra, đi ra, đi ra ngoài
+=out you go!: anh đi ra đi!
+=he went out to dinner: anh ấy đi ăn ở ngoài, anh ấy đi ăn cơm khách
+#giao thiệp, đi dự các cuộc vui, đi dự các cuộc gặp gỡ xã giao
+=he seldom went out: anh ấy ít giao thiệp
+=to go out a great deal: đi dự các cuộc vui (các cuộc gặp gỡ xã giao) luôn
+#đi ra nước ngoài
+#đình công (công nhân)
+#tắt (đèn, lửa...)
+#lỗi thời (thời trang)
+#tìm được việc (trong gia đình tư nhân)
+=when she was young she went out as a teacher: hồi còn trẻ cô ta đã đi dạy học tư
+#về hưu, thôi nắm quyền, từ chức, bị lật đổ (nội các...)
+#có cảm tình
+=at the first meeting my heart went out to him at once: mới gặp tôi đã có cảm tình ngay với hắn
+#hết (thời gian, năm, tháng...)
+#(thể dục,thể thao) bỏ cuộc
+#(từ lóng) chết
+#đi đấu kiếm (trong một cuộc thách đấu)
+@Chuyên ngành kỹ thuật
+#lụi
+#tắt

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nung
+#phần tử nung
+#thanh ghi lò
+@Lĩnh vực: điện lạnh
+#bộ đun nước nhúng chìm
+#bộ phận nung nóng
+#chi tiết gia nhiệt
+#phần tử nung nóng
+@Lĩnh vực: xây dựng
+#phần tử đốt nóng
+@Lĩnh vực: hóa học & vật liệu
+#phần tử gia nhiệt
+#thiết bị đốt nóng

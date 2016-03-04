@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bị iôn hóa nhiều lần
+#iôn hóa liên tiếp

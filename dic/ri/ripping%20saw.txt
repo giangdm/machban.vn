@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#cưa cắt mép tròn
+#cưa xẻ dọc
+@Lĩnh vực: xây dựng
+#cưa dọc

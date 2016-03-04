@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#tín hiệu phá rối
+#tín hiệu sự cố
+@Lĩnh vực: toán & tin
+#tín hiệu giao thoa

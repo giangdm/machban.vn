@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thân tàu
+#vỏ tàu
+@Chuyên ngành kỹ thuật
+#phần chính
+@Lĩnh vực: toán & tin
+#thân chính

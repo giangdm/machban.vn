@@ -1,0 +1,5 @@
+﻿@delayed call
+#(Tech) gọi trễ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cuộc gọi bị trễ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thuyết khuếch tán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#lý thuyết khuếch tán

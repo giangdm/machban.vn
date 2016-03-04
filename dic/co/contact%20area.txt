@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#bề mặt ăn khớp
+#vùng tiếp xúc
+@Lĩnh vực: xây dựng
+#bề mặt tiếp xúc
+#diện tích tiếp xúc
+#trường tiếp xúc
+@Lĩnh vực: hóa học & vật liệu
+#diện tiếp xúc
+@Lĩnh vực: cơ khí & công trình
+#vùng ăn khớp

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#RAM động Rambus - một công nghệ RAM động cho phép các tốc độ truy nhập lớn hơn nhiều so với SDRAM thông dụng trước đây

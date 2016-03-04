@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đặt máy kinh vĩ lên trạm đo
+#dọi điểm máy kinh vĩ

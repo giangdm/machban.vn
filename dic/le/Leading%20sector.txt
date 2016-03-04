@@ -1,0 +1,3 @@
+﻿@Leading sector
+#(Econ) Ngành dẫn đầu.
+: Mức độ thanh toán lương bổng chung trong một ngành kinh tế được coi là điểm tham khảo về lương cho các khu vực khác (ví dụ nghiệp đoàn trong một khu vực công cộng có thể lấy mức thanh toán lương bổng trong khu vực tư nhân để tham khảo).

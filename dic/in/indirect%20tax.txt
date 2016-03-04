@@ -1,0 +1,9 @@
+﻿@indirect tax
+*danh từ
+#thuế gián thu
+@Chuyên ngành kinh tế
+#thuế gián thu
+#thuế gián tiếp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thuế gián thu

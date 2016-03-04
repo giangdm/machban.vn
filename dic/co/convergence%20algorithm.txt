@@ -1,0 +1,2 @@
+﻿@convergence algorithm
+#(Tech) thuật toán hội tụ

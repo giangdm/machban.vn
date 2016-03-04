@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng thí nghiệm
+@Lĩnh vực: xây dựng
+#tải trọng thử
+#tải trọng thử nghiệm
+@Lĩnh vực: cơ khí & công trình
+#tải trọng thử (khi thí nghiệm)

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#cơ cấu hạn chế mômen xoắn (trong đầu vặn bougle)

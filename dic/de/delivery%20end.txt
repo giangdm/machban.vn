@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#đáy tháo tải
+#nút tháo tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phía cấp

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giám đốc doanh nghiệp
+#người quản lý kinh doanh
+#người quản lý sự vụ kinh doanh
+#nhà quản lý doanh nghiệp
+@Chuyên ngành kỹ thuật
+#người quản lý kinh doanh

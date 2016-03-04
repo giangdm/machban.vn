@@ -1,0 +1,3 @@
+﻿@packet-day
+*danh từ
+#ngày tàu chở thư ra đi

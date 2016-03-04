@@ -1,0 +1,3 @@
+﻿@Offshore investment centres
+#(Econ) Các trung tâm đầu tư hải ngoại.
+: Là những nơi mà tại đó, do thuế đánh vào thu nhập và tài sản rất thấp hoặc không có, và tại đó có các đạo luật hoàn chỉnh về độc quyền, nên việc giữ tài sản tại đó là đặc biệt có lợi; hoặc là từ nơi đó các công việc kinh doanh, đặc biệt là kinh doanh tài chính có thể được tiến hành với những lợi thế về thuế.

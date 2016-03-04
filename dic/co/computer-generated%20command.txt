@@ -1,0 +1,2 @@
+﻿@computer-generated command
+#(Tech) lệnh tạo bằng máy điện toán

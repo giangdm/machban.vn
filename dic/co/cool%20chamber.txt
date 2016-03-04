@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#buồng lạnh
+#kho đông lạnh
+@Chuyên ngành kỹ thuật
+#buồng lạnh

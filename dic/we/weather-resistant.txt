@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chịu được (tác động) khí quyển
+#chịu được thời tiết
+@Lĩnh vực: xây dựng
+#bền khí quyển

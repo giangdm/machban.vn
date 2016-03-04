@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#dung lượng chở hàng
+#tải trọng hàng hóa
+#tải trọng hữu ích
+#tải trọng ròng
+#trọng tải hàng hóa

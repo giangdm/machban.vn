@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng nối mạch
+#bảng phân phối điện
+@Lĩnh vực: điện lạnh
+#bảng nối tạm (trong truyền, thông máy tính...)
+@Lĩnh vực: toán & tin
+#bảng sửa tạm

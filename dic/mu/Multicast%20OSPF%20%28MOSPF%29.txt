@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#OSPF phát đa phương (Giao thức định tuyến multicast nội miền dùng trong các mạng OSPF)

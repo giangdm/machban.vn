@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hàng bìa
+@Lĩnh vực: toán & tin
+#dòng thẻ
+#hàng thẻ

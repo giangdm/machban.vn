@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cửa sổ quay một cánh
+@Lĩnh vực: xây dựng
+#cửa sổ quay một cánh (trục quay ở giữa)

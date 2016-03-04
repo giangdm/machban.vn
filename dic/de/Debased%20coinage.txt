@@ -1,0 +1,3 @@
+﻿@Debased coinage
+#(Econ) Tiền kim loại.
+: Xem COINAGE, GRESHAM'S LAW, BAD MONEY DRIVES OUT GOOD.

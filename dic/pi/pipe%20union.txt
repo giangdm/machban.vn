@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#chi tiết nối ống
+#đầu nối ống
+#khớp nối ống
+#mối nối ống
+@Lĩnh vực: xây dựng
+#mối nối ống có ren

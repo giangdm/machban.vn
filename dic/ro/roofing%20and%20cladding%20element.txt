@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chi tiết ngăn cách
+@Lĩnh vực: xây dựng
+#cấu kiện ngăn cách

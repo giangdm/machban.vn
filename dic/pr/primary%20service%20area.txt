@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#vùng phục vụ chủ yếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#vùng dịch vụ sơ cấp

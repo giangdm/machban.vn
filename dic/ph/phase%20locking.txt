@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đóng pha
+@Lĩnh vực: điện lạnh
+#điều chỉnh tự động pha
+#khóa pha
+@Lĩnh vực: điện tử & viễn thông
+#sự khóa pha

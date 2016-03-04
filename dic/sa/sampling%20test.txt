@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thử lấy mẫu
+@Lĩnh vực: điện
+#sự thử chọn mẫu
+#thử xác suất
+@Lĩnh vực: điện lạnh
+#thử chọn mẫu

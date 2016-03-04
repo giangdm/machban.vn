@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#atfan tự nhiên
+#bitum tự nhiên
+@Lĩnh vực: xây dựng
+#atfan thiên nhiên
+#thiên nhiên
+@Lĩnh vực: hóa học & vật liệu
+#atphan thiên nhiên
+@Lĩnh vực: cơ khí & công trình
+#bitum thiên nhiên

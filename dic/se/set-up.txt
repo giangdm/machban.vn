@@ -1,0 +1,30 @@
+﻿@set-up /'setʌp/
+*danh từ
+#dáng người thẳng, dáng đi thẳng
+#(từ Mỹ,nghĩa Mỹ) cơ cấu, bố trí (của một tổ chức)
+#(từ Mỹ,nghĩa Mỹ) rượu mạnh pha xôđa và đá
+#(từ Mỹ,nghĩa Mỹ),  (từ lóng) cuộc đấu biết trước ai thắng ai thua (vì trình độ đấu thủ chênh lệch quá đáng); cuộc đấu ăn chắc; việc làm ngon xơi
+@Chuyên ngành kỹ thuật
+#bố trí
+#điều chỉnh
+#kiến trúc
+#lắp đặt
+#lắp ráp
+#mảng
+#sắp xếp
+#sự lắp đặt
+#sự thiết lập
+#trạm
+#việc chỉnh định
+@Lĩnh vực: xây dựng
+#cụm nhóm
+@Lĩnh vực: cơ khí & công trình
+#mở răng cưa
+#rẽ cưa
+@Lĩnh vực: toán & tin
+#sự sắp thứ tự
+@Lĩnh vực: điện lạnh
+#tổ hợp thiết lập
+#tỷ lệ thiết lập
+@Lĩnh vực: điện
+#việc thiết lập

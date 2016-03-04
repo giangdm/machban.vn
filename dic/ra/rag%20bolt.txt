@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#bulông giữ
+#bulông móng
+#bulông ngạnh
+@Lĩnh vực: xây dựng
+#bulông có ngạch (để neo)
+#bulông tự vào gen
+@Lĩnh vực: hóa học & vật liệu
+#bulông gắn
+@Lĩnh vực: cơ khí & công trình
+#bulông ngạnh (bulông móng)

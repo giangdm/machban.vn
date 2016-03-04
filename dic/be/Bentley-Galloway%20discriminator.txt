@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ phận tách Bentley-Galloway
+@Lĩnh vực: điện
+#bộ tách phụ tải Bentley-Gallway

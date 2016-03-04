@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nén chịu nhiệt
+@Lĩnh vực: toán & tin
+#sự nén bị mất

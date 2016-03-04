@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giá quy đổi cũ lấy mới
+#giá quy đổi cũ lấy mới, giá trị bán đổi, vật đem đổi
+#giá trị bán đổi
+#giá trị vật đem đổi
+#vật đem đổi

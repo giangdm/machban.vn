@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ chênh lệch dần
+#độ dốc
+#độ nghiêng
+#građien giảm

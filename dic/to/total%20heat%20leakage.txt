@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tổng nhiệt tổn thất
+#tổng tổn thất nhiệt (rò lọt qua vách cách nhiệt)

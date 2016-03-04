@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hàng ít cạnh tranh
+#sản phẩm nửa nhạy cảm (có ít tính cạnh tranh)
+#sản phẩm nửa nhạy cảm (có tính ít cạnh tranh)

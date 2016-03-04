@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#ký tài chính
+#tài khóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tài khóa
+#thời hạn tài chính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tài khóa
+#thời hạn tài chính

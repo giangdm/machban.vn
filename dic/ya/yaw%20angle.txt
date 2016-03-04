@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#góc trệch hướng (tàu vũ trụ)
+@Lĩnh vực: ô tô
+#góc đảo lái
+@Lĩnh vực: xây dựng
+#góc trệch
+@Lĩnh vực: giao thông & vận tải
+#góc trệch đường

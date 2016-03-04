@@ -1,0 +1,7 @@
+﻿@Frictional unemployment
+#(Econ) Thất nghiệp do chờ chuyển nghề
+: Thường được hiểu là THẤT NGHIỆP TÌM KIẾM, nghĩa là số lượng thất nghiệp tương ứng với chỗ khuyết việc làm trên cùng một loại việc làm và THỊ TRƯỜNG LAO ĐỘNG ĐỊA PHƯƠNG.
+@Chuyên ngành kinh tế
+#thất nghiệp có tính ma sát
+#thất nghiệp do chuyển nghề
+#thất nghiệp do cọ xát

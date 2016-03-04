@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hàm chi tiêu
+@Chuyên ngành kỹ thuật
+#hàm chi phí
+@Chuyên ngành kỹ thuật
+#hàm chi phí

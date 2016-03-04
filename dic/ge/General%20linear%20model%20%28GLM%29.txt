@@ -1,0 +1,3 @@
+﻿@General linear model (GLM)
+#(Econ) Mô hình tuyến tính tổng quát.
+: Dạng hàm số được sử dụng phổ biến nhất trong phân tích kinh tế lượng, nó đặc biệt coi biến phụ thuộc là một hàm tuyến tính của tập hợp các biến độc lập.

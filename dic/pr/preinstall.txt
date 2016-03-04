@@ -1,0 +1,2 @@
+﻿@preinstall
+#thiết lập trước, cái đặt trước

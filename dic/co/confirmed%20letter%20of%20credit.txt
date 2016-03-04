@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thư tín dụng có bảo chi
+#thư tín dụng đã xác nhận
+#thư tín dụng xác nhận

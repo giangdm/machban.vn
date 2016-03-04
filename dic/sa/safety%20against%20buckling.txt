@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#an toàn chống mất ổn định
+@Lĩnh vực: cơ khí & công trình
+#sự dự trữ ổn định

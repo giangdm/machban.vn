@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#lệnh công tác
+#lệnh công tác, lệnh sản xuất
+#lệnh sản xuất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giấy giao việc
+#giấy phân nhiệm

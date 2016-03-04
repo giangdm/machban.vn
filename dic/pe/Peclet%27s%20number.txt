@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#số Péclet
+#tiêu chuẩn Péclet
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#số peclet
+#tiêu chuẩn peclet

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mạng điện trở-điện dung
+@Lĩnh vực: điện lạnh
+#mạng R-C

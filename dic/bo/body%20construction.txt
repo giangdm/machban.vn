@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#sự chế tạo thân xe
+@Lĩnh vực: cơ khí & công trình
+#sự chế tạo thùng xe

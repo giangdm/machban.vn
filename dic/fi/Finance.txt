@@ -1,0 +1,37 @@
+﻿@Finance
+#(Econ) Tài chính
+: Theo nghĩa hẹp, nó có nghĩa là VỐN dưới dạng tiền, tức là dưới dạng số tiền cho vay hoặc đi vay nhằm mục đích tạo vốn thông qua các thi trường hay thể chế tài chính. Theo cách nói thông thường thì cụm thuật ngữ này dùng để chỉ số tiền từ bất kỳ một nguồn nào được sử dụng cho bất kỳ một khoản chi tiêu nào.
+<!-- more -->
+@finance /fai'næns/
+*danh từ
+#tài chính, sở quản lý tài chính
+=the Finance Department: bộ tài chính
+#(số nhiều) tài chính, tiền của
+*ngoại động từ
+#cấp tiền cho, bỏ vốn cho, tìm vốn cho
+*nội động từ
+#làm công tác tài chính, hoạt động trong ngành tài chính
+@Chuyên ngành kinh tế
+#bỏ vốn cho
+#cấp tiền cho
+#công tác tài chính
+#hoạt động trong ngành tài chính
+#kinh phí
+#làm công tác tài chính
+#sở tài chính
+#tài chính
+#tài lực
+#tài trợ
+#tài vụ
+#tiền
+#tiền bạc
+#tiền vốn
+@Chuyên ngành kỹ thuật
+#cấp kinh phí
+#cấp tiền
+@Chuyên ngành kỹ thuật
+#cấp kinh phí
+#cấp tiền
+<!-- more -->
+@finance
+#(toán kinh tế) tài chính

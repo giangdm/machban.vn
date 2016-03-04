@@ -1,0 +1,2 @@
+﻿@computer-controlled
+#(Tech) thuộc điều khiển máy điện toán

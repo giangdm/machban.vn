@@ -1,0 +1,3 @@
+﻿@filtrable
+*tính từ
+#có thể lọc được

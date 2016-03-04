@@ -1,0 +1,5 @@
+﻿@Money multiplier
+#(Econ) Số nhân tiền tệ.
+: 1)Xem CREDIT MULTIPLIER. 2)Là hệ số của mức cung tiền thực tế trong phương trình thu nhập dạng đơn giản rút gọn trong mô hình kinh tế vĩ mô.
+@Chuyên ngành kinh tế
+#số nhân tiền tệ

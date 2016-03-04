@@ -1,0 +1,14 @@
+﻿@Ordering
+#(Econ) Xếp thứ tự.
+: Là việc liệt kê các sự kiện, hàng hoá, dự án… sao cho cái gì được ưa thích nhất thì được đưa lên đầu danh sách.
+@Chuyên ngành kinh tế
+#sự đặt (mua) hàng
+#sự làm ẩm (lá thuốc lá)
+@Chuyên ngành kỹ thuật
+#thứ tự
+@Lĩnh vực: toán & tin
+#sự sắp thứ tự
+<!-- more -->
+@ordering
+#sắp thứ tự
+#partial o. sự xắp bộ phận

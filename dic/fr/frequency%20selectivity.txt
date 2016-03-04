@@ -1,0 +1,6 @@
+﻿@frequency selectivity
+#(Tech) độ chọn lọc tần số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khả năng chọn tần số
+#tính chọn lựa tần số

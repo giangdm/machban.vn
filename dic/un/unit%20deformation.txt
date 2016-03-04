@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng đơn vị
+#biến dạng nghiêng
+#biến dạng tỷ đối
+@Lĩnh vực: xây dựng
+#biến dạng riêng
+#sự biến dạng riêng
+#sự biến dạng tương đối

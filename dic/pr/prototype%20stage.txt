@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#giai đoạn mẫu thử
+#giai đoạn nguyên mẫu

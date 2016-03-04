@@ -1,0 +1,3 @@
+﻿@State organization of production in Eastern Europe
+#(Econ) Tổ chức sản xuất quốc doanh ở Đông Âu.
+: Từ cuối chiến tranh thế giới thứ hai đến đầu những năm 1990, sở hữu nhà nước đối với tư liệu sản xuất ở tất cả các khu vực của nền kinh tế là phương thức tổ chức chiếm ưu thế ở Đông Âu. Sản xuất công nghiệp được tổ chức thành các công ty nhà nước lớn và nhà máy liên hợp mà đầu vào của chúng được ấn định bởi các nhà hoạch định trung ương.

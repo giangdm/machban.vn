@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#căn phòng sạch sẽ
+#phòng không bụi
+#phòng sạch
+@Lĩnh vực: điện lạnh
+#buồng không bụi
+#buồng sạch

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dòng điện 1 chiều
+#dòng điện volta
+@Lĩnh vực: điện lạnh
+#dòng điện ganvanic
+#dòng điện pin hóa học

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số giãn nở khối
+@Lĩnh vực: hóa học & vật liệu
+#hệ số giãn thể tích

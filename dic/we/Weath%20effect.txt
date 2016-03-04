@@ -1,0 +1,3 @@
+﻿@Weath effect
+#(Econ) Hiệu ứng của cải.
+: Sự gia tăng trong tổng chi tiêu do mức giá cả hoặc lãi xuất giảm xuống. Người ta cho rằng, bất cứ một sự giảm xuống của tổng cầu sẽ được đảo ngược lại do các tác động gây ra khi mức giá cả hoặc lãi suất giảm xuống.

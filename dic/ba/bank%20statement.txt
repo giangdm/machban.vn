@@ -1,0 +1,8 @@
+﻿@bank statement
+*danh từ
+#bản in sẵn có ghi toàn bộ số tiền nhập và xuất ở tài khoản của khách hàng trong một kỳ hạn nhất định
+@Chuyên ngành kinh tế
+#bản báo cáo tài chính
+#bản lược kê chương mục của ngân hàng
+#bản sao kê khai tài khoản
+#bảo sao kê của ngân hàng

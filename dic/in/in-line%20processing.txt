@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý trực tiếp
+#sự xử lý tuyến
+#xử lý nội tuyến
+#xử lý trực tiếp
+@Lĩnh vực: điện tử & viễn thông
+#sự xử lý tức thời

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nút ấn
+#nút bấm
+@Lĩnh vực: xây dựng
+#bấm nút
+@Lĩnh vực: điện tử & viễn thông
+#núm ấn, núm bấm

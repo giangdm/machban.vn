@@ -1,0 +1,5 @@
+﻿@characteristic constant
+#(Tech) hằng số đặc trưng; hằng số mũ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hằng số đặc trưng

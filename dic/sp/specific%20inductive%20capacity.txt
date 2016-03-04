@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dung lượng cảm ứng riêng
+#hằng số điện môi
+#hằng số điện môi tỷ đối
+#lượng cảm ứng riêng
+@Lĩnh vực: điện lạnh
+#hằng số điện môi tương đối

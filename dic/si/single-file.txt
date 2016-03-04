@@ -1,0 +1,5 @@
+﻿@single-file
+*danh từ
+#hàng một
+*phó từ
+#hàng một

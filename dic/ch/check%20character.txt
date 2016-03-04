@@ -1,0 +1,5 @@
+﻿@check character
+#(Tech) ký tự kiểm
+@Chuyên ngành kỹ thuật
+#kí tự kiểm tra
+#ký tự kiểm tra

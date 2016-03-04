@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự vận hành theo chương trình (theo lịch)

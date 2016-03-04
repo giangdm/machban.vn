@@ -1,0 +1,2 @@
+﻿@end-of-block (EOB)
+#(Tech) kết thúc khối, đầu cuối khối

@@ -1,0 +1,9 @@
+﻿@Foreign exchange market
+#(Econ) Thị trường Ngoại hối.
+: Thị trường quốc tế trong đó các đồng tiền được chuyển giao giữa các nước.
+@Chuyên ngành kinh tế
+#thị trường hối đoái
+#thị trường ngoại hối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thị trường ngoại hối

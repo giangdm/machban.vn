@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#đại diện cho một hãng buôn
+#đi chào hàng cho một công ty
+#làm đại diện cho một công ty

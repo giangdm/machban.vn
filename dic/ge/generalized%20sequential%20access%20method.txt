@@ -1,0 +1,2 @@
+﻿@generalized sequential access method
+#(Tech) phương pháp tuần truy được tổng quát hóa

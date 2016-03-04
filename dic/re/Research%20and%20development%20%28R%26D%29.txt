@@ -1,0 +1,7 @@
+﻿@Research and development (R&D)
+#(Econ) Nghiên cứu và triển khai.
+: Là hoạt động nhằm nâng cao trình độ khoa học hoặc kỹ thuật và ứng dụng trình độ đó vào việc tạo ra các sản phẩm mới và phương tiện sản xuất mới cũng như cải tiến các sản phẩm và qui trình sản xuất hiện tại.
+@Chuyên ngành kinh tế
+#nghiên cứu triển khai
+@Chuyên ngành kỹ thuật
+#nghiên cứu và phát triển

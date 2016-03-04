@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#tốc độ nhân thực
+#tốc độ tái sinh thực

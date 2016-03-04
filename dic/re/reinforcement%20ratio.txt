@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm lượng cốt thép
+@Lĩnh vực: xây dựng
+#tỷ lệ thép (theo phần trăm)
+#tỷ số cốt thép

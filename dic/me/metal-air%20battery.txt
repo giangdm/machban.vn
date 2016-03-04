@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#ắcqui không khí-kim loại
+@Lĩnh vực: điện lạnh
+#bộ pin kim loại-không khí

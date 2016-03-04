@@ -1,0 +1,3 @@
+﻿@Community indifference curve
+#(Econ) Đường bàng quan cộng đồng.
+: Một đường dựa trên đó mỗi cá nhân trong một cộng đồng nhận được một mức thoả dụng không đổi.

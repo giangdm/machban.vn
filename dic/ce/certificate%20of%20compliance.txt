@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giấy chứng hợp cách (của hàng hóa)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#giấy phép chấp nhận

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chống rung
+#bộ giảm chấn
+#bộ giảm dao động xoắn
+#thiết bị chống rung
+#thiết bị giảm rung
+@Lĩnh vực: xây dựng
+#bộ giảm rung
+#bộ tắt rung
+#bộ trống rung
+@Lĩnh vực: cơ khí & công trình
+#bộ phận giảm rung (trục khuỷu)
+@Lĩnh vực: điện
+#tạ chống rung

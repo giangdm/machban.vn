@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chi phí vận tải
+#chi phí vận tải, vận phí
+#vận phí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tiền di chuyển

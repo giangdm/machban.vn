@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tháp làm lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tháp làm nguội không khí

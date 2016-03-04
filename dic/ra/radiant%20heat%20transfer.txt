@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự truyền nhiệt kiểu bức xạ
+@Lĩnh vực: điện lạnh
+#truyền nhiệt bằng bức xạ

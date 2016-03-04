@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy tách tĩnh điện
+@Lĩnh vực: điện lạnh
+#máy phân ly tĩnh điện
+@Chuyên ngành kỹ thuật
+#máy tách tĩnh điện
+@Lĩnh vực: điện lạnh
+#máy phân ly tĩnh điện

@@ -1,0 +1,5 @@
+﻿@absorbing state
+#(Tech) trạng thái hấp thu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trạng thái hút thu

@@ -1,0 +1,6 @@
+﻿@Planometrics
+#(Econ) Kế hoạch lượng.
+: Một nghành kinh tế học đặc biệt quan tâm đến việc xây dựng các kế hoạch kinh tế vĩ mô tối ưu.
+@Chuyên ngành kinh tế
+#kinh tế hoạch học
+#kinh tế kế hoạch học

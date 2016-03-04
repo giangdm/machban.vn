@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#chiều dài cán
+#chiều dai chuôi
+@Lĩnh vực: ô tô
+#chiều dài phần thân bu lông (không làm ren)

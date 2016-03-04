@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#áp nhiệt kế
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt kế áp lực
+#nhiệt kế áp suất

@@ -1,0 +1,2 @@
+﻿@conjugate impedance
+#(Tech) trở kháng liên hợp

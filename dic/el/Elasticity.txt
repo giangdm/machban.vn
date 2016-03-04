@@ -1,0 +1,28 @@
+﻿@Elasticity
+#(Econ) Độ co giãn
+: Một thước đo tỷ lệ phần trăm thay đổi của một biến số đối với một tỷ lệ % thay đổi của một biến số khác. Xem PRICE ELASTICITY OF DEMAND.
+<!-- more -->
+@elasticity /,elæs'tisiti/
+*danh từ
+#tính co giãn ((nghĩa đen) & (nghĩa bóng)), tính đàn hồi; tính mềm dẻo
+#tính nhún nhẩy
+#tính bồng bột, tính bốc đồng
+#tính dễ tự tha thứ (lương tâm)
+@Chuyên ngành kinh tế
+#độ co giãn
+@Chuyên ngành kỹ thuật
+#đàn tính
+#độ đàn hồi
+#sự đàn hồi
+@Lĩnh vực: toán & tin
+#độ co giãn
+@Chuyên ngành kỹ thuật
+#đàn tính
+#độ đàn hồi
+#sự đàn hồi
+@Lĩnh vực: toán & tin
+#độ co giãn
+<!-- more -->
+@elasticity
+#tính đàn hồi, đàn hồi
+#cubical e. đàn hồi thể tích

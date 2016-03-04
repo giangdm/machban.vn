@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số không dẫn đầu
+#số zero đứng đầu
+@Lĩnh vực: điện tử & viễn thông
+#số không đứng đầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số không dẫn đầu
+#số zero đứng đầu
+@Lĩnh vực: điện tử & viễn thông
+#số không đứng đầu

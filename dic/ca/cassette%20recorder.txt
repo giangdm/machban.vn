@@ -1,0 +1,7 @@
+﻿@cassette recorder
+#(Tech) máy cátxét ghi âm
+@Chuyên ngành kỹ thuật
+#máy ghi băng
+@Lĩnh vực: điện tử & viễn thông
+#máy ghi âm cassette
+#máy ghi âm từ

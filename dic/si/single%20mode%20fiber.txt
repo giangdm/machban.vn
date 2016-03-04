@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp đơn kiểu (dao động)
+@Lĩnh vực: điện lạnh
+#sợi đơn mốt

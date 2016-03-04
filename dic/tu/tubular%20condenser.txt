@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị ngưng tụ kiểu ống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bộ ngưng ống
+@Lĩnh vực: điện lạnh
+#dàn ống ngưng tụ
+#giàn ngưng tụ kiểu ống
+#giàn ống ngưng tụ

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hàng hóa công nghiệp
+#nguyên vật liệu công nghiệp
+#sản phẩm công nghiệp

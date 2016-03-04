@@ -1,0 +1,3 @@
+﻿@Best Linear Unbiased Estimator
+#(Econ) (BLUE)-Đoán số trùng tuyến tính đẹp nhất; (Ước lượng tuyến tính không chệch tốt nhất)
+: ĐOÁN SỐ (ƯỚC LƯỢNG SỐ) này có PHƯƠNG SAI nhỏ nhất trong tất cả các ước lượng TUYẾN TÍNH và cũng không chệch (nghĩa là giá trị kỳ vọng của nó bằng với giá trị tham số thực). Xem GAUSS-MARKOV THEOREM, ORDINARY LEAST SQUARES.

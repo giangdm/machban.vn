@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cửa sổ quay ngang
+@Lĩnh vực: xây dựng
+#cửa sổ quay ngang (bản lề ở phía lanh tô)

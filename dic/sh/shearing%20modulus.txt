@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#môđun trượt
+@Lĩnh vực: xây dựng
+#môđun chống cắt
+@Lĩnh vực: hóa học & vật liệu
+#môđun dịch chuyển

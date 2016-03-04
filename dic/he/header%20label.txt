@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#nhãn đầu
+#nhãn tiêu đề
+@Lĩnh vực: toán & tin
+#nhãn bắt đầu file
+#nhãn bắt đầu tệp
+#nhãn đầu tệp
+#nhãn tập

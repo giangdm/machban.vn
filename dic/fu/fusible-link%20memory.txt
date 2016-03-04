@@ -1,0 +1,2 @@
+﻿@fusible-link memory
+#(Tech) bộ nhớ nối cầu chì

@@ -1,0 +1,3 @@
+﻿@Marginal user cost
+#(Econ) Chi phí sử dụng cận biên.
+: Trong kinh tế học tài nguyên, đó là lợi ích ròng (việc định giá một đơn vị tài nguyên, tức là giá của nó trừ đi chi phí khai thác) mà thế hệ tương lai không có được do thế hệ hiện tại đã sử dụng một đơn vị tài nguyên hữu hạn.

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#mạng diện rộng
+#mạng vùng rộng
+#mạng WAN
+@Lĩnh vực: điện tử & viễn thông
+#mạng điện rộng
+@Lĩnh vực: xây dựng
+#mạng khu rộng
+@Lĩnh vực: toán & tin
+#mạng toàn cục
+@Lĩnh vực: điện lạnh
+#mạng trải rộng

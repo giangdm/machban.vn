@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phần tử mạch chủ động
+#phần từ mạch có nguồn
+@Lĩnh vực: điện
+#phần tử mạch tác dụng

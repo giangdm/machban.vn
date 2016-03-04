@@ -1,0 +1,2 @@
+﻿@frame timebase
+#(Tech) chu kỳ quét mành

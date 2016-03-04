@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cực tiểu tương đối yếu
+#cực tương đối tối yếu

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch ghép cảm ứng
+#sự ghép cảm ứng
+@Lĩnh vực: điện
+#độ liên kết từ thông
+#sự ghép từ tính
+#từ thông cảm ứng
+@Lĩnh vực: điện lạnh
+#sự ghép bằng biến áp

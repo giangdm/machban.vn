@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#lập địa chỉ bao hàm
+#lập địa chỉ hàm ý
+#lập địa chỉ ngầm định
+@Lĩnh vực: toán & tin
+#địa chỉ hóa ẩn
+#sự định địa chỉ ẩn

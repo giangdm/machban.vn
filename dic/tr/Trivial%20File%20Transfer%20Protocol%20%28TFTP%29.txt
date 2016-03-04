@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#FTP đơn giản
+@Lĩnh vực: toán & tin
+#giao thức truyền tập tin thường

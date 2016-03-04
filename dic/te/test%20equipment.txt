@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ hiệu chỉnh
+#dụng cụ kiểm tra
+@Lĩnh vực: đo lường & điều khiển
+#thiết bị hiệu chỉnh

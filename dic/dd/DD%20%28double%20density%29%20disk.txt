@@ -1,0 +1,2 @@
+﻿@DD (double density) disk
+#(Tech) đĩa mật độ kép

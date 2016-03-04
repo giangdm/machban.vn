@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển bộ phóng
+@Lĩnh vực: toán & tin
+#sự điều khiển bộ đẩy

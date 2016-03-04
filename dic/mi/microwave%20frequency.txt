@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#tần số sóng cực ngắn
+#tần số vi ba
+#tần số vi sóng

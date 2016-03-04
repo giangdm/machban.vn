@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị làm sạch dầu
+#thùng lắng dầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bình tinh cất dầu
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị tinh cất dầu

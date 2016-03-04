@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#thị trường của người bán
+#thị trường mại chủ-cung bất ứng cầu
+#tình hình cung ít cầu nhiều
+#tình trạng bán được giá
+@Chuyên ngành kỹ thuật
+#chợ bán
+@Lĩnh vực: hóa học & vật liệu
+#thị trường người bán

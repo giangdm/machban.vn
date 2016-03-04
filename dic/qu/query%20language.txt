@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ngôn ngữ hỏi
+@Lĩnh vực: toán & tin
+#ngôn ngữ truy vấn
+#ngôn ngữ vấn đáp

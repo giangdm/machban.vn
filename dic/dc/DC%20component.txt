@@ -1,0 +1,4 @@
+﻿@DC component
+#(Tech) thành phần của điện một chiều
+@Chuyên ngành kỹ thuật
+#thành phần một chiều

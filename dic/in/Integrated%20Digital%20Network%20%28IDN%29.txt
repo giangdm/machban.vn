@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mạng số tích hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạng kỹ thuật số tích hợp

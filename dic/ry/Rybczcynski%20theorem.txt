@@ -1,0 +1,3 @@
+﻿@Rybczcynski theorem
+#(Econ) Định lý Rybczcynski.
+: Định lý, do nhà kinh tế Rybczcynski đưa ra, cho rằng nếu trong mô hình HECKSCHER-OHLIN, một trong hai yếu tố sản xuất được tăng để duy trì giá cả hàng hoá và các yếu tố sản xuất không đổi thì lượng hàng hoá dùng nhiều yếu tố sản xuất được tăng lên phải mở rộng sản lượng hàng hoá kia, dùng nhiều hơn trong yếu tố sản xuất không đổi phải giảm xuống.

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khối chuyển
+#khối phát đi
+#khối truyền
+@Lĩnh vực: điện tử & viễn thông
+#khối truyền dẫn

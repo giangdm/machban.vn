@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ xoay tròn ferit
+@Lĩnh vực: điện lạnh
+#bộ xoay vòng ferit
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ xoay tròn ferit
+@Lĩnh vực: điện lạnh
+#bộ xoay vòng ferit

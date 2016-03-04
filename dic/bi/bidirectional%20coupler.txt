@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ ghép hai chiều
+@Lĩnh vực: điện
+#bộ ghép hai hướng

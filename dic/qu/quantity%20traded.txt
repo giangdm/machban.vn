@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số lượng thương mại
+#số lượng thương mại (số sản phẩm được mua hoặc bán)

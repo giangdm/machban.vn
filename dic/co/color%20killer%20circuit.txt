@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mạch khử màu
+@Lĩnh vực: toán & tin
+#mạch xóa màu

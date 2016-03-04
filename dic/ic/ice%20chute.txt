@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#rãnh tháo đá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bàn trượt (nước) đá
+#bàn trượt đá
+@Lĩnh vực: xây dựng
+#đường dốc trượt băng

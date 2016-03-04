@@ -1,0 +1,2 @@
+﻿@Fiat (or token) money
+#(Econ) Tiền pháp định.

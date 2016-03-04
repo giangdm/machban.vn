@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tải trọng rỗng
+@Lĩnh vực: xây dựng
+#trọng lượng xe không tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tải trọng rỗng
+@Lĩnh vực: xây dựng
+#trọng lượng xe không tải

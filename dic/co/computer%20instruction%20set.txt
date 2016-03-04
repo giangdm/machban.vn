@@ -1,0 +1,5 @@
+﻿@computer instruction set
+#(Tech) bộ chỉ thị máy điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tập lệnh máy

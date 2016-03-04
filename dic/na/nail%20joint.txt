@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chỗ nối (đóng) đinh
+#mối nối (đóng) đinh

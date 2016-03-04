@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sự phân tích bằng sàng
+@Chuyên ngành kỹ thuật
+#sự phân tích bằng rây
+@Lĩnh vực: hóa học & vật liệu
+#kiểm nghiệm rây
+#sự thí nghiệm bằng rây
+#thử rây
+@Lĩnh vực: xây dựng
+#thí nghiệm phân tích (cỡ hạt) qua sàng

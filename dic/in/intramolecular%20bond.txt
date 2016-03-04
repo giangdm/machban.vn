@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#liên kết nội phân tử
+@Lĩnh vực: điện lạnh
+#liên kết trong phân tử

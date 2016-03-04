@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#trái khoán chuyển kỳ trái vụ
+#trái khoán huy động vốn
+#trái khoán thay thế nợ ngắn hạn (thành nợ dài hạn)

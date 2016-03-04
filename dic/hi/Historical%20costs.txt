@@ -1,0 +1,3 @@
+﻿@Historical costs
+#(Econ) Chi phí lịch sử.
+: Chi phí xảy ra vào thời điểm một yếu tố đầu vào hoặc nguên liệu được mua vào và vì vậy không bằng chi phí thay thế đầu vào đó (chi phí thay thế) nếu giá tăng lên vào thời điểm đó.

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bể muối
+@Lĩnh vực: xây dựng
+#sự nhúng trong muối

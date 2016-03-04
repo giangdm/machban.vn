@@ -1,0 +1,6 @@
+﻿@Listed securities
+#(Econ) Các chứng khoán yết giá.
+: Tên chỉ các chứng khoán được buôn bán trên sở giao dịch chứng khoán Anh quốc.
+@Chuyên ngành kinh tế
+#các chứng khoán trong danh sách
+#chứng khoán trong danh mục

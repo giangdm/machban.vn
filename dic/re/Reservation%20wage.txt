@@ -1,0 +1,6 @@
+﻿@Reservation wage
+#(Econ) Mức lương bảo lưu; Mức lương kỳ vọng tối thiểu.
+: Người công nhân tìm việc trên THỊ TRƯỜNG LAO ĐỘNG sẽ có một ý tưởng nhất định về mức lương mà anh ta mong muốn hoặc xứng đáng được hưởng, dựa trên mức lương trước đây của anh ta và những đề nghị trả lương được biết đến theo một ý nghĩa kỳ vọng nhất định.
+@Chuyên ngành kinh tế
+#mức lương bảo lương
+#mức lương giữ chân

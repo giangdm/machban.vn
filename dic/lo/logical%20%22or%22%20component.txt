@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thành phần logic "hay là"
+#thành phần logic "hoặc"
+<!-- more -->
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thành phần logic "hay là"
+#thành phần logic "hoặc"

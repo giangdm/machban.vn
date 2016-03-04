@@ -1,0 +1,2 @@
+﻿@console terminal
+#(Tech) đầu cuối bàn kiểm soát

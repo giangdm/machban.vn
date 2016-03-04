@@ -1,0 +1,2 @@
+﻿@atomic(al)
+#(thuộc) nguyên tử

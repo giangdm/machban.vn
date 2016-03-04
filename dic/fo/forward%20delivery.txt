@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giao kỳ hạn
+#giao sau
+#việc giao hàng kỳ hạn
+#việc giao hàng sau

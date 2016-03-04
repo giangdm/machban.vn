@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bước nhảy lượng tử
+@Lĩnh vực: vật lý
+#nhảy lượng tử

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#được xếp hạng để thanh toán
+#được xếp hạng để thanh toán (nợ của công ty phá sản)

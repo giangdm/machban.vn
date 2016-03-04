@@ -1,0 +1,8 @@
+﻿@error character
+#(Tech) ký tự sai lầm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký tự báo lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký tự báo lỗi

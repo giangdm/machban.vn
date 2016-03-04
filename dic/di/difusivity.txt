@@ -1,0 +1,2 @@
+﻿@difusivity
+#hệ số khuếch tán, năng suất khuếch tán

@@ -1,0 +1,3 @@
+﻿@Weakly stationary
+#(Econ) Không chuyển động hàng tuần.
+: Xem STATIONARITY.

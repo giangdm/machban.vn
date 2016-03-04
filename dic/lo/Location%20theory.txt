@@ -1,0 +1,3 @@
+﻿@Location theory
+#(Econ) Lý thuyết về vị trí.
+: Học thuyết phân tích những tác động quyết định đến vị trí của hoạt động kinh tế, giải thích và đoán trước hình thái vị trí của các đơn vị kinh tế.

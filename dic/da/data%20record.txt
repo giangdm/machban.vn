@@ -1,0 +1,7 @@
+﻿@data record
+#(Tech) bản ghi dữ liệu
+@Chuyên ngành kỹ thuật
+#bản ghi dữ liệu
+@Lĩnh vực: toán & tin
+#mẫu tin dữ liệu
+#mẩu tin dữ liệu

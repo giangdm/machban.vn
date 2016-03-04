@@ -1,0 +1,3 @@
+﻿@Iso-cost curve
+#(Econ) Đường đẳng phí.
+: Đương cong hay đường thẳng mô tả tổ hợp của hai đầu vào bất kỳ có thể mua được với một số tiền cố định.

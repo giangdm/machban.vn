@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ dò sóng
+#máy tách sóng
+#thiết bị phát hiện sóng

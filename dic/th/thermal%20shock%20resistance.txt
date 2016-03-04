@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#độ bền với sự giảm nhiệt độ
+@Chuyên ngành kỹ thuật
+#sức chịu va đập nhiệt
+@Lĩnh vực: điện lạnh
+#tính bền sốc nhiệt
+#tính chịu sốc nhiệt

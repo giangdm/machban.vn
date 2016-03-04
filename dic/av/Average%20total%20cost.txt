@@ -1,0 +1,5 @@
+﻿@Average total cost
+#(Econ) Tổng chi phí bình quân
+: Xem AVERAGE COST.
+@Chuyên ngành kinh tế
+#tổng chi phí trung bình

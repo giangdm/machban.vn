@@ -1,0 +1,2 @@
+﻿@computational accuracy
+#(Tech) độ chính xác tính toán

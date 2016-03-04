@@ -1,0 +1,3 @@
+﻿@Advertising - sale ratio
+#(Econ) Tỷ lệ doanh số-quảng cáo.
+: Tỷ lệ chi phí quảng cáo của các hãng trên tổng doanh thu bán hàng.

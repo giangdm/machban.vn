@@ -1,0 +1,3 @@
+﻿@inspectable
+*tính từ
+#có thể xem xét kỹ được, có thể kiểm tra được, có thể thanh tra được

@@ -1,0 +1,6 @@
+﻿@eight-bit byte
+#(Tech) bai tám bít
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#byte 8 bit
+#byte tám bit

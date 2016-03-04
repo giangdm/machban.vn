@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thanh lý tự động
+#thanh lý tự động, thanh toán tự nguyện
+#thanh toán tự nguyện (để đóng cửa hàng)
+#tự nguyện giải thể
+#tự ý thanh lý

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tiền đặt cọc giao trước
+#tiền ký quỹ nộp trước
+#tiền ứng trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#vật đặt, gửi tiền trước

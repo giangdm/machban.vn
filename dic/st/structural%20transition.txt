@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biến đổi cấu trúc
+#chuyển (pha) cấu trúc

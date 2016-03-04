@@ -1,0 +1,6 @@
+﻿@premedication
+*danh từ
+#thuốc uống để chuẩn bị đánh thuốc tê khi mổ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#sự tiền mê

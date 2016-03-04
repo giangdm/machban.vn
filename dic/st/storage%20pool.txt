@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hồ chứa
+@Lĩnh vực: toán & tin
+#vùng bộ nhớ
+@Lĩnh vực: điện tử & viễn thông
+#vũng nhớ

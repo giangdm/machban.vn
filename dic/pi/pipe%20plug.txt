@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#nút đậy ống
+#nút đường ống
+@Lĩnh vực: cơ khí & công trình
+#nút ống có ren

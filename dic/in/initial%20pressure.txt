@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực ban đầu
+#áp suất ban đầu
+@Lĩnh vực: cơ khí & công trình
+#áp suất khởi động
+#áp suất lúc đầu

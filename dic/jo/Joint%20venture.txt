@@ -1,0 +1,13 @@
+﻿@Joint venture
+#(Econ) Liên doanh.
+: Một tình huống trong đó cả khu vực công cộng và tư nhân hợp tác với nhau trong một hoạt động kinh tế; điều này đặc biệt phổ biến trong các nước kém phát triển nơi mà vốn rất khan hiếm trong khu vực tư nhân và các quỹ của chính phủ thương được dùng để phát triển công nghiệp hay dịch vụ ngân hàng…
+@Chuyên ngành kinh tế
+#công ty liên doanh
+#xí nghiệp liên doanh
+#xí nghiệp liên doanh công ty liên doanh
+@Chuyên ngành kỹ thuật
+#liên doanh
+@Lĩnh vực: điện tử & viễn thông
+#công ty liên hợp
+@Lĩnh vực: hóa học & vật liệu
+#sự hợp doanh

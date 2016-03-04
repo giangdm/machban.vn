@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nguồn sáng chuẩn
+@Lĩnh vực: đo lường & điều khiển
+#nguồn ánh sáng tiêu chuẩn

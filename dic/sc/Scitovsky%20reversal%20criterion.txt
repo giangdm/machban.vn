@@ -1,0 +1,3 @@
+﻿@Scitovsky reversal criterion
+#(Econ) Tiêu chí nghịch đảo Scitovsky.
+: Scitovsky lưu ý rằng việc áp dụng kiểm định KALDOR-HICKS có thể dẫn đến quan điểm coi nước B hơn nước A nhưng có khi ở nước B việc áp dụng kiểm định này có thể chỉ ra rằng A tốt hơn B.

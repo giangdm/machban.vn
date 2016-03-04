@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#công nghiệp bánh mỳ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+#ngành công nghiệp rượu bia

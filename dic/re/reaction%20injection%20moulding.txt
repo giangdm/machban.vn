@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đúc ép phản lực (Anh)
+#phương pháp RIM

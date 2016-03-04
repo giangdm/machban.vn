@@ -1,0 +1,8 @@
+﻿@epxonent
+#số mũ
+#e. of convergance (giải tích) số mũ hội tụ
+#characteristice e. of field (đại số) bậc đặc trưng của trường
+#fractional e. số mũ phân
+#horizontal e. of Abelian p-group loại ngang của p-nhóm Aben
+#imaginary e. số mũ ảo
+#real e. số mũ thực

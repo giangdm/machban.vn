@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#toán, tốp (thợ) thay phiên
+@Chuyên ngành kỹ thuật
+#giếng tháo nước

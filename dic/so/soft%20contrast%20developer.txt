@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#thuốc hiện ảnh tác dụng mềm
+#thuốc hiện ảnh tương phản mềm

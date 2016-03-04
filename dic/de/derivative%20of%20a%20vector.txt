@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đạo hàm của một vec to
+#đạo hàm của một vectơ

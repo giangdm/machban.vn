@@ -1,0 +1,3 @@
+﻿@Pollution rights
+#(Econ) Các quyền được gây ô nhiễm.
+: Ý tưởng cho rằng cần phải cấp giấy chứng nhận cho người chủ sở hữu quyền được gây ô nhiễm ở một môi trường nhất định, chẳng hạn một dìng sông.

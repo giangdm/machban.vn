@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#mở
+#mở máy
+#thắt
+#vặn mở (vòi nước)
+@Lĩnh vực: điện
+#bật (đèn)
+#bật điện
+#đóng (cung cấp điện)
+#mở nước
+@Lĩnh vực: xây dựng
+#mở lên
+@Lĩnh vực: toán & tin
+#mở, bật

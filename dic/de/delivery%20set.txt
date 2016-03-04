@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ thống cung ứng
+@Lĩnh vực: cơ khí & công trình
+#khối lượng cung ứng

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hợp đồng "mở khoá"
+#hợp đồng "mở khóa"
+#hợp đồng bao thầu toàn bộ
+#hợp đồng chìa khóa trao tay
+@Chuyên ngành kỹ thuật
+#hợp đồng chìa khóa trao tay

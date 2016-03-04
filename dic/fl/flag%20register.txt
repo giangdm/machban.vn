@@ -1,0 +1,10 @@
+﻿@flag register
+#(Tech) bộ ghi cờ hiệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thanh ghi cờ
+#thanh ghi cờ hiệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thanh ghi cờ
+#thanh ghi cờ hiệu

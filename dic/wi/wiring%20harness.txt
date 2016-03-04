@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ dây an toàn
+#bộ dây dẫn (ở tàu vũ trụ)
+@Lĩnh vực: điện lạnh
+#bộ dây dẫn điện
+#chùm dây dẫn điện (riêng cho một thiết bị)

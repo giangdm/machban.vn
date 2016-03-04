@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ điều hành gốc
+@Chuyên ngành kỹ thuật
+#hệ điều hành cơ sở
+@Lĩnh vực: toán & tin
+#hệ điều hành cơ bản

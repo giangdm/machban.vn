@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sự đo đạc mỏ
+@Lĩnh vực: đo lường & điều khiển
+#người đo vẽ mỏ
+@Lĩnh vực: xây dựng
+#phép đo vẽ địa hình
+@Lĩnh vực: hóa học & vật liệu
+#sự đo vẽ mỏ

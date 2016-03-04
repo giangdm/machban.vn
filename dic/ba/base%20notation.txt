@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ký pháp cơ số
+@Lĩnh vực: toán & tin
+#biểu diễn cơ số

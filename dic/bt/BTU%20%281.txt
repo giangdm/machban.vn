@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#đơn vị đo lường nhiệt của anh BTU (-1, 055 kJ)

@@ -1,0 +1,26 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chống sét
+#bộ chống sét van
+#bộ phóng điện
+#bộ phóng điện chân không
+#bộ thu lôi
+#cột chống sét
+#cột thu lôi
+#thanh chống sét
+@Lĩnh vực: điện
+#dây dẫn sét
+@Lĩnh vực: giao thông & vận tải
+#thiết bị chống sét
+@Chuyên ngành kỹ thuật
+#bộ chống sét
+#bộ chống sét van
+#bộ phóng điện
+#bộ phóng điện chân không
+#bộ thu lôi
+#cột chống sét
+#cột thu lôi
+#thanh chống sét
+@Lĩnh vực: điện
+#dây dẫn sét
+@Lĩnh vực: giao thông & vận tải
+#thiết bị chống sét

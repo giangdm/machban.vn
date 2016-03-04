@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dây dẫn điện hình quạt
+#dây dẫn tạo dạng quạt

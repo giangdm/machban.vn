@@ -1,0 +1,5 @@
+﻿@functional design
+#(Tech) thiết kế theo chức năng
+@Chuyên ngành kỹ thuật
+#bản vẽ chức năng
+#sự thiết kế chức năng

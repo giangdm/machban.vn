@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ chính xác (cần thiết, đòi hỏi, thích hợp)
+#độc chính xác cần thiết

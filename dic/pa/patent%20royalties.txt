@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#phí sử dụng bằng phát minh
+#phí sử dụng quyền chuyên lợi
+#thuế chuyên lợi (do người thụ nhượng phải trả)

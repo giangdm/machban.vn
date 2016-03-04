@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đa truy cập phân chia thời gian-TDMA
+@Lĩnh vực: điện tử & viễn thông
+#đa truy nhập chia theo thời gian
+@Lĩnh vực: giao thông & vận tải
+#đa truy nhập phân chia theo thời gian

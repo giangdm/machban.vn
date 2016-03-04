@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cước phí
+#tốc độ nạp
+@Lĩnh vực: điện lạnh
+#chế độ nạp
+@Lĩnh vực: điện
+#cường độ nạp

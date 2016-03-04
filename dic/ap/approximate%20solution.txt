@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giải pháp xấp xỉ
+#nghiệm xấp xỉ
+#phương pháp xấp xỉ

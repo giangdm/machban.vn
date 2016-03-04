@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phạm vi từ mức lương thấp nhất đến mức lương cao nhất
+@Chuyên ngành kỹ thuật
+#mức lương bổng
+@Lĩnh vực: điện tử & viễn thông
+#tầm lương bổng

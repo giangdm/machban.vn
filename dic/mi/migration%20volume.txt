@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dung lượng dịch chuyển
+#khối dịch chuyển

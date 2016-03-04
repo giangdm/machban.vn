@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép toán đồng nhất
+#thao tác đồng nhất
+#thao tác nhận dạng

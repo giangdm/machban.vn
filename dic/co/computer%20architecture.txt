@@ -1,0 +1,8 @@
+﻿@computer architecture
+#(Tech) cấu trúc máy điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cấu trúc máy tính
+#kiến trúc máy tính
+@Lĩnh vực: xây dựng
+#kiến trúc máy toán

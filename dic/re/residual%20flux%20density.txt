@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ cảm ứng dư
+#độ cảm ứng từ dư
+#mật độ thông lượng dư
+#mật độ từ thông dư
+#từ tính dư
+@Lĩnh vực: điện
+#cảm ứng từ dư

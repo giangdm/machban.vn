@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số chảy
+@Lĩnh vực: cơ khí & công trình
+#độ kín nước
+@Lĩnh vực: xây dựng
+#hệ số không thấm nước

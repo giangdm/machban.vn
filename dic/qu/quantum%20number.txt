@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng tử số
+@Lĩnh vực: điện lạnh
+#số lượng tử

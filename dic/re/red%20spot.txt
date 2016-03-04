@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#đốm đỏ (bánh mì hỏng)
+#vết đen (cá muối bị hỏng)
+@Chuyên ngành kỹ thuật
+#đốm đỏ
+@Lĩnh vực: xây dựng
+#điểm đỏ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tổng trọng tải
+#trọng tải toàn phần (tàu hàng)
+@Chuyên ngành kỹ thuật
+#tổng trọng tải

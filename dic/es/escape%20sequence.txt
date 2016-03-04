@@ -1,0 +1,18 @@
+﻿@escape sequence
+#(Tech) trình tự thoát, nối tiếp khuếch trương (ký tự) [NB]
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi thoát
+#dãy kí tự lệnh
+#dẫy thoát
+#dãy thứ tự thoát
+#dẫy thứ tự thoát
+#trình tự thoát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi thoát
+#dãy kí tự lệnh
+#dẫy thoát
+#dãy thứ tự thoát
+#dẫy thứ tự thoát
+#trình tự thoát

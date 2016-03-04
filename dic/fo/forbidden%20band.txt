@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng cấm
+@Lĩnh vực: toán & tin
+#dải cấm

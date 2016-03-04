@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hàng bảo quản dự trữ
+#kho bảo quản dự trữ

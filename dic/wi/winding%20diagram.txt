@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#giản đồ quấn dây
+@Lĩnh vực: điện
+#sơ đồ quấn dây

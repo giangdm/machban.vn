@@ -1,0 +1,2 @@
+﻿@demo = demonstration
+#(Tech) sự biểu diễn, trình bầy

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ điều hành đĩa của IBM
+#hệ điều hành DOS của IBM

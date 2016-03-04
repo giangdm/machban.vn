@@ -1,0 +1,3 @@
+﻿@Type I/ type II
+#(Econ) Sai số loại I / loại II.
+: Các loại sai số có thể phạm trong kiểm định giả thiết.

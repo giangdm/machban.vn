@@ -1,0 +1,8 @@
+﻿@yield stress /'ji:ld'stres/
+*danh từ
+#(kỹ thuật) ứng suất đàn hồi
+@Chuyên ngành kỹ thuật
+#giới hạn chảy
+#giới hạn đàn hồi
+#giới hạn hóa dẻo
+#ứng suất chảy

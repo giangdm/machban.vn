@@ -1,0 +1,3 @@
+﻿@run agianst
+#xô vào, va vào, đụng vào
+#ngẫu nhiên gặp (ai)

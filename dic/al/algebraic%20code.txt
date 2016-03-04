@@ -1,0 +1,2 @@
+﻿@algebraic code
+#(Tech) mã đại số

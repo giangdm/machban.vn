@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ghi từ dọc
+@Lĩnh vực: toán & tin
+#phép ghi từ thẳng đứng

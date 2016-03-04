@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kỹ thuật in chụp
+@Lĩnh vực: vật lý
+#phương pháp in chụp

@@ -1,0 +1,3 @@
+﻿@Export-import bank
+#(Econ) Ngân hàng xuất nhập khẩu.
+: Ngân hàng do chính phủ Mỹ thành lập nam 1937, nhằm thúc đẩy ngoại thương của Mỹ bằng cách cung cấp vốn dưới dạng các khoản tiền cho vay trực tiếp có bảo đảm cho các công ty nước ngoài.

@@ -1,0 +1,14 @@
+﻿@Risk capital
+#(Econ) Vốn rủi ro.
+: Thông thường cụm thuật ngữ này nói đến một khoản vốn được đầu tư vào một doanh nghiệp mà chủ sở hữu của nó chấp nhận rủi ro là công ty có thể bị phá sản.
+@Chuyên ngành kinh tế
+#vốn (đầu cơ) mạo hiểm
+#vốn chấp nhận phiêu lưu
+#vốn mạo hiểm
+#vốn rủi ro
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#vốn không đảm bảo
+#vốn rủi ro (vốn tìm kiếm thăm dò)
+@Lĩnh vực: xây dựng
+#vốn mạo hiểm

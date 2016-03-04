@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phát tĩnh điện
+@Lĩnh vực: điện
+#máy điện ảnh hưởng
+@Lĩnh vực: điện lạnh
+#máy điện hưởng

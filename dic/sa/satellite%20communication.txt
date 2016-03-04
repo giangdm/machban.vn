@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#satcom
+@Lĩnh vực: điện lạnh
+#truyền thông (bằng) vệ tinh

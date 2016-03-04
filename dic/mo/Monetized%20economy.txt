@@ -1,0 +1,2 @@
+﻿@Monetized economy
+#(Econ) Nền kinh tế tiền tệ hoá.

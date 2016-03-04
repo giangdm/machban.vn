@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#động lực học chất khí
+@Lĩnh vực: toán & tin
+#động lực học chất lỏng

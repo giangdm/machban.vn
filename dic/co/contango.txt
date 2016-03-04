@@ -1,0 +1,10 @@
+﻿@contango
+*danh từ
+#số nhiều contangos
+#tiền người mua đưa để hoãn việc trả nợ
+=contango day:ngày hoãn nợ
+@Chuyên ngành kinh tế
+#bù hoãn mua
+#phí bù hoãn thanh toán
+#phí triển hạn giao dịch
+#tiền bù hoãn thanh toán

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ cấu điều chỉnh
+#khí cụ
+#máy điều khiển
+#thiết bị điều chỉnh
+@Lĩnh vực: toán & tin
+#khí cụ điều khiển

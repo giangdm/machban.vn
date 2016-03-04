@@ -1,0 +1,8 @@
+﻿@catastrophic failure
+#(Tech) hư hỏng tai hại, lỗi lầm trầm trọng, thất bại thảm thương
+@Chuyên ngành kỹ thuật
+#sự cố bất ngờ
+#sự cố gây tai biến
+#sự cố gây tai họa
+@Lĩnh vực: toán & tin
+#sai sót ngẫu nhiên

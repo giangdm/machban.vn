@@ -1,0 +1,5 @@
+﻿@auxiliary anode
+#(Tech) dương cực phụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#anôt phụ

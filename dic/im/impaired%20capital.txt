@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#vốn không đủ
+#vốn suy yếu
+#vốn tổn thất

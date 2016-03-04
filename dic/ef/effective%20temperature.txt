@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ hiệu quả
+@Lĩnh vực: điện lạnh
+#nhiệt độ thực tế

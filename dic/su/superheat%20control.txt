@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự điều chỉnh độ quá nhiệt
+@Chuyên ngành kỹ thuật
+#điều chỉnh quá nhiệt
+@Lĩnh vực: điện lạnh
+#sự điều chỉnh quá nhiệt

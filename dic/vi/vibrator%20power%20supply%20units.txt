@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ cấp điện dung máy chấn động
+@Lĩnh vực: toán & tin
+#bộ cấp điện dùng máy chấn động

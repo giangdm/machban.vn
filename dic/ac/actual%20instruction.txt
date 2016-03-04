@@ -1,0 +1,7 @@
+﻿@actual instruction
+#(Tech) chỉ thị thực
+@Chuyên ngành kỹ thuật
+#lệnh thực
+@Lĩnh vực: toán & tin
+#chỉ lệnh thực
+#lệnh có hiệu lực

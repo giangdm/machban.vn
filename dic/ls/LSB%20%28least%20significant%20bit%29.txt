@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bít ít quan trọng nhất
+@Lĩnh vực: toán & tin
+#bit có giá trị nhỏ nhất
+#bit có nghĩa tối thiểu
+#bit ở vị trí cực phải

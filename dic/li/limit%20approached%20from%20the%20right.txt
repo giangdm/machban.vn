@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giới hạn về bên phải
+#tới hạn về bên phải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giới hạn về bên phải
+#tới hạn về bên phải

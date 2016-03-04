@@ -1,0 +1,3 @@
+﻿@Losch model
+#(Econ) Mô hình Losch
+: Xem LOCATION THEORY.

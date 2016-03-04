@@ -1,0 +1,3 @@
+﻿@Barter agreements
+#(Econ) Hiệp định trao đổi hàng.
+: Hiệp định giữa các quốc gia, thường gặp khó khăn về CÁN CÂN THANH TOÁN, đôid với việc trao đổi trực tiếp các lượng hàng hoá

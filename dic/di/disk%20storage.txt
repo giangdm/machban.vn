@@ -1,0 +1,8 @@
+﻿@disk storage
+#(Tech) bộ trữ bằng đĩa
+@Chuyên ngành kinh tế
+#bộ nhớ đĩa
+@Chuyên ngành kỹ thuật
+#bộ lưu trữ đĩa
+@Lĩnh vực: toán & tin
+#bộ nhớ đĩa

@@ -1,0 +1,2 @@
+﻿@multisync
+#màn hình nhiều tần số quét

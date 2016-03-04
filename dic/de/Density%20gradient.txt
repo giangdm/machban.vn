@@ -1,0 +1,6 @@
+﻿@Density gradient
+#(Econ) Gradient mật độ.
+: Tỷ lệ mà cường độ sử dụng đất thay đổi theo khoảng cách hướng kính từ trung tâm của một vùng đô thị.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#građiên tỷ trọng

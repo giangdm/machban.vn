@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phân ảnh chéo
+@Lĩnh vực: xây dựng
+#quét xen kẽ
+@Lĩnh vực: toán & tin
+#sự quét xen kẽ

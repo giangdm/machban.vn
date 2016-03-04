@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#xe chở đá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cam nhông (nước) đá
+#cam nhông nước đá
+#xe vận chuyển (nước) đá
+#xe vận chuyển đá

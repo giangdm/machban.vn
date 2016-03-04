@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hội tụ theo sác suất
+#hội tụ theo xác suất

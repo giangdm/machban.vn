@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền nhiệt
+#nhiệt trở
+#tính bền nhiệt
+#tính chịu nhiệt

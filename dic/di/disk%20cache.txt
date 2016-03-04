@@ -1,0 +1,6 @@
+﻿@disk cache
+#(Tech) bộ nhớ ẩn bằng đĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ đệm đĩa
+#cache đĩa

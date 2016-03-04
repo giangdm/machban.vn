@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chấn tử bức xạ
+#phần tử bức xạ (của một anten)
+@Lĩnh vực: toán & tin
+#phần tử bức xạ

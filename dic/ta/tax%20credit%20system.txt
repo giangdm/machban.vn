@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chế độ giảm thuế thu nhập (cho cá nhân)
+#chế độ khấu trừ thuế trước
+#số dư thuế sang qua (trong sổ kế toán)

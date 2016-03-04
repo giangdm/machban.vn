@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thực phẩm dễ hỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thực phẩm chóng hỏng

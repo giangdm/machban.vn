@@ -1,0 +1,5 @@
+﻿@Regressand
+#(Econ) Biến phụ thuộc (trong phân tích hồi quy).
+<!-- more -->
+@regressand
+#(thống kê) biến hồi quy phụ thuộc

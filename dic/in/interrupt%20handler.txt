@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều hành ngắt
+#bộ điều khiển ngắt
+#điều huấn
+@Lĩnh vực: toán & tin
+#trình xử lý ngắt

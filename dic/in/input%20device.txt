@@ -1,0 +1,18 @@
+﻿@input device
+*danh từ
+#thiết bị chuyển dữ liệu từ bộ nhớ sang máy tính
+@Chuyên ngành kinh tế
+#thiết bị nhập
+@Chuyên ngành kỹ thuật
+#dụng cụ nhập
+#phương tiện nhập
+#thiết bị vào
+@Lĩnh vực: xây dựng
+#bộ đưa vào
+@Lĩnh vực: toán & tin
+#khối nhập liệu
+#khối vào dữ liệu
+#thiết bị đầu vào
+#thiết bị nhập liệu
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị nhập

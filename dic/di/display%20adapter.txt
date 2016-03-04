@@ -1,0 +1,2 @@
+﻿@display adapter
+#(Tech) bộ phối hợp hiển thị

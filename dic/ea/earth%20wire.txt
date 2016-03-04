@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#dây chống sét
+#dây đất
+#dây mát
+#dây nguội
+#dây nối đất
+#dây tiếp đất
+@Lĩnh vực: điện
+#cáp đặt dưới đất
+@Lĩnh vực: cơ khí & công trình
+#dây trung hòa

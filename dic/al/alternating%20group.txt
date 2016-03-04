@@ -1,0 +1,7 @@
+﻿@alternating group
+#(Tech) nhóm giao nhau [NB]
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhóm luân phiên
+@Lĩnh vực: toán & tin
+#nhóm thay phiên

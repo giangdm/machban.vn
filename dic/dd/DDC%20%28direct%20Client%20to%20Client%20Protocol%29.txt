@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức trực tiếp giữa các khách hàng
+#giao thức trực tiếp khách hàng-khách hàng

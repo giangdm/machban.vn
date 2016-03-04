@@ -1,0 +1,7 @@
+﻿- tạo mã tuyệt đối. Cách tạo mã chương trình dùng phương pháp định địa chỉ tuyệt đối thay vì dùng hình thức định địa chỉ gián tiếp.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mã hóa tuyệt đối
+@Lĩnh vực: toán & tin
+#sự lập mã tuyệt đối
+#sự mã hóa tuyệt đối

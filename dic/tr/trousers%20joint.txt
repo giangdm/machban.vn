@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mối nối kiểu ống quần
+@Lĩnh vực: điện lạnh
+#ống nối rẽ đôi

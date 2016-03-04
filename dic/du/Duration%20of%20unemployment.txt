@@ -1,0 +1,3 @@
+﻿@Duration of unemployment
+#(Econ) Thời gian thất nghiệp
+: Khoảng thời gian trung bình mà một cá nhân trải qua khi đăng ký thất nghiệp.

@@ -1,0 +1,6 @@
+﻿@Convertible loan stock
+#(Econ) Khoản vay chuyển đổi được.
+: Xem FINANCIAL CAPITAL.
+@Chuyên ngành kinh tế
+#cổ phiếu vay nợ chuyển đổi
+#trái phiếu chuyển đổi được (thành cổ phiếu)

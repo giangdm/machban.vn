@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#lớp chát (phủ) bêtông
+#lớp trát (phủ) bê tông

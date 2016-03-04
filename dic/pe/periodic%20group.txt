@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#nhóm chu kỳ
+@Lĩnh vực: toán & tin
+#nhóm tuần hoàn

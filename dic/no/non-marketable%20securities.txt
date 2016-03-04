@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chứng khoán không được mua bán
+#chứng khoán không lưu thông
+#không thể mua bán

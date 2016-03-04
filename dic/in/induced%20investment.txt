@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#đầu tư dẫn dụ
+#đầu tư được kích thích
+#đầu tư phát sinh thêm
+#đầu tư trực tiếp ở nước ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đầu tư cảm ứng

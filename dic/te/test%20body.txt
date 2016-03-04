@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phạm vi kiểm thử
+#phạm vi kiểm tra
+#phạm vi test

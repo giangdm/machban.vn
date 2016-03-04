@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kinh tế
+#chuyển khoản tự động (trên sổ sách, không bằng tiền mặt)

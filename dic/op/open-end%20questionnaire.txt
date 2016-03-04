@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#bảng câu hỏi bất định, tùy ý trả lời
+#bảng câu hỏi bỏ ngỏ (dùng trong việc điều nghiên tiếp thị)

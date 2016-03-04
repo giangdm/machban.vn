@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ dẫn điện của đất
+@Lĩnh vực: điện tử & viễn thông
+#suất dẫn điện mặt trời

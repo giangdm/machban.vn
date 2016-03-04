@@ -1,0 +1,2 @@
+﻿@function management protocol (FMP)
+#(Tech) quy ước quản lý cơ năng

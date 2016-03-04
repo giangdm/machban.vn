@@ -1,0 +1,5 @@
+﻿@digital integrator
+#(Tech) bộ tích phân dạng số tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy tích phân số

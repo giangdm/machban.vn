@@ -1,0 +1,37 @@
+﻿@Loan
+#(Econ) Khoản cho vay.
+: Một khoản tiền do người cho vay ứng cho người vay.
+<!-- more -->
+@loan /loun/
+*danh từ
+#sự vay nợ
+#sự cho vay, sự cho mượn
+#công trái, quốc trái
+#tiền cho vay, vật cho mượn
+#từ mượn (của một ngôn ngữ khác); phong tục mượn (của một dân tộc khác)
+*ngoại động từ
+#(từ Mỹ,nghĩa Mỹ) cho vay, cho mượn
+@Chuyên ngành kinh tế
+#cho mượn
+#khoản cho vay
+#khoản vay
+#sự cho vay
+#vật cho mượn
+#vật cho vay
+#việc cho mượn
+#việc cho vay
+@Chuyên ngành kỹ thuật
+#khoản vay
+@Lĩnh vực: hóa học & vật liệu
+#sự cho vay
+@Lĩnh vực: toán & tin
+#vay
+@Chuyên ngành kỹ thuật
+#khoản vay
+@Lĩnh vực: hóa học & vật liệu
+#sự cho vay
+@Lĩnh vực: toán & tin
+#vay
+<!-- more -->
+@loan
+#kt vay

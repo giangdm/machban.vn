@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#sự dò khuyết tật
+#sự dò lỗi
+#sự dò sự cố
+#sự phát hiện sai hỏng
+@Lĩnh vực: điện tử & viễn thông
+#sự phát hiện hư hỏng
+@Lĩnh vực: toán & tin
+#sự phát hiện sai sót
+@Lĩnh vực: điện
+#sự phát hiện sự cố
+@Chuyên ngành kỹ thuật
+#sự dò khuyết tật
+#sự dò lỗi
+#sự dò sự cố
+#sự phát hiện sai hỏng
+@Lĩnh vực: điện tử & viễn thông
+#sự phát hiện hư hỏng
+@Lĩnh vực: toán & tin
+#sự phát hiện sai sót
+@Lĩnh vực: điện
+#sự phát hiện sự cố

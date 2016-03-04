@@ -1,0 +1,5 @@
+﻿@Exchange rate Mechanism
+#(Econ) Cơ chế tỷ giá hối đoái.
+: Cơ chế tỷ giá hối đoái  (ERM) là một hệ thống mà theo đó các thành viên của HỆ THỐNG TIỀN TỆ CHÂU ÂU (ENS) buộc phải duy trì tỷ giá hối đoái của họ trong những mức nhất định.
+@Chuyên ngành kinh tế
+#cơ chế hối suất

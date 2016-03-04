@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tín hiệu bắt đầu
+#tín hiệu khởi đầu
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu khởi động

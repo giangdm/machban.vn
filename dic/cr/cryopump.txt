@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm lạnh sâu
+@Lĩnh vực: điện lạnh
+#bơm cryo
+#máy bơm cryo
+@Lĩnh vực: điện tử & viễn thông
+#máy bơm lạnh

@@ -1,0 +1,9 @@
+﻿@acceptance angle
+#(Tech) góc thụ quang, góc nhận ánh sáng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#góc nghiệm thu
+@Lĩnh vực: điện tử & viễn thông
+#góc nhận
+#góc thu nhận
+#hình nón nhận

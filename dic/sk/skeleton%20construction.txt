@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kết cấu kiểu khung
+#kết cấu kiểu sườn (dầm:cột)
+@Lĩnh vực: ô tô
+#mô hình khung nguyên khối (để giảm ứng suất)

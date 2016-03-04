@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sửa sai hướng đi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự sửa lỗi hướng tới
+#sự sửa lỗi tiến

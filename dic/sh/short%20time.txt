@@ -1,0 +1,9 @@
+﻿@short time /'ʃɔ:t'taim/
+*danh từ
+#sự không làm việc cả ngày, sự không làm việc cả tuần
+=a short_time worker: công nhân làm việc dưới tám giờ một ngày, công nhân làm việc dưới sáu ngày một tuần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thời gian ngắn
+@Lĩnh vực: xây dựng
+#trong phút chốc

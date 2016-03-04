@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chu kỳ xoay vòng bộ nhớ
+#thời gian đợi lớn nhất
+#thời kỳ nhớ

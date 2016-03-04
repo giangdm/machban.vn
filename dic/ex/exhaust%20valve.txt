@@ -1,0 +1,26 @@
+﻿@Chuyên ngành kỹ thuật
+#van phân phối
+#van thải
+#van tháo
+#van thoát hơi
+#van xả
+@Lĩnh vực: cơ khí & công trình
+#van xả (thoát)
+#xupáp thoát (van xả)
+@Lĩnh vực: giao thông & vận tải
+#van xả hãm
+@Lĩnh vực: ô tô
+#xú páp thải
+@Chuyên ngành kỹ thuật
+#van phân phối
+#van thải
+#van tháo
+#van thoát hơi
+#van xả
+@Lĩnh vực: cơ khí & công trình
+#van xả (thoát)
+#xupáp thoát (van xả)
+@Lĩnh vực: giao thông & vận tải
+#van xả hãm
+@Lĩnh vực: ô tô
+#xú páp thải

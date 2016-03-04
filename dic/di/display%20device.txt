@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ hiển thị
+#màn hình
+#máy đọc ra
+#thiết bị hiển thị
+@Lĩnh vực: toán & tin
+#thiết bị màn hình

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giá ghi trên mặt phiếu
+#giá trị danh nghĩa
+#mệnh giá

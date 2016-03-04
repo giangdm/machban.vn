@@ -1,0 +1,8 @@
+﻿@Current assets
+#(Econ) Tài sản lưu động.
+: Gồm 3 loại tài sản chính: 1)Dự trữ bao gồm các hàng hoá đã được hoàn thiện, đang được sản xuất và các nguyên vật liệu thô. 2)Khoản tiền sẽ thu được hay khoản nợ ngắn hạn. 3)Tiền mặt và đầu tư ngắn hạn.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tài sản lưu động
+@Lĩnh vực: hóa học & vật liệu
+#tải sản lưu động

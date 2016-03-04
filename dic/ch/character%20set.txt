@@ -1,0 +1,7 @@
+﻿@character set
+#(Tech) bộ ký tự, bộ mẫu tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ kí tự
+@Lĩnh vực: toán & tin
+#bộ ký tự

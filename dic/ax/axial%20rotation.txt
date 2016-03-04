@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sự quay quanh trục
+@Lĩnh vực: xây dựng
+#sự xoay của trục
+#sự xoay quanh trục

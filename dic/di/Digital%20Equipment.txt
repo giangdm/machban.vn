@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết bị số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị bằng digital
+#thiết bị bằng số

@@ -1,0 +1,12 @@
+﻿@control sequence
+#(Tech) tuần tự điều khiển
+@Chuyên ngành kỹ thuật
+#cần điều khiển
+#dãy điều khiển
+@Lĩnh vực: giao thông & vận tải
+#cần điều khiển bánh lái
+@Lĩnh vực: toán & tin
+#chuỗi điều khiển
+#trình tự điều khiển
+@Lĩnh vực: ô tô
+#thanh kéo điều khiển

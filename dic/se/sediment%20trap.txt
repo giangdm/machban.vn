@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thùng lắng
+@Chuyên ngành kỹ thuật
+#bể lắng
+#máy đo tỷ lệ lắng cặn
+@Lĩnh vực: cơ khí & công trình
+#bể lắng phù sa

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mã chọn đường
+#mã định tuyến
+@Lĩnh vực: điện tử & viễn thông
+#mã tạo đường truyền
+#mã truyền dữ liệu

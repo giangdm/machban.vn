@@ -1,0 +1,7 @@
+﻿@database management system
+*danh từ, viết tắt là DBMS
+# (tin học) hệ quản lý cơ sở dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#DBMS
+#hệ quản trị cơ sở dữ liệu (DBMS)

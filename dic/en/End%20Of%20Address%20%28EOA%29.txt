@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kết thúc địa chỉ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cuối địa chỉ
+#sự kết thúc địa chỉ
+@Lĩnh vực: xây dựng
+#hết địa chỉ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kết thúc địa chỉ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cuối địa chỉ
+#sự kết thúc địa chỉ
+@Lĩnh vực: xây dựng
+#hết địa chỉ

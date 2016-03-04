@@ -1,0 +1,6 @@
+﻿@Multiproduct firm
+#(Econ) Hãng sản xuất đa sản phẩm
+: Là một doanh nghiệp kết hợp các yếu tố sản xuất với nhau để sản xuất ra nhiều loại sản phẩm.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hãng đa sản phẩm

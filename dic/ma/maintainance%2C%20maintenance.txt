@@ -1,0 +1,4 @@
+﻿@maintainance, maintenance
+#sự gìn giữ, sự bảo quản, sự sửa chữa
+#operating m. (máy tính) sử dụng và sửa chữa
+#rountime m. (máy tính) sự bảo quản thông thường

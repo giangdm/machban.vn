@@ -1,0 +1,2 @@
+﻿@absolute plotting
+#(Tech) phép vẽ dùng vị trí tuyệt đối

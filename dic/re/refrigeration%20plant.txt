@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị đông lạnh
+@Chuyên ngành kỹ thuật
+#thiết bị làm lạnh
+@Lĩnh vực: điện lạnh
+#hệ (thống) làm lạnh

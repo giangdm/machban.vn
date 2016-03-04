@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tin tức thương mại
+#tin tức về tình hình tài chính của một công ty
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thông tin trạng thái

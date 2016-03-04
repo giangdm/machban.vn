@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy đa lệnh đơn dữ liệu
+#máy MISD

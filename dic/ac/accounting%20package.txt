@@ -1,0 +1,5 @@
+﻿@accounting package
+#(Tech) toàn bộ chương trình kế toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#gói chương trình kế toán

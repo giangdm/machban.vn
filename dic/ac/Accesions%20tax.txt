@@ -1,0 +1,3 @@
+﻿@Accesions tax
+#(Econ) Thuế quà tặng.
+: Thuế đánh vào quà tặng và tài sản thừa kế.

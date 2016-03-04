@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất đổi dấu
+@Lĩnh vực: xây dựng
+#ứng suất đan dấu

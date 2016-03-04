@@ -1,0 +1,2 @@
+﻿@gain hit
+#(Tech) độ chỉnh khuếch đại nhanh

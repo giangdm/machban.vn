@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khoản vay song song
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vay song song

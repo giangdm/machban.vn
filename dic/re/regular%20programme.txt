@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#kế hoạch bình thường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chương trình bình thường

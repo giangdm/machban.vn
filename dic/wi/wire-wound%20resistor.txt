@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện trở dây quấn
+@Lĩnh vực: điện lạnh
+#điện trở quấn dây

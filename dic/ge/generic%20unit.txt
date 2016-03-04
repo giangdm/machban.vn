@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khối chung
+@Lĩnh vực: toán & tin
+#đơn vị chung
+#khối tổng quát

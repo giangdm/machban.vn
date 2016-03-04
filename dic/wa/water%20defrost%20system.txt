@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) phá băng bằng nước
+#hệ (thống) xả đá bằng nước
+#hệ thống phá băng (xả đá) bằng nước

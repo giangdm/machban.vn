@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#khu công nghiệp
+@Chuyên ngành kỹ thuật
+#khu công nghiệp
+@Lĩnh vực: điện
+#khu vực công nghiệp
+@Lĩnh vực: điện tử & viễn thông
+#vùng công nghiệp
+#vùng kỹ nghệ

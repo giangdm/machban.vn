@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#phục hồi áp suất (trong thử vỉa)
+@Lĩnh vực: cơ khí & công trình
+#sự tăng tích áp suất

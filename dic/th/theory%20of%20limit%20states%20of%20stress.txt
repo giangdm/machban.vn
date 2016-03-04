@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#lý thuyết bền ứng suất
+@Lĩnh vực: xây dựng
+#lý thuyết trạng thái ứng suất giới hạn

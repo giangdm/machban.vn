@@ -1,0 +1,37 @@
+﻿@Dispersion
+#(Econ) Phân tán.
+<!-- more -->
+@dispersion /dis'pə:ʃn/
+*danh từ
+#sự giải tán, sự phân tán
+#(hoá học) chất làm phân tán
+#sự xua tan, sự làm tản mạn, sự làm tan tác; sự tan tác
+#sự rải rác, sự gieo vãi
+#sự gieo rắc, sự lan truyền (tin đồn)
+#(vật lý) sự tán sắc; độ tán sắc
+=atomic dispersion: độ tán sắc nguyên tử
+=acoustic dispersion: sự tản sắc âm thanh
+#(hoá học) sự phân tán; độ phân tán
+@Chuyên ngành kinh tế
+#sự phân tán
+@Chuyên ngành kỹ thuật
+#độ phân tán
+#độ tán sắc
+#phân tán
+#sự khuếch tán
+#sự phân tán
+#sự tán sắc
+#sự tán xạ
+#sự tiêu tán
+#tán sắc
+@Lĩnh vực: toán & tin
+#độ tán
+#phương sai
+@Lĩnh vực: điện lạnh
+#sự tản mạn
+<!-- more -->
+@dispersion
+#sự tiêu tán, sự tán xạ; (thống kê) sự phân tán
+#d. of waces sự tán sóng
+#acoustic d. âm tán
+#hypernormal d. sự tiêu tánh siêu chuẩn tắc

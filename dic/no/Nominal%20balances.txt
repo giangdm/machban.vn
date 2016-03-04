@@ -1,0 +1,5 @@
+﻿@Nominal balances
+#(Econ) Số dư tiền mặt danh nghĩa
+: Xem MONEY BALANCES.
+@Chuyên ngành kinh tế
+#số dư tiền mặt danh nghĩa

@@ -1,0 +1,4 @@
+﻿@degeneration factor
+#(Tech) yếu tố suy biến; thừa số suy biến
+@Chuyên ngành kỹ thuật
+#hệ số suy giảm

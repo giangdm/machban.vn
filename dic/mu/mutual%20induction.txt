@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ hỗ cảm
+#hệ số hỗ cảm
+#sự hỗ cảm
+@Lĩnh vực: cơ khí & công trình
+#cảm ứng (điện) hỗ tương
+@Lĩnh vực: hóa học & vật liệu
+#sự cảm ứng lẫn nhau

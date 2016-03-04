@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tính chống ồn
+#tính miễn trừ nhiễu
+@Lĩnh vực: điện tử & viễn thông
+#sự không nhạy cảm với nhiễu
+#tính không nhạy cảm với nhiễu
+#tính miễn trừ ồn

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đệm vòng
+@Lĩnh vực: toán & tin
+#bộ đếm vòng
+@Lĩnh vực: điện
+#mạch đếm vòng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống đa lập trình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ đa lập trình
+#hệ lập trình đa chương

@@ -1,0 +1,14 @@
+﻿@file storage
+#(Tech) bộ trữ tập tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ lưu trữ file
+#bộ lưu trữ tệp
+#bộ nhớ tệp
+#sự lưu giữ tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ lưu trữ file
+#bộ lưu trữ tệp
+#bộ nhớ tệp
+#sự lưu giữ tệp

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều chỉnh tốc độ
+#bộ điều chỉnh tốc lực
+#bộ điều tốc
+@Lĩnh vực: cơ khí & công trình
+#bộ điều tiết tốc độ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đếm tuần tự
+@Lĩnh vực: toán & tin
+#thanh ghi điều khiển dãy
+#thanh ghi điều khiển tuần tự
+#thanh ghi tuần tự

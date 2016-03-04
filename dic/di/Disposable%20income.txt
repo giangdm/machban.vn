@@ -1,0 +1,9 @@
+﻿@Disposable income
+#(Econ) Thu nhập khả dùng; thu nhập khả tiêu; Thu nhập khả dụng.
+: Thu nhập còn lại sau khi trả thuế. Xem PERSONAL INCOME.
+@Chuyên ngành kinh tế
+#thu nhập khả dụng
+#thu nhập sẵn có (sau khi trừ thuế)
+<!-- more -->
+@disposable income
+#thu nhập thực sự dùng được (sau khi trừ thuế má, tiền bảo hiểm...)

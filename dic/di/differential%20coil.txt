@@ -1,0 +1,2 @@
+﻿@differential coil
+#(Tech) cuộn dây sai động

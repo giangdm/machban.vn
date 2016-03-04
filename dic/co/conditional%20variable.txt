@@ -1,0 +1,4 @@
+﻿@conditional variable
+#(Tech) biến số tùy điều kiện
+@Chuyên ngành kỹ thuật
+#biến điều kiện

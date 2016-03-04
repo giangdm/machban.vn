@@ -1,0 +1,8 @@
+﻿@backspace character
+#(Tech) ký tự lùi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký tự (xóa) lùi
+#ký tự lùi
+#ký tự quay ngược
+#ký tự xóa ngược

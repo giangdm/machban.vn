@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#hầm lạnh không khí
+@Chuyên ngành kỹ thuật
+#đường ốn khí động (học)
+#đường ống gió
+#ống gió
+#ống gió khí động
+#ống khí động
+#ống thổi khí động
+@Lĩnh vực: xây dựng
+#hầm khí động học
+#ống khí động (lực)

@@ -1,0 +1,2 @@
+﻿@frequency hopped (FH) spread spectrum signals
+#(Tech) tín hiệu phổ rộng với tần số thay đổi

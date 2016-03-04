@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#truyền hình trực tiếp qua vệ tinh
+@Lĩnh vực: điện
+#vệ tinh truyền hình trực tiếp

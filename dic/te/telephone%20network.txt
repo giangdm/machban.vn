@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#mạng điện thoại
+@Chuyên ngành kỹ thuật
+#mạng điện thoại
+@Lĩnh vực: xây dựng
+#hệ thống điện thoại
+@Lĩnh vực: điện tử & viễn thông
+#mạng thoại

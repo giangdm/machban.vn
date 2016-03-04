@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#cửa tháo
+@Chuyên ngành kỹ thuật
+#đầu đẩy
+@Lĩnh vực: điện lạnh
+#đầu xả

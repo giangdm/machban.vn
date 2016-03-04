@@ -1,0 +1,5 @@
+﻿@automatic check
+#(Tech) kiểm (tra) tự động
+@Chuyên ngành kỹ thuật
+#kiểm tra tự động
+#sự kiểm tra tự động

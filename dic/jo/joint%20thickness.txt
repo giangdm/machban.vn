@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chiều dày đường (hàn)
+#chiều dày mạch (xây)

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#hiệu suất
+#mức sản xuất
+#năng suất
+#nhịp độ sản xuất
+#sản lượng
+@Chuyên ngành kỹ thuật
+#hệ số khai thác
+#năng suất
+@Lĩnh vực: cơ khí & công trình
+#tỷ lệ sản xuất

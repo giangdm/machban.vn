@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian chạy
+#thời gian thực hiện
+#thời gian truyền
+@Lĩnh vực: toán & tin
+#khoảng thời gian chạy

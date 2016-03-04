@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch khởi động
+@Lĩnh vực: toán & tin
+#mạch tri-đơ

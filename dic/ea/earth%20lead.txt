@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dây cáp ngầm
+#dây nối đất
+@Lĩnh vực: điện
+#cáp nối vỏ máy
+#cáp tiếp đất
+#dây cáp chôn dưới đất

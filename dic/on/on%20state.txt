@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#trạng thái đóng
+@Lĩnh vực: điện
+#trạng thái đóng mạch

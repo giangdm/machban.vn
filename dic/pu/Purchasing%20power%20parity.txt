@@ -1,0 +1,7 @@
+﻿@Purchasing power parity
+#(Econ) Sức mua tương đương.
+: Một học thuyết khẳng định rằng một đơn vị tiền tệ phải có khả năng mua cùng được một giỏ hàng hoá ở mọi nước.
+@Chuyên ngành kinh tế
+#bình giá hối đoái quyết định theo sức mua thực tế
+#bình giá mãi lực
+#ngang giá sức mua

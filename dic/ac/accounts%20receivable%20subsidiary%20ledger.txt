@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#sổ phụ các khoản phải thu
+#sổ phụ các tài khoản phải thu

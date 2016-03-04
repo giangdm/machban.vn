@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phá hỏng dạng thớ
+@Lĩnh vực: hóa học & vật liệu
+#gãy thớ
+#nứt gãy dạng sợi
+#vết vỡ dạng sợi
+@Lĩnh vực: vật lý
+#sự gãy theo thớ
+@Chuyên ngành kỹ thuật
+#sự phá hỏng dạng thớ
+@Lĩnh vực: hóa học & vật liệu
+#gãy thớ
+#nứt gãy dạng sợi
+#vết vỡ dạng sợi
+@Lĩnh vực: vật lý
+#sự gãy theo thớ

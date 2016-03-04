@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#vành mai mui xe
+@Lĩnh vực: xây dựng
+#cuốn (bằng) giàn thép (dùng cho mái hoặc giàn)
+#mái dạng vòm
+@Lĩnh vực: toán & tin
+#cuốn (bằng) giàn thép (dùng cho mái hoặc sàn)
+@Lĩnh vực: hóa học & vật liệu
+#vòm mái

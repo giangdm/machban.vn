@@ -1,0 +1,3 @@
+﻿@Aitken estimator
+#(Econ) Ước lượng số Aitken.
+: Xem Generalized Least Squares.

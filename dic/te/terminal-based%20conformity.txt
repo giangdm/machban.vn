@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#sự đặt điểm cố định
+#sự đặt theo điểm chuẩn
+#sự tuân theo đầu cuối

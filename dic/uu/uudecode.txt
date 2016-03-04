@@ -1,0 +1,5 @@
+﻿@uudecode
+#Một chương trình dùng để biến đổi một tệp do chương trình uuencode tạo ra thành tệp nhị phân sao cho bạn có thể phục hồi lại tệp này trong chương trình đã được dùng để tạo ra nó
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình uudecode

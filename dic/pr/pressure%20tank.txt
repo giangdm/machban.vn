@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#nồi áp suất
+#thùng chứa dưới áp lực vào
+@Chuyên ngành kỹ thuật
+#bể chịu áp
+#bình áp suất
+@Lĩnh vực: hóa học & vật liệu
+#bể chứa áp suất
+#thùng cao áp

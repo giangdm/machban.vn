@@ -1,0 +1,10 @@
+﻿@base metal
+#kim loại thường (không phải kim loại quí như sắt chì...)
+@Chuyên ngành kỹ thuật
+#kim loại gốc
+#kim loại nền
+#kim loại thường
+@Lĩnh vực: xây dựng
+#kim loại cơ bản
+@Lĩnh vực: cơ khí & công trình
+#kim loại gốc (hợp kim)

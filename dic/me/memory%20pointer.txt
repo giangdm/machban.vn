@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kim thang đo
+@Lĩnh vực: đo lường & điều khiển
+#dấu thanh đo
+#đường mảnh thang đo

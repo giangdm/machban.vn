@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực lên bánh xe
+@Lĩnh vực: cơ khí & công trình
+#phụ tải bánh xe
+@Lĩnh vực: xây dựng
+#tải trọng bánh xe
+#tải trọng bánh xe (do bánh xe truyền)
+@Lĩnh vực: ô tô
+#tải trọng trên mỗi bánh

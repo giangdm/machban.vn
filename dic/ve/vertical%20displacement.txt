@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chuyển vị thẳng đứng
+#sự chuyển vị thẳng đứng
+@Lĩnh vực: hóa học & vật liệu
+#dịch chuyển thẳng đứng
+@Lĩnh vực: cơ khí & công trình
+#sự dịch chuyển đứng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tenxơmet âm
+@Lĩnh vực: toán & tin
+#tenxơmet dây căng

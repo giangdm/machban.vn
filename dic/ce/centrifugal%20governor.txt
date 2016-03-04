@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ chế tiết ly tâm
+@Lĩnh vực: ô tô
+#bộ điều tốc ly tâm
+@Lĩnh vực: xây dựng
+#bộ tiết chế ly tâm
+@Lĩnh vực: hóa học & vật liệu
+#máy điều tốc ly tâm

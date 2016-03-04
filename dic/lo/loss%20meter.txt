@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#công tơ đo tổn thất
+@Lĩnh vực: điện lạnh
+#công tơ tổn hao

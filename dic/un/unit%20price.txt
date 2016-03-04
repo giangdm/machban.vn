@@ -1,0 +1,10 @@
+﻿@unit price
+*danh từ
+#giá đơn vị (giá của mỗi đơn vì hàng hoá cùng một loại)
+@Chuyên ngành kinh tế
+#đơn giá
+#giá đơn vị
+@Chuyên ngành kỹ thuật
+#đơn giá
+@Lĩnh vực: xây dựng
+#giá đơn vị

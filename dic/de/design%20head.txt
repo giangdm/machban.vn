@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chiều cao thiết kế
+@Lĩnh vực: xây dựng
+#cột áp thiết kế
+@Lĩnh vực: cơ khí & công trình
+#cột nước tính toán

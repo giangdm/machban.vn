@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mẫu kiểm tra
+#sự thử kiểm tra
+@Lĩnh vực: xây dựng
+#thí nghiệm kiểm tra

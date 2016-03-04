@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#cốt
+#điểm chuẩn
+#mặt chuẩn
+#mặt thủy chuẩn
+#mức chuẩn
+@Lĩnh vực: xây dựng
+#cao trình không
+#độ cao ''O''
+#mức (số) không
+@Lĩnh vực: hóa học & vật liệu
+#mức quy chiếu

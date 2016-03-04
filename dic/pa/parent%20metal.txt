@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#kim loại chính
+#kim loại gốc
+#kim loại nền
+@Lĩnh vực: xây dựng
+#kim loại cơ bản
+@Lĩnh vực: cơ khí & công trình
+#kim loại góc (chính)
+@Lĩnh vực: hóa học & vật liệu
+#kim loại mẹ

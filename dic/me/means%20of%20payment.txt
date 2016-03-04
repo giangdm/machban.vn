@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#công cụ chi trả
+#phương tiện thanh toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vốn tính toán

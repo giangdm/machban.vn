@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lối vào
+#ngưỡng cửa
+#tấm đất
+#tấm đáy
+#thanh dưới khung cửa
+@Lĩnh vực: xây dựng
+#tấm để dầm đất

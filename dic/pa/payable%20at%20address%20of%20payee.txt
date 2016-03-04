@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#phải trả tại địa chỉ của người nhận
+#phải trả tại nhà (người nhận tiền)

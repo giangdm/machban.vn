@@ -1,0 +1,5 @@
+﻿@American Stock Exchange
+#(Econ) Sở giao dịch chứng khoán Mỹ (ASE hay AMEX).
+: SỞ GIAO DỊCH có tổ chức lớn thứ hai ở Mỹ, tiến hành mua bán gần 1/10 tổng số cổ phiếu được mua bán ở Mỹ. Sở giao dịch là cơ sở vật chất cho các giao dịch CHỨNG KHOÁN diễn ra. Sở giao dịch chứng kháon Mỹ đã có từ lâu và bắt đầu từ khi những người môi giới gặp nhau ở ngoài phố để mua bán các cổ phần chứng khoán. Đó là nguồn gốc của một cái tên khác của nó :Sở giao dịch lề đường. Tín hiệu bằng tay được dùng đẻ thông báo cho nhân viên giao dịch. Đến tận thế kỷ XX, Sở giao dịch chứng khoán Mỹ mới chuyển vào phòng.(Xem STOCK MARKET).
+@Chuyên ngành kinh tế
+#sở giao dịch chứng khoán Mỹ

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hóa thực phẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+#hóa (học) thực phẩm
+@Lĩnh vực: hóa học & vật liệu
+#hóa học thực phẩm

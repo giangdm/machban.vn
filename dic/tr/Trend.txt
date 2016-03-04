@@ -1,0 +1,40 @@
+﻿@Trend
+#(Econ) Xu hướng.
+: Còn gọi là xu hướng theo thời gian.  1)Thành phần dài hạn, cơ sở trong dữ liệu CHUỖI THỜI GIAN, thường được tính để thể hiện hướng vận động dài hạn của một biến số. 2)Một số đo mức trung bình của một đại lượng kinh tế tại một thời điểm nào đó.
+<!-- more -->
+@trend /trend/
+*danh từ
+#phương hướng
+=the trend of the coastline: phương hướng của bờ bể
+#khuynh hướng, xu hướng, chiều hướng
+=the trend of modern thoughts: xu hướng của những tư tưởng hiện đại
+=to show a trend towards...: có khuynh hướng về...
+*nội động từ
+#đi về phía, hướng về, xoay về
+=the road trends to the north: con đường đi về phía bắc
+#có khuynh hướng về, có xu hướng về, hướng về
+=modern thought is trending towards socialism: tư tưởng hiện đại đang hướng về chủ nghĩa xã hội
+@Chuyên ngành kinh tế
+#chiều hướng
+#động hướng
+#hướng đi của thị trường chứng khoán
+#khuynh hướng
+#xu hướng
+#xu thế
+#xu thế, xu hướng, khuynh hướng
+@Chuyên ngành kỹ thuật
+#dạng
+#dáng điệu
+#hướng
+#khuynh hướng
+#phương
+#xu hướng
+#xu thế
+@Lĩnh vực: điện lạnh
+#sự dần tới
+<!-- more -->
+@trend
+#(thống kê) xu thế
+#analytic(al) t. xu thế thẳng
+#rectilinear t. xu thế thẳng
+#secular t. xu thế trường kỳ

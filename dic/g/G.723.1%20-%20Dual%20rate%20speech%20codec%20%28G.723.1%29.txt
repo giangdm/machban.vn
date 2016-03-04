@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Khuyến nghị G.723.1 của ITU về bộ Codec tiếng nói tốc độ kép cho truyền thông đa phương tiện tại các tốc độ 5, 3 và 6, 3 kbit/s

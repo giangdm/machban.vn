@@ -1,0 +1,5 @@
+﻿@Tax disincentive
+#(Econ) Sự làm giảm khuyến khích của thuế.
+: THUẾ THU NHẬP có thể làm cho người ta làm việc ít hơn. Sự tồn tại của nó làm cho giải trí hấp dẫn hơn vì nó không chịu thuế. Điều này được gọi là HIỆU ỨNG THAY THẾ của thuế.
+@Chuyên ngành kinh tế
+#trở ngại thuế khóa

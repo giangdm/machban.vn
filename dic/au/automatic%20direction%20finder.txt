@@ -1,0 +1,2 @@
+﻿@automatic direction finder
+#(Tech) máy tìm hướng tự động

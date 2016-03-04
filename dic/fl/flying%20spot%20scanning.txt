@@ -1,0 +1,2 @@
+﻿@flying spot scanning
+#(Tech) quét bằng điểm bay

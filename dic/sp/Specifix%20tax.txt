@@ -1,0 +1,3 @@
+﻿@Specifix tax
+#(Econ) Thuế đặc thù.
+: Nói chung, là thứ thuế được áp dụng trên mỗi đơn vị sản phẩm chứ không phải trên giá trị của sản phẩm.

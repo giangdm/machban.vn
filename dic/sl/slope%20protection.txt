@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#sự gia cố bờ dốc
+#sự gia cố mái dốc
+@Lĩnh vực: giao thông & vận tải
+#bảo vệ ta luy đường
+@Lĩnh vực: xây dựng
+#sự bảo vệ bờ dốc
+#sự bảo vệ mái dốc
+#sự bảo vệ taluy
+#sự gia cố sườn dốc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảo vệ mái dốc

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cần chắn lan dầu
+@Lĩnh vực: xây dựng
+#cần trục phụ
+@Lĩnh vực: môi trường
+#thanh chắn dầu lan

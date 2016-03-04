@@ -1,0 +1,3 @@
+﻿@Transactions motive for holding money
+#(Econ) Động cơ giữ tiền để giao dịch.
+: Xem Transactions demand for money, Transactions balances, Money, the demand for.

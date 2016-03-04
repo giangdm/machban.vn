@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#biến đi thẳng
+#đường bay thẳng
+#đường tắt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tuyến trực tiếp

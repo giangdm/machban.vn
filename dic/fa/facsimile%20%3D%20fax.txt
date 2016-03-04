@@ -1,0 +1,2 @@
+﻿@facsimile = fax
+#(Tech) điện thư, bản viễn sao; bản truyền chân [TQ/ĐL], bản mô tả [ĐL]

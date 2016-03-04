@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ đếm
+#hệ thống số
+@Lĩnh vực: toán & tin
+#hệ thống biểu diễn số

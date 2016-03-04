@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kiểu vận hành đối xứng
+#phương thức vận hành đối xứng

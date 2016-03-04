@@ -1,0 +1,3 @@
+﻿@Static expectations
+#(Econ) Các kỳ vọng tĩnh.
+: Kỳ vọng rằng giá trị hiện tại của một biến số sẽ không thay đổi.

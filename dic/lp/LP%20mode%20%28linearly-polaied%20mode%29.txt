@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểu LP
+#kiểu phân cực tuyến tính

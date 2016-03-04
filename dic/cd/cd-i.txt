@@ -1,0 +1,5 @@
+﻿@cd-i
+#Một tiêu chuẩn về đựa compact
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#CD-I

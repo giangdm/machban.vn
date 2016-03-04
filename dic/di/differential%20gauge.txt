@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cái đo vi phân
+#vi phân kế
+@Lĩnh vực: xây dựng
+#máy đo vi sai

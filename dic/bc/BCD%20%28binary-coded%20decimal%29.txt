@@ -1,0 +1,2 @@
+﻿@BCD (binary-coded decimal)
+#(Tech) số thập phân biên mã nhị phân

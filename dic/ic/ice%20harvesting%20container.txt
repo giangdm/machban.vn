@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bunke (nước) đá
+#thùng (nước) đá
+#thùng đá
+@Lĩnh vực: điện lạnh
+#bunke chứa [thu hoạch] đá
+#côngtenơ (nước) đá
+#côngtenơ thu đá
+#thùng thu hoạch (nước) đá

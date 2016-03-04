@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dãy lệnh cơ bản
+@Lĩnh vực: toán & tin
+#tập lệnh cơ sở

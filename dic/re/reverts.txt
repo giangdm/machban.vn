@@ -1,0 +1,4 @@
+﻿@reverts
+*danh từ
+#số nhiều
+#vật liệu trở về trạng thái ban đầu

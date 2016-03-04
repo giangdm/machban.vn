@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giao diện với khối đi kèm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao diện AUI
+#giao diện đơn vị kết nối

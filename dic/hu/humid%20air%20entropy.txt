@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#entropy của không khí ẩm
+#entropy không khí ẩm

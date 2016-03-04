@@ -1,0 +1,2 @@
+﻿@run at
+#nhảy vào, lao vào, xông vào đánh (ai)

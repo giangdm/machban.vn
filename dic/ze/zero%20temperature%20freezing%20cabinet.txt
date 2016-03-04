@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tủ kết đông ở nhiệt độ không (-17, 8 độ C)
+#tủ kết đông ở nhiệt độ không (-17, 8oC)

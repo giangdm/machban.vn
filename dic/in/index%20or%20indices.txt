@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#số mũ
+@Lĩnh vực: toán & tin
+#chia số

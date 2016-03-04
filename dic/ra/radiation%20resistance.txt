@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#điện trở bức xạ
+#độ bền trước bức xạ
+#độ chống bức xạ
+#tính chống bức xạ
+#trở kháng bức xạ
+@Lĩnh vực: điện lạnh
+#điện trở bức xạ (của ăng ten)
+#tính kháng bức xạ
+@Lĩnh vực: điện
+#tổng điện trở bức xạ

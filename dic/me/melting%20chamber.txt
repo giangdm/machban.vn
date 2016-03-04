@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng nóng chảy
+#buồng tan đá
+@Lĩnh vực: cơ khí & công trình
+#khoan nhiệt nóng chảy (lò)

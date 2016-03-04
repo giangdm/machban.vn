@@ -1,0 +1,3 @@
+﻿@dimesionality
+#thứ nguyên, (đại số) hạng bậc
+#d. of a representation bậc của phép biểu diễn

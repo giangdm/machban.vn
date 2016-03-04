@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lò xo của thanh đo
+@Lĩnh vực: đo lường & điều khiển
+#lò xo chia vạch

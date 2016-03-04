@@ -1,0 +1,6 @@
+﻿@vection
+*danh từ
+#sự truyền bệnh, sự truyền nhiễm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#sự lây bệnh

@@ -1,0 +1,21 @@
+﻿@Marketing
+#(Econ) Marketing
+: Là một thuật ngữ dùng để chỉ những hoạt động của các doanh nghiệp liên quan đến việc bán và phân phối sản phẩm.
+@Chuyên ngành kinh tế
+#đi chợ
+#đi mua hàng
+#khoa bán hàng
+#nghiệp vụ bán hàng
+#thị trường học
+#tiếp thị
+#việc khai thác thị trường
+#việc tiêu thụ hàng hóa ra thị trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phát thị
+@Lĩnh vực: hóa học & vật liệu
+#thương mại hóa
+<!-- more -->
+@marketing
+*danh từ
+#sự tiếp thị

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số khuyết hiệu dụng
+#số khuyết hữu hiệu

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#không khí sạch
+#không khí thuần
+@Lĩnh vực: điện lạnh
+#không khí sạch (tinh khiết)
+#không khí tinh khiết

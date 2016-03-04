@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#mức chu chuyển nợ phải thu
+#mức quay vòng nợ phải thu

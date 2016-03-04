@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự thay đổi quá nhiệt
+#thay đổi do quá nhiệt
+#thay đổi quá nhiệt

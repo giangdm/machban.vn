@@ -1,0 +1,26 @@
+﻿@Budget
+#(Econ) Ngân sách.
+: Một ngân sách có 3 bộ phận là BỘ PHẬN PHÂN BỔ, BỘ PHẬN PHÂN PHỐI và BỘ PHẬN TỰ ỔN ĐỊNH. Chúng được kết thành một ngân sách vì những lý do về phương diện quản lý. Mỗi bộ phận đòi hỏi có phương pháp quản lý riêng của nó.
+<!-- more -->
+@budget /'bʌdʤit/
+*danh từ
+#ngân sách, ngân quỹ
+#túi (đầy), bao (đầy)
+#(nghĩa rộng) đống, kho, cô khối
+=budget of news: vô khối tin tức
+*nội động từ
+#dự thảo ngân sách; ghi vào ngân sách
+=to budget for the coming year: dự thảo ngân sách cho năm tới
+@Chuyên ngành kinh tế
+#bản dự toán
+#dự thảo ngân sách
+#khoản ngân sách
+#ngân sách
+@Chuyên ngành kỹ thuật
+#ngân sách
+#ngăn sách
+@Lĩnh vực: xây dựng
+#dự toán thu chi
+<!-- more -->
+@budget
+#(toán kinh tế) ngân sách

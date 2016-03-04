@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#tỉ số vận hành
+#tỉ suất doanh nghiệp
+#tỷ số vận hành
+@Chuyên ngành kỹ thuật
+#hệ số hoạt động
+@Lĩnh vực: toán & tin
+#tỷ lệ vận hành

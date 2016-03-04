@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bề dày của tầng lớp
+#chiều dày của tầng lớp
+@Lĩnh vực: ô tô
+#độ dày lớp phủ (sơn)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bề dày của tầng lớp
+#chiều dày của tầng lớp
+@Lĩnh vực: ô tô
+#độ dày lớp phủ (sơn)

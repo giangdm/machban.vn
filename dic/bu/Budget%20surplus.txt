@@ -1,0 +1,5 @@
+﻿@Budget surplus
+#(Econ) Thặng dư ngân sách.
+: Thu nhập hiện tại vượt chi tiêu hiện tại. Thường được sử dụng nhiều nhất để được miêu tả tình trạng trong đó thu nhập của chính phủ, thu từ thuế vượt để chi tiêu của chính phủ.
+@Chuyên ngành kinh tế
+#thặng dư ngân sách

@@ -1,0 +1,11 @@
+﻿@closing time
+#(Tech) giờ đóng
+@Chuyên ngành kinh tế
+#giờ đóng cửa
+#giờ tan sở
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thơi gian đóng
+#thời gian đóng (mạch)
+@Lĩnh vực: điện lạnh
+#thời gian đóng

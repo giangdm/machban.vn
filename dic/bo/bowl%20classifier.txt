@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phân loại kiểu gáo
+@Lĩnh vực: hóa học & vật liệu
+#phân loại bằng bát

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ nhô ra (của bộ phận kết cấu)
+#tầm nhô ra (của bộ phận kết cấu)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giá trị còn lại
+#giá trị còn lại (sau khi trừ tổn thất)
+#giá trị còn lại, giá trị tận dụng

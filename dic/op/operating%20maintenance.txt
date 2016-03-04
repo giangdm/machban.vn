@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảo dưỡng vận hành
+@Lĩnh vực: toán & tin
+#sự bảo trì vận hành
+#sử dụng và sửa chữa

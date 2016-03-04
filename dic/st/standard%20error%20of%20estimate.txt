@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sai số tiêu chuẩn của ước lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ sai tiêu chuẩn của ước lượng

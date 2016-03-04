@@ -1,0 +1,2 @@
+﻿@cubic resistance
+#(Tech) điện trở thể tích

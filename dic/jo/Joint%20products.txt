@@ -1,0 +1,5 @@
+﻿@Joint products
+#(Econ) Các sản phẩm liên kết.
+: Các hàng hoá có đặc tính là nếu có sự thay đổi trong tốc độ sản lượng của một sản phẩm thì sẽ đem lại sự thay đổi tương tự đối với các sản phẩm kia.
+@Chuyên ngành kinh tế
+#sản phẩm cộng sinh

@@ -1,0 +1,3 @@
+﻿@Error correction models (ECMs)
+#(Econ) Các mô hình hiệu chỉnh sai số; Các mô hình sửa chữa sai số.
+: Trong phân tích và hồi quy một ECMs kết hợp các sự tác động qua lại ngắn hạn và dài hạn giữa các biến số,N

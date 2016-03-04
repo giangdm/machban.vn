@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thìa múc đầu thanh chuyền
+@Lĩnh vực: toán & tin
+#thìa múc đầu thanh truyền

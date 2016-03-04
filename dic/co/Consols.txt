@@ -1,0 +1,9 @@
+﻿@Consols
+#(Econ) Công trái hợp nhất.
+: Ngày nay, thuật ngữ này để chỉ loại công trái 2,5% lãi suất.
+<!-- more -->
+@consols /kən'sɔlz/
+*danh từ số nhiều
+#((viết tắt) của consolidated-annuities) công trái hợp nhất (của chính phủ Anh từ năm 1751)
+@Chuyên ngành kinh tế
+#công trái hợp nhất

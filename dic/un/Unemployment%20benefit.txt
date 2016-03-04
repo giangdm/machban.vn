@@ -1,0 +1,13 @@
+﻿@Unemployment benefit
+#(Econ) Trợ cấp thất nghiệp.
+: Khoản thanh toán cho một cá nhân thất nghiệp.
+@Chuyên ngành kinh tế
+#tiền trợ cấp thất nghiệp
+#trợ cấp thất nghiệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#trợ cấp thấp nghiệp
+<!-- more -->
+@unemployment benefit
+*danh từ
+#tiền trợ cấp thất nghiệp

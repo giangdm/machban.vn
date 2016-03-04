@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ nhớ đệm thu nhận và điều khiển dữ liệu

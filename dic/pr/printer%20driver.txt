@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ điều khiển máy in
+@Lĩnh vực: toán & tin
+#bộ điều vận máy in
+#trình điều khiển máy in
+@Lĩnh vực: xây dựng
+#tài xế máy in

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tín hiệu yêu cầu cuộc gọi
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu yêu cầu gọi

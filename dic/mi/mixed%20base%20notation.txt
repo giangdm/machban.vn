@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống đa cơ số
+#ký pháp đa cơ số
+@Lĩnh vực: điện tử & viễn thông
+#biểu diễn cơ số hỗn hợp

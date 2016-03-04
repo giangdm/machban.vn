@@ -1,0 +1,8 @@
+﻿@Common Customs Tariff
+#(Econ) Biểu thuế quan chung.
+: Mức THUẾ QUAN ngoại bộ chung của CỘNG ĐỒNG CHÂU ÂU (EC).
+@Chuyên ngành kinh tế
+#biểu thuế quan chung (của thị trường chung Châu Âu)
+#giá biểu quan thuế chung
+@Chuyên ngành kinh tế
+#biểu thuế quan chung

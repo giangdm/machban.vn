@@ -1,0 +1,8 @@
+﻿@disk cartridge
+#(Tech) hộp đĩa
+@Chuyên ngành kinh tế
+#hộp chứa đĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hộp chứa đĩa
+#hộp đĩa

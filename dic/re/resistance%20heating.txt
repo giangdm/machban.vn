@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự nung bằng điện trở
+@Lĩnh vực: điện lạnh
+#gia nhiệt điện trở
+@Lĩnh vực: xây dựng
+#nung bằng điện trở

@@ -1,0 +1,2 @@
+﻿@rs232
+#Một tiêu chuẩn do Electronic Industries Association (EIA) đưa ra, liên quan đến việc truyền dữ liệu giữa các máy tính bằng cổng nối tiếp tương thích RS- 232 để bạn có thể dùng với modem ngoài, máy in, máy quét hình, các thiết bị ngoại vi khác

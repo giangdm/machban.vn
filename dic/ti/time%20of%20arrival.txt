@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giờ đến
+#giờ đến (của tàu, xe..)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thời điểm đến

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dụng cụ (đo) cảm ứng
+#dụng cụ đo cảm ứng
+@Lĩnh vực: điện lạnh
+#khí cụ kiểu cảm ứng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nối ghép dây
+@Lĩnh vực: điện
+#sự nối bằng dây dẫn

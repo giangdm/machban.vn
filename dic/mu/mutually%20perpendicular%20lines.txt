@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các đường thẳng góc nhau
+#các đường thẳng trực giao
+#các đường thẳng vuông góc nhau

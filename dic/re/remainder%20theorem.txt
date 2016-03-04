@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#định lý phần dư
+@Lĩnh vực: toán & tin
+#định lý Bezout

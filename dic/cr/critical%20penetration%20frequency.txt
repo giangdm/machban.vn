@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tần số tới hạn thâm nhập
+#tần số tới hạn thẩm thấu

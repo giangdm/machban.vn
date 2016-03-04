@@ -1,0 +1,3 @@
+﻿@Sales maximization hypothesis
+#(Econ) Giả thuyết về tối đa hoá doanh thu.
+: Do W.J.Baumol, đưa ra giả thiết này là tinh thần thuyết QUẢN TRỊ CỦA HÃNG.

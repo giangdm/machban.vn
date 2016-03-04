@@ -1,0 +1,2 @@
+﻿@Production smoothing
+#(Econ) Làm nuột quá trình sản xuất; Việc làm cho sản xuất được trôi chảy.

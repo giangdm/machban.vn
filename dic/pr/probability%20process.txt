@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#quá trình ngẫu nhiên
+@Lĩnh vực: toán & tin
+#quá trình xác suất

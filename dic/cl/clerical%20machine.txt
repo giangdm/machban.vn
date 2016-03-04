@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đếm
+#máy kế toán
+#máy tính để bàn
+@Lĩnh vực: toán & tin
+#máy để bàn
+#máy để bàn (giấy)

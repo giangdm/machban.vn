@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thanh chéo (chịu nén)
+#thanh xiên (chịu nén)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phiếu bị ngăn thanh toán (do yêu cầu của người ký phát)
+#séc bị đình trả
+#séc bị hủy theo lệnh người ký phát

@@ -1,0 +1,6 @@
+﻿@Barriers to entry
+#(Econ) Rào cản nhập ngành
+: Các yếu tố đẩy những người mới nhập ngành vào một mức giá không thuận lợi so với các hãng đã thiết lập trong một ngành. Chừng nào các hãng đã thiết lập đặt giá ở một mức dưới điểm tối thiểu của chi phí trung bình dài hạn của hãng tiềm tàng hiệu quả nhất, các hãng đã thiết lập có thể đạt được mức siêu lợi nhuận về lâu dài mà không phải lo sợ về sự gia nhập ngành mới.
+@Chuyên ngành kinh tế
+#các hàng rào cản nhập (ngăn cản sự xâm nhập một thị trường)
+#chỗ dành cho người khuyết tật

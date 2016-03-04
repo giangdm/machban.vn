@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sự tăng nhiệt độ
+@Lĩnh vực: điện
+#độ phát nóng
+#độ tăng nhiệt
+@Lĩnh vực: xây dựng
+#sự nhiệt độ gia tăng
+@Lĩnh vực: điện lạnh
+#tăng nhiệt độ

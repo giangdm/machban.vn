@@ -1,0 +1,8 @@
+﻿- (bảo hiểm) tỷ lệ tổn thất (bồi thường)
+@Chuyên ngành kinh tế
+#mức tiền bồi thường
+#mức tổn thất
+#tỷ số tổn thất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tỷ số tổn hao

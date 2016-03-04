@@ -1,0 +1,2 @@
+﻿@electron plasma
+#(Tech) đẳng ly tử thể điện tử

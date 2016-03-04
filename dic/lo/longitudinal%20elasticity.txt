@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#tính đàn hồi
+@Lĩnh vực: điện lạnh
+#tính đàn hồi dọc
+#tính đàn hồi kéo

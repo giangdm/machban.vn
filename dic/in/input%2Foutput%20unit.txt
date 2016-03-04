@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị vào/ra
+@Lĩnh vực: toán & tin
+#đơn vị nhập/xuất

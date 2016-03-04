@@ -1,0 +1,38 @@
+﻿@Amplitude
+#(Econ) Biên độ
+: Thuật ngữ sử dụng trong một CHU KỲ KINH DOANH để miêu tả khoảng cách giữa điểm cực đại và cực tiểu của bất kỳ chu kỳ nào.
+<!-- more -->
+@amplitude /'æmplitju:d/
+*danh từ
+#độ rộng, độ lớn
+#(vật lý) độ biên
+=amplitude of oscillation: độ biên dao động
+#sự đầy đủ, sự dồi dào, sự phong phú; sự dư dật
+#tầm hoạt động, tầm rộng lớn (của hiểu biết, tư tưởng...)
+@Chuyên ngành kinh tế
+#độ lớn (của chu kỳ kinh tế)
+#độ lớn của chu kỳ
+#phong phú
+#sự dồi dào
+#tầm hoạt động
+#tầm rộng lớn
+@Chuyên ngành kỹ thuật
+#biên độ
+#độ lớn
+#độ phương vị
+#góc cực
+<!-- more -->
+@amplitude
+#biên độ, góc cực; agumen; (thiên văn) độ phương vị
+#a. of complex nember agument của số phức
+#a. of current biên độ dòng điện
+#a. of oscillation biên độ của dao động
+#a. of point góc cực của một điểm
+#a. of simple harmonic motion biên độ chuyển động điều hoà đơn giản
+#a. of vibration biên độ của chấn động
+#complex a. biên độ nguyên sơ
+#delta a. biên độ delta
+#primary a. biên độ nguyên sơ
+#scattering a. biên độ tán xạ
+#unit a. biên độ đơn vị
+#velocity a. biên độ vận tốc

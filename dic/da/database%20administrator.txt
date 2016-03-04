@@ -1,0 +1,2 @@
+﻿@database administrator
+#(Tech) quản trị viên kho dữ liệu

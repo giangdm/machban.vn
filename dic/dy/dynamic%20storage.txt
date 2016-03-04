@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lưu trữ động
+#bộ nhớ động
+@Lĩnh vực: xây dựng
+#kho năng động
+@Lĩnh vực: toán & tin
+#sự lưu trữ động

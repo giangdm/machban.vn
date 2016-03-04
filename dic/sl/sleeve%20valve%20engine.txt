@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#động cơ không xupáp
+#động cơ van ống
+@Lĩnh vực: cơ khí & công trình
+#động cơ kiểu van lồng

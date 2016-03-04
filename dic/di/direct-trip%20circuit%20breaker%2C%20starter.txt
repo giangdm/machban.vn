@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy cắt mạch
+@Lĩnh vực: điện
+#bộ khởi động trực tiếp

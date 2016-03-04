@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#độ nở dài
+#sự nở dài
+@Lĩnh vực: xây dựng
+#sự nở theo chiều dài
+@Chuyên ngành kỹ thuật
+#độ nở dài
+#sự nở dài
+@Lĩnh vực: xây dựng
+#sự nở theo chiều dài

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu ứng (lớp) da
+#hiệu ứng lớp mặt
+#hiệu ứng mặt ngoài
+#hiệu ứng skin
+#ma sát bề mặt
+@Lĩnh vực: toán & tin
+#hiệu suất mặt ngoài
+@Lĩnh vực: cơ khí & công trình
+#hiệu ứng bề mặt
+@Lĩnh vực: điện lạnh
+#hiệu ứng mặt ngoài Kelvin
+@Lĩnh vực: điện tử & viễn thông
+#hiệu ứng vỏ

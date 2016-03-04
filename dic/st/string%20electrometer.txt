@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ đo điện kế có dây dẫn
+@Lĩnh vực: điện
+#tĩnh điện kế dây
+@Lĩnh vực: điện lạnh
+#tĩnh điện kế dây căng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức liên kết điểm-điểm
+#Giao thức liên kết điểm-điểm-PPP
+@Chuyên ngành kỹ thuật
+#giao thức điểm nối điểm

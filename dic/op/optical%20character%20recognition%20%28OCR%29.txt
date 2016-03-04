@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhận dạng ký tự quang học (OCR)
+#quang nhận dạng ký tự
+#sự nhận dạng ký tự quang

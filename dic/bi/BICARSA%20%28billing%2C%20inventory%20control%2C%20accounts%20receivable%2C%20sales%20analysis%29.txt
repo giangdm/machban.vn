@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ghi hóa đơn
+#kiểm soát hàng tồn kho
+#phân tích hàng bán

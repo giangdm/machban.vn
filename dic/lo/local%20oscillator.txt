@@ -1,0 +1,13 @@
+﻿@local oscillator ['loukəl 'ɔsileitə]
+*danh từ
+# (kỹ thuật) bộ dao động tại chỗ
+@Chuyên ngành kỹ thuật
+#bộ dao động duy trì
+#bộ dao động nội tại
+#bộ dao động tại máy
+@Lĩnh vực: vật lý
+#dao động nội
+@Lĩnh vực: toán & tin
+#dao động nội bộ
+@Lĩnh vực: điện
+#mạch dao động nội bộ

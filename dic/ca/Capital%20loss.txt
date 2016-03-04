@@ -1,0 +1,9 @@
+﻿@Capital loss
+#(Econ) Khoản lỗ vốn
+: Xem CAPITAL GAIN
+@Chuyên ngành kinh tế
+#lỗ vốn
+#lỗ vốn (do bán một tài sản cố định)
+#sự thua lỗ do việc loại bỏ
+#thất thoát hoặc hủy tư liệu sản xuất do nợ quá lâu
+#tổn thất vốn

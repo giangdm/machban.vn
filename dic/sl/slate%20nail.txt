@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đinh đóng đá bảng
+#đinh đóng đá lợp
+#đinh đóng đá phiến

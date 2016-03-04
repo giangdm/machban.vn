@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin nối tiếp
+#tập tin tuần tự
+#tệp nổ tiếp
+#tệp tuần tự

@@ -1,0 +1,4 @@
+﻿@card input
+#(Tech) đầu vào bằng phiếu, nhập bằng phiếu
+@Chuyên ngành kỹ thuật
+#nhập bìa

@@ -1,0 +1,2 @@
+﻿@flag control
+#(Tech) kiểm soát cờ hiệu; kiểm soát bộ chỉ báo

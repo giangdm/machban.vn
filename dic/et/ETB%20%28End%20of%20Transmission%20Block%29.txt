@@ -1,0 +1,10 @@
+﻿@ETB (End of Transmission Block)
+#(Tech) khối chấm dứt truyền đạt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cuối khối truyền
+#sự kết thúc khối truyền
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cuối khối truyền
+#sự kết thúc khối truyền

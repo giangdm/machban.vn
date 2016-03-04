@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chỉ số các chỉ báo báo trước
+#chỉ số của các biểu thị hàng đầu.
+#chỉ số của những chỉ tiêu chủ chốt
+#đi trước khuynh hướng

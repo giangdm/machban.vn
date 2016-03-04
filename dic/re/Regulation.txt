@@ -1,0 +1,52 @@
+﻿@Regulation
+#(Econ) Sự điều tiết.
+<!-- more -->
+@regulation /,regju'leiʃn/
+*danh từ
+#sự điều chỉnh, sự sửa lại cho đúng
+#sự sắp đặt, sự quy định, sự chỉnh lý, sự chỉnh đốn (công việc...)
+=to bring under regulation: quy định, đặt thành quy tắc
+#điều quy định, quy tắc, điều lệ
+#(định ngữ) theo quy tắc, theo quy định, đúng phép, hợp lệ; thông thường, thường lệ
+=to exceed the regulation speed: vượt quá tốc độ đã quy định
+=the regulation size: kích thước thông thường, kích thước đã quy định
+@Chuyên ngành kinh tế
+#điều chỉnh
+#điều lệ
+#điều tiết
+#pháp lệnh
+#quản chế
+#quy chế, quy tắc, quy định, điều lệ
+#quy tắc
+#sự điều chỉnh
+#sự quản lý
+#sự quản lý, quản chế, tiết chế, điều tiết, điều chỉnh
+#sự quy định
+#sự sắp đặt
+#tiết chế
+@Chuyên ngành kỹ thuật
+#điều chỉnh
+#điều lệ
+#điều tiết
+#luật lệ (lưu thông)
+#qui tắc
+#qui trình
+#quy chế
+#quy định
+#quy phạm
+#quy tắc
+#sự chỉnh lý
+#sự điều tiết
+#sự ổn định
+#sự thiết đặt
+#sự thiết lập
+@Lĩnh vực: điện
+#bộ phận ghi dịch
+@Lĩnh vực: đo lường & điều khiển
+#sự điều chỉnh
+@Lĩnh vực: y học
+#sự điều chỉnh, điều hòa, điều tiết
+<!-- more -->
+@regulation
+#sự điều chỉnh
+#inherent r. tự điều chỉnh

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nhân viên bán hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kim của máy đếm

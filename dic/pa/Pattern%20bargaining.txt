@@ -1,0 +1,6 @@
+﻿@Pattern bargaining
+#(Econ) Thương lương theo mô hình.
+: Nhiều khi các nghiệp đoàn trong các nghành độc quyền nhóm sẽ chọn một công ty cụ thể làm mục tiêu thương lượng.
+@Chuyên ngành kinh tế
+#đàm phán theo mẫu
+#sự đàm phán làm mẫu

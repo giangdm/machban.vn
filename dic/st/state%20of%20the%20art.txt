@@ -1,0 +1,4 @@
+﻿@state of the art
+#Một mặt hàng hoặc thiết bị phức tạp tinh xảo về mặt kỹ thuật, đại diện cho mức độ phát triển hiện tại của các thành tựu kỹ thuật
+@Chuyên ngành kỹ thuật
+#kỹ nghệ ưu tiên

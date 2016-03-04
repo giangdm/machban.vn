@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#biên an toàn
+#biên độ an toàn
+#biên tế an toàn
+@Chuyên ngành kỹ thuật
+#giới hạn an toàn
+#hệ số an toàn
+#lượng dư bền
+@Lĩnh vực: cơ khí & công trình
+#biên độ an toàn
+@Lĩnh vực: xây dựng
+#dự trữ cường độ

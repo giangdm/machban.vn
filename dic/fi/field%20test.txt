@@ -1,0 +1,21 @@
+﻿@Chuyên ngành kinh tế
+#thí nghiệm tại hiện trường
+#thử nghiệm thực địa
+@Chuyên ngành kỹ thuật
+#sự thí nghiệm tại chỗ
+@Lĩnh vực: cơ khí & công trình
+#sự thử nghiệm hiện trường
+@Lĩnh vực: xây dựng
+#thí nghiệm tại hiện trường
+#thử nghiệm tại hiện trường
+@Lĩnh vực: điện lạnh
+#thử hiện trường
+@Chuyên ngành kỹ thuật
+#sự thí nghiệm tại chỗ
+@Lĩnh vực: cơ khí & công trình
+#sự thử nghiệm hiện trường
+@Lĩnh vực: xây dựng
+#thí nghiệm tại hiện trường
+#thử nghiệm tại hiện trường
+@Lĩnh vực: điện lạnh
+#thử hiện trường

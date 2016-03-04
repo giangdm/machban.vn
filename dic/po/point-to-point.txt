@@ -1,0 +1,13 @@
+﻿@point-to-point
+*danh từ
+#cuộc đua ngựa việt dã từ điểm này đến điểm khác
+@Chuyên ngành kinh tế
+#cặp điểm
+@Chuyên ngành kỹ thuật
+#điểm nối điểm
+#ngang hàng
+@Lĩnh vực: toán & tin
+#cùng cấp
+#đồng mức
+#giữa các điểm
+#thuộc điểm-điểm

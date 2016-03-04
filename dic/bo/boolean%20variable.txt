@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#biến logic
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến Boole

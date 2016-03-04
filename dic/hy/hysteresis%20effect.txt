@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hiệu quả trễ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiệu ứng trễ

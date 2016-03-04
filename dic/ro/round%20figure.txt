@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#số chẵn
+#số tròn
+@Chuyên ngành kỹ thuật
+#sự lấy tròn
+#sự quy tròn
+@Lĩnh vực: xây dựng
+#sự qui tròn

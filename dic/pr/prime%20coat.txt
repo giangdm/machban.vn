@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp đầu tiên
+#lớp nền
+#lớp nhựa lót
+#lớp sơn lót
+#lớp sơn nền

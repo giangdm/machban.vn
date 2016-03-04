@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm không
+@Lĩnh vực: toán & tin
+#hàm số không

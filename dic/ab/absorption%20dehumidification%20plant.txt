@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trạm hút ẩm hấp thụ
+#trạm khử ẩm hấp thụ

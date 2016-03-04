@@ -1,0 +1,12 @@
+﻿@book-keeping /'buk,ki:piɳ/
+*danh từ
+#kế toán
+=book-keeping by single entry: kế toán đơn
+=book-keeping by double entry: kế toán kép
+@Chuyên ngành kỹ thuật
+#kế toán
+#máy kế toán
+#sự ghi chép
+<!-- more -->
+@book-keeping
+#công việc kế toán

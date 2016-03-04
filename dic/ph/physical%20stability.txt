@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ ổn định vật lý (của môi chất lạnh)
+#tính ổn định vật lý (của môi chất lạnh)

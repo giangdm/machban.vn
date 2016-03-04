@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kiểu dây
+#sự đặt dây
+@Lĩnh vực: toán & tin
+#kiểu dây, sự đặt dây
+@Lĩnh vực: điện tử & viễn thông
+#mạng đặt hàng
+#mạng lưu lượng

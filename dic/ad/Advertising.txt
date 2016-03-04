@@ -1,0 +1,12 @@
+﻿@Advertising
+#(Econ) Quảng cáo.
+: Hoạt động của một hãng nhằm thúc đẩy việc bán sản phẩm của mình, mục tiêu chính là tăng số lượng người tiêu dùng thích những sản phẩm của hãng hơn những hãng khác.
+@Chuyên ngành kinh tế
+#hoạt động quảng cáo
+#nghề quảng cáo
+#quảng cáo học
+#sự quảng cáo
+<!-- more -->
+@advertising
+*danh từ
+#sự quảng cáo, nghề quảng cáo

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ phân tích đa kênh
+@Lĩnh vực: vật lý
+#bộ phận tích nhiều kênh

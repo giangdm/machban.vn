@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#đặt hàng tối ưu
+#lượng đặt hàng kinh tế
+#lượng đặt mua thấp nhất
+#số lượng tái cấp
+@Chuyên ngành kỹ thuật
+#lượng đặt kinh tế

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự nhận biết ký tự mực từ
+#sự nhận dạng ký tự bằng mực từ

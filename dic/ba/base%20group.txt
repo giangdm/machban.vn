@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nhóm cơ bản
+#nhóm cơ sở
+@Lĩnh vực: xây dựng
+#nhóm tần số căn bản

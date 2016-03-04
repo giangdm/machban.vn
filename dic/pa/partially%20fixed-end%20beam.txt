@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dầm ngàm cục bộ
+#dầm ngàm không toàn phần

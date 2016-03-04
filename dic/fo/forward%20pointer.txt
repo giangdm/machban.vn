@@ -1,0 +1,5 @@
+﻿@forward pointer
+#(Tech) con trỏ thuận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#con trỏ hướng tới

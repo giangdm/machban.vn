@@ -1,0 +1,5 @@
+﻿@Incidence of taxation
+#(Econ) Phạm vi tác động của việc đánh thuế, đối tượng chịu thuế.
+: Chỉ sự phân phối cuối cùng gánh nặng của một khoản thuế. Cụm thuật ngữ này đề cập đến những người có thu nhập thực tế bị giảm do việc đánh thuế.
+@Chuyên ngành kinh tế
+#phạm vi thu thuế

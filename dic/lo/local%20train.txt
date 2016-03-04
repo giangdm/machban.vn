@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#xe lửa thường (không tốc hành)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tàu hỏa nội thành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tàu hỏa nội thành

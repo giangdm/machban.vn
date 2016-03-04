@@ -1,0 +1,34 @@
+﻿@Determinant
+#(Econ) Định thức (hay Del hoặc được ký hiệu |A|).
+<!-- more -->
+@determinant /di'tə:minənt/
+*tính từ
+#xác định, định rõ; định lượng
+#quyết định
+*danh từ
+#yếu tố quyết định
+#(toán học) định thức
+@Chuyên ngành kỹ thuật
+#định thức
+#quyết định tố
+#xác định
+@Lĩnh vực: đo lường & điều khiển
+#phần tử quyết định
+<!-- more -->
+@determinant
+#(đại số) định thức
+#d. of a matrix định thức của ma trận
+#adjoint d. định thức phó, định thức liên hợp
+#adjugate d. định thức phụ hợp
+#alternate d. định thức thay phiên
+#axisymmetric d. định thức đối xứng qua đường chéo
+#bordered d. định thức được viền
+#characteristic d. định thức đặc trưng
+#composite d. định thức đa hợp
+#compound d.s định thức đa hợp
+#cubic d. định thức bậc ba
+#group d. định thức nhóm
+#minor d. định thức con
+#signular d. định thức kỳ dị
+#skew-symmetric d. định thức đối xứng lệch
+#symmetric d. định thức đối xứng

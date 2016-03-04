@@ -1,0 +1,6 @@
+﻿@destination queue
+#(Tech) hàng chờ nhận
+@Chuyên ngành kỹ thuật
+#hàng đích
+@Lĩnh vực: toán & tin
+#hàng đợi đích

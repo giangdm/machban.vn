@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ triệt tiếng ồn siêu âm
+#máy triệt tiếng ồn siêu âm

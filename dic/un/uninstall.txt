@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#gỡ bỏ phần mềm
+@Lĩnh vực: toán & tin
+#gỡ bỏ chương trình
+#hủy cài đặt
+#không cài đặt
+#tháo cài đặt

@@ -1,0 +1,7 @@
+﻿@pick-up truck
+*danh từ
+#loại xe tải nhỏ, không mui, thành thấp (cho các nhà xây dựng, nông dân  dùng)
+@Chuyên ngành kỹ thuật
+#xe tải nhỏ
+@Lĩnh vực: ô tô
+#xe tải lấy hàng

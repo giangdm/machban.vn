@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#quản lý sản xuất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sự điều khiển sản xuất
+@Lĩnh vực: xây dựng
+#sự quản lý sản xuất

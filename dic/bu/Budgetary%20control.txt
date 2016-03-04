@@ -1,0 +1,5 @@
+﻿@Budgetary control
+#(Econ) Kiểm soát ngân sách
+: Một hệ thống qua đó kiểm tra được tiến hành đối với các nguồn thu và chi cho các mục tiêu được định ra trong ngân sách. Mục đích là khám phá xem kết quả đã chệch hướng mục tiêu ở mức độ nào để có những hành động vào thời gian thích hợp nhằm đưa các luồng phù hợp với mục tiêu mong muốn.
+@Chuyên ngành kinh tế
+#kiểm tra ngân sách

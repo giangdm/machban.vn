@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy đo điện kháng
+#máy đo trở kháng (điện)

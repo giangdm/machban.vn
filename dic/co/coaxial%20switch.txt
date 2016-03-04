@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ chuyển mạch đồng trụ
+@Lĩnh vực: điện lạnh
+#chuyển mạch đồng trục

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo cân bằng
+@Lĩnh vực: đo lường & điều khiển
+#khí cụ chỉ mức không

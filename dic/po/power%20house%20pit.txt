@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hố móng nhà máy điện
+@Lĩnh vực: toán & tin
+#hố móng nhà máy thủy điện
+@Lĩnh vực: cơ khí & công trình
+#hố móng trạm thủy điện

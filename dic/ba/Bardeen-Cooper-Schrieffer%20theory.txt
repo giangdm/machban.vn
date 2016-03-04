@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#lý thuyết Bardeen-Cooper-Schrieffer
+#lý thuyết BCS

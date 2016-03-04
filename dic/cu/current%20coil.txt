@@ -1,0 +1,7 @@
+﻿@current coil
+#(Tech) cuộn dây dòng điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cuộn dây dòng điện
+@Lĩnh vực: điện
+#cuộn dòng (điện)

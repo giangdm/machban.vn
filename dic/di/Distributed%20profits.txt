@@ -1,0 +1,5 @@
+﻿@Distributed profits
+#(Econ) Lợi nhuận được phân phối.
+: Phần lợi nhuận ròng do hãng phân phối dưới dạng trả lãi cổ tức cho những người sở hữu vốn cổ phiếu công ty. Xem DIVIDEND PAY.
+@Chuyên ngành kinh tế
+#những lợi nhuận đã phân phối

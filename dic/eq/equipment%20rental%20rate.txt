@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảng giá thuê thiết bị
+@Lĩnh vực: cơ khí & công trình
+#giá thuê thiết bị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảng giá thuê thiết bị
+@Lĩnh vực: cơ khí & công trình
+#giá thuê thiết bị

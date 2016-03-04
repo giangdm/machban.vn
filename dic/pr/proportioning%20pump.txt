@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bơm định lượng (theo tỷ lệ)
+@Lĩnh vực: cơ khí & công trình
+#máy bơm định hướng
+@Lĩnh vực: xây dựng
+#máy bơm phối liệu

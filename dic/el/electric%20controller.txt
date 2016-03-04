@@ -1,0 +1,8 @@
+﻿@electric controller
+#(Tech) bộ điều khiển bằng điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#bộ điều khiển điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#bộ điều khiển điện

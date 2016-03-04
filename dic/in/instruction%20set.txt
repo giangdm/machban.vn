@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bộ lệnh điều khiển (máy tính)
+@Chuyên ngành kỹ thuật
+#danh mục lệnh
+@Lĩnh vực: xây dựng
+#tập hợp chỉ thị
+@Lĩnh vực: toán & tin
+#tập hợp lệnh

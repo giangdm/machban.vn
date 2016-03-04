@@ -1,0 +1,3 @@
+﻿@rpm
+*(viết tắt)
+#số vòng quay trong một phút (nhất là để đo tốc độ một động cơ)  (revolutions per minute)

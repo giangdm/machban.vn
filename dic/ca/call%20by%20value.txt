@@ -1,0 +1,5 @@
+﻿@call by value
+#(Tech) gọi bằng trị số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cuộc gọi theo giá trị

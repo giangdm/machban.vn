@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#tiếp điểm kiểu lò xo
+@Lĩnh vực: điện lạnh
+#tiếp điểm lò xo (ở rơle hoặc chuyển mạch)

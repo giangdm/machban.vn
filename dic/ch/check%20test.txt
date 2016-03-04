@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mẫu kiểm tra
+#sự thí nghiệm kiểm tra
+#sự thử kiểm tra
+#sự thử lại
+#sự thử lắp lại

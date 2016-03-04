@@ -1,0 +1,6 @@
+﻿@external resistance
+#(Tech) điện trở ngoài
+@Chuyên ngành kỹ thuật
+#điện trở ngoài
+@Chuyên ngành kỹ thuật
+#điện trở ngoài

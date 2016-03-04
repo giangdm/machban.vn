@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tỉ số biến (đổi)
+@Lĩnh vực: điện lạnh
+#tỷ số biến áp

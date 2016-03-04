@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tàu lạnh (vận tải biển) nhiệt độ rất thấp
+#tàu thủy lạnh nhiệt độ rất thấp

@@ -1,0 +1,2 @@
+﻿@conventional type
+#(Tech) loại quy ước, loại thông thường

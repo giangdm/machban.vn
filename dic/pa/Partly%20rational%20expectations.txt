@@ -1,0 +1,3 @@
+﻿@Partly rational expectations
+#(Econ) Những kỳ vọng hợp lý riêng phần.
+: Một giả định rằng người ta kỳ vọng một cách hợp lý sự cân bằng dài hạn nhưng lại không chắc chắn về con đường mà nến kinh tế sẽ đi đến vị trí đó, cho nên các kỳ vọng sẽ được xem xét lại ở từng thời kỳ để tính đến sự không nhất quán giữa giá trị thực tế và giá trị kỳ vọng.

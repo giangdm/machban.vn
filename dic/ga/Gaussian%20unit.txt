@@ -1,0 +1,2 @@
+﻿@Gaussian unit
+#(Tech) đơn vị Gauss (Gauxơ)

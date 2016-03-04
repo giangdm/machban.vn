@@ -1,0 +1,3 @@
+﻿@Lindahl model
+#(Econ) Mô hình Lindahl.
+: Xem VOLUNTARY EXCHANGE MODEL.

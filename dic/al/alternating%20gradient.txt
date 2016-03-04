@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#građien đảo dấu
+@Lĩnh vực: cơ khí & công trình
+#gradien đổi dấu

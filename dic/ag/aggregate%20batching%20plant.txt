@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thiết bị phối liệu cốt liệu
+#trạm phối liệu cốt liệu

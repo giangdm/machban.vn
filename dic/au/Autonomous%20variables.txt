@@ -1,0 +1,5 @@
+﻿@Autonomous variables
+#(Econ) Các biến tự định
+: Xem EXOGENOUS VARIABLES.
+@Chuyên ngành kinh tế
+#các biến cố tự định

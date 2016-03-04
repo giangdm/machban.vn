@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương tiện bó
+@Lĩnh vực: điện tử & viễn thông
+#phương tiện lô

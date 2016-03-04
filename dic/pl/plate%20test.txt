@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự thí nghiệm tấm (chống uốn, cách nhiệt)
+@Lĩnh vực: xây dựng
+#sự thí nghiệm xuyên
+@Lĩnh vực: giao thông & vận tải
+#thí nghiệm nén tĩnh

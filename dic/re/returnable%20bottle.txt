@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chai (đựng) có thể hoàn lại
+#chai có thể trả lại
+#chai gửi
+@Chuyên ngành kỹ thuật
+#đồ chứa dùng lại được

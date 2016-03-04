@@ -1,0 +1,10 @@
+﻿@Monetarism
+#(Econ) Chủ nghĩa trọng tiền.
+: Là một trường phái tư duy kinh tế lập luận rằng những xáo trộn trong lĩnh vực tiền tệ là nguyên nhân chủ yếu của sự bất ổn trong nền kinh tế.
+@Chuyên ngành kinh tế
+#chủ nghĩa tiền tệ
+#trường phái duy tiền tệ
+<!-- more -->
+@monetarism
+*danh từ
+#phương pháp kiểm tra sự lưu thông tiền tệ để ổn định nền kinh tế

@@ -1,0 +1,8 @@
+﻿@conventional memory
+#(Tech) bộ nhớ quy ước, bộ nhớ thông thường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ quy ước
+#bộ nhớ truyền thống
+@Lĩnh vực: xây dựng
+#trí nhớ công ước

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nơi kiểm tra alpha
+#vị trí thử alpha

@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lọc khí
+#bộ lọc khí đốt
+#bộ lọc nhiên liệu
+#bộ lọc xăng
+#thiết bị lọc khí
+@Lĩnh vực: ô tô
+#bộ lọc gazolin
+@Lĩnh vực: xây dựng
+#cái lọc khí
+@Lĩnh vực: điện lạnh
+#phin lọc (chất) khí
+#phin lọc khí

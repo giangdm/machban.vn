@@ -1,0 +1,4 @@
+﻿@frequency division multiplexing (FDM)
+#(Tech) bộ đa kênh phân tần số
+@Chuyên ngành kỹ thuật
+#dồn kênh phân tần

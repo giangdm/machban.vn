@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Giao diện đầu vào tích cực (Được sử dụng trong các yêu cầu kỹ thuật UNI PMD cho cáp đồng/cáp quang )

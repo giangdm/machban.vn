@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#địa chỉ gởi thư
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#địa chỉ thư
+@Lĩnh vực: điện tử & viễn thông
+#địa chỉ thư tín

@@ -1,0 +1,2 @@
+﻿@automatic document feeder tray
+#(Tech) khay cấp giấy tự động

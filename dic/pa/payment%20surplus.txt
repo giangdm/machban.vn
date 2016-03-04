@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#thặng dư thanh toán (chỉ tình trạng suất siêu của một nước)
+#thặng dư thanh toán (chỉ tình trạng xuất siêu của một nước)

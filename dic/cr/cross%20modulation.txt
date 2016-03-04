@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều biến chéo
+@Lĩnh vực: điện tử & viễn thông
+#biến điệu chéo
+@Lĩnh vực: điện lạnh
+#biến điệu xuyên
+@Lĩnh vực: toán & tin
+#sự biến điệu chéo nhau

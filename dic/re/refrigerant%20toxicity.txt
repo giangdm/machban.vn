@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ (tính) độc hại của môi chất lạnh
+#độc tính môi chất lạnh

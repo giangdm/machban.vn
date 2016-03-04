@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mô phỏng (điều kiện) trong vũ trụ
+#sự mô phỏng (điều kiện trong) vũ trụ

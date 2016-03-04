@@ -1,0 +1,2 @@
+﻿@computational table
+#(Tech) bảng tính toán, tính toán biểu

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đồng hồ chuẩn
+#đồng hồ tham chiếu
+@Lĩnh vực: toán & tin
+#đồng hồ tiêu chuẩn

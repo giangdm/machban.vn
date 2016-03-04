@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dạng nối tiếp bit
+#dạng tuần tự bit

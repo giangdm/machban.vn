@@ -1,0 +1,20 @@
+﻿@shut-down /'ʃʌt,daun/
+*danh từ
+#sự đóng cửa thôi kinh doanh
+@Chuyên ngành kỹ thuật
+#đóng máy
+#dừng máy
+#ngắt
+#sự cắt
+#sự ngừng lò
+@Lĩnh vực: điện lạnh
+#cắt (mạch)
+@Lĩnh vực: toán & tin
+#dừng máy, đóng máy
+@Lĩnh vực: hóa học & vật liệu
+#ngừng làm việc
+@Lĩnh vực: điện
+#sự ngừng máy
+<!-- more -->
+@shut-down
+#(máy tính) dừng máy, đóng máy

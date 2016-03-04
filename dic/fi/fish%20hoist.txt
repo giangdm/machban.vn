@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#máy nâng cá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ao ươm cá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ao ươm cá

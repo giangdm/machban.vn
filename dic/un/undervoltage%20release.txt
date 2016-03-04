@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ ngắt điện áp thiếu
+@Lĩnh vực: điện
+#nhả khi thiếu điện áp

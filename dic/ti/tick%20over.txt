@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chạy không
+@Lĩnh vực: cơ khí & công trình
+#chạy cầm chừng hoặc rất chậm

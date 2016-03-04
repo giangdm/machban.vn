@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#nơi chỗ làm việc
+@Chuyên ngành kỹ thuật
+#bề mặt gia công
+#bề mặt làm việc
+#diện tích làm việc
+#không gian làm việc
+#khu xây dựng
+#vùng làm việc
+@Lĩnh vực: xây dựng
+#khu làm việc
+#khu vực làm việc

@@ -1,0 +1,5 @@
+﻿@two-component
+*tính từ
+#hai thành phần
+@Chuyên ngành kỹ thuật
+#hai thành phần

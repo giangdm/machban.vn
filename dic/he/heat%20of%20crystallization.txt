@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt lượng kết tinh
+@Chuyên ngành kỹ thuật
+#nhiệt kế tinh
+#nhiệt kết tinh
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt tinh thể hóa

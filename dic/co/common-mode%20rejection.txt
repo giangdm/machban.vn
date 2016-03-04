@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự triệt tiêu kiểu chung
+@Lĩnh vực: toán & tin
+#sự loại bỏ kiểu chung

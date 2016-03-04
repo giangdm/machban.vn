@@ -1,0 +1,5 @@
+﻿@Self-liquidating
+#(Econ) Tự thanh toán.
+: Một khoản vay hay lao dịch tài chính khác có rủi ro thấp và có một thủ tục gắn liền về việc kết thúc khoản vay và thanh toán nợ nần.
+@Chuyên ngành kinh tế
+#thanh toán, hoàn trả tự động

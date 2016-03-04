@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#pháp tuyến của một đường mặt
+#pháp tuyến của một mặt phẳng

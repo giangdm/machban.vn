@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#không gian chất hàng
+#không gian chất hàng (kiểu xếp tầng)
+#thể tích chứa

@@ -1,0 +1,8 @@
+﻿@Distribution function
+#(Econ) Chức năng phân phối.
+: Một phần của chính sách chi tiêu và thuế của chính phủ liên quan tới điều chỉnh phân phối thu nhập hoặc của cải trong xã hội.
+@Chuyên ngành kinh tế
+#chức năng phân phối
+@Chuyên ngành kỹ thuật
+#hàm phân bố
+#hàm phân phối

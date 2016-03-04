@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hàng rào năng lượng
+@Lĩnh vực: điện lạnh
+#rào năng lượng
+@Chuyên ngành kỹ thuật
+#hàng rào năng lượng
+@Lĩnh vực: điện lạnh
+#rào năng lượng

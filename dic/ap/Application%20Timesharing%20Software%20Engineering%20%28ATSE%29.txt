@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thiết kế phần mềm chia sẻ thời gian ứng dụng

@@ -1,0 +1,11 @@
+﻿@public service [,pʌblik 'sə:vis]
+*danh từ
+# ngành dân chính (trong chính phủ)
+# dịch vụ công cộng (điện, nước hoặc vận tải)
+@Chuyên ngành kinh tế
+#công sở
+#công vụ
+#dịch vụ công cộng
+#việc nhà nước
+@Chuyên ngành kỹ thuật
+#dịch vụ công cộng

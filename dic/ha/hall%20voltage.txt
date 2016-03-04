@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#hiệu điện thế Hall
+@Chuyên ngành kỹ thuật
+#điện áp Hall

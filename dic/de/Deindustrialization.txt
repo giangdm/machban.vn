@@ -1,0 +1,11 @@
+﻿@Deindustrialization
+#(Econ) Phi công nghiệp hoá.
+: Sự phát triển trong một nền kinh tế quốc dân theo hướng tăng tỷ trọng của nghành dịch vụ trong tổng sản phẩm quốc nội hoặc trong số việc làm trong các ngành dịch vụ.
+@Chuyên ngành kinh tế
+#phi công nghiệp hóa
+#phi công nghiệp hóa (của nước bại trận...)
+#sự giải trừ công nghiệp
+<!-- more -->
+@deindustrialization
+*danh từ
+#xu hướng giảm công nghiệp hoá

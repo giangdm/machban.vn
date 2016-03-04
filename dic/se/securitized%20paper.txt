@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#phiếu khoán được chuyển thành chứng khoán
+#thương phiếu chứng khoán hóa

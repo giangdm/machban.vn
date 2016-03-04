@@ -1,0 +1,2 @@
+﻿@epi-layer
+#(Tech) lớp kéo mặt ngoài = epitaxial layer

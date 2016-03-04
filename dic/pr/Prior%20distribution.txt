@@ -1,0 +1,3 @@
+﻿@Prior distribution
+#(Econ) Phân phối trước.
+: Phân phối xác xuất của một biến số hoặc thống kê, là đặc trưng của của thông tin tiên nghiệm cần kết hợp với thông tin mẫu trong các kỹ thuật Bayes.

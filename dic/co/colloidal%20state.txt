@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#trạng thái keo
+@Lĩnh vực: điện lạnh
+#trạng thái keo (colloid)

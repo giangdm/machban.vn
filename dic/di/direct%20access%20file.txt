@@ -1,0 +1,2 @@
+﻿@direct access file
+#(Tech) tập tin trực truy

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#đổi giá trị ghi trên mặt
+#sự đổi tên gọi
+#sự đổi trị giá ghi trên mặt (tiền tệ)

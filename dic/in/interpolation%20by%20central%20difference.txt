@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép nội quy bằng sai phân giữa
+#phép nội suy bằng sai phân giữa

@@ -1,0 +1,4 @@
+﻿@get ahead
+#tiến lên phía trước
+#tiến bộ, vượt những người khác
+=he has got ahead of all the other boys in his class: nó tiến bộ vượt tất cả các học sinh khác trong lớp

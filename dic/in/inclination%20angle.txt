@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#góc dốc (của khương tuyến)
+#góc xoắn (của khương tuyến)

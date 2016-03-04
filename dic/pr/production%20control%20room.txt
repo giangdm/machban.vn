@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phòng đạo diễn
+@Lĩnh vực: toán & tin
+#phòng điều khiển sản xuất

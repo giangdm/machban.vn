@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mômen động
+@Lĩnh vực: vật lý
+#mômen động lực
+#mômen động lượng
+#mômen xung lượng

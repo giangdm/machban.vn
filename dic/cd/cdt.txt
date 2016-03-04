@@ -1,0 +1,3 @@
+﻿@cdt
+*(viết tắt)
+#giờ ban ngày ở khu vực trung tâm (Central Daylight Time)

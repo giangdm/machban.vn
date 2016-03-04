@@ -1,0 +1,7 @@
+﻿@composite filter
+#(Tech) bộ lọc đa hợp
+@Chuyên ngành kỹ thuật
+#bộ lọc phức
+@Lĩnh vực: toán & tin
+#bộ lọc hỗn hợp
+#bộ lọc phức hợp

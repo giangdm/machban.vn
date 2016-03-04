@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự phân tích hóa học
+@Chuyên ngành kỹ thuật
+#sự phân tích hóa học
+@Lĩnh vực: hóa học & vật liệu
+#phân tích hóa học
+@Lĩnh vực: xây dựng
+#phép phân tích hóa học

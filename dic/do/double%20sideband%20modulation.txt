@@ -1,0 +1,2 @@
+﻿@double sideband modulation
+#(Tech) biến điệu dải biên kép

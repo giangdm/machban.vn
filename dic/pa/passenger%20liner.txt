@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bưu thuyền
+#tàu chở hàng định kỳ
+#tàu khách định kỳ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tầu thủy chở khách

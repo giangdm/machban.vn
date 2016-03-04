@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mã ký hiệu
+#mã tượng trưng
+@Lĩnh vực: toán & tin
+#lệnh ký hiệu

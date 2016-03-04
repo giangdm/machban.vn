@@ -1,0 +1,3 @@
+﻿@Heteroscedasticity
+#(Econ) Hiệp phương sai không đồng nhất.
+: Một bài toán kinh tế lượng trong đó phương sai của sai số trong một mô hình hồi quy không đồng nhất giữa các quan sát.

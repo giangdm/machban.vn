@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#kiểu bài văn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ văn bản

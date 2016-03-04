@@ -1,0 +1,5 @@
+﻿@angular modulation
+#(Tech) biến điệu góc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự biến điệu góc

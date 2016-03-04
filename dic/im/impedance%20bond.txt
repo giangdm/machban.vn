@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#liên kết trở kháng
+@Lĩnh vực: giao thông & vận tải
+#hộp đấu dây trở kháng
+#mối nối trở kháng (ray)

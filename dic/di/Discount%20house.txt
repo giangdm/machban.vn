@@ -1,0 +1,6 @@
+﻿@Discount house
+#(Econ) Hãng chiết khấu
+: Một TRUNG GIAN TÀI CHÍNH trong thị trường tiền tệ London thu về các tài sản ngắn hạn cùng với tiền sẽ trả khi có thông báo ngắn hạn
+@Chuyên ngành kinh tế
+#cửa hàng bán giá hạ
+#hàng chiết khấu

@@ -1,0 +1,5 @@
+﻿@Habit-creating demand function
+#(Econ) Hàm cầu do thói quen.
+: Một HÀM CẦU đối với hàng hoá không lâu bền, cho thấy rằng cầu trong bất kỳ giai đoạn nào cũng có thể bị ảnh hưởng bởi việc mua hàng từ trước.
+@Chuyên ngành kinh tế
+#hàm cầu tạo do tập quán (tiêu dùng)

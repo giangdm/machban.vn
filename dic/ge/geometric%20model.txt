@@ -1,0 +1,2 @@
+﻿@geometric model
+#(Tech) mô hình hình học

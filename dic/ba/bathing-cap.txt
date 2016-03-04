@@ -1,0 +1,6 @@
+﻿@bathing-cap
+#thành ngữ bathing
+#bathing-cap
+#mũ tắm
+#thành ngữ bathing
+=bathing-cap:mũ tắm

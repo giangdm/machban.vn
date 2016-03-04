@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giàn cứng (không biến dạng hình học)
+@Lĩnh vực: xây dựng
+#giàn cứng (không có biến dạng)

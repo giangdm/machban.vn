@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số cản
+#hệ số cản dòng
+#hệ số lực cản
+@Lĩnh vực: toán & tin
+#hệ số trợ lực

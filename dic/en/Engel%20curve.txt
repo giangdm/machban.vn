@@ -1,0 +1,3 @@
+﻿@Engel curve
+#(Econ) Đường Engel.
+: Một đường biểu thị mối quan hệ giữa thu nhập và tiêu dùng của một cá nhân về một hàng hoá cụ thể.

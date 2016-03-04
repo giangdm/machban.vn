@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#chi phí đầu tư ban đầu
+#chi phí vốn
+#chi phí xây dựng cơ bản
+#phí tổn tư bản
+@Chuyên ngành kỹ thuật
+#vốn đầu tư cơ bản
+@Lĩnh vực: điện tử & viễn thông
+#giá thành đầu tư

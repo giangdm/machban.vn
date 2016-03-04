@@ -1,0 +1,3 @@
+﻿@Indirect least squares (ILS)
+#(Econ) Bình phương tối thiểu gián tiếp.
+: Một cách ước lượng các tham số của cac PHƯƠNG TRÌNH ĐÔNG THỜI tránh được SỰ CHỆCH CỦA CÁC PHƯƠNG TRÌNH ĐỒNG THỜI.

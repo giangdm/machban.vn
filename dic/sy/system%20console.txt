@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bàn giao tiếp hệ thống
+@Lĩnh vực: điện tử & viễn thông
+#bàn vận hành hệ thống

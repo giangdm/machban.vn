@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thang Fahrenheit tuyệt đối
+@Lĩnh vực: điện lạnh
+#thang Rankine

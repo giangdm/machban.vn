@@ -1,0 +1,9 @@
+﻿@bottom line
+*danh từ
+#điểm mấu chốt, điểm cốt yếu
+@Chuyên ngành kinh tế
+#điểm cốt yếu
+#kết quả cuối cùng
+#lãi ròng (số cuối dòng trong bảng kết toán lời lỗ cuối năm)
+@Chuyên ngành kỹ thuật
+#dòng phía dưới đáy

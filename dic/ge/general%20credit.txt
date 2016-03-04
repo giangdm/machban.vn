@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thư tín dụng chung
+#thư tín dụng ngỏ
+#thư tín dụng tổng quát

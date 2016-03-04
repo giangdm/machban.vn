@@ -1,0 +1,3 @@
+﻿@square-matrix
+*danh từ
+#(toán học) ma trận vuông

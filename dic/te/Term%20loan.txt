@@ -1,0 +1,8 @@
+﻿@Term loan
+#(Econ) Khoản vay kỳ hạn.
+: Khoản cho vay ngân hàng trong một số năm cố định, thường là ba đến năm năm hoặc lâu hơn, với mức lãi xuất cố định, và thường được trả góp thành các phần nhỏ trải dài trong suốt một thời kỳ.
+@Chuyên ngành kinh tế
+#khoản cho vay định kỳ
+#khoản cho vay định kỳ, khoản cho vay có kỳ hạn
+#khoản vay trả dần
+#tiền vay theo kỳ hạn

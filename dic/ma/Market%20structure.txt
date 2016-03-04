@@ -1,0 +1,5 @@
+﻿@Market structure
+#(Econ) Cơ cấu thị trường.
+@Chuyên ngành kinh tế
+#cấu trúc thị trường
+#cơ cấu thị trường

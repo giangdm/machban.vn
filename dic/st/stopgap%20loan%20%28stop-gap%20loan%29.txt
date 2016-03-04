@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#khoản vay có tính quá độ
+#khoản vay tạm, chuyển tiếp, lấp trống

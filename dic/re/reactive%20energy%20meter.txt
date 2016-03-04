@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công tơ năng lượng phản kháng
+@Lĩnh vực: điện
+#công tơ phản kháng (vô công)

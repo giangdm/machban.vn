@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều khiển đồng chỉnh
+@Lĩnh vực: xây dựng
+#nút điều chỉnh đầu từ (vào đường ghi của băng)

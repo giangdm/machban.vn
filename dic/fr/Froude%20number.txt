@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#số Froude
+@Lĩnh vực: điện lạnh
+#tiêu chuẩn Froude

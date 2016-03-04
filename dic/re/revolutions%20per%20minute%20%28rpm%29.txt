@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#vòng trên phút
+@Chuyên ngành kỹ thuật
+#số vòng quay trong một phút

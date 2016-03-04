@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#van an toàn
+#van giảm áp
+#van giản áp
+#van rẽ hướng
+#van xả áp
+#van xả áp an toàn
+#van xả hơi
+@Lĩnh vực: điện lạnh
+#van chiết áp
+@Lĩnh vực: ô tô
+#van giảm áp (an toàn)
+@Lĩnh vực: cơ khí & công trình
+#van xả áp lực

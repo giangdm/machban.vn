@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn dây dạng thanh
+@Lĩnh vực: điện lạnh
+#cuộn thanh dây

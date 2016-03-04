@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bánh lái
+#tay lái
+#vô lăng lái xe
+@Lĩnh vực: giao thông & vận tải
+#bánh lái (đóng tàu)
+@Lĩnh vực: ô tô
+#vô lăng (cơ cấu lái)
+@Lĩnh vực: xây dựng
+#vô lăng dẫn hướng

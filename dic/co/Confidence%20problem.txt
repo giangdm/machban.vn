@@ -1,0 +1,3 @@
+﻿@Confidence problem
+#(Econ) Vấn đề lòng tin.
+: Một trong những vấn đề của hệ thống tiền tệ quốc tế nảy sinh khi người ta cho rằng một đồng tiền sẽ bị phá giá, vốn ngắn hạn sau đó sẽ bị rút khỏi nước đó, xuất hiện sự mất lòng tin vào đồng tiền của nước đó.

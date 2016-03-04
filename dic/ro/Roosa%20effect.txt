@@ -1,0 +1,5 @@
+﻿@Roosa effect
+#(Econ) Hiệu ứng Roosa.
+: Cụm thuật ngữ này trước đây dùng để chỉ điều mà ngày nay thường được gọi là HIỆU ỨNG KHOÁ. Nó được mang tên chủ ngân hàng - Nhà kinh tế học Robert V.Roosa, người đầu tiên ủng hộ ý nghĩa của nó.
+@Chuyên ngành kinh tế
+#Hiệu ứng Roosa

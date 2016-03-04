@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự thu hồi nhịp đồng hồ
+#sự thu hồi nhịp thời gian

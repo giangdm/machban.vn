@@ -1,0 +1,2 @@
+﻿@autorepeat key
+#phím lặp tự động

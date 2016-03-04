@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#phân tích tần số
+@Lĩnh vực: toán & tin
+#sự phân tích tần số

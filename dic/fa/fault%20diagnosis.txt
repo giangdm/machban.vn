@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#sự chuẩn đoán hư hỏng
+@Lĩnh vực: toán & tin
+#sự dự đoán đại số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#sự chuẩn đoán hư hỏng
+@Lĩnh vực: toán & tin
+#sự dự đoán đại số

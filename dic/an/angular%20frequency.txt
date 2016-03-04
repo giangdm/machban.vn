@@ -1,0 +1,2 @@
+﻿@angular frequency
+#(Tech) tần số góc

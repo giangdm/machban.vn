@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng hông
+#biến dạng ngang
+#biến dạng trên phương ngang
+@Lĩnh vực: xây dựng
+#biến dạng bên
+@Lĩnh vực: cơ khí & công trình
+#sự biến dạng ngang
+@Chuyên ngành kỹ thuật
+#biến dạng hông
+#biến dạng ngang
+#biến dạng trên phương ngang
+@Lĩnh vực: xây dựng
+#biến dạng bên
+@Lĩnh vực: cơ khí & công trình
+#sự biến dạng ngang

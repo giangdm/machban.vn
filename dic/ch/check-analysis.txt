@@ -1,0 +1,3 @@
+﻿@check-analysis
+*danh từ
+#sự phân tích đối chiếu để kiểm tra

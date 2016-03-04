@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#gian máy
+@Lĩnh vực: hóa học & vật liệu
+#buồng máy phát
+@Lĩnh vực: điện lạnh
+#trạm cứu hỏa
+@Chuyên ngành kỹ thuật
+#gian máy
+@Lĩnh vực: hóa học & vật liệu
+#buồng máy phát
+@Lĩnh vực: điện lạnh
+#trạm cứu hỏa

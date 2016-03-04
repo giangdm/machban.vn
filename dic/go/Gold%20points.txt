@@ -1,0 +1,6 @@
+﻿@Gold points
+#(Econ) Các điểm vàng.
+: Các mức tỷ giá trao đổi mà tại đó khi một đồng tiền ở một BẢN VỊ VÀNG, thì việc mua vàng từ Ngân hàng trung ương và xuất khẩu vàng (điểm xuất khẩu vàng) hay nhập khẩu và bán nó cho ngân hàng trung ương (điểm nhập khẩu vàng) là có lợ nhuận.
+@Chuyên ngành kinh tế
+#điểm (vận chuyển) vàng
+#điểm vàng

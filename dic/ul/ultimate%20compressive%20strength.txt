@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn bền nén
+@Lĩnh vực: xây dựng
+#cường độ chịu nén giới hạn

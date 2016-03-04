@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#động cơ có vành trượt
+@Lĩnh vực: cơ khí & công trình
+#động cơ điện (không đồng bộ) có vành trượt

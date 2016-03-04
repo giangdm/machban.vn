@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ số tiêu hao nhiệt không đều tính theo giờ

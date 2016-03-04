@@ -1,0 +1,2 @@
+﻿@automatic system reconfiguration
+#(Tech) tự động tái cấu hình hệ thống

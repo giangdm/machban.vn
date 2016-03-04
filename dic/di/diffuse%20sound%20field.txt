@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#trường âm khuếch tán
+@Lĩnh vực: điện lạnh
+#trường khuếch tán âm

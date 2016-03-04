@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chế độ cân bằng (về sự hoạt động của hệ thống)
+@Lĩnh vực: xây dựng
+#sự cân bằng hệ thống (thoát nước)
+#trạng thái cân bằng (của một hệ cơ học)

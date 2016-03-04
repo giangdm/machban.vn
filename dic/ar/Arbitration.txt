@@ -1,0 +1,22 @@
+﻿@Arbitration
+#(Econ) Trọng tài
+: Sự can thiệp của một bên thứ ba vào một TRANH CHẤP VỀ CÔNG NGHIỆP theo yêu cầu của các bên tranh cãi và đưa ra những gợi ý cho việc giải quyết tranh chấp, sau đó sẽ rằng buộc cả hai bên (Xem CONCILI-ATION, FINAL OFFER ARBITRATION).
+<!-- more -->
+@arbitration /,ɑ:bi'treiʃn/
+*danh từ
+#sự phân xử, sự làm trọng tài phân xử
+#arbitration of exchange
+#sự quyết định giá hối đoái
+@Chuyên ngành kinh tế
+#làm trọng tài phân sử
+#phân xử
+#sự trọng tài
+#trọng tài
+#xét định
+@Chuyên ngành kỹ thuật
+#cơ quan trọng tài
+#sự giám định
+@Lĩnh vực: xây dựng
+#phân xử
+@Lĩnh vực: toán & tin
+#sự phân xử

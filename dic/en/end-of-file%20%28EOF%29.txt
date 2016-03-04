@@ -1,0 +1,2 @@
+﻿@end-of-file (EOF)
+#(Tech) kết thúc tập tin, đầu cuối tập tin

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giấy chứng nhận lưu kho
+@Chuyên ngành kinh tế
+#biên lai kho
+#biên nhận lưu kho
+#giấy biên nhận lưu kho
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#phiếu nhập kho

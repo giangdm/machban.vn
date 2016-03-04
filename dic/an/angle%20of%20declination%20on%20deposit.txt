@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#góc cắm của vỉa
+#góc dốc của khoáng sàng

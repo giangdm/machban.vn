@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bìa nhị phân theo hàng
+#phiếu nhị phân theo hàng

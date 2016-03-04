@@ -1,0 +1,8 @@
+﻿@event handler
+#(Tech) thủ trình cho sự biến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ quản lý sự kiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ quản lý sự kiện

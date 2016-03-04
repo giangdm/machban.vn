@@ -1,0 +1,2 @@
+﻿@brittle program
+#(Tech) chương trình phụ thuộc máy

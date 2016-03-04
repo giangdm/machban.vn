@@ -1,0 +1,3 @@
+﻿@Hicks-Hansen diagram
+#(Econ) Biểu đồ Hicks-Hansen.
+: Xem IS - LM DIAGRAM.

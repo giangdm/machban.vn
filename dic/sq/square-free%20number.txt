@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#số không chính phương
+@Lĩnh vực: toán & tin
+#số không bình phương

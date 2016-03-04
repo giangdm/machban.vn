@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kiểu analog
+#kiểu tương tự
+#phương thức analog
+#phương thức tương tự

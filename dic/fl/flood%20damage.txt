@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#nạn lũ
+@Lĩnh vực: môi trường
+#nạn hồng thủy
+@Lĩnh vực: cơ khí & công trình
+#sự thiệt hại do lũ
+@Chuyên ngành kỹ thuật
+#nạn lũ
+@Lĩnh vực: môi trường
+#nạn hồng thủy
+@Lĩnh vực: cơ khí & công trình
+#sự thiệt hại do lũ

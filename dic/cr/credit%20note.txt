@@ -1,0 +1,12 @@
+﻿@credit note
+*danh từ
+#phiếu cho phép người mua được đổi món hàng khác ngang giá với món hàng mà mình trả lại cho người bán
+@Chuyên ngành kinh tế
+#biên lục tài khoản có
+#giấy báo có
+#giấy báo thanh toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#giấy báo có
+@Lĩnh vực: điện tử & viễn thông
+#phiếu tín dụng

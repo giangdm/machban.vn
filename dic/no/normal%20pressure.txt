@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#áp lực chuẩn
+#áp suất bình thường
+@Lĩnh vực: cơ khí & công trình
+#áp lực pháp tuyến
+@Lĩnh vực: xây dựng
+#áp lực thông thường
+@Lĩnh vực: vật lý
+#áp suất chuẩn
+#áp suất pháp tuyến

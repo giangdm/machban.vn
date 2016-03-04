@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khoảng không trên sản phẩm (trong đồ hộp)
+@Chuyên ngành kỹ thuật
+#lớp không khí ở giữa

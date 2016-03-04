@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thang máy chở hành khách
+#thang máy chở người
+#thang máy hành khách
+@Lĩnh vực: giao thông & vận tải
+#thang máy trở khách

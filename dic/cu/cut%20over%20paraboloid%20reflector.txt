@@ -1,0 +1,2 @@
+﻿@cut over paraboloid reflector
+#(Tech) cái phản xạ parabôloit cụt

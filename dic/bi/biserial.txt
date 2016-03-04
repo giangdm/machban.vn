@@ -1,0 +1,5 @@
+﻿@biserial
+#hai chuỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hai chuỗi

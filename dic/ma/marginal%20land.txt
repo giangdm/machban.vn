@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#đất có lợi suất thấp
+#ruộng đất canh tác biên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mảnh đất ở rìa

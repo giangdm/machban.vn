@@ -1,0 +1,5 @@
+﻿@Iso-product curve
+#(Econ) Đường đẳng sản phẩm.
+: (Còn được gọi là đường bàng quan của người sản xuất hay đường đẳng lượng). Một đường đẳng sản phẩm là tập hợp các tổ hợp của hai hay nhiều ĐẦU VÀO tạo ra cùng một mức SẢN LƯỢNG.
+@Chuyên ngành kinh tế
+#khúc tuyến đẳng sản phẩm

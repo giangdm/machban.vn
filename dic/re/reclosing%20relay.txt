@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#rơle đóng lại
+@Lĩnh vực: điện lạnh
+#rơle tự đóng

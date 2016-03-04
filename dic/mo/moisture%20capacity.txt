@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#độ ẩm
+#độ ngấm nước
+#hàm lượng nước
+@Chuyên ngành kỹ thuật
+#độ ẩm
+#độ ngậm nước
+#lượng ẩm
+@Lĩnh vực: điện lạnh
+#độ chứa ẩm
+#dung ẩm
+#khả năng hút ẩm
+@Lĩnh vực: xây dựng
+#độ chứa nước
+@Lĩnh vực: cơ khí & công trình
+#hàm lượng nước

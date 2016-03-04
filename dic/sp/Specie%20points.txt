@@ -1,0 +1,5 @@
+﻿@Specie points
+#(Econ) ĐIểm chảy vàng.
+: Là các mức TỶ GIÁ HỐI ĐOÁI của một đồng tiền theo chế độ BẢN VỊ VÀNG mà tại đó việc đưa vàng vào và ra khỏi quốc gia đều sinh lợi.
+@Chuyên ngành kinh tế
+#điểm vàng

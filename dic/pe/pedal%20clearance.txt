@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#khoảng chạy của bàn đạp
+#khoảng hẫng của bàn đạp
+@Lĩnh vực: ô tô
+#khoảng hở bàn đạp

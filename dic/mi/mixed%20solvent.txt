@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#dung môi hỗn hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#dung môi hỗn hợp

@@ -1,0 +1,7 @@
+﻿@Dirty float
+#(Econ) Thả nổi (kiểu) bùn; Thả nổi không hoàn toàn
+: Một loại hình TỶ GIÁ HỐI ĐOÁI THẢ NỔI nhưng không được hoàn toàn tự do, bởi vì các NGÂN HÀNG TRUNG ƯƠNG thỉnh thoảng lại can thiệp nhằm làm cho tỷ giá lệch khỏi tỷ giá của thị trường tự do.
+@Chuyên ngành kinh tế
+#sự thả nổi không tự do (tỉ giá hối đoái)
+#thả nổi không tự do
+#thả nổi trá hình

@@ -1,0 +1,5 @@
+﻿@isotone (order-preserving)
+#bảo toàn thứ tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảo toàn thứ tự

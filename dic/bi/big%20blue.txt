@@ -1,0 +1,8 @@
+﻿@big blue
+#Tên lóng của công ty máy tính IBM
+#Loại máy tính lớn của công ty máy tính IBM
+@Chuyên ngành kinh tế
+#tên gọi biểu tượng công ty IBM
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chỉ công ty IBM

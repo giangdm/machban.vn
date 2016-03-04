@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đặc tính ngắn mạch
+@Lĩnh vực: điện lạnh
+#đặc tính nhắn mạch

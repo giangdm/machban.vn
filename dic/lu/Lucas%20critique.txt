@@ -1,0 +1,6 @@
+﻿@Lucas critique
+#(Econ) Luận điểm phê phán của Lucas
+: Bài phê bình về việc sử dụng mô hình kinh tế lượng để đánh giá kết quả của các quyết định chính sách vì các tham số ước lượng ngầm bao hàm ảnh hưởng của chính sách.
+@Chuyên ngành kinh tế
+#luận điểm Lucas
+#Sự phê phán Lucas

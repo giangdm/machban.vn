@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tỷ số tốc độ đầu cánh
+@Lĩnh vực: điện
+#tỷ số tốc độ đầu mút

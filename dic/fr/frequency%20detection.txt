@@ -1,0 +1,2 @@
+﻿@frequency detection
+#(Tech) sự phát hiện tần số

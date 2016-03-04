@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dẫn nhiệt
+#hệ số dẫn nhiệt
+@Lĩnh vực: vật lý
+#độ khuếch tán nhiệt

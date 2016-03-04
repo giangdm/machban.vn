@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kinh tế
+#bảng dự đoán điện toán hóa (xử lý bằng máy điện toán)

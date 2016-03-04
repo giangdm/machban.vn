@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ hút ẩm
+#độ liên kết nước
+#tính hút ẩm

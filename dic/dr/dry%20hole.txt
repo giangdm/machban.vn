@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch ít lãi
+#giếng dầu cằn cỗi
+@Chuyên ngành kỹ thuật
+#lỗ khô
+#lỗ khoan khô
+@Lĩnh vực: hóa học & vật liệu
+#giếng khoan khô

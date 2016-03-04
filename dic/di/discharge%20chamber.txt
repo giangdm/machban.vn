@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#buồng xả
+@Lĩnh vực: điện lạnh
+#buồng đẩy
+#buồng đẩy [xả]
+@Lĩnh vực: cơ khí & công trình
+#buồng tháo
+@Lĩnh vực: hóa học & vật liệu
+#buồng tháo liệu

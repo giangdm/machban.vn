@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch kỳ hạn, hoãn kỳ
+#sự mua bán giao sau (chứng khoán)

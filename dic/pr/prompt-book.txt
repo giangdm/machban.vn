@@ -1,0 +1,3 @@
+﻿@prompt-book /prompt-book/
+*danh từ
+#(sân khấu) kịch bản dùng cho người nhắc

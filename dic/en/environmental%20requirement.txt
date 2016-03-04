@@ -1,0 +1,8 @@
+﻿@environmental requirement
+#(Tech) yêu cầu về môi trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#yêu cầu môi trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#yêu cầu môi trường

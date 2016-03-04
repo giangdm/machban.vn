@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quy tắc cưỡng bức
+#quy tắc ràng buộc

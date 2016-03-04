@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#bộ chương trình
+#phần mềm ứng dụng
+@Chuyên ngành kỹ thuật
+#phần mềm đóng gói
+@Lĩnh vực: điện lạnh
+#bộ chương trình phần mềm
+@Lĩnh vực: điện tử & viễn thông
+#bộ phần mềm
+@Lĩnh vực: toán & tin
+#bộ phận mềm
+#gói phần mềm

@@ -1,0 +1,7 @@
+﻿@effective instruction
+#(Tech) chỉ thị hữu hiệu, chỉ thị thực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chỉ thị thực
+#lệnh hiệu dụng
+#lệnh thực

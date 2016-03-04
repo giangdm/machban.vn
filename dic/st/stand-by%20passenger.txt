@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#hành khách chờ chuyến bay
+#hành khách trên danh sách chờ đi (máy bay)

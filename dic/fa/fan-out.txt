@@ -1,0 +1,10 @@
+﻿@fan-out
+#(Tech) (lượng) phân nhánh ra
+@Chuyên ngành kỹ thuật
+#xòe ra
+@Lĩnh vực: toán & tin
+#tín hiệu ra
+@Chuyên ngành kỹ thuật
+#xòe ra
+@Lĩnh vực: toán & tin
+#tín hiệu ra

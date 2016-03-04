@@ -1,0 +1,3 @@
+﻿@One sector growth model
+#(Econ) Mô hình tăng trưởng một khu vực.
+: Là một mô hình được sử dụng trong thuyết tăng trưởng, trong đó một sản phẩm đồng nhất duy nhất được sản xuất ra và đồng thời có hai tác dụng tương đương nhau - tác dụng như một loại hàng hoá tiêu dùng và tác dụng như một loại hàng hoá đầu tư.

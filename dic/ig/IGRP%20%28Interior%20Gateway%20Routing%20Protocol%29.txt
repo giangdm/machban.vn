@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức định tuyến cổng nội bộ
+#giao thức định tuyến cổng nối trong

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#bộ điều chỉnh trực tiếp (tự động)
+@Lĩnh vực: điện lạnh
+#bộ tự điều chỉnh

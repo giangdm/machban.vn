@@ -1,0 +1,6 @@
+﻿@Eligible paper
+#(Econ) Giấy tờ đủ tiêu chuẩn chiết khấu.
+: Các TÀI SẢN tài chính mà NGÂN HÀNG TRUNG ƯƠNG sẵn sàng mua (tái chiết khấu) hay chấp nhận làm vật thế chấp cho các khoản vay, trong một số trường hợp đặc biệt, và thường là khi giao dịch với các cơ quan đã đựoc định rõ.
+@Chuyên ngành kinh tế
+#phiếu khoán hợp thức (được tái chiết khấu)
+#tín phiếu đủ tiêu chuẩn (để tái chiết khấu)

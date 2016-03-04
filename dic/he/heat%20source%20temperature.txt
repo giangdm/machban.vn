@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ nguồn nhiệt
+@Lĩnh vực: điện lạnh
+#nhiệt độ của nguồn nhiệt

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ dẫn động
+#mô tơ kéo
+@Lĩnh vực: cơ khí & công trình
+#động cơ điều khiển

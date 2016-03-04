@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ngày hạ chí
+@Lĩnh vực: điện lạnh
+#điểm hạ chí
+@Lĩnh vực: toán & tin
+#hạ chí

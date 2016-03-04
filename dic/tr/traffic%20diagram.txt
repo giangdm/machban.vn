@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lược đồ lưu thông
+@Lĩnh vực: toán & tin
+#giản đồ lưu lượng
+@Lĩnh vực: giao thông & vận tải
+#lược đồ giao thông
+@Lĩnh vực: xây dựng
+#sơ đồ vận tải

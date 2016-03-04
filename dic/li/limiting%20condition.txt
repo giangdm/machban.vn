@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#chế độ khai thác
+#điều kiện giới hạn
+#điều kiện làm việc
+#trạng thái giới hạn
+@Lĩnh vực: toán & tin
+#chế độ sử dụng
+@Chuyên ngành kỹ thuật
+#chế độ khai thác
+#điều kiện giới hạn
+#điều kiện làm việc
+#trạng thái giới hạn
+@Lĩnh vực: toán & tin
+#chế độ sử dụng

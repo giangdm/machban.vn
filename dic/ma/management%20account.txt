@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#báo cáo kế toán quản lý
+#mậu dịch có kế hoạch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trương mục quản lý

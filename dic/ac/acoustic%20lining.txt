@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp bọc cách âm
+@Lĩnh vực: xây dựng
+#lớp ốp trang âm

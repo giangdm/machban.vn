@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị thu chất béo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ phận tách mỡ
+#thùng tách mỡ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ phận tách mỡ
+#thùng tách mỡ

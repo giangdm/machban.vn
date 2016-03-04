@@ -1,0 +1,7 @@
+﻿@BIS
+#(Econ) Ngân hàng thanh toán quốc tế
+: Xem BANK FOR INTERNATIONAL SETTLEMENTS
+<!-- more -->
+@bis /bis/
+*phó từ
+#lát nữa, lần thứ hai

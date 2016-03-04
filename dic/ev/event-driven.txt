@@ -1,0 +1,2 @@
+﻿@event-driven
+#(Tech) dựa theo sự biến

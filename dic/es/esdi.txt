@@ -1,0 +1,2 @@
+﻿@esdi
+#Một tiêu chuẩn giao diện dùng cho các ổ đựa cứng

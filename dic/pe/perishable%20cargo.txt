@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#hàng chở dễ hỏng (như thịt, cá tươi, rau quả ...)
+#hàng chở dễ hỏng (như thịt, cá tươi, rau quả)

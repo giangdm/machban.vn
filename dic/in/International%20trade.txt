@@ -1,0 +1,10 @@
+﻿@International trade
+#(Econ) Thương mại quốc tế.
+: Trao đổi buôn bán hàng hoá và dịch vụ giữa các quốc gia.
+@Chuyên ngành kinh tế
+#buôn bán quốc tế
+#mậu dịch quốc tế
+#thương mại quốc tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mậu dịch quốc tế

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phiếu đóng gói
+#phiếu đóng thùng
+#phiếu liệt kê kiện hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#danh sách đóng gói

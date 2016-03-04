@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thiết bị mô hình hóa
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị mô phỏng

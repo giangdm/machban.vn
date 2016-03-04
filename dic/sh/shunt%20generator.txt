@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phát điện mạch rẽ
+@Lĩnh vực: điện
+#máy phát (điện) kiểu kích từ song song
+@Lĩnh vực: điện lạnh
+#máy phát điện song song

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phát điện xoay chiều
+@Lĩnh vực: toán & tin
+#máy giao diện

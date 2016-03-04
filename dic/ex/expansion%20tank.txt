@@ -1,0 +1,32 @@
+﻿@Chuyên ngành kỹ thuật
+#bể cân bằng
+#bể điều chỉnh
+#bình giãn khí
+#bình giãn nở
+#bình nước phụ
+#bình thoát hơi
+@Lĩnh vực: xây dựng
+#bể giãn nở, bình giãn nở
+#thùng nở
+@Lĩnh vực: điện lạnh
+#bình dãn nở
+@Lĩnh vực: vật lý
+#bình giảm áp
+@Lĩnh vực: ô tô
+#thùng chứa giảm áp
+@Chuyên ngành kỹ thuật
+#bể cân bằng
+#bể điều chỉnh
+#bình giãn khí
+#bình giãn nở
+#bình nước phụ
+#bình thoát hơi
+@Lĩnh vực: xây dựng
+#bể giãn nở, bình giãn nở
+#thùng nở
+@Lĩnh vực: điện lạnh
+#bình dãn nở
+@Lĩnh vực: vật lý
+#bình giảm áp
+@Lĩnh vực: ô tô
+#thùng chứa giảm áp

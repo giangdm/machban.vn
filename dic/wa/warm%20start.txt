@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khởi ấm
+@Lĩnh vực: toán & tin
+#khởi động nóng
+#sự khởi động lại mềm
+#sự khởi động nóng

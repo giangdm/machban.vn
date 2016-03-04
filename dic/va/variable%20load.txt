@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng thay đổi
+@Lĩnh vực: toán & tin
+#tải biến đổi
+@Lĩnh vực: xây dựng
+#tải trọng biến thiên

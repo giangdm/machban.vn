@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mức bó
+#mức gói
+#mức khối dữ liệu

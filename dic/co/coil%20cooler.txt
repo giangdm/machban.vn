@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phòng lạnh kiểu xoắn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dàn lạnh ống xoắn
+#giàn lạnh ống xoắn

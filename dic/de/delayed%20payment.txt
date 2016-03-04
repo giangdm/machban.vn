@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thanh toán kéo dài
+#trả chậm
+@Chuyên ngành kỹ thuật
+#chậm thanh toán

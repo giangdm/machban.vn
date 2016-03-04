@@ -1,0 +1,2 @@
+﻿@ac (alternating current) servo motor
+#(Tech) động cơ trợ động điện xoay chiều

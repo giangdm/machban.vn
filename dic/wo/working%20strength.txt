@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#cường độ làm việc
+@Chuyên ngành kỹ thuật
+#độ bền làm việc
+#độ bền tính toán

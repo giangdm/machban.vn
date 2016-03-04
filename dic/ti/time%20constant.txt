@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hằng số thời gian
+@Lĩnh vực: toán & tin
+#số thời gian

@@ -1,0 +1,3 @@
+﻿@Test discount rate
+#(Econ) Lãi xuất chiết khấu kiểm định.
+: Mức lãi xuất mà một thời được dùng trong việc thẩm định ĐẦU TƯ TƯ BẢN bởi các ngành công nghiệp quốc hữu hoá ở Anh, sử dụng kỹ thuật chiết khấu luồng tiền. Tiêu trái này đã trở nên lạc hậu trong một số năm. Do vậy, người ta đã chuyển sự chú ý sang các phương pháp khác để xem xét chi phí vốn trong các quyết định đầu tư, và chính phủ đã yêu cầu các ngành công nghiệp quốc hữu hoá có được lợi tức trước thuế là 5% (8% kể từ năm 1989) đối với tất cả các khoản đầu tư mới (chứ không phải là đối với các dự án đơn lẻ).

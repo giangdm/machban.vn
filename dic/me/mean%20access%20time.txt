@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian truy nhập trung bình
+@Lĩnh vực: điện tử & viễn thông
+#thời gian đi vào trung bình
+@Lĩnh vực: toán & tin
+#thời gian truy cập trung bình

@@ -1,0 +1,5 @@
+﻿@Economic community
+#(Econ) Cộng đồng kinh tế.
+: Một liên minh kinh tế giữa các nước có biểu thuế quan và chính sách thương mại chung đã dỡ bỏ các hạn chế đối với thương mại giữa các nước thành viên.
+@Chuyên ngành kinh tế
+#cộng đồng kinh tế

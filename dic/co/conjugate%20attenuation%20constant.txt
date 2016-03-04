@@ -1,0 +1,2 @@
+﻿@conjugate attenuation constant
+#(Tech) hằng số suy giảm liên hợp

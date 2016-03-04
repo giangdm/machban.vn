@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đứt dãy (theo) mặt lớp
+#đứt gãy thuận vỉa
+#phay theo vỉa

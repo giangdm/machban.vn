@@ -1,0 +1,2 @@
+﻿@FF (Form Feed)
+#(Tech) ký tự tiếp mẫu (giấy in)

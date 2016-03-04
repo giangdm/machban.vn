@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#van sử dụng màng chắn
+@Lĩnh vực: xây dựng
+#van kiểu màng
+#van màng chắn
+@Lĩnh vực: cơ khí & công trình
+#van màng
+@Lĩnh vực: hóa học & vật liệu
+#van màng ngăn

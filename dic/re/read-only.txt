@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bộ nhớ chỉ đọc
+#bộ nhớ cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chỉ đọc ra

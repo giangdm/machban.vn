@@ -1,0 +1,13 @@
+﻿@overmeasure
+*danh từ
+#lượng dư
+#sự thừa mứa
+#số lượng quá nhiều
+@Chuyên ngành kỹ thuật
+#độ dôi
+#sai số cho phép
+#sự quá cỡ
+#sự quá kích thước
+@Lĩnh vực: cơ khí & công trình
+#lượng thừa (gia công)
+#sự quá khổ

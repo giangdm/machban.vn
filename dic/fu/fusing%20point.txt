@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm nóng chảy
+#nhiệt độ nóng chảy
+@Lĩnh vực: điện lạnh
+#điểm nhiệt hạch

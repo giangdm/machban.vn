@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đốt nóng bằng chất khí
+#đốt nóng bằng khí
+#sưởi bằng ga
+#sưởi bằng khí
+@Lĩnh vực: xây dựng
+#sự sưởi ấm bằng hơi
+#sự sưởi bằng khí đốt
+@Lĩnh vực: vật lý
+#sưởi ấm bằng khí đốt

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#lượng hao hớt của hàng tồn trữ
+#sự giảm giá trị
+#sự hư hao của hàng hóa

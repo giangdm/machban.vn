@@ -1,0 +1,10 @@
+﻿@antenna gain
+#(Tech) gia lượng ăngten = aerial gain
+@Chuyên ngành kỹ thuật
+#độ tăng ích ăng ten
+@Lĩnh vực: toán & tin
+#độ lợi ăng ten
+@Lĩnh vực: xây dựng
+#độ lợi của ăng ten
+@Lĩnh vực: điện lạnh
+#hệ số khuếch đại ăng ten

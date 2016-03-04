@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự bay hơi bề mặt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự bay hơi bề mặt
+@Lĩnh vực: cơ khí & công trình
+#sự bốc hơi bề mặt

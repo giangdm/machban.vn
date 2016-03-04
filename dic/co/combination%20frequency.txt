@@ -1,0 +1,2 @@
+﻿@combination frequency
+#(Tech) tần số tổ hợp

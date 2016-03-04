@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tụ điện ống
+@Lĩnh vực: điện lạnh
+#tụ hình ống

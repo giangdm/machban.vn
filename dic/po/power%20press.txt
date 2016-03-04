@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy ép
+#máy ép cơ khí
+@Lĩnh vực: hóa học & vật liệu
+#máy ép cơ học

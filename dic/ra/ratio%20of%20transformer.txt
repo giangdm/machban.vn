@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tỷ số biến áp
+#tỷ số vòng dây (cái) điện

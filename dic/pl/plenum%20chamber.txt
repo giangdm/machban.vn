@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#phòng điều hòa không khí
+#phòng quạt khí nén
+#phòng trộn khí
+@Chuyên ngành kỹ thuật
+#buồng thông gió
+#lỗ không khí salon
+@Lĩnh vực: xây dựng
+#buồng phân phối không khí
+#buồng trộn không khí
+@Lĩnh vực: ô tô
+#buồng tăng áp lực gió

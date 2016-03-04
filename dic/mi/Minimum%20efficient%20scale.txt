@@ -1,0 +1,6 @@
+﻿@Minimum efficient scale
+#(Econ) Quy mô hiệu quả tối thiểu.
+: L:à quy mô của một nhà máy hoặc doanh nghiệp mà tại đó các chi phí trung bình dài hạn đạt được ở mức tối thiểu.
+@Chuyên ngành kinh tế
+#lãi suất cho vay tối thiểu
+#quy mô có hiệu quả tối thiểu

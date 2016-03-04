@@ -1,0 +1,7 @@
+﻿@absorption coefficient
+#(Tech) hệ số hấp thu
+@Chuyên ngành kỹ thuật
+#chỉ số hấp thu
+#hệ số hấp thu
+#hệ số hấp thụ
+#hệ số hút thu

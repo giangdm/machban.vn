@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#mức cho vay dự phòng
+#mức tín dụng dự phòng
+#mức tín dụng hỗ trợ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp dự trữ

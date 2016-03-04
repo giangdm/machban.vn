@@ -1,0 +1,2 @@
+﻿@grid plate transconductance
+#(Tech) độ xuyên dẫn bản cực lưới

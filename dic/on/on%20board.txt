@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#đã bốc hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#gắn trong máy
+#thuộc trên tấm mạch
+@Lĩnh vực: giao thông & vận tải
+#thuộc trên tàu
+#trên mạng tàu

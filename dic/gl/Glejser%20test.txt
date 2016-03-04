@@ -1,0 +1,3 @@
+﻿@Glejser test
+#(Econ) Kiểm định Glejser.
+: Phép kiểm định được sử dụng để nhận dạng vấn đề phương sai KHÔNG THUẦN NHẤT trong Số dư của một phương trình hồi quy.

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hệ số sử dụng thiết bị
+@Chuyên ngành kỹ thuật
+#hệ số công suất

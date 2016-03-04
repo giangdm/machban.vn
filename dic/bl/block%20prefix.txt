@@ -1,0 +1,5 @@
+﻿@block prefix
+#(Tech) tiếp đầu khối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tiền tố khối

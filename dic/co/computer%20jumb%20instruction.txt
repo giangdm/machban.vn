@@ -1,0 +1,2 @@
+﻿@computer jumb instruction
+#(Tech) chỉ thị bước nhảy có điều kiện

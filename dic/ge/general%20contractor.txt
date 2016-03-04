@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#chủ công trình
+#người thầu toàn bộ
+@Chuyên ngành kỹ thuật
+#nhà thầu chính
+@Lĩnh vực: xây dựng
+#bên tổng thầu
+#nhà thầu chung
+#thầu khoán chính
+#thầu khoán trưởng
+#tổng chính khoán
+#tổng thầu

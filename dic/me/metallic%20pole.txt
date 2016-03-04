@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cột thép
+@Lĩnh vực: điện
+#cột kim loại

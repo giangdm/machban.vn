@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự cách nhiệt bị động
+#sự cách nhiệt kém hiệu quả

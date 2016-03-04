@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#ngư thuyền
+#tàu đánh cá
+@Chuyên ngành kỹ thuật
+#thuyền đánh cá
+@Chuyên ngành kỹ thuật
+#thuyền đánh cá

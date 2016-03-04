@@ -1,0 +1,6 @@
+﻿@dynamic memory
+#(Tech) bộ nhớ động
+@Chuyên ngành kỹ thuật
+#bộ nhớ động
+@Lĩnh vực: xây dựng
+#trí nhớ năng động

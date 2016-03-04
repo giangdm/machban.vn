@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phòng chờ
+@Lĩnh vực: xây dựng
+#máy xơ cua
+@Lĩnh vực: toán & tin
+#máy xơ qua, phòng hờ

@@ -1,0 +1,5 @@
+﻿@display panel
+#(Tech) bảng hiển thị, bảng trình bầy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng hiển thị

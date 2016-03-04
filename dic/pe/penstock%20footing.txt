@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bệ đường ống có áp
+@Lĩnh vực: cơ khí & công trình
+#trụ đường ống áp lực

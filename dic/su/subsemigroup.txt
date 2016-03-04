@@ -1,0 +1,5 @@
+﻿@subsemigroup
+#nửa nhóm con
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nửa nhóm con

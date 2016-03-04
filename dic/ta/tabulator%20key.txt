@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khóa lập bảng
+#phím lập bảng
+#phím tạo bảng (trên máy đánh chữ)

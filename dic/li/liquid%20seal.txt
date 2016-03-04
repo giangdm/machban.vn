@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kinh tế
+#van chất lòng
+@Chuyên ngành kỹ thuật
+#cửa van thủy lực
+@Lĩnh vực: điện lạnh
+#bít kín chất lỏng
+@Lĩnh vực: hóa học & vật liệu
+#màng chắn bằng khí hơi
+@Lĩnh vực: xây dựng
+#van chắn nước
+@Chuyên ngành kỹ thuật
+#cửa van thủy lực
+@Lĩnh vực: điện lạnh
+#bít kín chất lỏng
+@Lĩnh vực: hóa học & vật liệu
+#màng chắn bằng khí hơi
+@Lĩnh vực: xây dựng
+#van chắn nước

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy đóng cọc kiểu quay
+#tháp (khoan giếng) kiểu quay

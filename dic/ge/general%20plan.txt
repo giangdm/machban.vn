@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bản vẽ quy hoạch chung
+#mặt bằng chung
+@Lĩnh vực: xây dựng
+#bản vẽ qui hoạch chung
+#mặt bằng tổng thể
+@Lĩnh vực: cơ khí & công trình
+#bình đồ chung
+#mặt bằng bố trí chung

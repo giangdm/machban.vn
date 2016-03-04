@@ -1,0 +1,5 @@
+﻿@computer program
+#(Tech) chương trình điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình tính

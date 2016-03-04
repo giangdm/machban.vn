@@ -1,0 +1,4 @@
+﻿@non-interacting
+#không tương tác; ôtônom
+@Chuyên ngành kỹ thuật
+#không tương tác

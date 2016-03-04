@@ -1,0 +1,2 @@
+﻿@automatic volume recognition
+#(Tech) nhận dạng âm lượng tự động

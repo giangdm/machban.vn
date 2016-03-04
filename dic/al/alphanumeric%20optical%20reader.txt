@@ -1,0 +1,2 @@
+﻿@alphanumeric optical reader
+#(Tech) bộ đọc chữ-số bằng quang

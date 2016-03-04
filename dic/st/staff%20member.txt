@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công nhân viên chức
+@Chuyên ngành kỹ thuật
+#cán bộ
+#nhân viên
+@Lĩnh vực: điện tử & viễn thông
+#công chức

@@ -1,0 +1,3 @@
+﻿@Spread effects
+#(Econ) Hiệu ứng lan tràn.
+: Các tác động có lợi của sự tăng trưởng của một nền kinh tế, của một khu vực đối với các nền kinh tế, các khu vực khác.

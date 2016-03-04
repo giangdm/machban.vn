@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#bụi lò
+#bụi ống hút
+#bụi ống thông gió
+@Lĩnh vực: điện
+#bụi khói
+@Lĩnh vực: xây dựng
+#sự thải bụi
+@Chuyên ngành kỹ thuật
+#bụi lò
+#bụi ống hút
+#bụi ống thông gió
+@Lĩnh vực: điện
+#bụi khói
+@Lĩnh vực: xây dựng
+#sự thải bụi

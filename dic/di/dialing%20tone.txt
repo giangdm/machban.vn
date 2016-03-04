@@ -1,0 +1,6 @@
+﻿@dialing tone
+#(Tech) âm hiệu khi quay số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#âm chọn số
+#âm quay số

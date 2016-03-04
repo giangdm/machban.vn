@@ -1,0 +1,6 @@
+﻿@Factor utilization
+#(Econ) Sự sử dụng yếu tố sản xuất.
+: Lượng các yếu tố có thể sử dụng trên thực tế.
+@Chuyên ngành kinh tế
+#sự sử dụng yếu tố (sản xuất)
+#việc sử dụng yếu tố (sản xuất)

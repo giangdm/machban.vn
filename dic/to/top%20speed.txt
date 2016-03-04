@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tốc độ đỉnh
+#tốc độ tối đa
+@Lĩnh vực: cơ khí & công trình
+#tốc độ lớn nhất
+@Lĩnh vực: toán & tin
+#vận tốc cực đại

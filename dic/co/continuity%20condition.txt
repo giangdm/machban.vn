@@ -1,0 +1,5 @@
+﻿@continuity condition
+#(Tech) điều kiện liên tục
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều kiện liên tục

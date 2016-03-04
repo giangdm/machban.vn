@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#máy phát (điện) một chiều
+@Lĩnh vực: toán & tin
+#máy phát dòng không đổi

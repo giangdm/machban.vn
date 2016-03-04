@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhận dạng giọng nói
+@Lĩnh vực: toán & tin
+#nhận dạng tiếng nói
+@Lĩnh vực: ô tô
+#sự nhận dạng giọng nói

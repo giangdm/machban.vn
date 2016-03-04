@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện thoại (vô tuyến) di động
+@Lĩnh vực: điện tử & viễn thông
+#điện thoại vô tuyến di động

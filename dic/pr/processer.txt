@@ -1,0 +1,3 @@
+﻿@processer /processer/
+*danh từ
+#người chế biến, người gia công

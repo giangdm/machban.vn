@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#lợi nhuận siêu ngạch
+#lợi nhuận vượt quá
+#siêu lợi nhuận
+@Chuyên ngành kỹ thuật
+#lợi nhuận quá mức
+@Lĩnh vực: điện tử & viễn thông
+#sự lời quá mức
+@Chuyên ngành kỹ thuật
+#lợi nhuận quá mức
+@Lĩnh vực: điện tử & viễn thông
+#sự lời quá mức

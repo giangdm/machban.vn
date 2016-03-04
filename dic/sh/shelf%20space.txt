@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khoảng trống (giá) bày hàng (trong siêu thị...)
+@Chuyên ngành kỹ thuật
+#khoảng trên giá
+#ngăn trên giá

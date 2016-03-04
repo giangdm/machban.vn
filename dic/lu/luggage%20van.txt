@@ -1,0 +1,12 @@
+﻿@luggage van
+*danh từ
+#toa hành lý
+@Chuyên ngành kinh tế
+#phiếu hành lý
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#toa chở hành lý
+@Lĩnh vực: ô tô
+#xe chở hành lý
+@Lĩnh vực: xây dựng
+#xe hòm chở hành lý

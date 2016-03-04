@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ống dẫn hơi nước
+@Lĩnh vực: điện lạnh
+#đường hơi nước
+@Lĩnh vực: điện
+#đường ống dẫn hơi nước

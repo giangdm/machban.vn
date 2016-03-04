@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giấy gói thuốc lá sợi
+#giấy lụa (để chèn lót bao bì)
+#giấy mỏng để đánh máy
+#giấy pơ-lu
+#giấy pơ-luy
+@Chuyên ngành kỹ thuật
+#giấy lụa

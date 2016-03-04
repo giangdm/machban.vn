@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khối lượng mậu dịch
+#khối lượng mua bán
+#kim ngạch mua bán

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cụm hồi hơi di động
+@Lĩnh vực: điện lạnh
+#nồi hơi nguyên cụm

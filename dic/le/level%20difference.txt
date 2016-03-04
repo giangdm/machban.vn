@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chênh lệch mức
+#hiệu mức
+@Lĩnh vực: xây dựng
+#độ chênh mức mặt thoáng
+#hiệu số cao trình
+#sự chênh mức âm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chênh lệch mức
+#hiệu mức
+@Lĩnh vực: xây dựng
+#độ chênh mức mặt thoáng
+#hiệu số cao trình
+#sự chênh mức âm

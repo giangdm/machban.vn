@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giấy nhắc trả tiền
+#giấy yêu cầu thanh toán
+#hóa đơn bán hàng (có ghi rõ số tiền và thời hạn trả tiền)
+#thanh đơn bán hàng

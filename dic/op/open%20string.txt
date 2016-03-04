@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cốn thang hở
+#dầm thang hở
+@Lĩnh vực: điện lạnh
+#dây mở

@@ -1,0 +1,2 @@
+﻿@acceptance cone
+#(Tech) chóp thụ quang

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ đếm chu trình
+@Lĩnh vực: toán & tin
+#máy đếm chu kỳ

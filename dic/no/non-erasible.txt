@@ -1,0 +1,2 @@
+﻿@non-erasible
+#không xoá được, không bỏ được

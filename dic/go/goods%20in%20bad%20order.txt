@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hàng hóa có vấn đề
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#hàng loại xấu

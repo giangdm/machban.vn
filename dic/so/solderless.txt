@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#không hàn
+@Lĩnh vực: điện lạnh
+#không (có) vết hàn
+@Lĩnh vực: toán & tin
+#không phải hàn (nối)

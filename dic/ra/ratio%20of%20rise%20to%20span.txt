@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nhịp vòm
+@Lĩnh vực: xây dựng
+#tỉ số đường tên-nhịp vòm
+#tỷ số mũi tên

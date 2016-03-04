@@ -1,0 +1,2 @@
+﻿@quickdraw
+#Công nghệ đồ họa hướng đối tượng và hiển thị văn bản được lưu trữ trong mọi bộ nhớ chỉ đọc ra (ROM) của máy Macintosh Khi xây dựng các chương trình Macintosh, các lập trình viên vẽ bằng cách tài nguyên của Quick Draw để tạo nên các cửa sổ, các hộp hội thoại, các lệnh đơn và các hình dáng, cho nên các chương trình của họ trông có vẻ giống nhau

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nhiệt độ không (0 đô F=-17, 8 độC)
+#nhiệt độ không (00F =-17, 80C)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#trạng thái nghỉ
+@Lĩnh vực: toán & tin
+#trạng thái tĩnh

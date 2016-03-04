@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ số độ mảnh giới hạn
+#hệ số độ uốn giới hạn

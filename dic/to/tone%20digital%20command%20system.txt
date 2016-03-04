@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển từ xa bằng số (sóng mang con)
+#điều khiển từ xa digital (sóng mang con)

@@ -1,0 +1,2 @@
+﻿@uuencode
+#Một trình tiện ích được sử dụng cùng với UNIX và mạng Internet, nhằm chuyển đổi mã của một tệp nhị phân (bằng một chương trình như Word Perfect chẳng hạn) thành ra các ký tự ASCII, cho nên tệp đó có thể chuyển qua một dịch vụ chỉ tiếp nhận các tệp văn bản

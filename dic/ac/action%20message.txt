@@ -1,0 +1,8 @@
+﻿@action message
+#(Tech) thông báo tác động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thông báo các tác động
+@Lĩnh vực: toán & tin
+#thông báo hoạt động
+#thông điệp tác động

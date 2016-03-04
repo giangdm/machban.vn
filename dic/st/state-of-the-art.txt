@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#công nghệ tiên tiến
+#đã phát triển
+#kỹ thuật học tiên tiến
+#tiên tiến
+@Chuyên ngành kỹ thuật
+#hiện đại
+#mới nhất
+@Lĩnh vực: điện lạnh
+#tiên tiến

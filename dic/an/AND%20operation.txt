@@ -1,0 +1,5 @@
+﻿@AND operation
+#(Tech) phép toán VÀ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép toán AND

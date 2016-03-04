@@ -1,0 +1,2 @@
+﻿@glide path receiver
+#(Tech) máy thu đường hạ cánh

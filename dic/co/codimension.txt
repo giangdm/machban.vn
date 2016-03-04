@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiệp thứ nguyên
+#số đối chiếu
+#số nguyên hiệp

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ trễ chuyển mạch
+@Lĩnh vực: toán & tin
+#trễ chuyển mạch

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bao bì bằng thạch ma
+@Lĩnh vực: hóa học & vật liệu
+#sự độn amiăng
+@Lĩnh vực: cơ khí & công trình
+#vàng bằng amiăng
+@Lĩnh vực: toán & tin
+#vành thạch ma

@@ -1,0 +1,9 @@
+﻿@program(me)
+#chương trình, kế hoạch
+#computer p. (máy tính) chương trình tính
+#control p. chương trình kiểm tra
+#deal p. (máy tính) chương trình được giữ lâu
+#diagnostic p. (máy tính) chương trình chuẩn đoán
+#explicit p. (máy tính) chương trình chi tiết (được chia thành những phép tính cơ bản)
+#infinite p. chương trình vô hạn
+#superconsistent p. chương trình tương thích mạnh

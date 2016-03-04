@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kết cấu có vỏ chịu lực
+#xây dựng bề mặt được ứng suất

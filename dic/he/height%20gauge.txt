@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ vạch dấu bề mặt
+#cao độ kế
+#máy đo chiều cao
+#thước đo chiều cao
+@Lĩnh vực: đo lường & điều khiển
+#áp kế độ cao
+#thước cặp đo cao

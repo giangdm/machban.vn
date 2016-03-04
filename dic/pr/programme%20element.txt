@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bộ phận cấu thành kế hoạch
+#nội dung kế hoạch
+#yếu tố kế hoạch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phần tử chương trình

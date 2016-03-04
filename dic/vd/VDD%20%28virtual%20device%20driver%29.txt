@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ lái thiết bị ảo
+#chương trình điều khiển thiết bị ảo

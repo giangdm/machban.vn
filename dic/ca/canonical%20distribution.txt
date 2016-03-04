@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#phân phối đúng chuẩn
+@Chuyên ngành kỹ thuật
+#phân bố chính tắc

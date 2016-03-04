@@ -1,0 +1,8 @@
+﻿@working class
+*danh từ
+#(the working class) giai cấp công nhân
+@Chuyên ngành kinh tế
+#tầng lớp lao động chân tay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tầng lớp công nhân

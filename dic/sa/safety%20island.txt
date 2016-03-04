@@ -1,0 +1,5 @@
+﻿@safety island
+#khu vực nhô lên ở giữa đường, chia giao thông đi lại thành hai dòng, nhất là để dùng cho người đi bộ khi đi qua đường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đảo an toàn cho xe

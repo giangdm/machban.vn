@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#hệ số giãn nở
+@Chuyên ngành kỹ thuật
+#hệ số giãn nở
+#hệ số nở
+@Lĩnh vực: điện tử & viễn thông
+#mức bành trướng
+@Chuyên ngành kỹ thuật
+#hệ số giãn nở
+#hệ số nở
+@Lĩnh vực: điện tử & viễn thông
+#mức bành trướng

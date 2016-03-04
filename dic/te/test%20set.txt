@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy thử
+@Lĩnh vực: điện
+#bộ thử nghiệm

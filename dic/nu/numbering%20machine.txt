@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#con dấu in số
+@Chuyên ngành kỹ thuật
+#máy đánh số
+#máy đếm
+#máy đóng dấu
+@Lĩnh vực: cơ khí & công trình
+#máy đóng số

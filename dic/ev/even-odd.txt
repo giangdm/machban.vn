@@ -1,0 +1,2 @@
+﻿@even-odd
+#(Tech) chẵn lẻ

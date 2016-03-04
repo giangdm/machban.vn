@@ -1,0 +1,2 @@
+﻿@basic attribute set
+#(Tech) tập hợp thuộc tính cơ bản [NB]

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#điện một chiều
+#dòng điện một chiều
+#dòng một chiều
+@Lĩnh vực: toán & tin
+#DC
+#dòng không đổi
+@Lĩnh vực: điện lạnh
+#dòng DC

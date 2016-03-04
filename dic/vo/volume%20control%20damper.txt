@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#van điều chỉnh lưu lượng
+@Lĩnh vực: điện lạnh
+#clapê điều chỉnh lưu lượng (gió)
+#van điều chỉnh lượng gió
+#van điểu chỉnh thể tích

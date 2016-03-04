@@ -1,0 +1,6 @@
+﻿@CRT (cathode ray tube)
+#(Tech) ống tia âm cực, đèn hiển thị
+@Chuyên ngành kỹ thuật
+#ống tia âm cực
+@Lĩnh vực: vật lý
+#ống tia catôt

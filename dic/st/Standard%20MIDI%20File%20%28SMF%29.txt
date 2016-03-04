@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Tệp MIDI ( giao diện Digital của các nhạc cụ ) tiêu chuẩn

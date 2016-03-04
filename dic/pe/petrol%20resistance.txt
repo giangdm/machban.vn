@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#tính bền khí đốt
+#tính bền xăng
+@Lĩnh vực: xây dựng
+#khả năng chịu dầu
+#khả năng chịu xăng
+@Lĩnh vực: hóa học & vật liệu
+#tính bền ga zolin

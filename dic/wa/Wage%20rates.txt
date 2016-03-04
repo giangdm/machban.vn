@@ -1,0 +1,3 @@
+﻿@Wage rates
+#(Econ) Các mức tiền công.
+: Mức lương mà một cá nhân được nhận do được sung cấp một số giờ lao động tối thiểu quy định trong hợp đồng lương.

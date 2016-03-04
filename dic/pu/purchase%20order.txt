@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#đơn đặt (mua) hàng
+#đơn mua hàng
+@Chuyên ngành kỹ thuật
+#đơn đặt hàng
+#lệnh mua
+@Lĩnh vực: cơ khí & công trình
+#đơn đặt mua hàng
+@Lĩnh vực: điện tử & viễn thông
+#giấy đặt hàng
+@Lĩnh vực: thực phẩm
+#phiếu mua

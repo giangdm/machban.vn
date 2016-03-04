@@ -1,0 +1,3 @@
+﻿@Size distribution of firms
+#(Econ) Phân phối theo quy mô về hãng.
+: Phân phối tần xuất mà trong đó các hãng thuộc một ngành hay một khu vực kinh tế được phân chia theo quy mô.

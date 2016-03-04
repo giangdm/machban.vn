@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#làm việc nặng
+#sự chất tải nặng
+@Lĩnh vực: toán & tin
+#chế độ nặng
+@Lĩnh vực: hóa học & vật liệu
+#chịu lực nặng
+#thuế nặng
+@Lĩnh vực: xây dựng
+#hiệu suất mạnh
+@Lĩnh vực: cơ khí & công trình
+#máy có công suất cao

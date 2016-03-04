@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch chính
+@Lĩnh vực: toán & tin
+#mạch cơ sở
+@Lĩnh vực: xây dựng
+#sơ đồ nguyên lý điện

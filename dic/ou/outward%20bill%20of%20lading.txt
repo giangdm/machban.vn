@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#vận đơn hàng rời cảng
+#vận đơn hàng xuất
+#vận đơn xuất khẩu

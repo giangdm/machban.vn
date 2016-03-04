@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự thải nhiệt hiện
+#thải nhiệt cảm nhận được
+#thải nhiệt hiện

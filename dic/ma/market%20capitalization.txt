@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thị giá vốn (công ty)
+#tổng giá trị thị trường của vốn
+#tổng vốn theo giá trị
+#tổng vốn theo thị giá
+#vốn giá theo thị trường

@@ -1,0 +1,7 @@
+﻿@computer manager
+#(Tech) người quản lý máy điện toán
+@Chuyên ngành kinh tế
+#giám đốc tin học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ quản lý máy tính

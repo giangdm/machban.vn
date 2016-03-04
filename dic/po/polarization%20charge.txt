@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện tích liên kết (với nguyên tử hoặc phân tử)
+#điện tích phân cực
+@Lĩnh vực: vật lý
+#tải phân cực

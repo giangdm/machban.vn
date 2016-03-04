@@ -1,0 +1,3 @@
+﻿@Rational lags
+#(Econ) Trễ hữu tỷ; Trễ hợp lý.
+: Một công thức TRỄ PHÂN PHỐI trong đó, các giá trị kế tiếp của một biến số đã bị trễ được xác định bằng tỷ lệ của hai mô hình trễ đa thức.

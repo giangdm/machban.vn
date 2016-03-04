@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu nhiễu không phai dần
+#tín hiệu nhiễu không tắt dần

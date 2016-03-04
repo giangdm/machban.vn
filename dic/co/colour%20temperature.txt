@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ màu
+@Lĩnh vực: điện tử & viễn thông
+#nhiệt độ của màu sắc
+@Lĩnh vực: điện lạnh
+#nhiệt độ theo màu

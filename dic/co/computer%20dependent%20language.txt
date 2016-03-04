@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ngôn ngữ phụ thuộc máy
+@Lĩnh vực: toán & tin
+#ngôn ngữ phụ thuộc máy tính

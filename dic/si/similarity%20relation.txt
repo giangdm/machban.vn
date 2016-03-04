@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#quan hệ giống nhau
+@Lĩnh vực: toán & tin
+#quan hệ đồng dạng
+#quan hệ tương tự

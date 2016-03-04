@@ -1,0 +1,5 @@
+﻿@generation data group (GDG)
+#(Tech) nhóm dữ liệu cùng lứa/cùng thời/cùng hệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhóm dữ liệu thế hệ

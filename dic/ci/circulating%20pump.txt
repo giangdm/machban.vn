@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm tuần hoàn
+#máy bơm tuần hoàn
+@Lĩnh vực: hóa học & vật liệu
+#bơm lưu thông
+@Lĩnh vực: điện lạnh
+#bơm tuần hoàn (chất lỏng)

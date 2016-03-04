@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khối quản lý bộ nhớ
+@Chuyên ngành kỹ thuật
+#đơn vị quản lý bộ nhớ
+@Lĩnh vực: toán & tin
+#thiết bị quản lý bộ nhớ

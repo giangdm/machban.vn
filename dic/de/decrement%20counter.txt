@@ -1,0 +1,2 @@
+﻿@decrement counter
+#(Tech) máy đếm ngược

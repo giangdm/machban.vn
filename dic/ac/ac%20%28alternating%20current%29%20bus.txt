@@ -1,0 +1,2 @@
+﻿@ac (alternating current) bus
+#(Tech) mẫu tuyến dòng điện xoay chiều

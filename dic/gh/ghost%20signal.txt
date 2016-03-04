@@ -1,0 +1,2 @@
+﻿@ghost signal
+#(Tech) tín hiệu hình ảo, tín hiệu giả [ĐL]

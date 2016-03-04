@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhóm sóng
+@Lĩnh vực: điện lạnh
+#đoàn sóng
+@Lĩnh vực: điện
+#đợt sóng

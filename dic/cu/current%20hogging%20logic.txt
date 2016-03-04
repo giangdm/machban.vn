@@ -1,0 +1,2 @@
+﻿@current hogging logic
+#(Tech) mạch luận lý nhiễu loạn dòng, mạch luận lý nghẹn dòng

@@ -1,0 +1,3 @@
+﻿@Equivalance scale
+#(Econ) Thang/hệ số/ tỷ lệ/qui mô qui đổi mức sống tương đương; Quy mô tương đương.
+: Một hệ số hoặc một quyền số được dùng để đánh giá mức thu nhập hoặc tiêu dùng mà các gia đình bắt buộc phải có trong các hoàn cảnh khác nhau để đạt được một mức sống nhất định.

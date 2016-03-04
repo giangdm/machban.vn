@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sai sót cho phép
+#sai sót có thể chấp nhận
+#sai sót có thể dung thứ
+@Chuyên ngành kỹ thuật
+#sai số cho phép
+@Lĩnh vực: điện lạnh
+#sai số được phép

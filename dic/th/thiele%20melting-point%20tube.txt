@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#ống thiele
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#ống đo điểm nóng chảy Thiele

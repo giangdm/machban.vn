@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#giá trị nhiệt
+#khả năng tỏa nhiệt
+#lượng phát nhiệt
+#năng suất tỏa nhiệt
+#nhiệt trị
+@Lĩnh vực: điện lạnh
+#giá trị calo
+@Lĩnh vực: cơ khí & công trình
+#khả năng phát nhiệt

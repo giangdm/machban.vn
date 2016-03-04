@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm nhiệt kiểu không khí
+@Lĩnh vực: điện lạnh
+#bơm nhiệt lấy nguồn nhiệt là không khí

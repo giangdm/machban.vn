@@ -1,0 +1,3 @@
+﻿@Industrial unions
+#(Econ) Nghiệp đoàn theo ngành.
+: Nghiệp đoàn là tổ chức của tất cả các công nhân trong một ngành bất kể chuyên môn của họ là gì. Xem GENERAL, UNION AND CRAFT UNIONS.

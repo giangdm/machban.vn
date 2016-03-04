@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đếm tích lũy
+#bộ đếm tổng
+#máy cộng
+#máy đếm tích lũy
+@Lĩnh vực: điện lạnh
+#máy đếm tổng
+@Lĩnh vực: đo lường & điều khiển
+#ống đếm tích lũy

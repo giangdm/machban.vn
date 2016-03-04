@@ -1,0 +1,7 @@
+﻿@Income maintenance
+#(Econ) Duy trì thu nhập.
+: Các chính sách được đề ra nhằm nâng mức thu nhập của một số nhóm người hay cá nhân nào đó.
+@Chuyên ngành kinh tế
+#duy trì thu nhập
+#thu nhập (từ tiền trợ cấp)
+#trợ cấp thu nhập

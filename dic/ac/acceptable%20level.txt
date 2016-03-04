@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#mức chấp nhận được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mức cho phép

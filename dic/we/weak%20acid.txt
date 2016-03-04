@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#axit pha loãng
+@Chuyên ngành kỹ thuật
+#axit yếu

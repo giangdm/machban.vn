@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chi tiết quy hoạch chính
+@Lĩnh vực: xây dựng
+#bộ phận quy hoạch chính
+#bộ phận quy hoạch cơ sở
+#yếu tố quy hoạch chính

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền xoắn
+@Lĩnh vực: vật lý
+#mômen quay cản
+#mômen quay kháng
+#mômen xoắn kháng
+@Lĩnh vực: xây dựng
+#mômen xoắn khoáng

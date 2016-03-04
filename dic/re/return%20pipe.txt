@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#ống dẫn về
+#ống hồi lưu
+#ống trở về
+@Lĩnh vực: điện lạnh
+#đường hồi lưu
+#ống hồi
+@Lĩnh vực: cơ khí & công trình
+#quay trở về nồi hơi

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#mật độ tới hạn
+@Chuyên ngành kỹ thuật
+#mật độ tới hạn
+@Lĩnh vực: hóa học & vật liệu
+#tỷ khối tới hạn

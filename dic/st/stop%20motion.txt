@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cấu nhả
+@Lĩnh vực: vật lý
+#cấu dừng
+@Lĩnh vực: cơ khí & công trình
+#cơ cấu dừng
+#cơ cấu gián đoạn

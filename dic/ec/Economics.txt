@@ -1,0 +1,18 @@
+﻿@Economics
+#(Econ) Kinh tế học.
+: Một ngành nghiên cứu về cách thức con người tự tổ chức để giải quyết vấn đề cơ bản về sự khan hiếm.
+<!-- more -->
+@economics /,i:kə'nɔmiks/
+*danh từ,  số nhiều dùng như số ít
+#khoa kinh tế chính trị
+#nền kinh tế (cho một nước)
+@Chuyên ngành kinh tế
+#kinh tế học
+@Chuyên ngành kỹ thuật
+#kinh tế học
+#nền kinh tế
+@Lĩnh vực: xây dựng
+#kinh tế
+<!-- more -->
+@economics
+#kinh tế học, kinh tế quốc dân

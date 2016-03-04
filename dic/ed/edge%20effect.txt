@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu ứng biên
+#hiệu ứng mép
+@Lĩnh vực: xây dựng
+#hiệu ứng
+@Lĩnh vực: điện lạnh
+#hiệu ứng bờ
+#hiệu ứng cạnh
+@Lĩnh vực: vật lý
+#hiệu ứng rìa

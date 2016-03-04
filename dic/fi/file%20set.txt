@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhóm tập tin
+#tập file
+#tập hợp tập tin
+#tập hợp tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhóm tập tin
+#tập file
+#tập hợp tập tin
+#tập hợp tệp

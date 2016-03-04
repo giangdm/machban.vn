@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chuyển đổi đo
+@Lĩnh vực: đo lường & điều khiển
+#bộ biến đổi đo lường
+#bộ chuyển đổi dữ liệu

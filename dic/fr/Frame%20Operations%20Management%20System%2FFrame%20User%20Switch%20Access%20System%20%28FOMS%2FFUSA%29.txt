@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Hệ thống quản lý các hoạt động khung/Hệ thống truy nhập chuyển mạch thuê bao theo khung

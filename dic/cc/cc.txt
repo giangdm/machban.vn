@@ -1,0 +1,4 @@
+﻿@cc
+*(viết tắt)
+#centimet khối, phân khối (cubic centimetre)
+#bản sao (carbon copy)

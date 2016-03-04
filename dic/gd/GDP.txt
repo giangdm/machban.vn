@@ -1,0 +1,7 @@
+﻿@GDP
+#(Econ) Tổng sản phẩm quốc nội.
+: Xem GROSS DOMESTIC PRODUCT
+<!-- more -->
+@gdp
+*(viết tắt)
+#tổng sản lượng nội địa (Gross Domestic Product)

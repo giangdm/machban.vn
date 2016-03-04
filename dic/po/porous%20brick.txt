@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#gạch nhẹ
+#gạch rỗng
+@Lĩnh vực: xây dựng
+#gạch có nhiều lỗ rỗng
+@Lĩnh vực: điện
+#gạch xốp

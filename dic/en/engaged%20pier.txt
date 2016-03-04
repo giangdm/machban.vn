@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#trụ bổ tường
+@Lĩnh vực: toán & tin
+#trụ ẩn
+@Lĩnh vực: xây dựng
+#trụ già
+@Chuyên ngành kỹ thuật
+#trụ bổ tường
+@Lĩnh vực: toán & tin
+#trụ ẩn
+@Lĩnh vực: xây dựng
+#trụ già

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thư tín dụng đối khai, giao dịch qua lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#thư tín dụng đối ứng

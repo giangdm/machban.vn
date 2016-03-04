@@ -1,0 +1,2 @@
+﻿@GDP at factor cost
+#(Econ) GDP theo chi phí sản xuất.

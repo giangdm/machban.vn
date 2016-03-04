@@ -1,0 +1,6 @@
+﻿@Maximum likelihood
+#(Econ) Hợp lý cực đại.
+: Là một cụm thuât ngữ mô tả kỹ thuật ước lượng kinh tê lượng chung bao gồm việc tối đa hoá hàm hợp lý của những quan sát mẫu về các giá trị của các tham số của các phương trình đang được ước tính.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hợp lẽ cực đại

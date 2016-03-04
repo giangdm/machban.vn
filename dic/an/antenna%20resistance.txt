@@ -1,0 +1,5 @@
+﻿@antenna resistance
+#(Tech) điện trở ăngten
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện trở ăng ten

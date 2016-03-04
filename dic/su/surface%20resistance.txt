@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#điện trở bề mặt
+@Lĩnh vực: điện lạnh
+#trở lực bề mặt

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bán dẫn ròng
+#bán dẫn thuần
+@Lĩnh vực: toán & tin
+#chất bán dẫn thuần
+@Lĩnh vực: điện
+#vật bán dẫn điện thuần

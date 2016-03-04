@@ -1,0 +1,9 @@
+﻿@souree
+#nguồn
+#double s. nguồn kép
+#information s. (điều khiển học) nguồn thông tin
+#key s. nguồn khoá
+#message s. nguồn tin
+#point s. nguồn điểm
+#power s. nguồn năng lượng
+#simple s. nguồn đơn

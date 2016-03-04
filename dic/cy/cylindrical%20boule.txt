@@ -1,0 +1,2 @@
+﻿@cylindrical boule
+#(Tech) trụ tinh thể, tinh khối hình trụ

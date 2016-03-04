@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#kết cấu khối
+#kết cấu mođun
+@Lĩnh vực: cơ khí & công trình
+#kết cấu cụm
+#kết cấu nguyên khối
+@Lĩnh vực: xây dựng
+#kết cấu đơn vị

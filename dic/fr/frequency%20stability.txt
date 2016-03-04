@@ -1,0 +1,6 @@
+﻿@frequency stability
+#(Tech) độ ổn định tần số
+@Chuyên ngành kỹ thuật
+#sự ổn định tần số
+@Lĩnh vực: điện tử & viễn thông
+#độ ổn định tần số

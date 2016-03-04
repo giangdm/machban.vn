@@ -1,0 +1,5 @@
+﻿@ball printer
+#(Tech) máy in trái cầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy in bi

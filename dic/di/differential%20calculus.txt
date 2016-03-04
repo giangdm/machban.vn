@@ -1,0 +1,9 @@
+﻿@differential calculus
+#phép tính vi phân
+@Chuyên ngành kinh tế
+#vi phân (học)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phép tính tỷ phân
+@Lĩnh vực: toán & tin
+#phép tính vi phân

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tang số tổn hao
+@Lĩnh vực: điện
+#tang tổn thất

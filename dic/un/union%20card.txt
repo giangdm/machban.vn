@@ -1,0 +1,5 @@
+﻿@union card ['ju:niən'ka:d]
+*danh từ
+# thẻ công đoàn
+@Chuyên ngành kinh tế
+#thẻ công đoàn viên

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp được tẩm cả khối
+@Lĩnh vực: điện lạnh
+#cáp tẩm cả khối

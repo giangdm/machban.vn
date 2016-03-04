@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#ống dẫn khí chính
+@Lĩnh vực: xây dựng
+#đường ống dẫn khí (chính)
+#đường ống hơi đốt chính
+#ống chính dẫn khí
+#ống ga chính
+@Lĩnh vực: vật lý
+#đường ống dẫn khí chính

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chu trình ứng suất biến đổi từ 0 đến cực đại

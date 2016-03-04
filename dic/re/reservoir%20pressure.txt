@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất tầng chứa
+#áp suất vỉa
+@Lĩnh vực: hóa học & vật liệu
+#áp suất bể chứa

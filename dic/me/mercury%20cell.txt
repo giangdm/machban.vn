@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bình điện có thủy ngân
+#pin thủy ngân
+@Lĩnh vực: điện
+#bộ pin thủy ngân

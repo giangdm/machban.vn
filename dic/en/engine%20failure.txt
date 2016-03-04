@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#sự cố động cơ
+#sự hỏng máy
+#sự trục trặc động cơ,
+@Lĩnh vực: hóa học & vật liệu
+#hỏng máy phát
+#vỡ động cơ
+@Lĩnh vực: cơ khí & công trình
+#sự cố máy nổ
+#sự hỏng động cơ
+@Chuyên ngành kỹ thuật
+#sự cố động cơ
+#sự hỏng máy
+#sự trục trặc động cơ,
+@Lĩnh vực: hóa học & vật liệu
+#hỏng máy phát
+#vỡ động cơ
+@Lĩnh vực: cơ khí & công trình
+#sự cố máy nổ
+#sự hỏng động cơ

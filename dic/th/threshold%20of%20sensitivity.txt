@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#ngưỡng nhạy
+@Chuyên ngành kỹ thuật
+#ngưỡng khởi chuyển
+#ngưỡng nhạy
+@Lĩnh vực: đo lường & điều khiển
+#ngưỡng độ nhạy
+@Lĩnh vực: điện
+#ngưỡng nhậy cảm

@@ -1,0 +1,7 @@
+﻿@data logging
+#(Tech) vào sổ dữ liệu
+@Chuyên ngành kỹ thuật
+#sự bắt dữ liệu
+@Lĩnh vực: toán & tin
+#ghi chép dữ liệu
+#nhật ký dữ liệu

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tiêu chuẩn phân loại việc làm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tiêu chuẩn xếp loại việc làm

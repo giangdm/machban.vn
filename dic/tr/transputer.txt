@@ -1,0 +1,5 @@
+﻿@transputer
+*danh từ
+#phần mềm trung gian
+@Chuyên ngành kỹ thuật
+#vi mạch siêu lớn

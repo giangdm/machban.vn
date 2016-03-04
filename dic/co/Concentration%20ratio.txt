@@ -1,0 +1,10 @@
+﻿@Concentration ratio
+#(Econ) Tỷ lệ tập trung.
+: Tỷ lệ phần trăm tổng quy mô công nghiệp do một vài hãng lớn trong ngành đó chiếm. Xem STANDARD INDUSTRIAL CLASSÌICATION.
+@Chuyên ngành kinh tế
+#mật độ
+#tỉ suất tập trung
+#tỷ số tập trung
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nồng độ tỷ đối

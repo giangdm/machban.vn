@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ ổn định xác lập
+@Lĩnh vực: điện
+#sự ổn định tĩnh

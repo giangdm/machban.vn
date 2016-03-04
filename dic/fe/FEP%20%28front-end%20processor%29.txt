@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ xử lý ngoại vi
+#bộ xử lý phụ trợ
+#bộ xử lý trước
+@Lĩnh vực: toán & tin
+#bộ xử lý phía trước
+#bộ xử lý tiền trạm
+@Chuyên ngành kỹ thuật
+#bộ xử lý ngoại vi
+#bộ xử lý phụ trợ
+#bộ xử lý trước
+@Lĩnh vực: toán & tin
+#bộ xử lý phía trước
+#bộ xử lý tiền trạm

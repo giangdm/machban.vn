@@ -1,0 +1,2 @@
+﻿@gate signal
+#(Tech) tín hiệu cổng

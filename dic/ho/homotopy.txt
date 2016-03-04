@@ -1,0 +1,13 @@
+﻿@homotopy
+#[phép, sự, tính] đồng luân
+#cellular h. tính đồng luân tế bào
+#chain h. (tô pô) sự đồng luân dây chuyền
+#contracting h. sự đồng luân co rút
+#convering h. top sự đồng luân phủ
+#fibre h. tính đồng luân thớ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép đồng luân
+#tính đồng luân
+@Lĩnh vực: điện lạnh
+#tính đồng đều

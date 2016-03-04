@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#theo số tròn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lấy tròn
+#quy tròn

@@ -1,0 +1,7 @@
+﻿@echo-sounder
+*danh từ
+#dụng cụ đo độ sâu bằng cách tính thời gian sóng âm thanh dội lại từ khi phát âm thanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ thám vọng
+#máy thám vọng

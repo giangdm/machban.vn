@@ -1,0 +1,3 @@
+﻿@Normal unemployment
+#(Econ) Tỷ lệ thất nghiệp thông thường.
+: Xem NATURAL RATE OF UNMENPLOYMENT.

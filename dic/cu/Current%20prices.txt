@@ -1,0 +1,2 @@
+﻿@Current prices
+#(Econ) Giá hiện hành (thời giá).

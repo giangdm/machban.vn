@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Kênh 384 Kbit/s (6 kênh DSO của một mạch T1)

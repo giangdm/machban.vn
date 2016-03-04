@@ -1,0 +1,6 @@
+﻿@E-plane bend
+#(Tech) đoạn uốn hình mặt phẳng E (ống dẫn sóng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ cong E
+#độ cong mặt phẳng E

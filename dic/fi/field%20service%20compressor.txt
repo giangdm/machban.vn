@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#máy nén khí tháo lắp được
+@Chuyên ngành kỹ thuật
+#máy nén nửa kín
+#máy nén tháo nắp được
+@Lĩnh vực: điện lạnh
+#máy nén tháo lắp được
+@Chuyên ngành kỹ thuật
+#máy nén nửa kín
+#máy nén tháo nắp được
+@Lĩnh vực: điện lạnh
+#máy nén tháo lắp được

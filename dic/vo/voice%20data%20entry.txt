@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhập tiếng nói
+@Lĩnh vực: toán & tin
+#sự nhập dữ liệu tiếng nói

@@ -1,0 +1,12 @@
+﻿@duplex apartment
+#căn hộ 2 tầng
+@Chuyên ngành kinh tế
+#buồng hai tầng
+@Chuyên ngành kỹ thuật
+#nhà liền nhau
+@Lĩnh vực: xây dựng
+#căn hộ hai tầng
+#căn hộ kép
+#căn hộ liền tầng
+#căn hộ thông tầng
+#nhà hai cao trình

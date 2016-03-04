@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Giao thức điều khiển bộ quản lý hiển thị X (giao thức sử dụng để truyền thông giữa các đầu cuối X và các trạm làm việc chạy UNIX)

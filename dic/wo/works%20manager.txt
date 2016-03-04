@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giám đốc nhà máy
+#giám đốc xưởng, nhà máy
+#quản đốc công xưởng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#giám đốc nhà máy

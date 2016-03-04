@@ -1,0 +1,16 @@
+﻿@electrostatic charge
+#(Tech) điện tích điện tĩnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện tích tĩnh
+@Lĩnh vực: toán & tin
+#sự nạp tĩnh điện
+@Lĩnh vực: xây dựng
+#tĩnh điện tích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện tích tĩnh
+@Lĩnh vực: toán & tin
+#sự nạp tĩnh điện
+@Lĩnh vực: xây dựng
+#tĩnh điện tích

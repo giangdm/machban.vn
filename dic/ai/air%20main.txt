@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đường dẫn không khí
+#ống dẫn không khí
+@Lĩnh vực: điện lạnh
+#ống gió chính

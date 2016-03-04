@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#cấu kiện
+#chi tiết liên kết
+#chi tiết nối
+@Lĩnh vực: xây dựng
+#bộ phận kết cấu
+#cấu kiện kết cấu
+#cấu kiện xây lắp
+#chi tiết kết cấu

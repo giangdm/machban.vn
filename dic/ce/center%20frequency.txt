@@ -1,0 +1,7 @@
+﻿@center frequency
+#(Tech) tần số giữa, trung tần (khi biến điệu tần số)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tần số giữa
+@Lĩnh vực: điện tử & viễn thông
+#tần số trung tâm

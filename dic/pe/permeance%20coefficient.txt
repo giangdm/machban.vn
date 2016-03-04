@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hệ số dẫn từ
+@Lĩnh vực: điện lạnh
+#hệ số từ dẫn

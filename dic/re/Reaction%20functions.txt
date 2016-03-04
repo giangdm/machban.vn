@@ -1,0 +1,3 @@
+﻿@Reaction functions
+#(Econ) Các hàm phản ứng.
+: Giúp cho doanh nghiệp xác định giá trị tối ưu cho một biến số lựa chọn khi biết được giá trị này của các hãng cạnh tranh.

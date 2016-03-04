@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cái nối mạch tiếp đất
+#công tắc cầu thang
+#công tắc tầng
+@Lĩnh vực: điện lạnh
+#cầu dao đảo mạch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cái nối mạch tiếp đất
+#công tắc cầu thang
+#công tắc tầng
+@Lĩnh vực: điện lạnh
+#cầu dao đảo mạch

@@ -1,0 +1,3 @@
+﻿@Vector autoregression (VAR)
+#(Econ) Tự hồi quy véc tơ.
+: Một trong những kỹ thuật dự báo sử dụng rộng rãi nhất trong kinh tế học. Như với hầu hết các phương pháp chuỗi thời gian đơn thuần khác, nó được cho là trung lập đối với bất kỳ một thuyết kinh tế cụ thể nào.

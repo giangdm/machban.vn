@@ -1,0 +1,4 @@
+﻿@oven-ready
+*tính từ
+#được chuẩn bị sẵn sàng để nấu
+=oven-ready chickens:những con gà đã làm sẵn

@@ -1,0 +1,12 @@
+﻿@self-inductance
+*danh từ
+#độ tự cảm
+@Chuyên ngành kỹ thuật
+#điện cảm riêng
+#độ tự cảm
+#hệ số tự cảm
+#sự tự cảm
+@Lĩnh vực: điện
+#hiện tượng tự cảm
+@Lĩnh vực: điện lạnh
+#tính tự cảm (của một mạch điện)

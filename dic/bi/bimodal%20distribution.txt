@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phân bố hai đỉnh
+#phân phối hai mốt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân phối hai mốt

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#ghi
+@Lĩnh vực: giao thông & vận tải
+#ghi rẽ
+#ray ghi
+@Lĩnh vực: xây dựng
+#ray di động (để chuyển hướng tàu chạy)

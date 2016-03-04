@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bớt giá do trả sớm
+#bớt giá tiền mặt
+#bớt giá trả sớm
+#sự giảm giá khi trả bằng tiền mặt

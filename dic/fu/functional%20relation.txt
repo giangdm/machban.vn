@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ giằng chủ yếu
+#mối liên kết chủ yếu
+@Lĩnh vực: toán & tin
+#quan hệ hàm

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#âm thanh do cấu trúc
+#tạp nhiễu do cấu trúc
+#tiếng ồn do cấu trúc

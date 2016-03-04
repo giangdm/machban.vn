@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm hướng dẫn vòng xoay
+@Lĩnh vực: cơ khí & công trình
+#hàm định hướng xoay vòng

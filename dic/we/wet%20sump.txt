@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hố để bơm nước (trong hệ thống tiêu nước)
+@Lĩnh vực: hóa học & vật liệu
+#hốc giếng ướt (dầu)

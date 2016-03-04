@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số giãn nở khối
+@Lĩnh vực: điện lạnh
+#hệ số giãn nở thể tích
+@Lĩnh vực: xây dựng
+#hệ số nở khối

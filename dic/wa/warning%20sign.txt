@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#biển báo hiệu
+@Chuyên ngành kỹ thuật
+#dấu hiệu cảnh báo
+@Lĩnh vực: xây dựng
+#biển báo nguy hiểm (biển tam giác)
+#dấu hiệu ngăn cấm
+#dấu hiệu ngăn ngừa
+#tín hiệu báo nguy hiểm

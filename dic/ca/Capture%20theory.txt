@@ -1,0 +1,3 @@
+﻿@Capture theory
+#(Econ) Lý thuyết nắm giữ.
+: Lý thuyết về điều tiết do Geogre Stigler đưa ra. Về cơ bản, một ngành bị điều tiết có thể thu lợi từ sự điều tiết bằng cách nắm giữ cơ quan điều tiết có liên quan.

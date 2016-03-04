@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#quy tắc điều kiện-tác dụng
+#quy tắc nếu-thì
+#quy tắc suy diễn

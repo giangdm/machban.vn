@@ -1,0 +1,8 @@
+﻿@group separator (GS)
+#(Tech) dấu tách nhóm dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu hiệu phân cách nhóm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ phân cách nhóm

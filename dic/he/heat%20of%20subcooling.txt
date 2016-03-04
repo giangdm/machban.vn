@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt lượng tiệp tục làm lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nhiệt quá lạnh

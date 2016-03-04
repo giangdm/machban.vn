@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#điều khiển âm lượng
+#sự điều chỉnh âm lượng
+@Lĩnh vực: xây dựng
+#bộ kiểm âm lượng
+@Lĩnh vực: hóa học & vật liệu
+#điều chỉnh âm lượng
+#kiểm tra thể tích
+@Lĩnh vực: toán & tin
+#sự điều khiển âm lượng

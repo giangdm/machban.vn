@@ -1,0 +1,4 @@
+﻿@grapher
+#(máy tính) dụng cụ vẽ đồ thị
+@Chuyên ngành kỹ thuật
+#máy tự ghi

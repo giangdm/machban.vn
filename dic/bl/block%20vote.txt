@@ -1,0 +1,5 @@
+﻿@block vote
+*danh từ
+#cuộc bỏ phiếu mà trong đó, lá phiếu của mỗi cử tri chi phối tỉ lệ của số người được cử tri ấy đại diện
+@Chuyên ngành kinh tế
+#biểu quyết đại diện

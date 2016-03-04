@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#sữa vôi
+@Chuyên ngành kỹ thuật
+#hồ vôi
+#nước vôi
+@Lĩnh vực: xây dựng
+#vôi nước (để quét tường)
+@Chuyên ngành kỹ thuật
+#hồ vôi
+#nước vôi
+@Lĩnh vực: xây dựng
+#vôi nước (để quét tường)

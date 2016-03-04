@@ -1,0 +1,2 @@
+﻿@computer-set page
+#(Tech) trang sắp đặt bằng máy điện toán

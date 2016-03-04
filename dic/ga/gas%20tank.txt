@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#bình chứa khí
+#bình ga
+#bình khí
+#thùng chứa khí
+#thùng ga
+#thùng nhiên liệu
+#thùng xăng
+@Lĩnh vực: hóa học & vật liệu
+#bể chứa khí
+@Lĩnh vực: xây dựng
+#bể khí
+@Lĩnh vực: cơ khí & công trình
+#bình nhiên liệu
+@Lĩnh vực: ô tô
+#thùng chứa ga

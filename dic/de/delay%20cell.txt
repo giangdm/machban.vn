@@ -1,0 +1,2 @@
+﻿@delay cell
+#(Tech) bộ tạo trễ

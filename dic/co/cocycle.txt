@@ -1,0 +1,2 @@
+﻿@cocycle
+#(Tech) đồng chu kỳ

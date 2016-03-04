@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bàn điều khiển
+#bảng điều khiển
+@Lĩnh vực: toán & tin
+#bàn giao tiếp người-máy
+#bảng phím thao tác

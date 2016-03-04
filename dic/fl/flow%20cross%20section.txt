@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mặt cắt ướt của dòng chảy
+@Lĩnh vực: điện lạnh
+#tiết diện cắt ngang dòng chảy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mặt cắt ướt của dòng chảy
+@Lĩnh vực: điện lạnh
+#tiết diện cắt ngang dòng chảy

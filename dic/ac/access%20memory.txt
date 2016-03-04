@@ -1,0 +1,5 @@
+﻿@access memory
+#(Tech) bộ nhớ truy cập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ nhớ truy nhập

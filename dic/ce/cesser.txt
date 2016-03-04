@@ -1,0 +1,7 @@
+﻿@cesser
+*danh từ
+#sự chấm dứt về pháp luật
+=cesser of term:sự đình chỉ kỳ hạn
+@Chuyên ngành kinh tế
+#chấm dứt
+#kết thúc

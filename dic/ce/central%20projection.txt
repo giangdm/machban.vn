@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phép chiếu xuyên tâm
+@Lĩnh vực: toán & tin
+#phép chiếu hình trụ
+@Lĩnh vực: xây dựng
+#phép chiếu qua tâm

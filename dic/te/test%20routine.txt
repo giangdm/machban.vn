@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thủ tục thử
+@Lĩnh vực: toán & tin
+#thường trình thử

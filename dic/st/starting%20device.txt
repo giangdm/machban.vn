@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ cấu khởi động
+@Lĩnh vực: điện
+#dụng cụ khởi động

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#tính chịu nhiệt
+@Chuyên ngành kỹ thuật
+#sức chịu nhiệt
+#tính bền nhiệt
+@Lĩnh vực: xây dựng
+#khả năng chịu nhiệt
+@Lĩnh vực: điện lạnh
+#tính ổn định nhiệt

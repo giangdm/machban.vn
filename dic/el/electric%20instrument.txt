@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ điện
+@Lĩnh vực: điện lạnh
+#khí cụ điện
+@Chuyên ngành kỹ thuật
+#dụng cụ điện
+@Lĩnh vực: điện lạnh
+#khí cụ điện

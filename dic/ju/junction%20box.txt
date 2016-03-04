@@ -1,0 +1,19 @@
+﻿@junction box
+*danh từ
+#hộp đựng mối nối hai mạch điện
+@Chuyên ngành kỹ thuật
+#hộp cáp
+#hộp chia dây
+#hộp đấu dây
+#hộp đầu dây
+#hộp nối
+#hộp nối dây
+#hộp nối điện
+#hộp phân phối
+#hộp phân phối điện
+#tủ nối cáp
+@Lĩnh vực: điện
+#hộp nối các đầu cáp
+#hộp nối các đầu dây
+@Lĩnh vực: xây dựng
+#hộp nối hộp phân nhánh

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#động lực kế hãm
+#động lực kế hấp thụ
+#hấp thụ kế
+#lực kế phanh
+@Lĩnh vực: đo lường & điều khiển
+#lực kế hãm
+@Lĩnh vực: cơ khí & công trình
+#lực kế hấp thụ

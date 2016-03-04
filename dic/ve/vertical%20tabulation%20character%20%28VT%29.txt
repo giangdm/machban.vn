@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký tự lập bảng dọc
+#ký tự lập bảng thẳng đứng

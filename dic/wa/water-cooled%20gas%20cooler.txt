@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ làm mát ga bằng nước
+#bộ làm mát khí (gas) bằng nước
+#bộ làm mát khí bằng nước

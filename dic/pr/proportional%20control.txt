@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#điều chỉnh theo tỷ lệ
+@Lĩnh vực: toán & tin
+#điều chỉnh tỷ lệ
+@Lĩnh vực: điện lạnh
+#điều khiển tỷ lệ
+@Lĩnh vực: xây dựng
+#sự điều chỉnh tỷ lệ

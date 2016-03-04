@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#centroidal axis
+@Lĩnh vực: xây dựng
+#trục qua trọng tâm
+#trục trọng lực
+@Lĩnh vực: cơ khí & công trình
+#trục trọng tâm

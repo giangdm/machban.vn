@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#hệ thống hãm cơ khí
+@Lĩnh vực: hóa học & vật liệu
+#phanh cơ học
+@Lĩnh vực: cơ khí & công trình
+#thắng cơ khí
+@Lĩnh vực: xây dựng
+#thắng máy
+@Lĩnh vực: toán & tin
+#thẳng máy

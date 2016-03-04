@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đuôi đèn xoáy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đui xoáy Edison
+@Lĩnh vực: điện lạnh
+#đuôi đèn Edison có ren

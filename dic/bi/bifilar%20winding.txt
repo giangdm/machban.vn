@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cuộn dây cuốn kép
+@Lĩnh vực: điện
+#cuộn dây quấn chập đôi
+#kiểu quấn chập đôi
+#kiểu quấn dây chập đôi

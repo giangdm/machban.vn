@@ -1,0 +1,9 @@
+﻿@disk capacitor
+#(Tech) bộ điện dung đĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tụ đĩa
+@Lĩnh vực: điện tử & viễn thông
+#tụ điện đĩa
+@Lĩnh vực: điện lạnh
+#tụ hình đĩa

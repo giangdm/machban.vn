@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dây dẫn âm
+@Lĩnh vực: điện
+#dây dẫn điện âm

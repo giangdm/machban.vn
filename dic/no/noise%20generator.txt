@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#nguồn tiếng ồn
+#máy phát tiếng ồn
+@Lĩnh vực: điện tử & viễn thông
+#bộ phát sinh tiếng ồn
+@Lĩnh vực: toán & tin
+#bộ sinh nhiễu
+#máy tạo tiếng ồn
+@Lĩnh vực: điện lạnh
+#máy phát tạp âm
+#máy phát tạp nhiễu

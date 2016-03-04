@@ -1,0 +1,3 @@
+﻿@Adaptive expectation
+#(Econ) Kỳ vọng thích nghi; kỳ vọng phỏng theo
+: Sự hình thành kỳ vọng về giá trị tương lai của một biến số chỉ dựa trên các giá trị trước đó của biến liên quan.

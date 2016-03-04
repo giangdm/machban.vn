@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#cự ly dừng đoàn tàu
+#khoảng dừng xe
+@Lĩnh vực: hóa học & vật liệu
+#khoảng cách hãm
+@Lĩnh vực: ô tô
+#khoảng cách phanh (quãng đường)

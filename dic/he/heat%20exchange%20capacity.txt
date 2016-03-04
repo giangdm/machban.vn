@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khả năng trao đổi nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#năng suất trao đổi nhiệt

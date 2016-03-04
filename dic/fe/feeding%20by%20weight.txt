@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự cung cấp theo trọng lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cấp theo cân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cấp theo cân

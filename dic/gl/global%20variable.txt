@@ -1,0 +1,7 @@
+﻿@global variable
+#(Tech) biến số chung, biến toàn cục
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến chung
+#biến toàn cục
+#biến tổng thể

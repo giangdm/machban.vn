@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp lõi đơn
+#cáp một dây dẫn
+#cáp một lõi

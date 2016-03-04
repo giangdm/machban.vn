@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#kính an toàn
+#kính nhiều lớp
+@Lĩnh vực: ô tô
+#kính ép
+@Lĩnh vực: xây dựng
+#thủy tinh cán
+@Lĩnh vực: hóa học & vật liệu
+#thủy tinh lớp
+@Chuyên ngành kỹ thuật
+#kính an toàn
+#kính nhiều lớp
+@Lĩnh vực: ô tô
+#kính ép
+@Lĩnh vực: xây dựng
+#thủy tinh cán
+@Lĩnh vực: hóa học & vật liệu
+#thủy tinh lớp

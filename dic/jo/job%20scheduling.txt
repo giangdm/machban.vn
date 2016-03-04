@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sắp xếp thời gian làm việc
+#sự sắp xếp chương trình công tác
+#sự sắp xếp thời gian làm việc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự hoạch định công việc

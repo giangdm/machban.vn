@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch chuyên dụng
+@Lĩnh vực: điện tử & viễn thông
+#mạch chuyên biệt
+#mạch chuyên môn hóa
+@Lĩnh vực: điện lạnh
+#mạch dành riêng
+@Lĩnh vực: toán & tin
+#mạch không chuyển đổi

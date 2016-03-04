@@ -1,0 +1,4 @@
+﻿@digital circuit
+#(Tech) mạch dạng số tự
+@Chuyên ngành kỹ thuật
+#mạch số

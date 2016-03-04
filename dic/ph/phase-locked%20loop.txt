@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng khóa pha
+@Lĩnh vực: điện tử & viễn thông
+#vòng đóng pha
+#vòng mạch khóa pha

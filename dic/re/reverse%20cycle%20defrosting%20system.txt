@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) phá băng bằng chu trình đảo chiều
+#hệ (thống) xả đá bằng chu trình đảo chiều
+#hệ thống phá băng (xả đá) bằng chu trình đảo chiều

@@ -1,0 +1,5 @@
+﻿@Tax-push inflation
+#(Econ) Lạm phát do thuế đẩy.
+: Lạm phát này liên quan đến quan tâm của công nhân trong việc duy trì mức tăng tiền công thực tế sau thuế và là một trong các yếu tố bị cho là đã làm thay đổi trong tiền công kém nhạy bén với các điều kiện của chiu kỳ kinh doanh.
+@Chuyên ngành kinh tế
+#lạm phát do mức thuế tăng

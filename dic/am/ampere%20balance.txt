@@ -1,0 +1,6 @@
+﻿@ampere balance
+#(Tech) cân bằng ampere (ampe)
+@Chuyên ngành kỹ thuật
+#cân dòng điện
+@Lĩnh vực: điện lạnh
+#cân ampere

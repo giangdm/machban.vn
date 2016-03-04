@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng vị số
+@Lĩnh vực: vật lý
+#số nulon

@@ -1,0 +1,5 @@
+﻿@arc resistance
+#(Tech) điện trở hồ quang
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện trở hồ quang

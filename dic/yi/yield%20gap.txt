@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chênh lệch lợi nhuận
+#chênh lệch lợi suất (giữa cổ phần thường và cổ phần ưu tiên)
+#khoảng cách sinh lời

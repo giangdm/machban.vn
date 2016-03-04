@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giả thiết Naviê
+#giả thiết tiết diện phẳng

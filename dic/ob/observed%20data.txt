@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dữ liệu được quan sát
+#số liệu quan sát
+#số liệu quan trắc
+@Lĩnh vực: điện tử & viễn thông
+#dữ liệu quan sát

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuyên viên máy thu hình
+@Lĩnh vực: xây dựng
+#đầu nối máy hình

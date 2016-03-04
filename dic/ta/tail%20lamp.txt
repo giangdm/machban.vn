@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#đèn đuôi
+#đèn đuôi (tàu)
+#đèn hậu
+#đèn phía sau
+#đèn sau
+@Lĩnh vực: ô tô
+#đèn hậu (chiếu sáng)
+@Lĩnh vực: giao thông & vận tải
+#đèn hiệu đuôi đoàn tàu
+@Lĩnh vực: cơ khí & công trình
+#đèn sau xe

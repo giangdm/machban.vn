@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bộ phận thu hồi
+#tác nhân chịu lạnh lỏng trên ống dẫn vào
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bẫy (lỏng) đường hút

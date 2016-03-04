@@ -1,0 +1,11 @@
+﻿@sickness benefit
+*danh từ
+#trợ cấp ốm đau (do nhà nước trả)
+@Chuyên ngành kinh tế
+#tiền trợ cấp bệnh tật, ốm đau, nghỉ bệnh
+#trợ cấp ốm đau
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#phúc lợi bệnh
+@Lĩnh vực: xây dựng
+#trợ cấp bệnh

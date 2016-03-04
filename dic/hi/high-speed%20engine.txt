@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#động cơ cao tốc
+@Lĩnh vực: vật lý
+#động cơ tốc độ cao
+@Lĩnh vực: cơ khí & công trình
+#động cơ vận hành nhanh

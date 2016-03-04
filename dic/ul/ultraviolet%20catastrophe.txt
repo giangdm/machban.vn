@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự cố tử ngoại
+#tai biến tử ngoại
+@Lĩnh vực: vật lý
+#tia họa tử ngoại

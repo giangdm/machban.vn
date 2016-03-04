@@ -1,0 +1,8 @@
+﻿@Paper profit
+#(Econ) Lợi nhuận trên giấy.
+: Khi một tài sản tăng lên về giá trị danh nghĩa. Điều này có thể biểu hiện hoặc không biểu hiện hoặc không biểu hiện một lợi nhuận thực tế, tuỳ thuộc vào tỷ lệ lạm phát.
+@Chuyên ngành kinh tế
+#lãi kế toán
+#lãi lý thuyết (trên sổ sách giấy tờ)
+#lợi nhuận trên giấy
+#lợi nhuận trên sổ sách

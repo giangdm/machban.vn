@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#blốc cấu trúc (không gian)
+#blốc kết cấu
+#khối cấu trúc (không gian)
+#khối kết cấu

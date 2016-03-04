@@ -1,0 +1,9 @@
+﻿@ground circuit
+#(Tech) mạch đất
+@Chuyên ngành kỹ thuật
+#mạch nối đất
+@Lĩnh vực: điện
+#mạch (qua) đất
+#mạch bị chạm
+@Lĩnh vực: xây dựng
+#mạch dây đất

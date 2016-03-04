@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#chất nhận dạng
+@Lĩnh vực: xây dựng
+#yếu tố nhận dạng

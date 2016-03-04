@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu lượng không khí theo thể tích
+@Lĩnh vực: điện lạnh
+#tốc độ dòng thể tích không khí

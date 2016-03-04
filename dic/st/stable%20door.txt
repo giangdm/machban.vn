@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cửa có cánh bị cắt ngắn (ở nơi để kiểm tra vé)

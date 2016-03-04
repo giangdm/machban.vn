@@ -1,0 +1,6 @@
+﻿@Wage inflation
+#(Econ) Lạm phát tiền công.
+: Sự tăng của lương danh nghĩa theo thời gian.
+@Chuyên ngành kinh tế
+#lạm phát do tăng lương
+#lạm phát tiền lương

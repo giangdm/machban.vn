@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thực nghiệm
+@Lĩnh vực: toán & tin
+#thí nghiệm mô hình
+@Lĩnh vực: cơ khí & công trình
+#thực nghiệm mô hình

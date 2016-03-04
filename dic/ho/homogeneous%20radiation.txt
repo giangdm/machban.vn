@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bức xạ đơn sắc
+@Lĩnh vực: vật lý
+#bức xạ đồng tính
+@Lĩnh vực: xây dựng
+#sự phát xạ đồng nhất

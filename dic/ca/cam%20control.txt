@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều khiển bằng cam
+#sự phân phối bằng cam
+@Lĩnh vực: vật lý
+#cấu cam

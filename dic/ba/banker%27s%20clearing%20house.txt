@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#phòng thanh toán bù trừ của ngân hàng
+#phòng thanh toán phiếu khoán của ngân hàng
+#sở thanh toán ngân hàng

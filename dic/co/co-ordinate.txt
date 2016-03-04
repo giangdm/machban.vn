@@ -1,0 +1,18 @@
+﻿@co-ordinate /kou'ɔ:dnit/
+*tính từ
+#ngang hàng, bằng vai
+=a co-ordinate person: người ngang hàng, người bằng vai
+=a co-ordinate thing: vật ngang hàng, vật không kèm phần quan trọng
+#(toán học) toạ độ
+=co-ordinate angle: góc toạ độ
+=co-ordinate bombing: (quân sự) sự ném bom toạ độ
+#(ngôn ngữ học) kết hợp
+=co-ordinate conjunction: liên từ kết hợp
+*danh từ
+#(toán học) toạ độ
+=target co-ordinates: bản đồ có toạ độ chỉ mục tiêu (ném bom)
+*ngoại động từ
+#đặt đồng hàng
+#phối hợp, xếp sắp
+=to co-ordinate one's movements in swimming: phối hợp các động tác trong lúc bơi
+=to co-ordinate ideas: xếp sắp ý kiến

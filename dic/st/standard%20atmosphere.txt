@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#atmosphe (ở điều kiện) (tiêu) chuẩn
+#atmosphe thông thường
+#atmosphe tiêu chuẩn
+#khí quyển thông thường
+@Lĩnh vực: xây dựng
+#bầu không khí tiêu chuẩn
+@Lĩnh vực: toán & tin
+#khí quyển tiêu chuẩn

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cột cuối
+@Lĩnh vực: điện lạnh
+#cột cuối (ở đường dây)
+@Lĩnh vực: điện
+#cột tháp đầu cuối

@@ -1,0 +1,5 @@
+﻿@powerpc
+#Một loại vi xử lý RISC do hãng Motorola chế tạo, đang cạnh tranh với chip Intel Pentium
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vi xử lý PowerPC

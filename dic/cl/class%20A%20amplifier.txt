@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bộ khuếch đại A
+@Lĩnh vực: điện
+#bộ khuếch đại cấp A
+@Lĩnh vực: toán & tin
+#bộ khuếch đại lớp A

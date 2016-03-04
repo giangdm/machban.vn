@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#sự đồng bộ ngang
+#sự khóa ngang

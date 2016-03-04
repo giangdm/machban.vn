@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cầu đo (điện) xoay chiều
+@Lĩnh vực: toán & tin
+#cầu dòng xoay chiều

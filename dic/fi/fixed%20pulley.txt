@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#puli cố định
+@Lĩnh vực: cơ khí & công trình
+#puli cố định (trên trục)
+@Lĩnh vực: xây dựng
+#puli không di động
+@Chuyên ngành kỹ thuật
+#puli cố định
+@Lĩnh vực: cơ khí & công trình
+#puli cố định (trên trục)
+@Lĩnh vực: xây dựng
+#puli không di động

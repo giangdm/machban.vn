@@ -1,0 +1,2 @@
+﻿@expanded memory specifications (EMS)
+#(Tech) các quy định bộ nhớ mở rộng

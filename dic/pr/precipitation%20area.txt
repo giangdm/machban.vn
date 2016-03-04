@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bồn tiêu nước
+#diện tích tiêu nước
+#giáng thủy (ở rađa)
+#lưu vực sông
+#vùng giáng thủy
+#vùng mưa
+#vùng thu nước
+#vùng tín dội

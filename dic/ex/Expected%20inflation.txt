@@ -1,0 +1,7 @@
+﻿@Expected inflation
+#(Econ) Mức lạmp phát kỳ vọng; Lạm phát dự tính
+: TỶ LỆ LẠM PHÁT nào đó được dự tính trong tương lai.
+@Chuyên ngành kinh tế
+#lạm pháp dự tính
+#lạm phát dự tính
+#mức lạm pháp dự tính

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều khiển (theo phương pháp) Ward-Leonard
+@Lĩnh vực: điện
+#điều khiển kiểu Ward-Leonard

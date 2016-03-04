@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#quy hoạch phi tuyến tính
+@Lĩnh vực: toán & tin
+#quy hoạch phi tuyến
+#sự lập trình phi tuyến

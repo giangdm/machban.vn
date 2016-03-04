@@ -1,0 +1,8 @@
+﻿@Market mechanism
+#(Econ) Cơ chế thị trường.
+@Chuyên ngành kinh tế
+#chức năng điều tiết của thị trường
+#cơ cấu thị trường
+#cơ chế thị trường
+@Chuyên ngành kỹ thuật
+#cơ chế thị trường

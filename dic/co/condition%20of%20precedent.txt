@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#điều kiện đình chỉ
+#điều kiện phát sinh nghĩa vụ
+#điều kiện tiên quyết
+#điều kiện tùy một bên

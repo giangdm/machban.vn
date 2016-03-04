@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dầm rung (để dầm bê tông)
+#thanh rung (để dầm bê tông)
+#thước rung (để dầm bê tông)

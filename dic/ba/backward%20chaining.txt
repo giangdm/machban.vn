@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi ngược
+#kết chuỗi ngược
+#móc nối ngược

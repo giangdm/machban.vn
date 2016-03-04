@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khung cửa sổ
+#khuôn cửa sổ
+#xây dựng khung cửa sổ
+@Lĩnh vực: xây dựng
+#khuôn cánh cửa sổ

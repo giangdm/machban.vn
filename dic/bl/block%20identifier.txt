@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhận biết khối
+#ký hiệu nhận dạng khối
+@Lĩnh vực: điện tử & viễn thông
+#định danh khối

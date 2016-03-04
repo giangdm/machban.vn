@@ -1,0 +1,2 @@
+﻿@audio-frequency wave
+#(Tech) sóng âm-tầm

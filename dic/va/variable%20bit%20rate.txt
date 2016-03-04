@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhịp bít biến thiên (dịch vụ)
+@Lĩnh vực: toán & tin
+#tốc độ biến đổi bit
+@Lĩnh vực: điện lạnh
+#tốc độ bit biến thiên

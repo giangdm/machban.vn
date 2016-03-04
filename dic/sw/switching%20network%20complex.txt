@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mạng chuyển mạch
+#phức hợp mạng chuyển mạch
+@Lĩnh vực: điện tử & viễn thông
+#tầng chuyển mạch

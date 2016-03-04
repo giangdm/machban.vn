@@ -1,0 +1,19 @@
+﻿@Chuyên ngành kỹ thuật
+#cắt
+#đóng
+#đóng (vòi nước)
+#đóng lại
+#khóa
+#ngắt
+#ngắt nước
+#tháo ra
+#vặn ra
+@Lĩnh vực: toán & tin
+#đóng, ngắt
+@Lĩnh vực: hóa học & vật liệu
+#tạt
+@Lĩnh vực: điện
+#tắt (ngừng cung cấp điện)
+#tắt điện
+@Lĩnh vực: xây dựng
+#tắt đi

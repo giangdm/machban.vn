@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự tách số liệu
+@Lĩnh vực: điện tử & viễn thông
+#tách dữ liệu

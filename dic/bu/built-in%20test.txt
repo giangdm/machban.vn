@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra tự động
+@Lĩnh vực: toán & tin
+#sự kiểm tra cài sẵn
+#sự kiểm tra lập sẵn

@@ -1,0 +1,12 @@
+﻿@Earning
+#(Econ) Thu nhập.
+: Cụn thuật ngữ được sử dụng theo hai cách: một để miêu tả phần lợi tức đối với nỗ lực của con người, thù lao cho đầu vào của yếu tố lao động sản xuất và nghĩa thứ hai để miêu tả thu nhập của một doanh nghiệp.
+@Chuyên ngành kinh tế
+#có lãi
+#có lợi
+#kiếm được lãi
+#lời được
+#sự kiếm được
+#thu nhập
+#thuộc về doanh lợi
+#tiền kiếm được

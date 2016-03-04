@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chiều cao hút hình học (của bơm)
+#chiều cao hút tĩnh
+@Lĩnh vực: cơ khí & công trình
+#cột nước hút tĩnh

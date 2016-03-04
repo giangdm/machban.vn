@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#phân phối tần số tương đối
+#phân phối tần suất tương đối

@@ -1,0 +1,12 @@
+﻿@Arithmetic mean
+#(Econ) Trung bình số học.
+: Xem MEAN.
+<!-- more -->
+@arithmetic mean
+#(Tech) trị trung bình cộng
+@Chuyên ngành kinh tế
+#số trung bình cộng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị trung bình cộng
+#trung bình cộng số học

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch ngoài giờ
+#ngoài phố
+#những giao dịch chứng khoán đường phố
+#những giao dịch chứng khoán đường phố (ngoài sở giao dịch)

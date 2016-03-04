@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#định luật mômen định lượng
+@Lĩnh vực: điện tử & viễn thông
+#định luật mômen động lượng

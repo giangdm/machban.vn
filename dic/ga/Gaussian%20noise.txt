@@ -1,0 +1,11 @@
+﻿@Gaussian noise
+#(Tech) nhiễu Gauss (Gauxơ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#nhiễu Gauss
+#nhiễu Gauxơ
+@Lĩnh vực: điện lạnh
+#tạp nhiễu Gauss
+#tiếng ồn Gauss
+@Lĩnh vực: điện tử & viễn thông
+#tiếng ồn Gaussien

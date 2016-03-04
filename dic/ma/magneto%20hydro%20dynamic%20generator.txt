@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy phát MHD
+@Lĩnh vực: điện
+#máy phát từ thủy động

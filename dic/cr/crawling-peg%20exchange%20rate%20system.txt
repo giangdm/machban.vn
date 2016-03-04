@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#chế độ tỉ giá hối đoái cố định điều chỉnh dần
+#chế độ tỷ giá cố định điều chỉnh dần

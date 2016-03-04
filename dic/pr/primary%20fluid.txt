@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#môi trường lạnh sơ cấp
+@Lĩnh vực: hóa học & vật liệu
+#chất lỏng (làm lạnh) ban đầu
+@Lĩnh vực: điện lạnh
+#chất lưu sơ cấp

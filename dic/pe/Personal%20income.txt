@@ -1,0 +1,5 @@
+﻿@Personal income
+#(Econ) Thu nhập cá nhân.
+: Lưu lượng thu nhập tích luỹ lại của một cá nhân hoặc hộ gia đình.
+@Chuyên ngành kinh tế
+#thu nhập cá nhân

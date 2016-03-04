@@ -1,0 +1,3 @@
+﻿@Accepting house
+#(Econ) Ngân hàng nhận trả.
+: Một trong số các NGÂN HÀNG THƯƠNG MẠI có trụ sở tại London, với mục đích thu tiền hoa hồng ngân hàng này nhận trả các hối phiếu, nghĩa là chấp nhận thanh toán chúng khi đáo hạn.

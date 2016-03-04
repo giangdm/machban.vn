@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phòng đăng ký ruộng đất sở địa chính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công tác địa chính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công tác địa chính

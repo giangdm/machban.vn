@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#người điều hành hệ thống
+#người thao tác hệ thống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều hành viên hệ thống

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp giữ nhiệt
+@Lĩnh vực: điện
+#bảo vệ nhiệt
+@Lĩnh vực: điện lạnh
+#bảo vệ quá nhiệt
+@Lĩnh vực: xây dựng
+#biện pháp giữ nhiệt

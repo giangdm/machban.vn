@@ -1,0 +1,2 @@
+﻿@electronic automatic frequency control
+#(Tech) sự kiểm tra tần số tự động bằng điện tử

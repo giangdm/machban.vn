@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy điều nhiệt kiểu ống
+#rơle nhiệt độ ống
+#tecmostat ống
+#thermostat ống

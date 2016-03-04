@@ -1,0 +1,9 @@
+﻿@Threshold effect
+#(Econ) Tác động ngưỡng.
+: Sự tăng mức thuế mà một cộng đồng được cho sẵn là sẵn sàng trả do có khủng hoảng hay khẩn cấp quốc gia.
+@Chuyên ngành kinh tế
+#hiệu quả bước đầu
+#hiệu quả bước đầu (của quảng cáo đối với việc kinh đoanh)
+#hiệu quả bước đầu trong kinh doanh nhờ quảng cáo
+@Chuyên ngành kỹ thuật
+#hiệu ứng ngưỡng

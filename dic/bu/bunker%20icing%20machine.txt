@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy nạp đá vào toa lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy cấp đá vào bunke
+#máy cấp đá vào bunke [thùng]
+#máy cấp đá vào thùng

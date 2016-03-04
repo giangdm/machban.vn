@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ quạt gió
+#bộ thông gió
+@Lĩnh vực: xây dựng
+#hệ thiết bị thông gió
+@Lĩnh vực: điện lạnh
+#tổ quạt gió
+@Chuyên ngành kỹ thuật
+#bộ quạt gió
+#bộ thông gió
+@Lĩnh vực: xây dựng
+#hệ thiết bị thông gió
+@Lĩnh vực: điện lạnh
+#tổ quạt gió

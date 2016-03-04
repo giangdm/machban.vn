@@ -1,0 +1,6 @@
+﻿@build-in
+#(máy tính) đã lắp ráp
+@Chuyên ngành kỹ thuật
+#sẵn có
+@Lĩnh vực: cơ khí & công trình
+#lỗi kỹ thuật

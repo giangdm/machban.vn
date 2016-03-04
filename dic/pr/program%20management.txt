@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quản lý chương trình
+@Lĩnh vực: toán & tin
+#sự quản lý chương trình

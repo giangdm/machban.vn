@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#biên lai trả tiền, phiếu thu (tiền) lần cuối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tiền công lần cuối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tiền công lần cuối

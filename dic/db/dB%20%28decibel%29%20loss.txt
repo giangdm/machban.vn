@@ -1,0 +1,2 @@
+﻿@dB (decibel) loss
+#(Tech) suy giảm bằng đêxiben

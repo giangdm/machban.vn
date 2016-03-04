@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường dây truy nhập tổng đài nhánh riêng
+#đường dây truy nhập tổng đài nội bộ
+@Lĩnh vực: điện lạnh
+#đường truy nhập tổng đài nhánh lẻ

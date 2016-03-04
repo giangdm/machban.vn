@@ -1,0 +1,7 @@
+﻿@business address /'biznisə'dres/
+*danh từ
+#địa chỉ kinh doanh
+@Chuyên ngành kinh tế
+#địa chỉ kinh doanh
+#địa chỉ nơi làm việc
+#địa chỉ văn phòng

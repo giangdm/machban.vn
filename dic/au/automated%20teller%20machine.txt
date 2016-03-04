@@ -1,0 +1,5 @@
+﻿@automated teller machine
+*danh từ, viết tắt là ATM
+# như automatic teller machine
+@Chuyên ngành kỹ thuật
+#máy rút tiền tự động

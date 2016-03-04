@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất dư
+@Lĩnh vực: xây dựng
+#áp lực quá lớn
+@Lĩnh vực: điện lạnh
+#áp suất quá mức
+@Lĩnh vực: hóa học & vật liệu
+#áp suất thừa
+@Chuyên ngành kỹ thuật
+#áp suất dư
+@Lĩnh vực: xây dựng
+#áp lực quá lớn
+@Lĩnh vực: điện lạnh
+#áp suất quá mức
+@Lĩnh vực: hóa học & vật liệu
+#áp suất thừa

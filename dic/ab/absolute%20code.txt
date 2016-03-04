@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#mã tuyệt đối (máy tính)
+@Chuyên ngành kỹ thuật
+#mã máy
+#mã riêng
+#mã tuyệt đối

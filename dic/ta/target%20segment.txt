@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phân đoạn (thị trường) mục tiêu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đoạn đích

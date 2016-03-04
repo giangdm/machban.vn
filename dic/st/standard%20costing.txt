@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#định giá thành chuẩn
+#phương pháp hạch toán giá thành tiêu chuẩn, theo định mức

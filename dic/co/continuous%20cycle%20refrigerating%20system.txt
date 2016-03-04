@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ làm lạnh chu trình liên tục
+#hệ thống lạnh chu trình liên tục

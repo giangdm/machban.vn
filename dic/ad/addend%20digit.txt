@@ -1,0 +1,2 @@
+﻿@addend digit
+#(Tech) ký số của số cộng

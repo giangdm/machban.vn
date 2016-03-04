@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nguyên lí Huygens
+@Lĩnh vực: vật lý
+#nguyên lý Huygens

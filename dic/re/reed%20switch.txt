@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ chuyển mạch cọng từ
+@Lĩnh vực: vật lý
+#cầu dao lưỡi gà
+@Lĩnh vực: điện lạnh
+#chuyển mạch cọng từ
+#chuyển mạch lưỡi gà

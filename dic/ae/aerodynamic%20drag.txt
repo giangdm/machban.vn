@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lực cản không khí
+@Lĩnh vực: vật lý
+#lực cản khí động lực
+@Lĩnh vực: ô tô
+#sức cản không khí (cd, cw, cx)

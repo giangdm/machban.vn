@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bệ để bảo quản thực phẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giá đỡ bảo quản thực phẩm
+#tạo ngăn bảo quản thực phẩm

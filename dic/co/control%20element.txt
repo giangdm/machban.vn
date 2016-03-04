@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#yếu tố kiểm tra
+@Lĩnh vực: đo lường & điều khiển
+#phần tử điều khiển

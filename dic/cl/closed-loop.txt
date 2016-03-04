@@ -1,0 +1,4 @@
+﻿@closed-loop
+*danh từ
+#(tin học) chu trình đóng
+=closed-loop control:điều khiển chu trình đóng

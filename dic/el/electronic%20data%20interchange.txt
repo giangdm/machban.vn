@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự chao đổi với dữ liệu (với nhau) bằng máy điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trao đổi dữ liệu điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trao đổi dữ liệu điện tử

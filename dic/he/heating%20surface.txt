@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#làm nóng bề mặt
+#lò sưởi phẳng
+#mặt nung nóng
+#mặt tỏa nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#bề mặt đun nóng
+@Lĩnh vực: điện lạnh
+#bề mặt gia nhiệt
+#bề mặt sưởi
+@Lĩnh vực: vật lý
+#bề mặt nung nóng
+#bề mặt tỏa nhiệt
+#mặt nung hiệu dụng
+@Lĩnh vực: xây dựng
+#diện tích sưởi
+@Lĩnh vực: toán & tin
+#mặt bị hun nóng

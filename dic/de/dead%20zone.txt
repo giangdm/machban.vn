@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng chết
+#vùng không vang
+@Lĩnh vực: toán & tin
+#miền chết
+#miền không đổi
+#vùng không nhạy
+#vùng không thay đổi

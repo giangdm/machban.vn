@@ -1,0 +1,3 @@
+﻿@Contract curve
+#(Econ) Đường hợp đồng
+: Trong trường hợp hai người tiêu dùng trao đổi hai mặt hàng, đường này là quỹ tích các điểm tại đó TỶ LỆ THAY THẾ BIÊN giữa hai mặt hàng là như nhau đối với hai người tiêu dùng (Xem EDGEWORTH BOX).

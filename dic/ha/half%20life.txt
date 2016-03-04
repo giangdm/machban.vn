@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu kì bán hủy
+#chu kì bán rã
+@Lĩnh vực: y học
+#nửa thời gian sống

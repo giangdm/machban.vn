@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thử nghiệm hủy hoại
+#thử nghiệm xuống cấp

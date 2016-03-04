@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#thời gian vận hành
+@Chuyên ngành kỹ thuật
+#pha đích
+#thời gian chạy
+#thời gian làm việc
+#thời gian thực hiện
+#thời gian truyền
+@Lĩnh vực: điện tử & viễn thông
+#thời gian chạy hoạt động
+@Lĩnh vực: toán & tin
+#thời gian thi hành

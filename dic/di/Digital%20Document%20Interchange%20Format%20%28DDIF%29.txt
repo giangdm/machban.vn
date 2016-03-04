@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khuôn dạng trao đổi tài liệu số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dạng thức hoán đổi tài liệu số
+#định dạng trao đổi tài liệu số

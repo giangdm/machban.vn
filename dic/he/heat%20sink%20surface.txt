@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bề mặt hấp thụ nhiệt thải
+#bề mặt hố nhiệt

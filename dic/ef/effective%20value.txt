@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giá trị thực tế
+@Chuyên ngành kỹ thuật
+#giá trị hiệu dụng
+#giá trị thực
+@Lĩnh vực: hóa học & vật liệu
+#giá trị hữu hiệu
+@Lĩnh vực: điện
+#trị số hiệu dụng

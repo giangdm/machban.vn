@@ -1,0 +1,24 @@
+﻿@Chuyên ngành kỹ thuật
+#hành trình giãn nở
+#hành trình làm việc
+#kỳ giãn nở
+#kỳ nở
+@Lĩnh vực: điện lạnh
+#hành trình dãn nở
+@Lĩnh vực: ô tô
+#kỳ sinh công
+#thì giãn nở
+@Lĩnh vực: cơ khí & công trình
+#thì nổ
+@Chuyên ngành kỹ thuật
+#hành trình giãn nở
+#hành trình làm việc
+#kỳ giãn nở
+#kỳ nở
+@Lĩnh vực: điện lạnh
+#hành trình dãn nở
+@Lĩnh vực: ô tô
+#kỳ sinh công
+#thì giãn nở
+@Lĩnh vực: cơ khí & công trình
+#thì nổ

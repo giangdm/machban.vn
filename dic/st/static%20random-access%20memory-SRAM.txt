@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự định tuyến tĩnh
+#sự tạo đường truyền tĩnh

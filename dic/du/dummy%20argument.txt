@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đối số giả
+#tham số
+@Lĩnh vực: toán & tin
+#đối số hình thức

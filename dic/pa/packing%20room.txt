@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công đoạn nghiền hỗn hợp
+#phân xưởng bao gói
+@Chuyên ngành kỹ thuật
+#phòng đóng bao
+#phòng đóng gói
+#phòng đóng kiện

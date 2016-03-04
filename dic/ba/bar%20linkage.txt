@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cấu bản lề
+@Lĩnh vực: vật lý
+#cấu thanh

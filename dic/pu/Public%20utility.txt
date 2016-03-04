@@ -1,0 +1,12 @@
+﻿@Public utility
+#(Econ) Ngành dịch vụ công cộng
+: Một công ty hay xí nghiệp là người cung cấp duy nhất một loại hàng hoá hoặc dịch vụ thiết yếu nào đó, do đó phải chịu hình thức kiểm soát của chính phủ.
+@Chuyên ngành kinh tế
+#ngành công ích
+#ngành phục vụ công cộng
+@Chuyên ngành kỹ thuật
+#dịch vụ công cộng
+<!-- more -->
+@public utility
+*danh từ
+#ngành dịch vụ công cộng (cấp nước, điện, mạng lưới xe búyt )

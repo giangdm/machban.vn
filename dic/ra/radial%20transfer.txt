@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự chuyển giao theo tia
+#sự chuyển giao xuyên tâm
+@Lĩnh vực: toán & tin
+#sự truyền theo bán kính
+#sự truyền xuyên tâm

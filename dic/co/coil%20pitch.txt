@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bước cuộn dây
+@Lĩnh vực: điện lạnh
+#bước dây quấn

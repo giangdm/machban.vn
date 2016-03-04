@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#sự đơn vị hóa hàng chở
+#sự gom hàng hóa thành đơn vị tiêu chuẩn để chuyên chở

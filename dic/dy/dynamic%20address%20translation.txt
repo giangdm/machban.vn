@@ -1,0 +1,5 @@
+﻿@dynamic address translation
+#(Tech) sự tính địa chỉ ngay lúc chạy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#DAT

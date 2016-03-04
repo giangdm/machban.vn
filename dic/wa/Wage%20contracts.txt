@@ -1,0 +1,6 @@
+﻿@Wage contracts
+#(Econ) Hợp đồng tiền công
+: Thoả thuận chính thức hoặc không chính thức giữa một bên là người sử dụng lao động với một bên là người đại diện lao động về số giờ làm việc, khối lượng công việc và tiền lương.
+@Chuyên ngành kinh tế
+#hợp đồng tiền lương
+#hợp đồng về tiền lương

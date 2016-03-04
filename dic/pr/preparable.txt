@@ -1,0 +1,3 @@
+﻿@preparable
+*tính từ
+#có thể prepare

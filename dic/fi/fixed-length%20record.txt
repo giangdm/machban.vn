@@ -1,0 +1,2 @@
+﻿@fixed-length record
+#(Tech) bản ghi (có) độ dài cố định

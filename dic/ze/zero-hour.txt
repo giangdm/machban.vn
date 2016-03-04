@@ -1,0 +1,8 @@
+﻿@zero-hour
+*danh từ
+#thời gian mà một cuộc hành quân, một cuộc tấn công được trù tính bắt đầu; giờ G
+#zero-hour is 330 am
+#giờ G là 3 giờ rưỡi sáng
+*danh từ
+#thời gian mà một cuộc hành quân, một cuộc tấn công được trù tính bắt đầu; giờ G
+=zero-hour is 330 am:giờ G là 3 giờ rưỡi sáng

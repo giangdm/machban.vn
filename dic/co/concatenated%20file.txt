@@ -1,0 +1,2 @@
+﻿@concatenated file
+#(Tech) tập dữ kiện nối chuỗi

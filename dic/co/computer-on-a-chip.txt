@@ -1,0 +1,5 @@
+﻿@computer-on-a-chip
+#(Tech) máy điện toán trên chíp
+@Chuyên ngành kinh tế
+#máy vi tính cỡ nhỏ
+#máy xử lý vi số liệu

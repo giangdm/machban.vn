@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#năng suất lạnh tổng
+#tổng năng suất lạnh
+@Lĩnh vực: điện lạnh
+#năng suất lạnh tiêu chuẩn

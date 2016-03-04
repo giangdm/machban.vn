@@ -1,0 +1,3 @@
+﻿@Stereotypes
+#(Econ) Các định kiến.
+: Nguồn gốc của sự phân biệt có thể nảy sinh từ những thông tin không hoàn hảo trong thị trường lao động.

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#đơn vị giao dịch
+#đơn vị giao dịch (số lượng giao dịch nhỏ nhất)
+#đơn vị mua bán

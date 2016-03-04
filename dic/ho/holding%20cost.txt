@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí dự trữ trong kho
+#công ty khống chế
+#phí tổn trữ kho

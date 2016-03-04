@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#doanh số gộp
+#doanh thu gộp
+#thu nhập gộp
+#tổng doanh thu
+#tổng số thu
+@Chuyên ngành kỹ thuật
+#doanh thu

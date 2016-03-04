@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#buồng lạnh
+#gian lạnh
+#khu lạnh
+@Lĩnh vực: điện lạnh
+#buồng [khu
+#gian] lạnh

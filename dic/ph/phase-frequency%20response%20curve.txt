@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đáp tuyến pha-tần
+#đường cong đáp ứng pha-tần

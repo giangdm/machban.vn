@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#đèn bóng tròn
+#đèn dây tóc
+#đèn điện
+#đèn nóng sáng
+#đèn sợi đốt
+@Lĩnh vực: điện
+#đèn nung nóng sáng
+#đèn sáng nóng
+@Lĩnh vực: xây dựng
+#đèn nung sáng

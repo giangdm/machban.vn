@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#cấp không khí
+#lỗ xả không khí
+#lưu lượng gió
+#sự xả không khí
+@Lĩnh vực: điện lạnh
+#đẩy không khí
+#sự cấp không khí
+#sự đẩy không khí

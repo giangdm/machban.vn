@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lấy dấu
+#bộ vạch chỉ
+#thước vạch dấu
+@Lĩnh vực: xây dựng
+#thước cặp đo độ cao

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#bể chứa thử mô hình tàu (đóng tàu)

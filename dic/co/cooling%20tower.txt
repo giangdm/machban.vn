@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công trình làm nguội nước
+#tháp (làm) lạnh
+#thùng làm nguội
+@Lĩnh vực: điện
+#háp làm mát (nước)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ba lớp
+@Lĩnh vực: đo lường & điều khiển
+#ba bậc
+@Lĩnh vực: xây dựng
+#ba cấp

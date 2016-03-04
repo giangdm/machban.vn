@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đường cong phân loại
+#đường cong sàng lọc
+@Lĩnh vực: hóa học & vật liệu
+#đường cỡ hạt
+@Lĩnh vực: xây dựng
+#đường cong cấp phối hạt
+#đường cong thành phần hạt

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mã nhị phân
+@Lĩnh vực: điện tử & viễn thông
+#mã CMI
+@Lĩnh vực: điện lạnh
+#mã đảo dấu

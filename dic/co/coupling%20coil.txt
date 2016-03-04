@@ -1,0 +1,5 @@
+﻿@coupling coil
+#(Tech) cuộn dây ghép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn ghép

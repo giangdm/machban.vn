@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bảng cân đối kiểm tra
+#bảng tính thử
+#cân đối tạm
+#cân tạm số
+#kết toán kiểm tra

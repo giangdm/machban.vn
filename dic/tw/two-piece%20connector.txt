@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ nối hai chi tiết
+#bộ nối hai thành phần

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#điểm cân bằng
+@Lĩnh vực: đo lường & điều khiển
+#điểm cân bằng (cầu đo)

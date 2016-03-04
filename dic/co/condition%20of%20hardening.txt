@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#điều kiện (để) đông cứng
+#điều kiện tăng bền

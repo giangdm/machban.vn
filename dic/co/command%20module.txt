@@ -1,0 +1,6 @@
+﻿@command module [kə'ma:nd'mɔdju:l]
+*danh từ
+# khoang chứa người, trang bị trong phi thuyền vũ trụ
+@Chuyên ngành kỹ thuật
+#khoang chỉ huy
+#mođum chỉ huy

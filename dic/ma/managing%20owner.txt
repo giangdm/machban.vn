@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chủ quản lý tàu
+#chủ tàu quản lý
+#người chủ quản thuê tàu

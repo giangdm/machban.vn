@@ -1,0 +1,7 @@
+﻿@Inheritance tax
+#(Econ) Thuế thừa kế.
+: Đây là một loại thuế đánh vào của cải ở Anh và đến tân năm 1986 vẫn được coi là THUẾ CHUYỂN NHƯỢNG VỐN, thuế này đã thay thế cho THUẾ BẤT ĐỘNG SẢN năm 1974.
+@Chuyên ngành kinh tế
+#thuế di dản
+#thuế thừa kế
+#thuế thừa kế di sản

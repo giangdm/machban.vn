@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phân bố theo cỡ hạt
+@Lĩnh vực: hóa học & vật liệu
+#phân bố hạt theo kích thước
+@Lĩnh vực: xây dựng
+#sự phân bố cỡ hạt

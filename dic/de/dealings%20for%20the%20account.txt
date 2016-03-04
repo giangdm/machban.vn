@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch ghi sổ
+#giao dịch kỳ hạn (thanh toán sau)

@@ -1,0 +1,3 @@
+﻿@EC Agricultural Livies
+#(Econ) Thuế nông nghiệp của EC
+: Thuế do các thành viên của CỘNG ĐỒNG CHÂU ÂU (EC) đánh vào hàng nông phẩm nhập khẩu từ các nước không phải là thành viên.

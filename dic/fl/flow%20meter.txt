@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kinh tế
+#cái đo độ tiêu tốn
+@Chuyên ngành kỹ thuật
+#công tơ nước
+#lưu luợng kế
+#máy đo lưu lượng
+@Lĩnh vực: xây dựng
+#dụng cụ đo lưu lượng
+@Lĩnh vực: cơ khí & công trình
+#khí cụ đo độ chảy
+@Chuyên ngành kỹ thuật
+#công tơ nước
+#lưu luợng kế
+#máy đo lưu lượng
+@Lĩnh vực: xây dựng
+#dụng cụ đo lưu lượng
+@Lĩnh vực: cơ khí & công trình
+#khí cụ đo độ chảy

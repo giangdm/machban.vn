@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#điều động các chức vụ
+#sự thay đổi điều chỉnh chức vị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự bàn giao chức vụ

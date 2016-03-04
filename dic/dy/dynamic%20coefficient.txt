@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số động lực
+@Lĩnh vực: xây dựng
+#hệ số động học

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#phân tích bằng số
+@Lĩnh vực: toán & tin
+#phân tích số

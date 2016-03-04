@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#dao động của nhiệt độ
+@Lĩnh vực: điện lạnh
+#sự sai lệch (dao động) nhiệt độ

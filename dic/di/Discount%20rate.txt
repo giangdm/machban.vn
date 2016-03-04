@@ -1,0 +1,9 @@
+﻿@Discount rate
+#(Econ) Tỷ lệ chiết khấu; suất chiết khấu
+: Tỷ lệ mà lợi nhuận hay chi phí tương lai sẽ được chiết khấu do SỞ THÍCH HIỆN TẠI HƠN TƯƠNG LAI hoặc vì sự tồn tại của LÃI SUẤT DƯƠNG.
+@Chuyên ngành kinh tế
+#lãi suất chiết khấu
+@Chuyên ngành kỹ thuật
+#hệ số tính đổi
+@Lĩnh vực: toán & tin
+#hệ số chiết khấu

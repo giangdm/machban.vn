@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phí thu theo số lượng
+#phí thu theo số lượng hàng hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện tích khối

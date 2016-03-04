@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị ngưng tụ bề mặt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bộ ngưng bề mặt
+@Lĩnh vực: điện lạnh
+#dàn ngưng tụ bề mặt
+#giàn ngưng tụ bề mặt

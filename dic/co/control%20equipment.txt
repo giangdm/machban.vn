@@ -1,0 +1,4 @@
+﻿@control equipment
+#(Tech) thiết bị điều khiển
+@Chuyên ngành kỹ thuật
+#thiết bị điều khiển

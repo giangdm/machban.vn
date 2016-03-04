@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#giá thành
+#giá vốn
+#phí tổn ban đầu
+@Chuyên ngành kỹ thuật
+#chi phí ban dầu
+#giá thành
+#giá thành sản xuất
+#giá vốn
+@Chuyên ngành kỹ thuật
+#chi phí ban dầu
+#giá thành
+#giá thành sản xuất
+#giá vốn

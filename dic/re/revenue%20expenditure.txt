@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí kinh doanh, hoạt động, chi tiêu thu nhập
+#chi tiêu (dùng) thu nhập
+#chi tiêu thu nhập

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ phát hiện nhiệt
+@Lĩnh vực: điện lạnh
+#detectơ nhiệt
+@Lĩnh vực: điện tử & viễn thông
+#máy phát hiện nhiệt (bức xạ)

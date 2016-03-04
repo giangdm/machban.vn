@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hình rỗ không đối xứng
+#hình xăm không đối xứng

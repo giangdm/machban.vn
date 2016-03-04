@@ -1,0 +1,2 @@
+﻿@deflection defocusing
+#(Tech) tác dụng tán tiêu làm lệch

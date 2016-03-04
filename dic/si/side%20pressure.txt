@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực hông
+@Lĩnh vực: xây dựng
+#áp lực thành bên
+@Lĩnh vực: hóa học & vật liệu
+#áp suất biên

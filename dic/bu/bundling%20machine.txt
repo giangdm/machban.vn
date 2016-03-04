@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#máy cuốn bó
+#máy đóng gói bánh quy
+#máy đóng gói thuốc lá
+@Chuyên ngành kỹ thuật
+#máy bó
+#máy đóng chai
+#máy đóng kiện

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bên được gọi (điện thoại)
+@Chuyên ngành kỹ thuật
+#bên được gọi
+#người được gọi
+@Lĩnh vực: toán & tin
+#thuê bao được gọi

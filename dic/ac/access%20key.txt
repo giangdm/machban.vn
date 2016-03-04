@@ -1,0 +1,9 @@
+﻿@access key
+#(Tech) phím truy cập
+@Chuyên ngành kỹ thuật
+#khóa truy nhập
+@Lĩnh vực: toán & tin
+#kháo truy nhập
+#khóa truy cập
+#khóa truy xuất
+#phím truy cập

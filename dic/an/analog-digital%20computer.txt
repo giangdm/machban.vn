@@ -1,0 +1,7 @@
+﻿@analog-digital computer
+#(Tech) máy điện toán dạng tương tự-số tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy tính số tương tự
+@Lĩnh vực: toán & tin
+#máy tính tương tự số

@@ -1,0 +1,10 @@
+﻿@Stock option
+#(Econ) Quyền mua/ bán chứng khoán.
+: Quyền mua một chứng khoán cho trước hoạc bán nó tại một mức giá cả đã được định trước trong một giai đoạn.
+@Chuyên ngành kinh tế
+#quyền (mua hay bán) cổ phiếu
+#quyền chọn (mua hay bán)
+#quyền chọn mua cổ phiếu
+#quyền nhận mua cổ phần
+#quyền nhận mua cổ phiếu
+#quyền ưu tiên đặt mua cổ phiếu

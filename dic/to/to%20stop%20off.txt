@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#che phủ một phần sản phẩm (khi thấm than và mạ)
+#trát vào khuôn đúc (bằng vật liệu chịu lửa)

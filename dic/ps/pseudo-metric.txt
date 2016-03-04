@@ -1,0 +1,5 @@
+﻿@pseudo-metric
+#giả mêtric
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giả metric

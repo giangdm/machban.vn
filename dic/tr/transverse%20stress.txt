@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất uốn ngang
+@Lĩnh vực: điện lạnh
+#ứng suất ngang
+@Lĩnh vực: xây dựng
+#ứng suất trên phương ngang

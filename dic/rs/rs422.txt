@@ -1,0 +1,2 @@
+﻿@rs422
+#Một tiêu chuẩn do Electronic Industries Association (EIA) đưa ra, được dùng làm tiêu chuẩn cổng nối tiếp cho các máy tính Macintosh RS- 422 hướng dẫn việc truyền dữ liệu máy tính không đồng bộ với tốc độ đến 920 000 bit mỗi giây

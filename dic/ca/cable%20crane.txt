@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cần cẩu cáp
+#máy trục kiểu dây cáp
+@Lĩnh vực: toán & tin
+#cẩu cáp

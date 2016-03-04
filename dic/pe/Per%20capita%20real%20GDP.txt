@@ -1,0 +1,2 @@
+﻿@Per capita real GDP
+#(Econ) THU NHẬP QUỐC DÂN thực tế tính theo đầu người.

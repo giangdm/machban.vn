@@ -1,0 +1,6 @@
+﻿@freezable
+*tính từ
+#có thể đóng băng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kết đông được

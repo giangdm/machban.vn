@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#điều chỉnh chu trình đóng
+@Lĩnh vực: toán & tin
+#điều chỉnh theo chu trình đóng

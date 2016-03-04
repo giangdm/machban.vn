@@ -1,0 +1,2 @@
+﻿@hypertalk
+#Ngôn ngữ script được cung cấp kèm theo HyperCard, một HyperCard mang tính công cụ có trong mọi máy tính Macintosh HyperCard là một ngôn ngữ hướng sự kiện

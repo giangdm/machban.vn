@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện áp phát ra đồng bộ
+#sức điện đồng bộ

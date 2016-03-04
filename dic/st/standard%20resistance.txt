@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điện trở chuẩn
+#điện trở mẫu
+@Lĩnh vực: xây dựng
+#sức bền tiêu chuẩn

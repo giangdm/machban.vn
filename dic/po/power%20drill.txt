@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy khoan
+@Lĩnh vực: điện lạnh
+#khoan điện
+@Lĩnh vực: xây dựng
+#máy khoan điện lực
+#máy khoan dùng động cơ
+@Lĩnh vực: hóa học & vật liệu
+#máy khoan động lực

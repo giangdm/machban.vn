@@ -1,0 +1,2 @@
+﻿@concentrator network
+#(Tech) mạng bộ tập trung

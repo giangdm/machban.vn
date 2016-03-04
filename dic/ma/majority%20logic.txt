@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lôgic chủ yếu
+@Lĩnh vực: toán & tin
+#lôgic đa số

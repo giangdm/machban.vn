@@ -1,0 +1,5 @@
+﻿@array declarator
+#(Tech) tên dẫy số = array name
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ khai báo mảng

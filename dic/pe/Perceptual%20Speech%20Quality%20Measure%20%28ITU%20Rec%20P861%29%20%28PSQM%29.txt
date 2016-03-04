@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đo chất lượng tiếng nói bằng cảm nhận (Khuyến nghị P861 của ITU)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống phóng xạ
+@Lĩnh vực: vật lý
+#hệ thống chủ động

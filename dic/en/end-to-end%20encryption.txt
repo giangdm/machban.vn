@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự đánh dấu từ đầu đến cuối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự mã hóa nối đầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự mã hóa nối đầu

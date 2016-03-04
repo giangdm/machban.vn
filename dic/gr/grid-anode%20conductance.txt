@@ -1,0 +1,2 @@
+﻿@grid-anode conductance
+#(Tech) độ dẫn điện lưới dương cực

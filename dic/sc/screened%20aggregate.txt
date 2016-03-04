@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#cốt liệu đã sàng
+@Lĩnh vực: xây dựng
+#cốt liệu lọt qua sàng

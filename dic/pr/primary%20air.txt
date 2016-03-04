@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#gió cấp một
+@Lĩnh vực: xây dựng
+#không khí ban đầu
+@Lĩnh vực: điện lạnh
+#không khí sơ cấp

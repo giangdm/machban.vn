@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#gia lượng dòng
+#khoảng tách dòng
+#mật độ quét
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#gia lượng dòng
+#khoảng tách dòng
+#mật độ quét

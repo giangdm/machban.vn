@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tầng chuyển mạch từ xa
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị chuyển mạch từ xa (RSU)

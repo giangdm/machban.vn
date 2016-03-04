@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#năng lực sản xuất của nhà máy
+@Chuyên ngành kỹ thuật
+#công suất thiết bị
+@Lĩnh vực: cơ khí & công trình
+#công suất nhà máy

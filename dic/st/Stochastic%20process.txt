@@ -1,0 +1,9 @@
+﻿@Stochastic process
+#(Econ) Quá trình ngầu nhiên thống kê.
+: Thông thường là một chuỗi số có liên quan đến thời gian tuân theo biến thiên ngẫu nhiên thống kê.
+@Chuyên ngành kinh tế
+#quá trình ngẫu nhiên
+@Chuyên ngành kỹ thuật
+#quá trình ngẫu nhiên
+@Lĩnh vực: toán & tin
+#quá trình bất định

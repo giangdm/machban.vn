@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hàng rời
+@Chuyên ngành kỹ thuật
+#hàng rời
+@Lĩnh vực: điện
+#hàng rời (như than, cát...)
+@Lĩnh vực: giao thông & vận tải
+#hành chất đống (bốc xếp)

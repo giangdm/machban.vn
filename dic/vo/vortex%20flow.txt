@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy rối
+#dòng chảy xoáy
+#dòng xoáy
+#luồng gió xoáy
+@Lĩnh vực: toán & tin
+#dòng rota

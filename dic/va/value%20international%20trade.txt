@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giá trị mậu dịch quốc tế
+#tổng ngạch mậu dịch toàn cầu (tính bằng giá FOB)

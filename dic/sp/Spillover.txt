@@ -1,0 +1,11 @@
+﻿@Spillover
+#(Econ) Hiệu ứng lan toả.
+: Xem EXTERNALITIES.
+@Chuyên ngành kỹ thuật
+#sự thu tràn (tín hiệu truyền hình)
+@Lĩnh vực: điện tử & viễn thông
+#sự tràn đầy
+<!-- more -->
+@spillover
+*danh từ
+#(vô tuyến điện) sự tràn tín hiệu

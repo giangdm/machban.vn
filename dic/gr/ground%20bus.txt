@@ -1,0 +1,6 @@
+﻿@ground bus
+#(Tech) mẫu tuyến đất
+@Chuyên ngành kỹ thuật
+#thanh dẫn tiếp đất
+#thanh nối đất
+#thanh tiếp đất

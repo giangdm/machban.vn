@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự chia nhỏ quá trình
+#sự phân nhỏ quá trình

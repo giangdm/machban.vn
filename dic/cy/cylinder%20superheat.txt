@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#quá nhiệt xylanh
+@Lĩnh vực: điện lạnh
+#sự quá nhiệt xylanh

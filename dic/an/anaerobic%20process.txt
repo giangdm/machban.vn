@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#quá trình kỵ khí
+@Lĩnh vực: điện lạnh
+#quá trình yếm khí

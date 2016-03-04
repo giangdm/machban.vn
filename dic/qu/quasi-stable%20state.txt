@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trạng thái chuẩn ổn định
+#trạng thái gần ổn định

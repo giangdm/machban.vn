@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bùng binh giao thông
+#đường đi vòng tròn
+@Lĩnh vực: xây dựng
+#đầu mối đường vành đai
+#vòng xoay giao thông
+@Lĩnh vực: ô tô
+#vòng xoay

@@ -1,0 +1,3 @@
+﻿@Threshold of a good
+#(Econ) Ngưỡng của một hàng hoá.
+: Trong kinh tế học khu vực, dân số tối thiểu có thể tạo một thị trường cho một hàng hoá hay dịch vụ. Khi dân số của một khu vực (như một thị trấn) dưới mức ngưỡng, cầu đối hàng hoá đó sẽ thấp đến mức mà việc cung cấp hàng hoá đó sẽ không khả thi về mặt kinh tế.

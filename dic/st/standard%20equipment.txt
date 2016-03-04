@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phụ tùng thông thường
+@Lĩnh vực: cơ khí & công trình
+#phụ tùng tiêu chuẩn
+@Lĩnh vực: ô tô
+#thiết bị tiêu chuẩn

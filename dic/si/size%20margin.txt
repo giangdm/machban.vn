@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dung sai kích thước
+#lượng dư kích thước
+#lượng thừa kích thước

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#môi trường trao đổi nhiệt
+@Lĩnh vực: điện lạnh
+#môi trường thải nhiệt

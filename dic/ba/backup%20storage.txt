@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bô nhớ dự phòng (máy tính)
+@Chuyên ngành kỹ thuật
+#bộ nhớ dự phòng
+#bộ nhớ dự trữ

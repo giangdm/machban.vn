@@ -1,0 +1,3 @@
+﻿@run after
+#đuổi theo; chạy theo sau (ai)
+#theo đuổi (cái gì...)

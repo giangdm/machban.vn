@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí chế tạo
+#phí tổn gián tiếp sản xuất
+#sổ cái chi phí chế tạo

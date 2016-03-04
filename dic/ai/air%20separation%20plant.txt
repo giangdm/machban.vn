@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phân loại bằng khí nén
+#máy phân loại bằng không khí
+#máy tách bằng không khí
+#máy tách dùng khí nén

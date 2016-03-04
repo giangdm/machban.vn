@@ -1,0 +1,3 @@
+﻿@Thunen, Johann Heinrich von
+#(Econ) (1783-1850)
+: Von Thunen - nhà kinh tế học nông nghiệp người Đức đưa ra mô hình lý thuyết dựa trên kinh nghiệm canh tác nhằm tìm ra vị trí tối ưu đối với một loại cây trồng nào đó, đặc biệt về khoảng cách từ trung tâm có nhu cầu đối nó. Ông đưa ra thuyết TIỀN THUÊ ĐẤT tương tự với thuyết của Ricardo, và thuyết phân phối dựa trên năng suất biên. Việc ứng dụng năng suấtbiên vào tiền công và vốn, sử dụng các đạo hàm và lôgich cận biên nhằm  tìm ra các nghiệm cân bằng cho các biến số kinh tế, và tuyên bố của ông về quy luật TỶ LỆ BIẾN THIÊN đã cho phép ông ta được biết đén như nhà sáng lập ra phân tích biên. A.MARSHALL đã ca ngợi đóng góp lớn của ông.

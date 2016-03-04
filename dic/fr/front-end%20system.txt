@@ -1,0 +1,8 @@
+﻿@front-end system
+#(Tech) hệ thống tiếp ngoại vi, hệ đầu trước
+@Chuyên ngành kỹ thuật
+#hệ thống phụ trợ
+@Lĩnh vực: toán & tin
+#hệ phía trước
+#hệ phụ trợ
+#hệ thống phía trước

@@ -1,0 +1,3 @@
+﻿@Opening prices
+#(Econ) Giá mở cửa.
+: Là mức giá quy định cho các giao dịch khi một ngày kinh doanh bắt đầu trên một thị trường.

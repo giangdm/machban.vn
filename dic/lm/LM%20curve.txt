@@ -1,0 +1,5 @@
+﻿@LM curve
+#(Econ) Đường LM.
+: Xem IS - LM DIAGRAM.
+@Chuyên ngành kinh tế
+#đường LM

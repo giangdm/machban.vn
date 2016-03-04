@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đường dẫn ống đẩy
+@Lĩnh vực: hóa học & vật liệu
+#đường lưu lượng
+@Lĩnh vực: xây dựng
+#đường ống xả khí
+@Lĩnh vực: vật lý
+#tuyến xả

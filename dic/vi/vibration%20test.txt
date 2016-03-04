@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thí nghiệm rung
+@Lĩnh vực: điện tử & viễn thông
+#sự thử bằng chấn động
+@Lĩnh vực: cơ khí & công trình
+#sự thử độ rung
+@Lĩnh vực: điện lạnh
+#sự thử nghiệm rung động
+#sự thử rung
+#thử nghiệm rung
+@Lĩnh vực: điện
+#thử chịu rung
+@Lĩnh vực: đo lường & điều khiển
+#thử độ rung
+#thử rung

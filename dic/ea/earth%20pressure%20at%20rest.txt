@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực đất ở trạng thái nghỉ
+@Lĩnh vực: xây dựng
+#áp lực đất ở trạng thái tĩnh
+@Lĩnh vực: cơ khí & công trình
+#áp lực đất tĩnh
+#áp lực nghỉ

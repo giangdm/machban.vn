@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo nhiệt độ, độ ẩm và áp suất không khí đồng thời

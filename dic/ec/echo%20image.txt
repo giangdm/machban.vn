@@ -1,0 +1,2 @@
+﻿@echo image
+#(Tech) hình dội

@@ -1,0 +1,5 @@
+﻿@co-tenant /'kou'tenənt/
+*danh từ
+#người thuê chung nhà
+@Chuyên ngành kinh tế
+#người cùng thuê

@@ -1,0 +1,2 @@
+﻿@disk icon
+#(Tech) hình tượng đĩa

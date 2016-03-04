@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ xoay vòng vi ba
+@Lĩnh vực: điện lạnh
+#bộ xoay vòng
+@Lĩnh vực: điện tử & viễn thông
+#bộ xoay vòng vi sóng

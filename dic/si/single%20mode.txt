@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ đơn
+#chế độ riêng lẻ
+@Lĩnh vực: giao thông & vận tải
+#nút dây buộc thuyền đơn (kiểu nút)

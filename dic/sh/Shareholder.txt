@@ -1,0 +1,10 @@
+﻿@Shareholder
+#(Econ) Cổ đông.
+<!-- more -->
+@shareholder /'ʃeə,houldə/
+*danh từ
+#người có cổ phần
+@Chuyên ngành kinh tế
+#cổ đông
+@Chuyên ngành kỹ thuật
+#cổ đông

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đèn quang điện
+#ống quang điện
+#pin quang điện
+#tế bào quang điện
+@Lĩnh vực: điện
+#ống đèn quang điện

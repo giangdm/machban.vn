@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chu kỳ sản xuất
+@Chuyên ngành kỹ thuật
+#chu trình sản xuất
+#quá trình công nghệ
+@Lĩnh vực: xây dựng
+#chu trình công nghệ

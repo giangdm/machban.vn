@@ -1,0 +1,2 @@
+﻿@feed current
+#(Tech) dòng cung cấp, dòng dưỡng

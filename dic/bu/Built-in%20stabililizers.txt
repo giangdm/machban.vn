@@ -1,0 +1,3 @@
+﻿@Built-in stabililizers
+#(Econ) Các chính sách, công cụ ổn định nội tạo.
+: Xem AUTOMATIC STABILIZERS

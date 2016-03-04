@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ khuếch đại (tín hiệu) điện thoại
+@Lĩnh vực: xây dựng
+#máy khuếch âm
+#tiếp âm
+@Lĩnh vực: điện tử & viễn thông
+#máy tăng âm điện thoại
+#trạm tăng âm điện thoại
+@Lĩnh vực: điện
+#máy tiếp âm điện thoại

@@ -1,0 +1,2 @@
+﻿@simplex-method
+#phương pháp đơn hình

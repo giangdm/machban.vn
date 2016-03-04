@@ -1,0 +1,2 @@
+﻿@bulletin-board
+#bảng yết thị, bảng thông báo

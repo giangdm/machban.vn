@@ -1,0 +1,8 @@
+﻿@compilation unit
+#(Tech) bộ biên dịch = compiler
+@Chuyên ngành kỹ thuật
+#môđun nguồn
+@Lĩnh vực: toán & tin
+#bộ biên dịch
+#đơn vị biên dịch
+#khối biên dịch

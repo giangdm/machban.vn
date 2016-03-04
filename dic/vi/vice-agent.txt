@@ -1,0 +1,4 @@
+﻿@vice-agent
+*danh từ
+#người được ủy quyền
+#người đại diện

@@ -1,0 +1,5 @@
+﻿@Dissaving
+#(Econ) Giảm tiết kiệm.
+: Tiêu dùng vượt thu nhập hiện tại.
+@Chuyên ngành kinh tế
+#lấy tiền tiết kiệm ra dùng

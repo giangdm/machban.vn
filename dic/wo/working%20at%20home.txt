@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự làm việc tại nhà
+@Chuyên ngành kỹ thuật
+#liên lạc từ xa
+@Lĩnh vực: toán & tin
+#làm việc tại nhà

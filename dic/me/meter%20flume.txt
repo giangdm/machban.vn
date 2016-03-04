@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khay thủy văn
+@Lĩnh vực: đo lường & điều khiển
+#máng đo lưu lượng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#băng dẫn
+#đường dẫn kiểu băng
+@Lĩnh vực: điện lạnh
+#đường dây tải băng

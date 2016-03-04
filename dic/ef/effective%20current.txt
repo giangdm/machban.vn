@@ -1,0 +1,10 @@
+﻿@effective current
+#(Tech) dòng điện hữu hiệu
+@Chuyên ngành kỹ thuật
+#dòng căn quân phương
+#dòng điện hiệu dụng
+@Lĩnh vực: toán & tin
+#dòng điện hiệu ứng
+@Lĩnh vực: điện lạnh
+#dòng hiệu dụng
+#dòng rms

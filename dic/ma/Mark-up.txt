@@ -1,0 +1,18 @@
+﻿@Mark-up
+#(Econ) Phần thêm vào giá vốn; Phần thêm vào chi phí khả biến.
+: Là một phần cộng thêm vào các chi phí khả biến trung bình để hình thành giá bán do người bán xác định nhằm trang trải các chi phí cố định và có được lợi nhuận.
+<!-- more -->
+@mark-up /'mɑ:kʌp/
+*danh từ
+#(thương nghiệp) sự tăng giá
+#số tiền cộng vào giá vốn (gồm kinh phí và lãi)
+@Chuyên ngành kinh tế
+#ghi giá tăng lên
+#khoản lãi
+#lãi gộp
+#mức biên lợi
+#mức biên lợi khoản lãi
+#mức kê lời
+#mức tăng giá
+#sự ghi giá tăng lên
+#sự tăng giá

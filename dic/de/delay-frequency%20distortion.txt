@@ -1,0 +1,2 @@
+﻿@delay-frequency distortion
+#(Tech) biến dạng tần số trễ

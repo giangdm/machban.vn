@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thủ tục điều khiển cuộc gọi
+#thủ tục kiểm soát cuộc gọi
+@Lĩnh vực: điện tử & viễn thông
+#thủ tục điều khiển gọi

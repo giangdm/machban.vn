@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#biên độ dao động
+@Lĩnh vực: xây dựng
+#biên độ giao động

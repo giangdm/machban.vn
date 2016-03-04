@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tháp giải nhiệt bằng phun mưa
+#tháp làm mát bằng phun mưa

@@ -1,0 +1,7 @@
+﻿@Undated securities
+#(Econ) Chứng khoán không ghi ngày.
+: Xem Dated securities
+@Chuyên ngành kinh tế
+#chứng khoán không đề ngày mãn hạn, không có ngày đáo hạn
+#chứng khoán vô thời han
+#chứng khoán vô thời hạn

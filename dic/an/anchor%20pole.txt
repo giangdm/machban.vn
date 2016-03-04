@@ -1,0 +1,4 @@
+﻿@anchor pole
+#(Tech) cột cố định, cột neo
+@Chuyên ngành kỹ thuật
+#cọc neo

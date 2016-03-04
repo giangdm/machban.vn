@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường phổ, vạch phổ
+#tuyến phổ
+@Lĩnh vực: điện lạnh
+#vạch (quang) phổ
+@Lĩnh vực: điện tử & viễn thông
+#vạch phổ
+@Lĩnh vực: hóa học & vật liệu
+#vạch quang phổ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chọn đối tượng bằng thuộc tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chọn đối tượng bằng thuộc tính

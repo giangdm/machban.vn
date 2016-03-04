@@ -1,0 +1,7 @@
+﻿@block length
+#(Tech) độ dài khối
+@Chuyên ngành kỹ thuật
+#độ dài khối
+@Lĩnh vực: toán & tin
+#chiều dài khối
+#kích thước khối

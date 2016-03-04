@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chứng chỉ quyền mua
+#giấy chứng nhận mua cổ phiếu (trong một đợt phát hành)
+#giấy xác nhận quyền mua

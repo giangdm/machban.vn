@@ -1,0 +1,12 @@
+﻿@Public company
+#(Econ) Công ty công cộng.
+: Xem COMPANY.
+@Chuyên ngành kinh tế
+#công ty cổ phần công khai
+#công ty cổ phần vô danh
+#công ty công cộng
+#công ty quốc doanh
+<!-- more -->
+@public company
+*danh từ
+#<vt>  PLC, plc công ty cổ phần hữu hạn

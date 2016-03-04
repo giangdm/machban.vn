@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#giá trị chịu lực
+#khả năng chịu lực
+@Lĩnh vực: cơ khí & công trình
+#giá trị chịu tải

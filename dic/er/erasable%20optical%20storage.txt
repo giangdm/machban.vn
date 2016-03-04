@@ -1,0 +1,8 @@
+﻿@erasable optical storage
+#(Tech) bộ trữ quang xóa được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bộ nhớ quang xóa được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bộ nhớ quang xóa được

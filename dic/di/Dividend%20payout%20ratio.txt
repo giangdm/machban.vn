@@ -1,0 +1,7 @@
+﻿@Dividend payout ratio
+#(Econ) Tỷ số trả cổ tức
+: Phần lợi tức để thanh toán CỔ TỨC.
+@Chuyên ngành kinh tế
+#tỉ suất trả cổ tức (so với tổng số lãi)
+#tỷ số chi trả cổ tức
+#tỷ số trả cổ tức

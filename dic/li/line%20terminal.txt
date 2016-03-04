@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu cuối đường dây
+@Lĩnh vực: điện
+#cực nối lưới
+@Lĩnh vực: giao thông & vận tải
+#đầu cuối thuê bao
+@Chuyên ngành kỹ thuật
+#đầu cuối đường dây
+@Lĩnh vực: điện
+#cực nối lưới
+@Lĩnh vực: giao thông & vận tải
+#đầu cuối thuê bao

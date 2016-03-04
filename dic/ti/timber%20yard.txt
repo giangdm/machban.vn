@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bãi gỗ
+@Chuyên ngành kỹ thuật
+#kho gỗ
+@Lĩnh vực: xây dựng
+#bãi chứa gỗ

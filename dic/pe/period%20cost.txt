@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí cố định
+#giá thành trong kỳ
+#phí tổn trong kỳ

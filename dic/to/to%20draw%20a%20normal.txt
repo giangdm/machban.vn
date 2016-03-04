@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kẻ đường thẳng vuông góc
+#kẻ pháp tuyến

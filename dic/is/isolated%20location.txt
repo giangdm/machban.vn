@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vị trí cách ly
+#vị trí cô lập
+#vùng cô lập

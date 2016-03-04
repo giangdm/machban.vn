@@ -1,0 +1,2 @@
+﻿@Gunn (effect) diode
+#(Tech) đèn hai cực (hiệu ứng) Gunn

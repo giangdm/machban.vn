@@ -1,0 +1,3 @@
+﻿@Optimum plant size
+#(Econ) Quy mô nhà máy ở mức tối ưu.
+: Là quy mô của nhà máy mà với quy mô này mức chi phí trung bình dài hạn là mức tối thiểu.

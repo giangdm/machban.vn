@@ -1,0 +1,8 @@
+﻿@assembly listing
+#(Tech) liệt kê sau khi dịch mã số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản hợp dịch
+#danh sách hợp dịch
+@Lĩnh vực: điện tử & viễn thông
+#bản in hợp dịch

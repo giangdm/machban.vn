@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#dịch vụ telex
+@Chuyên ngành kỹ thuật
+#dịch vụ telex
+@Lĩnh vực: điện tử & viễn thông
+#dịch vụ điện báo thuê

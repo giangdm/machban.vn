@@ -1,0 +1,4 @@
+﻿@communication interface
+#(Tech) giao diện truyền thông
+@Chuyên ngành kỹ thuật
+#giao diện truyền thông

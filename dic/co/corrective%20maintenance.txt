@@ -1,0 +1,12 @@
+﻿@corrective maintenance
+#(Tech) bảo trì sửa chữa
+@Chuyên ngành kinh tế
+#chứng từ sửa chữa sổ sách
+#sự sửa máy hư
+@Chuyên ngành kỹ thuật
+#bảo trì hiệu chỉnh
+#sự bảo dưỡng hiệu chỉnh
+@Lĩnh vực: xây dựng
+#bảo dưỡng hiệu chỉnh
+@Lĩnh vực: toán & tin
+#đảm bảo tính đúng đắn

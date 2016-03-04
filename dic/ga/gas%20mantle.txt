@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp áo khí
+@Lĩnh vực: vật lý
+#vỏ bọc khí

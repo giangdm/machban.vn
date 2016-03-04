@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#sự hiện thấy các biến động trong dòng chất lỏng
+@Lĩnh vực: điện lạnh
+#kỹ thuật nhìn dòng chảy
+#sự hiển thị dòng
+@Lĩnh vực: vật lý
+#sự hiện hình dòng chảy
+@Chuyên ngành kỹ thuật
+#sự hiện thấy các biến động trong dòng chất lỏng
+@Lĩnh vực: điện lạnh
+#kỹ thuật nhìn dòng chảy
+#sự hiển thị dòng
+@Lĩnh vực: vật lý
+#sự hiện hình dòng chảy

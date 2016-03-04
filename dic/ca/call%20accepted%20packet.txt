@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bó liên lạc được chấp nhận
+#gói được chấp nhận cuộc gọi

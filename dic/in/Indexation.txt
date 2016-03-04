@@ -1,0 +1,10 @@
+﻿@Indexation
+#(Econ) Phương pháp chỉ số hoá.
+: Một cơ chế điều chỉnh theo từng thời kỳ giá trị danh nghĩa của các hợp đồng theo sự biến động của CHỈ SỐ GIÁ đã được xác định.
+@Chuyên ngành kinh tế
+#sự chỉ số hóa
+#thuế
+<!-- more -->
+@indexation
+*danh từ
+#sự lập chỉ số về trợ cấp hưu trí

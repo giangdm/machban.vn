@@ -1,0 +1,8 @@
+﻿@uni-
+#hình thái cấu tạo từ ghép
+#đơn; một
+=unicellular:đơn bào
+#unicolour
+#cùng một màu
+#univalent
+#đơn trị

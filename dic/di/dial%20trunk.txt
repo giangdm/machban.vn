@@ -1,0 +1,2 @@
+﻿@dial trunk
+#(Tech) đường dây tổng đài

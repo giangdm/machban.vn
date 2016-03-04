@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đếm
+@Lĩnh vực: vật lý
+#cấu bộ đếm
+@Lĩnh vực: cơ khí & công trình
+#cơ cấu đếm

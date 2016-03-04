@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kinh tế
+#hoàn cảnh tệ hại nhất (của công ty)
+#nước triều thấp
+#thiếu tiền
+#tình trạng kinh doanh sa sút
+#triều xuống
+@Chuyên ngành kỹ thuật
+#nước ròng
+#nước xuống
+#mức nước ròng
+#mức nước thấp
+#sự thiếu nước
+@Lĩnh vực: giao thông & vận tải
+#độ cao nước dòng
+#nước thấp
+@Lĩnh vực: xây dựng
+#nước nhỏ

@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng rò
+#luồng rò
+@Lĩnh vực: điện lạnh
+#thông lượng nơtron rò
+#từ thông (rò)
+@Lĩnh vực: điện
+#thông lượng rò
+#từ thông rò
+@Lĩnh vực: xây dựng
+#từ thông lạc
+@Chuyên ngành kỹ thuật
+#dòng rò
+#luồng rò
+@Lĩnh vực: điện lạnh
+#thông lượng nơtron rò
+#từ thông (rò)
+@Lĩnh vực: điện
+#thông lượng rò
+#từ thông rò
+@Lĩnh vực: xây dựng
+#từ thông lạc

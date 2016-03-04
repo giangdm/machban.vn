@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ điêu chỉnh áp suất cácte
+#bộ điều chỉnh áp suất cacte

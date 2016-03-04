@@ -1,0 +1,18 @@
+﻿@cable connector
+#(Tech) đầu nối cáp
+@Chuyên ngành kỹ thuật
+#bộ nối cáp
+#đầu nối cáp
+#hộp nối cáp
+#khâu
+@Lĩnh vực: toán & tin
+#bộ kết nối cáp
+@Lĩnh vực: xây dựng
+#bộ phận nối cáp
+#móc nối cáp
+@Lĩnh vực: cơ khí & công trình
+#hộp đầu cáp
+@Lĩnh vực: điện
+#khâu nối cáp
+#ống nối cáp
+#phụ tùng lắp đặt cáp

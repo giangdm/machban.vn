@@ -1,0 +1,2 @@
+﻿@connection terminal
+#(Tech) thiết bị đầu nối

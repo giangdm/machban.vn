@@ -1,0 +1,3 @@
+﻿@btu
+*(viết tắt)
+#đơn vị nhiệt lượng Anh (British thermal units)

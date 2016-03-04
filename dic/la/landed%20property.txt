@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#bất động sản
+#địa sản
+#sở hữu đất đai
+#tài sản đất đai
+#tài sản ruộng đất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#quyền sở hữu ruộng đất
+@Lĩnh vực: xây dựng
+#tài sản đất đai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#quyền sở hữu ruộng đất
+@Lĩnh vực: xây dựng
+#tài sản đất đai

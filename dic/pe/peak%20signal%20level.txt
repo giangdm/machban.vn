@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mức tín hiệu cực đại
+#mức tín hiệu đỉnh

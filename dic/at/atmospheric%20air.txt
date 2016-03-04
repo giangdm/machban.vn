@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#không khí
+@Lĩnh vực: điện lạnh
+#không khí atmosphe
+#không khí môi trường
+@Lĩnh vực: xây dựng
+#không khí khí quyển

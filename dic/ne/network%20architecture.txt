@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#cấu trúc mạng
+#kiến trúc mạng
+@Lĩnh vực: toán & tin
+#kiến trúc mạng (truyền thông)

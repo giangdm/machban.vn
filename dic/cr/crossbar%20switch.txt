@@ -1,0 +1,5 @@
+﻿@crossbar switch
+#(Tech) cái chuyển mạch ngang dọc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ chuyển mạch thanh ngang

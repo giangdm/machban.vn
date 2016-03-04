@@ -1,0 +1,7 @@
+﻿@Discounting
+#(Econ) Chiết khấu
+: Quá trình áp dụng một lãi suất đối với khoản vốn.
+@Chuyên ngành kinh tế
+#chiết khấu
+#việc chiết khấu
+#việc chiết tính

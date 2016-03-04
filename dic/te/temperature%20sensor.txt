@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ cảm biến nhiệt độ
+@Lĩnh vực: điện lạnh
+#đầu cảm nhiệt độ
+#dụng cụ cảm biến nhiệt độ
+@Lĩnh vực: toán & tin
+#đầu dò nhiệt
+@Lĩnh vực: đo lường & điều khiển
+#độ cảm biến nhiệt

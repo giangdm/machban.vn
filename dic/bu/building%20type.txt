@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểu nhà
+@Lĩnh vực: xây dựng
+#dạng nhà
+#kiểu [nhà, công trình xây dựng]

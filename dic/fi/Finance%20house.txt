@@ -1,0 +1,7 @@
+﻿@Finance house
+#(Econ) Nhà cung cấp tài chính; Công ty tài chính.
+: Một tổ chức trung gian tài chính, không phải Ngân hàng, có thể huy động các nguồn tiền từ vốn của riêng mình, thông qua việc tiếp nhận tiền gửi (thường là trong khoảng thời gian cố định), hay thậm chí bằng cách vay từ các thể chế khác, rồi cho vay với nhiều mục đích khác nhau, đặc biệt là để cấp tiền cho các hợp đồng thuê mua và cũng có thể là cho thuê.
+@Chuyên ngành kinh tế
+#cơ sở tài chính
+#công ty tài chính
+#hãng kinh doanh tiền tệ

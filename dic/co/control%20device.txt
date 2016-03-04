@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều khiển
+#khí cụ
+#phòng điều khiển (ghi âm)
+#thiết bị điều khiển
+#thiết bị kiểm tra
+@Lĩnh vực: điện lạnh
+#dung cụ điều khiển
+#thiết bị diều khiển

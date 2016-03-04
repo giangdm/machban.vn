@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị làm lạnh thân hình ống
+@Chuyên ngành kỹ thuật
+#bộ làm lạnh ống chùm
+#bộ làm lạnh ống vỏ

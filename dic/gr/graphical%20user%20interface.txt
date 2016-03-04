@@ -1,0 +1,6 @@
+﻿@graphical user interface
+*thành ngữ graphical
+@Chuyên ngành kỹ thuật
+#giao diện đồ họa
+@Lĩnh vực: toán & tin
+#GUI

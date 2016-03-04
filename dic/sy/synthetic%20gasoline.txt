@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#xăng tổng hợp
+@Lĩnh vực: hóa học & vật liệu
+#xăng tổng hợp (nhân tạo)
+@Lĩnh vực: toán & tin
+#xăng tổng hợp (nhận tạo)

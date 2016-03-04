@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểm tra chức năng chuẩn đoán
+@Lĩnh vực: điện lạnh
+#thử chức năng chẩn đoán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đo thử chức năng chuẩn đoán

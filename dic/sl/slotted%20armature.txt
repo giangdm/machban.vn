@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phần cứng có răng
+@Lĩnh vực: điện
+#phần ứng có khe
+#phần ứng xẻ khe
+#phần ứng xẻ rãnh

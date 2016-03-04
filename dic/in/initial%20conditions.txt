@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điều kiện ban đầu
+@Lĩnh vực: điện lạnh
+#điều kiện đầu
+#sơ kiện

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tạp nhiễu vô tuyến mặt trời
+#tiếng ồn mặt trời
+#tiếng ồn vô tuyến mặt trời

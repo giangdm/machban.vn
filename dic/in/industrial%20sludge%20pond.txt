@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ao bùn công nghiệp
+#bể chứa bùn công nghiệp
+#hồ chứa bùn công nghiệp

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗ khoan dẫn
+@Lĩnh vực: đo lường & điều khiển
+#lỗ khoan chuẩn

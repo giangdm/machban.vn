@@ -1,0 +1,7 @@
+﻿@address range
+#(Tech) phạm vi đia chỉ, khoảng địa chỉ
+@Chuyên ngành kỹ thuật
+#vùng địa chỉ
+@Lĩnh vực: toán & tin
+#dải địa chỉ
+#khoảng địa chỉ

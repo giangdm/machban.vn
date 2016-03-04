@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ống lực
+@Lĩnh vực: vật lý
+#ống thông lượng (chứa các đường lực)

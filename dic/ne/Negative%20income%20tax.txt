@@ -1,0 +1,6 @@
+﻿@Negative income tax
+#(Econ) Thuế thu nhập âm.
+: Là một chương trình hỗ trợ thu nhập trong đó các cá nhân hoặc hộ gia đình có thu nhập thấp hơn mức hoà vốn nhất định sẽ nhận được các khoản thanh toán, mức thanh toán liên quan đến mức thu nhập. Do vậy, những người không có khoản thu nhập nào khác sẽ nhận được một khoản tiền tối thiểu được bảo đảm.
+@Chuyên ngành kinh tế
+#bổ trợ thu nhập thấp
+#thuế thu nhập âm

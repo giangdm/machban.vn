@@ -1,0 +1,2 @@
+﻿@device assignment = device allocation
+#(Tech) cấp phát thiết bị

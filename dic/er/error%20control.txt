@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều khiển lỗi
+#giám sát lỗi
+#kiểm soát lỗi
+#quản lý lỗi
+#sự kiểm soát lỗi
+#sự kiểm tra lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều khiển lỗi
+#giám sát lỗi
+#kiểm soát lỗi
+#quản lý lỗi
+#sự kiểm soát lỗi
+#sự kiểm tra lỗi

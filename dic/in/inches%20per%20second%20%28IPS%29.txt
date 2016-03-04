@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#insơ trên giây
+@Lĩnh vực: toán & tin
+#số inch trên giây
+#số inch trong mỗi giây

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#vận tốc cuối
+@Lĩnh vực: điện lạnh
+#tốc độ cuối (cùng)
+@Lĩnh vực: cơ khí & công trình
+#vận tốc cuối cùng
+@Chuyên ngành kỹ thuật
+#vận tốc cuối
+@Lĩnh vực: điện lạnh
+#tốc độ cuối (cùng)
+@Lĩnh vực: cơ khí & công trình
+#vận tốc cuối cùng

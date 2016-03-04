@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#gối trung gian (trụ cầu)
+#gối tựa trung gian
+#trụ nhịp chính

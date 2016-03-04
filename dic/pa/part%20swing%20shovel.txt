@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#xẻng máy chỉ quay một phần (của vòng tròn)

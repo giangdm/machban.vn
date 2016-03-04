@@ -1,0 +1,7 @@
+﻿@cryogenic temperature
+#(Tech) nhiệt độ siêu hàn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt độ cryo
+@Lĩnh vực: điện lạnh
+#nhiệt độ lạnh sâu

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#trường chậm
+@Lĩnh vực: điện lạnh
+#trường trễ

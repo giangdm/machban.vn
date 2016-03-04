@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chậu rửa
+@Chuyên ngành kỹ thuật
+#bể thu nước
+#bồn thu nước
+#hồ chứa nước
+@Lĩnh vực: xây dựng
+#hồ thu nước

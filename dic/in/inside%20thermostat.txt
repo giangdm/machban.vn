@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle nhiệt độ phòng
+@Lĩnh vực: điện lạnh
+#bình điều nhiệt phòng

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đường đài trung tâm
+#đường dây thuê bao
+@Lĩnh vực: điện lạnh
+#mạch vòng thuê bao
+@Lĩnh vực: toán & tin
+#vòng thuê bao

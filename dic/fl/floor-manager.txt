@@ -1,0 +1,3 @@
+﻿@floor-manager
+*danh từ
+#người điều khiển chương trình vô tuyến

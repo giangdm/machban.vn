@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều khiển nhập/xuất
+#bộ điều khiển vào/ra
+@Lĩnh vực: toán & tin
+#bộ điều khiển ra/vào

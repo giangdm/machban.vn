@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cửa đóng tự động chống cháy
+#cửa ngăn cháy tự đóng
+#cửa phòng cháy tự đóng

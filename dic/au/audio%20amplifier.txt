@@ -1,0 +1,8 @@
+﻿@audio amplifier
+#(Tech) bộ khuếch đại âm thanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ khuếch đại âm tần
+@Lĩnh vực: toán & tin
+#bộ khuếch đại âm thanh
+#máy khuếch đại hạ tần

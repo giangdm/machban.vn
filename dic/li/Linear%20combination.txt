@@ -1,0 +1,9 @@
+﻿@Linear combination
+#(Econ) Tổ hợp tuyến tính.
+: Tổng của một dãy biến số (hoặc các VECTƠ) đã được nhân với một số hàng số nào đó.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tổ hợp tuyến tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tổ hợp tuyến tính

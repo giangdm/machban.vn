@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực từ dưới lên
+@Lĩnh vực: cơ khí & công trình
+#áp lực dưới lên
+@Lĩnh vực: vật lý
+#lực đẩy Acsimét

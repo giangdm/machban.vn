@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cần trục
+@Lĩnh vực: hóa học & vật liệu
+#máy cẩu
+@Lĩnh vực: xây dựng
+#máy trục đeric

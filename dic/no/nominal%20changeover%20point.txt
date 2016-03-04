@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điểm chuyển mạch danh định
+@Lĩnh vực: điện
+#nhiệt độ chuyển mạch danh định

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hàm giới hạn
+#hàm ngưỡng
+#hàm toán ngưỡng

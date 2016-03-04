@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Giao thức tuyến một chiều-Giao thức được sử dụng bởi các ăng ten chỉ thu, rẻ tiền để thu số liệu qua vệ tinh

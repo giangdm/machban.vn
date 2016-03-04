@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#chương mục ngoài ngân sách
+#tài khoản ngoài ngân sách
+#trương mục ngoài ngân sách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quỹ ngoài ngân sách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quỹ ngoài ngân sách

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ ly hợp nam châm
+#bộ ly hợp từ
+#lực kháng
+#lực kháng từ
+@Lĩnh vực: hóa học & vật liệu
+#bộ li hợp từ tính
+@Lĩnh vực: điện
+#khớp li hợp từ
+#khớp ly hợp từ tính
+@Lĩnh vực: cơ khí & công trình
+#khớp ly loại từ tính
+@Lĩnh vực: ô tô
+#ly hợp loại điện từ

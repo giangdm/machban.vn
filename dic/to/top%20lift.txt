@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lớp (mặt) bêtông
+@Lĩnh vực: xây dựng
+#lớp mặt (bêtông)

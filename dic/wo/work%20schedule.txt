@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bảng tiến độ công tác
+#bảng tiến độ công tác, lich công tác
+#lịch công tác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảng kế hoạch công việc
+@Lĩnh vực: điện
+#bảng tiến độ công trình

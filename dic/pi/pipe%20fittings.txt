@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp nối ống
+#khuỷu ống
+@Lĩnh vực: xây dựng
+#phụ tùng đường ống
+#phụ tùng ống
+@Lĩnh vực: hóa học & vật liệu
+#phụ tùng lắp ống

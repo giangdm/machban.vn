@@ -1,0 +1,14 @@
+﻿@contour line
+#(Tech) đường đẳng trị, đường đồng mức
+@Chuyên ngành kỹ thuật
+#đường bao
+#đường cao độ
+#đường đặc cao
+#đường đồng mức
+#đường mức
+@Lĩnh vực: toán & tin
+#đường chu vi
+@Lĩnh vực: xây dựng
+#đường đẳng cao
+@Lĩnh vực: vật lý
+#hiệu ứng đường viền

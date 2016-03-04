@@ -1,0 +1,3 @@
+﻿@Linear nomogenous
+#(Econ) Đồng nhất tuyến tính.
+: Xem HOMOGENEOUS FUNCTION.

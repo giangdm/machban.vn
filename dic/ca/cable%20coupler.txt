@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ ghép nối cáp
+@Lĩnh vực: điện lạnh
+#bộ nối cáp mềm

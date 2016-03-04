@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự đối xứng quay quanh trục tiêu
+#sự đối xứng xoay quanh trục tiêu
+#tính đối xứng quay quanh trục tiêu
+#tính đối xứng xoay quanh trục tiêu

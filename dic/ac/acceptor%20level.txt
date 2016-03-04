@@ -1,0 +1,7 @@
+﻿@acceptor level
+#(Tech) mức nhận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#mức axepto (bán dẫn)
+@Lĩnh vực: toán & tin
+#mức chấp nhận

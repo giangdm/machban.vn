@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#dự trữ năng lượng
+#sự tích trữ năng lượng
+@Lĩnh vực: cơ khí & công trình
+#sự tích lũy năng lượng
+@Lĩnh vực: điện
+#sự tích năng
+@Lĩnh vực: điện lạnh
+#tích trữ năng lượng
+@Chuyên ngành kỹ thuật
+#dự trữ năng lượng
+#sự tích trữ năng lượng
+@Lĩnh vực: cơ khí & công trình
+#sự tích lũy năng lượng
+@Lĩnh vực: điện
+#sự tích năng
+@Lĩnh vực: điện lạnh
+#tích trữ năng lượng

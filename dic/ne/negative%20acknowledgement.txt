@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự báo nhận bác bỏ
+#sự báo nhận phủ định
+#sự ghi nhận bác bỏ
+#sự ghi nhận phủ định
+@Lĩnh vực: toán & tin
+#sự báo phủ nhận
+#sự báo từ chối

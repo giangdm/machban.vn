@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phân bố chuẩn nhiều biến
+@Lĩnh vực: toán & tin
+#phân bố chuẩn nhiều chiều

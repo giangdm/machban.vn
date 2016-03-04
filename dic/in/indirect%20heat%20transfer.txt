@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trao đổi nhiệt gián tiếp
+#truyền nhiệt gián tiếp

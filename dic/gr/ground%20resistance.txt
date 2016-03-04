@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điện trở tiếp đất
+@Lĩnh vực: điện lạnh
+#điện trở đất
+@Lĩnh vực: điện
+#điện trở nối đất

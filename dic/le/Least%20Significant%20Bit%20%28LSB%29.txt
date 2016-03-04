@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bit có trọng số bé nhất (thấp nhất)
+@Chuyên ngành kỹ thuật
+#bít ít quan trọng nhất
+@Lĩnh vực: toán & tin
+#bit bên phải nhất
+#bít có giá trị nhỏ nhất
+#bit có nghĩa là tối thiểu
+#bit ở vị trí cực phải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bit có trọng số bé nhất (thấp nhất)
+@Chuyên ngành kỹ thuật
+#bít ít quan trọng nhất
+@Lĩnh vực: toán & tin
+#bit bên phải nhất
+#bít có giá trị nhỏ nhất
+#bit có nghĩa là tối thiểu
+#bit ở vị trí cực phải

@@ -1,0 +1,4 @@
+﻿@graphics software
+#(Tech) nhu liệu đồ họa
+@Chuyên ngành kỹ thuật
+#phần mềm đồ họa

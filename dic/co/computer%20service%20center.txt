@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#trung tâm dịch vụ vi tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trung tâm dịch vụ máy tính

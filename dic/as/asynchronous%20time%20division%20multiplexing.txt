@@ -1,0 +1,2 @@
+﻿@asynchronous time division multiplexing
+#(Tech) hệ đa kết bằng phép phân thời gian không đồng bộ, hệ đa kết phân thời

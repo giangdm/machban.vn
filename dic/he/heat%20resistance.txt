@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#độ bền nhiệt
+#độ chịu nhiệt
+@Chuyên ngành kỹ thuật
+#độ bền nhiệt
+#độ ổn định nhiệt
+#nhiệt trở
+#sức chịu nhiệt
+#tính bền nhiệt
+@Lĩnh vực: điện lạnh
+#độ cản nhiệt
+@Lĩnh vực: xây dựng
+#độ chịu nhiệt
+#sự ổn định nhiệt
+#tính ổn định nhiệt

@@ -1,0 +1,9 @@
+﻿@Axiom of completeness
+#(Econ) Tiên đề về tính đầy đủ.
+: Xem AXIOMS OF PREFERENCE.
+@Chuyên ngành kinh tế
+#giả thiết về tính đầy đủ
+#tiền đề về tính đầy đủ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tiên đề đầy đủ

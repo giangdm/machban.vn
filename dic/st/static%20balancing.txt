@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cân bằng tĩnh
+#làm cân bằng tĩnh (đối với vật quay)
+#sự cân bằng tĩnh
+@Lĩnh vực: ô tô
+#cân bằng tĩnh bánh xe

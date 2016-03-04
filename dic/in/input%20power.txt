@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lực chuyển vận
+@Lĩnh vực: điện
+#công suất (đầu) vào

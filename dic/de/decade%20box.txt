@@ -1,0 +1,7 @@
+﻿@decade box
+#(Tech) hộp thập phân
+@Chuyên ngành kỹ thuật
+#hộp đo thập tiến
+@Lĩnh vực: điện
+#hộp thập biến
+#hộp thập tiến

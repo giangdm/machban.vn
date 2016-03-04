@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự đun nóng thùng trữ
+#sự gia nhiệt bể trữ
+@Lĩnh vực: xây dựng
+#tăng nhiệt dự trữ

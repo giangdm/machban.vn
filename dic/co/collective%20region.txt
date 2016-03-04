@@ -1,0 +1,2 @@
+﻿@collective region
+#(Tech) vùng cực góp

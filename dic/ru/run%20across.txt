@@ -1,0 +1,3 @@
+﻿@run across
+#chạy ngang qua
+#ngẫu nhiên gặp, tình cờ gặp (ai)

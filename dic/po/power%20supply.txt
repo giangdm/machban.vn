@@ -1,0 +1,33 @@
+﻿@Chuyên ngành kinh tế
+#sự cung ứng điện
+#sự cung ứng điện lực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết bị nguồn điện
+@Chuyên ngành kỹ thuật
+#bộ nguồn
+#điện áp nguồn
+#nguồn
+#nguồn cấp điện
+#nguồn cung cấp năng lượng
+#nguồn điện áp
+#nguồn điện bộ nguồn
+#nguồn năng lượng
+#nguồn nuôi
+#sự cung cấp công suất
+#sự cung cấp điện
+#sự cung cấp điện năng
+#sự cung cấp năng lượng
+#sự cung cấp nguồn
+@Lĩnh vực: điện
+#bộ cấp điện
+@Lĩnh vực: điện lạnh
+#bộ nguồn điện tử
+@Lĩnh vực: giao thông & vận tải
+#bộ nguồn nuôi (máy tính)
+@Lĩnh vực: toán & tin
+#cung cấp nguồn điện
+@Lĩnh vực: điện tử & viễn thông
+#sự tiếp dưỡng năng lượng
+@Lĩnh vực: xây dựng
+#tiếp điện

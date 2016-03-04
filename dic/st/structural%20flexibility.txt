@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tính đàn hồi cấu trúc
+#tính uyển chuyển cấu trúc

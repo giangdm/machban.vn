@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dụng cụ ghi ứng suất
+@Lĩnh vực: toán & tin
+#máy ghi ứng suất

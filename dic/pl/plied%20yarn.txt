@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+#chỉ gép tao
+#chỉ gộp tao
+#chỉ hợp tao

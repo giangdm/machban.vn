@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#đường ăn khớp
+#đường áp lực
+#đường tác dụng
+#đường tác dụng (của lực)
+@Lĩnh vực: xây dựng
+#đường tác dụng của lực
+@Chuyên ngành kỹ thuật
+#đường ăn khớp
+#đường áp lực
+#đường tác dụng
+#đường tác dụng (của lực)
+@Lĩnh vực: xây dựng
+#đường tác dụng của lực

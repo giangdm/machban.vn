@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện áp phân giải
+#điện áp phân ly
+@Lĩnh vực: điện
+#điện thế phá hủy

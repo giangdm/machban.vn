@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự nghiền lại
+@Lĩnh vực: hóa học & vật liệu
+#sự nghiền quá
+@Lĩnh vực: xây dựng
+#sự nghiền quá nhỏ

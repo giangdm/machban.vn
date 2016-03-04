@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#kiểm tra thùng đóng gói hàng hóa
+#thử nghiệm bao bì
+@Chuyên ngành kỹ thuật
+#sự thử đóng gói

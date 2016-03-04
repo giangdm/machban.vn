@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi hỗn hợp
+#sâu hỗn hợp
+@Lĩnh vực: điện tử & viễn thông
+#xâu hỗn hợp

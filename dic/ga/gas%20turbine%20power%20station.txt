@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nhà máy điện dùng tuabin khí
+#trạm phát điện tuabin khí

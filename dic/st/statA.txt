@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#ampe tĩnh điện
+@Lĩnh vực: điện lạnh
+#stat A (đơn vị điện trong hệ CGS tĩnh điện)

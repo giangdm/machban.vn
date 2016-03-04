@@ -1,0 +1,3 @@
+﻿@Marginal rate of substitution (MRS)
+#(Econ) Tỷ lệ thay thế cận biên.
+: Trong học thuyết về cầu của người tiêu dùng, tỷ lệ thay thế biên đề cập đến số lượng của một loại hàng hoá, để bù đắp cho người tiêu dùng đối với việc từ bỏ số lượng một loại hàng hoá khác sao cho vẫn có được mức phúc lợi (thoả dụng ) như trước.

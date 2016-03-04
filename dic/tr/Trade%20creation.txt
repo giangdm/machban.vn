@@ -1,0 +1,7 @@
+﻿@Trade creation
+#(Econ) Sự tạo lập thương mại.
+: Việc thay thế trong thương mại quốc tế nguồn sản xuất có chi phí cao hơn bằng nguồn chi phí thấp hơn do thay đổi trong thuế quan, hay hạn ngạch hay các hàng rào thương mại khác trên cơ sở địa lý, như tạo lập một liên minh thuế quan.
+@Chuyên ngành kinh tế
+#khai phá, thiết lập mậu dịch
+#sáng tạo mậu dịch
+#tạo lập thương mại

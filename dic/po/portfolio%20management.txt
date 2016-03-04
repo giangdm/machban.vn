@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#quản lý chứng khoán có giá
+#quản lý danh mục đầu tư
+#quản lý tổ hợp đầu tư

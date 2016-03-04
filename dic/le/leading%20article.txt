@@ -1,0 +1,6 @@
+﻿@leading article
+*danh từ
+#bài xã luận đăng trên báo
+@Chuyên ngành kinh tế
+#bài font (trên báo)
+#bài xã luận

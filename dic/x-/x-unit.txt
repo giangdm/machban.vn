@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đơn vị X (đơn vị cũ của bước sóng điện từ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đơn vị X

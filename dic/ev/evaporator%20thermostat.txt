@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#máy điều nhiệt bay hơi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tecmostat giàn bay hơi
+#thermostat bay hơi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tecmostat giàn bay hơi
+#thermostat bay hơi

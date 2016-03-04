@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#kỹ thuật lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kỹ sư điện lạnh

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bụng máy nén
+#đáy máy nén
+#khoang chứa dầu máy nén

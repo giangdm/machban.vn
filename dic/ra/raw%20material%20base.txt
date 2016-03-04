@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ sở nguyên liệu
+@Lĩnh vực: xây dựng
+#trạm nguyên liệu

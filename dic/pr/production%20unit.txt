@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#đơn vị sản xuất
+#tổ đội sản xuất
+#tổ, đội sản xuất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đơn vị sản xuất

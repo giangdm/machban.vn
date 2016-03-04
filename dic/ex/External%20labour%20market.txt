@@ -1,0 +1,6 @@
+﻿@External labour market
+#(Econ) Thị trường lao động bên ngoài.
+: Một thị trường cho một số người lao động nhất định, hoặc là sẵn ngay hoặc tiềm tàng cho các công việc mới.
+@Chuyên ngành kinh tế
+#thị trường lao động bên ngoài
+#thị trường lao động bên ngoài (hãng)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu cảm nhiệt
+@Lĩnh vực: điện lạnh
+#phần tử dò nhiệt
+@Lĩnh vực: toán & tin
+#phần tử phát hiện

@@ -1,0 +1,11 @@
+﻿@Loan capital
+#(Econ) Vốn vay.
+: Xem DEBENTURES.
+@Chuyên ngành kinh tế
+#vốn vay mượn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tiền vay làm vốn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tiền vay làm vốn

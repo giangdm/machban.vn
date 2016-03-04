@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#điện lượng
+#sản lượng điện
+@Lĩnh vực: điện
+#sự sản xuất điện năng
+@Lĩnh vực: xây dựng
+#sự sản xuất năng lượng

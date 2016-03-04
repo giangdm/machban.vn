@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tổng số người làm công
+#tổng tiền lương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#trục hữu ích

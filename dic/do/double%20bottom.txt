@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hai đáy
+#hai giá thấp nhất liên tiếp nhau (chứng khoán)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#đáy kép
+@Lĩnh vực: giao thông & vận tải
+#đáy kép (đóng tàu)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đầu nối vào
+@Lĩnh vực: toán & tin
+#thiết bị đầu cuối nhập

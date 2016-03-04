@@ -1,0 +1,8 @@
+﻿@delay network
+#(Tech) mạng trễ
+@Chuyên ngành kỹ thuật
+#mạch trễ
+@Lĩnh vực: toán & tin
+#mạch trì hoãn
+@Lĩnh vực: đo lường & điều khiển
+#mang trễ

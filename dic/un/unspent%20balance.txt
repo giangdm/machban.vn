@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#khoản tiền chưa dùng hết
+#khoản tiền còn thừa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kết số không tiêu đến
+#sai ngạch không tiêu đến

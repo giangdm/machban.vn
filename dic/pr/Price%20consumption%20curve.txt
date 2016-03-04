@@ -1,0 +1,5 @@
+﻿@Price consumption curve
+#(Econ) Đường tiêu dùng theo giá.
+: Còn được biết với tên ĐƯỜNG CHÀO GIÁ. Tiếp điểm của đường BÀNG QUAN của người tiêu dùng và đường ngân sách của họ để xác định sự cân bằng của người tiêu dùng.
+@Chuyên ngành kinh tế
+#đường tiêu dùng theo giá cả

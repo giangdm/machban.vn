@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lệnh bắt buộc
+@Lĩnh vực: toán & tin
+#lệnh sai khiến

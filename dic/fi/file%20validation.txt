@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hợp lệ tệp
+@Lĩnh vực: toán & tin
+#sự kiểm tra file
+#sự kiểm tra tập tin
+#sự phê chuẩn tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hợp lệ tệp
+@Lĩnh vực: toán & tin
+#sự kiểm tra file
+#sự kiểm tra tập tin
+#sự phê chuẩn tệp

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#số nhận dạng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số định danh
+#số hiệu nhận dạng
+@Lĩnh vực: cơ khí & công trình
+#số hiệu (đăng ký) máy
+@Lĩnh vực: điện tử & viễn thông
+#số hiệu định danh
+@Lĩnh vực: xây dựng
+#số nhận diện

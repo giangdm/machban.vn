@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ PSC
+@Lĩnh vực: điện lạnh
+#động cơ tụ khởi động-chạy

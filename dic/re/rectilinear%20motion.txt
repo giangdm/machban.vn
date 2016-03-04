@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chuyển động thẳng góc
+#chuyển động vuông góc

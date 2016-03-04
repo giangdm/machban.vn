@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đèn đặc dụng
+@Lĩnh vực: điện lạnh
+#đèn độ bền cao (dùng trong điều kiện khắc nghiệt)

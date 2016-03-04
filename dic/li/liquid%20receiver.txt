@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bình chứa chất lỏng
+@Lĩnh vực: giao thông & vận tải
+#bình chứa ga lỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bình chứa chất lỏng
+@Lĩnh vực: giao thông & vận tải
+#bình chứa ga lỏng

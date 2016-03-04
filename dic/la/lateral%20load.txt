@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng ngang
+@Lĩnh vực: cơ khí & công trình
+#tải ngang
+@Lĩnh vực: xây dựng
+#tải trọng bên
+#tải trọng gió
+@Chuyên ngành kỹ thuật
+#tải trọng ngang
+@Lĩnh vực: cơ khí & công trình
+#tải ngang
+@Lĩnh vực: xây dựng
+#tải trọng bên
+#tải trọng gió

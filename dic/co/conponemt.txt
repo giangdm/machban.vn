@@ -1,0 +1,33 @@
+﻿@conponemt
+#thành phần bộ phận cấu thành
+#c. of force thành phần của lực
+#c. of the edentity thành phần của đơn vị
+#c. of momnet thành phần của mônen
+#c. of rotation thành phần của phép quay
+#c. of a space thành phần liên thông của một không gian
+#c. of variance (thống kê) thành phần phương sai
+#boundary c. thành phần biên
+#control c. thành phần (của hệ thống) điều khiển
+#covariant c. thành phần hiệp biến
+#data handling c. bộ xử lý dữ liệu
+#delay c. thành phần trễ
+#dỉection c. thành phần chỉ phương
+#exetitive c. phần tử chấp hành
+#floating c. (điều khiển học) mắt phiếm định
+#harmonic c. thành phần điều hoà
+#imaginary c. of complex function thành phần ảo của hàm phức
+#isolated c. thành phần cổ lập
+#logical c. (máy tính) thành phần lôgic
+#logical “and” c. (máy tính) thành phần lôgic “và”
+#logical “or” c. (máy tính) thành phần lôgic [“hoặc”, “hay là”]
+#major c.s (máy tính) các bộ phận cơ bản
+#miniature c.s. (máy tính) các chi tiết rất bé
+#normal c. of force thành phần pháp tuyến của lực
+#primary c. thành phần nguyên sơ
+#principal c.s(thống kê) các thành phần chính
+#real c. thành phần thực
+#restoring c. bộ phục hồi
+#stable c. (điều khiển học) mắt tĩnh, mắt ổn định
+#transition c. (xác suất) thành phần bước nhảy (trong phương trình của quá trình)
+#unstable c. (điều khiển học) mắt không ổn định
+#variance c.s thành phần phương sai

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ đo điện bằng sự di chuyển của cuộn dây
+@Lĩnh vực: điện
+#điện kế cuộn dây động

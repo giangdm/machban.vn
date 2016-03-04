@@ -1,0 +1,2 @@
+﻿@deviation constant
+#(Tech) hằng số lệch

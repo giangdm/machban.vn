@@ -1,0 +1,3 @@
+﻿@Occupational wages differentials
+#(Econ) Những chênh lệch về mức lương theo nghề nghiệp.
+: Là chênh lệch trong tiền lương trung bình của các nhóm công nhân được phân loại theo nghề nghiệp mà họ đang làm.

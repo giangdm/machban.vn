@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sự phân tích rãy
+@Chuyên ngành kỹ thuật
+#phân tích bằng sàng
+#sự phân tích bằng sàng
+@Lĩnh vực: điện lạnh
+#phân tích mạch vòng
+#phân tích mắt lưới
+@Lĩnh vực: xây dựng
+#phân tích qua sàng

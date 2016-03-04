@@ -1,0 +1,15 @@
+﻿@stand-by /'stændbai/
+*danh từ
+#người có thể trông cậy được; vật có thể trông mong vào; chỗ dựa
+#máy dự phòng
+@Chuyên ngành kỹ thuật
+#phòng hờ
+#sẵn sàng
+#sự dự phòng
+#vật dự phòng
+#vật dự trữ
+@Lĩnh vực: toán & tin
+#dụng cụ dự trữ
+<!-- more -->
+@stand-by
+#(máy tính) dụng cụ dữ trữ

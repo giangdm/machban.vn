@@ -1,0 +1,2 @@
+﻿@etch pit density
+#(Tech) mật độ khắc lõm, mật độ thực khắc

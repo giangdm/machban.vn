@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#dự báo (trong) ngắn hạn
+@Chuyên ngành kỹ thuật
+#dự báo ngắn hạn
+@Lĩnh vực: điện
+#sự dự báo ngắn hạn

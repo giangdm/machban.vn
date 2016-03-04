@@ -1,0 +1,6 @@
+﻿@Limit pricing
+#(Econ) Định giá giới hạn.
+: Các cách thức mà các hãng đã thiết lập cho một nghành công nghiệp có thể định giá với mục đích ngăn cẳn những đối thủ cạnh tranh mới muốn thâm nhập vào thị trường.
+@Chuyên ngành kinh tế
+#chiến lược định giá giới hạn
+#định giá giới hạn

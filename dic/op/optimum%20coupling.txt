@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#ghép tối ưu
+@Lĩnh vực: xây dựng
+#ghép tối đa
+@Lĩnh vực: điện lạnh
+#ghép tới hạn
+@Lĩnh vực: toán & tin
+#sự ghép tối ưu

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương trình đoạn thẳng theo đoạn chắn
+#phương trình đường thẳng theo đoạn chắn

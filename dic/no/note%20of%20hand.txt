@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giấy nhận nợ
+#giấy nhận trả tiền
+#giấy tay
+#giấy xác nhận nợ

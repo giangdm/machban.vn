@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dừng
+@Lĩnh vực: toán & tin
+#vô thời (không có yếu tố thời gian)

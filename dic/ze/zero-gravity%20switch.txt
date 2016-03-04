@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chuyển mạch không trọng lượng
+#công tắc không trọng lượng
+#công tắc trọng lượng zero

@@ -1,0 +1,2 @@
+﻿@electron transit angle
+#(Tech) góc vượt quãng điện tử

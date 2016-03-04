@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số nền
+@Lĩnh vực: xây dựng
+#hệ số phản lực nền

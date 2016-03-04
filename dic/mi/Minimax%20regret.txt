@@ -1,0 +1,3 @@
+﻿@Minimax regret
+#(Econ) Quy tắc tối thiểu hoá mức độ đáng tiếc tối đa.
+: Là một quy tắc trong lý thuyết về quá trình ra quyết định trong những diều kiện không chắc chắn.

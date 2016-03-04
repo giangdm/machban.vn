@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#dự trữ do định giá lại
+#dự trữ tái định giá
+#tiền dự phòng định giá lại tài sản

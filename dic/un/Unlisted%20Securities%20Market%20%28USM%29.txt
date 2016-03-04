@@ -1,0 +1,3 @@
+﻿@Unlisted Securities Market (USM)
+#(Econ) Thị trường chứng khoán không niêm yết.
+: Do sở giao dịch chứng khoán London (là cơ quan quản lý) thành lập năm 1980, USM là một thị trường ít tổ chức hơn so với sở giao dịch chứng khoán.

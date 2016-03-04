@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập dữ liệu modul hỗn hợp
+#tập dữ liệu modul phức hợp

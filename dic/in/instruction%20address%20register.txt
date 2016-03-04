@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#thanh ghi con trỏ lệnh
+#thanh ghi địa chỉ lệnh

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị lạnh
+@Lĩnh vực: điện lạnh
+#thân dàn [thiết bị] lạnh
+#thân giàn lạnh

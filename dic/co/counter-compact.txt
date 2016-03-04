@@ -1,0 +1,6 @@
+﻿@counter-compact
+#phản conpact
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phản compac
+#phản compact

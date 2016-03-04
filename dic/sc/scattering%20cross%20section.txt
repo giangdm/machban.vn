@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#tiết diện tán xạ
+@Lĩnh vực: điện lạnh
+#tiết diện tán xạ (ở anten)

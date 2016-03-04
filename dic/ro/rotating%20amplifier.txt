@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ khuếch đại quay
+#bộ khuếch đại từ quay
+#bộ khuếch đại từ xoay
+@Lĩnh vực: điện
+#máy khuếch đại quay
+@Lĩnh vực: toán & tin
+#máy khuếch đại xoay

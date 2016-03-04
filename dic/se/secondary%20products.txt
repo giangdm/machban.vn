@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phó sản phẩm
+#sản phẩm cấp hai
+#sản phẩm phụ
+#sản phẩm thứ cấp (chỉ những mặt hàng chế tạo)

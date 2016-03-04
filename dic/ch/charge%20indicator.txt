@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ báo nạp điện
+#phù kế đo axit acquy
+@Lĩnh vực: giao thông & vận tải
+#bộ chỉ báo điện tích
+@Lĩnh vực: điện lạnh
+#bộ chỉ báo tiền cước
+@Lĩnh vực: điện
+#bộ chỉ báo tiền điện
+#cái chỉ thị tích điện

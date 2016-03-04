@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện áp biến đổi
+@Lĩnh vực: xây dựng
+#ứng suất biến thiên
+#ứng suất thay đổi

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thời gian điều chỉnh (máy)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+#thời gian lắp đặt

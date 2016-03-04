@@ -1,0 +1,2 @@
+﻿@factorability
+#tính phân tích được (thành nhân tử), tính nhân tử hoá

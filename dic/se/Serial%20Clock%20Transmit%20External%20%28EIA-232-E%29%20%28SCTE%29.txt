@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Phát đồng hồ bên ngoài theo xêri (EIA-232-E) tín hiệu định thời mà DTE đưa tới DCE để duy trì đồng bộ

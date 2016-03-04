@@ -1,0 +1,9 @@
+﻿@square measure
+*danh từ
+#cách đo diện tích được biểu thị bằng mét vuông (bộ vuông )
+@Chuyên ngành kỹ thuật
+#diện tích
+#sự đo diện tích
+@Lĩnh vực: đo lường & điều khiển
+#số đo diện tích
+#số đo vuông

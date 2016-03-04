@@ -1,0 +1,6 @@
+﻿@accented character
+#(Tech) chữ có dấu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký tự có trọng âm
+#ký tự nhấn mạnh

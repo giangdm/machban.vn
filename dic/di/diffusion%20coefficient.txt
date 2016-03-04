@@ -1,0 +1,7 @@
+﻿@diffusion coefficient
+#(Tech) hệ số khuếch tán
+@Chuyên ngành kinh tế
+#hệ số khuyếch tán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ số khuếch tán

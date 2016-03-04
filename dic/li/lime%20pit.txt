@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#hố vôi
+#mỏ đá vôi
+@Lĩnh vực: hóa học & vật liệu
+#hố tôi vôi
+@Lĩnh vực: toán & tin
+#hố vôi tôi
+@Chuyên ngành kỹ thuật
+#hố vôi
+#mỏ đá vôi
+@Lĩnh vực: hóa học & vật liệu
+#hố tôi vôi
+@Lĩnh vực: toán & tin
+#hố vôi tôi

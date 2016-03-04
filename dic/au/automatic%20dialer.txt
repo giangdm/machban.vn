@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ chọn số tự động
+@Lĩnh vực: toán & tin
+#bộ quay số tự động

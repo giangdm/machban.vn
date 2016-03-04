@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ tọa độ hình trụ
+@Lĩnh vực: vật lý
+#tọa độ trục

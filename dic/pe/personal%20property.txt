@@ -1,0 +1,11 @@
+﻿@personal property
+*danh từ
+#<pháp> tài sản riêng
+@Chuyên ngành kinh tế
+#động sản
+#tài sản cá nhân
+#tài sản riêng
+#tài vật cá nhân
+#việc riêng (của cá nhân)
+@Chuyên ngành kỹ thuật
+#động sản

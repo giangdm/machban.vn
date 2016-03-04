@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#cầu kép
+@Chuyên ngành kỹ thuật
+#cầu Thomson
+@Lĩnh vực: điện lạnh
+#cầu Kelvin
+#cầu Thomsom
+@Lĩnh vực: điện
+#cầu Kevin
+@Lĩnh vực: toán & tin
+#mạng Kelvin

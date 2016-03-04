@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#dung lượng thông tin
+#lưu lượng giao thông
+#năng lực thông hành
+#mật độ giao thông
+@Lĩnh vực: điện tử & viễn thông
+#dung lượng chuyển
+@Lĩnh vực: toán & tin
+#khả năng vận chuyển

@@ -1,0 +1,10 @@
+﻿@off-peak
+*tính từ
+#ngoài cao điểm (điện, vé, giá cả )
+@Chuyên ngành kinh tế
+#ngoài cao điểm
+#ngoài thời gian cao điểm
+#vắng
+@Chuyên ngành kỹ thuật
+#ngoài cao điểm
+#ngoài giờ cao điểm

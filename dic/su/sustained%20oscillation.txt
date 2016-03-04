@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dao động duy trì
+#dao động không tắt
+#dao động liên tục

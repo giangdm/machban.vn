@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch tiền mặt
+#giao hàng sau khi trả tiền mặt
+#tiền mặt trước khi giao hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#trả tiền trước khi giao hàng

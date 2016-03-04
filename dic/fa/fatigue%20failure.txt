@@ -1,0 +1,28 @@
+﻿@Chuyên ngành kỹ thuật
+#phá hủy do mỏi
+#sự phá hỏng do mỏi
+@Lĩnh vực: hóa học & vật liệu
+#hỏng do mỏi
+#sự cố do mỏi
+#sự phá hủy do mỏi
+@Lĩnh vực: xây dựng
+#mặt gãy (do) mỏi
+#sự phá hoại do mỏi
+@Lĩnh vực: cơ khí & công trình
+#sự đứt gãy do mỏi
+@Lĩnh vực: điện lạnh
+#sự hỏng do mỏi
+@Chuyên ngành kỹ thuật
+#phá hủy do mỏi
+#sự phá hỏng do mỏi
+@Lĩnh vực: hóa học & vật liệu
+#hỏng do mỏi
+#sự cố do mỏi
+#sự phá hủy do mỏi
+@Lĩnh vực: xây dựng
+#mặt gãy (do) mỏi
+#sự phá hoại do mỏi
+@Lĩnh vực: cơ khí & công trình
+#sự đứt gãy do mỏi
+@Lĩnh vực: điện lạnh
+#sự hỏng do mỏi

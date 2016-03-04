@@ -1,0 +1,2 @@
+﻿@graphics raster
+#(Tech) mành đồ họa

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#máy nén tác dụng đơn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ nén tác dụng đơn
+#máy nén tác dụng đơn

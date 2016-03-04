@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất dập
+#ứng suất nén
+@Lĩnh vực: cơ khí & công trình
+#ứng suất chèn dập
+@Lĩnh vực: xây dựng
+#ứng suất ép mặt
+#ứng suất giới hạn (gãy)
+#ứng suất phá hoại (gãy)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#áp kế kiểu màng
+@Lĩnh vực: đo lường & điều khiển
+#áp kế màng mỏng

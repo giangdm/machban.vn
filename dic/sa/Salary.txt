@@ -1,0 +1,22 @@
+﻿@Salary
+#(Econ) Lương
+: Tiền trả cho hầu như toàn bộ công nhân không làm việc chân tay và một số nhân viên làm việc chân tay để đổi lấy cung lao động của họ, thông thường việc thanh toán được tiến hành sau mỗi thánh và, ngược với tiền công của nhân công làm việc chân tay, không thay đổi theo số giờ làm việc hay mức độ nỗ lực trong những giờ làm việc với điều kiện một số nghĩa vụ hợp đồng tối thiểu phải được tôn trọng.
+<!-- more -->
+@salary /'sæləri/
+*danh từ
+#tiền lương
+=to draw one's salary: lĩnh lương
+*ngoại động từ,  (thường) động tính từ quá khứ
+#trả lương
+@Chuyên ngành kinh tế
+#lương
+#lương bổng
+#tiền lương
+#trả lương cho
+@Chuyên ngành kỹ thuật
+#lương
+#mức lương
+#tiền công
+<!-- more -->
+@salary
+#(toán kinh tế) tiền lương

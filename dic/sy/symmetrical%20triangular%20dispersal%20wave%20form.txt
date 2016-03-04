@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dạng sóng phân tán tam giác đối xứng
+#dạng sóng tiêu tán tam giác đối xứng
+#tín hiệu phân tán tam giác đối xứng
+#tín hiệu tiêu tán tam giác đối xứng

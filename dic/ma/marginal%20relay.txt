@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kế điện biên dư
+@Lĩnh vực: toán & tin
+#kế điện biên duyên
+@Lĩnh vực: điện lạnh
+#rơle biên

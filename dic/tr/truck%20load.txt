@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hàng chở đầy xe
+#hàng chở một xe tải
+#toa xe đầy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tải trọng xe tải

@@ -1,0 +1,5 @@
+﻿@computer vendor
+#(Tech) nhà bán máy điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhà cung ứng máy tính

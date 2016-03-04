@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự hút không khí
+@Lĩnh vực: điện lạnh
+#luồng không khí vào

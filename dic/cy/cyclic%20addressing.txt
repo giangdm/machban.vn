@@ -1,0 +1,2 @@
+﻿@cyclic addressing
+#(Tech) địa chỉ hóa tuần hoàn

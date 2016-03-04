@@ -1,0 +1,5 @@
+﻿@Wages freeze
+#(Econ) Hạn mức tiền công.
+: Xem INCOMES POLICY.
+@Chuyên ngành kinh tế
+#sự đóng băng, cố định tiền lương

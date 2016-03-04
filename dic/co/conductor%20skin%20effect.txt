@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu ứng (lớp) da
+#hiệu ứng lớp mặt
+#hiệu ứng mặt ngoài
+#hiệu ứng skin
+@Lĩnh vực: điện lạnh
+#hiệu ứng lớp mặt dây dẫn
+#hiệu ứng mặt ngoài Kelvin

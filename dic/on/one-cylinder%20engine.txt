@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#động cơ đơn xi lanh
+@Lĩnh vực: vật lý
+#động cơ một xi lanh

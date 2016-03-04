@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều hợp nhập/xuất
+#bộ điều hợp vào/ra

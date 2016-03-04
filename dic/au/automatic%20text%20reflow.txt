@@ -1,0 +1,2 @@
+﻿@automatic text reflow
+#(Tech) cuốn văn bản tự động

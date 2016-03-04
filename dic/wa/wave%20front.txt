@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu sóng
+#diện sóng
+#mặt đầu sóng
+#mặt sóng
+@Lĩnh vực: điện
+#điện sóng
+#mặt truyền sóng
+@Lĩnh vực: toán & tin
+#mặt sóng, đầu sóng
+@Lĩnh vực: hóa học & vật liệu
+#mặt trước sóng

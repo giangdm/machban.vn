@@ -1,0 +1,23 @@
+﻿@go down
+#xuống, đi xuống
+#chìm (tàu thuỷ); lặn (mặt trời, mặt trăng...)
+#trôi (thức ăn, thức uống...)
+=this pill won't go down: viên thuốc ấy không nuốt trôi được
+#được hoan nghênh, được hưởng ứng, được thừa nhận (lời giải thích, lời xin lỗi, câu chuyện, vở kịch...)
+=the new play went down very well with the audiences: vở kịch mới được người xem hoan nghênh nhiệt liệt
+#được tiếp tục (cho đến)
+#bị đánh ngã, bại trận
+=to go down before an opponent: bị địch thủ đánh ngã
+=to go down in an exam: thi hỏng
+#ra trường (đại học)
+#yên tĩnh, lắng đi, dịu đi (biển, gió...)
+#hạ (giá cả)
+#được ghi lại, được ghi nhớ
+=to go down in history: được ghi lại trong lịch sử
+@Chuyên ngành kinh tế
+#giá cả hạ xuống
+#giảm bớt
+#sụt giảm
+@Chuyên ngành kỹ thuật
+#chìm
+#ngập (tàu)

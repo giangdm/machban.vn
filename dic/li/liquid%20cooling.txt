@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#làm lạnh chất lỏng
+@Lĩnh vực: hóa học & vật liệu
+#làm nguội bằng chất lỏng
+@Lĩnh vực: điện lạnh
+#sự làm lạnh chất lỏng
+@Chuyên ngành kỹ thuật
+#làm lạnh chất lỏng
+@Lĩnh vực: hóa học & vật liệu
+#làm nguội bằng chất lỏng
+@Lĩnh vực: điện lạnh
+#sự làm lạnh chất lỏng

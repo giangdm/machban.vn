@@ -1,0 +1,2 @@
+﻿@attenuation-frequency distortion
+#(Tech) biến dạng suy giảm tần số

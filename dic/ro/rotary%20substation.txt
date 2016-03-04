@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trạm biến đổi quay
+#trạm chỉnh lưu quay
+@Lĩnh vực: điện
+#trạm quay

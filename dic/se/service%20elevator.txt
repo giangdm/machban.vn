@@ -1,0 +1,5 @@
+﻿@service elevator /'sə:vis'eliveitə/
+*danh từ
+#(từ Mỹ,nghĩa Mỹ) thang máy dành cho người hầu
+#thang máy dành cho nhân viên phục vụ (ở một cửa hàng)
+#thang máy chuyển hàng

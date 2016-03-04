@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khu vực đóng bao
+#khu vực đóng gói
+#khu vực đóng kiện

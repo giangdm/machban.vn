@@ -1,0 +1,2 @@
+﻿@agglomerate cell
+#(Tech) pin tập khối

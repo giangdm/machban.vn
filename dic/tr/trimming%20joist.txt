@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khung viền gỗ ở sàn
+@Lĩnh vực: xây dựng
+#khung viền lỗ ở sàn

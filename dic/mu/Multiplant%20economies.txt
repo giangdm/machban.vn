@@ -1,0 +1,3 @@
+﻿@Multiplant economies
+#(Econ) Tính kinh tế nhờ vận hành nhiều nhà máy.
+: Là việc giảm được tổng chi phí trung bình nhờ vận hành nhiều hơn một nhà máy.

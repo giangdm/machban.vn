@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bảng trải dây cáp
+@Lĩnh vực: điện
+#thanh chia dây
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bảng trải dây cáp
+@Lĩnh vực: điện
+#thanh chia dây

@@ -1,0 +1,6 @@
+﻿@Price setter
+#(Econ) Người đặt giá.
+: Một hãng hoạt động ở một thị trường kông cạnh tranh đối diện với một đường cầu dốc xuống đối với sản phẩm và do đó có quyền được quyết định giá bán hàng chứ không pahỉ là người chấp nhận giá.
+@Chuyên ngành kinh tế
+#người định giá
+#người lập giá

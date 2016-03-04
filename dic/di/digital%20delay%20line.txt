@@ -1,0 +1,2 @@
+﻿@digital delay line
+#(Tech) dây trễ dạng số tự

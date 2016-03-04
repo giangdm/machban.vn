@@ -1,0 +1,8 @@
+﻿@Ordinary share
+#(Econ) Cổ phiếu thường.
+: Xem EQUITIES, FINANCIAL CAPITAL.
+@Chuyên ngành kinh tế
+#cổ phiếu thường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cổ phần thông thường

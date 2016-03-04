@@ -1,0 +1,6 @@
+﻿@bank balance
+*danh từ
+#số tiền ghi vào bên có hoặc bên nợ của một tài khoản cá nhân ở ngân hàng
+@Chuyên ngành kinh tế
+#số dư tại ngân hàng
+#tiền gửi tại Sở giao dịch chứng khoán của ngân hàng

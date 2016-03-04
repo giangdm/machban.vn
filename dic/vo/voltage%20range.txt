@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dải điện áp
+@Lĩnh vực: đo lường & điều khiển
+#khoảng điện áp

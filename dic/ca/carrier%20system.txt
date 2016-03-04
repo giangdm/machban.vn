@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ sóng mang
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống dòng mạng
+@Lĩnh vực: toán & tin
+#hệ thống mang
+#hệ thống sóng mang
+#hệ thống tải

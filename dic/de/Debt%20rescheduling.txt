@@ -1,0 +1,5 @@
+﻿@Debt rescheduling
+#(Econ) Hoãn nợ/ gia hạn nợ.
+@Chuyên ngành kinh tế
+#giải quyết nợ khó đòi ... sắp xếp lại khoản nợ
+#sự hẹn lại kỳ hạn trả nợ

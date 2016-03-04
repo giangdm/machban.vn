@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kho chứa thuốc nổ
+@Lĩnh vực: hóa học & vật liệu
+#kho thuốc nổ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kho chứa thuốc nổ
+@Lĩnh vực: hóa học & vật liệu
+#kho thuốc nổ

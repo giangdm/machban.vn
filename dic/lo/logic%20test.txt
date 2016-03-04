@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép kiểm tra logic
+#sự thử logic
+@Lĩnh vực: điện tử & viễn thông
+#thử logic
+<!-- more -->
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép kiểm tra logic
+#sự thử logic
+@Lĩnh vực: điện tử & viễn thông
+#thử logic

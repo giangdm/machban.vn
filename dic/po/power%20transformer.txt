@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ biến điện
+#bộ biến giảm công suất
+#máy biến áp cấp điện
+#máy biến áp công suất
+@Lĩnh vực: điện
+#biến áp công suất
+#biến áp điện lực
+#biến áp nguồn (trong khí cụ điện)
+#biến áp truyền tải
+#bộ biến thế nguồn
+#máy biến áp dòng
+@Lĩnh vực: điện lạnh
+#máy biến áp điện lực

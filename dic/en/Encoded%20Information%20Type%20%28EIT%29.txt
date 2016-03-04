@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#Kiểu Thông Tin Đã Được Mã Hóa
+@Lĩnh vực: điện tử & viễn thông
+#loại thông tin đã được mã hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#Kiểu Thông Tin Đã Được Mã Hóa
+@Lĩnh vực: điện tử & viễn thông
+#loại thông tin đã được mã hóa

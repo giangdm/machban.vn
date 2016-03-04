@@ -1,0 +1,3 @@
+﻿@Commodity bundling
+#(Econ) Bán hàng theo lô
+: Tập quán bán hàng hay dịch vụ trọn gói.

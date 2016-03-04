@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#được làm lạnh ban đầu
+#được làm lạnh sơ bộ

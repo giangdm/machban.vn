@@ -1,0 +1,8 @@
+﻿@ppm
+#Viết tắt của pages per minute (số trang trong mỗi phút)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#viết tắt của pages per minute (số trang trong mỗi phút)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#PPM

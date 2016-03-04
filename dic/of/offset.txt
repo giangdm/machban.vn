@@ -1,0 +1,71 @@
+﻿@offset /'ɔ:fset/
+*danh từ
+#chồi cây, mầm cây
+#núi ngang, hoành sơn
+#sự đền bù, sự bù đắp
+#(ngành in) sự in ôpxet; bản in ôpxet; sự đánh giây mực (từ tờ mới in sang tờ giấy sạch)
+#(kiến trúc) rìa xiên (ở tường)
+#khoảng cách thẳng góc với đường chính (khi quan trắc) ((cũng) offset line)
+#(kỹ thuật) khuỷu ống (để có thể lắp qua được chỗ vướng)
+*ngoại động từ
+#bù lại, đền bù, bù đắp
+#(ngành in) in ôpxet
+#( ngành cơ khí ) bù, bầu
+@Chuyên ngành kinh tế
+#bù lại
+#bù trừ
+#cân đối bù trừ
+#đền bù
+#in ốp sét
+#kỹ thuật in ốp-sét
+#sự cân đối
+@Chuyên ngành kỹ thuật
+#bậc dốc
+#bản in opset
+#bị dịch chuyển
+#bị lệch
+#chỗ gồ
+#dịch vị
+#độ chênh thời gian
+#độ dịch
+#độ lệch
+#độ lệch tâm
+#đối trọng
+#được đặt so le
+#đường chữ chi
+#đường ngoằn ngoèo
+#gờ tường
+#gờ tường (xây trồi)
+#khoảng cách
+#khuỷu ống
+#lệch
+#núi đâm ngang
+#ống chữ H
+#phần lồi
+#phân nhánh
+#sự chuyển vị
+#sự dịch động
+#sự giảm tốc
+#sự trượt
+#sự xê dịch
+#xê dịch
+@Lĩnh vực: xây dựng
+#bậc thang đào
+#bản in ốpsét
+#chuyển vị ngang
+#khuỷu khép
+#sai số điều chỉnh
+#sự sai tâm
+@Lĩnh vực: ô tô
+#bán kính lái
+@Lĩnh vực: điện
+#độ trôi dạt
+@Lĩnh vực: đo lường & điều khiển
+#giá trị bù vào offset
+@Lĩnh vực: cơ khí & công trình
+#hoành sơn
+@Lĩnh vực: toán & tin
+#khoảng chừa trống
+<!-- more -->
+@offset
+#phân nhánh

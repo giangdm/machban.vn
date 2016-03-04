@@ -1,0 +1,6 @@
+﻿@dialogue box
+#(Tech) hộp đối thoại
+@Chuyên ngành kỹ thuật
+#hộp đối thoại
+@Lĩnh vực: toán & tin
+#hộp hội thoại

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chi tiết bỏ (được)
+@Lĩnh vực: điện
+#bộ phận bỏ (được)
+@Lĩnh vực: xây dựng
+#bộ phận tháo được

@@ -1,0 +1,3 @@
+﻿@Treasury view
+#(Econ) Quan điểm của bộ tài chính.
+: Một quan điểm của bộ tài chính Anh vào đầu thế kỷ XX cho rằng chi tiêu bổ sung của chính phủ sẽ được cân bằng bởi việc suy giảm trong tư nhân.

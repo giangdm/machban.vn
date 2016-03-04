@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#dây bện
+#dây dẫn bện
+#dây nhiều sợi
+@Lĩnh vực: điện
+#dây dẫn bện ngược chiều
+#dây dẫn điện bện
+#dây dẫn nhiều sợi bện
+#dây dẫn xoắn
+#dây nhiều dảnh
+#dây nhiều tao
+@Lĩnh vực: toán & tin
+#sợi dây dẫn điện

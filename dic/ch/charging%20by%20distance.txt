@@ -1,0 +1,2 @@
+﻿@charging by distance
+#(Tech) tính tiền theo khoảng cách

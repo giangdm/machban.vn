@@ -1,0 +1,9 @@
+﻿@functional diagram
+#(Tech) sơ đồ chức năng
+@Chuyên ngành kỹ thuật
+#biểu đồ chức năng
+#sơ đồ chức năng
+#sơ đồ hoạt động
+@Lĩnh vực: toán & tin
+#giản đồ chức năng
+#sơ đồ hàm

@@ -1,0 +1,9 @@
+﻿@Linear estimator
+#(Econ) Ước lượng tuyến tính.
+: Một công thức ước tính các tham số của phương trình hồi quy, trong đó các ước tính được tìm ra như là các hàm tuyến tính của các giá trị biến phụ thuộc ước lượng OLS là một cách ước lượng tuyến tính.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ước lượng tuyến tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ước lượng tuyến tính

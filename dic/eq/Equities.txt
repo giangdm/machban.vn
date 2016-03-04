@@ -1,0 +1,5 @@
+﻿@Equities
+#(Econ) Cổ phần
+: Còn được gọi là cổ phiếu thường, là những cổ phiếu ở dạng vốn phát hành của một công ty.
+@Chuyên ngành kinh tế
+#cổ phiếu thường

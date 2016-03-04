@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thép tôi
+@Lĩnh vực: xây dựng
+#thép lò
+@Lĩnh vực: cơ khí & công trình
+#thép lò nồi

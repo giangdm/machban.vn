@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#máy bao gói
+@Chuyên ngành kỹ thuật
+#máy bện dây
+#máy đóng chai
+#máy đóng hộp
+#máy gấp mép
+#máy uốn mép

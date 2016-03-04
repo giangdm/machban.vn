@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân cấp bộ nhớ
+#sự phân cấp bộ nhớ
+#thứ bậc bộ nhớ

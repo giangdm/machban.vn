@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ pin thứ cấp
+#bộ pin trữ điện
+#bộ tích trữ điện
+#pin thứ cấp
+@Lĩnh vực: ô tô
+#pin nạp (sạc) được

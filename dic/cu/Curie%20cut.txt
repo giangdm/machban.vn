@@ -1,0 +1,2 @@
+﻿@Curie cut
+#(Tech) kiểu cắt Curie

@@ -1,0 +1,4 @@
+﻿@computable function
+#(Tech) hàm số khả tính
+@Chuyên ngành kỹ thuật
+#hàm tính được

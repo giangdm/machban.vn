@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy rải nhựa đường
+@Lĩnh vực: hóa học & vật liệu
+#máy rải atphan
+@Lĩnh vực: cơ khí & công trình
+#máy trải nhựa đường
+@Lĩnh vực: xây dựng
+#xe phân phối nhựa

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy khoan ống
+@Lĩnh vực: hóa học & vật liệu
+#khớp nối ống khoan
+@Lĩnh vực: cơ khí & công trình
+#ống nối cần khoan

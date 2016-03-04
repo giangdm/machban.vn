@@ -1,0 +1,5 @@
+﻿@graphics system
+#(Tech) hệ thống đồ họa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ đồ họa

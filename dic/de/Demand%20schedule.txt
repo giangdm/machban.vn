@@ -1,0 +1,3 @@
+﻿@Demand schedule
+#(Econ) Biểu cầu
+: Một bảng cho thấy mức cầu đối với một laọi hàng hoá nào đó tại các mức giá khác nhau.

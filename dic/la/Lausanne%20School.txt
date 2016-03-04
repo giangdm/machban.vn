@@ -1,0 +1,3 @@
+﻿@Lausanne School
+#(Econ) Trường phái Lausanne.
+: Một trường phái tư duy kinh tế có nguồn gốc tại trường Đại học Lausanne ở Thuỵ sĩ nhấn mạnh vào việc sử dụng các kỹ thuật toán học để thể hiện sự phụ thuộc lẫn nhau trong một thị trường.

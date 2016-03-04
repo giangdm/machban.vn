@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#cái khóa cần chọn số (tự động)
+@Lĩnh vực: toán & tin
+#khóa dịch chuyển (trên máy đánh chữ)

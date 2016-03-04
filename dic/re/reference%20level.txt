@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#mức chuẩn
+#mức quy chiếu
+#mức tham chiếu
+@Lĩnh vực: xây dựng
+#cao trình thông
+#mức tiêu chuẩn
+@Lĩnh vực: điện
+#mức qui chiếu
+@Lĩnh vực: điện lạnh
+#mức xuất phát

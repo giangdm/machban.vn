@@ -1,0 +1,6 @@
+﻿@Stock appreciation
+#(Econ) Sự lên giá hàng tồn kho.
+: Việc tăng giá trị danh nghĩa HÀNG TỒN KHO do tăng giá cả trong giai đoạn có liên quan.(Xem NATIONAL INCOME).
+@Chuyên ngành kinh tế
+#sự lên giá của hàng trong kho
+#sự lên giá của kho hàng

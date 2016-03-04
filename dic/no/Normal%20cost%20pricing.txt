@@ -1,0 +1,3 @@
+﻿@Normal cost pricing
+#(Econ) 'Định giá theo chi phí định mức; Định giá theo chi phí thông thường.
+: Là giả thiết cho rằng quá trình định giá được căn cứ trên chi phí của mức sản lượng giả thiết chứ không dựa trên những chi phí hiện tại hay mức dư cầu.

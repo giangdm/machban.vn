@@ -1,0 +1,10 @@
+﻿@control station
+#(Tech) đài điều khiển
+@Chuyên ngành kinh tế
+#trạm kiểm soát
+@Chuyên ngành kỹ thuật
+#bộ điều chỉnh
+#bộ điều khiển
+#trạm điều khiển
+@Lĩnh vực: toán & tin
+#trạm kiểm soát

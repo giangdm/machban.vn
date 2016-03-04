@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#vải cơ bản
+#vải đệm
+#vải gốc
+#vải nền

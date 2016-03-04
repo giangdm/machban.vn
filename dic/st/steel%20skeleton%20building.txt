@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#nhà có khung bằng thép
+#nhà có sườn bằng thép

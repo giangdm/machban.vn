@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#giảm nhiệt
+@Lĩnh vực: xây dựng
+#hao hụt nhiệt
+#mất mát nhiệt
+#mất nhiệt
+#sự hao hụt nhiệt
+@Lĩnh vực: điện
+#nhiệt hao phí
+#nhiệt thất thoát
+@Lĩnh vực: hóa học & vật liệu
+#sự hao nhiệt

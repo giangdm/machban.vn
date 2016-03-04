@@ -1,0 +1,2 @@
+﻿@Short run total cost (STC)
+#(Econ) Tổng phí ngắn hạn.

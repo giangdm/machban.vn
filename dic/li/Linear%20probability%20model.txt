@@ -1,0 +1,3 @@
+﻿@Linear probability model
+#(Econ) Mô hình xác suất tuyến tính.
+: Cũng gọi là mô hình PROBIT - mô hình xác suất đơn vị. Một mô hình trong đó biến phụ thuộc là một biến giá hay biến nhị nguyên và được biểu diễn bằng một hàm tuyến tính của một hay nhiều biến độc lập.

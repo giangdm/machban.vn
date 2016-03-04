@@ -1,0 +1,18 @@
+﻿@file format
+#(Tech) khuôn dạng tập tin
+@Chuyên ngành kinh tế
+#khuôn tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dạng thức tệp
+#khuôn dạng tệp
+#khuôn mẫu tệp
+@Lĩnh vực: xây dựng
+#kiểu dạng tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dạng thức tệp
+#khuôn dạng tệp
+#khuôn mẫu tệp
+@Lĩnh vực: xây dựng
+#kiểu dạng tệp

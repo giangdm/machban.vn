@@ -1,0 +1,2 @@
+﻿@alarm module
+#(Tech) tổ kiện báo động

@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#phân phối mũ
+#sự phân phối theo luật số mũ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân bố hàm mũ
+#phân phối hàm mũ
+#phân phối mũ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân bố hàm mũ
+#phân phối hàm mũ
+#phân phối mũ

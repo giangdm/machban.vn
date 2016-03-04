@@ -1,0 +1,6 @@
+﻿@steady-state
+#trạng thái dừng
+@Chuyên ngành kỹ thuật
+#dừng
+#ổn định
+#trạng thái ổn định

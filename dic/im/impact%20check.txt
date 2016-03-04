@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự kiểm tra va chạm
+#sự kiểm tra va đập

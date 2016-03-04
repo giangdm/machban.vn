@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#linh kiện bán dẫn
+@Lĩnh vực: toán & tin
+#linh kiện rắn (như transistor, diode tinh thể)

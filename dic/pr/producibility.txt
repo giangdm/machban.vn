@@ -1,0 +1,7 @@
+﻿@producibility /producibility/
+*danh từ
+#khả năng sản xuất được, khả năng chế tạo được
+#khả năng sinh sản được, khả năng sinh lợi được
+@Chuyên ngành kinh tế
+#khả năng chế tạo được
+#khả năng sản xuất được

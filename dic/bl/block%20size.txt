@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dài khối
+@Lĩnh vực: điện tử & viễn thông
+#cỡ khối
+@Lĩnh vực: toán & tin
+#kích thước khối

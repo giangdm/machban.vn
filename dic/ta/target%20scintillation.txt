@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chỉ báo nhấp nháy
+#nhấp nháy mục tiêu
+@Lĩnh vực: điện lạnh
+#tia phản xạ mục tiêu
+#vết chập chờn (trên màn hình ra đa)

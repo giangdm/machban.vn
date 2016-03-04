@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khóa bản ghi gốc
+#khóa chính của bản ghi

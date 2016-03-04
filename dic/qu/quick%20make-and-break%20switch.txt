@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cầu dao tác động nhanh
+@Lĩnh vực: điện lạnh
+#bộ chuyển mạch đóng-cắt nhanh
+@Lĩnh vực: điện
+#cầu dao đóng và cắt nhanh

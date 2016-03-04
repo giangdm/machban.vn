@@ -1,0 +1,5 @@
+﻿@diagnostic test
+#(Tech) thử chẩn đoán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép thử chuẩn đoán

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#điều kiện giao dịch hàng hóa
+#tỉ suất giao dịch hàng hóa

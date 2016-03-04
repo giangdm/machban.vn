@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#cột tháp
+@Lĩnh vực: điện
+#cột tháp giàn
+#cột tháp kiểu giàn
+#cột tháp thanh sắt chéo
+@Lĩnh vực: điện lạnh
+#cột tháp khung chéo
+@Lĩnh vực: xây dựng
+#tháp giàn thép
+#tháp lồng cột mắt cáo
+@Chuyên ngành kỹ thuật
+#cột tháp
+@Lĩnh vực: điện
+#cột tháp giàn
+#cột tháp kiểu giàn
+#cột tháp thanh sắt chéo
+@Lĩnh vực: điện lạnh
+#cột tháp khung chéo
+@Lĩnh vực: xây dựng
+#tháp giàn thép
+#tháp lồng cột mắt cáo

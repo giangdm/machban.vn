@@ -1,0 +1,2 @@
+﻿@germanium photocell
+#(Tech) ống quang điện gecmani (Ge)

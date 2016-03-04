@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nam châm điện kiểu thanh
+#thanh nam châm điện

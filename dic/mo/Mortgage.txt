@@ -1,0 +1,36 @@
+﻿@Mortgage
+#(Econ) Thế chấp.
+: Là một sự thu xếp về mặt pháp lý theo đó một hình thức sở hữu một loại tài sản nào đó được người đi vay chuyển cho người cho vay như một sự bảo đảm đối với khoản vay đó.
+@Chuyên ngành kinh tế
+#biên bản thế chấp
+#cầm cố
+#cầm cố (để vay tiền)
+#đem cầm cố
+#sự cầm cố hoặc thế chấp cho món nợ
+#thế chấp
+#thế nợ
+#tiền vay có thế chấp
+#văn kiện thế chấp
+#văn tự cầm cố
+#văn tự thế chấp
+#vật thế chấp
+@Chuyên ngành kỹ thuật
+#cầm cố
+#cầm đồ
+@Lĩnh vực: hóa học & vật liệu
+#sự cầm cố
+#sự thế nợ
+@Lĩnh vực: xây dựng
+#thế chấp
+<!-- more -->
+@mortgage
+*danh từ
+#văn tự thế chấp; sự thế chấp
+#to apply for/take out a mortgage
+#xin/được vay có thể chấp
+=mortgage agreement/deed:văn tự/chứng thư thế chấp
+#tiền thế chấp
+*động từ
+#cầm cố; thế chấp
+=to mortgage one's house in order to start a business:cầm ngôi nhà để lấy vốn kinh doanh
+=the house was mortgaged to the bank for a large amount of money:ngôi nhà được thế chấp cho ngân hàng để vay một số tiền lớn

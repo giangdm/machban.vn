@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giấy chứng độ ẩm
+#giấy chứng độ ẩm (của hàng hóa)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thử chịu ầm

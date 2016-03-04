@@ -1,0 +1,10 @@
+﻿@extrinsic semiconductor
+#(Tech) chất bán dẫn ngoại lai, chất bán dẫn tạp,
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chất bán dẫn không thuần
+#chất bán dẫn tạp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chất bán dẫn không thuần
+#chất bán dẫn tạp

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp bảo vệ lòng dẫn
+@Lĩnh vực: xây dựng
+#thảm hạ lưu (để ngăn nước xói lở ở đáy đập)

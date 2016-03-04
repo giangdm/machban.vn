@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm biến dạng vì nhiệt
+#giới hạn bền nhiệt

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thể tích hút lý thuyết
+#thể tích quét lý thuyết

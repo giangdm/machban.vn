@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#chuyển mạch bước
+#chuyển mạch bước quay
+#rơle bước
+#rơle bước quay
+#rơle nhiều vị trí
+#rơle tác dụng từng nấc
+@Lĩnh vực: điện
+#bộ chuyển mạch tựng nấc

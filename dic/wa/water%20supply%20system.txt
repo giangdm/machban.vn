@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đường cấp nước
+#hệ thống cấp nước
+#hệ thống cung cấp nước
+#mạng lưới cấp nước
+#ống cấp nước
+@Lĩnh vực: xây dựng
+#hệ thống (công trình) cấp nước

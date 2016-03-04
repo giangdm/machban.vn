@@ -1,0 +1,3 @@
+﻿@kb
+#<tin> (vt của kilobyte) kilôbyte = 1024 byte
+#(vt của King's Bench) cuộc bỏ phiếu ở Tối cao pháp viện nước Anh

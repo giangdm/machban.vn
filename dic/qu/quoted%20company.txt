@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#công ty đã được định giá
+#công ty được mua bán trên thị trường chứng khoán
+#công ty được yết giá

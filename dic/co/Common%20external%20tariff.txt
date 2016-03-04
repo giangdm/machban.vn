@@ -1,0 +1,7 @@
+﻿@Common external tariff
+#(Econ) Biểu thuế đối ngoại chung.
+: Mức THUẾ QUAN do các thành viên của một liên minh thuế quan, một THỊ TRƯỜNG CHUNG hay một CỘNG ĐỒNG KINH TẾ áp dụng ở một mức được thống nhất và  giống nhau đối với hàng nhập khẩu từ các nước không phải là thành viên.
+@Chuyên ngành kinh tế
+#biểu thuế quan chung
+@Chuyên ngành kinh tế
+#biểu thuế đối ngoại chung (của thị trường chung Châu Âu)

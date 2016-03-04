@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bài toán người du lịch
+@Lĩnh vực: toán & tin
+#bài toán "người bán hàng rong"

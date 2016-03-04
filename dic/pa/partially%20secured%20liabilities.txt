@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#nợ được bảo đảm một phần
+#nợ được đảm bảo một phần

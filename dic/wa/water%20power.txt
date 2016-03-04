@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#sức nước
+#thủy lực
+#thủy năng
+@Chuyên ngành kỹ thuật
+#năng lượng thủy điện
+#nguồn dự trữ thủy năng
+#thủy lực
+@Lĩnh vực: điện lạnh
+#động lực của nước
+@Lĩnh vực: cơ khí & công trình
+#thủy năng sức nước

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bơm hỗn hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bơm cấp hỗn hợp

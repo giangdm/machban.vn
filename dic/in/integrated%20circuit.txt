@@ -1,0 +1,10 @@
+﻿@integrated circuit
+*danh từ
+#mạch tích hợp, vi mạch
+@Chuyên ngành kỹ thuật
+#mạch tích phân
+#vi mạch
+@Lĩnh vực: toán & tin
+#mạch IC
+@Lĩnh vực: điện tử & viễn thông
+#mạch phối hợp

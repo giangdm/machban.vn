@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện áp tạp nhiễu tương đương
+#điện áp tiếng ồn tương đương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện áp tạp nhiễu tương đương
+#điện áp tiếng ồn tương đương

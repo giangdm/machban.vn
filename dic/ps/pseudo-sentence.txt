@@ -1,0 +1,5 @@
+﻿@pseudo-sentence
+#(logic học) giả câu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giả câu

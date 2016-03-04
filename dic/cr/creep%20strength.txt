@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền rão
+#độ bền từ biến
+#giới hạn từ biến

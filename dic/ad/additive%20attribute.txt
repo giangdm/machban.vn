@@ -1,0 +1,6 @@
+﻿@additive attribute
+#(Tech) thuộc về cộng tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thuộc tính bổ sung
+#thuộc tính cộng

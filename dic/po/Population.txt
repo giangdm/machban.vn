@@ -1,0 +1,40 @@
+﻿@Population
+#(Econ) Dân số
+<!-- more -->
+@population /,pɔpju'leiʃn/
+*danh từ
+#số dân
+=population explosion: sự tăng dân số ồ ạt và nhanh chóng
+#(the population) dân cư
+@Chuyên ngành kinh tế
+#chủng quần
+#dân cư
+#dân số
+#mật độ dân số
+#nhân khẩu
+#quần loại
+#quần thể
+@Chuyên ngành kỹ thuật
+#dân số
+#độ cư trú
+#nhân khẩu
+#quần thể
+#số dân
+#tổng thể
+@Lĩnh vực: xây dựng
+#dân cư
+@Lĩnh vực: điện lạnh
+#độ bị chiếm
+#mật độ cư trú
+<!-- more -->
+@population
+#dân số; tập hợp
+#continuous p. (thống kê) tập hợp liên tục
+#dichotomous p. (thống kê) tập hợp lưỡng phân
+#finite p. (thống kê) tập hợp hữu hạn
+#hibrid p. (thống kê) tập hợp lai giống
+#hypothetic(al) p. (thống kê) tập hợp giả định
+#infinite p. (thống kê) tập hợp vô hạn
+#mixed p. (thống kê) tập hợp hỗn tạp
+#non-normal p. (thống kê) tập hợp không chuẩn
+#parent p. (thống kê) tập hợp tổng quát

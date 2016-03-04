@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sự phân loại theo kích thước
+@Chuyên ngành kỹ thuật
+#sự định cỡ

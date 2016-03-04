@@ -1,0 +1,2 @@
+﻿@algol
+#(vt của ALGOrithmic Language) tên một ngôn ngữ lập trình

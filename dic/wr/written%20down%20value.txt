@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giá trị đã giảm bớt
+#giá trị kế toán
+#giá trị kết toán
+#giá trị ròng trên sổ sách
+#giá trị sau khi khấu hao

@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều chỉnh âm sắc
+@Lĩnh vực: điện lạnh
+#bộ điều chỉnh âm thanh
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển âm thanh
+#sự điều chỉnh âm hưởng
+@Lĩnh vực: xây dựng
+#kiểm âm
+@Lĩnh vực: điện
+#mạch chỉnh âm sắc
+@Lĩnh vực: toán & tin
+#sự điều khiển âm

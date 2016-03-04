@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy di quang
+@Lĩnh vực: điện
+#máy phát quét
+@Lĩnh vực: điện lạnh
+#máy tạo sóng quét

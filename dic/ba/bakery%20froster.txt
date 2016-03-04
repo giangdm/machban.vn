@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy kết đông bánh mì
+#máy kết đông bánh ngọt
+#máy kết đông bánh nướng
+@Lĩnh vực: điện lạnh
+#máy kết đông bánh mì [bánh ngọt, bánh nướng]

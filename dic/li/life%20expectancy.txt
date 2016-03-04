@@ -1,0 +1,27 @@
+﻿@life expectancy /'laifiks'pektənsi/
+*danh từ
+#tuổi thọ trung bình (của một hạng người theo thống kê)
+@Chuyên ngành kinh tế
+#niên hạn sử dụng
+#tuổi thọ dự kiến
+#ước tính tuổi thọ
+@Chuyên ngành kỹ thuật
+#độ kỳ vọng tuổi thọ
+#kỳ hạn
+@Lĩnh vực: điện tử & viễn thông
+#sống dự tính
+#tuổi thọ dự tính
+@Lĩnh vực: điện lạnh
+#thời hạn sống
+@Lĩnh vực: điện
+#tuổi thọ (dự kiến)
+@Chuyên ngành kỹ thuật
+#độ kỳ vọng tuổi thọ
+#kỳ hạn
+@Lĩnh vực: điện tử & viễn thông
+#sống dự tính
+#tuổi thọ dự tính
+@Lĩnh vực: điện lạnh
+#thời hạn sống
+@Lĩnh vực: điện
+#tuổi thọ (dự kiến)

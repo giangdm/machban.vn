@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tổng tải trọng đăng ký
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#trọng tải đăng ký toàn phần

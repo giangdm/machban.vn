@@ -1,0 +1,32 @@
+﻿@female connector
+#(Tech) bộ nối âm, bộ liên kết âm
+@Chuyên ngành kỹ thuật
+#bộ nối cái
+#đầu nối âm
+#ổ cắm
+#ổ cắm điện
+@Lĩnh vực: điện lạnh
+#bộ nối có lỗ
+@Lĩnh vực: điện
+#bộ nối có lỗ cắm
+#đầu nối có lỗ cắm
+@Lĩnh vực: toán & tin
+#đầu nối cái
+#giắc cắm cái
+@Lĩnh vực: xây dựng
+#khâu nối kết
+@Chuyên ngành kỹ thuật
+#bộ nối cái
+#đầu nối âm
+#ổ cắm
+#ổ cắm điện
+@Lĩnh vực: điện lạnh
+#bộ nối có lỗ
+@Lĩnh vực: điện
+#bộ nối có lỗ cắm
+#đầu nối có lỗ cắm
+@Lĩnh vực: toán & tin
+#đầu nối cái
+#giắc cắm cái
+@Lĩnh vực: xây dựng
+#khâu nối kết

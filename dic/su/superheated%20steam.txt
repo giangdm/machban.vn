@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hơi quá nhiệt
+@Lĩnh vực: xây dựng
+#hơi nước quá nhiệt
+@Lĩnh vực: điện lạnh
+#hơi quá nóng
+#hơi quá sôi

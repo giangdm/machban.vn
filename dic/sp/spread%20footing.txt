@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#móng bè
+@Lĩnh vực: cơ khí & công trình
+#móng có chân mở rộng
+@Lĩnh vực: xây dựng
+#móng liên tục (ch.h. Móng tường)
+#móng mở rộng
+#móng phân phối (mở rộng ở phía dưới)
+#trụ phân tán

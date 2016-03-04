@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#ống cáp
+#ống đặt cáp ngầm
+#ống đặt dây cáp
+#rãnh (đặt) cáp
+@Lĩnh vực: điện
+#cống cáp
+@Lĩnh vực: điện tử & viễn thông
+#ống (đặt) cáp

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đài di động
+@Lĩnh vực: điện
+#đài lưu động
+@Lĩnh vực: toán & tin
+#trạm di động

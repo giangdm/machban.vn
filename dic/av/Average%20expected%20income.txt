@@ -1,0 +1,3 @@
+﻿@Average expected income
+#(Econ) Thu nhập kỳ vọng bình quân; Thu nhập bình quân dự kiến.
+: Xem PERMANENT INCOME.

@@ -1,0 +1,12 @@
+﻿@execute statement
+#(Tech) câu lệnh thi hành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#câu lệnh thực hiện
+#lệnh chạy
+#lệnh thi hành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#câu lệnh thực hiện
+#lệnh chạy
+#lệnh thi hành

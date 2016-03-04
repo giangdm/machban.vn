@@ -1,0 +1,3 @@
+﻿@Emoluments
+#(Econ) Khoản thù lao; Thù lao ngoài lương chính
+: Được định nghĩa là một phần tiền lương của ban quản lý và các lợi ích PHI TIỀN TỆ mà lợi ích này không phải  là một phần giá cung cấp của doanh nghiệp (lương chính ).

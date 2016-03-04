@@ -1,0 +1,5 @@
+﻿@European Unit of Account
+#(Econ) Đơn vị Kế toán Châu Âu.
+: Là đơn vị kế toán được sử dụng trong CỘNG ĐỒNG CHÂU ÂU cho các mục đích như chuẩn bị ngân sách công đồng và định giá sản phẩm nông nghiệp thông qua CHÍNH SÁCH NÔNG NGHIỆP CHUNG. Vì các nước thành viện của ÉCử dụng các đồng tiền khác nhau, nên cần thiết phải tạo ra một đơn vị kế toán chung để trao đổi buôn bán công đồng.
+@Chuyên ngành kinh tế
+#đơn vị tính toán Châu Âu

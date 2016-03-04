@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#bản kê hối phiếu phải thu
+#tài khoản hối phiếu phải thu

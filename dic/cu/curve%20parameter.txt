@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#tham số cong
+@Lĩnh vực: cơ khí & công trình
+#thông số đường cong

@@ -1,0 +1,2 @@
+﻿@access-rights terminal
+#(Tech) đầu cuối dành quyền truy cập

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dao động ký đèn lõm
+@Lĩnh vực: điện lạnh
+#đèn phễu ghi dao động

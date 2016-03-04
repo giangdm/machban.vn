@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hợp kim đồng
+@Lĩnh vực: điện
+#các hợp kim của đồng

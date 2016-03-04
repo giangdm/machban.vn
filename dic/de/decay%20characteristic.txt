@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đặc trưng phân rã
+#đặc trưng tắt dần
+#đặc tuyến phân rã

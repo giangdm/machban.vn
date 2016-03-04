@@ -1,0 +1,2 @@
+﻿@Testing an economic model
+#(Econ) Kiểm nghiệm một mô hình thực tế.

@@ -1,0 +1,2 @@
+﻿@grid rectification
+#(Tech) chỉnh lưu ở lưới

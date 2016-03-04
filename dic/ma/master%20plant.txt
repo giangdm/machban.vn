@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhà máy chính
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị chính

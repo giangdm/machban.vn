@@ -1,0 +1,8 @@
+﻿@Compound interest
+#(Econ) Lãi kép
+: Trình tự mà theo đó TIỀN LÃI tương lai được trả trên mức lãi trong quá khứ (lãi mẹ đẻ lãi con).
+@Chuyên ngành kinh tế
+#lãi gộp
+#lãi kép
+@Chuyên ngành kỹ thuật
+#lãi kép

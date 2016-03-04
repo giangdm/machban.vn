@@ -1,0 +1,3 @@
+﻿@Panel data
+#(Econ) Dữ liệu Panel
+: Một kiểu dữ liệu trong đó trong tin chéo các cá nhân được lấy mẫu với các khoảng thời gian đều đặn.

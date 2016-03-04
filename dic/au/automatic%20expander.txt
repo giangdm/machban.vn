@@ -1,0 +1,2 @@
+﻿@automatic expander
+#(Tech) bộ giãn tự động

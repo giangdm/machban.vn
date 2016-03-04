@@ -1,0 +1,13 @@
+﻿@control room
+#(Tech) phòng điều khiển
+@Chuyên ngành kỹ thuật
+#bảng điều khiển
+#buồng điều khiển
+#điểm điều khiển
+#khoảng điều chỉnh
+#khoảng điều khiển
+#phòng điều độ
+#phòng điều khiển
+#phòng điều phối
+@Lĩnh vực: hóa học & vật liệu
+#buồng kiểm tra

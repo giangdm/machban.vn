@@ -1,0 +1,8 @@
+﻿@file attribute
+#(Tech) cá tính tập tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thuộc tính tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thuộc tính tệp

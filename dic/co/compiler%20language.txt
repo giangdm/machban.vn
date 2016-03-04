@@ -1,0 +1,4 @@
+﻿@compiler language
+#(Tech) ngôn ngữ để viết bộ biên dịch
+@Chuyên ngành kỹ thuật
+#ngôn ngữ biên dịch

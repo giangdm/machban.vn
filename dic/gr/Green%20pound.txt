@@ -1,0 +1,9 @@
+﻿@Green pound
+#(Econ) Đồng bảng xanh
+: Tỷ giá hối đoái của đồng bảng Sterling sử dụng để chuyển đổi giá cả nông nghiệp được chấp thuận bởi chính sách nông nghiệp chung tính theo đơn vị tiền tệ châu Âu thành giá cả ở nước Anh.
+@Chuyên ngành kinh tế
+#đồng bảng xanh
+<!-- more -->
+@green pound
+*danh từ
+#giá trị của đồng pao trong việc trao đổi nông sản trong Cộng đồng châu Âu

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự tách lớp
+@Lĩnh vực: hóa học & vật liệu
+#sự tách nếp gấp

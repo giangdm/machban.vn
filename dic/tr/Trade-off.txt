@@ -1,0 +1,13 @@
+﻿@Trade-off
+#(Econ) Sự đánh đổi.
+: Mẫu thuẫn giữa các mục tiêu chính sách với kết quả là một mục tiêu chỉ có thể đạt được với việc hy sinh một mục tiêu khác.
+@Chuyên ngành kinh tế
+#cân nhắc lựa chọn (một trong hai)
+#điều hòa
+#sự cân bằng
+#sự trao đổi
+#sự trao đổi, sự cân bằng, hiệp điệu, cân nhắc lựa chọn
+<!-- more -->
+@trade-off
+*danh từ
+#việc cân bằng các yếu tố khác nhau để đạt được sự kết hợp tốt nhất; sự thoả hiệp

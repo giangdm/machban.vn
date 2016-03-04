@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dây bọc kim
+@Lĩnh vực: điện lạnh
+#dây dẫn có bọc chắn

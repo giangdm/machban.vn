@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dấu tách thông tin
+@Lĩnh vực: toán & tin
+#bộ tách thông tin

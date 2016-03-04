@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phương pháp có tính phân tích
+#phương pháp có tính tích phân
+#phương pháp phân tích
+@Chuyên ngành kỹ thuật
+#phương pháp phân tích
+@Lĩnh vực: toán & tin
+#phương pháp giải tích

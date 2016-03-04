@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#kết toán thặng dư
+#trương mục kết toán thặng dư
+@Chuyên ngành kỹ thuật
+#lún thừa dư
+@Lĩnh vực: toán & tin
+#độ lún dư

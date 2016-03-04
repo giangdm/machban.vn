@@ -1,0 +1,8 @@
+﻿@servosystem
+*danh từ
+#hệ thống phụ, cơ cấu phụ
+@Chuyên ngành kỹ thuật
+#hệ secvo
+#hệ thống theo dõi
+@Lĩnh vực: cơ khí & công trình
+#hệ thống tùy động

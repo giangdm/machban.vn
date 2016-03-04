@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#đĩa
+#môi trường ghi
+#phương tiện mang dữ liệu
+#phương tiện nhớ
+#vật mang dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#môi trường ghi nhận
+@Lĩnh vực: toán & tin
+#phương tiện ghi

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đèn Nernst
+#đèn nóng sáng Nernst
+#đèn sợi đốt Nernst

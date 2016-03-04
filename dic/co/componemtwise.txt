@@ -1,0 +1,2 @@
+﻿@componemtwise
+#theo từng thành phần

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nghiệm đúng một phương trình
+#thỏa mãn một phương trình

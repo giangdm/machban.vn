@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#pa-lét theo hàng (không trả lại)
+@Chuyên ngành kỹ thuật
+#khay dùng một lần
+@Lĩnh vực: giao thông & vận tải
+#giá kê dùng một lần
+@Chuyên ngành kỹ thuật
+#khay dùng một lần
+@Lĩnh vực: giao thông & vận tải
+#giá kê dùng một lần

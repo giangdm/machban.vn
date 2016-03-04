@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Khuyến nghị H.261 của ITU về bộ codec video cho các dịch vụ nghe -nhìn tại P x 64kbit/s

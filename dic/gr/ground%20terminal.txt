@@ -1,0 +1,12 @@
+﻿@ground terminal
+#(Tech) đầu nối đất
+@Chuyên ngành kỹ thuật
+#cọc nối đất
+#đầu kẹp nối đất
+#đầu nối đất
+#đầu nối tiếp đất
+#đầu nối vỏ máy
+#sự nối đất
+#sự tiếp đất
+@Lĩnh vực: điện
+#sự nối với vỏ máy

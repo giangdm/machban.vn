@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#bộ đếm dùng rơle
+#bộ đếm từ
+#bộ đếm từ tính
+#máy đếm từ

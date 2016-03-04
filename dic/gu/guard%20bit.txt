@@ -1,0 +1,6 @@
+﻿@guard bit
+#(Tech) bit bảo vệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bit bảo vệ
+#bit chắn

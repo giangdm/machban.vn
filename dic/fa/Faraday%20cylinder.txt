@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trụ chắn điện Faraday
+#trụ chắn hạt Faraday
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#hình trụ Faraday
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trụ chắn điện Faraday
+#trụ chắn hạt Faraday
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#hình trụ Faraday

@@ -1,0 +1,2 @@
+﻿@distributed computing
+#(Tech) tính toán phân bố

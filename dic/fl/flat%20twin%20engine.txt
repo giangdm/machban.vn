@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ kép
+@Lĩnh vực: ô tô
+#động cơ chữ V phẳng
+@Lĩnh vực: cơ khí & công trình
+#động cơ có 2 xi lanh
+@Chuyên ngành kỹ thuật
+#động cơ kép
+@Lĩnh vực: ô tô
+#động cơ chữ V phẳng
+@Lĩnh vực: cơ khí & công trình
+#động cơ có 2 xi lanh

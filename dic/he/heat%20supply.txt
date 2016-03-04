@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự cung cấp nhiệt
+@Lĩnh vực: điện
+#nguồn cấp nhiệt năng
+#việc cấp nhiệt
+@Lĩnh vực: xây dựng
+#sự cấp nhiệt

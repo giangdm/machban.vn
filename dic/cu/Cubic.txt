@@ -1,0 +1,38 @@
+﻿@Cubic
+#(Econ) Lập phương
+: Phương trình lập phương là phương trình mà trong đó số mũ cao nhất của BIẾN ĐỘC LẬP là 3 (có nghĩa là lập phương của nó).
+<!-- more -->
+@cubic /'kju:bik/
+*tính từ: (cubical)
+/'kju:bikəl/
+#có hình khối, có hình lập phương
+#(toán học) bậc ba
+=cubic equation: phương trình bậc ba
+*danh từ
+#(toán học) đường bậc ba, đường cubic
+@Chuyên ngành kỹ thuật
+#bậc ba (toán học)
+#hình khối
+#khối
+#lập phương
+@Lĩnh vực: điện
+#có dạng lập phương
+@Lĩnh vực: xây dựng
+#có hình khối
+#đường bậc ba
+#thuộc khối vuông
+#thuộc lập phương
+@Lĩnh vực: toán & tin
+#hàm bậc ba
+#phương trình bậc ba
+<!-- more -->
+@cubic
+#bậc ba; phương trình bậc ba; đường bậc ba, cubic
+#bipartile c. đường bậc ba tách đôi hai nhánh (y =x (x-a) (x-b) 0 &lt; a &lt; b)
+#discriminating c. phương trình đặc trưng của mặt bậc ba
+#equianharmonic c. đường bậc ba đẳng phi điều
+#harmonic c. đường điều hoà bậc ba
+#nodal c. cubic có nút
+#osculating c. cubic mật tiếp
+#twisted c. cubic xoắn
+#two-cireuited c. cubic hai mạch

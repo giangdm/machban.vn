@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mối nối chát vữa
+#mối nối đổ bêtông
+#mối nối liền khối
+#mối nối trát vữa

@@ -1,0 +1,4 @@
+﻿@comparison unit
+#(Tech) đơn vị so sánh
+@Chuyên ngành kỹ thuật
+#bộ so sánh

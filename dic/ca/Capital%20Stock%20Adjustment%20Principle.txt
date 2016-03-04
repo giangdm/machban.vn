@@ -1,0 +1,3 @@
+﻿@Capital Stock Adjustment Principle
+#(Econ) Nguyên lý điều chỉnh dung lượng vốn
+: Một lý thuyết cho rằng mức ĐẦU TƯ RÒNG là một phần chênh lệch giữa DUNG LƯỢNG VỐN mong muốn và dung lượng vốn thực tế, nó phản ánh khả năng điều chỉnh không hoàn hảo tới một mức tối ưu trong bất cứ khoảng thời gian có hạn nào đó. (Xem ACCELERATOR PRINCIPLE).

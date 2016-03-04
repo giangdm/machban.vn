@@ -1,0 +1,31 @@
+﻿@Minimum
+#(Econ) Giá trị tối thiểu.
+: Giá trị nhỏ nhất của một biến hay một hàm.
+<!-- more -->
+@minimum /'miniməm/
+*danh từ,  số nhiều minima  /'miniməm/
+#số lượng tối thiểu, mức tối thiểu, tối thiểu
+*tính từ
+#tối thiểu
+=minimum wages: lượng tối thiểu
+=a minimum price: giá tối thiểu
+=a minimum programme: cương lĩnh tối thiểu
+@Chuyên ngành kinh tế
+#ít nhất
+#lượng tối thiểu
+#mức thấp nhất
+#mức tối thiểu
+#nhỏ nhất
+#tối thiểu
+@Chuyên ngành kỹ thuật
+#chì đỏ
+#minium chì
+@Lĩnh vực: hóa học & vật liệu
+#chì tetroxit
+@Lĩnh vực: xây dựng
+#minium Pb304
+<!-- more -->
+@minimum
+#cực tiểu
+#improper m. cực tiểu không chân chính
+#weak relative m. cực tiểu tương đối yếu

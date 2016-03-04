@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phí bốc hàng lên tàu
+#phí chuyên chở
+#phí vận chuyển
+#phí vận chuyển, phí bốc hàng tàu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#phí vận tàu thủy

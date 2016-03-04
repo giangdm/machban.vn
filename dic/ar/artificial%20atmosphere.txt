@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#không khí được điều hòa
+@Chuyên ngành kỹ thuật
+#atmosphe điều hòa không khí
+#atmosphe nhân tạo
+#khí hậu nhân tạo
+@Lĩnh vực: điện lạnh
+#atmosphe điều hòa không
+@Lĩnh vực: hóa học & vật liệu
+#không khí nhân tạo
+#môi trường khí nhân tạo

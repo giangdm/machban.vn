@@ -1,0 +1,10 @@
+﻿@Quartile
+#(Econ) Tứ phân vị.
+: Một phương tiện xác định vị trí của dữ liệu hoặc phân phối mẫu.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#điểm tứ phân vị
+<!-- more -->
+@quartile
+#(thống kê) điểm tứ vi phân
+#lover q. (thống kê) điểm tứ phân vị dưới

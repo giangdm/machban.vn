@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy ghi mưa
+@Lĩnh vực: cơ khí & công trình
+#trạm đo mưa tự ghi

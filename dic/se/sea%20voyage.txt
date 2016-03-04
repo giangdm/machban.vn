@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chuyến đi đường biển
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#chuyến đi biển
+#cuộc hành trình biển

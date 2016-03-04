@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều khiển tối ưu
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển tối ưu hóa

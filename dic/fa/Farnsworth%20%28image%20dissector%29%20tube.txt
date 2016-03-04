@@ -1,0 +1,2 @@
+﻿@Farnsworth (image dissector) tube
+#(Tech) ống tia điện tử phân tích hình Farnsworth

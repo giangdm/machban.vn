@@ -1,0 +1,3 @@
+﻿@Mutually exclusive projects
+#(Econ) Các dự án loại từ lẫn nhau.
+: Đây là nói tới tình huống trong đó có hai hoặc nhiều dự án không thể cùng thực thi vì chúng cần có một đầu vào mà chỉ có thể được dùng cho một dự án.

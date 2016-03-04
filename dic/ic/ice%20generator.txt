@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#máy sinh băng
+@Chuyên ngành kỹ thuật
+#nhà máy nước đá
+#máy làm (nước) đá
+#máy làm đá
+#máy sản xuất (nước) đá
+@Lĩnh vực: hóa học & vật liệu
+#nhà máy nước (nước) đá

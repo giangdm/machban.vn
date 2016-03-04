@@ -1,0 +1,3 @@
+﻿@Internal wage differentials
+#(Econ) Các mức chênh lệch tiền công nội tại.
+: Xem RELATIVITIES.

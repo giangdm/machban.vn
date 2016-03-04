@@ -1,0 +1,7 @@
+﻿@Wage-price spiral
+#(Econ) Vòng xoáy tiền công-giá
+: Khái niệm cho rằng sự tăng lương sẽ dẫn tới sự tăng giá do chi phí sản xuất tăng và lại gây ảnh hưởng đến tiền lương bởi vì công nhân muốn duy trì sức mua của đồng tiền.
+@Chuyên ngành kinh tế
+#vòng xoáy tiền lương-giá cả
+#xoắn ốc giá cả-tiền lương
+#xoắn ốc lạm phát do tiền lương

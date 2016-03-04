@@ -1,0 +1,9 @@
+﻿@guard circuit
+#(Tech) mạch bảo vệ
+@Chuyên ngành kỹ thuật
+#mạch bảo vệ
+#mạch bảo vệ (điện thoại)
+@Lĩnh vực: điện tử & viễn thông
+#mạch canh giữ
+@Lĩnh vực: toán & tin
+#sơ đồ bảo vệ

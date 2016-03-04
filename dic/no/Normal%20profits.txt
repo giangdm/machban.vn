@@ -1,0 +1,3 @@
+﻿@Normal profits
+#(Econ) Các khoản lợi nhuận thông thường.
+: Là mức lợi nhuận tối thiểu mà một doanh nghiệp phải đạt được để khiến cho doanh nghiệp còn có thể tiếp tục hoạt động được.

@@ -1,0 +1,8 @@
+﻿@Money stock
+#(Econ) Dung lượng tiền.
+: Là một cách gọi khác của cung tiền.
+@Chuyên ngành kinh tế
+#chứng khoán rất ngắn hạn
+#cổ phiếu tài chính
+#cổ phiếu tiền mặt
+#vốn kinh doanh tiền tệ

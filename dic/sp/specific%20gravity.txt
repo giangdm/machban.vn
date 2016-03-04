@@ -1,0 +1,11 @@
+﻿@specific gravity
+*danh từ
+#trọng lượng riêng, tỷ trọng
+@Chuyên ngành kinh tế
+#khối lượng riêng
+#trọng lượng riêng
+#tỷ trọng
+@Chuyên ngành kỹ thuật
+#khối lượng riêng tương đối
+#mật độ tương đối
+#mật độ tỷ đối

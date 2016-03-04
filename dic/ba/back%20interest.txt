@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#lãi chưa trả
+#tiền lãi còn thiếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nợ còn khất lại
+#tiền thiếu nợ
+#tiền thuế thiếu

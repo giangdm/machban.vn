@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều khiển
+@Lĩnh vực: điện
+#bộ khởi động hình trống

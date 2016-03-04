@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#vùng nông thôn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#huyện
+@Lĩnh vực: điện
+#khu vực nông thôn

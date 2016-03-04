@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị thi công
+#thiết bị trên công trường
+@Lĩnh vực: xây dựng
+#nhà máy cơ khí

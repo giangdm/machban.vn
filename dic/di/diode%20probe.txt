@@ -1,0 +1,5 @@
+﻿@diode probe
+#(Tech) đầu dò bằng điôt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đầu rò bằng đi-ốt

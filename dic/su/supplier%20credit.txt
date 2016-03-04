@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tín dụng của người cung ứng
+#tín dụng của nhà cung cấp
+#tín dụng người cung ứng

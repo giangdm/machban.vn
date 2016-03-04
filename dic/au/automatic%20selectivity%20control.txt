@@ -1,0 +1,6 @@
+﻿@automatic selectivity control
+#(Tech) điều chỉnh chọn lọc tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạch điều khiển chọn tự động
+#sự điều khiển chọn tự động

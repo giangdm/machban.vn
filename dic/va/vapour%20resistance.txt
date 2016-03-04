@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#độ bền hơi
+#tính không hấp hơi
+@Chuyên ngành kỹ thuật
+#kín hơi
+@Lĩnh vực: điện lạnh
+#cách hơi
+#không thấm hơi
+#sự cách hơi
+#sự không thấm hơi
+#sự kín hơi
+@Lĩnh vực: xây dựng
+#sức cảm của hơi nước

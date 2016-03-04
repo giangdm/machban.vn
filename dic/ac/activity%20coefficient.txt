@@ -1,0 +1,8 @@
+﻿@activity coefficient
+#(Tech) hệ số hoạt động
+@Chuyên ngành kỹ thuật
+#hệ số hoạt động
+@Lĩnh vực: hóa học & vật liệu
+#hệ số hoạt hóa
+@Lĩnh vực: vật lý
+#hệ số phóng xạ

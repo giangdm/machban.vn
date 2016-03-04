@@ -1,0 +1,9 @@
+﻿@Wage drift
+#(Econ) Mức trượt tiền công.
+: Việc tăng mức lương hiệu lực từng đơn vị đầu vào lao đọng theo thoả thuận nằm ngoài sự kiểm soát của các thủ tục về định mức lương.
+@Chuyên ngành kinh tế
+#độ trượt, độ giạt của tiền lương
+#mức, xu thế trượt lên của tiền lương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự chênh lệch lương bổng

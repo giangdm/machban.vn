@@ -1,0 +1,8 @@
+﻿@Inflationary gap
+#(Econ) Hố cách / khoảng trống lạm phát, chênh lệch lạm phát.
+: Tổng chi tiêu vượt quá mức sản lượng tối đa có thể đạt được dẫn đến kết quả gây sức ép làm cho giá cả tăng lên.
+@Chuyên ngành kinh tế
+#độ lệch lạm phát
+#khoản chênh lệch lạm phát
+#lỗ hổng lạm phát
+#mức sai biệt do lạm phát

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chuyển mạch dữ liệu
+@Lĩnh vực: toán & tin
+#chuyển tiếp số liệu

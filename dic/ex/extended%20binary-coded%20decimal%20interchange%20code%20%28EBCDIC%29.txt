@@ -1,0 +1,2 @@
+﻿@extended binary-coded decimal interchange code (EBCDIC)
+#(Tech) mã trao đổi thập phân biên mã nhị phân mở rộng, EBCDIC (épxiddích)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#suy giảm bởi bức xạ
+#tắt dần bởi bức xạ

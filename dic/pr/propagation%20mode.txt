@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chế độ truyền sóng
+@Lĩnh vực: điện tử & viễn thông
+#kiểu lan truyền
+#phương thức lan truyền
+@Lĩnh vực: vật lý
+#kiểu lan truyền (sóng điện tử)

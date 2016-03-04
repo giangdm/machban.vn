@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ đo
+#dụng cụ đo
+@Lĩnh vực: điện
+#bộ phận chuyển đổi

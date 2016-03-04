@@ -1,0 +1,3 @@
+﻿@packing-hook
+*danh từ
+#cái móc để giữ hàng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chi phí chung
+#chi phí hành chính
+#chi sự nghiệp
+@Chuyên ngành kỹ thuật
+#chi phí hành chính

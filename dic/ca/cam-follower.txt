@@ -1,0 +1,2 @@
+﻿@cam-follower
+#(cơ học) bộ phận theo dõi cam

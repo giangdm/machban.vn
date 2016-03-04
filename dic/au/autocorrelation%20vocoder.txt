@@ -1,0 +1,2 @@
+﻿@autocorrelation vocoder
+#(Tech) bộ mã tiếng nói tự tương quan

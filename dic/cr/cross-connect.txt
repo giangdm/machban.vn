@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nối chéo
+#thanh nối
+@Lĩnh vực: xây dựng
+#nối ngang
+@Lĩnh vực: toán & tin
+#nối ngang (điện)

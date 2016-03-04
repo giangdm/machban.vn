@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt nạ thợ hàn
+#tấm chắn bảo vệ
+@Lĩnh vực: toán & tin
+#mặt nạ (hàn)
+@Lĩnh vực: xây dựng
+#tấm chắn mặt
+@Lĩnh vực: cơ khí & công trình
+#tấm che mặt (khi hàn)
+@Chuyên ngành kỹ thuật
+#mặt nạ thợ hàn
+#tấm chắn bảo vệ
+@Lĩnh vực: toán & tin
+#mặt nạ (hàn)
+@Lĩnh vực: xây dựng
+#tấm chắn mặt
+@Lĩnh vực: cơ khí & công trình
+#tấm che mặt (khi hàn)

@@ -1,0 +1,2 @@
+﻿@encrypted file
+#(Tech) tập tin được mật mã hóa

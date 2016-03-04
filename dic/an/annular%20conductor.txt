@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dây dẫn dạng vòng
+@Lĩnh vực: điện
+#thanh dẫn kiểu ống

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ ổn định nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#chất ổn định nhiệt

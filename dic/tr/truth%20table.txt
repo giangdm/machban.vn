@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng chân lý
+@Lĩnh vực: toán & tin
+#bảng chân trị
+#bảng giá trị tin cậy
+#bảng thực trị
+@Lĩnh vực: điện lạnh
+#bảng thử đúng

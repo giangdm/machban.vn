@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cạc tham chiếu dải từ
+#thẻ tham chiếu dải từ

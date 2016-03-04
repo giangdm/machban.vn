@@ -1,0 +1,3 @@
+﻿@Range (of a good)
+#(Econ) Phạm vi (của một hàng hoá).
+: Trong kinh tế học, vùng khoảng cách tối đa mà người ta sẽ đi để mua một hàng hoá cụ thể nào đó.

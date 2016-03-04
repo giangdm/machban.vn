@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#sai số do cá nhân
+#sai số do chủ quan
+#sai số do con người
+@Lĩnh vực: toán & tin
+#sai số do người

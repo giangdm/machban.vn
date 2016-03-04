@@ -1,0 +1,8 @@
+﻿@ESC key
+#(Tech) phím thoát; phím khuếch trương (ký tự)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phím ESC
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phím ESC

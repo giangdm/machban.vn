@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hết chuỗi
+#hết tuần tự
+#kết thúc chuỗi
+#kết thúc tuần tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hết chuỗi
+#hết tuần tự
+#kết thúc chuỗi
+#kết thúc tuần tự

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số truyền nhiệt (tổng)
+@Lĩnh vực: xây dựng
+#hệ số truyền nhiệt tổng thể

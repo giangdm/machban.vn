@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#điện trở suất nhiệt
+#độ bền nhiệt
+#nhiệt trở
+@Lĩnh vực: điện lạnh
+#hệ số cản nhiệt (bằng nghịch đảo hệ số dẫn nhiệt)
+@Lĩnh vực: điện
+#nhiệt trở suất

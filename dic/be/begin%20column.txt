@@ -1,0 +1,2 @@
+﻿@begin column
+#(Tech) cột bắt đầu

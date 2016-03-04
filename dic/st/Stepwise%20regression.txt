@@ -1,0 +1,3 @@
+﻿@Stepwise regression
+#(Econ) Hồi quy theo bước .
+: Một kiểu phân tích HỒI QUY trong đó các BIẾN GIẢI THÍCH được cộng lần lượt vào phương trình hồi quy cho đến khi tiêu chí MỨC ĐỘ PHÙ HỢP được thoả mãn.

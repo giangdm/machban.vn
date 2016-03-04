@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phương tình cân bằng
+@Lĩnh vực: toán & tin
+#phương trình cân bằng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phương tình cân bằng
+@Lĩnh vực: toán & tin
+#phương trình cân bằng

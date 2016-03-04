@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kỹ thuật
+#mạng cục bộ
+#mạng phân phối
+@Lĩnh vực: điện lạnh
+#mạng cục bộ (điện thoại)
+@Lĩnh vực: điện tử & viễn thông
+#mạng địa phương
+#vùng tổng đài cục bộ
+<!-- more -->
+@Chuyên ngành kỹ thuật
+#mạng cục bộ
+#mạng phân phối
+@Lĩnh vực: điện lạnh
+#mạng cục bộ (điện thoại)
+@Lĩnh vực: điện tử & viễn thông
+#mạng địa phương
+#vùng tổng đài cục bộ

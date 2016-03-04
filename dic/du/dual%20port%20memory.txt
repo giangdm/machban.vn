@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ cổng song song
+#bộ nhớ đối ngẫu
+#bộ nhớ hai cổng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất cho phép
+#ứng suất làm việc
+#ứng suất vận hành
+@Lĩnh vực: xây dựng
+#ứng suất khai thác

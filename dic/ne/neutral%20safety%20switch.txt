@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chuyển mạch an toàn trung tính
+@Lĩnh vực: ô tô
+#công tắc an toàn khởi động

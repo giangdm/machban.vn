@@ -1,0 +1,2 @@
+﻿@gate-to-source impedance
+#(Tech) trở kháng từ cổng đến nguồn

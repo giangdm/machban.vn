@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#lưu lượng chuyển giao thông tin
+#lưu lượng phân tử thông tin
+#mức độ chuyển giao thông tin
+#mức độ phân tử thông tin

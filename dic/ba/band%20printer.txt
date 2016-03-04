@@ -1,0 +1,9 @@
+﻿@band printer
+#(Tech) máy in băng
+@Chuyên ngành kỹ thuật
+#máy in dải
+@Lĩnh vực: toán & tin
+#máy in băng
+#máy in đai
+@Lĩnh vực: điện tử & viễn thông
+#máy tin băng

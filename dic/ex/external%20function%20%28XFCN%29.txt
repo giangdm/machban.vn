@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm ngoài
+@Lĩnh vực: toán & tin
+#chức năng ngoài
+@Chuyên ngành kỹ thuật
+#hàm ngoài
+@Lĩnh vực: toán & tin
+#chức năng ngoài

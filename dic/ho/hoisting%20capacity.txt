@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng nâng
+@Lĩnh vực: xây dựng
+#khả năng nâng (máy trục)
+@Lĩnh vực: cơ khí & công trình
+#sức nâng (cần trục)

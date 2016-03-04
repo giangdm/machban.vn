@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dung tích bảo quản ở dưới 0 độ F (-17, 8 độ C)
+#thể tích (dung tích) bảo quản ở dưới 0oF

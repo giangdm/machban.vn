@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ hiển thị màu
+#màn hình màu
+@Lĩnh vực: xây dựng
+#bình phong màu
+#phố bày mầu
+@Lĩnh vực: toán & tin
+#sự hiển thị màu

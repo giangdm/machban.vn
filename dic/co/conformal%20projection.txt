@@ -1,0 +1,5 @@
+﻿@conformal projection
+#(Tech) chiếu bảo hình/giác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép chiếu bảo giác

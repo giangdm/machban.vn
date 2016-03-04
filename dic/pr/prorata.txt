@@ -1,0 +1,7 @@
+﻿@prorata
+*phó từ
+#theo tỷ lệ
+@Chuyên ngành kinh tế
+#theo tỉ lệ
+@Chuyên ngành kỹ thuật
+#tỷ lệ với

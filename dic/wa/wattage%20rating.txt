@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chỉ tiêu công suất
+@Lĩnh vực: điện lạnh
+#định mức công suất
+#số oát danh định

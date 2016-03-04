@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thùng bảo quản sản phẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bunke chứa
+#xilô chứa

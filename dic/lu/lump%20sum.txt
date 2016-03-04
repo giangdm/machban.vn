@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#giá bao khoán
+#khoản tiền trả chung một lần
+#số tiền tính gộp cả lãi
+#tình trạng dư thừa lao động
+#tổng giá tiền
+#tổng mức vận phí
+#trọn số tiền
+@Chuyên ngành kỹ thuật
+#chi phí gộp
+#chi phí một lần
+@Lĩnh vực: xây dựng
+#khoán gọn
+@Lĩnh vực: điện tử & viễn thông
+#tổng số vốn

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ga được hút vào
+#gas được hút vào
+#khí được hút vào

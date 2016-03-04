@@ -1,0 +1,3 @@
+﻿@check-weigher
+*danh từ
+#người kiểm tra trọng lượng sản phẩm

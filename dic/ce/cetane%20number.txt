@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chỉ số xetan
+@Lĩnh vực: cơ khí & công trình
+#chỉ số cetane
+@Lĩnh vực: hóa học & vật liệu
+#số lượng hydrocarbon lỏng

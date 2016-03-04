@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#đã qua đi
+#đã tiêu hao
+#giá thành đã hết hiệu lực
+#phí tổn đã quá kỳ

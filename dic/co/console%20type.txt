@@ -1,0 +1,2 @@
+﻿@console type
+#(Tech) kiểu bàn kiểm soát

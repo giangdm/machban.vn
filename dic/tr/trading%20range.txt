@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khung mua bán
+#sai biệt giá (giao dịch chứng khoán)
+@Lĩnh vực: ttck
+#tầm mức (phạm vi) mua bán, khung mua bán

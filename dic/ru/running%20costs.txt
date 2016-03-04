@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự cộng dồn lại
+@Chuyên ngành kỹ thuật
+#chi phí thường xuyên
+#chi phí vận hành
+@Lĩnh vực: dệt may
+#chi phí sử dụng

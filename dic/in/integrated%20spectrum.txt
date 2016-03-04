@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm phổ
+@Lĩnh vực: toán & tin
+#đồ thị của hàm phổ
+#hàm phổ tích hợp

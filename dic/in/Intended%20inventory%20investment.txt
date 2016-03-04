@@ -1,0 +1,3 @@
+﻿@Intended inventory investment
+#(Econ) Đầu tư vào hàng tồn kho có chủ ý
+: Sự gia tăng dự trữ có chủ tâm. Xem INVESTORIES.

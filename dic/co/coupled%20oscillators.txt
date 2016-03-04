@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ dao động ghép
+@Lĩnh vực: vật lý
+#bộ giao động ghép

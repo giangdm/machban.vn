@@ -1,0 +1,10 @@
+﻿@file name extension
+#(Tech) tên tập tin nối dài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần mở rộng tên tệp
+#phần mở rộng tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần mở rộng tên tệp
+#phần mở rộng tệp

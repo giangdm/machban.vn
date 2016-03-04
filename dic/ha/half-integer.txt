@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bán nguyên (spin)
+@Lĩnh vực: điện lạnh
+#số bán nguyên
+#số nửa nguyên

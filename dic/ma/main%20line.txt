@@ -1,0 +1,21 @@
+﻿@main line /'mein'lain/
+*danh từ
+#(ngành đường sắt) đường sắt chính
+#(từ Mỹ,nghĩa Mỹ),  (từ lóng) mạch máu chính để tiêm mocfin; sự tiêm mocfin vào mạch máu chính
+@Chuyên ngành kinh tế
+#tuyến chính (đường sắt)
+@Chuyên ngành kỹ thuật
+#đường dây cái
+#đường dây chính
+#đường ống chính
+#đường phố chính
+#đường sắt chính
+#đường truyền chính
+@Lĩnh vực: xây dựng
+#đường (phố) chính
+#đường ống dẫn chính
+#tuyến chính
+#tuyến đường chính
+@Lĩnh vực: giao thông & vận tải
+#đường chính tuyến
+#đường sắt huyết mạch

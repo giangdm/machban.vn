@@ -1,0 +1,5 @@
+﻿@Average variable cost
+#(Econ) AVC-Chi phí khả biến bình quân.
+: CHI PHÍ KHẢ BÍÊN trên một đơn vị sản lượng.
+@Chuyên ngành kinh tế
+#chi phí khả biến trung bình

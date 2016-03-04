@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#được viết theo ngôn ngữ COBOL
+#ghi mã theo ngôn ngữ COBOL

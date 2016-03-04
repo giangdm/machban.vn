@@ -1,0 +1,14 @@
+﻿@file structure
+#(Tech) cấu trúc tập tin
+@Chuyên ngành kỹ thuật
+#cấu trúc file
+@Lĩnh vực: toán & tin
+#cấu trúc tập tin
+#cấu trúc tệp
+#sự tổ chức tệp
+@Chuyên ngành kỹ thuật
+#cấu trúc file
+@Lĩnh vực: toán & tin
+#cấu trúc tập tin
+#cấu trúc tệp
+#sự tổ chức tệp

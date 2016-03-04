@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#máng tiếp liệu
+@Lĩnh vực: hóa học & vật liệu
+#máng cung cấp
+@Lĩnh vực: cơ khí & công trình
+#máng nạp
+@Chuyên ngành kỹ thuật
+#máng tiếp liệu
+@Lĩnh vực: hóa học & vật liệu
+#máng cung cấp
+@Lĩnh vực: cơ khí & công trình
+#máng nạp

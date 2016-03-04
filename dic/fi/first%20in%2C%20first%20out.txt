@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#nhập trước xuất trước
+@Chuyên ngành kỹ thuật
+#vào trước, ra trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#FIFO Nhập trước, xuất trước
+@Chuyên ngành kỹ thuật
+#vào trước, ra trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#FIFO Nhập trước, xuất trước

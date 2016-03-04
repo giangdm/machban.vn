@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nước ký kết
+@Chuyên ngành kỹ thuật
+#độ co
+#độ lún

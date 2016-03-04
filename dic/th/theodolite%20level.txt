@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo cao trình
+@Lĩnh vực: xây dựng
+#máy kinh vĩ đo cao
+#máy kinh vĩ thủy chuẩn
+@Lĩnh vực: toán & tin
+#máy kinh vĩ độ cao

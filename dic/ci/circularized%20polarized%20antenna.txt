@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ăng ten phân cực (vòng) tròn
+#dây trời phân cực (vòng) tròn

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dây điều khiển
+@Lĩnh vực: điện
+#dây kiểm tra
+#dây nhị thứ ở cáp
+#dây pilot
+@Lĩnh vực: điện lạnh
+#dây nhị thứ

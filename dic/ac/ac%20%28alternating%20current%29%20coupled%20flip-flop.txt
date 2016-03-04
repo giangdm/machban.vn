@@ -1,0 +1,2 @@
+﻿@ac (alternating current) coupled flip-flop
+#(Tech) mạch xúc phát ghép xoay chiều

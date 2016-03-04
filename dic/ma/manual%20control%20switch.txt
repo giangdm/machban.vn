@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#công tắc điều khiển bằng tay
+#công tắc điều khiển thủ công

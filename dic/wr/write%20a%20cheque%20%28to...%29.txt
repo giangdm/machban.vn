@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#phát hành một chi phiếu
+#viết một chi phiếu

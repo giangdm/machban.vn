@@ -1,0 +1,6 @@
+﻿@Price effect
+#(Econ) Hiệu ứng giá.
+: Sự thay đổi của cầu đối với một hàng hoá xảy ra do có một thay đổi của giá hàng hoá đó.
+@Chuyên ngành kinh tế
+#ảnh hưởng giá cả
+#hiệu ứng (tác động) giá cả

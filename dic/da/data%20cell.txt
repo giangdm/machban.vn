@@ -1,0 +1,6 @@
+﻿@data cell
+#(Tech) ô dữ liệu (đơn vị nhỏ nhất)
+@Chuyên ngành kỹ thuật
+#ô dữ liệu
+@Lĩnh vực: toán & tin
+#ngăn dữ liệu

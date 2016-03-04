@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chương trình mô phỏng với tầm quan trọng đặc biệt của các mạng tích hợp

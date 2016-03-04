@@ -1,0 +1,5 @@
+﻿@binary logic
+#(Tech) luận lý nhị phân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#lôgic nhị phân

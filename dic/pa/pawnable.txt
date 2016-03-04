@@ -1,0 +1,2 @@
+﻿@pawnable
+#xem pawn

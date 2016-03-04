@@ -1,0 +1,11 @@
+﻿@data security
+#(Tech) bảo mật dữ liệu
+@Chuyên ngành kinh tế
+#bảo vệ an toàn số liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#an ninh dữ liệu
+#an toàn dữ liệu
+#bảo mật dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#an toàn dữ kiện

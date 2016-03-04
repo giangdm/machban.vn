@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cầu dao cắt chậm
+@Lĩnh vực: điện
+#cầu dao ngắt chậm

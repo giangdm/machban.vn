@@ -1,0 +1,16 @@
+﻿@dead load /'ded'loud/
+*danh từ (kỹ thuật)
+#khối lượng tích động
+#trọng lượng bản thân
+#tải trọng không đổi
+@Chuyên ngành kỹ thuật
+#phụ tải cố định
+#tải trọng thường xuyên
+#tĩnh tải
+#trọng lượng riêng
+@Lĩnh vực: điện
+#phụ tải không đổi
+@Lĩnh vực: điện lạnh
+#tải chết
+@Lĩnh vực: điện tử & viễn thông
+#tải không đổi

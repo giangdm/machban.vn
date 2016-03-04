@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#sự quá tải
+@Lĩnh vực: hóa học & vật liệu
+#tải trọng dư
+@Lĩnh vực: cơ khí & công trình
+#tải trọng vượt (mức)
+@Chuyên ngành kỹ thuật
+#sự quá tải
+@Lĩnh vực: hóa học & vật liệu
+#tải trọng dư
+@Lĩnh vực: cơ khí & công trình
+#tải trọng vượt (mức)

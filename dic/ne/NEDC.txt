@@ -1,0 +1,7 @@
+﻿@NEDC
+#(Econ) Uỷ ban phát triển kinh tế quốc gia.
+: Xem NATIONAL ECONOMIC DEVELOPMENT COUNCIL.
+<!-- more -->
+@nedc
+*(viết tắt)
+#Hội đồng quốc gia về phát triển kinh tế (National Economic Development Council)

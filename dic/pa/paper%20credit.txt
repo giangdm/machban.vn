@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phiếu tín dụng
+#tín dụng chỉ tệ
+#tín dụng giấy
+#tín phiếu

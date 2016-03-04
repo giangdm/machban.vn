@@ -1,0 +1,6 @@
+﻿@Call option
+#(Econ) Hợp đồng mua trước.
+: Một hợp đồng cho phép lựa chọn mua cổ phiếu vào một ngày trong tương lai giới hạn được định trước. Xem PUT OPTION, OPTION.
+@Chuyên ngành kinh tế
+#quyền chọn mua
+#quyền chọn mua gấp đôi

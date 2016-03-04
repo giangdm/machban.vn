@@ -1,0 +1,2 @@
+﻿@FAQ = Frequently Asked Questions
+#(Tech) Những Câu Thường Hỏi

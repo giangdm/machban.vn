@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm áp lực
+#bơm nén
+#máy bơm có áp
+#máy bơm tăng áp
+#máy bơm trụ trượt
+@Lĩnh vực: hóa học & vật liệu
+#bơm áp suất
+@Lĩnh vực: điện lạnh
+#bơm ép

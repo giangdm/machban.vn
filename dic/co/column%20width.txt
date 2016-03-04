@@ -1,0 +1,5 @@
+﻿@column width
+#(Tech) độ rộng cột
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ rộng cột

@@ -1,0 +1,5 @@
+﻿@Average revenue
+#(Econ) Doanh thu bình quân.
+: Doanh thu trên một đơn vị sản lượng.
+@Chuyên ngành kinh tế
+#doanh thu trung bình

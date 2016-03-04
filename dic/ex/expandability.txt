@@ -1,0 +1,2 @@
+﻿@expandability
+#(Tech) tính mở rộng, tính triển khai

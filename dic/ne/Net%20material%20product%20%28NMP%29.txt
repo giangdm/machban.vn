@@ -1,0 +1,3 @@
+﻿@Net material product (NMP)
+#(Econ) Sản phẩm vật chất ròng.
+: Là thước đo được sử dụng tại các nước xã hội chủ nghĩa (chủ yếu là Khối Đông Âu) để đánh giá sản lượng hàng năm của cái gọi là lĩnh vực sản xuất, bao gồm nông nghiệp, lâm nghiệp, ngư nghiệp, ngành chế tạo, xây dựng, vận tải và một số dịch vụ mang tính sản xuất như du lịch, ăn uống và ngân hàng.

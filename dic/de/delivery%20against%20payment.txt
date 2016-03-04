@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giao hàng nhận tiền
+#giao hàng thì thu tiền
+#giao hàng trả tiền
+#hàng hóa giao ngân

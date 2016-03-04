@@ -1,0 +1,2 @@
+﻿@computing store
+#(Tech) bộ trữ tính toán

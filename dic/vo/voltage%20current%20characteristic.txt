@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đặc tuyến điện áp-dòng
+#đặc tuyến vôn-ampe

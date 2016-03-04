@@ -1,0 +1,5 @@
+﻿@paralleleped
+#hình hộp
+#oblique p. hình hộp xiên
+#rectangular p. hình hộp chữ nhật
+#right p. hình hộp thẳng đứng

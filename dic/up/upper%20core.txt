@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#lõi hoạt động trên (của lò phản ứng hạt nhân)
+#vùng hoạt động phía trên

@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#thanh đệm
+@Lĩnh vực: xây dựng
+#bản mã
+#bản nút
+#bản tiếp điểm
+@Lĩnh vực: hóa học & vật liệu
+#tấm giữ góc
+#tấm nối góc
+@Lĩnh vực: giao thông & vận tải
+#tấm góc
+#tấm nối (đóng tàu)
+@Lĩnh vực: cơ khí & công trình
+#tấm ốp góc
+#tấm sắt tam giác

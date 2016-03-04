@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#biểu đồ
+#giản đồ
+#sơ đồ mạch
+@Lĩnh vực: toán & tin
+#sơ đồ (mạch) khái lược
+@Lĩnh vực: hóa học & vật liệu
+#sơ đồ đại cương

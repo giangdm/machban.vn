@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm bậc thang
+#hàm bước nhảy
+@Lĩnh vực: điện tử & viễn thông
+#hàm số bậc thang
+#hàm số từng bước

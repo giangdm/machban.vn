@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảng phân định cỡ
+#bảng phân định kích thước
+@Lĩnh vực: hóa học & vật liệu
+#biểu đồ chuẩn

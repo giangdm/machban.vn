@@ -1,0 +1,9 @@
+﻿@Variable cost
+#(Econ) Các chi phí khả biến.
+: Chi phí biến đổi với mức sản lượng, ví dụ chi phí lao động.
+@Chuyên ngành kinh tế
+#chi phí khả biến
+@Chuyên ngành kỹ thuật
+#ray nối dẫn (nằm giữa gót lưỡi ghi và tâm ghi)
+@Lĩnh vực: xây dựng
+#giá thay đổi

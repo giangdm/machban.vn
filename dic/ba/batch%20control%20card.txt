@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cạc điều khiển theo bó
+#thẻ mạch điều khiển theo khối

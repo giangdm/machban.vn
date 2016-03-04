@@ -1,0 +1,3 @@
+﻿@Limited information (LI)
+#(Econ) Thông tin hạn chế.
+: Một cụm thuật ngữ miêu tả một nhóm kỹ thuật ước tính kinh tế lượng sử dụng trong việc ước tính các biến số của các hàm đồng thời.

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí nghiên cứu và phát triển
+@Chuyên ngành kỹ thuật
+#chi phí nghiên cứu và phát triển (công nghệ mới)

@@ -1,0 +1,7 @@
+﻿@differential amplifier
+#(Tech) bộ khuếch đại sai động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#âm li vi sai
+@Lĩnh vực: xây dựng
+#khuếch đại vi phân

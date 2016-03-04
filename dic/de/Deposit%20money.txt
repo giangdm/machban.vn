@@ -1,0 +1,5 @@
+﻿@Deposit money
+#(Econ) Tiền gửi ngân hàng.
+: Để chỉ một bộp phận của dung lượng tiền dưới dạng tiền gửi ngân hàng.
+@Chuyên ngành kinh tế
+#tiền gửi ngân hàng

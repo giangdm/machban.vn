@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#tocbecnit (khoáng vật phóng xạ)

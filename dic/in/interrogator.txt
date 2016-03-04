@@ -1,0 +1,8 @@
+﻿@interrogator /in'terəgeitə/
+*danh từ
+#người hỏi dò
+#người tra hỏi, người thẩm vấn, người chất vấn
+@Chuyên ngành kỹ thuật
+#người chất vấn
+@Lĩnh vực: toán & tin
+#bộ hỏi

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#độ ngấm vào
+#độ thấm ướt
+#tính thấm ướt

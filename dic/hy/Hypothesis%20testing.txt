@@ -1,0 +1,9 @@
+﻿@Hypothesis testing
+#(Econ) Kiểm định giả thuyết.
+: Một cụm thuật ngữ chung để miêu tả các thủ tục thống kê để xác định tính đúng đắn của một giả thuyết.
+@Chuyên ngành kinh tế
+#kiểm định giả thiết
+#sự kiểm tra các giả thuyết (trong hoạt động tiếp thị)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểm tra giả thiết

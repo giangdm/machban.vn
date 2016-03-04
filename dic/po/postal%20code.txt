@@ -1,0 +1,5 @@
+﻿@postal code
+*danh từ
+#mã thư tín
+@Chuyên ngành kỹ thuật
+#mã bưu điện

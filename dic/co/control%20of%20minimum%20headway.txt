@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều khiển sơ cấp
+#máy đo có điều khiển
+@Lĩnh vực: đo lường & điều khiển
+#bộ điều khiền cơ cấu đo

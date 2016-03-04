@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lệnh khai báo
+#sự khai báo
+@Lĩnh vực: toán & tin
+#câu lệnh khai báo
+#trạng thái khai báo

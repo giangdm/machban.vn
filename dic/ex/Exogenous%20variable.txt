@@ -1,0 +1,12 @@
+﻿@Exogenous variable
+#(Econ) Biến ngoại sinh.
+: Là một biến số mà giá trị của nó không được xác định trong mô hình kinh tế, nhưng lại đóng vai trò quan trong trong việc xác định giá trị của các biến nội sinh.
+@Chuyên ngành kinh tế
+#biến ngoại sinh
+#yếu tố biến đổi ngoại sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến ngoại sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến ngoại sinh

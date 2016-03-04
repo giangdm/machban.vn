@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị ghi
+@Lĩnh vực: cơ khí & công trình
+#hệ thống ghi
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống ghi chép

@@ -1,0 +1,4 @@
+﻿@all-purpose computer
+#(Tech) máy điện toán vạn năng/thông dụng
+@Chuyên ngành kỹ thuật
+#máy tính vạn năng

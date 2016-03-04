@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#van cản
+#van chặn
+#van chặn về
+#van điều tiết
+#van đóng
+#van hãm
+#van khóa
+#van kiểm tra
+#van một chiều
+#xú bắp hãm
+@Lĩnh vực: ô tô
+#kiểm tra valve
+@Lĩnh vực: xây dựng
+#van chặn quay ngược lại
+#van kiểm soát
+@Lĩnh vực: cơ khí & công trình
+#van điều khiển (một chiều)

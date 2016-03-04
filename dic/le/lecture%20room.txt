@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#giảng đường
+#phòng giảng bài
+#phòng học
+@Lĩnh vực: xây dựng
+#phòng diễn thuyết
+@Chuyên ngành kỹ thuật
+#giảng đường
+#phòng giảng bài
+#phòng học
+@Lĩnh vực: xây dựng
+#phòng diễn thuyết

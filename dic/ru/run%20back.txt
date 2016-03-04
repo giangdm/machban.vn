@@ -1,0 +1,5 @@
+﻿@run back
+#chạy trở lại, chạy về, chạy lùi lại
+#(: to) nhìn lại (dĩ vãng); truy cứu (căn nguyên...)
+@Chuyên ngành kỹ thuật
+#chảy ngược

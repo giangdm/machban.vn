@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ điều hành tương thích
+@Lĩnh vực: xây dựng
+#hệ vận hành tương thích

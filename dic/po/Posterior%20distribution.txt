@@ -1,0 +1,3 @@
+﻿@Posterior distribution
+#(Econ) Phân phối sau.
+: Phân phối xác suất của một biến số hoặc thống kê là kết quả của sự phối hợp giữa phân phối trước và thông tin mẫu trong kỹ thuật BAYES.

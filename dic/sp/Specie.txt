@@ -1,0 +1,18 @@
+﻿@Specie
+#(Econ) Tiền xu.
+: Kim loại quý dưới dạng tiền đúc.
+<!-- more -->
+@specie /'spi:ʃi:/
+*danh từ
+#tiền đồng (đối lại với tiền giấy)
+=in specie: bằng tiền đồng
+@Chuyên ngành kinh tế
+#tiền đồng
+#tiền đúc
+#tiền kim loại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tiền (kim loại)
+<!-- more -->
+@specie
+#(toán kinh tế) tiền (kim loại)

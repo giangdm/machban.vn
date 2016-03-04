@@ -1,0 +1,6 @@
+﻿@configuration section
+#(Tech) phần cấu hình
+@Chuyên ngành kỹ thuật
+#phần cấu hình
+@Lĩnh vực: toán & tin
+#khu vực cấu hình

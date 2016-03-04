@@ -1,0 +1,8 @@
+﻿@Correlogram
+#(Econ) Biểu đồ tương quan
+: Một đồ thị biểu thị HỆ SỐ TƯƠNG QUAN giữa giá trị hiện tại của một biến và các giá trị trễ của chính nó so với độ trễ dài.
+@Chuyên ngành kỹ thuật
+#quan đồ
+<!-- more -->
+@correlogram
+#(thống kê) tương quan đồ

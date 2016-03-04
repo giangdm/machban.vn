@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bãi đổ rác
+#bãi rác lấp đất trũng
+#bãi rác thải
+#đống rác thải
+#nơi đổ rác
+#nơi đổ rác thải
+@Lĩnh vực: hóa học & vật liệu
+#bãi thải phế liệu

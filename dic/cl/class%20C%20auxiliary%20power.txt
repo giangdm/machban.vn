@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công suất bổ sung loại C
+#công suất phụ trợ loại C

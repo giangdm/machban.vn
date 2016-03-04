@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#lượng xuất khẩu khả cung
+#số lượng sẵn có
+#số lượng sẵn có để xuất khẩu

@@ -1,0 +1,5 @@
+﻿@cylinder index
+#(Tech) chỉ số trụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chỉ số các trụ

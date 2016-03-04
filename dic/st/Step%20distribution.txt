@@ -1,0 +1,2 @@
+﻿@Step distribution
+#(Econ) Phân phối bậc thang

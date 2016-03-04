@@ -1,0 +1,2 @@
+﻿@computer transformer
+#(Tech) máy biến thế cho máy điện toán

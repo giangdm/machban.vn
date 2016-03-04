@@ -1,0 +1,11 @@
+﻿@Hyperinflation
+#(Econ) Siêu lạm phát.
+: Tình trạng lạm phát tăng nhanh khi có siêu lạm phát, giá cả tăng lên 10 lần, thậm chí 100 lần chỉ trong vòng 1 tháng.
+@Chuyên ngành kinh tế
+#lạm phát ác tính
+#lạm phát cực độ
+#siêu lạm phát
+<!-- more -->
+@hyperinflation
+*danh từ
+#sự lạm phát tăng rất nhanh

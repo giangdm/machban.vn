@@ -1,0 +1,6 @@
+﻿@account number
+#(Tech) số chương mục, số tài khoản
+@Chuyên ngành kinh tế
+#số tài khoản
+@Chuyên ngành kỹ thuật
+#số tài khoản

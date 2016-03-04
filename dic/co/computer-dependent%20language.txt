@@ -1,0 +1,4 @@
+﻿@computer-dependent language
+#(Tech) ngôn ngữ phụ thuộc máy điện toán
+@Chuyên ngành kỹ thuật
+#hợp ngữ

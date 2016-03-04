@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện kháng Potier
+@Lĩnh vực: điện
+#Trở kháng Potier

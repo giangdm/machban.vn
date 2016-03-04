@@ -1,0 +1,2 @@
+﻿@conversion transconductance
+#(Tech) độ hỗ dẫn hoán đổi

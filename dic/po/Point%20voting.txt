@@ -1,0 +1,6 @@
+﻿@Point voting
+#(Econ) Bỏ phiếu theo điểm.
+: Một hệ thống lựa chọn tập thể trong đó mỗi cá nhân bắt đầu với một số điểm bằng nhau mà cá nhân được tự do phân phối theo bất cứ cách thức nào mà họ chọn giữa các phương án lựa chọn về những vấn đề khác nhau đã thảo luận.
+@Chuyên ngành kinh tế
+#bỏ phiếu điểm
+#bỏ phiếu theo điểm

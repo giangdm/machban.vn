@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ quang
+@Lĩnh vực: điện tử & viễn thông
+#bộ lưu trữ quang
+@Lĩnh vực: toán & tin
+#bộ lưu trữ quang học

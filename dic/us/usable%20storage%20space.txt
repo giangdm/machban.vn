@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khoang bảo quản hữu ích
+#không gian bảo quản hữu ích

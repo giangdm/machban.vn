@@ -1,0 +1,4 @@
+﻿@usenet
+#Một hệ thống bảng bulletin phân phối thông tin
+@Chuyên ngành kinh tế
+#mạng sử dụng

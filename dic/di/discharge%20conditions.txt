@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều kiện đẩy
+#điều kiện đẩy [xả]
+#điều kiện xả

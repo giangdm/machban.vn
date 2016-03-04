@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#điện trở đặt trong bougie (để chống nhiễu)

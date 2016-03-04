@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ ổn định uốn dọc
+@Lĩnh vực: toán & tin
+#độ bền ổn định
+@Lĩnh vực: cơ khí & công trình
+#sức bền uốn dọc
+@Lĩnh vực: giao thông & vận tải
+#tải trọng uốn dọc

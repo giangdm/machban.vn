@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chu kỳ của máy
+@Lĩnh vực: điện
+#chu kỳ máy
+@Lĩnh vực: xây dựng
+#chu trình máy

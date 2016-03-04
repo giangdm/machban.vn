@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#trạng thái phản vệ sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trạng thái (được) làm tan giá

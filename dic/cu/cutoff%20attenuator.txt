@@ -1,0 +1,5 @@
+﻿@cutoff attenuator
+#(Tech) bộ suy giảm giới hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ suy giảm cắt

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ phản lực
+@Lĩnh vực: cơ khí & công trình
+#động cơ xung phản lực
+@Lĩnh vực: toán & tin
+#không khí xung

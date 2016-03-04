@@ -1,0 +1,3 @@
+﻿@Survivor technique
+#(Econ) Kỹ thuật sống sót.
+: Một phương pháp thống kê nhằm tìm ra QUY MÔ NHỎ NHẤT HIỆU QUẢ CỦA HÃNG HAY NHÀ MÁY, được dựa trên niềm tin rằng trong thị trường cạnh tranh những hãng, nhà máy nào sống sót tốt nhất trên thị trường là những hãng, nhà máy co chi phí nhỏ nhất.

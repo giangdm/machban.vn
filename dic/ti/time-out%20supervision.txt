@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự giám sát hết giờ
+#sự giám sát quá giờ
+#sự quản đốc hết giờ
+#sự quản đốc quá giờ

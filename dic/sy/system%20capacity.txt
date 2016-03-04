@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#năng suất của hệ (thống)
+@Lĩnh vực: điện lạnh
+#công suất (của) hệ (thống)
+#công suất (năng suất) (của) hệ thống
+@Lĩnh vực: toán & tin
+#dung lượng hệ thống
+@Lĩnh vực: điện tử & viễn thông
+#khả năng hệ thống

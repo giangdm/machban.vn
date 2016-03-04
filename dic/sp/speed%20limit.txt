@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn tốc độ
+@Lĩnh vực: cơ khí & công trình
+#giới hạn vận tốc
+#số vòng quay giới hạn
+@Lĩnh vực: xây dựng
+#sự hạn chế vận tốc

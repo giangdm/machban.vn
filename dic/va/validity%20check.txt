@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự kiểm tra tính hữu hiệu
+@Chuyên ngành kỹ thuật
+#sự làm cho hợp lệ
+@Lĩnh vực: toán & tin
+#kiểm tra tính hợp lệ

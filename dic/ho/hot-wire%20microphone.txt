@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#micrô dây nhiệt
+@Lĩnh vực: điện lạnh
+#micrô sợi đốt

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#máy in nén
+@Chuyên ngành kỹ thuật
+#máy gõ
+@Lĩnh vực: toán & tin
+#máy in đập
+#máy in gõ
+@Lĩnh vực: xây dựng
+#máy in va chạm

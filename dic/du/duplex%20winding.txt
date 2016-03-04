@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cuộn dây hai mạch
+@Lĩnh vực: điện
+#quấn dây ghép đôi

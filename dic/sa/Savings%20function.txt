@@ -1,0 +1,3 @@
+﻿@Savings function
+#(Econ) Hàm Tiết kiệm.
+: Hàm chỉ rõ mối quan hệ giữa tổng tiết kiệm (S) và thu nhập (Y), Tức là S = S(Y).

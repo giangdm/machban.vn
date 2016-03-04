@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#chi phí di chuyển
+#phí di dời
+#phí dọn đồ đạc trong nhà
+#phí dọn nhà
+#phí vận chuyển
+#phí xê dịch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chi phí dọn dẹp

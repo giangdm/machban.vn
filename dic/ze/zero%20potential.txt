@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp bằng không
+#điện thế bằng không
+#điện thế không
+@Lĩnh vực: điện
+#điện thế triệt tiêu
+@Lĩnh vực: điện lạnh
+#điện thế zero (đất)
+@Lĩnh vực: toán & tin
+#thế số không

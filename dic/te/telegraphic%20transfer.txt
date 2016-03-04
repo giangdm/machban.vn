@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#điện chuyển tiền
+#điện hối
+#sự chuyển nhượng tiền bằng điện thoại
+#sự chuyển tiền qua điện báo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#điện chuyển tiền

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#định phí chi phí cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giá thành cố định
+#giá thành qui định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giá thành cố định
+#giá thành qui định

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#vòi phun tạo hướng phản lực
+@Lĩnh vực: giao thông & vận tải
+#vòi phun định hướng đẩy (máy bay)
+#vòi phun đổi hướng tia
+#vòi phun quay

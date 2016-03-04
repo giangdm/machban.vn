@@ -1,0 +1,2 @@
+﻿@self-invariant
+#tự bất biến

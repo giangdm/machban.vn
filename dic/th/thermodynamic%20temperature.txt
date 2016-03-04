@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ nhiệt động
+#nhiệt độ tuyệt đối

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nguyên lý momen động lượng
+@Lĩnh vực: vật lý
+#nguyên lý mômen động lượng

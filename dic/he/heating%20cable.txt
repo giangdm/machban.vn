@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp cấp nhiệt sưởi ấm
+#cáp gia nhiệt
+#cáp nung

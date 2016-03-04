@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cánh dưới
+@Lĩnh vực: xây dựng
+#đai dưới
+@Lĩnh vực: toán & tin
+#đai lưới, cánh lưới

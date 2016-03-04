@@ -1,0 +1,9 @@
+﻿@cylinder block
+#(cơ) hộp xilanh
+@Chuyên ngành kỹ thuật
+#khối xy lanh
+@Lĩnh vực: ô tô
+#cụm xi lanh (động cơ)
+#thân xi lanh
+@Lĩnh vực: cơ khí & công trình
+#khối xy-lanh

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bom kinh khí
+@Lĩnh vực: điện lạnh
+#bom hyđro
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bom H

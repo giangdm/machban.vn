@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nhóm vectơ
+@Lĩnh vực: điện lạnh
+#tổ nối dây

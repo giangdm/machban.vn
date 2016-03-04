@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự ngắt nhập/xuất
+@Lĩnh vực: toán & tin
+#sự ngắt vào/ra

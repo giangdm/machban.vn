@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giấy bổ nhiệm
+#thư đồng ý tuyển dụng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thư chỉ định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thư chỉ định

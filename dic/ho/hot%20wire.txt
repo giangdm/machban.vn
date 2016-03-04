@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dây nhiệt
+#dây nóng
+@Lĩnh vực: xây dựng
+#dây lửa
+@Lĩnh vực: đo lường & điều khiển
+#dây nhiệt điện trở

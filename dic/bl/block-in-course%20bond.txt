@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự xây vòm
+@Lĩnh vực: xây dựng
+#sự xây vòm (kiểu xếp gạch theo vòng, có gạch nêm)

@@ -1,0 +1,2 @@
+﻿@haversine
+#hàm havx = (vers x)/2 = (1 ư cosx)/2

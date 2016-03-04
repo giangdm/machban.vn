@@ -1,0 +1,10 @@
+﻿@Dependent variable
+#(Econ) Biến số phụ thuộc.
+: Một biến ở bên trái dấu bằng của một phương trình, gọi như vậy bởi vì giá trị của nó phụ thuộc hay được định bởi các giá trị của các BIẾN ĐỘC LẬP hay BIẾN GIẢI THÍCH bên phải.
+@Chuyên ngành kinh tế
+#biến số phụ thuộc
+#lượng khả biến
+@Chuyên ngành kỹ thuật
+#biến phụ thuộc
+@Lĩnh vực: xây dựng
+#biến sô lệ thuộc

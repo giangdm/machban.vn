@@ -1,0 +1,3 @@
+﻿@Union market power
+#(Econ) Sức mạnh của công đoàn đối với thị trường.
+: Sức mạnh của công đoàn đối với thị trường là một hàm của độ co giãn của cầu phát sinh đối với lao động công đoàn.

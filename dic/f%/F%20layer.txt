@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp Appleton
+@Lĩnh vực: môi trường
+#lớp Factorrizy (khí quyển)
+@Lĩnh vực: điện tử & viễn thông
+#tầng Factorrizy
+@Lĩnh vực: điện
+#tầng khí quyển F
+@Chuyên ngành kỹ thuật
+#lớp Appleton
+@Lĩnh vực: môi trường
+#lớp Factorrizy (khí quyển)
+@Lĩnh vực: điện tử & viễn thông
+#tầng Factorrizy
+@Lĩnh vực: điện
+#tầng khí quyển F

@@ -1,0 +1,2 @@
+﻿@differential PCM (pulse code modulation)
+#(Tech) điều xung mã vi sai

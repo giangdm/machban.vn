@@ -1,0 +1,2 @@
+﻿@computer-independent language
+#(Tech) ngôn ngữ không phụ thuộc vào máy điện toán

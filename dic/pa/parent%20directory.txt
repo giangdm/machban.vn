@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#thư mục chính
+@Lĩnh vực: toán & tin
+#thư mục cha
+#thư mục mẹ

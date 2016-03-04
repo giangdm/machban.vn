@@ -1,0 +1,2 @@
+﻿@circuit layout
+#(Tech) bản vẽ bản điện

@@ -1,0 +1,3 @@
+﻿@Swap arrangements
+#(Econ) Các thoả thuận hoán đổi.
+: Một phương pháp tăng tính chuyển hoán được phát triển trong những năm 1960 bằng việc hoán đổi các đồng tiền .

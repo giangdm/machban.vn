@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thước thăm (dầu nước)
+@Lĩnh vực: toán & tin
+#thước thăm (dầu, nước)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ số hấp thụ mưa
+@Lĩnh vực: cơ khí & công trình
+#hệ số mưa

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ rộng âm phổ
+#độ rộng phổ nủa tối đa
+#độ rộng quang phổ

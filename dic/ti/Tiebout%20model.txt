@@ -1,0 +1,3 @@
+﻿@Tiebout model
+#(Econ) Mô hìn Tiebout.
+: Một phân tích việc cung cấp HÀNG HOÁ CÔNG CỘNG lập luận rằng nếu một số dịch vụ công cộng nào đó được chính quyền địa phương cung cấp thì các cá nhân có thể thể hiện sở thích của mình về các  dịch vụ này và có được một kết hợp của dịch vụ công nghệ và thuế tương ứng với sở thích của họ bằng việc di chuyển giữa các địa phương.

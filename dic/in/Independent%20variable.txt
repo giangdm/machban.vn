@@ -1,0 +1,7 @@
+﻿@Independent variable
+#(Econ) Biến độc lập.
+: Biến xuất hiện ở về phải của dấu phương trình, gọi là biến không phụ thuộc bởi vì giá trị của nó được xác định một cách độc lập hoặc được xác định ngoài phương trình này.
+@Chuyên ngành kinh tế
+#biến số độc lập
+@Chuyên ngành kỹ thuật
+#biến độc lập

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hình chuẩn kiểm tra
+#mẫu kiểm tra
+#mẫu thử
+@Lĩnh vực: điện lạnh
+#hình chỉnh máy
+@Lĩnh vực: xây dựng
+#khung đo mẫu điều chỉnh (tivi)
+@Lĩnh vực: toán & tin
+#mẫu kiểm thử

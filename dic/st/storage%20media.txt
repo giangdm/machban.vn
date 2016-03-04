@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#phương tiện nhớ
+@Lĩnh vực: toán & tin
+#môi trường bộ lưu trữ
+#môi trường bộ nhớ

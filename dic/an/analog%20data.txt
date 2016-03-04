@@ -1,0 +1,7 @@
+﻿@analog data
+#(Tech) dữ kiện tương tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dữ liệu analog
+@Lĩnh vực: điện tử & viễn thông
+#dữ liệu tương tự

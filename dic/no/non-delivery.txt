@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#chưa giao hàng
+#chưa nhận
+#chưa nhận được
+#sự chưa chuyển giao
+#sự không giao được (bưu phẩm)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#không thể gửi

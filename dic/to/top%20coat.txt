@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp phủ ngoài
+#lớp phủ trên cùng
+#lớp trang trí
+@Lĩnh vực: hóa học & vật liệu
+#lớp sơn cuối

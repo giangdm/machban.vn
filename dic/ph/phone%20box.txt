@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phòng điện thoại công cộng
+@Chuyên ngành kỹ thuật
+#buồng điện thoại
+@Lĩnh vực: xây dựng
+#buồng telephon

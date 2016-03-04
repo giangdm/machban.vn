@@ -1,0 +1,5 @@
+﻿@data entry terminal
+#(Tech) đầu cuối nhập dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đầu cuối nhập dữ liệu

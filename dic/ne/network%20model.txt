@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mô hình mạng
+@Lĩnh vực: toán & tin
+#mô hình quản lý mạng

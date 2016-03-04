@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ nghiêng của rầm
+#góc quay của mặt cắt rầm

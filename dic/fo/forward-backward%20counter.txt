@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đếm xuôi-ngược
+@Lĩnh vực: toán & tin
+#bộ đệm ngược xuôi

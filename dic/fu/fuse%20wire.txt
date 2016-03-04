@@ -1,0 +1,10 @@
+﻿@fuse wire
+#(Tech) dây cầu chì
+@Chuyên ngành kỹ thuật
+#dây cầu chì
+@Lĩnh vực: điện
+#dây cầu chảy
+#dây chảy (trong) cầu chảy
+#dây nóng chảy
+@Lĩnh vực: điện lạnh
+#dây chảy cầu chì

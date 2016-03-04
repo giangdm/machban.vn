@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tháng theo lịch
+#tháng thường (trái với tháng thiên văn)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tháng dương lịch
+#tháng lịch biểu

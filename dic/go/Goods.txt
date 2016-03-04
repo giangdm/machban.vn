@@ -1,0 +1,29 @@
+﻿@Goods
+#(Econ) Các hàng hoá tốt.
+: Các hàng hoá hữu hình có đóng góp tích cực vào PHÚC LỢI KINH TẾ. Phân biệt với hàng xấu.
+<!-- more -->
+@goods /gudz/
+*danh từ số nhiều
+#của cải, động sản
+#hàng hoá, hàng
+=production of goods: sự sản xuất hàng hoá
+#hàng hoá chở (trên xe lửa)
+=a goods train: xe lửa chở hàng
+=by goods: bằng xe lửa chở hàng
+#to deliver the goods
+#(xem) deliver
+#a nice little piece of goods
+#(đùa cợt) một món khá xinh
+@Chuyên ngành kinh tế
+#của cải
+#động sản
+#hàng hóa
+#tài sản
+#thương phẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hàng hóa
+<!-- more -->
+@goods
+#hàng hoá
+#sportg., g. in stock hàng hiện có

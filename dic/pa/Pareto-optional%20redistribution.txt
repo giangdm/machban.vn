@@ -1,0 +1,3 @@
+﻿@Pareto-optional redistribution
+#(Econ) Sự phân phối lại tối ưu theo Pareto.
+: Sự dịch chuyển thu nhập hoặc của cải từ một cá nhân này sang một cá nhân khác làm tăng độ thoả dụng, hoặc thoả mãn của cả người cho lẫn người nhận, do đó đem lại sự cải thiện Pareto.

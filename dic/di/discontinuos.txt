@@ -1,0 +1,3 @@
+﻿@discontinuos
+#gián đoạn rời rạc
+#pointwise d. gián đoạn từng điểm

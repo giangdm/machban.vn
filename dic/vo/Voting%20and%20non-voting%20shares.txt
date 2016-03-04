@@ -1,0 +1,3 @@
+﻿@Voting and non-voting shares
+#(Econ) Các cổ phiếu có quyền bỏ phiếu và không có quyền bỏ phiếu.
+: Các chủ sở hữu cổ phiếu thường của một công ty thường có quyền bỏ phiếu dầy dủ tại các cuộc họp công ty.

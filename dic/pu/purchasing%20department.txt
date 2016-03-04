@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#ban phụ trách thu mua
+#bộ phận mua sắm
+#phòng cung ứng
+#phòng thu mua
+@Chuyên ngành kỹ thuật
+#phòng mua
+@Lĩnh vực: xây dựng
+#nơi dịch vụ mua

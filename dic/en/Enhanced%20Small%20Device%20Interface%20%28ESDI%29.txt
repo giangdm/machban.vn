@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giao diện dùng cho thiết bị nhỏ tính năng tăng cường
+@Lĩnh vực: toán & tin
+#giao diện ESDI
+#giao diện thiết bị nhỏ cải tiến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giao diện dùng cho thiết bị nhỏ tính năng tăng cường
+@Lĩnh vực: toán & tin
+#giao diện ESDI
+#giao diện thiết bị nhỏ cải tiến

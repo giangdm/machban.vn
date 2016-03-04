@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điện kế không lắc
+#điện kế vô định hướng
+@Lĩnh vực: điện
+#điện kế không chu kỳ

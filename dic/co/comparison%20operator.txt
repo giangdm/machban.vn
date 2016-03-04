@@ -1,0 +1,6 @@
+﻿@comparison operator
+#toán tử liên quan
+#Một ký hiệu dùng để xác định mối quan hệ giữa hai giá trị số Kết quả của một tính toán dùng toán tử liên quan là đúng (true) hoặc sai (false)  Trong ngôn ngữ vấn đáp, các toán tử liên quan thường được dùng theo một tiêu chuẩn tìm kiếm nhất định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vận hành viên so sánh

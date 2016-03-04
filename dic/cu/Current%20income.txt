@@ -1,0 +1,5 @@
+﻿@Current income
+#(Econ) Thu nhập thường xuyên.
+: Xem PERMANENT INCOME HYPOTHESIS.
+@Chuyên ngành kinh tế
+#thu thập thường xuyên

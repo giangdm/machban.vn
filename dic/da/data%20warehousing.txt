@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kho dữ liệu
+@Lĩnh vực: toán & tin
+#cất dữ liệu
+#lưu trữ dữ liệu

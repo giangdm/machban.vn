@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#công cụ pháp định
+#văn kiện pháp định (chứng từ, chứng khoán, khế ước)
+#văn kiện pháp định (chứng từ, chứng khoán, khế ước...)

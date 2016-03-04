@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#các chi phí thành lập doanh nghiệp
+#chi phí thành lập công ty
+#chi phí tổng quát
+#phí dụng doanh sở (ở các phòng ban của công ty bách hóa...)
+#phí tổn quản lý

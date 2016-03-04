@@ -1,0 +1,9 @@
+﻿@computer operator
+#(Tech) thao tác viên điện toán
+@Chuyên ngành kinh tế
+#người thao tác máy tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#người điều hành máy tính
+#người thao tác máy tính
+#người vân hành máy tính

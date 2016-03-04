@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#A/m
+@Lĩnh vực: điện
+#ampe trên mét

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự hàn nhiệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#vòng đệm kín nhiệt

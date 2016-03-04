@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phép toán NAND
+@Lĩnh vực: toán & tin
+#phép toán NOT AND

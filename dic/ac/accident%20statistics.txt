@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thống kê những tai nạn
+#thống kê tai nạn
+@Lĩnh vực: điện tử & viễn thông
+#thống kê sự cố

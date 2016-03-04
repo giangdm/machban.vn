@@ -1,0 +1,8 @@
+﻿@Turnover tax
+#(Econ) Thuế kim ngạch.
+: Đôi khi được goi là thuế theo đợt. Đây là loại hình ban đầu của thuế doanh thu. Người ta đã nhìn thấy nhược điểm của thuế này và trong những năm gần đây ở nhiều nước đã đổi sang loại thuế không có nhược điểm này.
+@Chuyên ngành kinh tế
+#thuế doanh thu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thuế doanh thu

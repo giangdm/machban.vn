@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#giấy gửi hàng
+#phiếu chở hàng
+#phiếu gửi hàng
+#vận đơn đường sắt
+@Chuyên ngành kỹ thuật
+#phiếu gửi hàng
+@Lĩnh vực: điện
+#biên lai gửi hàng
+#vận đơn đường sắt

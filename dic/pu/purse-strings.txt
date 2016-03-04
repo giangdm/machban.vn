@@ -1,0 +1,6 @@
+﻿@purse-strings
+*danh từ số nhiều
+#dây thắt ví tiền, dây thắt hầu bao
+=to hold the purse-strings:nắm giữ hầu bao; nắm việc chi tiêu
+=to tighten the purse-strings:tằn tiện, thắt chặt hầu bao
+=to loosen the purse-strings:ăn tiêu rộng rãi, mở rộng hầu bao

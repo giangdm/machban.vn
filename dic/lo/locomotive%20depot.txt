@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#xưởng sửa chữa
+@Lĩnh vực: giao thông & vận tải
+#đầu máy (xe lửa)
+@Lĩnh vực: xây dựng
+#đoạn đầu máy
+<!-- more -->
+@Chuyên ngành kỹ thuật
+#xưởng sửa chữa
+@Lĩnh vực: giao thông & vận tải
+#đầu máy (xe lửa)
+@Lĩnh vực: xây dựng
+#đoạn đầu máy

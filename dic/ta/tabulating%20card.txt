@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phiếu đục lỗ bằng máy
+@Lĩnh vực: toán & tin
+#phiếu lập bảng
+#thẻ lập bảng

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin dùng để lưu
+#tệp dùng để lưu
+#tệp lưu
+@Lĩnh vực: điện tử & viễn thông
+#tệp lưu trữ

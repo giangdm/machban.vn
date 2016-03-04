@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy phát tiếp điện
+@Lĩnh vực: toán & tin
+#máy phát tiếp nạp điện

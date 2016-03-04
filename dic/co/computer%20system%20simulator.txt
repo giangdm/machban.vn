@@ -1,0 +1,2 @@
+﻿@computer system simulator
+#(Tech) bộ mô phỏng hệ thống điện toán

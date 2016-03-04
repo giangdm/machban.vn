@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phím bật để đánh chữ hoa (máy tính, máy đánh chữ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phím Caps Lock

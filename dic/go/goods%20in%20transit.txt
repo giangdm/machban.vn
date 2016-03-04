@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hàng quá cảnh
+#hàng trên đường vận chuyển
+#hầng trên đường vận chuyển
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#hàng vận chuyển quá cảnh

@@ -1,0 +1,2 @@
+﻿@FM (frequency modulation) oscillator
+#(Tech) bộ dao động biến điệu tần số

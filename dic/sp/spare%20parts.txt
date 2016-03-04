@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#đồ phụ tùng
+#phụ tùng để thay thế
+#phụ tùng rời
+@Chuyên ngành kỹ thuật
+#bộ phận thay thế
+#đồ phụ tùng
+#linh kiện thay thế
+#phụ tùng thay thế
+@Lĩnh vực: cơ khí & công trình
+#bộ phận dự phòng
+#bộ phận dự trữ

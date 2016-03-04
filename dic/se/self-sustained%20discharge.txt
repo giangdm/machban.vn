@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phóng điện tự duy trì
+@Lĩnh vực: điện
+#sự tự phóng điện

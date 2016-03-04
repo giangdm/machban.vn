@@ -1,0 +1,2 @@
+﻿@eof
+#Viết tắt của End Of File: Kết thúc tệp

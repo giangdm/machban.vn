@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#máy đập
+#máy quật
+@Chuyên ngành kỹ thuật
+#máy gấp mép
+#máy uốn sóng

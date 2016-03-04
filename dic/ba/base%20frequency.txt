@@ -1,0 +1,6 @@
+﻿@base frequency /'beis'fri:kwənsi/
+*danh từ
+#(vật lý) tần số cơ bản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tần số (dãy) nền

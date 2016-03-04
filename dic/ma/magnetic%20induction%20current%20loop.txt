@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#vòng lặp hiện thời cảm ứng
+#vòng mạch cảm ứng từ

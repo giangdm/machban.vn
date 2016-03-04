@@ -1,0 +1,14 @@
+﻿@electromagnetic deflection
+#(Tech) làm lệch địện từ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#làm lệch điện từ
+@Lĩnh vực: điện
+#sự lái tia điện từ
+#sự làm lệch điện từ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#làm lệch điện từ
+@Lĩnh vực: điện
+#sự lái tia điện từ
+#sự làm lệch điện từ

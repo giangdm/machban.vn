@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sự điều khiển bấm nút
+@Lĩnh vực: xây dựng
+#sự điều khiển bằng ngón tay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sự điều khiển bấm nút
+@Lĩnh vực: xây dựng
+#sự điều khiển bằng ngón tay

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tỷ số tín hiệu trên nhiễu
+#tỷ số tín hiệu trên tạp âm
+#tỷ số tín hiệu trên tiếng ồn
+@Lĩnh vực: điện
+#tỷ số tín hiệu và nhiễu

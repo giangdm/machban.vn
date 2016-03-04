@@ -1,0 +1,6 @@
+﻿@Capital asset pricing model
+#(Econ) Mô hình định giá Tài sản vốn.
+: Mô hình ra đời vào những năm 1960 và đưa ra một dạng cụ thể của khái niệm chung về sự đánh đổi giữa rủi ro và lợi tức.
+@Chuyên ngành kinh tế
+#mô hình định giá tài sản cố định
+#mô thức định giá tài sản vốn

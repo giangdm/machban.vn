@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp chủ động
+#lớp hoạt động
+@Lĩnh vực: xây dựng
+#lớp hoạt động theo mùa

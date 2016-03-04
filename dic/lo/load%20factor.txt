@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kinh tế
+#hệ số chở đầy (của tàu, máy bay)
+#hệ số chở hàng
+#hệ số chuyên chở
+#suất sử dụng ghế ngồi (trên máy bay)
+@Chuyên ngành kỹ thuật
+#hệ số công suất
+#hệ số tải
+#hệ số tải trọng
+@Lĩnh vực: điện
+#hệ số phụ tải
+@Chuyên ngành kỹ thuật
+#hệ số công suất
+#hệ số tải
+#hệ số tải trọng
+@Lĩnh vực: điện
+#hệ số phụ tải

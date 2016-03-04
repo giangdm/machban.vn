@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dây AC
+#dây nhôm lõi thép
+@Lĩnh vực: điện lạnh
+#dây dẫn nhôm lõi thép

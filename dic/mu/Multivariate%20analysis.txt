@@ -1,0 +1,6 @@
+﻿@Multivariate analysis
+#(Econ) Phân tích đa biến số.
+: Là một phân tích (thường là mang tính thống kê) trong đó có từ hai biến số trở lên.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân tích nhiều chiều

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng điều khiển chính
+#panen điều khiển chính

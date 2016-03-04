@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#gọi địa chỉ rút gọn
+#gọi theo địa chỉ rút gọn
+#gọi theo địa chỉ viết tắt

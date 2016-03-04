@@ -1,0 +1,7 @@
+﻿@Supply curve
+#(Econ) Đường cung.
+: Đồ thị thể hiện quan hệ giữa cung một hàng hoá và giá của nó.
+@Chuyên ngành kinh tế
+#đường cong cung
+#đường cung
+#khúc tuyến cung

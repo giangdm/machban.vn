@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nhà để máy bay
+#nhà kho
+@Lĩnh vực: ô tô
+#đêpô (xe lửa)

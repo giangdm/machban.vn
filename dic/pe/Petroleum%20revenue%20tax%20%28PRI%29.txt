@@ -1,0 +1,3 @@
+﻿@Petroleum revenue tax (PRI)
+#(Econ) Thuế thu nhập dầu lửa.
+: Đay là loại thuế đặc biệt do chính phủ Anh đưa ra đối với thu nhập do khai thác dầu ở biển Bắc, thuế này cộng thêm vào tiền thuê mỏ và thuế lợi tức.

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dữ liệu nhập thủ công
+#sự nhập bằng tay
+#sự nhập thủ công
+#sự vào thủ công
+@Lĩnh vực: điện tử & viễn thông
+#nhập thủ công

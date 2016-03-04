@@ -1,0 +1,13 @@
+﻿@acid test
+*danh từ
+#sự thử nghiệm giá trị, sự thử thách
+@Chuyên ngành kinh tế
+#sự xác định độ axit
+#sự xác định tỷ số axit
+#trắc nghiệm acid
+@Chuyên ngành kỹ thuật
+#độ axit
+@Lĩnh vực: hóa học & vật liệu
+#phép thử bằng axit
+@Lĩnh vực: cơ khí & công trình
+#sự xác định độ axit

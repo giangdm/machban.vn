@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#miễn (nộp) thuế thu nhập
+#miễn thuế thu nhập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#không phải trả thuế thu nhập

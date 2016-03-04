@@ -1,0 +1,2 @@
+﻿@directional radio link
+#(Tech) thông tin vô tuyến định hướng

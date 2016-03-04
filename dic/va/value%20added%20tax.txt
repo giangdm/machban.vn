@@ -1,0 +1,6 @@
+﻿@value added tax
+*danh từ
+#<vt>  VAT thuế giá trị gia tăng (thuế đánh vào sự tăng giá trị của một sản phẩm ở mỗi giai đoạn sản xuất)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thuế thặng dư

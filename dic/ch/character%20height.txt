@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ cao chữ
+@Lĩnh vực: toán & tin
+#chiều cao của ký tự
+#độ cao ký tự

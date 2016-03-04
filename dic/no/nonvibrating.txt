@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#không dao động
+@Lĩnh vực: điện lạnh
+#không rung

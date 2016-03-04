@@ -1,0 +1,12 @@
+﻿@first harmonic
+#(Tech) hàm điều hòa bậc nhất
+@Chuyên ngành kỹ thuật
+#tần số cơ bản
+@Lĩnh vực: điện tử & viễn thông
+#họa ba bậc nhất
+#sóng hài bậc nhất
+@Chuyên ngành kỹ thuật
+#tần số cơ bản
+@Lĩnh vực: điện tử & viễn thông
+#họa ba bậc nhất
+#sóng hài bậc nhất

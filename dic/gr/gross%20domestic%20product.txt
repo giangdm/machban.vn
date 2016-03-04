@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giá trị tổng sản phẩm quốc nội
+#tổng giá trị của tiền hàng hóa sản xuất và dịch vụ quốc nội GDP
+#tổng sản phẩm nội địa
+#tổng sản phẩm quốc nội

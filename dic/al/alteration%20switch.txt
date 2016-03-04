@@ -1,0 +1,7 @@
+﻿@alteration switch
+#(Tech) công tắc chuyển đổi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuyển mạch đảo chiều
+@Lĩnh vực: điện tử & viễn thông
+#khóa luân chuyển

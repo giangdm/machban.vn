@@ -1,0 +1,92 @@
+﻿@Deposit
+#(Econ) Tiền gửi
+: Khoản tiền cho các định chế tài chính nào đó vay, ví dụ như các NGÂN HÀNG, NGÂN HÀNG PHÁT TRIỂN GIA CƯ và CÔNG TY TÀI CHÍNH, với điều kiện rút có báo trước hoặc không, hay hoàn trả sau một thời gian nhất định.
+<!-- more -->
+@deposit /di'pɔzit/
+*danh từ
+#vật gửi, tiền gửi
+=money on deposit: tiền gửi ngân hàng có lãi
+#tiền ký quỹ, tiền đặc cọc
+=to leave some money as deposit: để tiền đặt cọc
+#chất lắng, vật lắng
+=a thick deposit of mud: một lớp bùn lắng dầy
+#(địa lý,địa chất) khoáng sản; mỏ
+*ngoại động từ
+#gửi (tiền, đồ vật...), gửi (tiền) ở ngân hàng
+#gửi (tiền) ký quỹ, đặt cọc
+#làm lắng đọng
+#đặt
+=she deposited her child in the cradle: chị ta đặt con vào nôi
+#đẻ (trứng) (ở đâu)
+@Chuyên ngành kinh tế
+#cận
+#đặt cọc
+#giữ
+#gửi
+#gửi (tiền) ký quỹ
+#gửi (tiền) ở ngân hàng
+#gửi (tiền, đồ, vật . . .)
+#ký quỹ
+#làm lắng đọng
+#món tiền trả đầu tiên (cho một hợp đồng mua trả góp)
+#sự kết tủa
+#tiền bảo chứng
+#tiền đặt cọc
+#tiền góp
+#tiền gửi
+#tiền gửi (ngân hàng)
+#tiền gửi để bảo đảm
+#tiền gửi ngân hàng
+#tiền ký quỹ
+#tiền thế chân
+#tiền trả lần đầu
+#vật gửi
+@Chuyên ngành kỹ thuật
+#bã tiêu hóa
+#bồi đắp
+#bồi tích
+#chất kết tủa
+#kết tủa
+#khoáng sản
+#khoáng sàng
+#ký thác
+#làm kết tủa
+#lắng đọng
+#lớp bồi tích
+#lớp đọng
+#lớp lắng
+#lớp phủ
+#lớp trầm tích
+#muội than
+#quét sơn
+#sa khoáng
+#sơn
+#sự bồi lấp
+#sự đặt cọc
+#sự kết tủa
+#sự lắng
+#sự lắng đọng
+#tài nguyên
+#trầm tích
+#ứng dụng
+#vật trầm tích
+@Lĩnh vực: ô tô
+#chất bám
+#phết vào
+#tác động vào
+@Lĩnh vực: y học
+#chất lắng đọng
+@Lĩnh vực: xây dựng
+#hợp đọng
+#thân quặng, vỉa
+#trữ lượng
+#vật trần tích
+@Lĩnh vực: toán & tin
+#tiền ký gửi
+@Lĩnh vực: cơ khí & công trình
+#tiền ký quỹ
+@Lĩnh vực: hóa học & vật liệu
+#vật lắng
+<!-- more -->
+@deposit
+#(toán kinh tế) gửi tiền (vào ngân hàng) // món tiền gửi

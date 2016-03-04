@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#pin Bragg
+@Lĩnh vực: điện tử & viễn thông
+#tế bào tinh thể Bragg

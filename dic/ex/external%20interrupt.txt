@@ -1,0 +1,8 @@
+﻿@external interrupt
+#(Tech) cái ngắt ngoài
+@Chuyên ngành kỹ thuật
+#ngắt ngoài
+#ngắt ngoại bộ
+@Chuyên ngành kỹ thuật
+#ngắt ngoài
+#ngắt ngoại bộ

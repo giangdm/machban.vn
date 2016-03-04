@@ -1,0 +1,7 @@
+﻿@Marginal utility
+#(Econ) Độ thoả dụng cận biên.
+: Là độ thoả dụng phụ thêm có được từ việc thêm một đơn vị của bất kỳ loai hàng hoá nào.
+@Chuyên ngành kinh tế
+#giá trị sử dụng biên
+#hiệu dụng biên tế
+#tính hữu dụng biên

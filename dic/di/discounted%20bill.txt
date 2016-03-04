@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hối phiếu đã chiết khấu
+#hối phiếu đã được chiết khấu
+#phiếu khoán đã chiết khấu

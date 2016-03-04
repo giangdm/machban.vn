@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng cảm biến trước
+@Lĩnh vực: giao thông & vận tải
+#vòng nối chiếm giữ
+#vòng nối hiện hữu

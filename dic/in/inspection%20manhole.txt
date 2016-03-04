@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa quan sát
+#giếng thăm
+#lỗ kiểm tra
+#lỗ thăm
+@Lĩnh vực: xây dựng
+#giếng vào để kiểm tra

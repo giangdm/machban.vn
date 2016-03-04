@@ -1,0 +1,5 @@
+﻿@Damped cycle
+#(Econ) Chu kỳ (có biên độ) giảm dần; Chu kỳ tắt.
+: Còn gọi là chu kỳ đồng quy. Một trong một loạt các biến động chu kỳ với một biên độ GIẢM DẦN theo thời gian.
+@Chuyên ngành kinh tế
+#chu kỳ suy giảm

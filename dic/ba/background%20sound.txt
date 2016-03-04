@@ -1,0 +1,7 @@
+﻿@background sound
+#(Tech) âm tạp, âm nền, âm bối cảnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#âm nền
+@Lĩnh vực: toán & tin
+#âm thanh nền

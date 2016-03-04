@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗ khoan thăm dò
+@Lĩnh vực: hóa học & vật liệu
+#giếng khoan đầu tiên
+@Lĩnh vực: đo lường & điều khiển
+#lỗ khoan tìm kiếm

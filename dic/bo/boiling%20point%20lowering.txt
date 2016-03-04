@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giảm điểm sôi
+#giảm nhiệt độ sôi
+#sự giảm điểm sôi

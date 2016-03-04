@@ -1,0 +1,3 @@
+﻿@Regional emloyment premium
+#(Econ) Trợ cấp tuyển dụng lao động khu vực.
+: Là khoản trợ cấp cho các hãng sản xuất tại các khu vực cần phát triển và các khu vực đặc biệt ở Anh từ năm 1967 đến năm 1977 dựa trên cơ sở số công nhân được tuyển dụng, ban dầu là 1,5 bảng cho một công nhân và sau đó là 3 bảng cho một công nhân, hy vọng sẽ khuyến khích các hãng ở các khu vực có tỷ lệ thất nghiệp cao thuê thêm nhiều lao động.

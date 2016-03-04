@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nút an toàn
+#nút chảy
+@Lĩnh vực: xây dựng
+#phích cắm cầu chì

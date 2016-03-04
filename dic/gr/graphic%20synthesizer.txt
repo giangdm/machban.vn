@@ -1,0 +1,2 @@
+﻿@graphic synthesizer
+#(Tech) bộ tổng hợp đồ họa

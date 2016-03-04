@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hằng nhị phân
+@Lĩnh vực: điện tử & viễn thông
+#hằng số nhị phân

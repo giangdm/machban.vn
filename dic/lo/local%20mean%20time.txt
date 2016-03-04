@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giờ trung bình địa phương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#giờ địa phương trung bình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#giờ địa phương trung bình

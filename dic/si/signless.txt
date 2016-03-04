@@ -1,0 +1,7 @@
+﻿@signless
+#không có dấu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#không có dấu
+@Lĩnh vực: điện lạnh
+#không dấu

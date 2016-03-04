@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#khu vực đốt nóng
+#miền gia nhiệt
+@Lĩnh vực: điện lạnh
+#vùng gia nhiệt
+#vùng sưởi ấm

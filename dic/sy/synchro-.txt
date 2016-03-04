@@ -1,0 +1,3 @@
+﻿@synchro-
+#hình thái ghép có nghĩa đồng thời : synchronism tính đồng thời
+#hình thái ghép có nghĩa đồng thời : synchronism tính đồng thời

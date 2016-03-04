@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#cái cân
+#dụng cụ cân
+@Chuyên ngành kỹ thuật
+#cân máy

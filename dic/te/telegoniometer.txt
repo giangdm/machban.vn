@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giác kế (điều khiển) từ xa
+#giác kế vô tuyến

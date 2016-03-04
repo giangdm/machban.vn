@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#biến nhiệt động học
+#biến trạng thái
+#tham số trạng thái

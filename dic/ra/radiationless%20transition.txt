@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chuyển phi bức xạ
+@Lĩnh vực: vật lý
+#sự chuyển không bức xạ

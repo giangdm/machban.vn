@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giới hạn biến dạng
+@Lĩnh vực: hóa học & vật liệu
+#giới hạn ứng suất

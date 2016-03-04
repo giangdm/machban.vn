@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#điều khiển ga tự động
+@Lĩnh vực: giao thông & vận tải
+#kiểm soát tốc độ tự động

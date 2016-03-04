@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chỉ số làm nóng địa cầu
+#thế năng làm nóng địa cầu

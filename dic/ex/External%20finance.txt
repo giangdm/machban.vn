@@ -1,0 +1,6 @@
+﻿@External finance
+#(Econ) (Nguồn) tài chính từ bên ngoài.
+: Quỹ được huy động bởi các hãng bằng cách phát hành CỔ PHIẾU (vốn cổ phần) hoặc đi vay để tài trợ cho các hoạt động của hãng.
+@Chuyên ngành kinh tế
+#tài trợ từ bên ngoài
+#tăng vốn từ bên ngoài

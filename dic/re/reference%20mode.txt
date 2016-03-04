@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kiểu chuẩn gốc
+#phương thức chuẩn gốc

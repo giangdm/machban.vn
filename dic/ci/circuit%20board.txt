@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#bảng mạch điện
+@Chuyên ngành kỹ thuật
+#bảng mạch
+@Lĩnh vực: điện lạnh
+#bản mạch in
+#bìa mạch in
+#phiến mạch in
+@Lĩnh vực: toán & tin
+#board mạch điện

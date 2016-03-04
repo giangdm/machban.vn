@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giữ lại từ gốc (thuế khấu trừ tại nguồn)
+#thuế được khấu nộp từ nguồn
+#thuế giữ lại từ nguồn
+#thuế khấu trừ tại nguồn

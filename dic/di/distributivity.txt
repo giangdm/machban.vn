@@ -1,0 +1,2 @@
+﻿@distributivity
+#tính phân phối, tính phân bố

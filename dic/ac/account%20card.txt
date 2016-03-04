@@ -1,0 +1,7 @@
+﻿@account card
+#(Tech) thẻ chương mục
+@Chuyên ngành kỹ thuật
+#bìa kế toán
+@Lĩnh vực: toán & tin
+#cạc tài khoản
+#thẻ kế toán

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#khởi động
+@Lĩnh vực: toán & tin
+#ngắt rời
+@Lĩnh vực: hóa học & vật liệu
+#phát động (máy) phân ly
+@Chuyên ngành kỹ thuật
+#khởi động
+@Lĩnh vực: toán & tin
+#ngắt rời
+@Lĩnh vực: hóa học & vật liệu
+#phát động (máy) phân ly

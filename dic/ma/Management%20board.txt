@@ -1,0 +1,9 @@
+﻿@Management board
+#(Econ) Ban quản lý / Hội đồng quản trị.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ủy ban quản lý
+#ủy ban quản trị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#ban quản lý

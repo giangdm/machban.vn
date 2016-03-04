@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thử áp suất
+@Lĩnh vực: xây dựng
+#thử áp lực

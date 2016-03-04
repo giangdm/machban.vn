@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuyển trang
+#ghi trang
+#sự chuyển trang
+#sự ghi trang (từ bộ nhớ phụ vào bộ nhớ chính)

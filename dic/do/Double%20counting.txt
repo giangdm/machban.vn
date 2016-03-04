@@ -1,0 +1,5 @@
+﻿@Double counting
+#(Econ) Tính hai lần; Tính lặp
+: Việc tính một yếu tố chi phí hay lợi ích nhiều hơn một lần trong PHÂN TÍCH CHI PHÍ- LỢI ÍCH.
+@Chuyên ngành kinh tế
+#tính toán trùng

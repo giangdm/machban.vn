@@ -1,0 +1,2 @@
+﻿@Overall fit of regression
+#(Econ) Mức độ phù hợp tổng thể của phương trình hồi quy.

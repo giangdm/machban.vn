@@ -1,0 +1,3 @@
+﻿@press-button
+*danh từ
+#nút bấm

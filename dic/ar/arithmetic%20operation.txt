@@ -1,0 +1,6 @@
+﻿@arithmetic operation
+#(Tech) phép toán số học
+@Chuyên ngành kỹ thuật
+#phép toán số học
+@Lĩnh vực: toán & tin
+#phép tính số học

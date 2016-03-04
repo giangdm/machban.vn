@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#ống thắng bánh xe
+@Lĩnh vực: ô tô
+#khối trụ bánh xe
+#xylanh con (phanh)
+@Lĩnh vực: cơ khí & công trình
+#xylanh thắng con (thắng phụ)

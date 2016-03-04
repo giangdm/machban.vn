@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#máy điện
+#máy phát điện
+@Lĩnh vực: điện
+#máy điện tĩnh
+@Chuyên ngành kỹ thuật
+#máy điện
+#máy phát điện
+@Lĩnh vực: điện
+#máy điện tĩnh

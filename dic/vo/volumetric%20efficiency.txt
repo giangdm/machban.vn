@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu suất nạp
+#hiệu suất thể tích
+@Lĩnh vực: ô tô
+#công suất riêng
+@Lĩnh vực: điện lạnh
+#hệ số cấp
+#hiệu ứng thể tích
+@Lĩnh vực: hóa học & vật liệu
+#hiệu suất thể tích (bơm, máy nén)
+@Lĩnh vực: cơ khí & công trình
+#hiệu suất về thể tích

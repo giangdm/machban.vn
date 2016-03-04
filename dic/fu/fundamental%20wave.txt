@@ -1,0 +1,6 @@
+﻿@fundamental wave
+#(Tech) sóng cơ bản
+@Chuyên ngành kỹ thuật
+#sóng cơ bản
+@Lĩnh vực: điện
+#sóng nền

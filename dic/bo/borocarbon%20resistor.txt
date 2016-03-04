@@ -1,0 +1,2 @@
+﻿@borocarbon resistor
+#(Tech) cái điện trở bằng than = boron resistor

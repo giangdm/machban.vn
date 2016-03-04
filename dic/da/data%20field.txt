@@ -1,0 +1,6 @@
+﻿@data field
+#(Tech) trường dữ liệu
+@Chuyên ngành kỹ thuật
+#mục
+#mục dữ liệu
+#trường dữ liệu

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bước nhảy nhiệt độ
+#bước tăng nhiệt độ

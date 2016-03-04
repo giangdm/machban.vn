@@ -1,0 +1,2 @@
+﻿@deviation frequency
+#(Tech) tần số lệch

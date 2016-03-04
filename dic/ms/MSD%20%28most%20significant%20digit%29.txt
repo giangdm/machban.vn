@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chữ số có nghĩa nhất
+#chữ số ở cực trái

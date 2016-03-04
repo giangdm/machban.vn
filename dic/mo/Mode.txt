@@ -1,0 +1,48 @@
+﻿@Mode
+#(Econ) Mốt.
+: Là thước đo xu hướng tập trung của một biến số.
+<!-- more -->
+@mode /moud/
+*danh từ
+#cách, cách thức, lối, phương thức
+=a new mode of transport: một cách vận chuyển mới
+=mode of production: phương thức sản xuất
+#kiểu, mốt, thời trang
+#(ngôn ngữ học) lối, thức
+#(âm nhạc) điệu
+@Chuyên ngành kinh tế
+#cách
+#kiểu
+#lối
+#mốt
+#mốt kiểu
+#phương thức
+#thời trang
+@Chuyên ngành kỹ thuật
+#biểu mẫu
+#cách thức
+#dạng
+#hình thức
+#khổ
+#khuôn thức
+#kiểu
+#kiểu (dao động)
+#kiểu truyền
+#mốt
+#phương pháp
+#phương thức
+#quy cách
+@Lĩnh vực: y học
+#cách, phương pháp
+#kiểu, loài
+<!-- more -->
+@mode
+#phương thức, phương pháp; hình thức
+#m. of motion phương thức chuyển động
+#m. of operation phương pháp làm việc
+#m. of oscillation dạn dao động
+#m. of vibration dạng chấn động
+#floating control m. phương pháp điều chỉnh động
+#high-frequency m. (điều khiển học) chế độ cao tần
+#normal m. dao động riêng
+#transverse m. of vibration dạng chấn động ngang

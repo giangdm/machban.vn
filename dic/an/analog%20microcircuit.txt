@@ -1,0 +1,2 @@
+﻿@analog microcircuit
+#(Tech) vi mạch tương tự

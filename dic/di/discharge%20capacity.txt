@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#khả năng tiêu nước
+#lưu lượng kênh
+#lưu lượng máy bơm
+#năng suất cấp
+#năng suất đẩy
+#năng suất đẩy [xả]
+#năng suất xả
+#tốc độ cấp

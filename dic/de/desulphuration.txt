@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự khử lưu huỳnh
+#sự loại lưu huỳnh
+@Chuyên ngành kỹ thuật
+#loại lưu huỳnh
+#tách lưu huỳnh

@@ -1,0 +1,7 @@
+﻿@absorption factor
+#(Tech) hệ số hấp thu
+@Chuyên ngành kỹ thuật
+#hệ số hấp thụ
+#hệ số hút thu
+@Lĩnh vực: xây dựng
+#hệ số thu hút

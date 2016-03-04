@@ -1,0 +1,5 @@
+﻿@algebraic value
+#(Tech) trị đại số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị đại số

@@ -1,0 +1,4 @@
+﻿@absolute data
+#(Tech) dữ kiện tuyệt đối
+@Chuyên ngành kỹ thuật
+#dữ liệu tuyệt đối

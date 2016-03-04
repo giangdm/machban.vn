@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nguồn khoáng sản
+@Chuyên ngành kỹ thuật
+#khoáng sản

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểu đóng gói
+#kiểu đóng kín
+#kiểu được gói gọn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểu đóng gói
+#kiểu đóng kín
+#kiểu được gói gọn

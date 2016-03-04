@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#lao động không cần kỹ năng đặc biệt, không lành nghề
+#lao động không lành nghề
+@Chuyên ngành kỹ thuật
+#lao động đơn giản (không cần tay nghề)

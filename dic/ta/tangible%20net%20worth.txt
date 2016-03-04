@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giá trị hữu hình
+#giá trị thực tế
+#giá trị tính thực tế, giá trị tính hữu hình
+#tài sản hữu hình ròng
+#trị giá thuần hữu hình

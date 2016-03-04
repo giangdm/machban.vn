@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự thối do vi sinh vật
+#sự thối nhũn (quả)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+#sự thối do vi sinh vật (quả)
+#sự thối nhũn

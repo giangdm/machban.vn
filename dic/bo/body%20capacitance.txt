@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#điện dung thể
+@Lĩnh vực: điện
+#điện dung của thân người
+#điện dung người
+@Lĩnh vực: điện lạnh
+#điện dung thân người
+#điện dung vật thể

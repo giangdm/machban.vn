@@ -1,0 +1,3 @@
+﻿@Extrema
+#(Econ) Các cực trị.
+: Các giá trị thấp nhất và cao nhất của một hàm số.

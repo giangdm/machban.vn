@@ -1,0 +1,8 @@
+﻿@frequency meter
+#(Tech) tần số kế, máy đo tần số
+@Chuyên ngành kỹ thuật
+#máy đo tần số
+@Lĩnh vực: xây dựng
+#máy đo tấn suất
+@Lĩnh vực: điện tử & viễn thông
+#tần (số) kế

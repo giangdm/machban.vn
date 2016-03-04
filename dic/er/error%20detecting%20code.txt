@@ -1,0 +1,8 @@
+﻿@error detecting code
+#(Tech) mã phát hiện sai lầm
+@Chuyên ngành kỹ thuật
+#mã dò lỗi
+#mã phát hiện lỗi
+@Chuyên ngành kỹ thuật
+#mã dò lỗi
+#mã phát hiện lỗi

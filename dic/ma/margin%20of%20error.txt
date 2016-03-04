@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phạm vi sai số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biên lỗi
+#giới hạn lỗi
+@Lĩnh vực: xây dựng
+#giới hạn sai số

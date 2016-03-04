@@ -1,0 +1,6 @@
+﻿@address counter
+#(Tech) máy đếm địa chỉ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ đếm địa chỉ
+#bộ tính địa chỉ

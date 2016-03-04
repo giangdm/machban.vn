@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ có vòng lệch pha
+@Lĩnh vực: điện
+#động cơ có cực che
+#động cơ cực bị chắn
+@Lĩnh vực: điện lạnh
+#động cơ cực từ xẻ rãnh
+@Lĩnh vực: toán & tin
+#mô tơ có cực che

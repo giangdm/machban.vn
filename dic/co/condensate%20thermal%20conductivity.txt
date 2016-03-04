@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ số dẫn nhiệt lỏng ngưng
+#hệ số dẫn nhiệt phần ngưng

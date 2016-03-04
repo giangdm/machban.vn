@@ -1,0 +1,5 @@
+﻿@Break-even analysis
+#(Econ) Phân tích điểm hoà vốn
+: Chi phí để sản xuất một hàng hoá có thể chia thành hai phần chính: CHI PHÍ CỐ ĐỊNH và CHI PHÍ KHẢ BIẾN. từ quan điểm của người kế toán về chi phí, số lượng doanh thu tại điểm hoà vốn là số lượng đảm bảo rằng tất cả chi phí cố định và khả biến đều được trang trải ở mức giá bán cụ thể.
+@Chuyên ngành kinh tế
+#phân tích hòa vốn

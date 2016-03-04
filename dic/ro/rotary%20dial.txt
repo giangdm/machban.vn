@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đĩa số quay
+@Lĩnh vực: điện lạnh
+#mặt quay chọn số

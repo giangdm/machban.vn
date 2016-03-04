@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phối cảnh đường thẳng
+@Lĩnh vực: điện tử & viễn thông
+#phối cảnh tuyến tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phối cảnh đường thẳng
+@Lĩnh vực: điện tử & viễn thông
+#phối cảnh tuyến tính

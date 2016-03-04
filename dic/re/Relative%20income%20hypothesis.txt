@@ -1,0 +1,5 @@
+﻿@Relative income hypothesis
+#(Econ) Giả thuyết về thu nhập tương đối.
+: Là giả thuyết cho rằng tiêu dùng của cá nhân và / hoặc hộ gia đình là hàm số của thu nhập của cá nhân/ hộ gia đình đó trong mối quan hệ với thu nhập của các cá nhân hoặc hộ gia đình khác, đồng thời cũng là hàm số của thu nhập hiện tại trong mối quan hệ với mức thu nhập trong các giai đoạn ngay trước đó.
+@Chuyên ngành kinh tế
+#giả thiết thu nhập tương đối

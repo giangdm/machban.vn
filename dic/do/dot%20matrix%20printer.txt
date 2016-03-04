@@ -1,0 +1,9 @@
+﻿@dot matrix printer
+#(Tech) máy in hạt chấm
+@Chuyên ngành kinh tế
+#máy in kim
+@Chuyên ngành kỹ thuật
+#máy in kim
+#máy in ma trận điểm
+@Lĩnh vực: toán & tin
+#máy in ma trận

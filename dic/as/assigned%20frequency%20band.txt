@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#băng tần được gán
+@Lĩnh vực: điện tử & viễn thông
+#dải tần số chỉ định

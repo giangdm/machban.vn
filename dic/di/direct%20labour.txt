@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chi phí lao động trực tiếp
+#chi phí nhân công trực tiếp
+#lao động trực tiếp
+@Chuyên ngành kỹ thuật
+#lao động trực tiếp

@@ -1,0 +1,10 @@
+﻿@urn / :n/
+*danh từ
+#cái lư; cái vạc
+#bình đựng di cốt, bình đựng tro ho táng
+#bình h m trà, bình h m cà phê (ở các tiệm cà phê và căng tin)
+@Chuyên ngành kỹ thuật
+#cái bình
+<!-- more -->
+@urn
+#(cái) bình

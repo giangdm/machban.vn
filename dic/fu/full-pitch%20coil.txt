@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn dây bước đầy đủ
+@Lĩnh vực: điện lạnh
+#cuộn dây bước đủ

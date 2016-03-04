@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mã bìa
+#mã thẻ
+@Lĩnh vực: toán & tin
+#mã bìa đục lỗ
+#mã card
+#mã phiếu

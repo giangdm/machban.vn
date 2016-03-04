@@ -1,0 +1,5 @@
+﻿@CPU time
+#(Tech) thời gian chạy bộ xử lý trung ương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thời gian CPU

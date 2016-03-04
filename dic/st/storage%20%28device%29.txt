@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ
+#thiết bị nhớ
+@Lĩnh vực: điện tử & viễn thông
+#bộ phân tích trữ
+@Lĩnh vực: toán & tin
+#thiết bị lưu trữ

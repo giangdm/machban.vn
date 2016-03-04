@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng hút ra
+#ống dẫn xả
+@Lĩnh vực: hóa học & vật liệu
+#sự hút ra
+@Chuyên ngành kỹ thuật
+#lượng hút ra
+#ống dẫn xả
+@Lĩnh vực: hóa học & vật liệu
+#sự hút ra

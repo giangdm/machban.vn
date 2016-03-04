@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#chế độ hoạt động
+@Lĩnh vực: toán & tin
+#chế độ thao tác
+@Lĩnh vực: điện tử & viễn thông
+#kiểu vận hành
+#phương thức vận hành

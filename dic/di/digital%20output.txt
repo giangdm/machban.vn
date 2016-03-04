@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu ra dạng số
+@Lĩnh vực: toán & tin
+#ngõ ra số

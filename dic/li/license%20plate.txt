@@ -1,0 +1,14 @@
+﻿@license plate /'laisənspleit/
+*danh từ
+#bảng đăng ký (xe ô tô...)
+@Chuyên ngành kinh tế
+#biển đăng ký
+#biển số xe
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#bảng số
+#biển số xe
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#bảng số
+#biển số xe

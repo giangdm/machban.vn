@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khởi động kiểu Rosenberg
+@Lĩnh vực: điện
+#khởi động Rosenberg

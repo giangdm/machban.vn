@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dòng điện ngược chiều
+@Lĩnh vực: y học
+#dòng điện quay ngược hướng

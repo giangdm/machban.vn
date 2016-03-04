@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cổ trục máy
+@Lĩnh vực: toán & tin
+#ổ trục máy

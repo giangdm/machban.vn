@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cách trình bày của Minkowski
+@Lĩnh vực: điện lạnh
+#cách phát biểu của Minkowski

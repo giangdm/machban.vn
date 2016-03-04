@@ -1,0 +1,7 @@
+﻿@Regional policy
+#(Econ) Chính sách khu vực.
+: Là một dạng của chính sách kinh tế của chính phủ nhằm điều chỉnh hình thái hoạt động kinh tế hoặc kết quả kinh tế của khu vực.
+@Chuyên ngành kinh tế
+#chính sách khu vực
+@Chuyên ngành kỹ thuật
+#chính sách miền

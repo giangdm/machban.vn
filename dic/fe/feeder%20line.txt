@@ -1,0 +1,30 @@
+﻿@feeder line /'fi:dəlain/ (feeder_railway) /'fi:də'reilwei/
+*danh từ
+#nhánh (đường sắt)
+@Chuyên ngành kinh tế
+#tuyến đường phụ
+#tuyến vận tải nhánh
+@Chuyên ngành kỹ thuật
+#đường nhánh
+@Lĩnh vực: giao thông & vận tải
+#đường bay nhanh
+#đường bay phụ
+#tuyến đường nhánh
+@Lĩnh vực: điện tử & viễn thông
+#đường tiếp sóng
+@Lĩnh vực: điện
+#lưới điện cung cấp
+@Lĩnh vực: xây dựng
+#mạng điện cung cấp
+@Chuyên ngành kỹ thuật
+#đường nhánh
+@Lĩnh vực: giao thông & vận tải
+#đường bay nhanh
+#đường bay phụ
+#tuyến đường nhánh
+@Lĩnh vực: điện tử & viễn thông
+#đường tiếp sóng
+@Lĩnh vực: điện
+#lưới điện cung cấp
+@Lĩnh vực: xây dựng
+#mạng điện cung cấp

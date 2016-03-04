@@ -1,0 +1,14 @@
+﻿@asynchronous /æ'siɳkrənəs/
+*tính từ
+#không đồng thời
+#không đồng bộ
+@Chuyên ngành kỹ thuật
+#dị bộ
+#đi bộ
+#không đồng bộ
+@Lĩnh vực: toán & tin
+#kiểu không đồng bộ
+#thiếu đồng bộ
+<!-- more -->
+@asynchronous
+#(Tech) dị bộ, không đồng bộ

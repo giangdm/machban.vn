@@ -1,0 +1,3 @@
+﻿@Growth-valuation function
+#(Econ) Hàm giá trị - tăng trưởng.
+: Hàm này tạo ra TỶ SỐ GIÁ TRỊ cực đại mà một hãng có thể duy trì được tại các mức tỷ lệ tăng trưởng khác nhau và là một đặc điểm chung của các LÝ THUYẾT TĂNG TRƯỞNG CỦA HÃNG.

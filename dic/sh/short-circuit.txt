@@ -1,0 +1,12 @@
+﻿@short-circuit
+*danh từ
+#<điện> mạch ngắn, mạch chập
+*ngoại động từ
+#làm cho bị đoản mạch, làm bị chập mạch
+#tránh; bỏ qua
+*nội động từ
+#bị đoản mạch, bị chập mạch
+@Chuyên ngành kỹ thuật
+#đoản mạch
+@Lĩnh vực: điện tử & viễn thông
+#làm ngắn mạch

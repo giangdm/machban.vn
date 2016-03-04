@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cột vùng ngoại biên
+#trụ vùng ngoại biên

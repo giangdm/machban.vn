@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bơm dầu ngưng tụ
+#bơm phần ngưng
+@Lĩnh vực: điện lạnh
+#bơm lỏng ngưng [nước ngưng]
+#máy bơm phần ngưng
+@Lĩnh vực: điện
+#bơm ngưng tụ
+#bơm nước ngưng
+@Lĩnh vực: xây dựng
+#máy bơm nước ngưng

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm nhân logic
+@Lĩnh vực: toán & tin
+#hàm logic AND

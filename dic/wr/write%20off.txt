@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#gạch bỏ
+#gạch sổ
+#khoản bút toán xóa bỏ
+#xóa bỏ
+#xóa bỏ khoản đã thanh toán
+#xóa sổ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#thảo nhanh
+#xác định xe bị hư hoàn toàn (bảo hiểm)

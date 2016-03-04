@@ -1,0 +1,3 @@
+﻿@Inter-Bank Market
+#(Econ) Thị trường Liên ngân hàng.
+: Một trong các nhóm THỊ TRƯỜNG TIỀN TỆ có quan hệ lẫn nhau ở London. Thị trường này phát triển vào những năm 1960 và là một thị trường trong đó CÁC NGÂN HÀNG KHÔNG THANH TOÁN BÙ TRỪ cho vay lẫn nhau, nhưng rồi nó đã trở thành một thị trường tiền lớn được rất nhiều thể chế tài chính sử dụng trong việc cho vay và đi vay.

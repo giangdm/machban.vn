@@ -1,0 +1,2 @@
+﻿@frequency response equalization
+#(Tech) hiệu chỉnh đáp tuyến tần số

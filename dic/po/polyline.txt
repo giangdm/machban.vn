@@ -1,0 +1,6 @@
+﻿@polyline
+#(hình) nhiều nét, (hình) nhiều đường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hình nhiều đường
+#hình nhiều nét

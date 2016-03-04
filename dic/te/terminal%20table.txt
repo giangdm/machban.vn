@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng đầu cuối
+@Lĩnh vực: toán & tin
+#bảng thiết bị đầu cuối

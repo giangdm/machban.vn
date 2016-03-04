@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#chùm sáng mảnh
+#chùm tia hẹp
+@Lĩnh vực: toán & tin
+#chùm tia
+@Lĩnh vực: điện lạnh
+#chùm tia mảnh
+@Lĩnh vực: vật lý
+#chùm tia sáng hẹp

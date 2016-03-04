@@ -1,0 +1,5 @@
+﻿@detail flowchart
+#(Tech) lưu đồ chi tiết
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lưu đồ chi tiết

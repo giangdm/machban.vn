@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#sự sáp nhập (quảng cáo vào chương trình phát thanh ...)
+@Chuyên ngành kỹ thuật
+#đấu vào
+@Lĩnh vực: cơ khí & công trình
+#đóng (mạch)
+#ghép vào
+@Lĩnh vực: điện lạnh
+#dụng cụ đóng dòng
+@Lĩnh vực: đo lường & điều khiển
+#giá trị ngắt

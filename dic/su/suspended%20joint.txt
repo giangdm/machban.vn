@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khớp bản lề treo
+#mối nối ray treo
+#mối nối treo

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều chỉnh otonom
+#điều chỉnh tonom
+#điều khiển tương hỗ

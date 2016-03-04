@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#người bán hàng lưu động
+@Chuyên ngành kỹ thuật
+#quá trình lặp
+#thao tác lặp
+@Lĩnh vực: toán & tin
+#tính lặp

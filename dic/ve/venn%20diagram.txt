@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#biểu đồ ven
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu đồ Ven
+#biểu đồ Venn
+#giản đồ Venn

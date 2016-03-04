@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#xưởng tinh chế đường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nhà máy tinh chế đường
+@Lĩnh vực: xây dựng
+#sự tinh chế đường

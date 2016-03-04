@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ vi mô
+@Lĩnh vực: toán & tin
+#vi hệ thống

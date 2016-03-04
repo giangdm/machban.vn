@@ -1,0 +1,11 @@
+﻿@Current account
+#(Econ) Tài khoản vãng lai/ tài khoản hiện hành, cán cân tài khoản vãng lai.
+: Trong ngành Ngân hàng Anh, một tài khoản mà khách hàng rút SÉC lên tới số dư tín dụng hoặc vượt quá số dư tín dụng giới hạn THẤU CHI ĐÃ ĐƯỢC THOẢ THUẬN. Ở Mỹ, đây là tiền gửi ngân hàng linh hoạt nhất và có trong tất cả các định nghĩa về cung tiền.
+@Chuyên ngành kinh tế
+#tài khoản lưu động
+#tài khoản vãng lai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tài khoản vãng lai
+@Lĩnh vực: điện tử & viễn thông
+#trương mục hiện thời

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#công te nơ bồn dùng để chở dầu
+#công-ten-nơ bồn (dùng để chở dầu)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#đồ chứa kiểu thùng

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng dữ liệu vào
+#hàng công việc
+#luồng vào
+@Lĩnh vực: toán & tin
+#chuỗi công việc
+#dòng thực hiện (công việc)

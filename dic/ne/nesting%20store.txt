@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ lồng nhau
+@Lĩnh vực: toán & tin
+#bộ nhớ kiểu ngăn xếp
+#vùng nhớ lồng

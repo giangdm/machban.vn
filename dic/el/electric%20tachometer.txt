@@ -1,0 +1,14 @@
+﻿@electric tachometer
+#(Tech) chuyển tốc kế chạy điện
+@Chuyên ngành kỹ thuật
+#máy đo tốc độ góc chạy bằng điện
+@Lĩnh vực: điện lạnh
+#tốc kế góc điện
+@Lĩnh vực: cơ khí & công trình
+#tốc kế vòng điện
+@Chuyên ngành kỹ thuật
+#máy đo tốc độ góc chạy bằng điện
+@Lĩnh vực: điện lạnh
+#tốc kế góc điện
+@Lĩnh vực: cơ khí & công trình
+#tốc kế vòng điện

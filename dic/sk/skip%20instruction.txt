@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lệnh nhảy
+#lệnh rẽ nhánh
+@Lĩnh vực: toán & tin
+#chỉ thị nhảy

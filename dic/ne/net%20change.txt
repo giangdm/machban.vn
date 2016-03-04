@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#chênh lệnh giá tịnh
+#mức biến động ròng

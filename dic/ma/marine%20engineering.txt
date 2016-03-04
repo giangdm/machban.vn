@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#kiến tạo hàng hải
+#thuật đóng tàu
+@Chuyên ngành kỹ thuật
+#kỹ thuật hàng hải
+@Lĩnh vực: giao thông & vận tải
+#kỹ thuật biển

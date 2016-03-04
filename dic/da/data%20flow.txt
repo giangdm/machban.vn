@@ -1,0 +1,9 @@
+﻿@data flow
+#(Tech) dòng dữ liệu
+@Chuyên ngành kỹ thuật
+#dòng dữ liệu
+#luồng dữ liệu
+@Lĩnh vực: xây dựng
+#dòng luông
+@Lĩnh vực: toán & tin
+#lưu thông dữ liệu

@@ -1,0 +1,2 @@
+﻿@factorisable
+#phân tích được (thành nhân tử)

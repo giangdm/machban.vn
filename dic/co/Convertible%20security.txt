@@ -1,0 +1,5 @@
+﻿@Convertible security
+#(Econ) Chứng khoán chuyển đổi được.
+: Một loại chứng khoán, tức là một khiếu nợ đối với người phát hành, có thể chuyển đổi sang các loại khác trong đó có tiền mặt.
+@Chuyên ngành kinh tế
+#chứng khoán chuyển đổi được

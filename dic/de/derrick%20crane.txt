@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#cần trục tháp
+@Lĩnh vực: cơ khí & công trình
+#cần trục deric
+@Lĩnh vực: hóa học & vật liệu
+#cần trục tháp khoan
+@Lĩnh vực: toán & tin
+#cẩu trục đeric
+@Lĩnh vực: xây dựng
+#đeric

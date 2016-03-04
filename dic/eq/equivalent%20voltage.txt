@@ -1,0 +1,8 @@
+﻿@equivalent voltage
+#(Tech) điện áp tương đương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện áp tương đương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện áp tương đương

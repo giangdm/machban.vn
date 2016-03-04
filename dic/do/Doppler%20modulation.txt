@@ -1,0 +1,5 @@
+﻿@Doppler modulation
+#(Tech) biến điệu Doppler (Đôple), biến điệu do hiệu ứng Doppler (Đôple)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự điều biến Doppler

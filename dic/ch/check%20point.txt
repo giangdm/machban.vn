@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#trạm kiểm tra
+@Chuyên ngành kỹ thuật
+#điểm khống chế
+#điểm kiểm tra
+#mốc chuẩn
+@Lĩnh vực: ô tô
+#trạm kiểm tra

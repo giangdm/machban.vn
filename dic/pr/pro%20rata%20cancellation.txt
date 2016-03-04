@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#xóa bỏ (nợ) theo tỉ lệ
+#xóa nợ theo tỉ lệ

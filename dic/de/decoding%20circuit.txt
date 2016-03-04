@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ dịch mã
+#bộ giải mã
+#mạch giải mã
+@Lĩnh vực: toán & tin
+#sơ đồ giải mã

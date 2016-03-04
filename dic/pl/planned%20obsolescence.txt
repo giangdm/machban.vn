@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hàng hóa cũ được sắp đặt (đối với hàng hóa sản xuất)
+#sự hóa cũ được sắp đặt (đối với hàng hóa sản xuất)
+#sự lỗi thời được quy hoạch
+#sự phế bỏ có kế hoạch

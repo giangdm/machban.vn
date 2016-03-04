@@ -1,0 +1,10 @@
+﻿@echo suppressor
+#(Tech) bộ triệt tiếng dội
+@Chuyên ngành kỹ thuật
+#bộ triệt tiếng dội
+#bộ triệt tiếng hiệu dội
+#hủy bỏ phản hồi
+#khử phản hồi
+#kỹ thuật khử phản hồi
+@Lĩnh vực: điện lạnh
+#bộ triệt tín dội

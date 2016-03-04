@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đo mức sai số
+#đo suất lỗi
+#đo tỷ lệ sai hỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đo mức sai số
+#đo suất lỗi
+#đo tỷ lệ sai hỏng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ phân giải điện ly
+#hệ số làm khô
+#hệ số phân giải điện ly
+#hệ số sấy khô

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#calo nhỏ
+@Lĩnh vực: hóa học & vật liệu
+#calogam
+@Lĩnh vực: điện lạnh
+#gam calo
+@Lĩnh vực: điện
+#tiểu calo

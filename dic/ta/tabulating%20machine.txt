@@ -1,0 +1,8 @@
+﻿@tabulating machine /'tæbjuleitə/ (tabulating_machine) /'tæbjuleitiɳmə'ʃi:n/
+*danh từ
+#máy chữ đánh bảng, máy chữ đánh cột hàng đọc
+@Chuyên ngành kỹ thuật
+#máy lập bảng
+@Lĩnh vực: xây dựng
+#bộ lập bảng
+#máy tính phân tích

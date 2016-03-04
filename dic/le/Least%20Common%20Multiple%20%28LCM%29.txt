@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bội số chung nhỏ nhất
+@Chuyên ngành kỹ thuật
+#bội số chung ít nhất
+@Chuyên ngành kỹ thuật
+#bội số chung nhỏ nhất
+@Chuyên ngành kỹ thuật
+#bội số chung ít nhất

@@ -1,0 +1,6 @@
+﻿@classroom
+*danh từ
+#phòng đọc
+@Chuyên ngành kỹ thuật
+#lớp học
+#phòng học

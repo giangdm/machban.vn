@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự nén văn bản
+#sự nén văn bản (dùng mật mã thay một nhóm ký tự)

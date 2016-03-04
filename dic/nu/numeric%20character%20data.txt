@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dữ liệu kí tự số
+@Lĩnh vực: toán & tin
+#dữ liệu ký tự số

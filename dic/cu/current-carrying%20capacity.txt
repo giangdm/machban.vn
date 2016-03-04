@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khả năng mang dòng điện
+@Lĩnh vực: điện
+#khả năng tải (dòng) điện
+#khả nảng tải dòng điện

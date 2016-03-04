@@ -1,0 +1,2 @@
+﻿@resedit
+#Một trình tiện ích của Macintosh, được các đại lý của Apple Computer cung cấp miễn phí, cho phép bạn có thể biên tập (và sao chép vào các chương trình khác) nhiều tính năng chương trình, như văn bản lệnh đơn, các biểu tượng, các dạng con chạy, các hộp hội thoại

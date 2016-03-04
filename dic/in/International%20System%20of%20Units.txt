@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#Hệ thống Đơn vị Thông dụng Quốc tế
+@Chuyên ngành kỹ thuật
+#hệ đơn vị quốc tế
+@Lĩnh vực: điện lạnh
+#hệ SI

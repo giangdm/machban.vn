@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều kiện lỗi (trong tính toán)
+#điều kiện xảy ra lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều kiện lỗi (trong tính toán)
+#điều kiện xảy ra lỗi

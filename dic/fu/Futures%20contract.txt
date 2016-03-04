@@ -1,0 +1,5 @@
+﻿@Futures contract
+#(Econ) Hợp đồng kỳ hạn
+: Như Forward contract. Nhưng có khả năng chuyển nhượng hoặc huỷ bỏ. Xem Forward contract.
+@Chuyên ngành kinh tế
+#hợp đồng kỳ hạn

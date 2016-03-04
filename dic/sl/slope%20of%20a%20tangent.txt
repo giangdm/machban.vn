@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ dốc sủa tiếp tuyến
+#hệ số góc của tiếp tuyến

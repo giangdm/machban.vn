@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập điểm nối chéo
+@Lĩnh vực: xây dựng
+#tập điểm nối tréo

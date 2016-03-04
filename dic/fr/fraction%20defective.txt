@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phần sai hỏng
+#phần sai sót
+@Lĩnh vực: toán & tin
+#tỉ số phế phẩm
+#tỷ số phế phẩm

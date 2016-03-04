@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự chuyển tải
+@Lĩnh vực: xây dựng
+#thao tác bốc dỡ hàng ở ga đầu (hay ga cuối)

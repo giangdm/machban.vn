@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#giá trị duy nhất
+@Lĩnh vực: điện lạnh
+#giá trị độc nhất

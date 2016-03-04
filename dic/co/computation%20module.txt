@@ -1,0 +1,2 @@
+﻿@computation module
+#(Tech) môddun tính toán

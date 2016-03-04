@@ -1,0 +1,2 @@
+﻿@gain-bandwidth product
+#(Tech) tích độ tăng ích đải thông

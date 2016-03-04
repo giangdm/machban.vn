@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự tăng trưởng bên trong
+#sự tăng trưởng hữu cơ
+#tăng trưởng bên trong
+#tăng trưởng hữu cơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tăng trưởng hữu cơ

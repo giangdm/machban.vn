@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy thử nghiệm va đập
+@Lĩnh vực: cơ khí & công trình
+#máy thử va chạm

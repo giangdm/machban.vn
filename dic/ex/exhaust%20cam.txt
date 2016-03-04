@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#cam thải
+#cam xả (khí)
+@Lĩnh vực: cơ khí & công trình
+#cam điều khiển xupáp thải
+#cam xả khí
+@Lĩnh vực: vật lý
+#cam xả
+@Chuyên ngành kỹ thuật
+#cam thải
+#cam xả (khí)
+@Lĩnh vực: cơ khí & công trình
+#cam điều khiển xupáp thải
+#cam xả khí
+@Lĩnh vực: vật lý
+#cam xả

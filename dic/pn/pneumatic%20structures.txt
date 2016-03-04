@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kết cấu bơm hơi
+#kết cấu đệm không khí
+#kết cấu khí động

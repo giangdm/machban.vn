@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chất hãm ảnh
+@Lĩnh vực: hóa học & vật liệu
+#tác nhân cố định
+@Lĩnh vực: điện lạnh
+#thuốc định hình
+#thuốc hãm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chất hãm ảnh
+@Lĩnh vực: hóa học & vật liệu
+#tác nhân cố định
+@Lĩnh vực: điện lạnh
+#thuốc định hình
+#thuốc hãm

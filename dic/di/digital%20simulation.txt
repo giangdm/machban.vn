@@ -1,0 +1,5 @@
+﻿@digital simulation
+#(Tech) sự mô phỏng dạng số tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự mô phỏng số

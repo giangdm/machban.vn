@@ -1,0 +1,2 @@
+﻿@bistatic scattering
+#(Tech) tán xạ song phân [ĐL], tán xạ do hai vị trí (ăngten radda)

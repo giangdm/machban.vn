@@ -1,0 +1,6 @@
+﻿@crystal set
+*danh từ
+#một loại máy thu thanh thông dụng trước đây
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#máy thu thanh tinh thể

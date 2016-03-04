@@ -1,0 +1,10 @@
+﻿@frequency demodulation
+#(Tech) sự hoàn điệu tần số
+@Chuyên ngành kỹ thuật
+#bộ giải điều tần số
+#bộ tách sóng tần số
+@Lĩnh vực: toán & tin
+#sự giải điều tần
+@Lĩnh vực: điện tử & viễn thông
+#sự giải điều tần số
+#sự tách sóng tần số

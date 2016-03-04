@@ -1,0 +1,5 @@
+﻿@quasi-syntax
+#(logic học) tựa cú pháp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tựa cú pháp

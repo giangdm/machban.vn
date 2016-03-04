@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giấy phép rời bến
+#giấy trình báo rời cảng
+#tờ khai rời cảng (cho phép mang hàng đi vì đã nộp thuế quan)

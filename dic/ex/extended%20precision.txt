@@ -1,0 +1,2 @@
+﻿@extended precision
+#(Tech) độ chính xác nối dài

@@ -1,0 +1,6 @@
+﻿@Transactions velocity of circulation
+#(Econ) Tốc độ lưu thông giao dịch.
+: Xem INCOME VELOCITY OF CIRCULATION.
+@Chuyên ngành kinh tế
+#tốc độ lưu thông của các tiền tệ giao dịch
+#tốc độ lưu thông tiền tệ của các giao dịch

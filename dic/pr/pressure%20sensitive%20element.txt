@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cảm biến áp suất
+#đầu cảm (biến) áp suất
+#phần tử cảm biến áp suất

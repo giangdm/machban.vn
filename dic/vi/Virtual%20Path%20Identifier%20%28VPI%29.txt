@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mã nhận dạng đường ảo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký hiệu định danh đường dẫn ảo
+#số hiệu đường dẫn ảo

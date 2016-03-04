@@ -1,0 +1,5 @@
+﻿@Banking panic
+#(Econ) Cơn hoảng loạn ngân hàng.
+: Một tình huống trong đó có sự mất tự tin của một hay nhiều ngân hàng gây nên sự đổ xô bất ngờ và lan rộng của công chúng tới các ngân hàng nói chung để rút tiền gửi hoặc vào những lúc khi phát hành lệnh phiếu tư nhân là phổ biến để yêu cầu thanh toán các hối phiếu này bằng phương tiện khác.
+@Chuyên ngành kinh tế
+#cơn hoảng loạn ngân hàng

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phân bố đều năng lượng
+@Lĩnh vực: vật lý
+#sự phân bố đều năng lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phân bố đều năng lượng
+@Lĩnh vực: vật lý
+#sự phân bố đều năng lượng

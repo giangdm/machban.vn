@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số dẫn nhiệt
+@Lĩnh vực: cơ khí & công trình
+#suất dẫn nhiệt

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#rơle nhiệt độ thấp
+#thermostat nhiệt độ thấp

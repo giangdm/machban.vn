@@ -1,0 +1,3 @@
+﻿@Planning programming budgeting system (PPBS)
+#(Econ) Hệ thống lập ngân sách theo chương trình kế hoạch hoá.
+: Xem OUTPUT BUDGETING

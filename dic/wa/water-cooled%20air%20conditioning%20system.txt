@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) điều hòa không khí giải nhiệt nước
+#hệ (thống) điều hòa không khí làm mát bằng nước

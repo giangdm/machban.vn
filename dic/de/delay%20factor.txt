@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#đại lượng trễ
+@Lĩnh vực: điện tử & viễn thông
+#hệ số chậm trễ
+@Lĩnh vực: toán & tin
+#hệ số trễ

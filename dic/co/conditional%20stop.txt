@@ -1,0 +1,2 @@
+﻿@conditional stop
+#(Tech) dừng tùy điều kiện

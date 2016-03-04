@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch ảo thường trực
+@Lĩnh vực: điện tử & viễn thông
+#mạch ảo cố định-PVC
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mạch ảo cố định

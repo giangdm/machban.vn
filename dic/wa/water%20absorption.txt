@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hút nước
+#sự hút ẩm
+#sự hút nước
+@Lĩnh vực: điện lạnh
+#hấp thụ nước
+@Lĩnh vực: điện
+#khả năng hút nước
+@Lĩnh vực: hóa học & vật liệu
+#sự hấp thụ nước

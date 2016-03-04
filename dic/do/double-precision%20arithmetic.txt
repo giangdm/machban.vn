@@ -1,0 +1,2 @@
+﻿@double-precision arithmetic
+#(Tech) số học chính xác đôi, tính toán song tinh dộ

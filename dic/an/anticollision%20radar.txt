@@ -1,0 +1,4 @@
+﻿@anticollision radar
+#(Tech) radda phòng chống đụng nhau
+@Chuyên ngành kỹ thuật
+#rađa cảnh báo va chạm

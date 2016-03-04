@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thí nghiệm không có tính phá hoại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thí nghiệm không phá mẫu

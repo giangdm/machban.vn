@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bản ghép một phía
+@Lĩnh vực: xây dựng
+#bản nẹp một bên (trong mối nối tiếp đầu)

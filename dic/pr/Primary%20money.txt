@@ -1,0 +1,5 @@
+﻿@Primary money
+#(Econ) Tiền sơ cấp.
+: Một tên gọi khác cho tiền cơ bản hoặc TIỀN CÓ QUYÊN LỰC, tức là loại tiền do các nhà chức trách về tiền tệ phát hành.
+@Chuyên ngành kinh tế
+#tiền nguyên sơ

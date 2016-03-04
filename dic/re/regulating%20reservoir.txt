@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hồ chứa điều chỉnh được
+#hồ chứa nước điều tiết
+@Lĩnh vực: cơ khí & công trình
+#hồ điều tiết dòng chảy

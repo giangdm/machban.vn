@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#máy hát đĩa compact
+@Lĩnh vực: vật lý
+#máy quay đĩa CD
+#máy quay đĩa quang
+@Lĩnh vực: toán & tin
+#trình phát CD

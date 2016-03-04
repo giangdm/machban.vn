@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#giếng thăm
+@Lĩnh vực: xây dựng
+#hố dẫn
+@Lĩnh vực: toán & tin
+#hố thăm

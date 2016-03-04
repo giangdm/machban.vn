@@ -1,0 +1,2 @@
+﻿@adjustment table
+#(Tech) bảng điều chỉnh

@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#khí dư
+#lượng không khí thừa
+@Lĩnh vực: hóa học & vật liệu
+#không khí dư
+@Lĩnh vực: cơ khí & công trình
+#không khí dư thừa
+@Lĩnh vực: điện lạnh
+#không khí thừa
+@Chuyên ngành kỹ thuật
+#khí dư
+#lượng không khí thừa
+@Lĩnh vực: hóa học & vật liệu
+#không khí dư
+@Lĩnh vực: cơ khí & công trình
+#không khí dư thừa
+@Lĩnh vực: điện lạnh
+#không khí thừa

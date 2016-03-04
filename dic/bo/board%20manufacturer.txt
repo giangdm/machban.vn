@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhà sản xuất bảng mạch
+#nhà sản xuất tấm mạch

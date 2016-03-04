@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chênh lệch trở về
+@Lĩnh vực: đo lường & điều khiển
+#khác nhau trong chuyển đổi

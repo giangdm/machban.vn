@@ -1,0 +1,16 @@
+﻿@envelope delay distortion
+#(Tech) biến dạng trì hoãn đường bao
+@Chuyên ngành kỹ thuật
+#sự méo pha
+@Lĩnh vực: điện tử & viễn thông
+#độ méo pha
+#sự biến dạng pha
+@Lĩnh vực: toán & tin
+#sự méo do trễ đường bao
+@Chuyên ngành kỹ thuật
+#sự méo pha
+@Lĩnh vực: điện tử & viễn thông
+#độ méo pha
+#sự biến dạng pha
+@Lĩnh vực: toán & tin
+#sự méo do trễ đường bao

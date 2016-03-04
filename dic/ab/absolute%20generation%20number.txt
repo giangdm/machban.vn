@@ -1,0 +1,2 @@
+﻿@absolute generation number
+#(Tech) số thế hệ tuyệt đối

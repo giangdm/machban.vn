@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự cố sơ cấp
+#sự cố sơ khởi
+@Lĩnh vực: điện tử & viễn thông
+#sự hư hỏng ban đầu
+#sự thất bại ban đầu

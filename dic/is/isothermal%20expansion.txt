@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giãn nở đẳng nhiệt
+@Lĩnh vực: vật lý
+#sự giãn nở đẳng nhiệt

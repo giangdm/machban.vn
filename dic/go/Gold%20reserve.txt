@@ -1,0 +1,4 @@
+﻿@Gold reserve
+#(Econ) Dự trữ vàng.
+@Chuyên ngành kinh tế
+#dự trữ vàng

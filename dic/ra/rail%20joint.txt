@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu mối đường sắt
+#đầu mối giao thông
+#mối nối ray
+#trung tâm giao thông
+@Lĩnh vực: giao thông & vận tải
+#mối nối đường ray

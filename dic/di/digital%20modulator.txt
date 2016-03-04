@@ -1,0 +1,2 @@
+﻿@digital modulator
+#(Tech) bộ biến điệu dạng số tự

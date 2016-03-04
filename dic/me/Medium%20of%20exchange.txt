@@ -1,0 +1,9 @@
+﻿@Medium of exchange
+#(Econ) Phương tiện trao đổi.
+: Là bất kỳ tài sản hoặc phương tiện nào có chức năng trung gian trong quá trình trao đổi, nghĩa là một vật mà người bán hang hoặc cung cấp dịch vụ chấp nhận để thay thế, không phải cho bản thân nó mà là vơí ý thức rằng nó có thể sử dụng để trong những cuộc trao đổi để mua bất kỳ cái gì mà anh ta cần.
+@Chuyên ngành kinh tế
+#môi giới giao dịch
+#phương tiện trao đổi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phương sự chuyển trao đổi

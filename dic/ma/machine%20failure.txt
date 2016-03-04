@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự hỏng máy
+@Chuyên ngành kỹ thuật
+#sự hỏng máy
+@Lĩnh vực: toán & tin
+#sự cố máy
+#sự hỏng hóc máy

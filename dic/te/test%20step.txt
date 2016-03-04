@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bước chạy thử
+#bước kiểm thử
+#bước kiểm tra
+@Lĩnh vực: xây dựng
+#dưỡng lấy mẫu

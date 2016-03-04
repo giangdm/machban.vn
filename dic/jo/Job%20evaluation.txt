@@ -1,0 +1,12 @@
+﻿@Job evaluation
+#(Econ) Đánh giá việc làm.
+: Một quá trình mà trong đó các yếu tố khác nhau của một việc làm làm như kỹ năng, kiến thức tích luỹ, trách nhiệm và các điều kiện làm việc - được đánh giá, cho điểm và đưa ra một điểm chung cho việc làm đó.
+@Chuyên ngành kinh tế
+#đánh giá công tác
+#sự đánh giá công việc
+@Chuyên ngành kỹ thuật
+#sự đánh giá công việc
+@Lĩnh vực: hóa học & vật liệu
+#đánh giá công việc
+@Lĩnh vực: xây dựng
+#phân loại công việc

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hồi tiếp âm
+#sự hồi tiếp âm
+#sự hồi tiếp ngược
+#sự liên hệ ngược âm
+@Lĩnh vực: điện
+#hồi tiếp nghịch

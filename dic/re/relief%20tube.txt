@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#ống phòng nổ (trong máy biến áp)

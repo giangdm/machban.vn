@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#số điện thoại
+#số gọi
+@Lĩnh vực: điện lạnh
+#số máy thuê bao
+@Lĩnh vực: điện tử & viễn thông
+#số trong danh bạ

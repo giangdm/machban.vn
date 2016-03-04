@@ -1,0 +1,4 @@
+﻿@gas-filled relay
+#(Tech) bộ kế điện nạp khí, rơle nạp khí
+@Chuyên ngành kỹ thuật
+#rơle chứa khí

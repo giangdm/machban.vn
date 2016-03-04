@@ -1,0 +1,21 @@
+﻿@escape velocity
+*danh từ
+#vận tốc cho phép tàu vũ trụ vượt khỏi lực hút của hành tinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tốc độ giải phóng
+#tốc độ thoát
+#tốc độ vượt
+@Lĩnh vực: vật lý
+#vận tốc thoát
+@Lĩnh vực: điện lạnh
+#vận tốc thoát ly
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tốc độ giải phóng
+#tốc độ thoát
+#tốc độ vượt
+@Lĩnh vực: vật lý
+#vận tốc thoát
+@Lĩnh vực: điện lạnh
+#vận tốc thoát ly

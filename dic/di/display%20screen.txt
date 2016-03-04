@@ -1,0 +1,5 @@
+﻿@display screen
+#(Tech) màn hình hiển thị
+@Chuyên ngành kỹ thuật
+#màn hiển thị
+#màn hình

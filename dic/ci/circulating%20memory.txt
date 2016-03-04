@@ -1,0 +1,6 @@
+﻿@circulating memory
+#(Tech) bộ nhớ xoay tròn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ luân chuyển
+#bộ nhớ xoay vòng

@@ -1,0 +1,27 @@
+﻿@Preference
+#(Econ) Sở thích; Sự ưu tiên.
+: Có quan điểm cho rằng một thứ hàng hoá, sự kiện hoặc dự án nào đó được ưa chuộng hơn một hoặc các hàng hoá khác … đó là sự sắp xếp các sở thích.
+<!-- more -->
+@preference /'prefərəns/
+*danh từ
+#sự thích hơn, sự ưa hơn
+=preference of A to (over) B: sự ưa A hơn B
+#cái được ưa thích hơn
+#quyền ưu tiên (trả nợ...)
+=preference share: cổ phần ưu tiên
+#(thương nghiệp) sự ưu đãi, sự dành ưu tiên (cho ai, một nước nào... nhập hàng hoá với mức thuế nhẹ...)
+@Chuyên ngành kinh tế
+#chế độ ưu đãi
+#người hay vật được ưa thích
+#quyền ưu tiên
+#sự ưu đãi
+#sự ưu thích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sở thích
+#sự thích hơn
+@Lĩnh vực: giao thông & vận tải
+#sự ưu đãi
+<!-- more -->
+@preference
+#sự thích hơn

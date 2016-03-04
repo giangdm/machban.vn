@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#đèn chong
+#đèn hướng dẫn
+@Chuyên ngành kỹ thuật
+#đèn báo
+#đèn chỉ thị
+#đèn chong/ đèn đánh lửa
+#đèn hiệu
+#đèn kiểm tra
+#làm chuẩn
+#ngọn lửa (thường) trực (để mồi lò ga)
+@Lĩnh vực: hóa học & vật liệu
+#ánh sáng làm chuẩn
+@Lĩnh vực: điện
+#đèn dẫn

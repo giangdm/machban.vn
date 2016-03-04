@@ -1,0 +1,3 @@
+﻿@Welfare function
+#(Econ) Hàm phúc lợi.
+: Đối với một cá nhân, là mối quan hệ giữa tình trạng khoẻ mạnh, hạnh phúc. Phúc lợi hoặc độ thoả dụng và những yếu tố góp phần tạo nên những điều đó.

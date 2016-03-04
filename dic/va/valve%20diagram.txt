@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#biểu đồ phân phối
+#biểu đồ van
+@Lĩnh vực: cơ khí & công trình
+#sơ đồ van

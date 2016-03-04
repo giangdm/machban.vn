@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn dây làm trễ
+#cuộn dây lọc
+#cuộn dây san bằng dòng
+@Lĩnh vực: điện lạnh
+#cuộn trễ (ở mạch điện thoại)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ chính xác đọc số
+@Lĩnh vực: xây dựng
+#độ chính xác của bản đọc
+#độ chính xác của số đọc
+#độ chính xác khi đọc

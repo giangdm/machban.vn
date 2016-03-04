@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thử độ bền dầm côngxon
+#thử momen chịu uốn

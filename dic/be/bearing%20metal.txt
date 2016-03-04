@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#chống mài mòn
+#hợp kim làm ổ trục
+#kim loại chống ma sát
+@Lĩnh vực: cơ khí & công trình
+#hợp kim (làm) lót trục
+#hợp kim đỡ ma sát
+@Lĩnh vực: hóa học & vật liệu
+#hợp kim chịu mài mòn
+#kim loại làm ổ trục

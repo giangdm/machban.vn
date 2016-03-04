@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#người có môn bài
+#người môi giới chứng khoán có môn bài
+#thương nhân có giấy phép, có môn bài

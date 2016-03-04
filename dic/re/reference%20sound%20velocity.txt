@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#tốc độ âm thanh chuẩn
+@Lĩnh vực: điện lạnh
+#vận tốc âm thanh chuẩn

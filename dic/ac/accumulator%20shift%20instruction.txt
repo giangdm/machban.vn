@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lệnh dịch thay tổng
+@Lĩnh vực: điện tử & viễn thông
+#thanh ghi tích lũy

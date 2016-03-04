@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phân xưởng máy
+@Chuyên ngành kỹ thuật
+#phân xưởng cơ khí
+#xưởng máy
+#xưởng tiện nguội
+@Lĩnh vực: cơ khí & công trình
+#nhà máy cơ khí

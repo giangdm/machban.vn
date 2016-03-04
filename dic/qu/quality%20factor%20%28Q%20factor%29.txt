@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số phẩm chất
+#hệ số Q
+@Lĩnh vực: môi trường
+#hệ số chất luợng

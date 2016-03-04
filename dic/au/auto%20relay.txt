@@ -1,0 +1,2 @@
+﻿@auto relay
+#(Tech) bộ kế điện tự động

@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kinh tế
+#trái phiếu kho bạc (của chính phủ Anh)
+@Chuyên ngành kinh tế
+#công trái
+#nguồn vốn
+#quỹ
+#tiền
+#tiền bạc
+#tiền dự trữ
+#tiền gởi (ngân hàng)
+#tiền mặt
+#vốn
+#vốn liếng
+@Chuyên ngành kỹ thuật
+#ngân quỹ
+#quỹ
+@Lĩnh vực: cơ khí & công trình
+#tài khoản

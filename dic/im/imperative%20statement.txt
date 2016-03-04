@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khai báo
+@Lĩnh vực: toán & tin
+#câu lệnh
+#câu lệnh bắt buộc
+#lệnh không điều kiện

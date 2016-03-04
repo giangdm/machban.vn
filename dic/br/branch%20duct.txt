@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ống nhánh
+@Lĩnh vực: điện lạnh
+#ống gió nhánh

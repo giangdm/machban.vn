@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#định lý giới hạn thứ hai
+@Lĩnh vực: toán & tin
+#định lý giới hạn thứ hai (của Marcov)

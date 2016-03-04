@@ -1,0 +1,4 @@
+﻿@alphanumeric information
+#(Tech) thông tin chữ-số
+@Chuyên ngành kỹ thuật
+#thông tin chữ số

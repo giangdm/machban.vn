@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ chịu mòn của lớp mặt
+#độ chịu mòn của lớp phủ

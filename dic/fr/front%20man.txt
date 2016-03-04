@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#người cho mượn tên
+#người đại danh
+#người đại diện (của công ty)
+#phát ngôn viên (của một tổ chứ)

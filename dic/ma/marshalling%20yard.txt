@@ -1,0 +1,18 @@
+﻿@marshalling yard [mɑ:∫əliη'ja:d]
+*danh từ
+# nơi nối các toa xe lửa chở hàng
+@Chuyên ngành kinh tế
+#bãi xe lửa chở hàng
+#ga chất toa (công-ten-nơ)
+@Chuyên ngành kỹ thuật
+#bãi phân loại
+#đường dồn tàu
+#ga dồn tàu
+#sân ga chọn tàu
+#trạm chuyển
+#trạm dồn tàu
+#trạm phân loại
+@Lĩnh vực: giao thông & vận tải
+#ga phân loại
+@Lĩnh vực: hóa học & vật liệu
+#ga xếp toa xe

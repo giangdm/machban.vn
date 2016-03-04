@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hoạt động doanh nghiệp cách quãng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hoạt động gián đoạn
+#sự hoạt động gián đoạn
+#vận hành gián đoạn

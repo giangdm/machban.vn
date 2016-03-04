@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#quỹ tiền mặt
+#số dư quỹ
+#số tiền còn lại trong két
+#tiền mặt còn lại đang giữ
+#tiền mặt sẵn có (để thanh toán)

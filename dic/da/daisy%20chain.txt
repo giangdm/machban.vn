@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chuỗi xích
+#dãy xích in
+#xích hoa cúc
+#xích vòng

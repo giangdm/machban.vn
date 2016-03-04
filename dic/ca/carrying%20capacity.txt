@@ -1,0 +1,25 @@
+﻿@Chuyên ngành kinh tế
+#trọng tải tàu
+@Chuyên ngành kỹ thuật
+#điện dung hữu dụng
+#khả năng chịu lực
+#khả năng chịu tải
+#khả năng tải (băng chuyền)
+#lưu lượng
+#năng suất xếp hàng
+#sản lượng
+#sức chịu tải
+#sức nâng
+#sức nâng tải
+#sức tải
+#tải trọng
+#tải trọng nâng
+#tốc độ cấp
+#trọng tải
+@Lĩnh vực: cơ khí & công trình
+#khả năng (chịu) tải
+#khả năng (mang) tải
+@Lĩnh vực: hóa học & vật liệu
+#khả năng mang
+@Lĩnh vực: ô tô
+#năng suất vận tải

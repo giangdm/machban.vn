@@ -1,0 +1,3 @@
+﻿@Yeild
+#(Econ) Lợi tức.
+: Tỷ lệ thu hàng năm đối với một chứng khoán được tính bằng tỷ lệ % so với thị giá hiện tại.

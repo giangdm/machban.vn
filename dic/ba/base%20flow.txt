@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy ngầm
+#dòng nước dưới đất
+#lưu lượng cơ bản
+@Lĩnh vực: xây dựng
+#sự cấp nước ngầm
+@Lĩnh vực: điện tử & viễn thông
+#sự lưu thoát cơ bản

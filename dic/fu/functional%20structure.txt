@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#cấu trúc theo chức năng
+#cấu trúc theo chức năng (của bộ máy quản lý)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cơ cấu chức năng

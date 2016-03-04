@@ -1,0 +1,3 @@
+﻿@Materials balance principle
+#(Econ) Nguyên lý cân bằng vật chất.
+: Là một nguyên tác trong kinh tế học môi trường, theo đó khối lượng chất thải ra môi trường từ quá trình sản xuất được coi là xấp xỉ khối lượng các tài nguyên được sử dụng để sản xuất ra hàng hoá.

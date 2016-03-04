@@ -1,0 +1,19 @@
+﻿@Chuyên ngành kinh tế
+#phá vỡ
+#tan vỡ
+#tháo dỡ
+@Chuyên ngành kỹ thuật
+#bể
+#dập
+#đập vỡ
+#đập vụn
+#hòa ra
+#làm gãy
+#làm nứt
+#nghiền
+@Lĩnh vực: xây dựng
+#đập bể
+@Lĩnh vực: vật lý
+#sự vỡ đáy
+@Lĩnh vực: ô tô
+#tháo rã (xe)

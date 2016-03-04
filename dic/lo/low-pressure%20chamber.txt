@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng áp suất thấp
+#khoang [buồng] áp suất thấp
+#khoang áp suất thấp

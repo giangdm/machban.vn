@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng điện kích thích
+#dòng điện kích từ
+@Lĩnh vực: điện lạnh
+#dòng kích từ
+@Chuyên ngành kỹ thuật
+#dòng điện kích thích
+#dòng điện kích từ
+@Lĩnh vực: điện lạnh
+#dòng kích từ

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ miêu tả biệt định
+#ngôn ngữ miêu tả và đặc tả

@@ -1,0 +1,5 @@
+﻿@Profit function
+#(Econ) Hàm lợi nhuận
+: Mối quan hệ đặc trưng giữa lợi nhuận và các biến số như sản lượng và quảng cáo mà tác động đến quy mô của lợi nhuận.
+@Chuyên ngành kinh tế
+#hàm số lợi nhuận

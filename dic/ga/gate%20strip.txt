@@ -1,0 +1,2 @@
+﻿@gate strip
+#(Tech) màng điều khiển, cổng điều khiển

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ma trận biến dạng
+@Lĩnh vực: xây dựng
+#ma trận nén

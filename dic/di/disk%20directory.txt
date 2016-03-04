@@ -1,0 +1,6 @@
+﻿@disk directory
+#(Tech) danh mục đĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#danh mục đĩa
+#thư mục đĩa

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#quản lý (số ngạch) lao động
+#quản lý lao động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự quản lý lao động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự quản lý lao động

@@ -1,0 +1,9 @@
+﻿@clock frequency
+#(Tech) tần số đồng hồ (đồng bộ)
+@Chuyên ngành kỹ thuật
+#tần số cơ bản
+#tốc độ đồng hồ
+@Lĩnh vực: điện tử & viễn thông
+#tần số giữ nhịp
+@Lĩnh vực: toán & tin
+#tần số xung nhịp

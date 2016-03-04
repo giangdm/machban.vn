@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giá rẻ
+#khu vực giá thấp
+#khu vực phí tổn thấp
+#phí tổn thấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#vùng có mức sống thấp

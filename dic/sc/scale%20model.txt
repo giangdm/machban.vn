@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#mô hình (thu nhỏ)
+@Chuyên ngành kỹ thuật
+#mô hình tỷ lệ xích
+@Lĩnh vực: xây dựng
+#mô hình (theo) tỉ lệ
+#mô hình theo tỷ lệ
+#mô hình tỷ lệ
+@Lĩnh vực: hóa học & vật liệu
+#mô hình tỉ lệ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giới hạn cho phép
+@Chuyên ngành kỹ thuật
+#giá trị giới hạn
+#giới hạn dung sai

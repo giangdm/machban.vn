@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ống đẩy chính
+@Lĩnh vực: điện lạnh
+#ống cao áp chính

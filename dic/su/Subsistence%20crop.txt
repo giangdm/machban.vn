@@ -1,0 +1,4 @@
+﻿@Subsistence crop
+#(Econ) Vụ mùa tự tiêu.
+@Chuyên ngành kinh tế
+#vụ gieo trồng để sinh sống

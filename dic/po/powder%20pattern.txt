@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ảnh (nhiễu xạ) theo phương pháp bột
+#ảnh Bitter
+#ảnh Debye
+#ảnh theo phương pháp bột

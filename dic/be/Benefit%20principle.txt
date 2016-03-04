@@ -1,0 +1,5 @@
+﻿@Benefit principle
+#(Econ) Nguyên tắc đánh thuế theo lợi ích.
+: Một lý thuyết truyền thống về ĐÁNH THUẾ cho rằng gánh nặng về thuế nên được phân bổ giữa những người trả thuế theo lợi ích mà họ nhận được từ việc cung cấp hàng hoá công cộng.
+@Chuyên ngành kinh tế
+#nguyên tắc thuế theo lợi ích

@@ -1,0 +1,3 @@
+﻿@Horizontal intergration
+#(Econ) Liên kết theo phương ngang.
+: Liên kết theo phương ngang xảy ra khi hai hãng ở cùng một giai đoạn trong quá trình sản xuất sát nhập với nhau để lập ra một doanh nghiệp duy nhất. Xem MERGER.

@@ -1,0 +1,6 @@
+﻿@external circuit
+#(Tech) mạch ngoài
+@Chuyên ngành kỹ thuật
+#mạch ngoài
+@Chuyên ngành kỹ thuật
+#mạch ngoài

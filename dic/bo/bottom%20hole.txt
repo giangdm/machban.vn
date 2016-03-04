@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đáy giếng
+@Lĩnh vực: hóa học & vật liệu
+#đáy lỗ thăm dò
+@Lĩnh vực: cơ khí & công trình
+#lỗ có đáy
+#lỗ không thông
+#lỗ kín

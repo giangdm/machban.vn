@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dải công suất
+#phạm vi [dải] công suất
+#phạm vi công suất

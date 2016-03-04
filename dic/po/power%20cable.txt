@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp (tải dòng) điện mạnh
+#cáp công suất
+#cáp điện lực
+#cáp nguồn
+#cáp tải điện

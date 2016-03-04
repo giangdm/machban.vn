@@ -1,0 +1,6 @@
+﻿@audio response unit
+#(Tech) bộ phận đáp lời
+@Chuyên ngành kỹ thuật
+#khối trả lời bằng âm thanh
+@Lĩnh vực: toán & tin
+#máy thính đàm điện tử

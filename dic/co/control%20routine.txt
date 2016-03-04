@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình con điều khiển
+@Lĩnh vực: giao thông & vận tải
+#sự đảo momen điều khiển

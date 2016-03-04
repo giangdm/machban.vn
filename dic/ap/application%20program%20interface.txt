@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#giao diện chương trình ứng dụng
+@Lĩnh vực: xây dựng
+#giao diện dụng trương
+@Lĩnh vực: điện tử & viễn thông
+#giao diện trình ứng dụng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#API

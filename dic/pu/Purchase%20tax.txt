@@ -1,0 +1,11 @@
+﻿@Purchase tax
+#(Econ) Thuế mua hàng.
+: Một loại thuế doanh thu.Nó tồn tại ở nước Anh trước khi áp dụng thuế giá trị gia tăng vào năm 1973. Nó là loại thuế tính theo tổng giá trị đánh vào một số hàng đặc biệt ở mức bán buôn.
+@Chuyên ngành kinh tế
+#thuế bán lẻ hàng tiêu dùng
+#thuế mua (hàng)
+#thuế mua hàng
+<!-- more -->
+@purchase tax
+*danh từ
+#thuế gián thu

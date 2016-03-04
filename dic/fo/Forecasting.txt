@@ -1,0 +1,18 @@
+﻿@Forecasting
+#(Econ) Dự đoán
+: Một phương pháp có hệ thống nhằm có được ước lượng về giá trị tương lai của một biến, thường là dựa trên việc phân tích các quan sát về biến động quá khứ của nó.
+@Chuyên ngành kinh tế
+#dự báo
+#dự đoán
+#dự trắc
+@Chuyên ngành kỹ thuật
+#dự báo
+#sự dự báo
+#sự dự đoán
+@Lĩnh vực: toán & tin
+#sự tiên đoán
+@Lĩnh vực: điện
+#việc dự báo
+<!-- more -->
+@forecasting
+#sự tiên đoán, sự dự đoán, sự dự báo

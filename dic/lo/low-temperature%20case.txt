@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#quầy có nhiệt độ thấp
+#trường hợp nhiệt độ thấp

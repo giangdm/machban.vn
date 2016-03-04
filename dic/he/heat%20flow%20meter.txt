@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#cái đo nhiệt
+@Chuyên ngành kỹ thuật
+#lưu lượng kế nhiệt
+#nhiệt lượng kế
+@Lĩnh vực: điện lạnh
+#công tơ nhiệt
+#đồng hồ đo dòng nhiệt
+@Lĩnh vực: xây dựng
+#dụng cụ đo nhiệt thông
+@Lĩnh vực: đo lường & điều khiển
+#máy đo dòng nhiệt

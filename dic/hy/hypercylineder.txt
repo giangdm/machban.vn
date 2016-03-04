@@ -1,0 +1,4 @@
+﻿@hypercylineder
+#(hình) siêu trụ
+#parabolic h. hình siêu trụ parabolic
+#spheroidal h. siêu trụ phỏng cầu

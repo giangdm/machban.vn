@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đường thông gió
+#ống thông gió
+@Lĩnh vực: điện lạnh
+#đường ống (kênh) thông gió
+#kênh thông gió
+@Lĩnh vực: điện
+#rãnh thông gió

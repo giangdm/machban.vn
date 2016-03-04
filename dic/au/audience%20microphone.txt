@@ -1,0 +1,2 @@
+﻿@audience microphone
+#(Tech) máy vi âm nền động

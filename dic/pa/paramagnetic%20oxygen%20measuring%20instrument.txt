@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy đo oxy thuận từ
+#máy phân tích oxy thuận từ
+@Lĩnh vực: đo lường & điều khiển
+#O2 kế thuận từ

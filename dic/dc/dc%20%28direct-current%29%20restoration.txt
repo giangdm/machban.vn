@@ -1,0 +1,2 @@
+﻿@dc (direct-current) restoration
+#(Tech) khôi phục thành phần của điện một chiều

@@ -1,0 +1,2 @@
+﻿@electron charge-to-mass ratio
+#(Tech) tỷ số điện tích-chất lượng của điện tử

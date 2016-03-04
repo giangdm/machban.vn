@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#phần khởi động
+@Lĩnh vực: toán & tin
+#bít khởi động
+#bít xuất phát
+#phần tử khởi động
+#phần tử xuất phát
+@Lĩnh vực: điện tử & viễn thông
+#phần tử bắt đầu

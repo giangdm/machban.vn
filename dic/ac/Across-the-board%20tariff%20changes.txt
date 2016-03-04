@@ -1,0 +1,3 @@
+﻿@Across-the-board tariff changes
+#(Econ) Thay đổi thuế quan đồng loạt.
+: Một tình huống khi tất cả thuế quan của một nước được tăng hoặc giảm theo tỷ lệ phần trăm ngang bằng.

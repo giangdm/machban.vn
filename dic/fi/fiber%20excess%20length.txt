@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chiều dài vượt quá của sợi
+#độ dài dư của sợi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chiều dài vượt quá của sợi
+#độ dài dư của sợi

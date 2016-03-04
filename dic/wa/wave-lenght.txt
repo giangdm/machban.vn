@@ -1,0 +1,2 @@
+﻿@wave-lenght
+#(vật lí) độ dài sóng, bước sóng

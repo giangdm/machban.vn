@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#hạn chế hối đoái
+#hạn chế ngoại hối
+#hạn chế ngoại tệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự hạn chế trao đổi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự hạn chế trao đổi

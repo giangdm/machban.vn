@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nguồn cung cấp gián tiếp
+@Lĩnh vực: điện tử & viễn thông
+#nguồn cung cấp ngoại tuyến

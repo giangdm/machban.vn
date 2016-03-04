@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#độ dị thể của vùng khuếch tán
+#độ không đồng nhất của vùng khuếch tán

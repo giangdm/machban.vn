@@ -1,0 +1,5 @@
+﻿@goose-file
+*danh từ
+#hàng một
+*phó từ
+#thành hàng một

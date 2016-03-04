@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#kiểm tra hàng mẫu một lần
+@Chuyên ngành kỹ thuật
+#sự kiểm tra lấy mẫu đơn

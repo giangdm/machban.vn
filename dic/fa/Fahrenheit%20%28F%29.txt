@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ Fahrenheit
+@Lĩnh vực: đo lường & điều khiển
+#độ Factorrizy
+@Chuyên ngành kỹ thuật
+#độ Fahrenheit
+@Lĩnh vực: đo lường & điều khiển
+#độ Factorrizy

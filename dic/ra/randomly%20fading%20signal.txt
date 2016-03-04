@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu tàn dần ngẫu nhiên
+#tín hiệu tắt dần ngẫu nhiên

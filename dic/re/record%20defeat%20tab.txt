@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#núm dừng ghi
+#núm tắt ghi
+#vòng cữ khóa
+#vòng cữ tránh ghi

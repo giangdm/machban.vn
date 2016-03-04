@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#chế độ trả chuyển khoản trực tiếp
+#hệ thống chuyển tiền trực tiếp (qua ngân hàng, bưu điện)

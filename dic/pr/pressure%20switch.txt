@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle áp suất
+@Lĩnh vực: hóa học & vật liệu
+#bộ ngắt dùng áp lực
+@Lĩnh vực: điện lạnh
+#công tắc áp lực
+#công tắc ép
+@Lĩnh vực: xây dựng
+#rơle áp lực

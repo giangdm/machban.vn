@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dữ liệu bằng số
+#dữ liệu số
+#số liệu
+@Lĩnh vực: toán & tin
+#dữ kiện bảng số
+@Lĩnh vực: xây dựng
+#số liệu bằng số

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#miệng ống xả phản lực
+#ống phun tia
+#vòi phun phản lực
+@Lĩnh vực: điện lạnh
+#mũi phun gió
+#mùi phun không khí
+#mũi thổi gió
+@Lĩnh vực: xây dựng
+#mũi phun không khí

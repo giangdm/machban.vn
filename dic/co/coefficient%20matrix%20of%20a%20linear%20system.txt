@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kinh tế
+#ma trận hệ số phương trình tuyến tính

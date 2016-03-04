@@ -1,0 +1,14 @@
+﻿@Foreign exchange
+#(Econ) Ngoại hối.
+: TIỀN hoặc các TRÁI PHIẾU sinh lời của một nước khác.
+@Chuyên ngành kinh tế
+#hối đoái
+#khoảng trống ngoại hối
+#ngoại hối
+#việc buôn bán ngoại hối
+#việc đổi ngoại tệ
+@Chuyên ngành kỹ thuật
+#đổi ngoại tệ
+#ngoại hối
+@Lĩnh vực: điện tử & viễn thông
+#tài sản ngoại tệ

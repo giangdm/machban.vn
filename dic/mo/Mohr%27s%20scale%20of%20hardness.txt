@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thang độ cứng Mohr
+@Lĩnh vực: xây dựng
+#thang Mo về độ cứng

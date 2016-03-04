@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khe phóng điện kiểu sừng
+#sừng chống sét
+@Lĩnh vực: điện
+#khe phóng điện sừng

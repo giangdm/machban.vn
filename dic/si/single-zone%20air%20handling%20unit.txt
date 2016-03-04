@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phòng điều hòa không khí một vùng
+#phòng điều không khí một vùng
+#tổ xử lý không khí một vùng

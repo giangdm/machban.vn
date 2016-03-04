@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#giá trị lõm
+@Lĩnh vực: điện lạnh
+#trị số đáy

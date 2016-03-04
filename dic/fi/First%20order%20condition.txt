@@ -1,0 +1,3 @@
+﻿@First order condition
+#(Econ) Điều kiện đạo hàm bậc I.
+: Nhìn chung, điều kiện này nói rằng các đạo hàm bậc nhất của HÀM MỤC TIÊU theo BIẾN LỰA CHỌN phải bằng 0 để xác định GIÁ TRỊ CỰC TRỊ.

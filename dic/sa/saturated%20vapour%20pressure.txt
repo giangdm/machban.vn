@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#áp suất hơi bão hòa
+@Chuyên ngành kỹ thuật
+#áp suất hơi bão hòa
+@Lĩnh vực: hóa học & vật liệu
+#áp lực hơi nước bão hòa

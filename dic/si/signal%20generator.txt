@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ cảm biến tín hiệu
+#bộ phát tín hiệu
+#bộ sinh tín hiệu
+#máy phát tín hiệu/ thiết bị kiểm tra dao động
+@Lĩnh vực: điện tử & viễn thông
+#bộ phát sinh tín hiệu
+@Lĩnh vực: toán & tin
+#bộ tạo tín hiệu
+#máy phát tín hiệu
+@Lĩnh vực: điện
+#máy phát sóng hiệu
+@Lĩnh vực: xây dựng
+#máy phát tần số

@@ -1,0 +1,5 @@
+﻿@general-purpose computer
+#(Tech) máy điện toán thường dụng
+@Chuyên ngành kỹ thuật
+#máy tính đa năng
+#máy tính vạn năng

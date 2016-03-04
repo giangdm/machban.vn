@@ -1,0 +1,13 @@
+﻿@binary digit
+#(Tech) số tự nhị phân (0 hoặc 1)
+@Chuyên ngành kinh tế
+#ký số nhị phân (máy điện toán)
+@Chuyên ngành kỹ thuật
+#bit
+#bít
+@Lĩnh vực: điện tử & viễn thông
+#con số nhị phân
+@Lĩnh vực: toán & tin
+#ký số nhị phân
+@Lĩnh vực: điện
+#số nhị phân

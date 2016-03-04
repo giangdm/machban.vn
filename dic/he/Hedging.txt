@@ -1,0 +1,8 @@
+﻿@Hedging
+#(Econ) Lập hàng rào.
+: Một hành động do người mua hoặc người bán thực hiện để tự bảo vệ thu nhập của mình khi có sự tăng giá xảy ra tong tương lai.
+@Chuyên ngành kinh tế
+#nghiệp vụ đối xứng
+#nghiệp vụ mua bán đắp bờ
+#nghiệp vụ mua bán rào
+#nghiệp vụ tự bảo hiểm

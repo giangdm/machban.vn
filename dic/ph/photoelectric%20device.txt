@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dụng cụ quang điện
+#linh kiện quang điện
+@Lĩnh vực: toán & tin
+#thiết bị quang điện

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mã lệnh
+#mã máy
+@Lĩnh vực: đo lường & điều khiển
+#mã chỉ thị

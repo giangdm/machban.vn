@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự kiểm tra chọn mẫu
+@Chuyên ngành kỹ thuật
+#sự kiểm tra lấy mẫu
+#sự thử lô

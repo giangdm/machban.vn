@@ -1,0 +1,7 @@
+﻿@automata theory
+#(Tech) lý thuyết (máy) tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#lý thuyết thiết bị tự động
+@Lĩnh vực: toán & tin
+#lý thuyết về người máy

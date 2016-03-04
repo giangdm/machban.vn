@@ -1,0 +1,2 @@
+﻿@conjugate attenuation coefficient
+#(Tech) hệ số suy giảm liên hợp

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chi phí lắng chìm
+#phí tổn chìm
+#phí tổn đã đầu tư
+#phí tổn đóng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#chi phí ngầm

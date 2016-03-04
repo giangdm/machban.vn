@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bậc tự do
+#các cấp độ tự do (số các giá trị để có thể chọn lựa tự do)
+#các mức độ của bậc tự do
+@Chuyên ngành kỹ thuật
+#bậc tự do

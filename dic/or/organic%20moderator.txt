@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#chất điều tiết hữu cơ
+@Lĩnh vực: vật lý
+#chất làm chậm hữu cơ

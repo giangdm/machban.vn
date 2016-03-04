@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#ẩn tì
+#vết hỏng ngầm
+@Chuyên ngành kỹ thuật
+#khuyết tật ẩn
+@Lĩnh vực: toán & tin
+#ẩn tỳ
+@Lĩnh vực: xây dựng
+#khuyết tật ẩn dấu

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thùng bảo quản
+@Chuyên ngành kỹ thuật
+#bể chứa
+#bình chứa
+@Lĩnh vực: điện lạnh
+#tăng bảo quản
+#thùng bảo quản

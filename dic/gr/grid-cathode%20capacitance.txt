@@ -1,0 +1,5 @@
+﻿@grid-cathode capacitance
+#(Tech) điện dung lưới âm cực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện dung catốt-lưới

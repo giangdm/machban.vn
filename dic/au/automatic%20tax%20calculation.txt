@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự tính thuế tự động
+@Lĩnh vực: điện tử & viễn thông
+#tính cước tự động

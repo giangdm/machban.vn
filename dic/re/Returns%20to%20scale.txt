@@ -1,0 +1,6 @@
+﻿@Returns to scale
+#(Econ) Lợi tức theo quy mô.
+: Là tỷ lệ mà theo đó sản lượng thay đổi khi số lượng của tất cả các đầu vào thay đổi.
+@Chuyên ngành kinh tế
+#thu lợi theo quy mô
+#thu nhập theo quy mô

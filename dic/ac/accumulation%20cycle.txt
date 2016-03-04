@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chu kỳ tích lũy
+@Lĩnh vực: toán & tin
+#chu trình tích lũy

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tình trạng bay
+#trạng thái bay
+@Lĩnh vực: điện tử & viễn thông
+#tình trạng chuyến bay
+#trình tự chuyến bay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tình trạng bay
+#trạng thái bay
+@Lĩnh vực: điện tử & viễn thông
+#tình trạng chuyến bay
+#trình tự chuyến bay

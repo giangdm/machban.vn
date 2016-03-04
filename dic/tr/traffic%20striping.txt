@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vạch chỉ trục đường
+#vạch dấu các phần đường
+#vạch dòng xe chạy

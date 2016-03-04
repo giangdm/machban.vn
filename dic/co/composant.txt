@@ -1,0 +1,6 @@
+﻿@composant
+#bộ phận hợp thành, thành phần
+@Chuyên ngành kỹ thuật
+#thành phần
+@Lĩnh vực: toán & tin
+#bộ phận hợp thành

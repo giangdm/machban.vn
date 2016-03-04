@@ -1,0 +1,10 @@
+﻿@Cheque card
+#(Econ) Thẻ séc.
+: Thẻ do các ngân hàng cấp cho các khách hàng có TÀI KHOẢN vãng lai để đảm bảo việc thanh toán séc đựơc rút bởi các khách hàng này theo những giới hạn nhất định.
+@Chuyên ngành kinh tế
+#thẻ chi phiếu
+#thẻ séc
+<!-- more -->
+@cheque card
+*danh từ
+#thẻ séc

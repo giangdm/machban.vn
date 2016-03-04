@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy nghiền bi
+@Chuyên ngành kỹ thuật
+#máy nghiền bi
+#máy nghiền kiểu bi
+@Lĩnh vực: hóa học & vật liệu
+#máy xay hình cầu

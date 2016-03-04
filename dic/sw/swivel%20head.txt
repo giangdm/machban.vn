@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu rơvonve
+@Lĩnh vực: hóa học & vật liệu
+#đầu quay
+@Lĩnh vực: cơ khí & công trình
+#đầu xoay

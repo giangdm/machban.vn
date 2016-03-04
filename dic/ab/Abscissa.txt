@@ -1,0 +1,12 @@
+﻿@Abscissa
+#(Econ) Hoành độ
+: Giá trị trên trục hoành (trục X) của một điểm trên đồ thị hai chiều.
+<!-- more -->
+@abscissa /æb'sisə/
+*danh từ,  số nhiều abscissae
+#(như) absciss
+@Chuyên ngành kỹ thuật
+#hoành độ
+#trục hoành
+@Lĩnh vực: điện tử & viễn thông
+#độ hoành

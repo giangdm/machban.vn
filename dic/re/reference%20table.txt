@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng tham chiếu
+@Lĩnh vực: cơ khí & công trình
+#băng chuyển đổi (đơn vị đo)
+#băng tra cứu

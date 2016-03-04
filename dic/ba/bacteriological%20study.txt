@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự nghiên cứu vi khuẩn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nghiên cứu vi khuẩn
+@Lĩnh vực: điện lạnh
+#sự nghiên cứu vi khuẩn
+#vi khuẩn học

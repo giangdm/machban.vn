@@ -1,0 +1,6 @@
+﻿@graphics adaptor
+#(Tech) bộ thích ứng/tiếp hợp đồ họa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ thích ứng đồ họa
+#bộ tương hợp đồ họa

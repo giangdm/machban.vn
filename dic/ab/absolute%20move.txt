@@ -1,0 +1,2 @@
+﻿@absolute move
+#(Tech) di chuyển tuyệt đối

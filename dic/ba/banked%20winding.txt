@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#quấn thành lớp
+@Lĩnh vực: điện
+#nhóm cuộn dây

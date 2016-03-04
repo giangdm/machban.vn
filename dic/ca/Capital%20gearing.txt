@@ -1,0 +1,7 @@
+﻿@Capital gearing
+#(Econ) Tỷ trọng vốn vay
+: Xem GEARING.
+@Chuyên ngành kinh tế
+#sự tác động vốn
+#tỉ trọng vốn vay
+#tỷ số vốn vay

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sức đẩy
+#sức nén
+@Lĩnh vực: vật lý
+#lực đẩy hướng trục
+@Lĩnh vực: cơ khí & công trình
+#tải trọng hướng trục

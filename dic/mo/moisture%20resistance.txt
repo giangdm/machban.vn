@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#độ bền ẩm
+#tính không thấm nước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cản trở ẩm
+#trở ẩm
+#trở kháng ẩm
+@Lĩnh vực: xây dựng
+#tính chịu ẩm

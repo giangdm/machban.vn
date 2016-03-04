@@ -1,0 +1,14 @@
+﻿@electronic mailbox
+#(Tech) hộp thư điện tử
+@Chuyên ngành kinh tế
+#hộp thư điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ phận người dùng
+@Lĩnh vực: toán & tin
+#hộp thư điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ phận người dùng
+@Lĩnh vực: toán & tin
+#hộp thư điện tử

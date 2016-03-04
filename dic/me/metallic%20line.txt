@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dây kim loại
+@Lĩnh vực: điện lạnh
+#mạch dẫn kim loại

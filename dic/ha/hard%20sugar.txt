@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#đường cứng (các tinh thể to)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#đường cứng

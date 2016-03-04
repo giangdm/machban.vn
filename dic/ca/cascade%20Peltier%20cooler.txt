@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ làm lạnh nhiệt ghép tầng
+#bộ làm lạnh Peltier ghép tầng

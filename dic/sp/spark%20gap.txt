@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ phóng điện
+#khe đánh lửa
+#khe hở bougie
+#khe phóng điện
+#khoảng cách điện cực
+@Lĩnh vực: điện
+#khe điện cực
+#khoảng hở phóng hồ quang

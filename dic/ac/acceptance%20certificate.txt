@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giấy chứng nhận bàn giao
+@Chuyên ngành kỹ thuật
+#bản báo cáo nghiệm thu
+#biên bản nghiệm thu
+#giấy chứng nhận nghiệm thu
+@Lĩnh vực: xây dựng
+#sự xác nhận nghiệm thu

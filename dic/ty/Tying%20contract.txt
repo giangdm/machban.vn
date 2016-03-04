@@ -1,0 +1,10 @@
+﻿@Tying contract
+#(Econ) Hợp đồng bán kèm.
+: Một điều kiện bán hàng đòi hỏi người mua một sản phẩm nào đó phải mua thêm một sản phẩm khác, thường là bổ sung cho sản phẩm đầu tiên.
+@Chuyên ngành kinh tế
+#hợp đồng bán có điều kiện
+#hơp đồng bán kèm
+#hợp đồng bán kèm
+#hợp đồng cột chặt
+#hợp đồng ràng buộc
+#hợp đồng ước thúc

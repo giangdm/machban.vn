@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bitum cứng
+@Lĩnh vực: xây dựng
+#atfan cứng
+@Lĩnh vực: hóa học & vật liệu
+#atphan cứng

@@ -1,0 +1,2 @@
+﻿@correlation factor
+#(Tech) hệ số tương quan

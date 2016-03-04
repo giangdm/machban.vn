@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bề dày màng
+@Lĩnh vực: điện lạnh
+#chiều dày lớp màng
+@Lĩnh vực: hóa học & vật liệu
+#độ dày màng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bề dày màng
+@Lĩnh vực: điện lạnh
+#chiều dày lớp màng
+@Lĩnh vực: hóa học & vật liệu
+#độ dày màng

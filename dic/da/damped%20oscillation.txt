@@ -1,0 +1,4 @@
+﻿@damped oscillation
+#(Tech) dao động suy giảm
+@Chuyên ngành kỹ thuật
+#dao động tắt dần

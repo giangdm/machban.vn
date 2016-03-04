@@ -1,0 +1,4 @@
+﻿@computer image processing
+#(Tech) xử lý hình ảnh bằng máy điện toán
+@Chuyên ngành kỹ thuật
+#xử lý ảnh bằng máy tính

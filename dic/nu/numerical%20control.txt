@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#kiểm soát về số lượng
+@Chuyên ngành kỹ thuật
+#điều khiển số
+#sự điều khiển số
+@Lĩnh vực: toán & tin
+#điều chỉnh số trị
+#sự điều khiển bằng số
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển bằng số
+@Lĩnh vực: cơ khí & công trình
+#sự điều khiển (bằng) số

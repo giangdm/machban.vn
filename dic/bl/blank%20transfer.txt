@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giấy chuyển nhượng để trống
+#giấy chuyển nhượng khống chỉ
+@Chuyên ngành kỹ thuật
+#sự chuyển bán thành phẩm

@@ -1,0 +1,2 @@
+﻿@EXOR gate = EXCLUSIVE OR
+#(Tech) cổng HOẶC ĐỐI, cổng EXOR

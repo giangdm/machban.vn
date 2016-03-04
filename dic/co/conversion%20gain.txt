@@ -1,0 +1,11 @@
+﻿@conversion gain
+#(Tech) tăng ích hoán đổi
+@Chuyên ngành kỹ thuật
+#sự biến đổi
+#sự biến hoán
+#sự chế tạo lại
+#sự chuyển đổi
+#sự mã hóa
+#sự sửa đổi
+@Lĩnh vực: điện
+#sự biến đổi dòng điện

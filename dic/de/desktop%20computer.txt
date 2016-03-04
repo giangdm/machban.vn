@@ -1,0 +1,7 @@
+﻿@desktop computer
+#(Tech) máy điện toán để bàn
+@Chuyên ngành kinh tế
+#máy vi tính để bàn
+@Chuyên ngành kỹ thuật
+#máy tính để bàn
+#máy tính văn phòng

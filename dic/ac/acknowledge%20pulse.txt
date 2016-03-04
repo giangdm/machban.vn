@@ -1,0 +1,2 @@
+﻿@acknowledge pulse
+#(Tech) xung báo nhận

@@ -1,0 +1,68 @@
+﻿@Bias
+#(Econ) Độ lệch.
+: Mức độ mà giá trị kỳ vọng của một ĐOÁN SỐ (ƯỚC LƯỢNG SỐ) khác so với giá trị tham số thực của nó. Xem (BEST LINEAR UNBIASED ESTIMATOR).
+<!-- more -->
+@bias /'baiəs/
+*danh từ
+#độ xiên, dốc, nghiêng
+#đường chéo
+=to cut on the bias: cắt chéo (vải)
+#(nghĩa bóng) khuynh hướng, sự thiên về; thành kiến
+=to have a bias in favour of something: có khuynh hướng thiên về cái gì
+=to bias towards someone: thiên vị đối với ai
+=to have a bias against someone: thành kiến đối với ai
+#(vật lý) thế hiệu dịch
+=automatic bias: thế hiệu dịch tự động
+*phó từ
+#xiên, nghiêng
+#chéo theo đường chéo
+*ngoại động từ
+#hướng
+=to the opinions of the people: hướng dư luận của quần chúng
+#gây thành kiến
+=to be bias (s)ed against somebody: có thành kiến đối với ai
+#ảnh hưởng đến (thường là xấu)
+@Chuyên ngành kinh tế
+#chệch
+#độ xiên
+#đường chéo
+#khuynh hướng
+#sự chệch
+@Chuyên ngành kỹ thuật
+#dịch chuyển
+#điện áp lệch
+#độ chênh
+#độ dịch chuyển từ
+#độ dốc
+#độ lệch
+#độ lệch (cơ)
+#độ nghiêng
+#đường chéo
+#nghiêng
+#phân cực
+#sai số hệ thống
+#sự dịch
+#sự dịch chuyển
+#sự dời chỗ
+#sự khử méo
+#sự lệch
+#sự nghiêng
+#sự xê dịch
+#xiên
+@Lĩnh vực: điện
+#có đặc tính nghiêng
+#lực định vị rơle
+#sự phân cực
+@Lĩnh vực: điện lạnh
+#định thời khoảng (ở phần ứng rơle)
+@Lĩnh vực: toán & tin
+#độ chệch
+@Lĩnh vực: cơ khí & công trình
+#độ xiên
+@Lĩnh vực: hóa học & vật liệu
+#thế hiệu dịch
+<!-- more -->
+@bias
+#(thống kê) độ chênh lệch, sai số hệ thống rời, dịch chuyển
+#downwarrd b. (thống kê) chệch xuống dưới, chệch thấp đi
+#grid b. sự dịch chuyển lưới

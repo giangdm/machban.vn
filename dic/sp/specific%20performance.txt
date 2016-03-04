@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự thi hành cụ thể (nghĩa vụ hợp đồng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#hiệu suất cụ thể

@@ -1,0 +1,6 @@
+﻿@frequency agility
+#(Tech) tính linh động tần số
+@Chuyên ngành kỹ thuật
+#độ linh động tần số
+@Lĩnh vực: điện tử & viễn thông
+#độ nhạy tần số

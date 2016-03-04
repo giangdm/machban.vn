@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ cách ly đàn hồi
+#khớp trục linh hoạt
+#khớp trục mềm

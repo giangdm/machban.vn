@@ -1,0 +1,2 @@
+﻿@fixed-radix notation
+#(Tech) ký hiệu cơ số cố định

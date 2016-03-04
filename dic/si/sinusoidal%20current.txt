@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dòng dạng sin
+#dòng điện điều hòa đơn
+@Lĩnh vực: y học
+#dòng điện hình sin

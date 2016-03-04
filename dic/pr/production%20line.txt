@@ -1,0 +1,13 @@
+﻿@production line
+*danh từ
+#dây chuyền sản xuất
+@Chuyên ngành kinh tế
+#dây chuyền lắp ráp, dây chuyền sản xuất
+#dây chuyền sản phẩm
+@Chuyên ngành kỹ thuật
+#dây chuyền lắp ráp
+#dây chuyền sản xuất
+@Lĩnh vực: xây dựng
+#dây chuyền công nghệ
+@Lĩnh vực: toán & tin
+#dây truyền

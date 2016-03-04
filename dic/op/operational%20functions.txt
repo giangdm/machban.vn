@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chức năng hoạt động
+@Lĩnh vực: xây dựng
+#chức năng vận hành

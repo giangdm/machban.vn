@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chi phí chung
+#chi phí điều hành
+@Chuyên ngành kỹ thuật
+#chi phí toàn bộ

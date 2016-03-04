@@ -1,0 +1,9 @@
+﻿@mean solar time ['mi:n,soulə'taim]
+*danh từ
+# như mean time
+@Chuyên ngành kỹ thuật
+#giờ thiên văn
+@Lĩnh vực: toán & tin
+#giờ mặt trời trung bình
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu mặt trời trung bình

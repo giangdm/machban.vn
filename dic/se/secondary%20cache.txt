@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ lưu trữ thứ cấp
+#cạc lưu thứ cấp
+#cache thứ cấp

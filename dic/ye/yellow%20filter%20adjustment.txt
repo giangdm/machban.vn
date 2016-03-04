@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự điều chỉnh lọc màu vàng
+#sự điều chỉnh màu lơ

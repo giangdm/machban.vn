@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#luân lưu
+#luân phiên công tác
+#luân phiên việc làm
+@Chuyên ngành kỹ thuật
+#sự luân phiên công việc
+#sự quay vòng công việc

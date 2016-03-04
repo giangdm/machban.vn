@@ -1,0 +1,45 @@
+﻿@Need
+#(Econ) Nhu cầu.
+: Đôi khi người ta lập luận rằng trong một thị trường tự do, các cá nhân sẽ không có cầu đối với một số hàng hoá nào đó nhiều đến mức mà xã hội hay cộng đồng cho là họ cần phải tiêu dùng.
+<!-- more -->
+@need /ni:d/
+*danh từ
+#sự cần
+=if need be: nếu cần
+=in case of need: trong trường hợp cần đến
+=there is no need to hury: không cần gì phải vội
+=to have of something; to stand (to be) in need of something: cần cái gì
+#tình cảnh túng thiếu; lúc khó khăn, lúc hoạn nạn
+=to feel the pinch of need: cảm thấy sự gieo neo của túng thiếu
+#thứ cần dùng nhu cầu
+=can earn enough to satisfy one's needs: có thể kiến đủ để thoả mãn tất cả những nhu cầu cho cuộc sống của mình
+#(số nhiều) sự đi ỉa, sự đi đái
+=to do one's needs: đi ỉa, đi đái
+*ngoại động từ
+#cần, đòi hỏi
+=do you need any help?: anh có cần sự giúp đỡ không?
+=this question needs a reply: câu hỏi này đòi hỏi phải được trả lời
+=this house needs repair: cái nhà này cần sửa chữa
+*nội động từ
+#cần
+=every work needs to be dome with care: mọi việc đều cần được làm cẩn thận
+=you need not have taken tje trouble to bring the letter: đáng lẽ anh không cần phải mang bức thư đến
+=I come?: tôi có cần đến không?
+*nội động từ (từ cổ,nghĩa cổ)
+#cần thiết
+=it needs not: cái đó không cần thiết
+#lâm vào cảnh túng quẫn; gặp lúc hoạn nạn
+@Chuyên ngành kinh tế
+#cần
+#cần thiết
+#nhu cầu
+#nhu yêú
+#sự cần thiết
+@Chuyên ngành kỹ thuật
+#cần
+#cần, phải
+#nhu cầu
+#phải
+<!-- more -->
+@need
+#cần phải

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#điều kiện phụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều kiện phụ

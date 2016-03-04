@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ vạch dấu bề mặt
+#cây kẻ dấu
+#mũi vạch dấu song song
+@Lĩnh vực: toán & tin
+#cây kẻ ghi dấu
+@Lĩnh vực: xây dựng
+#dụng cụ vạch ký hiệu
+#vạch chỉ trên mặt đường

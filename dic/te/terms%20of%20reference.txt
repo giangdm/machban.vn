@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#phạm vi tham chiếu
+#phạm vi thẩm quyền điều tra
+#thẩm quyền (của ủy ban, của trọng tài ...)
+#thẩm quyền (của ủy ban, của trọng tài)
+@Chuyên ngành kỹ thuật
+#đề cương
+@Lĩnh vực: giao thông & vận tải
+#điều khoản tham chiếu

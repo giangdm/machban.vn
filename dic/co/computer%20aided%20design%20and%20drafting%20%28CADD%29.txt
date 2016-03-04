@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết kế và vẽ bằng máy tính
+#thiết kế và vẽ có máy tính hỗ trợ

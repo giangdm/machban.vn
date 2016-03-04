@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#số kho
+#sổ kho
+#sổ kiểm kê hàng trong kho
+#số kiểm kê trong kho

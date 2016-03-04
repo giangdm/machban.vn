@@ -1,0 +1,3 @@
+﻿@One tail tests
+#(Econ) Kiểm định một đuôi.
+: Là những kiểm định giả thiết trong đó phép định hướng được áp dụng cho giả thiết đối.

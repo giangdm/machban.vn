@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle
+@Lĩnh vực: xây dựng
+#rơle áp lực khí
+@Lĩnh vực: điện
+#rơle hơi
+#rơle khí

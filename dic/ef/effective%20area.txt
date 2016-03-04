@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#diện tích có ích
+#diện tích làm việc
+#mặt làm việc
+@Lĩnh vực: toán & tin
+#diện tích hiệu dụng
+#diện tích hữu hiệu
+@Lĩnh vực: điện lạnh
+#tầm máy phát
+#vùng hiệu dụng
+@Lĩnh vực: hóa học & vật liệu
+#vùng ảnh hưởng
+@Lĩnh vực: điện tử & viễn thông
+#vùng tương đương bề mặt
+#vùng tương đương điện tích

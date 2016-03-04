@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#không khí hút
+#không khí hút vào
+#không khí vào
+@Lĩnh vực: điện lạnh
+#không khí lấy vào

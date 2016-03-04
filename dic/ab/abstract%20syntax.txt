@@ -1,0 +1,5 @@
+﻿@abstract syntax
+#(Tech) cú pháp trừu tượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cú pháp trừu tượng

@@ -1,0 +1,2 @@
+﻿@GB code, Guobiao code
+#(Tech) bộ mã chữ Hán tiêu chuẩn quốc gia Trung Quốc (Quốc Biểu)

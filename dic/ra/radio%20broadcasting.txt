@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phát thanh
+@Lĩnh vực: điện
+#hệ vô tuyến truyền thanh
+@Lĩnh vực: toán & tin
+#sự phát thanh vô tuyến

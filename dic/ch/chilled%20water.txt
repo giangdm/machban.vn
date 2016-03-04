@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#nước được làm lạnh
+#nước lạnh
+@Lĩnh vực: hóa học & vật liệu
+#nước đã được làm lạnh
+@Lĩnh vực: điện lạnh
+#nước đã làm lạnh
+@Lĩnh vực: y học
+#nước mát

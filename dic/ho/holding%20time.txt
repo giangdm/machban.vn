@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thời gian chiếm giữ
+@Lĩnh vực: điện lạnh
+#thời gian duy trì
+#thời gian giữ

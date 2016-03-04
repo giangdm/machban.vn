@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#giấy kẻ li
+#giấy kẻ ly
+#giấy kẻ ô vuông
+#giấy vẽ đồ thị
+@Lĩnh vực: hóa học & vật liệu
+#giấy tỉ lệ
+@Lĩnh vực: xây dựng
+#giấy tọa độ tỉ lệ

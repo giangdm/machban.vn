@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#rơle electron nhiệt
+@Lĩnh vực: điện lạnh
+#rơle nhiệt điện tử

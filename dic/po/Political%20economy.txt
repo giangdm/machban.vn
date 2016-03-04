@@ -1,0 +1,10 @@
+﻿@Political economy
+#(Econ) Kinh tế chính trị.
+: Cụm thuật ngữ bao hàm mối liên quan giữa khía cạnh thực tiễn của hoạt động chính trị và lý thuyết kinh tế học thuần tuý.
+@Chuyên ngành kinh tế
+#kinh tế chính trị học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kinh tế chính trị
+@Lĩnh vực: xây dựng
+#kinh tế chính trị học

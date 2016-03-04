@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp bị cảm ứng
+#điện áp cảm ứng
+@Lĩnh vực: điện
+#điện áp thụ cảm
+@Lĩnh vực: xây dựng
+#điện thế cảm ứng
+@Lĩnh vực: toán & tin
+#điện thế ứng

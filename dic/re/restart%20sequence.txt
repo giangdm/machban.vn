@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chuỗi thao tác khai hỏa lại (động cơ tên lửa)
+#chuỗi thao tác khởi động lại (động cơ tên lửa)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thư tín dụng có kì hạn
+#thư tín dụng có kỳ hạn
+#tín dụng thư có kỳ hạn (ngắn hạn)

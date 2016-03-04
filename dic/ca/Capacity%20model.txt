@@ -1,0 +1,3 @@
+﻿@Capacity model
+#(Econ) Mô hình công năng.
+: Mô hình giải thích sự tỷ lệ đầu tư có quan hệ mật thiết với mô hình GIA TỐC và đặc biệt với mô hình ĐIỀU CHỈNH LƯỢNG VỐN.

@@ -1,0 +1,66 @@
+﻿@steady /'stedi/
+*tính từ
+#vững, vững chắc, vững vàng
+=steady as a rock: vững như bàn thạch
+#điều đặn, đều đều
+=to go at a steady pace: đi đều bước
+=to require a steady light: cần ánh sáng đều
+=a steady rise in prices: giá cả cứ lên đều đều
+=a steady gaze: cái nhìn chằm chằm không rời
+#kiên định, không thay đổi
+=to be steady in one's principles: kiên định trong nguyên tắc
+#vững vàng, bình tĩnh, điềm tĩnh
+=steady nerves: tinh thần vững vàng, cân não vững vàng
+#đứng đắn, chính chắn
+#steady!
+#hãy bình tĩnh!, không nên vội vã!
+#steady on!
+#thôi! dừng lại!
+#keep her steady!
+#(hàng hải) hãy giữ hướng đầu tàu!, không đổi hướng đầu tàu!
+*ngoại động từ
+#làm cho vững, làm cho vững chắc, làm cho vững vàng
+=to steady a table: chêm bàn cho vững
+#làm cho kiên định
+=hatred will steady him: lòng căm thù sẽ làm cho anh ta kiên định
+*nội động từ
+#trở nên vững vàng, trở nên vững chắc
+#trở nên kiên định
+*danh từ
+#(kỹ thuật) bệ bỡ
+#(từ Mỹ,nghĩa Mỹ),  (thông tục) người yêu chính thức
+@Chuyên ngành kinh tế
+#bình ổn
+#củng cố
+#đều
+#đều đặn
+#được ổn định
+#được ổn định, trở nên ổn định
+#không dao động
+#làm cho ổn định
+#làm cho vững chắc
+#ổn định
+#ổn định, bình ổn, không dao động
+#trở nên ổn định, củng cố
+#vững
+#vững chắc
+@Chuyên ngành kỹ thuật
+#bền vững
+#cân bằng
+#chặt
+#cứng
+#đều
+#giá đỡ
+#không đổi
+#lunét đỡ
+#ổn định
+#vững
+#vững chắc
+@Lĩnh vực: cơ khí & công trình
+#đỡ (bằng kích)
+#kính đỡ
+@Lĩnh vực: toán & tin
+#ổn định, vững
+<!-- more -->
+@steady
+#ổn định

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#núm khởi động lại
+#phím khởi động lại
+#phím reset
+#phím tái thiết lập

@@ -1,0 +1,10 @@
+﻿@cross section
+#(Tech) mặt cắt, tiết diện
+@Chuyên ngành kỹ thuật
+#mặt cắt
+#mặt cắt hiệu dụng
+#mặt cắt ngang
+#tiết diện
+#tiết diện ngang
+@Lĩnh vực: xây dựng
+#tiết điện

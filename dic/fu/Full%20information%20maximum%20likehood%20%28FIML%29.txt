@@ -1,0 +1,3 @@
+﻿@Full information maximum likehood (FIML)
+#(Econ) Ước lượng khả năng cực đại khi có đủ thông tin.
+: Một kỹ thuật ước lượng hệ thống các phương trình đồng thời, tuyến tính hay phi tuyến tính. Xem maximum likehood.

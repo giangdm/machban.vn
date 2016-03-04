@@ -1,0 +1,4 @@
+﻿@geoidal
+*tính từ
+#thuộc thể địa cầu
+#thuộc geoit

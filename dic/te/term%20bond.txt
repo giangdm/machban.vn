@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#trái khoán có kỳ hạn duy nhất, cố định
+#trái phiếu định kỳ (dài hạn)

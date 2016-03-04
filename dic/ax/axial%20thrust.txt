@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực hướng trục
+#lực chiều trục
+#lực dọc trục
+@Lĩnh vực: cơ khí & công trình
+#bạc lót dọc trục

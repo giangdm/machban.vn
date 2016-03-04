@@ -1,0 +1,6 @@
+﻿@silent partner
+#người cộng tác đầu tư vào một công ty kinh doanh nhưng không làm việc thật sự ở đó
+@Chuyên ngành kinh tế
+#hội viên không hoạt động
+#hội viên xuất vốn, hùn vốn, ẩn danh, nặc danh
+#người chung vốn thầm lặng

@@ -1,0 +1,2 @@
+﻿@frequency domain synthesis
+#(Tech) sự tổng hợp vùng tần số

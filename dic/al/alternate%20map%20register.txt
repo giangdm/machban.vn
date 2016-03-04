@@ -1,0 +1,2 @@
+﻿@alternate map register
+#(Tech) bộ ghi bảng đối ứng thay thế [điện toán] [NB]

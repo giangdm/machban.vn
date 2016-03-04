@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự tạo ra lớp băng trên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#làm lạnh bằng đá vụn

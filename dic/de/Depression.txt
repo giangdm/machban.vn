@@ -1,0 +1,57 @@
+﻿@Depression
+#(Econ) Tình trạng suy thoái.
+: Xem Slump.
+<!-- more -->
+@depression /di'preʃn/
+*danh từ
+#chỗ lõm, chỗ đất lún, chỗ sụt xuống
+#sự chán nản, sự ngã lòng; sự buồn rầu, sự phiền muộn
+#tình trạng đình đốn, tình trạng trì trệ, tình trạng đình trệ
+#sự suy yếu, sự suy nhược, sự sút kém (về thể lực)
+#sự giảm giá, sự sụt giá
+#sự nén xuống, sự đẩy xuống, sự hạ xuống
+#sự hạ (giọng)
+#(vật lý),  (toán học) sự giảm, sự hạ thấp
+=the depression of mercury in a thermometer: sự hạ thuỷ ngân trong nhiệt biểu
+=depression of order of differential equation: sự giảm cấp của một phương trình vi phân
+#(thiên văn học) góc nổi, phù giác
+@Chuyên ngành kinh tế
+#Cuộc đại suy thoái trong Thập niên 30
+@Chuyên ngành kinh tế
+#chân không
+#sự giảm
+#sự hạ
+#suy thoái
+#tiêu điều
+@Chuyên ngành kỹ thuật
+#áp suất âm
+#áp suất thấp
+#chỗ lõm
+#giảm áp
+#hố
+#hốc
+#miền trũng
+#rãnh
+#sự giảm
+#sự giảm áp
+#sự hạ
+#sự hạ thấp
+#trầm cảm
+#trũng
+@Lĩnh vực: điện lạnh
+#chỗ thấp
+@Lĩnh vực: giao thông & vận tải
+#đình trệ
+#vùng áp thấp
+@Lĩnh vực: xây dựng
+#sự hạ (giếng)
+#sự lún sụt
+@Lĩnh vực: toán & tin
+#sự suy thoái
+@Lĩnh vực: hóa học & vật liệu
+#sụt lún
+<!-- more -->
+@depression
+#sự giảm, sự hạ; vlđc. miền áp suất thấp; (toán kinh tế) sự suy thoái
+#d. of order (of differential equation) sự giảm cấp (của một phương
+#trình vi phân)

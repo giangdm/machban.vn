@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#quyền mua trước
+#quyền thu mua (của hải quan)
+#quyền ưu tiên trước

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hiệu suất kênh
+@Lĩnh vực: cơ khí & công trình
+#hiệu suất lòng dẫn

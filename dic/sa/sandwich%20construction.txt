@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#kết cấu hỗn hợp
+@Lĩnh vực: cơ khí & công trình
+#cấu trúc nhiều lớp
+@Lĩnh vực: xây dựng
+#kết cấu có nhiều lớp (có lớp độn ở giữa)
+#kết cấu nhiều lớp (có lớp độn ở giữa)

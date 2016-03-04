@@ -1,0 +1,5 @@
+﻿@bread board
+#(Tech) bảng thử (mạch điện), mạch điện thí nghiệm
+@Chuyên ngành kỹ thuật
+#bản mẫu
+#tấm đế

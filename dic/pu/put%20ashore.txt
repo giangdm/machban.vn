@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#cho người lên bờ
+#đưa lên bờ (hành khách)
+#đưa người vào bờ

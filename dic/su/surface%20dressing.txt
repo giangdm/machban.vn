@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp áo đường
+#lớp phủ
+#sự gia công bề mặt
+#sự lát mặt
+@Lĩnh vực: xây dựng
+#lớp mặt (đường)
+#sự làm sạch bề mặt
+#sự ốp bề mặt
+@Lĩnh vực: hóa học & vật liệu
+#xử lý bề mặt

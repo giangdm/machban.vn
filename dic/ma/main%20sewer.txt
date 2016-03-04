@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#nơi gom nước thải chính
+#ống thoát nước chính
+@Lĩnh vực: xây dựng
+#cống chính
+#cống ngầm chính
+#cống thoát nước chính
+#đường cống thải nước chính
+#đường ống thoát nước chính

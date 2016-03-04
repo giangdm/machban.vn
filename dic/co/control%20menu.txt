@@ -1,0 +1,7 @@
+﻿@control menu
+#(Tech) đơn chọn điều khiển
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thực đơn khiển
+@Lĩnh vực: toán & tin
+#trình đơn điều khiển

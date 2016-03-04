@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tay lái
+@Lĩnh vực: ô tô
+#đòn quay
+@Lĩnh vực: cơ khí & công trình
+#then đòn dẫn hướng

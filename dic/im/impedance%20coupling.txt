@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ghép tổng trở
+@Lĩnh vực: điện lạnh
+#ghép trở kháng
+@Lĩnh vực: toán & tin
+#phép tổng trở
+@Lĩnh vực: điện
+#sự ghép trở kháng

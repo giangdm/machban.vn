@@ -1,0 +1,7 @@
+﻿@Estate economy
+#(Econ) Nền kinh tế đồn điền.
+: Thuật ngữ nói về một khu vực hay toàn bộ nền kinh tế ở một nước chậm phát triển được sử dụng để sản xuất đại quy mô lớn nông sản xuất khẩu, thường do các thế lực nước ngoài sở hữu hoặc quản lý; nền kinh tế này rất phổ biến trong thời kỳ thuộc địa.
+@Chuyên ngành kinh tế
+#nền kinh tế đồn điền
+#nền kinh tế ruộng đất
+#nền kinh tế ruộng đất (của nước nông nghiệp...)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#công tơ tĩnh điện
+#máy đo tĩnh điện

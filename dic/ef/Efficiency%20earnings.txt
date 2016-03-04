@@ -1,0 +1,6 @@
+﻿@Efficiency earnings
+#(Econ) Thu nhập hiệu quả.
+: Thu nhập trên một ĐƠN VỊ HIỆU QUẢ. Khi các nhà kinh tế học nói về khuynh hướng cạnh tranh để cân bằng thu nhập trên cùng một THỊ TRƯỜNG LAO ĐỘNG TRONG NƯỚC nghĩa là họ muốn nói đến thu nhập hiệu qủa.
+@Chuyên ngành kinh tế
+#thu nhập hiệu quả
+#thu nhập hiệu quả (thu nhập theo đơn vị hiệu quả)

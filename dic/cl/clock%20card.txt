@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thẻ tính giờ (làm việc)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bảng đồng hồ kiểm tra

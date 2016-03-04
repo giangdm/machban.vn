@@ -1,0 +1,6 @@
+﻿@Visible balance
+#(Econ) Cán cân hữu hình.
+: Phần của tài khoản vãng lai của một báo cáo về cán cân thanh toán cho biết quan hệ giữa gía trị hàng hoá vật chất xuất khẩu và hàng hoá vật chất nhập khẩu.
+@Chuyên ngành kinh tế
+#cán cân hữu hình
+#cán cân mậu dịch hữu hình

@@ -1,0 +1,10 @@
+﻿@Analysis of variance
+#(Econ) ANOVA - Phân tích phương sai
+: Phân chia độ biến động tổng thể trong một biến số phụ thuộc (với độ biến động tổng thể được định nghĩa là tổng của bình phương của các độ lệch so với trung bình của biến) thành các cấu thành được tính cho biến động của các biến số riêng hay NHÓM BIẾn GIẢI THÍCH  và những biến không được giải thích hay biến động DƯ/
+@Chuyên ngành kinh tế
+#phân tích phương sai
+#phân tích phương sai (trong thống kê học)
+@Chuyên ngành kỹ thuật
+#phân tích phương sai
+@Lĩnh vực: toán & tin
+#phân tích sự biến đổi

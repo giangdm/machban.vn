@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn dây cuốn chập đôi
+#cuộn dây không cảm ứng

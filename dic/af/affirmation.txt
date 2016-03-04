@@ -1,0 +1,17 @@
+﻿@affirmation /,æfə:'meiʃn/
+*danh từ
+#sự khẳng định, sự xác nhận; sự quả quyết
+#lời khẳng định, lời xác nhận; lời quả quyết
+#(pháp lý) sự xác nhận; sự phê chuẩn
+@Chuyên ngành kinh tế
+#sự khẳng định
+#sự xác nhận
+#xác nhận phê chuẩn
+@Chuyên ngành kỹ thuật
+#sự xác nhận
+@Lĩnh vực: toán & tin
+#điều khẳng định
+#sự khẳng định
+<!-- more -->
+@affirmation
+#sự khẳng định, điều khẳng định

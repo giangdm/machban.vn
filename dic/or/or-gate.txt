@@ -1,0 +1,5 @@
+﻿@or-gate
+#sơ đồ [&quot;hay là&quot;, &quot;hoặc&quot;]
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cổng (lôgic) OR

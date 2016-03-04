@@ -1,0 +1,9 @@
+﻿@Re-export
+#(Econ) Hàng tái xuất.
+: Là hàng được nhập từ một nước sang một nước khác nhưng không được tiêu thụ ở nước nhập hàng đó mà được xuất tới một nước thứ ba.
+<!-- more -->
+@re-export /'ri:eks'pɔ:t/
+*ngoại động từ
+#xuất khẩu lại (một mặt hàng)
+@Chuyên ngành kinh tế
+#sự tái xuất khẩu (hàng đã nhập)

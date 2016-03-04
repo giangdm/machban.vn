@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị lạnh trung gian
+@Chuyên ngành kỹ thuật
+#bình làm lạnh trung gian
+#bộ làm mát trung gian

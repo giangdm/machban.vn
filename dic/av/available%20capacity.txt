@@ -1,0 +1,6 @@
+﻿@available capacity
+#(Tech) dung lượng có sẵn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dung lượng khả dụng
+#dung lượng sẵn sàng

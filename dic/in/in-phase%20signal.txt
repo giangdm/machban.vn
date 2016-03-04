@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tín hiệu cùng pha
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu đồng pha

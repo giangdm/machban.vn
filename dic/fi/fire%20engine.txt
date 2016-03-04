@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm chữa cháy
+#xe cứu hỏa
+@Lĩnh vực: hóa học & vật liệu
+#bơm chứa cháy
+@Lĩnh vực: toán & tin
+#bơm cứu hỏa
+@Lĩnh vực: cơ khí & công trình
+#động cơ dập tắt lửa
+#máy bơm cứu hỏa
+@Chuyên ngành kỹ thuật
+#bơm chữa cháy
+#xe cứu hỏa
+@Lĩnh vực: hóa học & vật liệu
+#bơm chứa cháy
+@Lĩnh vực: toán & tin
+#bơm cứu hỏa
+@Lĩnh vực: cơ khí & công trình
+#động cơ dập tắt lửa
+#máy bơm cứu hỏa

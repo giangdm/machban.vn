@@ -1,0 +1,8 @@
+﻿@base level
+#(Tech) mức cơ bản
+@Chuyên ngành kỹ thuật
+#mặt chuẩn
+@Lĩnh vực: hóa học & vật liệu
+#mực cơ sở
+@Lĩnh vực: xây dựng
+#mức đế

@@ -1,0 +1,3 @@
+﻿@Incentive payment systems
+#(Econ) Hệ thống thanh toán khuyến khích.
+: Xem PAYMENT BY RESULTS.

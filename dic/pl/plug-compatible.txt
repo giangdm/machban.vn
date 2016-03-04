@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tương thích cắm
+@Lĩnh vực: điện
+#tương thích phích cắm

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trạm kết nối kế cận
+#trạm liên kết kế cận
+@Lĩnh vực: điện tử & viễn thông
+#trạm liên kết phụ cận

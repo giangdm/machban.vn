@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chế độ ngắt kết nối thông thường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ ngắt chuẩn

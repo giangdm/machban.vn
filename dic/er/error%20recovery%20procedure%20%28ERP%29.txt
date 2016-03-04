@@ -1,0 +1,8 @@
+﻿@error recovery procedure (ERP)
+#(Tech) thủ tục hồi phục khi có sai lầm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thủ tục khắc phục lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thủ tục khắc phục lỗi

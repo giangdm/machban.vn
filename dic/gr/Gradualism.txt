@@ -1,0 +1,12 @@
+﻿@Gradualism
+#(Econ) Trường phái tuần tiến; Chủ nghĩa tuần tiến; thuyết tuần tiến.
+: Một quan điểm của chính sách phát triển kinh tế cho rằng quá trình phát triển kinh tế là một hiện tượng tăng trưởng từ từ, chắc chắn, chậm chạp và do vậy các biện pháp chính sách cần thiết cũng phải mang đặc trưng nay.
+@Chuyên ngành kinh tế
+#thuyết phát triển dần dần từng bước
+#thuyết tuần tiến
+#thuyết, chủ nghĩa tiên tiến
+<!-- more -->
+@gradualism
+*danh từ
+#phương pháp từ từ, phương pháp tiệm tiến
+#tiệm tiến luận

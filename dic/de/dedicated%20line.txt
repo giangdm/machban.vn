@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#đường dây riêng
+@Chuyên ngành kỹ thuật
+#đường dây riêng
+@Lĩnh vực: toán & tin
+#đường chuyên dụng
+#đường dây chuyên dụng
+@Lĩnh vực: điện tử & viễn thông
+#đường dây dành riêng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bao gói dạng nhỏ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#lô gạch

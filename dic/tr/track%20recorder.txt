@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy ghi đường
+@Lĩnh vực: đo lường & điều khiển
+#máy ghi rãnh

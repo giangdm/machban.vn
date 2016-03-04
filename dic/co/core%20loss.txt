@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tổn hao lõi từ
+#tổn hao mạch từ
+@Lĩnh vực: điện
+#tổn hao trong lõi (từ)
+#tổn thất lõi

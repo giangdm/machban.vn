@@ -1,0 +1,3 @@
+﻿@Accesion rate
+#(Econ) Tỷ lệ gia tăng lao động.
+: Số lượng những người thuê mới mỗi tháng tính theo tỷ lệ phần trăm tổng số việc làm do Bộ lao động Mỹ thống kê.

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bơm có động cơ
+@Lĩnh vực: hóa học & vật liệu
+#bơm động lực
+#bơm phát lực
+@Lĩnh vực: cơ khí & công trình
+#máy bơm động cơ khí

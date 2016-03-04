@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn vị nhiệt Anh
+@Lĩnh vực: điện lạnh
+#BtuIT (=1055, 1J)
+#đơn vị nhiệt Anh theo bảng quốc tế

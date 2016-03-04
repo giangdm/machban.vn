@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị tính toán tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị tính toán tự động

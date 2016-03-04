@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cất phân đoạn
+@Lĩnh vực: vật lý
+#chưng cất theo lô
+#chưng cất từng mẻ
+@Lĩnh vực: hóa học & vật liệu
+#lọc theo khối

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tụ điện mở máy
+@Lĩnh vực: điện
+#tụ mở máy

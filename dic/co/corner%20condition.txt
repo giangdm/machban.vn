@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều kiện tại điểm góc
+#điều kiện tại điểm gốc

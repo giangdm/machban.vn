@@ -1,0 +1,5 @@
+﻿@Transitory income
+#(Econ) Thu nhập quá độ.
+: Thu nhập không dự tính. Khoản thu hay lỗ bất thường.
+@Chuyên ngành kinh tế
+#thu nhập nhất thời

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#rơle nhiệt độ an toàn
+#tecmostat an toàn
+#thermostat an toàn

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#diện giá
+#giấy chống ẩm
+#mệnh giá
+#ngang giá
+@Chuyên ngành kỹ thuật
+#giấy chống ẩm
+#giấy chống thấm mỡ
+@Lĩnh vực: hóa học & vật liệu
+#giấy da
+@Lĩnh vực: xây dựng
+#giầy da (cừu)

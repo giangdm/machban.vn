@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#biểu thị triệt tiêu
+@Lĩnh vực: toán & tin
+#bộ chỉ báo mức không
+@Lĩnh vực: điện
+#bộ chỉ thị không
+#bộ chỉ trống
+#cái chỉ thị không

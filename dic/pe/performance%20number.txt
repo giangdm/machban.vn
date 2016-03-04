@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#số octan hiển thi
+@Lĩnh vực: hóa học & vật liệu
+#chỉ số tính năng (để phân loại xăng máy bay)

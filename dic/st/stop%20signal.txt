@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tín hiệu dừng tàu
+@Lĩnh vực: giao thông & vận tải
+#bảng hiệu dừng
+#tín hiệu dừng (cho chạy dồn tàu)
+@Lĩnh vực: cơ khí & công trình
+#dấu hiệu ngừng xe

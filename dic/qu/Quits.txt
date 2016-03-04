@@ -1,0 +1,12 @@
+﻿@Quits
+#(Econ) Số người bỏ việc.
+: Những nhân viên tự nguyên rời bỏ công việc hiện tại để thay đổi công việc hoặc để rút khỏi lực lượng  lao động.
+<!-- more -->
+@quits /kwits/
+*tính từ
+#vị ngữ trả xong, thanh toán xong (nợ, thù)
+=we are quits now: chúng ta xong nợ nhá
+#to cry quits
+#đồng ý hoà
+#double or quits
+#được ăn đôi thua mất cả (trò chơi ăn tiền)

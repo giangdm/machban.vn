@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điện kháng
+#cuộn cảm
+#cuộn cản
+#cuộn điện kháng
+@Lĩnh vực: điện
+#cuộn dây điện kháng

@@ -1,0 +1,5 @@
+﻿@case sensitive
+#(Tech) phân biệt dạng chữ
+@Chuyên ngành kỹ thuật
+#nhạy két
+#nhạy loại chữ

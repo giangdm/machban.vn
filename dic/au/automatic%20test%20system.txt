@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị kiểm tra tự động
+@Lĩnh vực: điện lạnh
+#hệ kiểm tra tự động

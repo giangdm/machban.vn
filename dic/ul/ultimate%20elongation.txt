@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#độ giãn giới hạn
+#độ giãn tới hạn
+@Lĩnh vực: xây dựng
+#dộ dãn dài giới hạn
+@Lĩnh vực: hóa học & vật liệu
+#độ giãn dài giới hạn
+#độ giãn khi đứt
+#kéo dài giới hạn
+@Lĩnh vực: cơ khí & công trình
+#độ giản giới hạn

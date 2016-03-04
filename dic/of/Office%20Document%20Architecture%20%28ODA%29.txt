@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiến trúc tài liệu văn phòng
+@Lĩnh vực: điện tử & viễn thông
+#Kiến trúc tư liệu văn phòng (tên viết tắt trước đây của Open Document Architecture)

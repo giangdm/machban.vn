@@ -1,0 +1,7 @@
+﻿@coupling coefficient
+#(Tech) hệ số ghép
+@Chuyên ngành kỹ thuật
+#hệ số ghép
+#hệ số liên kết
+@Lĩnh vực: điện lạnh
+#hệ số ghép mạch

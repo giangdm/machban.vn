@@ -1,0 +1,5 @@
+﻿@CGA (color graphics adapter)
+#(Tech) bộ tiếp hợp đồ họa màu, CGA
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều hợp đồ họa màu

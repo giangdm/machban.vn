@@ -1,0 +1,5 @@
+﻿@Stochastic Variable
+#(Econ) Biến số ngẫu nhiên.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến số ngẫu nhiên

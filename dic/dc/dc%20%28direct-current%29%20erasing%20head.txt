@@ -1,0 +1,2 @@
+﻿@dc (direct-current) erasing head
+#(Tech) đầu xóa điện một chiều

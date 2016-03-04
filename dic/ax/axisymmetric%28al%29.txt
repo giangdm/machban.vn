@@ -1,0 +1,3 @@
+﻿@axisymmetric(al)
+*tính từ
+#đối xứng theo trục

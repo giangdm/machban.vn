@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cổng loại trừ
+#cửa loại trừ
+@Lĩnh vực: điện tử & viễn thông
+#cổng ngoại lệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cổng loại trừ
+#cửa loại trừ
+@Lĩnh vực: điện tử & viễn thông
+#cổng ngoại lệ

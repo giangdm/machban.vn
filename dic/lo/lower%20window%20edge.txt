@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giới hạn dưới của cửa sổ
+#lề cửa sổ phía dưới
+#mép cửa sổ phía dưới

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ lọc dùng một lần
+#phin lọc vứt bỏ (sau khi sử dụng)

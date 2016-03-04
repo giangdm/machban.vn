@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#năng lực sản xuất
+#sức sản xuất
+@Chuyên ngành kỹ thuật
+#sản lượng
+@Lĩnh vực: toán & tin
+#dung luợng đầu ra
+#dung lượng xuất

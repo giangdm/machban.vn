@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#đĩa mềm hệ thống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đĩa hệ thống

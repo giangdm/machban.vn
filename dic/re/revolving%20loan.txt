@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#khoản cho vay chu chuyển tuần hoàn
+#khoản cho vay triển hạn tự động
+#khoản tín dụng tuần hoàn
+#khoản vay tuần hoàn
+#phần thưởng

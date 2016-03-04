@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#các giao dịch có
+#các giao dịch thu
+#giao dịch tín dụng

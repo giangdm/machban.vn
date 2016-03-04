@@ -1,0 +1,7 @@
+﻿@Collective goods
+#(Econ) Hàng hoá tập thể.
+: Hàng hoá hay dịch vụ mang tính chất KHÔNG LOẠI TRỪ. Xem PUBLIC GOODS
+@Chuyên ngành kinh tế
+#hàng công cộng
+#hàng hóa công cộng
+#hàng tập thể

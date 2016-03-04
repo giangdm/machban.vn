@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi có một phần tử
+#chuỗi đơn vị
+#xâu (có) một phần tử
+#xâu đơn vị

@@ -1,0 +1,3 @@
+﻿@Short run marginal cost (SMC)
+#(Econ) Chi phí biên ngắn hạn.
+: Xem Marginal cost.

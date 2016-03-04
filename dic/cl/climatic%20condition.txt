@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chế độ khí hậu
+#điều kiện khí hậu
+@Lĩnh vực: xây dựng
+#trạng thái khí hậu

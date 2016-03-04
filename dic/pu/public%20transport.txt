@@ -1,0 +1,7 @@
+﻿@public transport
+*danh từ
+#phương tiện giao thông công cộng
+@Chuyên ngành kinh tế
+#vận tải công cộng
+@Chuyên ngành kỹ thuật
+#vận tải công cộng

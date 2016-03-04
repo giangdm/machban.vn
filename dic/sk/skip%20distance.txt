@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khoảng cách bước nhảy
+#khoảng nhảy (sóng phản xạ)
+@Lĩnh vực: điện lạnh
+#khoảng nhảy cách (truyền sóng qua tầng điện ly)
+@Lĩnh vực: điện
+#khoảng tắt sóng

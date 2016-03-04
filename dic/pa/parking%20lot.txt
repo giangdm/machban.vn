@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chỗ đậu xe
+#sân đậu xe
+@Chuyên ngành kỹ thuật
+#bãi đậu xe
+#bãi đỗ xe

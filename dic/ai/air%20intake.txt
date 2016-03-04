@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa không khí vào
+#đường dẫn không khí
+#đường hút khí vào
+#luồng thông gió vào
+#sự hút khí vào
+@Lĩnh vực: xây dựng
+#lỗ không khí vào
+#sự nạp không khí vào
+@Lĩnh vực: hóa học & vật liệu
+#sự đưa gió vào
+#sự nạp gió

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biến thiên tốc độ
+#sự thay đổi (biến thiên) tốc độ
+#thay đổi tốc độ

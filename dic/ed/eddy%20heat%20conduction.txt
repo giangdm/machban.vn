@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dẫn dòng xoáy
+#dẫn nhiệt dòng xoáy
+#thông lượng nhiệt dòng xoáy

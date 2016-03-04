@@ -1,0 +1,2 @@
+﻿@failure prediction
+#(Tech) sự dự đoán hư hỏng

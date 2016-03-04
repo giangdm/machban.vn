@@ -1,0 +1,9 @@
+﻿@Nominal yield
+#(Econ) Lợi tức danh nghĩa.
+: Trong trường hợp một cổ phiếu thường, cổ tức được công bố và được tính theo tỷ lệ phần trăm của MỆNH GIÁ của nó.
+@Chuyên ngành kinh tế
+#lợi danh nghĩa
+#mức lợi danh nghĩa
+#sản lượng danh nghĩa
+#suất thu lợi danh nghĩa
+#suất thu nhập danh nghĩa

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#điều khiển đầu cuối
+@Lĩnh vực: toán & tin
+#điều chỉnh cuối cùng
+#sự điều khiển đầu cuối
+@Lĩnh vực: cơ khí & công trình
+#sự điều khiển kết thúc

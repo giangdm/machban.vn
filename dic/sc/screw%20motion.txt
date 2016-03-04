@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#chuyển động (mặt) đinh ốc
+#chuyển động xoắn ốc
+@Lĩnh vực: toán & tin
+#chuyển động đinh ốc
+@Lĩnh vực: xây dựng
+#chuyển động xoắn

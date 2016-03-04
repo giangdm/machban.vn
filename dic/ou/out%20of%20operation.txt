@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#có sự cố
+#không hoạt động
+@Lĩnh vực: điện
+#không vận hành

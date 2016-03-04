@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp cách ly liên kết
+@Lĩnh vực: xây dựng
+#sự cách ly liên kết

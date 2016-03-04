@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#lớp bề mặt
+@Chuyên ngành kỹ thuật
+#lớp bề mặt
+#tầng mặt
+@Lĩnh vực: môi trường
+#tầng bề mặt

@@ -1,0 +1,6 @@
+﻿@burn-in
+#(Tech) đốt thí nghiệm, kiểm nghiệm vbằng nhiệt độ cao
+@Chuyên ngành kỹ thuật
+#thử nóng
+@Lĩnh vực: xây dựng
+#đốt vô

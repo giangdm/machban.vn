@@ -1,0 +1,26 @@
+﻿@Chuyên ngành kỹ thuật
+#khe co giãn
+#khớp nối mềm
+#liên kết mềm
+#mối nối đàn hồi
+#mối nối mềm
+#sự liên kết mềm
+@Lĩnh vực: hóa học & vật liệu
+#khớp mềm
+@Lĩnh vực: cơ khí & công trình
+#khớp nối đàn hồi
+@Lĩnh vực: xây dựng
+#nối đàn hồi
+@Chuyên ngành kỹ thuật
+#khe co giãn
+#khớp nối mềm
+#liên kết mềm
+#mối nối đàn hồi
+#mối nối mềm
+#sự liên kết mềm
+@Lĩnh vực: hóa học & vật liệu
+#khớp mềm
+@Lĩnh vực: cơ khí & công trình
+#khớp nối đàn hồi
+@Lĩnh vực: xây dựng
+#nối đàn hồi

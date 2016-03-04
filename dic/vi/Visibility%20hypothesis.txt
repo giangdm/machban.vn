@@ -1,0 +1,3 @@
+﻿@Visibility hypothesis
+#(Econ) Giả thuyết về tính minh bạch.
+: Chính sách thu nhập có xu hướng dựa nhiều vào kỹ thuật công khai và khiển trách.

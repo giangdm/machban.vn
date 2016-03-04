@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) lạnh hấp thụ cấp nhiệt bằng hơi
+#hệ (thống) lạnh hấp thụ dùng hơi để đốt nóng

@@ -1,0 +1,18 @@
+﻿@universal joint
+*danh từ
+#trục nối nhiều chiều (khủyu nối hai trục theo cách làm cho hai trục này có thể nối bất cứ góc độ nào với nhau)
+@Chuyên ngành kỹ thuật
+#khớp các đăng
+#khớp Cacđăng
+#khớp nối các đăng
+#khớp nối vạn năng
+#khớp quay
+#khớp vạn năng
+@Lĩnh vực: toán & tin
+#bản lề tổng hợp
+#trục nối nhiều chiều
+@Lĩnh vực: điện lạnh
+#chỗ nối cacđăng
+#chỗ nối vạn năng
+#mối nối cacđăng
+#mối nối vạn năng

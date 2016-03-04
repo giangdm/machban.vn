@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dải hóa trị
+@Lĩnh vực: điện lạnh
+#vùng hóa trị
+@Lĩnh vực: vật lý
+#vùng hóa trị (vật lý bán dẫn)

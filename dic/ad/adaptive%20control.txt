@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điều khiển thích ứng
+@Lĩnh vực: điện lạnh
+#điều khiển thích nghi
+@Lĩnh vực: đo lường & điều khiển
+#điều khiển tương thích

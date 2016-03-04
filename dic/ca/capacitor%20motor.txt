@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ tụ điện
+@Lĩnh vực: điện
+#động cơ có tụ điện
+@Lĩnh vực: điện lạnh
+#động cơ dùng tụ điện

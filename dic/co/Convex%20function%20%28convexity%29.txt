@@ -1,0 +1,3 @@
+﻿@Convex function (convexity)
+#(Econ) Hàm lồi (tính lồi).
+: Một hàm lồi so với gốc toạ độ, do đó, ĐẠO HÀM bậc hai của nó là dương.

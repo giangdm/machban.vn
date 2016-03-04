@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bãi phân loại
+#đường dồn tàu
+#ga phân loại tàu
+#sân ga chọn tàu
+#trạm chuyển
+#trạm dồn tàu
+#trạm phân loại
+@Lĩnh vực: điện lạnh
+#trạm đóng ngắt điện

@@ -1,0 +1,16 @@
+﻿@Covariance
+#(Econ) Hiệp phương sai.
+: Thước đo mức độ tương quan của 2 biến. Xem VARIANCE-COVARIANCE MATRIX.
+<!-- more -->
+@covariance
+#(Tech) tính hiệp biến, hiệp phương sai
+@Chuyên ngành kinh tế
+#đồng biến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hiệp biến
+#hiệp phương sai
+<!-- more -->
+@covariance
+#(thống kê) hiệp phương sai
+#lag c. (thống kê) hiệp phương sai trễ

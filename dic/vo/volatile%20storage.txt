@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lưu trữ khả biến
+@Lĩnh vực: toán & tin
+#bộ nhớ xóa ngay
+#lưu trữ linh động

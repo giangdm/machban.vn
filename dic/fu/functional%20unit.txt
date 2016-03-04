@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#khối chức năng
+@Lĩnh vực: toán & tin
+#đơn vị chức năng
+#thiết bị chức năng
+@Lĩnh vực: điện tử & viễn thông
+#đơn vị hàm

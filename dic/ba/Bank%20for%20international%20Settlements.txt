@@ -1,0 +1,5 @@
+﻿@Bank for international Settlements
+#(Econ) Ngân hàng thanh toán quốc tế.
+: Một định chế tài chính liên chính phủ thành lập đầu tiên vào năm 1930 để hỗ trợ và điêu phối việc chuyển khoản thanh toán bồi thường chiến tranh thế giới thứ nhât giữa các ngân hàng quốc gia trung ương. Ngân hàng này cũng tập hợp và phổ biến thông tin về các chủ đề kinh tế vĩ mô và các vấn đề tiền tệ quốc tế.
+@Chuyên ngành kinh tế
+#Ngân hàng Thanh toán Quốc tế

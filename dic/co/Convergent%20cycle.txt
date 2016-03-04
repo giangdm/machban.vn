@@ -1,0 +1,6 @@
+﻿@Convergent cycle
+#(Econ) Chu kỳ hội tụ
+: Xem DAMPED CYCLE.
+@Chuyên ngành kinh tế
+#chu kỳ đồng quy
+#chu kỳ suy giảm

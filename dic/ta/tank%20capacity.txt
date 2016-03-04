@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#dung lượng bể chứa
+@Lĩnh vực: cơ khí & công trình
+#dung tích két

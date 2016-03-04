@@ -1,0 +1,6 @@
+﻿@Entrepreneurship
+#(Econ) Khả năng, sự làm chủ của doanh nghiệp.
+: Xem Entrepreneur.
+<!-- more -->
+@entrepreneurship
+#xem entrepreneur

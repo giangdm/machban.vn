@@ -1,0 +1,70 @@
+﻿@distrribution
+#sự phân phối, sự phân bố, làm suy rộng
+#d. of demand (thống kê) sự phân bố nhu cầu
+#d. of eigenvalues (giải tích) sự phân bố các giá trị riêng
+#d. of primes sự phân bố các nguyên tố
+#d. of zero (giải tích) sự phân bố các không điểm
+#age d. (thống kê) sự phân bố theo tuổi
+#arcsime d. phân bố acsin
+#asymptotic(al) d. (xác suất) phân phối tiệm cận; (giải tích) phân phối tiệm cận
+#beta d. phân phối bêta
+#bimodal d. phân phối hai mốt
+#binomial d. phân phối nhị thức
+#bivariate d. phân phối hai chiều
+#censored d. phân phố bị thiếu
+#circular d. phân phối trên đường tròn
+#compound d. phân phối phức hợp
+#compound frequence d. mật độ phân phối trung bình
+#conditional d. (thống kê) phân phối có điều kiện
+#contagious d. phân phối truyền nhiễm (phụ thuộc vào những tham số
+#ngẫu nhiên)
+#discontinuos d. phân phối gián đoạn
+#discrete d. (thống kê) phân phối rời rạc
+#double d. phân phối kép
+#empiric d. phân phối thực nghiệm
+#e quimodal d.s (thống kê) phân phối cùng mốt
+#exponential d. phân phối mũ
+#fiducial d. (thống kê) phân phối tin cậy
+#frequency d. mật độ phân phối; phân phối tần số
+#gamma d. phân phối gama
+#geometric (al) d. (thống kê) phân phối hình học (xác suất là những số hạng của
+#một cấp số nhân)
+#grouped d. (thống kê) phân phối được nhóm, phân phối được chia thành lớp
+#heterogeneous d. (thống kê) phân phối không thuần nhất
+#hypergeometric d. (thống kê) phân phối siêu bội
+#involution d. phân phối đối hợp
+#joint d. tk; (xác suất) phân phối có điều kiện phụ thuộc
+#limiting d. phân phối giới hạn
+#logarithmic d. phân phối lôga
+#logarithmic-series d. (thống kê) phân phối lôga
+#lognormal d. (thống kê) phân phối lôga chuẩn
+#marginal d. (thống kê) phân phối biên duyên
+#mass d. sự phân phối khối lượng
+#molecular d. sự phân phối (vận tốc) phân tử
+#multimodal d. phân phối nhiều mốt
+#multinomial d. (xác suất) phân phối đa thức
+#multivariate d. phân phối nhiều chiều
+#multivariate normal d. phân phối chuẩn nhiều chiều
+#negative binomial d. phân phối nhị thức âm
+#negative multinomial d. (thống kê) phân phối đa thức âm
+#non central d. (thống kê) phân phối không tâm
+#non singular d. tk phân phối không kỳ dị
+#normal d. (thống kê) phân phối chuẩn
+#parent d. (thống kê) phân phối đồng loại
+#potential d. phân phối thế hiệu
+#pressure d. phân phối áp suất
+#random d. xs phân phối đều
+#rectangular d. phân phối chữ nhật
+#sampling d. (thống kê) phân phối mẫu
+#sex d. (thống kê) phân phối theo giới
+#simultaneous d. phân phối đồng thời
+#singular d. phân phối kỳ dị
+#shew d. (thống kê) phân phối lệch
+#stationary d. (thống kê) phân phối dừng
+#surface d. phân phối mặt
+#symmetric(al) d. phân phối đối xứng
+#temperate d., tempered d. hàm suy rộng ôn hoà (phiếu hàm tuyến tình
+#trên không gian các hàm giảm nhanh ở vô cực)
+#triangular d. (thống kê) phân phối tam giác
+#truncated d. (thống kê) phân phối cụt
+#uniform d. (thống kê) phân phối đều

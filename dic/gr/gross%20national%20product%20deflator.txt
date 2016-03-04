@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chỉ số giảm phát tổng sản phẩm quốc dân
+#chỉ số giảm phát tổng sản phẩm quốc gia
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#hệ số giảm phát

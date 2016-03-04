@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giám đốc công trình
+#giám đốc dự án
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#giám đốc thiết kế

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hàm nhiệt
+@Chuyên ngành kỹ thuật
+#entanpy
+#hàm lượng nhiệt
+#nhiệt hàm
+@Lĩnh vực: điện
+#entanpi

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#trọng lượng không kể bì
+#trọng lượng tịnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#trọng lượng bỏ bì
+#trọng lượng thuần
+#trọng lượng tịnh

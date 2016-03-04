@@ -1,0 +1,6 @@
+﻿@Regret matrix
+#(Econ) Ma trận hối tiếc.
+: Xem MINIMAX REGRET.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ma trận tổn thất

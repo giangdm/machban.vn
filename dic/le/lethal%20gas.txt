@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hơi gây chết người
+@Lĩnh vực: y học
+#khí gây tử vong, khí gây chết
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hơi gây chết người
+@Lĩnh vực: y học
+#khí gây tử vong, khí gây chết

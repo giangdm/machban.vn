@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chi phiếu "cao-su"
+#chi phiếu "dỏm"
+#chi phiếu không tiền bảo chứng
+#séc bị trả lại
+#séc bị từ chối
+#séc cao su

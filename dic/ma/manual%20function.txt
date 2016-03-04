@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chức năng không dùng máy
+#chức năng không tự động
+#chức năng nhân công

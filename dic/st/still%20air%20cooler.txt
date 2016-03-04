@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phòng làm lạnh không khí chuyển động tự nhiên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ làm lạnh không khí tĩnh

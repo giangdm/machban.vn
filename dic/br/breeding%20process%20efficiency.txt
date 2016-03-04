@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#quá trình tái sinh
+@Lĩnh vực: vật lý
+#hiệu suất quá trình nhân

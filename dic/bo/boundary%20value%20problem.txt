@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bài toán biên
+#bài toán biên trị
+@Lĩnh vực: toán & tin
+#bài toán bờ
+#bài toán giá trị biên
+#vấn đề giá trị biên

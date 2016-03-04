@@ -1,0 +1,2 @@
+﻿@computer performance
+#(Tech) hiệu năng điện toán

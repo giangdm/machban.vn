@@ -1,0 +1,11 @@
+﻿@bus line
+#(Tech) dây trong mạch nối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đường dây dọc tàu
+#đường dây trên tàu
+@Lĩnh vực: điện
+#đường thanh cái
+#đường thanh dẫn
+@Lĩnh vực: xây dựng
+#tuyến xe khách

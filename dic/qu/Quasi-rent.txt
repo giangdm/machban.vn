@@ -1,0 +1,7 @@
+﻿@Quasi-rent
+#(Econ) Tiền thuê giả.
+: Thu nhập của một người bán một loại hàng hoá hoặc dịch vụ quá mức và trên CHI PHÍ CƠ HỘI có thể xảy ra khi hàng hoá đó tạm thời được cung cấp với lượng cố định.
+@Chuyên ngành kinh tế
+#gần như tiền thuê
+#như thể tiền thu
+#như thể tiền thuê

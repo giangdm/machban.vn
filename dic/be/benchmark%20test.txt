@@ -1,0 +1,9 @@
+﻿@benchmark test
+#(Tech) thử chuẩn, kiểm chuẩn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kiểm chuẩn
+@Lĩnh vực: toán & tin
+#kiểm tra điểm chuẩn
+#phép thử điểm mốc
+#tự kiểm tra điểm chuẩn

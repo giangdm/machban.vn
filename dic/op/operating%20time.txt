@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian chạy
+#thời gian hoạt động
+@Lĩnh vực: điện
+#thời gian tác động
+@Lĩnh vực: toán & tin
+#thời gian thao tác

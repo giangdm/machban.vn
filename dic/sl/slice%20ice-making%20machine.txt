@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy làm (nước) đá dạng đĩa
+#máy làm (nước) đá dạng lát mỏng
+@Lĩnh vực: điện lạnh
+#máy làm đá dạng đĩa
+#máy làm đá dạng lát mỏng

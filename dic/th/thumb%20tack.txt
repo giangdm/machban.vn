@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đinh kẹp
+@Lĩnh vực: xây dựng
+#đinh bấm (có mũ lớn)
+@Lĩnh vực: toán & tin
+#đinh bấm có mũ lớn
+@Lĩnh vực: cơ khí & công trình
+#đinh mũ (về kỹ thuật)

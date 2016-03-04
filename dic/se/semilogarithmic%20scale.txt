@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thang bán loga
+#thang nửa loga
+#tỷ xích bán loga
+@Lĩnh vực: xây dựng
+#thang bán lôga

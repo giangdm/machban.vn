@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phân phối theo địa lý
+#phân phối theo vùng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự phân phối địa lý

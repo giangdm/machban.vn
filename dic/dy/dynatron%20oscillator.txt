@@ -1,0 +1,2 @@
+﻿@dynatron oscillator
+#(Tech) bộ dao động đèn trở âm/bốn cực

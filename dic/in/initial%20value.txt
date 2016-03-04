@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giá trị ban đầu
+#giá trị đầu tiên
+@Chuyên ngành kỹ thuật
+#giá trị ban đầu
+@Lĩnh vực: toán & tin
+#giá trị đầu
+@Lĩnh vực: xây dựng
+#trị số ban đầu

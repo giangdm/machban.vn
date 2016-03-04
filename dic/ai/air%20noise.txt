@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tiếng ồn dòng không khí
+#tiếng ồn gió
+@Lĩnh vực: xây dựng
+#tiếng ồn không khí

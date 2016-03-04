@@ -1,0 +1,9 @@
+﻿@bi
+#(tiền tố) hai
+@Chuyên ngành kỹ thuật
+#hai
+#lưỡng
+#tiền tố
+@Lĩnh vực: toán & tin
+#nhị
+#song

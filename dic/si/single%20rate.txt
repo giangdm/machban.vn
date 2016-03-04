@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#không có gánh nặng gia đình
+#không có trợ cấp nuôi con
+#ngạch số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#độc thân
+#không nặng gánh gia đình

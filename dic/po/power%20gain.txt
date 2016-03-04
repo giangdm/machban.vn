@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ khuếch đại công suất
+#độ tăng ích ăng ten
+@Lĩnh vực: điện lạnh
+#độ tăng ích công suất (của ăng ten)

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy ghi dạng số
+@Lĩnh vực: toán & tin
+#máy ghi số
+#máy in dạng số
+#thiết bị in số

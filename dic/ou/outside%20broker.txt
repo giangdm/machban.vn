@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#người môi giới bất hợp pháp
+#người môi giới hành lang
+#người môi giới ngoài sàn
+#người môi giới ngoài Sở giao dịch (chứng khoán)
+#người mua bán cổ phần trong thị trường chứng khoán

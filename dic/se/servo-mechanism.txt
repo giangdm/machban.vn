@@ -1,0 +1,12 @@
+﻿@servo-mechanism
+#hệ secvô
+@Chuyên ngành kinh tế
+#cơ cấu phụ
+#cơ chế phụ
+#thiết bị điều chỉnh
+@Chuyên ngành kỹ thuật
+#hệ secvo
+@Lĩnh vực: ô tô
+#cơ cấu trợ lực
+@Lĩnh vực: điện tử & viễn thông
+#cơ chế điều khiển (tàu vũ trụ tự động)

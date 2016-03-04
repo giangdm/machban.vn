@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phủ định
+@Lĩnh vực: toán & tin
+#phép đảo
+#phép toán NOT
+#phép toán phủ định

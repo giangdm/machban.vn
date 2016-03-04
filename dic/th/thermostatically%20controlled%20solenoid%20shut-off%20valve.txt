@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khống chế theo ổn nhiệt
+#van điện từ điều chỉnh bằng ổn nhiệt
+#van điện tử điều chỉnh bằng ổn nhiệt

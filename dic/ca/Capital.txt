@@ -1,0 +1,56 @@
+﻿@Capital
+#(Econ) Tư bản/ vốn.
+: 1)Một từ dùng để chỉ một yếu tố sản xuất do hệ thống kinh tế tạo ra. 2)Một từ cũng được sử dụng  làm thuật ngữ chỉ các tài sản TÀI CHÍNH. Xem FINANCIAL CAPITAL, CAPITAL CONTROVERSY, FINANCE.
+<!-- more -->
+@capital /'kæpitl/
+*danh từ
+#thủ đô, thủ phủ
+#chữ viết hoa
+=to write one's name in capital: viết tên bằng chữ hoa
+#tiền vốn, tư bản
+=floating (working) capital: vốn luân chuyển
+=fixed capital: tư bản bất biến
+#(kiến trúc) đầu cột
+#to make capital out of
+#kiếm lợi ở, kiếm chác ở, lợi dụng
+*tính từ
+#quan hệ đến sinh mạng; tử hình
+=capital offence: tội tử hình
+#chính, ở đầu, ở trên đầu, ở trên hết
+=capital city: thủ đô
+#chủ yếu, cốt yếu, cơ bản, lớn
+=of capital inmportance: có tầm quan trọng lớn
+=capital letter: chữ hoa
+#tuyệt diệu, thượng hạng, ưu tú, xuất sắc, rất hay
+=a capital speach: bài nói rất hay
+=what a capital idea!: ý kiến mới tuyệt diệu làm sao!
+#vô cùng tai hại
+=a capital error: một sự lầm lẫn vô cùng tai hại
+#capital constructions
+#xây dựng cơ bản
+#capital goods
+#tư liệu sản xuất
+@Chuyên ngành kinh tế
+#tư bản
+#vốn
+#vốn liếng
+@Chuyên ngành kỹ thuật
+#chữ hoa
+#chủ yếu
+#cơ bản
+#đầu cột
+#mũ cột
+#quan trọng
+#vốn
+@Lĩnh vực: xây dựng
+#phần đầu cột
+#thủ đô
+@Lĩnh vực: toán & tin
+#vốn tư bản
+<!-- more -->
+@capital
+#(toán kinh tế) vốn, tư bản // chính, quan trọng
+#circulating c. (toán kinh tế) vốn luân chuyển, tư bản lưu thông
+#fixed c. (toán kinh tế) vốn cơ bản, vốn cố đinh
+#floating c. (toán kinh tế) vốn luân chuyển, vốn tư bản lưu thông
+#working c. (toán kinh tế) vốn luân chuyển

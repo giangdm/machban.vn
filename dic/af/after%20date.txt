@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thanh toán...ngay kể từ ngày hôm nay
+#thanh toán...ngay từ sau ngày ký phát (hối phiếu)
+#từ sau ngày ký phát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#sau kỳ hạn

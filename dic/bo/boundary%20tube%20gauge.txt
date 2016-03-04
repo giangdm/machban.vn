@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#áp kế ống biên
+#áp kế ống Bourdon
+#áp kế ống lò xo
+#áp kế ống ranh giới

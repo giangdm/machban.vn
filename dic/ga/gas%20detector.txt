@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ phát hiện chỗ rò
+@Lĩnh vực: vật lý
+#bộ phát hiện khí
+@Lĩnh vực: hóa học & vật liệu
+#máy dò khí
+@Lĩnh vực: xây dựng
+#thiết bị phát hiện gaz

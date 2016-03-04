@@ -1,0 +1,6 @@
+﻿@Rate support grant
+#(Econ) Trợ cấp nâng mức thuế.
+: Một cơ chế để chuyển vốn từ chính phủ trung ương cho các chính quyền địa phương ở Anh. Ngày nay sự trợ cấp cho các chính quyền này tạo nên nguồn thu nhập chủ yếu của các chính quyền địa phương ở Anh.
+@Chuyên ngành kinh tế
+#trợ cấp (của nhà nước) cho các chính quyền địa phương
+#trợ cấp hỗ trợ thuế

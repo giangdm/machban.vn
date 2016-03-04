@@ -1,0 +1,4 @@
+﻿@arithmetic processor
+#(Tech) bộ xử lý số học
+@Chuyên ngành kỹ thuật
+#bộ xử lý số học

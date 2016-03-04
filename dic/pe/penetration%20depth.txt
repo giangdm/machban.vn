@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ xuyên sâu
+@Lĩnh vực: điện lạnh
+#độ dày mở rộng (trong nung cảm ứng)
+#độ sâu xuyên (của từ trường ở bề mặt siêu dẫn)
+@Lĩnh vực: xây dựng
+#độ sâu thấm
+#hệ số xuyên sâu (của cọc)

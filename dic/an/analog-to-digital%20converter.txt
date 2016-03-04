@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chuyển đổi AD
+@Lĩnh vực: toán & tin
+#biến đổi tương tự-số
+#máy biến tương tự-chữ số

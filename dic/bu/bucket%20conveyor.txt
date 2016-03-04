@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#gầu tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#băng (tải) gầu
+@Lĩnh vực: xây dựng
+#băng chuyển có gàu
+#băng truyền gàu
+#hệ thống gàu tải
+@Lĩnh vực: hóa học & vật liệu
+#máy chuyển bằng gàu

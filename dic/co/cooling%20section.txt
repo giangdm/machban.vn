@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#ngăn làm lạnh (tiệt trùng, thanh trùng)
+@Chuyên ngành kỹ thuật
+#buồng lạnh
+#gian lạnh
+#khu lạnh
+@Lĩnh vực: điện lạnh
+#buồng [khu
+#gian] lạnh

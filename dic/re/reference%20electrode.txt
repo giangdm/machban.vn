@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện cực chuẩn
+#điện cực quy chiếu
+@Lĩnh vực: vật lý
+#điện cực chuẩn (điện hóa)
+@Lĩnh vực: điện
+#điện cực chuẩn (dùng cho pH kế)
+#điện cực tham chiếu

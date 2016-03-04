@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#chất bít kín
+#chống thấm
+@Lĩnh vực: xây dựng
+#hỗn hợp trám kín
+#hợp chất bít kín
+#keo trét
+#ma tít hàn kẽ
+#ma tít trét kẽ
+@Lĩnh vực: điện lạnh
+#hợp chất bịt kín (tránh khí và ẩm)
+@Lĩnh vực: cơ khí & công trình
+#keo trét kín
+@Lĩnh vực: toán & tin
+#keo trét, mát-tít

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dải biên
+#dải lề
+@Lĩnh vực: xây dựng
+#biên tần
+#giải bên
+@Lĩnh vực: toán & tin
+#dải biên, biên bên

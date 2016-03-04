@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Phát đa phương không phụ thuộc giao thức (kiến trúc định tuyến phát đa phương cho phép thêm phát đa phương vào các mạng IP)

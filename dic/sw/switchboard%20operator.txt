@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nhân viên trực tổng đài (điện thoại)
+#nhân viên trực tổng đài (tổng đài)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhân viên điện thoại

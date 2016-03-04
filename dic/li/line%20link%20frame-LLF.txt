@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khung nối mạch đường (điện thoại)
+#thanh xuyên crossbar
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khung nối mạch đường (điện thoại)
+#thanh xuyên crossbar

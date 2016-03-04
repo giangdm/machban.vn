@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cách điện cấp B
+@Lĩnh vực: điện
+#cách điện loại B

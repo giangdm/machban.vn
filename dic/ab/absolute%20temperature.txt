@@ -1,0 +1,5 @@
+﻿@absolute temperature
+#(Tech) nhiệt độ tuyệt đối
+@Chuyên ngành kỹ thuật
+#nhiệt độ nhiệt động
+#nhiệt độ tuyệt đối

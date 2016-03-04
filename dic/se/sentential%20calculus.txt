@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép tính câu
+#phép tính mệnh đề
+#phép tính phán đoán

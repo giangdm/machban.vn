@@ -1,0 +1,5 @@
+﻿@Dow Jones index
+#(Econ) Chỉ số Dow Jones.
+: SỐ CHỈ BÁO giá cổ phiếu trên SỞ GIAO DỊCH CHỨNG KHOÁN PHỐ WALL. Đó là thuật ngữ tương ứng của Mỹ cho CHỈ SỐ CỔ PHIẾU THƯỜNG CỦA THỜI BÁO TÀI CHÍNH.
+@Chuyên ngành kinh tế
+#chỉ số Dow Jones (của các chứng khoán công nghiệp)

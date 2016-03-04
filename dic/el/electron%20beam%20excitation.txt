@@ -1,0 +1,2 @@
+﻿@electron beam excitation
+#(Tech) sự kích thích bằng tia điện tử

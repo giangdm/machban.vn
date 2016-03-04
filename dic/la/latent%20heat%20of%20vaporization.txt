@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kinh tế
+#ấn nhiệt bốc hơi
+@Chuyên ngành kỹ thuật
+#ẩn nhiệt bay hơi
+#ẩn nhiệt hóa hơi
+#entanpy hóa hơi
+#nhiệt bay hơi
+#nhiệt hóa hơi
+@Lĩnh vực: toán & tin
+#ẩn nhiệt bay
+@Chuyên ngành kỹ thuật
+#ẩn nhiệt bay hơi
+#ẩn nhiệt hóa hơi
+#entanpy hóa hơi
+#nhiệt bay hơi
+#nhiệt hóa hơi
+@Lĩnh vực: toán & tin
+#ẩn nhiệt bay

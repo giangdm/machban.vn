@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phương pháp quản lý khoa học
+#quản lý một cách khoa học
+@Chuyên ngành kỹ thuật
+#quản lí khoa học

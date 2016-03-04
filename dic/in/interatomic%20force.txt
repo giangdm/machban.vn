@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#lực giữa các nguyên tử
+#lực liên nguyên tử

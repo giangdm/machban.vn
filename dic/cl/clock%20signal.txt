@@ -1,0 +1,10 @@
+﻿@clock signal
+#(Tech) tín hiệu đồng hồ
+@Chuyên ngành kỹ thuật
+#tín hiệu đồng bộ
+#tín hiệu đồng hồ
+#tín hiệu nhịp
+@Lĩnh vực: toán & tin
+#tín hiệu giữ nhịp
+#tín hiệu xung nhịp
+#xung đồng hồ

@@ -1,0 +1,6 @@
+﻿@duplex channel
+#(Tech) băng tần hai chiều, kênh hai chiều [TN]
+@Chuyên ngành kỹ thuật
+#kênh hai chiều
+@Lĩnh vực: toán & tin
+#kênh song công

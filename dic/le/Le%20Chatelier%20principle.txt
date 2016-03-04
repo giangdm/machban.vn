@@ -1,0 +1,3 @@
+﻿@Le Chatelier principle
+#(Econ) Nguyên tắc Le Chatelier.
+: Một mô hình toán học được sử dụng rộng rãi trong kinh tế học, giải quyết các tác động của các ràng buộc đối với việc tối đa hoá hành vi.

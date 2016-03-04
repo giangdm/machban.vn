@@ -1,0 +1,8 @@
+﻿@arabic numerals
+#chữ số A-rập như (0,1,2 ...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các chữ số Ả Rập
+#chữ số Ả Rập
+@Lĩnh vực: điện tử & viễn thông
+#các chữ số A-rập

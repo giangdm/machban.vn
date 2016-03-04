@@ -1,0 +1,2 @@
+﻿@gate-to-drain impedance
+#(Tech) trở kháng từ cổng đến thoát

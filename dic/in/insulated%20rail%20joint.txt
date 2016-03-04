@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#mối nối ray cách ly
+#mối nối ray cách nhiệt

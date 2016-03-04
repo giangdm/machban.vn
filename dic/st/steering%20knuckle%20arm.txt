@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cần dẫn hướng
+@Lĩnh vực: cơ khí & công trình
+#cần khớp nối dẫn hướng
+@Lĩnh vực: xây dựng
+#cần khớp nối hướng dẫn
+@Lĩnh vực: ô tô
+#tay đòn lái

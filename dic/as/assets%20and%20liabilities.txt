@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tài sản có và tài sản nợ
+#tích sản và tiêu sản
+@Chuyên ngành kỹ thuật
+#năng động và thụ động

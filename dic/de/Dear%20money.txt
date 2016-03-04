@@ -1,0 +1,7 @@
+﻿@Dear money
+#(Econ) Tiền đắt.
+: LÃI SUẤT cao hơn so với giá trị trung bình vốn có của nó.
+@Chuyên ngành kinh tế
+#tiền đắt
+#tiền lãi suất cao
+#tiền mắc

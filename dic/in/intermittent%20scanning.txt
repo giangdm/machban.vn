@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#quét gián đoạn
+@Lĩnh vực: toán & tin
+#sự quét không liên tục

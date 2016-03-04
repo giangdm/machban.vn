@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ tin cậy
+#mức tin cậy
+@Lĩnh vực: toán & tin
+#bậc tương quan

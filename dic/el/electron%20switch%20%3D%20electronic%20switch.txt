@@ -1,0 +1,2 @@
+﻿@electron switch = electronic switch
+#(Tech) công tắc điện tử

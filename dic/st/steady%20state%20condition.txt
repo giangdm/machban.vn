@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điều kiện ổn định
+#điều kiện trạng thái dừng
+#điều kiện trạng thái ổn định
+#điều kiện xác lập

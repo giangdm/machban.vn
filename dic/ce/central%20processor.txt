@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bộ xử lý chính (máy tính)
+@Chuyên ngành kỹ thuật
+#bộ xử lý trung tâm

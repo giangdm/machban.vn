@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đường vòng môi chất lạnh
+#nhánh phụ môi chất lạnh
+#nhánh rẽ môi chất lạnh

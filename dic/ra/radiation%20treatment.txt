@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự chiếu sáng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự xử lý bức xạ
+@Lĩnh vực: điện lạnh
+#xử lý bằng bức xạ

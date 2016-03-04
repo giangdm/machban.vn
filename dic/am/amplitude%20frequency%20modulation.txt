@@ -1,0 +1,8 @@
+﻿@amplitude frequency modulation
+#(Tech) biến điệu biên độ tần số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#biến điệu biên độ tần số
+@Lĩnh vực: toán & tin
+#sự biến điệu biên tần
+#sự điều chế biên tần

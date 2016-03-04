@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn bền kéo
+#sức chống đứt tức thời
+@Lĩnh vực: xây dựng
+#cường độ phá hoại
+@Lĩnh vực: cơ khí & công trình
+#giới hạn bền lâu dài (khi thử kéo lâu)
+@Lĩnh vực: toán & tin
+#giới hạn độ bền đứt

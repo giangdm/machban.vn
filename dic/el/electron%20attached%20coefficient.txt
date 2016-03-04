@@ -1,0 +1,2 @@
+﻿@electron attached coefficient
+#(Tech) hệ số đính kèm điện tử

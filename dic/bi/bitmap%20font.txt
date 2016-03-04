@@ -1,0 +1,5 @@
+﻿@bitmap font
+#(Tech) dạng chữ chấm (vuông)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phông bitmap

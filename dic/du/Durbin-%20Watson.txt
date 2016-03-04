@@ -1,0 +1,3 @@
+﻿@Durbin- Watson
+#(Econ) Số thống kê (d hoặc D.W.).
+: Một số thống kê dự báo về bài toán TƯƠNG QUAN CHUỖI của các hệ số sai số trong phép hồi quy.

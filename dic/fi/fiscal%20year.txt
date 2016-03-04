@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#năm kế tóan tài khóa
+#năm ngân sách
+#năm ngân sách tài khóa
+#năm tài chính
+#tài khóa
+@Chuyên ngành kỹ thuật
+#năm tài chính
+@Lĩnh vực: xây dựng
+#niên độ tài vụ
+@Chuyên ngành kỹ thuật
+#năm tài chính
+@Lĩnh vực: xây dựng
+#niên độ tài vụ

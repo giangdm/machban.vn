@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy đếm hạt anpha
+@Lĩnh vực: vật lý
+#ống đếm (hạt) anpha

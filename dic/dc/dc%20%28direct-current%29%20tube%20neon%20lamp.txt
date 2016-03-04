@@ -1,0 +1,2 @@
+﻿@dc (direct-current) tube neon lamp
+#(Tech) đèn ống nêon loại điện một chiều

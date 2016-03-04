@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị đọc văn bản (để nạp vào máy vi tính)
+@Chuyên ngành kỹ thuật
+#bộ đọc tài liệu
+@Lĩnh vực: toán & tin
+#bộ đọc dấu
+#máy đọc tài liệu
+#trình đọc tài liệu
+@Lĩnh vực: điện tử & viễn thông
+#bộ đọc hồ sơ

@@ -1,0 +1,5 @@
+﻿@Inflation subsidy
+#(Econ) Trợ cấp lạm phát.
+: Do tính không linh hoạt về thể chế mà lãi suất và thanh toán nợ có thể không cùng tăng với lạm phát, do đó LÃI SUẤT THỰC TẾ và giá trị thực tế của nợ giảm xuống.
+@Chuyên ngành kinh tế
+#trợ cấp lạm phát

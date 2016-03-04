@@ -1,0 +1,2 @@
+﻿@acceleration parameter
+#(Tech) thông số gia tốc

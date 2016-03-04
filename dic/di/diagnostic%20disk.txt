@@ -1,0 +1,2 @@
+﻿@diagnostic disk
+#(Tech) đĩa chẩn đoán

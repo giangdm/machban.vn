@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khả năng hấp thụ
+@Chuyên ngành kỹ thuật
+#khả năng hấp thụ
+#năng suất hấp thụ

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ ba dây
+@Lĩnh vực: điện lạnh
+#hệ (thống) ba dây
+@Lĩnh vực: hóa học & vật liệu
+#hệ ba cáp
+@Lĩnh vực: điện
+#hệ ba pha
+#hệ thống ba dây

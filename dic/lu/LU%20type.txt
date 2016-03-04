@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#loại LU
+@Lĩnh vực: toán & tin
+#kiểu thiết bị logic

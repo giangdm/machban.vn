@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#tổng sản lượng
+@Chuyên ngành kỹ thuật
+#năng suất lớn nhất
+#tổng công suất
+@Lĩnh vực: cơ khí & công trình
+#công suất toàn phần
+#tổng điện lượng

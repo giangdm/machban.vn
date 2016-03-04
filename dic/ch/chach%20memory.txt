@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ cache
+@Lĩnh vực: toán & tin
+#bộ nhớ đệm nhanh
+#bô nhớ truy nhập nhanh

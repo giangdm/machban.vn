@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#xử lý phân bố mở
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý phân tán mở

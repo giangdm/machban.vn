@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp nối ống mềm
+@Lĩnh vực: cơ khí & công trình
+#đầu nối ống mềm
+@Lĩnh vực: toán & tin
+#sự nối bằng ống mềm
+@Lĩnh vực: xây dựng
+#sự nối bằng ống mền

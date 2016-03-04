@@ -1,0 +1,2 @@
+﻿@error transmission
+#(Tech) truyền sai lầm

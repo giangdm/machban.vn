@@ -1,0 +1,5 @@
+﻿@pseudo-order
+#(máy tính) giả lệnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giả lệnh

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#lãi tài khoản (chưa thu) phải thu
+@Chuyên ngành kỹ thuật
+#lợi tức không được nhận

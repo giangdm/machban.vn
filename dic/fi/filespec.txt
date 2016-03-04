@@ -1,0 +1,8 @@
+﻿@filespec
+#đặc trưng tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đặc trưng tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đặc trưng tệp

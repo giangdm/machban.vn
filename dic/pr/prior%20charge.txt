@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khoản bảo chứng ưu tiên
+#những khoản bảo chứng ưu tiên
+#yêu cầu quyền lợi ưu tiên

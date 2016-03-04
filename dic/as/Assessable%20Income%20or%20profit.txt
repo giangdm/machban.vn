@@ -1,0 +1,3 @@
+﻿@Assessable Income or profit
+#(Econ) Thu nhập hoặc lợi nhuận chịu thuế.
+: Xem TAXABLE INCOME, ALLOWANCES AND EXPENSES FOR CORPORATION TAX, ALLOWANCES AND EXPENSES FOR INCOME TAX.

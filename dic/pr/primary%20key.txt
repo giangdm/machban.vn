@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khóa chính
+@Lĩnh vực: ô tô
+#khóa cửa trung tâm
+@Lĩnh vực: toán & tin
+#khóa sơ cấp

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sự kiểm tra chương trình
+@Lĩnh vực: toán & tin
+#sự thử chương trình
+#sự thử nghiệm chương trình
+#thử chương trình
+@Lĩnh vực: xây dựng
+#trắc nghiệm chương trình

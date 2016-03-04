@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#số nhị phân
+@Chuyên ngành kỹ thuật
+#chữ số nhị phân
+@Lĩnh vực: toán & tin
+#bit nhị phân

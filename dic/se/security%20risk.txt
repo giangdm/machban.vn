@@ -1,0 +1,10 @@
+﻿@security risk
+*danh từ
+#người không đảm bảo về mặt bảo vệ
+@Chuyên ngành kinh tế
+#kẻ đe dọa an ninh
+#người dễ gây tổn hại an ninh của một tổ chức
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#rủi ro về an ninh
+#rủi ro về bảo mật

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#định tuyến, bắc cầu và chuyển các cuộc gọi dịch vụ khẩn

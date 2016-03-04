@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nút cổng mạng
+@Lĩnh vực: toán & tin
+#nút cổng nối

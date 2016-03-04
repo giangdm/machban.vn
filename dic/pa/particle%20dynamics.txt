@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#động lực (học) chất điểm
+#động lực (học) hạt
+@Lĩnh vực: vật lý
+#động lực học hạt

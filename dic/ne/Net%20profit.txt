@@ -1,0 +1,14 @@
+﻿@Net profit
+#(Econ) Lợi nhuận ròng.
+: Là phần còn lại của tổng số lợi nhuận sau khi đã trừ đi thuế và khấu hao.
+@Chuyên ngành kinh tế
+#lãi ròng
+#lợi nhuận ròng
+#lợi nhuận thực (lợi nhận trước thuế)
+#lời ròng
+@Chuyên ngành kỹ thuật
+#lãi ròng
+#lãi thuần
+#lợi nhuận ròng
+#lợi nhuận thuần
+#lợi nhuận thuần túy

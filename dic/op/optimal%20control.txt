@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều khiển tối ưu
+@Lĩnh vực: đo lường & điều khiển
+#điều khiển tối ưu
+@Lĩnh vực: điện tử & viễn thông
+#kiểm soát tối ưu

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ngày tháng nhận trả (hối phiếu)
+@Chuyên ngành kỹ thuật
+#ngày chấp nhận (hối phiếu)

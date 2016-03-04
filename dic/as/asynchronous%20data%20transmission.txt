@@ -1,0 +1,5 @@
+﻿@asynchronous data transmission
+#(Tech) truyền dữ kiện dị bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự truyền dữ liệu dị bộ

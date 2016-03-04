@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#kích thước chất hàng
+@Lĩnh vực: xây dựng
+#khổ chất hàng
+@Chuyên ngành kỹ thuật
+#kích thước chất hàng
+@Lĩnh vực: xây dựng
+#khổ chất hàng

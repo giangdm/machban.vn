@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#kinh phí mở đầu
+#mức đầu tư khởi đầu
+#quỹ đầu tư ban đầu
+#quỹ sáng lập
+#tiền gieo giống
+#tiền gốc
+#tiền khởi cuộc
+#vốn mở đầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tiền bắt đầu
+#tiền khởi sự
+#tư bản bắt đầu
+#tư bản khởi sự

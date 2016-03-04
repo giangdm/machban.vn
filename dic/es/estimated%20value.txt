@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kinh tế
+#giá trị ước tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị đánh giá
+#giá trị ước lượng
+@Lĩnh vực: cơ khí & công trình
+#trị số tính toán
+@Lĩnh vực: điện tử & viễn thông
+#trị số ước lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị đánh giá
+#giá trị ước lượng
+@Lĩnh vực: cơ khí & công trình
+#trị số tính toán
+@Lĩnh vực: điện tử & viễn thông
+#trị số ước lượng

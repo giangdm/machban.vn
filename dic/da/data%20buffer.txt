@@ -1,0 +1,8 @@
+﻿@data buffer
+#(Tech) bộ đệm dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ đếm dữ liệu
+@Lĩnh vực: toán & tin
+#bộ đệm dữ liệu
+#vùng đệm dữ liệu

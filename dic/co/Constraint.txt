@@ -1,0 +1,37 @@
+﻿@Constraint
+#(Econ) Rằng buộc
+: Thường là một mối quan hệ toán học giữa CÁC BIẾN LỰA CHỌN của một bài toán tối ưu hoá; trong đó một hàm nào đó của biến (ví dụ HÀM TUYẾN TÍNH) không bằng một hằng số.
+<!-- more -->
+@constraint /kən'streint/
+*danh từ
+#sự bắt ép, sự ép buộc, sự cưỡng ép, sự thúc ép
+=to act under constraint: hành động do bị ép buộc
+#sự đè nén, sự kiềm chế
+#sự gượng gạo, sự miễn cưỡng; sự e dè
+=to speak without constraint: nói không e dè
+#sự câu thúc, sự giam hãm, sự nhốt (người điên)
+@Chuyên ngành kỹ thuật
+#điều kiện ràng buộc
+#liên kết
+#phản lực liên kết
+#ràng buộc
+#sự cố định chặt
+#sự cưỡng bức
+#sự giới hạn
+#sự hạn chế
+#sự kẹp chặt
+#sự liên kết
+#sự ngàm
+#sự ràng buộc
+<!-- more -->
+@constraint
+#sự ràng buộc, sự hạn chế
+#artificial c. liên hệ giả tạo, ràng buộc giả tạo
+#dual c.s ràng buộc đối ngẫu
+#feasible c.s (lý thuyết trò chơi) ràng buộc chấp nhận được
+#geometric c. ràng buộc hình học
+#ideal c. ràng buộc lý tưởng
+#nonintegrable c. ràng buộc không khả tích
+#rheonomous c. (cơ học) liên kết không ngừng
+#row c. ràng buộc về hàng
+#scleronomous c. (cơ học) liên kết dừng

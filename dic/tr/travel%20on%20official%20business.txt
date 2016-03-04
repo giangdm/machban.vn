@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chuyến đi công tác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chuyến đi công tác chính thức

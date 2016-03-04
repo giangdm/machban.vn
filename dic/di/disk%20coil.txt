@@ -1,0 +1,4 @@
+﻿@disk coil
+#(Tech) cuộn dây hình đĩa
+@Chuyên ngành kỹ thuật
+#cuộn dây hình đĩa

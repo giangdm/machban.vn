@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#rel (đơn vị từ trở bằng một ampe vòng mỗi đường sức từ)
+@Lĩnh vực: điện
+#rơn (đơn vị đo từ trở)

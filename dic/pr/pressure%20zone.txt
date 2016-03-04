@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#miền chịu nén (trong tiết diện bê tông)
+@Lĩnh vực: hóa học & vật liệu
+#vùng áp suất
+@Lĩnh vực: cơ khí & công trình
+#vùng có áp

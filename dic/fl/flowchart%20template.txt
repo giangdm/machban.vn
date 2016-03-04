@@ -1,0 +1,2 @@
+﻿@flowchart template
+#(Tech) bảng vẽ mẫu lưu đồ

@@ -1,0 +1,7 @@
+﻿@dial line
+#(Tech) đường dây quay số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường dây quay số
+@Lĩnh vực: điện tử & viễn thông
+#đường quay số

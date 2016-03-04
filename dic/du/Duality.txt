@@ -1,0 +1,19 @@
+﻿@Duality
+#(Econ) Phương pháp đối ngẫu.
+: Phương phá dẫn xuất các hệ phương trình cầu phái sinh phù hợp với hành vi tối ưu hoá của người tiêu dùng hay sản xuất bằng cách đơn giản là vi phân hóa một hàm thay thế cho việc giải một bài toán tối ưu có ràng buộc.
+<!-- more -->
+@duality /dju:'æliti/
+*danh từ
+#tính hai mặt
+#(toán học) tính đối ngẫu
+@Chuyên ngành kinh tế
+#tính đối ngẫu
+#tính hai mặt
+@Chuyên ngành kỹ thuật
+#đối ngẫu
+@Lĩnh vực: điện lạnh
+#tính hai mặt
+#tính nhị nguyên
+<!-- more -->
+@duality
+#tính đối ngẫu

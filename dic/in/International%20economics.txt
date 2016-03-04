@@ -1,0 +1,5 @@
+﻿@International economics
+#(Econ) Kinh tế học quốc tế
+: Bộ phận của kinh tế học nghiên cứu các giao dịch giữa các nước trong lĩnh vực hàng hoá và dịch vụ, lưu thông tài chính và di chuyển các yếu tố sản xuất.
+@Chuyên ngành kinh tế
+#kinh tế học quốc tế

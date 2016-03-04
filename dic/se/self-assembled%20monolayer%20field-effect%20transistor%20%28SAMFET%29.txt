@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#SAMFET
+#tranzito trường đơn lớp tự ráp

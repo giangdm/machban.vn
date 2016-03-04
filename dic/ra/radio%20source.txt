@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nguồn bức xạ
+@Lĩnh vực: vật lý
+#nguồn phóng xạ
+@Lĩnh vực: điện tử & viễn thông
+#nguồn vô tuyến điện (trong vô tuyến thiên văn)

@@ -1,0 +1,5 @@
+﻿@directivity factor
+#(Tech) yếu tố hướng tính; thừa số hướng tính
+@Chuyên ngành kỹ thuật
+#hệ số định hướng
+#hệ số hướng tính

@@ -1,0 +1,2 @@
+﻿@Gram-Schmidt Procedure
+#(Tech) phương pháp/thủ tục Gram-Schmidt

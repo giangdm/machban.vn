@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phụ tải không phản kháng
+@Lĩnh vực: điện lạnh
+#tải không phản kháng
+#tải thuần trở

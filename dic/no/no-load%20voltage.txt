@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện áp không (phụ) tải
+#điện áp mạch hở
+#thế hiệu chạy không
+#thế hiệu không tải
+@Lĩnh vực: điện
+#điện áp không tải

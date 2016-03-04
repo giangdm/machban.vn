@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#chu kỳ thuận nghịch
+@Lĩnh vực: xây dựng
+#chu trình đảo ngược được

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nhân viên thu chi
+#thủ quỹ
+#thủ quỹ (tập chung vào một người)

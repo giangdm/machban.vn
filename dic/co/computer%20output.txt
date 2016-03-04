@@ -1,0 +1,5 @@
+﻿@computer output
+#(Tech) xuất phẩm (đầu ra) điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đầu ra máy tính

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bó cố định đóng
+@Lĩnh vực: toán & tin
+#gói chương trình cố định đóng

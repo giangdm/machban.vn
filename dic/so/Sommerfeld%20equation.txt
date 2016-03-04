@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công thức Sommerfeld
+@Lĩnh vực: vật lý
+#phương trình Sommerfeld

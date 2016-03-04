@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự thử vòng
+#thử nghiệm mạch vòng

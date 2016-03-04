@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng nạp chất hấp thụ
+@Lĩnh vực: điện lạnh
+#sự nạp chất hấp thụ

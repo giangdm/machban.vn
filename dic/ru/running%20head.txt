@@ -1,0 +1,9 @@
+﻿@running head ['rʌniη ,hed]
+*danh từ
+# nhan đề lặp lại trên những trang kế tiếp nhau
+@Chuyên ngành kỹ thuật
+#dòng đầu trang
+#dòng tít lớn
+#hàng tiêu đề lớn
+@Lĩnh vực: xây dựng
+#đầu chạy

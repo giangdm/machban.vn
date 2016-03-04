@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giao thức khách - khách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức giữa các máy khách
+#giao thức máy khách máy khách

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#đường chảy
+#đường lực
+#đường sức
+#đường sức từ
+#đường từ thông
+@Lĩnh vực: điện
+#dòng thông lượng
+#đường thông lượng
+@Lĩnh vực: điện lạnh
+#đường thông dụng

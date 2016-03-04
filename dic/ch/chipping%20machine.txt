@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#máy bào
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy tạo phoi bào

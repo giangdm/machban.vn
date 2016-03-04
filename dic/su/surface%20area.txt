@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#diện tích
+@Lĩnh vực: điện
+#diện mặt
+@Lĩnh vực: môi trường
+#diện tích bề mặt
+#vùng bề mặt
+@Lĩnh vực: toán & tin
+#diện tích mặt

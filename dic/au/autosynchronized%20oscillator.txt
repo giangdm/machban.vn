@@ -1,0 +1,2 @@
+﻿@autosynchronized oscillator
+#(Tech) bộ dao động tự đồng bộ

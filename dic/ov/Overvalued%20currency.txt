@@ -1,0 +1,6 @@
+﻿@Overvalued currency
+#(Econ) Tiền được định giá quá cao.
+: Một loại tiền mà tỷ giá hối đoái được quy định vượt trên tỷ giá cân bằng của thị trường tự do.
+@Chuyên ngành kinh tế
+#đồng tiền được định giá cao
+#đồng tiền được định giá quá cao

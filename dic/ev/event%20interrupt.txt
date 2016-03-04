@@ -1,0 +1,2 @@
+﻿@event interrupt
+#(Tech) ngắt cho sự biến

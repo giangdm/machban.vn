@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến đổi fourier rời rạc
+@Lĩnh vực: điện tử & viễn thông
+#phép biến đổi Fourier gián đoạn

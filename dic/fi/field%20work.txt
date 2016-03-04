@@ -1,0 +1,18 @@
+﻿@field work ['fi:ldwə:k]
+*danh từ
+# (quân sự) công sự tạm thời; công sự dã chiến
+# sự điều tra ngoài trời (của các nhà (thực vật học), địa chất học)
+@Chuyên ngành kinh tế
+#công việc tại chỗ, tại hiện trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công tác ngoài hiện trường
+#công tác tại hiện trường
+@Lĩnh vực: hóa học & vật liệu
+#công tác thực địa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công tác ngoài hiện trường
+#công tác tại hiện trường
+@Lĩnh vực: hóa học & vật liệu
+#công tác thực địa

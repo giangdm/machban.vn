@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp bọc sơ cấp
+#lớp phủ chính (sợi quang)
+#lớp phủ sơ cấp

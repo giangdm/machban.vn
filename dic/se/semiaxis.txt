@@ -1,0 +1,9 @@
+﻿@semiaxis
+*danh từ
+#nửa trục
+@Chuyên ngành kỹ thuật
+#nửa trục
+@Lĩnh vực: toán & tin
+#bán trục
+@Lĩnh vực: điện lạnh
+#bán tục

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất cắt
+#ứng suất trượt
+@Lĩnh vực: xây dựng
+#ứng suất cắt trượt
+#ứng suất chống cắt

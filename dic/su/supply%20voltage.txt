@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp nguồn
+@Lĩnh vực: điện lạnh
+#điện áp cung cấp
+@Lĩnh vực: xây dựng
+#điện thế cung cấp

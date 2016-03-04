@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#loại dịch vụ
+#loại hộ thuê bao
+#lớp dịch vụ
+@Lĩnh vực: điện tử & viễn thông
+#cấp dịch vụ

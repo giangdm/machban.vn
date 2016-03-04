@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dịch vụ bằng giao kèo
+#dịch vụ bằng hợp đồng
+#dịch vụ bằng khế ước

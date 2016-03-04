@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tỉ lệ phổ cập hàng hóa trên thị trường
+@Chuyên ngành kỹ thuật
+#độ khuếch tán
+@Lĩnh vực: toán & tin
+#tốc độ khuếch tán

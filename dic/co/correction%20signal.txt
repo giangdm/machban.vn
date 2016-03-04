@@ -1,0 +1,5 @@
+﻿@correction signal
+#(Tech) tín hiệu chỉnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tín hiệu hiệu chỉnh

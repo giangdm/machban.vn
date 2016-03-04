@@ -1,0 +1,34 @@
+﻿@Consistency
+#(Econ) Tính nhất quán.
+: Một tính chất mong muốn của các ước lượng kinh tế lượng.
+<!-- more -->
+@consistency /kən'sistənsi/
+*danh từ
+#(như) consistence
+#tính kiên định, tính trước sau như một
+=there is no consistency in this man: anh chàng này thiếu kiên định
+@Chuyên ngành kinh tế
+#độ đặc
+#độ sệt
+#tính nhất quán
+@Chuyên ngành kỹ thuật
+#độ chặt
+#độ đặc
+#độ quánh
+#độ sệt
+#nồng độ bột
+#sự nhất quán
+#tính nhất quán
+@Lĩnh vực: xây dựng
+#tính bền vững
+@Lĩnh vực: toán & tin
+#tính phi mâu thuẫn
+#tính vững
+#trước sau như một
+<!-- more -->
+@consistency
+#tính nhất quán, tính phi mâu thuẫn;(thống kê) tính vững
+#c. of an estimator tính vững của một ước lượng
+#c. of axioms tính phi mâu thuẫn của các tiên đề
+#c. of systems of equations tính phi mâu thuẫn của hệ các phương trình
+#simple c. tính phi mâu thuẫn đơn giản

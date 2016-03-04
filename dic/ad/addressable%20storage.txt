@@ -1,0 +1,2 @@
+﻿@addressable storage
+#(Tech) bộ trữ định địa chỉ được

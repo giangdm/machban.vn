@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chiều dài đặt tải (tính bằng mét)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chiều dài đặt tải (tính bằng mét)

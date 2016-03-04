@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#một đồng sở hữu chủ
+#người cùng sở hữu
+#người đồng sở hữu

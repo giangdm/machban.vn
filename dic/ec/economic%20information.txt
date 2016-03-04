@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thông tin kinh tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thông tin kinh tế

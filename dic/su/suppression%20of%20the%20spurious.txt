@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự triệt phát thanh không cần thiết
+#sự triệt phát xạ không cần thiết
+#sự xóa phát thanh không cần thiết
+#sự xóa phát xạ không cần thiết

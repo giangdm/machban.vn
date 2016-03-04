@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thiết bị cắt mạch
+#thiết bị đóng cắt điện
+#thiết bị ngắt điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thiết bị cắt mạch
+#thiết bị đóng cắt điện
+#thiết bị ngắt điện

@@ -1,0 +1,6 @@
+﻿@Oligopsony
+#(Econ) (Thị trường) độc quyền nhóm mua.
+: Là một thị trường mà tại đó có ít người mua trong khi có rất nhiều người bán.
+@Chuyên ngành kinh tế
+#độc quyền quả đầu mua
+#độc quyền thiểu số mua

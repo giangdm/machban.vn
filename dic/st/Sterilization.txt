@@ -1,0 +1,26 @@
+﻿@Sterilization
+#(Econ) Hết tác động, vô hiệu hoá (bằng chính sách tiền tệ).
+: Việc đối trọng lại các tác động tiền tệ của thặng dư hay thâm hụt CÁN CÂN THANH TOÁN đối với CUNG TIỀN trong nước của mọt quốc gia.
+<!-- more -->
+@sterilization /,sterilai'zeiʃn/
+*danh từ
+#sự khử trùng, sự làm tiệt trùng
+#sự làm cho cằn cỗi
+#sự làm mất khả năng sinh đẻ
+@Chuyên ngành kinh tế
+#cách ly
+#niêm cất vào kho
+#sự cách ly
+#sự đông kết
+#sự niêm cất vào kho
+#sự tiệt trùng
+#sự vô trùng
+#trạng thái vô dụng
+#việc vô hiệu hóa tác động của vàng
+@Chuyên ngành kỹ thuật
+#sự khử trùng
+#sự tiệt trùng
+@Lĩnh vực: y học
+#sự triệt sản, sự tiệt trùng
+@Lĩnh vực: hóa học & vật liệu
+#tiệt trùng

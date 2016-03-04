@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#địa chỉ nhà riêng
+#nơi cư ngụ
+#nơi cự ngụ
+@Chuyên ngành kỹ thuật
+#địa chỉ gốc
+@Lĩnh vực: toán & tin
+#địa chỉ nhà

@@ -1,0 +1,2 @@
+﻿@conversion voltage gain
+#(Tech) tăng ích điện áp hoán đổi

@@ -1,0 +1,5 @@
+﻿@active window
+#(Tech) cửa sổ hoạt động, cửa sổ đang dùng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cửa sổ hiện hành

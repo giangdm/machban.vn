@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đèn halogen kim loại
+@Lĩnh vực: điện lạnh
+#đèn kim loại halogen

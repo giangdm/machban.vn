@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mái đa giác
+#mái tháp
+@Lĩnh vực: toán & tin
+#mái tháp (có nhiều cạnh)

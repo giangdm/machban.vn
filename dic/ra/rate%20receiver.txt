@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy thu mức thay đổi tốc độ (của tên lửa đã phóng)

@@ -1,0 +1,6 @@
+﻿@Free trade area
+#(Econ) Khu vực thương mại tự do.
+: Một sự phân nhóm không chặt chẽ giữa các nước đã loại bỏ THUẾ QUAN và các hàng rào thương mại khác.
+@Chuyên ngành kinh tế
+#khu vực mậu dịch tự do
+#khu vực thương maị tự do

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#phím
+@Lĩnh vực: toán & tin
+#chìa khóa tín hiệu
+#nút tín hiệu
+@Lĩnh vực: điện lạnh
+#phím báo hiệu
+@Lĩnh vực: điện tử & viễn thông
+#phím đánh tín hiệu (truyền tín hiệu mã)

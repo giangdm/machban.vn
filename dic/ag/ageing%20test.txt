@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#sự thử độ già
+@Chuyên ngành kỹ thuật
+#sự thí nghiệm hóa già
+#sự thử lão hóa
+@Lĩnh vực: cơ khí & công trình
+#sự thử hóa già
+@Lĩnh vực: điện
+#thử chịu lão hóa

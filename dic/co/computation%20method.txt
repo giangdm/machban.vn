@@ -1,0 +1,2 @@
+﻿@computation method
+#(Tech) phương pháp tính toán

@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#con lăn căng
+#đồ gá kéo căng
+#puli căng
+#sợi xe
+#sự quấn
+#sự quấn lại
+@Lĩnh vực: ô tô
+#nhả nhanh ly hợp
+@Lĩnh vực: dệt may
+#sự cắt ngắn
+@Lĩnh vực: vật lý
+#sự cuốn lại
+@Lĩnh vực: xây dựng
+#thiết bị căng

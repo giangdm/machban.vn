@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ bình thường
+#nhiệt độ khí quyển
+#nhiệt độ khí trời

@@ -1,0 +1,7 @@
+﻿@pantometer
+*danh từ
+#thước đo vạn năng
+@Chuyên ngành kỹ thuật
+#máy đo góc
+@Lĩnh vực: hóa học & vật liệu
+#thước đo vạn năng (góc, độ cao, khoảng cách)

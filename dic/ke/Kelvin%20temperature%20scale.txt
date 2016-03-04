@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thang nhiệt độ Kelvin
+#thang nhiệt độ Kenlvin
+#thang nhiệt độ tuyệt đối Kelvin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thang nhiệt độ Kelvin
+#thang nhiệt độ Kenlvin
+#thang nhiệt độ tuyệt đối Kelvin

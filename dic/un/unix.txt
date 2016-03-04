@@ -1,0 +1,2 @@
+﻿@unix
+#Một hệ điều hành được dùng trong nhiều loại máy tính khác nhau, từ các máy tính lớn cho đến các máy tính lớn cho đến các máy tính cá nhân, nó có khả năng đa nhiệm phù hợp một cách lý tưỏng đối với các ứng dụng nhiều người dùng

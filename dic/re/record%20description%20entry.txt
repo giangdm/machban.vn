@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mục mô tả của bản ghi
+#sự nhập mô tả bản ghi

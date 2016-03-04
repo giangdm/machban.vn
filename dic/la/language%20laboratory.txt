@@ -1,0 +1,9 @@
+﻿@language laboratory
+*danh từ
+#phòng luyện nghe của người học ngoại ngữ
+@Chuyên ngành kinh tế
+#phòng luyện âm
+@Chuyên ngành kỹ thuật
+#phòng thí nghiệm ngôn ngữ
+@Chuyên ngành kỹ thuật
+#phòng thí nghiệm ngôn ngữ

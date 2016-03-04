@@ -1,0 +1,5 @@
+﻿@fundamental wavelength
+#(Tech) độ dài sóng cơ bản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bước sóng cơ bản

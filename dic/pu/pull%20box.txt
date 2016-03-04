@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hộp kéo dây
+@Lĩnh vực: điện
+#hộp chuốt dây
+#hộp kéo cáp
+@Lĩnh vực: toán & tin
+#hộp kéo

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy tính một bảng mạch (một máy vi tính chỉ sử dụng một bảng mạch in duy nhất cho tất cả các phép logic, định thời, nhớ trong...)

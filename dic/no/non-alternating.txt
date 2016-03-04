@@ -1,0 +1,6 @@
+﻿@non-alternating
+#không thay phiên, không xoay chiều
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#không thay phiên
+#không xoay chiều

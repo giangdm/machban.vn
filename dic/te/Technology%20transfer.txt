@@ -1,0 +1,12 @@
+﻿@Technology transfer
+#(Econ) Chuyển giao công nghệ.
+: Theo nghĩa rộng nhất là sự trao đổi giữa các nước về kiến thức sự tồn tại và vận hành của các loại máy móc và trong nhiều trường hợp là sự trao đổi của bản thânh máy móc.
+@Chuyên ngành kinh tế
+#chuyển giao công nghệ
+#chuyển giao kỹ thuật
+#chuyển giao, chuyển nhượng kỹ thuật
+#chuyển nhượng công nghệ
+@Chuyên ngành kỹ thuật
+#sự chuyển giao công nghệ
+@Lĩnh vực: toán & tin
+#chuyển giao kỹ thuật

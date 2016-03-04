@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phổ hồng ngoại
+@Lĩnh vực: vật lý
+#phổ tia hồng ngoại

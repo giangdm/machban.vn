@@ -1,0 +1,7 @@
+﻿@typer
+*danh từ
+#máy in; thiết bị in
+@Chuyên ngành kỹ thuật
+#thiết bị in
+@Lĩnh vực: điện tử & viễn thông
+#máy viết

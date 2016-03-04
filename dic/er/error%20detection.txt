@@ -1,0 +1,32 @@
+﻿@Chuyên ngành kỹ thuật
+#dò sai hỏng
+#phát hiện lỗi
+#phát hiện sai sót
+#sự dò lỗi
+@Lĩnh vực: toán & tin
+#chẩn đoán trục trặc
+#phát hiện sai
+#sự phát hiện lỗi
+#sự phát hiện sai
+@Lĩnh vực: điện tử & viễn thông
+#dò lỗi
+#phát hiện sai hỏng
+#sự phát hiện sai số
+@Lĩnh vực: xây dựng
+#sự phát hiện sai lầm
+@Chuyên ngành kỹ thuật
+#dò sai hỏng
+#phát hiện lỗi
+#phát hiện sai sót
+#sự dò lỗi
+@Lĩnh vực: toán & tin
+#chẩn đoán trục trặc
+#phát hiện sai
+#sự phát hiện lỗi
+#sự phát hiện sai
+@Lĩnh vực: điện tử & viễn thông
+#dò lỗi
+#phát hiện sai hỏng
+#sự phát hiện sai số
+@Lĩnh vực: xây dựng
+#sự phát hiện sai lầm

@@ -1,0 +1,5 @@
+﻿@Entry preventing price
+#(Econ) Giá ngăn chặn nhập ngành.
+: Giá mà các hãng đã thiết lập trong một ngành định ra ở mức không sợ những doanh nghiệp mơí nhập ngành.
+@Chuyên ngành kinh tế
+#giá ngăn chặn nhập thi

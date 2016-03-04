@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#ống đo
+#xi lanh đo
+@Chuyên ngành kỹ thuật
+#ống đo
+@Lĩnh vực: cơ khí & công trình
+#xi lanh định lượng

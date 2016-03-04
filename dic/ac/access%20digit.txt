@@ -1,0 +1,2 @@
+﻿@access digit
+#(Tech) số mã truy cập

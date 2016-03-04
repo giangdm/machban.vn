@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#biến nguyên
+@Lĩnh vực: xây dựng
+#biến số nguyên

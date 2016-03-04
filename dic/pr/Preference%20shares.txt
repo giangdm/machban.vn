@@ -1,0 +1,6 @@
+﻿@Preference shares
+#(Econ) Cổ phiếu ưu tiên.
+: Cổ phiếu trong một công ty xếp loại đứng trước cổ phần nhưng đứng sau trái phiếu công ty đối với việc thanh toán cổ tức.
+@Chuyên ngành kinh tế
+#cổ phiếu ưu đãi
+#cổ phiếu ưu tiên

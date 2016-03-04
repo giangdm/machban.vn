@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#điện năng kế
+#đồng hồ đếm điện
+#đồng hồ đo điện
+#máy đo điện
+@Lĩnh vực: điện lạnh
+#đồng hồ đo điện (năng)
+@Chuyên ngành kỹ thuật
+#điện năng kế
+#đồng hồ đếm điện
+#đồng hồ đo điện
+#máy đo điện
+@Lĩnh vực: điện lạnh
+#đồng hồ đo điện (năng)

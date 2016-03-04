@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy in bằng giấy nến
+#máy nhân bản bằng stencil

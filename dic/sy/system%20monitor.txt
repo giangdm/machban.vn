@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ hướng dẫn hệ thống
+@Lĩnh vực: toán & tin
+#bộ kiểm soát hệ thống

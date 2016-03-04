@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#biển diễn nhị phân
+@Lĩnh vực: toán & tin
+#ký hiệu nhị phân
+#phép biểu diễn nhị phân
+#sự biểu diễn nhị phân

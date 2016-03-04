@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phần tử bị mòn
+#thanh nhiên liệu bị mòn

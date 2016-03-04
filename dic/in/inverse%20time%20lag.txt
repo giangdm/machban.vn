@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ làm chậm tỷ lệ nghịch
+@Lĩnh vực: điện
+#sự trễ thời gian nghịch đảo

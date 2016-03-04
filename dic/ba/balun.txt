@@ -1,0 +1,6 @@
+﻿@balun
+#(Tech) bộ biến thế cân bằng (từ vào đối xứng ra không đối xứng)
+@Chuyên ngành kỹ thuật
+#bộ làm cân bằng
+@Lĩnh vực: toán & tin
+#balun

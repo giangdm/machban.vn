@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#lợi nhuận tài sản cố định
+#sự tăng lợi nhuận dù loại bỏ một số tư liệu sản xuất
+#tiền lãi từ vốn

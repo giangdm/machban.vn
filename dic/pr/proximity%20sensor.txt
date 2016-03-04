@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#bộ cảm biến độ gần
+#cảm biến không tiếp xúc

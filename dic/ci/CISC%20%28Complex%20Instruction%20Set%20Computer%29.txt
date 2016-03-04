@@ -1,0 +1,7 @@
+﻿@CISC (Complex Instruction Set Computer)
+#(Tech) CISC (Máy Điện Toán dùng Bộ Chỉ Thị Phức Tạp)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy tính có tập lệnh phức
+#máy tính dùng tập lệnh phức
+#máy tính tập lệnh phức hợp

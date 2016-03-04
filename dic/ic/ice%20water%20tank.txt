@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tăng chứa nước lạnh ở 0oC
+#thùng chứa (nước) lạnh 0oC

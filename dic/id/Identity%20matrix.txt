@@ -1,0 +1,5 @@
+﻿@Identity matrix
+#(Econ) Ma trận đơn vị.
+: Thường ký hiệu là I. Là một ma trận có các phần tử nằm trên đường chéo bằng 1 còn các phần tử nằm ngoài đường chéo bằng 0.
+@Chuyên ngành kỹ thuật
+#ma trận đơn vị

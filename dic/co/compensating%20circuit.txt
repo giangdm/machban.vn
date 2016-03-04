@@ -1,0 +1,8 @@
+﻿@compensating circuit
+#(Tech) mạch bù trừ
+@Chuyên ngành kỹ thuật
+#chính
+#mạch bù
+@Lĩnh vực: điện
+#mạch bổ
+#mạch kiểu chiết áp

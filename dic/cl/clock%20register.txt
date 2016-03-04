@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đếm thời gian
+#bộ định thời khoảng
+#thiết bị định thời
+@Lĩnh vực: toán & tin
+#bộ tính giờ
+#thanh ghi giờ
+@Lĩnh vực: xây dựng
+#đăng ký đồng hồ

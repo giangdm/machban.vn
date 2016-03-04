@@ -1,0 +1,2 @@
+﻿@frequency sampling system
+#(Tech) hệ thống lấy mẫu tần số

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#phương pháp lấy mẫu theo tầng
+#sự lấy mẫu phân tầng
+@Chuyên ngành kỹ thuật
+#lấy mẫu theo tầng
+#sự lấy mẫu theo lớp
+#sự lấy mẫu theo tầng
+@Lĩnh vực: điện
+#cách lấy mẫu theo lớp

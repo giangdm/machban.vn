@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đối xứng
+@Lĩnh vực: xây dựng
+#đẩy nhau
+@Lĩnh vực: toán & tin
+#đối xứng, đẩy nhau

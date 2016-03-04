@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khí động lực học
+@Lĩnh vực: điện lạnh
+#cực siêu thanh

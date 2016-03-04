@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khóa ngắt
+@Lĩnh vực: đo lường & điều khiển
+#bộ chuyển mạch điểm ngắt
+@Lĩnh vực: toán & tin
+#chuyển mạch điểm ngắt

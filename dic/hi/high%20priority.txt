@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hạng mục ưu tiên cao
+#quyền ưu tiên đặc biệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ưu tiên cao

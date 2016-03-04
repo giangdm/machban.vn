@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#sự cán mỏng
+#sự phân hủy
+#sự thối hỏng
+@Chuyên ngành kỹ thuật
+#bị chết máy
+#ngưng chạy
+@Lĩnh vực: điện
+#sự hỏng (máy, thiết bị)

@@ -1,0 +1,7 @@
+﻿@active area
+#(Tech) khu vực hoạt/năng động
+@Chuyên ngành kỹ thuật
+#diện tích có ích
+#vùng hoạt động
+@Lĩnh vực: xây dựng
+#miền có ích

@@ -1,0 +1,2 @@
+﻿@abandon call
+#(Tech) gọi bỏ

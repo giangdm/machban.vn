@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số chuyển tiếp
+#hệ số không thích ứng
+#hệ số phản xạ
+#năng suất phản xạ

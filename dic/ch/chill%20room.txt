@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#buồng kết đông
+#buồng lạnh
+#buồng tối
+#phòng bảo quản lạnh
+#phòng gia lạnh
+#phòng lạnh
+@Lĩnh vực: điện lạnh
+#phòng làm đông lạnh

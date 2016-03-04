@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công tắc an toàn
+@Lĩnh vực: điện
+#công tắc chạm

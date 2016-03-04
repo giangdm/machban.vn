@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#kìm hàn
+@Lĩnh vực: ô tô
+#cái bàn kẹp để hàn
+@Lĩnh vực: cơ khí & công trình
+#cái kẹp để hàn
+@Lĩnh vực: hóa học & vật liệu
+#vòng hàn

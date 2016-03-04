@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp hoàn thiện
+@Lĩnh vực: hóa học & vật liệu
+#lớp trên mạ
+@Lĩnh vực: cơ khí & công trình
+#máy tiện hoàn thiện
+@Chuyên ngành kỹ thuật
+#lớp hoàn thiện
+@Lĩnh vực: hóa học & vật liệu
+#lớp trên mạ
+@Lĩnh vực: cơ khí & công trình
+#máy tiện hoàn thiện

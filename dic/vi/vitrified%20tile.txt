@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#gạch tráng men
+#ống gốm
+#tráng men
+@Lĩnh vực: xây dựng
+#gạch gốm tráng men
+@Lĩnh vực: toán & tin
+#gạch ốp tráng men
+@Lĩnh vực: hóa học & vật liệu
+#ống gốm tráng men

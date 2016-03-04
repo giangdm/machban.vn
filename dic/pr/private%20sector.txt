@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khu vực cá thể
+#khu vực công thương nghiệp tư doanh
+#khu vực tư (không thuộc nhà nước)
+#khu vực tư nhân

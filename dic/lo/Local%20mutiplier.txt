@@ -1,0 +1,3 @@
+﻿@Local mutiplier
+#(Econ) Số nhân địa phương
+: Xem REGIONAL MUTIPLIER

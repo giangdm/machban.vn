@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ chuyển ảnh trung gian
+#thiết bị chuyển ảnh trung gian

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nạp luân phiên
+@Lĩnh vực: xây dựng
+#tải trọng biến đổi lặp
+#tải trọng đan dấu
+#tải trọng đổi dấu

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#trị số hiệu dụng
+@Chuyên ngành kỹ thuật
+#giá trị hiệu dụng
+@Lĩnh vực: điện lạnh
+#giá trị căn quân phương
+#giá trị rms

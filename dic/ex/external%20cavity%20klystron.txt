@@ -1,0 +1,2 @@
+﻿@external cavity klystron
+#(Tech) đèn tốc điều hốc ngoài

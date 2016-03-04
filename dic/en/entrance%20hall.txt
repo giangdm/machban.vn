@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#phòng đón khách
+#phòng ngoài (ở lối vào)
+#tiền phòng
+#tiền sảnh
+@Chuyên ngành kỹ thuật
+#phòng đón khách
+#phòng ngoài (ở lối vào)
+#tiền phòng
+#tiền sảnh

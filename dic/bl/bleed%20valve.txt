@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#van thoát nước
+#van thông hơi
+#van thông khí
+#van xả
+#van xả khí
+@Lĩnh vực: cơ khí & công trình
+#van thổi gió

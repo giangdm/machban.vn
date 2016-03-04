@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy rút tiền tự động
+@Lĩnh vực: toán & tin
+#Chế độ Truyền tải Bất đồng bộ

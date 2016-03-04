@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#số tiền cho vay
+#số tiền ghi chịu
+#số tiền thư tín dụng

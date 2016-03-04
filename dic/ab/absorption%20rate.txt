@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#mức hấp thụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mức ngấm nước
+#tốc độ hút thu
+@Lĩnh vực: y học
+#tốc độ hấp thu

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#công đoạn tiệt trùng
+@Chuyên ngành kỹ thuật
+#phòng khử trùng
+@Lĩnh vực: y học
+#phòng đã khử trùng
+@Lĩnh vực: xây dựng
+#phòng đã vô trùng

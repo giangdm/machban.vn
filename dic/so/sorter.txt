@@ -1,0 +1,38 @@
+﻿@sorter /'sɔ:tə/
+*danh từ
+#người lựa chọn, người sắp xếp, người phân loại
+#(kỹ thuật) máy sàng quặng
+@Chuyên ngành kinh tế
+#máy phân loại
+#người chia chọn (thư từ...)
+#người đóng gói
+#người phân hạng
+#người phân loại
+#người xếp hạng
+#người xếp loại
+#phương tiện phân loại
+#thiết bị phân loại
+@Chuyên ngành kỹ thuật
+#bộ chọn
+#chương trình phân loại
+#người chọn
+#máy chọn
+#máy phân loại
+#máy sàng quặng
+#máy tách
+#máy tuyển chọn
+#phân loại
+#sắp xếp
+#sự chọn
+#sự phân loại
+@Lĩnh vực: điện tử & viễn thông
+#bộ sắp xếp
+@Lĩnh vực: toán & tin
+#chương trình chọn
+#thiết bị chọn
+#thiết bị sắp xếp (phiếu)
+@Lĩnh vực: đo lường & điều khiển
+#nhân viên phân loại
+<!-- more -->
+@sorter
+#người chọn, (máy tính) thiết bị chọn

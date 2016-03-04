@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thang nhiệt độ tuyệt đối
+@Lĩnh vực: điện lạnh
+#thang tuyệt đối

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#lãi suất chiết khấu (hối phiếu)
+#phiếu khoán phải thu
+#tỷ suất chiết khấu

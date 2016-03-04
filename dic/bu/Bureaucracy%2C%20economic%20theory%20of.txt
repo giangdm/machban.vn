@@ -1,0 +1,3 @@
+﻿@Bureaucracy, economic theory of
+#(Econ) Lý thuyết kinh tế về hệ thống công chức.
+: Mô hình này giả định rằng các cơ quan nhà nước sẽ cư xử như những tác nhân tối đa hoá ngân sách. Ngân sách lớn hơn cho phép các công chức thoả mãn ý thích của mình về lương, chức tước, bảo đảm việc làm và những lợi ích phi tiền tệ như quyền lực, danh tiếng và cơ hội phân bổ các hợp đồng.

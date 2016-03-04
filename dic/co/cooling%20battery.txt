@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống làm lạnh
+@Chuyên ngành kỹ thuật
+#bộ làm lạnh
+@Lĩnh vực: điện lạnh
+#bộ [dàn] làm lạnh
+#giàn làm lạnh

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#xác suất nghịch đảo
+@Lĩnh vực: cơ khí & công trình
+#xác suất ngược

@@ -1,0 +1,2 @@
+﻿@automatic frequency control circuit
+#(Tech) mạch điều khiển tần số tự động

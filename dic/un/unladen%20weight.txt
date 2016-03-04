@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#trọng lượng chưa chất hàng (tàu đã dỡ hàng)
+#trọng lượng khoang trống

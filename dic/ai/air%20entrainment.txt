@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự tạo khí
+@Lĩnh vực: xây dựng
+#hàm lượng cuốn khí
+#sự dẫn không khí vào
+#vùng không khí

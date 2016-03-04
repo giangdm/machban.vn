@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#phần ứng ngắn mạch
+#rôto lồng sóc
+@Lĩnh vực: điện
+#rôto kiểu lồng sóc

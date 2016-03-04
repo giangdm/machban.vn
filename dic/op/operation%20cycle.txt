@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chu kỳ thao tác
+#chu trình hoạt động
+@Lĩnh vực: toán & tin
+#chu kỳ phép toán

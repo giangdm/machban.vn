@@ -1,0 +1,4 @@
+﻿@Transfer in kind
+#(Econ) Trợ cấp bằng hiện vật.
+@Chuyên ngành kinh tế
+#trợ cấp bằng hiện vật

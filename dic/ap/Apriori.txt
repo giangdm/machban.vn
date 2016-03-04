@@ -1,0 +1,3 @@
+﻿@Apriori
+#(Econ) Tiên nghiệm.
+: Một cụm thuật ngữ miêu tả quá trình suy luận phán đoán từ giả thuyết ban đầu cho đến kết luận. Phương pháp này có thể đối lập với cách tiếp cận dựa trên những cứ liệu rút ra từ thực tế quan sát.

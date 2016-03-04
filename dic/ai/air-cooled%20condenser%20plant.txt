@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trạm giàn ngưng giải nhiệt gió
+#trạm làm ngưng giải nhiệt gió

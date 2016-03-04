@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phiếu kiểm tra
+@Lĩnh vực: cơ khí & công trình
+#phiếu thử (máy, khí cụ)

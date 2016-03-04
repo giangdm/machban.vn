@@ -1,0 +1,5 @@
+﻿@Flight from cash
+#(Econ) Bỏ tiền mặt.
+: Chỉ sự chuyển CỦA CẢI từ tiền mặt thành các tài sản sinh lãi.
+@Chuyên ngành kinh tế
+#chạy chốn khỏi tiền mặt

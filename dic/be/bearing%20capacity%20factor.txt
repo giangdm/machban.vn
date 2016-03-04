@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ số khả năng chịu lực
+@Lĩnh vực: cơ khí & công trình
+#hệ số sức nâng
+@Lĩnh vực: toán & tin
+#hệ số tải dung

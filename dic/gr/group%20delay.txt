@@ -1,0 +1,6 @@
+﻿@group delay
+#(Tech) trì hoãn nhóm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ trễ nhóm
+#thời gian truyền nhóm

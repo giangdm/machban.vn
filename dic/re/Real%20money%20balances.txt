@@ -1,0 +1,3 @@
+﻿@Real money balances
+#(Econ) Các số dư tiền thực tế.
+: Là giá trị của các lượng tiền được nắm giữ được xác định bằng số lượng hàng hoá và dịch vụ mà chúng có thể mua được.

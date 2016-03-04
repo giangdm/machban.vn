@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tổng thể vô hạn
+@Chuyên ngành kỹ thuật
+#tập hợp vô hạn

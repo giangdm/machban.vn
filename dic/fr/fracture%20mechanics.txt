@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cơ học phá hoại
+@Lĩnh vực: vật lý
+#học gãy

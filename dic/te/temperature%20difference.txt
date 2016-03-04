@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ chênh nhiệt độ
+#hiệu nhiệt độ
+@Lĩnh vực: vật lý
+#gradien nhiệt độ
+@Lĩnh vực: hóa học & vật liệu
+#hiệu số nhiệt

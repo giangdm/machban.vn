@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#năng lượng tự do
+#năng lượng tự do Gibbs
+@Lĩnh vực: điện lạnh
+#entanpy tự do
+#hàm Gibbs

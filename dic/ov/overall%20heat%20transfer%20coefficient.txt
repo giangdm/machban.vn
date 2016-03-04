@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số truyền nhiệt tổng
+@Lĩnh vực: vật lý
+#hệ số truyền nhiệt chung

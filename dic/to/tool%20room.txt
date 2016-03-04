@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#xưởng dụng cụ
+@Chuyên ngành kỹ thuật
+#kho dụng cụ
+@Lĩnh vực: xây dựng
+#phòng dụng cụ

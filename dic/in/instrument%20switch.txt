@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#công tắc cảm biến
+@Lĩnh vực: điện
+#công tắc đo
+#công tắc dụng cụ

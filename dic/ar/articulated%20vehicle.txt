@@ -1,0 +1,6 @@
+﻿@articulated vehicle
+*danh từ
+#xe có những đoạn nối nhau bằng khớp mềm dẻo để dễ quay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#ô tô dạng yên ngựa

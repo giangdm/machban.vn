@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dụng cụ xoa phẳng
+#xoa bóng (bề mặt bê tông) điều khiển bằng động cơ

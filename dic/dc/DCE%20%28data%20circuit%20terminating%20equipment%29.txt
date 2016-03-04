@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị gánh cuối mạch dữ liệu
+@Lĩnh vực: toán & tin
+#thiết bị truyền thông mạch dữ liệu

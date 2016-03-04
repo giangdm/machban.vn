@@ -1,0 +1,7 @@
+﻿@Short-time working
+#(Econ) Làm việc ít giờ.
+: Đề cập đến những công nhân làm việc ít giờ hơn TUẦN LÀM VIỆC CHUẨN được nêu trong trong hợp đồng lao động của họ.
+@Chuyên ngành kinh tế
+#hoạt động cầm chừng
+#sự làm việc một phần thời gian
+#thất nghiệp một phần

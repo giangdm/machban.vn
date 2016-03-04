@@ -1,0 +1,6 @@
+﻿@gate array
+#(Tech) giàn cổng, mạng cổng (điện tử)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dãy cổng
+#mảng cổng

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy tính điện tử gia dụng
+#máy vi tính dùng trong nhà
+@Chuyên ngành kỹ thuật
+#máy tính gia đình
+@Lĩnh vực: xây dựng
+#máy vi tính PC

@@ -1,0 +1,2 @@
+﻿@computer servomechanism
+#(Tech) cơ cấu trợ động máy điện toán

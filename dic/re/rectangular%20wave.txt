@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sóng hình chữ nhật
+@Lĩnh vực: điện
+#sóng vuông góc

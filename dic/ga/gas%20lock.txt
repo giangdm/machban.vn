@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#khóa hơi
+@Chuyên ngành kỹ thuật
+#khoang đệm khí
+#phòng đệm khí
+#túi khí
+@Lĩnh vực: hóa học & vật liệu
+#nút hơi
+#sự phong bế hơi

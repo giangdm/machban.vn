@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự kiểm tra công nghệ
+#sự kiểm tra kỹ thuật
+@Chuyên ngành kỹ thuật
+#sự kiểm tra kỹ thuật
+@Lĩnh vực: toán & tin
+#sự điều khiển kỹ thuật

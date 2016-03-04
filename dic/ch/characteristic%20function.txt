@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hàm đặc trưng
+@Chuyên ngành kỹ thuật
+#hàm đặc trưng

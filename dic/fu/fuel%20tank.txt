@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bể chứa nhiên liệu
+#thùng xăng
+@Lĩnh vực: cơ khí & công trình
+#bình chứa nguyên liệu
+#thùng chứa nhiên liệu
+@Lĩnh vực: ô tô
+#bình thùng nhiên liệu

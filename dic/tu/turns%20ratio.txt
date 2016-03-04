@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tỉ số vòng dây
+#tỉ số vòng quấn
+@Lĩnh vực: điện lạnh
+#tỷ số biến đổi

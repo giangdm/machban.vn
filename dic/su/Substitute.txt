@@ -1,0 +1,34 @@
+﻿@Substitute
+#(Econ) Hàng thay thế.
+: Một hàng hoá có thể được thay thế cho một hàng hoá khác hoặc một đầu vào có thể được thay thế cho một đầu vào khác.
+<!-- more -->
+@substitute /'sʌbstitju:t/
+*danh từ
+#người thay thế, vật thay thế
+*ngoại động từ
+#thế, thay thế
+#đổi
+@Chuyên ngành kinh tế
+#để thay thế
+#người thay thế
+#sản phẩm thay thế
+#thay thế (người nào...)
+#thay thế... bằng
+@Chuyên ngành kỹ thuật
+#đầu nối
+#thế
+#vật thay thế
+#vật thế
+@Lĩnh vực: điện lạnh
+#chất thế
+@Lĩnh vực: xây dựng
+#côn nối
+#đoạn ống nối
+#thế phẩm
+@Lĩnh vực: toán & tin
+#thấy
+@Chuyên ngành kỹ thuật
+#thay thế
+<!-- more -->
+@substitute
+#thế

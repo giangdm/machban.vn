@@ -1,0 +1,5 @@
+﻿@Unconvertible loan stock
+#(Econ) Cổ phần không thể chuyển đổi được
+: Xem FINANCIAL CAPITAL.
+@Chuyên ngành kinh tế
+#đồng tiền không chuyển đổi

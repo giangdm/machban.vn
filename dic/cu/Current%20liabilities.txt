@@ -1,0 +1,7 @@
+﻿@Current liabilities
+#(Econ) Tài sản nợ ngắn hạn.
+: Dùng để chỉ những khoản nợ của công ty sẽ phải thanh toán trong năm sau.
+@Chuyên ngành kinh tế
+#nợ không kỳ hạn
+#nợ ngắn hạn
+#tài sản nợ ngắn hạn

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu tách mẩu tin
+#ký tự tách bản ghi

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cạc đục lỗ ở lề
+#thẻ đục lỗ ở mép

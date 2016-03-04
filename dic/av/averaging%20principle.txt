@@ -1,0 +1,2 @@
+﻿@averaging principle
+#(Tech) nguyên lý trung bình

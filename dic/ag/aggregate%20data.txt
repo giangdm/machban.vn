@@ -1,0 +1,2 @@
+﻿@aggregate data
+#(Tech) dữ kiện tập hợp

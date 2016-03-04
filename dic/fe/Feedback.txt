@@ -1,0 +1,57 @@
+﻿@Feedback/entrapment effects
+#(Econ) Tác động phản hồi/bẫy.
+: Giả thiết cho rằng những điều kiện trong thị trường lao động thứ cấp (cấp hai) làm cho công nhân có những thói quen lao đông xấu.
+<!-- more -->
+@feedback /'fi:dbæk/
+*danh từ
+#(raddiô) sự nối tiếp
+#(điện học) sự hoàn ngược
+@Chuyên ngành kinh tế
+#thông tin phản hồi
+@Chuyên ngành kỹ thuật
+#liên hệ ngược
+#mạch hồi tiếp
+#phản hồi
+#sự hồi dưỡng
+#sự hồi tiếp
+#sự phản hồi
+#sự trở về
+@Lĩnh vực: hóa học & vật liệu
+#bồi dưỡng
+@Lĩnh vực: y học
+#hồi tiếp
+@Lĩnh vực: đo lường & điều khiển
+#thông tin hồi tiếp
+@Chuyên ngành kỹ thuật
+#liên hệ ngược
+#mạch hồi tiếp
+#phản hồi
+#sự hồi dưỡng
+#sự hồi tiếp
+#sự phản hồi
+#sự trở về
+@Lĩnh vực: hóa học & vật liệu
+#bồi dưỡng
+@Lĩnh vực: y học
+#hồi tiếp
+@Lĩnh vực: đo lường & điều khiển
+#thông tin hồi tiếp
+<!-- more -->
+@feedback
+#(điều khiển học) sự liên hệ ngược
+#curent f. liên hệ ngược dòng
+#degenerative f. liên hệ ngược âm
+#delayed f. liên hệ ngược có chậm
+#devivative f. liên hệ ngược theo đạo hàm
+#envelope f. liên hệ ngược theo hình bao
+#external f. liên hệ ngược ngoài
+#inverse f. liên hệ ngược âm
+#lagging f. liên hệ ngược trễ
+#local f. liên hệ ngược địa phương
+#monitoring f. liên hệ ngược kiểm tra
+#negative f. liên hệ ngược âm
+#output f. liên hệ ngược từ lối ra
+#position f. liên hệ ngược theo vị trí
+#rate f. theo vận tốc
+#reference f. liên hệ ngược khởi đầu, liên hệ ngược xuất phát
+#voltage f. liên hệ ngược theo hiệu thế

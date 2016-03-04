@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu to thanh truyền
+@Lĩnh vực: ô tô
+#đầu nối trục khuỷu của thanh truyền
+#đầu to thanh nối
+@Lĩnh vực: cơ khí & công trình
+#đầu to của thanh truyền

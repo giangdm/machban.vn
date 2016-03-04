@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểu (dao động) TEM
+@Lĩnh vực: điện lạnh
+#kiểu TEM

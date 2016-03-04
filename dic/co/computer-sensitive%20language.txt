@@ -1,0 +1,2 @@
+﻿@computer-sensitive language
+#(Tech) ngôn ngữ nhạy cảm/phụ thuộc máy điện toán

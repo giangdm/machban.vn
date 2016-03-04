@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#suất thặng dư giá trị
+#tỉ suất giá trị thặng dư
+#tỷ suất giá trị thặng dư

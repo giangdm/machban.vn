@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chế độ đổi ca
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ làm ca

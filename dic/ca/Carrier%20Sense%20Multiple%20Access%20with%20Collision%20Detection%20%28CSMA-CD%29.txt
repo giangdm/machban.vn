@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đa truy cập có dò xung đột
+@Lĩnh vực: điện tử & viễn thông
+#đa truy nhập nhận biết nhà khai thác có phát hiện xung đột

@@ -1,0 +1,13 @@
+﻿@bill of health
+*danh từ
+# giấy cấp cho thuyền trưởng để chứng nhận là có dịch bệnh trên tàu của ông ta hay không
+# giấy khám sức khoẻ; giấy cho biết tình trạng sức khoẻ
+@Chuyên ngành kinh tế
+#chứng nhận sức khỏe
+#chứng thư miễn dịch
+#giấy chứng vệ sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#giấy chứng kiểm dịch
+#giấy chứng nhận kiểm dịch
+#giấy chứng vệ sinh (tài liệu)

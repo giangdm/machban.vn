@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sổ cân đối
+#sổ cân đối tạm
+#sổ kết số
+#sổ tính thử

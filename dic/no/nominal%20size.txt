@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khuôn khổ ấn định
+#kích thước danh định
+#kích thước danh nghĩa

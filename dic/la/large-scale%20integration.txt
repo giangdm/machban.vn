@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#hợp thành đại quy mô
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạng tích hợp cỡ lớn
+@Lĩnh vực: xây dựng
+#tích hợp thang đo lớn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạng tích hợp cỡ lớn
+@Lĩnh vực: xây dựng
+#tích hợp thang đo lớn

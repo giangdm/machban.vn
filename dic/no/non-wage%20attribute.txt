@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#thuộc tính không phải lương
+#thuộc tính không tiền lương

@@ -1,0 +1,2 @@
+﻿@grid resistance
+#(Tech) điện trở lưới

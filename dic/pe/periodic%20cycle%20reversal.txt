@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đảo (ngược) chu trình theo chu kỳ
+#sự đảo (ngược) chu trình theo chu kỳ

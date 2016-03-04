@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự kiểm soát sản xuất
+#sự kiểm tra sản xuất
+@Chuyên ngành kỹ thuật
+#điều khiển sản xuất

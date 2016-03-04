@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ràng buộc
+@Lĩnh vực: toán & tin
+#các hạn chế
+#các liên kết
+#các ràng buộc

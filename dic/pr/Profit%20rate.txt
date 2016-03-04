@@ -1,0 +1,5 @@
+﻿@Profit rate
+#(Econ) Tỷ lệ lợi nhuận.
+: Lợi nhuận được thể hiện dưới dạng một tỷ lệ của giá trị ghi trong sổ sách của các tài sản vốn.
+@Chuyên ngành kinh tế
+#mức lợi nhuận

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tên gọi đầy đủ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tên đầy đủ

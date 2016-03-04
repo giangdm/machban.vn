@@ -1,0 +1,2 @@
+﻿@computergraphic display
+#(Tech) màn hình đồ họa máy điện toán

@@ -1,0 +1,7 @@
+﻿@frame buffer
+#(Tech) bộ nhớ đệm mành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ đệm khung
+#vùng đệm chính
+#vùng đệm khung

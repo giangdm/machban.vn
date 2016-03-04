@@ -1,0 +1,6 @@
+﻿@Labour hoarding
+#(Econ) Tích trữ lao động.
+: Khi các hãng đầu tư mạnh vào việc thuê và đào tạo một công nhân, họ sẽ không muốn sa thải người đó trong thời kỳ kinh tế suy thoái.
+@Chuyên ngành kinh tế
+#cất trữ lao động
+#sự tích trữ lao động

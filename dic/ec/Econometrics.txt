@@ -1,0 +1,15 @@
+﻿@Econometrics
+#(Econ) Môn kinh tế lượng.
+: Một nghành của thống kê học liên quan tới kiểm nghiệm các giả thuyết kinh tế và ước tính các tham số kinh tế chủ yế thông qua phương pháp HỒI QUY BỘI SỐ, mặc dù đôi khi thông qua việc sử dụng phương pháp luận phức tạp hơn.
+@Chuyên ngành kinh tế
+#kinh tế lượng
+#kinh toán học
+#toán kinh tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kính trắc học
+#toán kinh tế
+<!-- more -->
+@econometrics
+*danh từ
+#toán kinh tế

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều chỉnh nhiệt độ
+#bộ khống chế nhiệt độ
+#rơle nhiệt độ

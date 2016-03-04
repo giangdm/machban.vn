@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#khoảng điều chỉnh tốc độ
+#khoảng tốc độ quay
+#tầm tốc độ
+@Lĩnh vực: hóa học & vật liệu
+#khoảng tốc độ
+#phạm vi tốc độ

@@ -1,0 +1,5 @@
+﻿@Quick assets ratio
+#(Econ) Tỷ lệ tài sản dễ chuyển hoán.
+: Đây là tỷ số tài sản dễ chuyển hoán với số nợ hiện đại. Tài sản dễ chuyển hoán là tiền mặt, phần lớn các đầu tư có kỳ hạn có thể thực hiện nhanh chóng và tài khoản các khoản phải thu trừ nợ khó đòi.
+@Chuyên ngành kinh tế
+#tỉ suất tài sản có thể chuyển nhanh thành tiền mặt

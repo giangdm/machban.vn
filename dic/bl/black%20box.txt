@@ -1,0 +1,8 @@
+﻿@black box
+#(Tech) hộp đen
+@Chuyên ngành kinh tế
+#hộp đen
+@Chuyên ngành kỹ thuật
+#cụm điều khiển
+#hộp đen
+#máy ghi dữ liệu bay

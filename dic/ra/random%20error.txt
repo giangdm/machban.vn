@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#sai sót may rủi
+@Chuyên ngành kỹ thuật
+#lối ngẫu nhiên
+#sai số ngẫu nhiên
+@Lĩnh vực: xây dựng
+#độ sai ngẫu nhiên
+@Lĩnh vực: điện tử & viễn thông
+#sai lầm ngẫu nhiên
+#sai lầm tình cờ
+@Lĩnh vực: điện
+#sai số lạc

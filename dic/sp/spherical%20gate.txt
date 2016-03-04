@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cửa van hình cầu
+#cửa van kiểu khớp cầu

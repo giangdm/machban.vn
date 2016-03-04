@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản kết chuyển (trong bảng tổng kết tài sản)
+#tài khoản liên tục

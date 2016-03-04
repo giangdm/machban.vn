@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp nối ống mềm
+@Lĩnh vực: xây dựng
+#vòng kẹp ống mềm

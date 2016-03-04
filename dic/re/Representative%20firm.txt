@@ -1,0 +1,11 @@
+﻿@Representative firm
+#(Econ) Hãng đại diện.
+: Là một hãng tiêu biểu cho một ngành hay một khu vực của nền kinh tế đang được phân tích.
+@Chuyên ngành kinh tế
+#công ty tiêu biểu
+#hãng tiêu biểu
+#hiệu buôn tiêu biểu
+#xí nghiệp có tính đại diện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hãng đại diện

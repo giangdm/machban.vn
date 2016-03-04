@@ -1,0 +1,3 @@
+﻿@New view on money supply
+#(Econ) Quan điểm mới về cung tiền.
+: Là học thuyết về bản chất của tiền tệ và sự tạo ra tiền, trong đó bác bỏ phần lớn học thuyết truyền thống về sự tạo ra tín dụng và về SÔ NHÂN TÍN DỤNG, như là một lý do có giá trị giải thích các thức xác định số lượng các khoản tiền gửi ngân hàng - yếu tố cơ bản của lượng tiền.

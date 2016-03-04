@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản có khoét lỗ
+#bản rỗng (dạng hộp)
+#bản rỗng (xuyên lỗ)
+#panen rỗng (xuyên lỗ)
+#tấm rỗng (xuyên lỗ)

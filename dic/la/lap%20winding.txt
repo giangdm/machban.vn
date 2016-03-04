@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cuộn dây xếp (lợp)
+#dây cuốn xếp (lợp)
+@Lĩnh vực: điện
+#kiểu quấn xếp
+#quấn dây chồng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cuộn dây xếp (lợp)
+#dây cuốn xếp (lợp)
+@Lĩnh vực: điện
+#kiểu quấn xếp
+#quấn dây chồng

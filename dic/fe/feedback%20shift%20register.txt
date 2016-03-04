@@ -1,0 +1,2 @@
+﻿@feedback shift register
+#(Tech) bộ ghi dịch chuyển hồi tiếp

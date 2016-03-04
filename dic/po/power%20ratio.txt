@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số công suất
+@Lĩnh vực: điện lạnh
+#tỷ số công suất (ở ống dẫn sóng)

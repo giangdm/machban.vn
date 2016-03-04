@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ lưu trữ toàn ký
+#bộ nhớ holographic
+#bộ nhớ toàn ký

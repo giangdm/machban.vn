@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#cấu trúc phân lớp
+#cấu trúc vảy
+@Chuyên ngành kỹ thuật
+#cấu trúc dạng tấm
+@Lĩnh vực: hóa học & vật liệu
+#cấu trúc dòng chảy tầng
+@Chuyên ngành kỹ thuật
+#cấu trúc dạng tấm
+@Lĩnh vực: hóa học & vật liệu
+#cấu trúc dòng chảy tầng

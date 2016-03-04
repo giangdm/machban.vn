@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy kế toán điện
+@Lĩnh vực: xây dựng
+#máy tính điện cơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy kế toán điện
+@Lĩnh vực: xây dựng
+#máy tính điện cơ

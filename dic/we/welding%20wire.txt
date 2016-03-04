@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#dây hàn
+#que hàn
+@Lĩnh vực: điện
+#dây máy hàn
+@Lĩnh vực: cơ khí & công trình
+#lõi que hàn thép sợi
+@Lĩnh vực: ô tô
+#que hàn (MIG)

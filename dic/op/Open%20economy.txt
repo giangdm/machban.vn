@@ -1,0 +1,5 @@
+﻿@Open economy
+#(Econ) Nền kinh tế mở.
+: Là một nền kinh tế tham gia vào thương mại quốc tế.
+@Chuyên ngành kinh tế
+#nền kinh tế mở

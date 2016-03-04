@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ lọc lấy cao tần
+@Lĩnh vực: điện lạnh
+#bộ lọc thông cao
+@Lĩnh vực: điện tử & viễn thông
+#bộ lọc thông dải cao

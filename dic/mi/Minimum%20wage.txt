@@ -1,0 +1,7 @@
+﻿@Minimum wage
+#(Econ) Tiền lương tối thiểu.
+@Chuyên ngành kinh tế
+#tiền lương tối thiểu
+#tiền lương tối thiểu (pháp định)
+@Chuyên ngành kỹ thuật
+#lượng tối thiểu

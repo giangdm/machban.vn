@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cổ tức tích lũy (chưa chia)
+#cổ tức tích tụ
+#tiền lãi có phần được tích lũy

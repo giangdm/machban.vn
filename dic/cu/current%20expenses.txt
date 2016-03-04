@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chi phí thông thường
+@Chuyên ngành kỹ thuật
+#chi phí hiện hành
+#chi phí thường xuyên

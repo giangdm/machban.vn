@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#miền Fraunhofer
+#miền xa
+#trường xa
+@Lĩnh vực: điện lạnh
+#vùng bức xạ (ở xa anten)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#chất lỏng không bị nén
+@Lĩnh vực: điện lạnh
+#chất lưu không nén được

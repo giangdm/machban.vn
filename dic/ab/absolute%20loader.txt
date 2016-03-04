@@ -1,0 +1,6 @@
+﻿@absolute loader
+#(Tech) bộ nạp tuyệt đối
+@Chuyên ngành kỹ thuật
+#bộ nạp tuyệt đối
+@Lĩnh vực: toán & tin
+#chương trình tải tuyệt đối

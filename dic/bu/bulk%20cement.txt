@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#xi măng rời
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#xi măng bột
+@Lĩnh vực: xây dựng
+#xi măng không đóng bao
+#xi măng không đóng báo
+#xi măng rời
+#xi măng rời (không đóng bao)

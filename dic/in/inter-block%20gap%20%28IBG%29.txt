@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khe cách khối
+@Lĩnh vực: toán & tin
+#khoảng cách giữa các khối

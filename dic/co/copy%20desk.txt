@@ -1,0 +1,6 @@
+﻿@copy desk
+*danh từ
+#bàn nơi các bản thảo được biên tập và chuẩn bị đem in
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bàn sao

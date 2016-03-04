@@ -1,0 +1,2 @@
+﻿@Black market premium rate
+#(Econ) Tỷ lệ chênh lệch giá trên thị trường chợ đen.

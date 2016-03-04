@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự chưng cất phân đoạn
+@Chuyên ngành kỹ thuật
+#sự chưng cất phân đoạn
+@Lĩnh vực: xây dựng
+#sự chưng cất từng phần

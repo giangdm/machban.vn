@@ -1,0 +1,24 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Mạng cục bộ, LAN
+@Chuyên ngành kỹ thuật
+#mạng cục bộ
+#mạng LAN
+#mạng vùng
+@Lĩnh vực: toán & tin
+#mạng cục bộ-LAN
+#mạng trị vùng
+@Lĩnh vực: xây dựng
+#mạng khu địa phương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Mạng cục bộ, LAN
+@Chuyên ngành kỹ thuật
+#mạng cục bộ
+#mạng LAN
+#mạng vùng
+@Lĩnh vực: toán & tin
+#mạng cục bộ-LAN
+#mạng trị vùng
+@Lĩnh vực: xây dựng
+#mạng khu địa phương

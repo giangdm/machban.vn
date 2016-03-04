@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ phận của giàn
+#bộ phận của rầm
+#cấu kiện của giàn
+#cấu kiện của rầm

@@ -1,0 +1,15 @@
+﻿@Unearned income
+#(Econ) Thu nhập phi tiền lương.
+: Là các nguồn thu ngoài tiền lương, tiền công thường là các nguồn lợi nhuận hoặc tiền lãi hoặc tiền cho thuê.
+@Chuyên ngành kinh tế
+#không phải do tiền lương hoặc do hoạt động kinh doanh
+#lợi tức chưa hưởng
+#thu nhập chưa thu
+#thu nhập được kế toán trước (trên bảng tổng kết tài sản)
+#thu nhập không phải do việc làm
+#thu nhập lợi nhuận do tiền lãi đầu tư
+#thu nhập ngoài tiền lương
+#thu nhập phi doanh nghiệp
+#thu nhập phi lao động
+@Chuyên ngành kỹ thuật
+#lợi tức không kiếm được

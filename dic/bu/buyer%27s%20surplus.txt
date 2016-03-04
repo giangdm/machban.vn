@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số thặng dư của người mua
+#thặng dư của bên mua

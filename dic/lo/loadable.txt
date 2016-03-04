@@ -1,0 +1,3 @@
+﻿@loadable
+*tính từ
+#chất tải được

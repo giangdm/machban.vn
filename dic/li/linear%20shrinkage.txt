@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự khô hao tuyến tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự co đường dây
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự co đường dây

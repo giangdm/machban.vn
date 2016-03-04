@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#ngôn ngữ đánh dấu tiêu chuẩn được tổng quát hóa
+@Chuyên ngành kỹ thuật
+#ngôn ngữ đánh dấu mơ rộng chuẩn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ đánh dấu chuẩn mở rộng

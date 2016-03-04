@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bể điều áp
+@Lĩnh vực: hóa học & vật liệu
+#buồng điều áp
+@Lĩnh vực: điện lạnh
+#buồng ổn định (dòng chảy)

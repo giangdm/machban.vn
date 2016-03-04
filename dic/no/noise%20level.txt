@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#mức nhiễu
+#mức ồn
+#sàn nhiễu
+@Lĩnh vực: xây dựng
+#mức độ ồn
+@Lĩnh vực: điện tử & viễn thông
+#mức nhiễu, mức ồn

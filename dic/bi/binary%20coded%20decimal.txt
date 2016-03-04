@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mã thập-nhị phân
+@Lĩnh vực: điện lạnh
+#thập phân mã hóa nhị phân
+@Lĩnh vực: điện tử & viễn thông
+#thập phân mã sang nhị phân
+@Lĩnh vực: xây dựng
+#thập phân sang mã nhị phân

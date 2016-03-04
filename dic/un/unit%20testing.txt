@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thử nghiệm (từng) đơn vị
+@Lĩnh vực: điện
+#thử nghiệm khối
+@Lĩnh vực: xây dựng
+#trắc đơn

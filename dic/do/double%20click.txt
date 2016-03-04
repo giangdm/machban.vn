@@ -1,0 +1,7 @@
+﻿@double click
+#(Tech) hai tiếng cách, bấm nhồi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ấn đôi (phím chuột)
+#clich đôi (chuột)
+#sự kích đúp

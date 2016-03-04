@@ -1,0 +1,5 @@
+﻿@Equivalent income scale
+#(Econ) Thang/hệ số/ tỷ lệ/qui mô qui đổi thu nhập tương đương
+: Một hệ số bằng số áp dụng đối với mức thu nhập của các gia đình cần có để đạt tới mức sống nhất định.
+@Chuyên ngành kinh tế
+#quy mô thu nhập ngang nhau

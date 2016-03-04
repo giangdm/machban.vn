@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ngưỡng khởi động báo động
+@Lĩnh vực: điện tử & viễn thông
+#ngưỡng phát động báo động

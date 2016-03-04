@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#mức tín dụng ngắn hạn
+#tín dụng đệm
+#tín dụng tiếp sức
+@Chuyên ngành kỹ thuật
+#cáp điều khiển

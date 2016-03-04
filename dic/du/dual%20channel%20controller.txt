@@ -1,0 +1,2 @@
+﻿@dual channel controller
+#(Tech) bộ điều khiển kênh kép (đọc-viết)

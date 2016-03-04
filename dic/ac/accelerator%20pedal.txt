@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bàn đạp ga
+@Lĩnh vực: cơ khí & công trình
+#bàn đạp gia tốc
+@Lĩnh vực: xây dựng
+#bàn đạp tăng tốc
+@Lĩnh vực: ô tô
+#pêđan tăng tốc

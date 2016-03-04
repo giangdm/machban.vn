@@ -1,0 +1,5 @@
+﻿@corrector circuit
+#(Tech) mạch sửa, mạch hiệu chỉnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mạch hiệu chỉnh

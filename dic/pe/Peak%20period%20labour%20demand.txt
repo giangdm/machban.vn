@@ -1,0 +1,6 @@
+﻿@Peak period labour demand
+#(Econ) Cầu lao động ở thời kỳ cao điểm; Cầu lao động ở kỳ giáp hạt.
+: Mức cầu về lao động ở thời điểm cao nhất, cụm thuật ngữ này thường được nói đến việc làm trong nông nghiệp có tính chất chu kỳ với những đỉnh điểm xảy ra vào thời gian thu hoạch.
+@Chuyên ngành kinh tế
+#mức cầu lao động cao điểm
+#mức cầu lao động trong thời kỳ cao điểm

@@ -1,0 +1,2 @@
+﻿@capacitor-transformer gyrator
+#(Tech) bộ hồi chuyển điện dung-biến áp

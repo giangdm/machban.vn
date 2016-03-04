@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bọt khí
+#lỗ thoát khí
+#rỗ khí (trong kim loại)

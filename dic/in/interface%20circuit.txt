@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch giao diện
+#mạch khớp nối
+@Lĩnh vực: điện tử & viễn thông
+#mạch môi giới

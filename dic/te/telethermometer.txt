@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt kế đọc từ xa
+#máy đo nhiệt từ xa
+@Lĩnh vực: hóa học & vật liệu
+#viễn nhiệt kế

@@ -1,0 +1,9 @@
+﻿@angular deflection
+#(Tech) độ lệch góc
+@Chuyên ngành kỹ thuật
+#độ lệch góc
+@Lĩnh vực: toán & tin
+#độ lệnh góc
+#sự làm lệch góc
+@Lĩnh vực: xây dựng
+#góc xoay (dầm chịu uốn)

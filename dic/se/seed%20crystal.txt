@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#mầm tinh thể
+#màu tinh thể
+@Chuyên ngành kỹ thuật
+#nhân kết tinh
+#mầm kết tinh

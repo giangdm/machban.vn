@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#làm mát bằng ga hút
+#làm mát bằng hơi hút
+#sự làm mát bằng hơi hút (gas hút)

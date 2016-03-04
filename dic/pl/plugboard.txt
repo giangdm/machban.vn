@@ -1,0 +1,11 @@
+﻿@plugboard
+#(máy tính) cái đảo mạch có phíc, bảng cắm (điện)
+@Chuyên ngành kỹ thuật
+#bảng chuyển mạch
+#bảng nối mạch
+#bảng ổ cắm
+#bảng phân phối
+@Lĩnh vực: toán & tin
+#bản cắm (điện)
+@Lĩnh vực: điện
+#bảng phích cắm

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cửa bít kín (không lọt khí)
+#cửa đóng kín (không lọt khí)
+@Lĩnh vực: điện lạnh
+#cửa có đệm kín

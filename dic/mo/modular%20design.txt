@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thiết kế theo môđun
+@Lĩnh vực: toán & tin
+#thiết kế lắp ráp
+#thiết kế theo module
+@Lĩnh vực: xây dựng
+#thiết kế theo môđun

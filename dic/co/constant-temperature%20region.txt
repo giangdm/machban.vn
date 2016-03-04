@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#vùng nhiệt độ không đổi
+#vùng nhiệt độ ổn áp
+#vùng nhiệt độ ổn định

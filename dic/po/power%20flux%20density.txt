@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mật độ dòng điện
+@Lĩnh vực: vật lý
+#mật độ dòng năng lượng

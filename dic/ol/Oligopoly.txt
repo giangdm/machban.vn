@@ -1,0 +1,10 @@
+﻿@Oligopoly
+#(Econ) (Thị trường) độc quyền nhóm bán
+: Là một cơ cấu thị trường trong đó các doanh nghiệp đều ý thức được sự phụ thuộc lẫn nhau trong các kế hoạch bán hàng, sản xuất , đầu tư và quảng cáo.
+@Chuyên ngành kinh tế
+#độc quyền quả bán
+#độc quyền thiểu số bán
+<!-- more -->
+@oligopoly
+*danh từ
+#thị trường trong đó có một vài hàng hoá có ảnh hưởng nhưng đều không làm chủ được thị trường

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ngưng tụ hoàn toàn
+#sự ngưng tụ hoàn toàn
+@Lĩnh vực: hóa học & vật liệu
+#sự hồi lưu toàn phần

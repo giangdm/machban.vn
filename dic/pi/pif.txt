@@ -1,0 +1,2 @@
+﻿@pif
+#tệp thông tin chương trình trong Windows

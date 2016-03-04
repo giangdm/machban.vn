@@ -1,0 +1,4 @@
+﻿@telecontrolled
+*tính từ
+#(điện) điều khiển từ xa
+=telecontrolled aeroplane:máy bay điều khiển bằng rađiô

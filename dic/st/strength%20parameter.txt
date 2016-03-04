@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tham số độ bền
+@Lĩnh vực: cơ khí & công trình
+#thông số độ bền

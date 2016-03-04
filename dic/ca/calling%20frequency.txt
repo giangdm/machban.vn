@@ -1,0 +1,2 @@
+﻿@calling frequency
+#(Tech) tần số gọi

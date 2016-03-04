@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống độc lập
+@Lĩnh vực: toán & tin
+#hệ thống tự quản

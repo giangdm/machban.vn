@@ -1,0 +1,3 @@
+﻿@Expectations, augmented
+#(Econ) Biến bổ sung về dự tính.
+: Là các biến đổi đối với một mô hình kinh tế để tính đến hiệu ứng của các dự tính.

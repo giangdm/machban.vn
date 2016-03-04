@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng màu
+@Lĩnh vực: toán & tin
+#bảng màu mảng màu
+#mảng màu
+@Lĩnh vực: xây dựng
+#tấm pha màu

@@ -1,0 +1,8 @@
+﻿@forward signal
+#(Tech) tín hiệu đi tới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tín hiệu hướng tới
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu thuận
+#tín hiệu xuôi

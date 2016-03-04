@@ -1,0 +1,6 @@
+﻿@Forward linkage
+#(Econ) Liên hệ xuôi.
+: Mối hệ giữa một ngành hay một công ty và các ngành hay công ty và các ngành hay các công ty khác sử dụng đầu ra của một ngành hay công ty này như là ĐẦU VÀO của mình.
+@Chuyên ngành kinh tế
+#mối liên hệ kế tiếp
+#môi liên hệ trực tiếp

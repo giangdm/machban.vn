@@ -1,0 +1,9 @@
+﻿@listeria
+*danh từ
+#một vài loại vi khuẩn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#loại vi khuẩn hình que, di động, hiếu khí, gram dương, ký sinh trong các động vật máu nóng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#loại vi khuẩn hình que, di động, hiếu khí, gram dương, ký sinh trong các động vật máu nóng

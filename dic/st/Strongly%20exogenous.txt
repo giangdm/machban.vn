@@ -1,0 +1,3 @@
+﻿@Strongly exogenous
+#(Econ) Nặng về ngoại ngoại sinh.
+: Xem EXOGENEITY.

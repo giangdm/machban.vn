@@ -1,0 +1,26 @@
+﻿@list price
+*danh từ
+#<thương> giá trong bảng giá, giá niêm yết
+@Chuyên ngành kinh tế
+#giá bán lẻ
+#giá ca-ta-lô
+#giá công khai
+#giá ghi bảng
+#giá trên bảng giá
+#giá trên bảng giá mục hàng hóa
+@Chuyên ngành kỹ thuật
+#giá theo bảng chào hàng
+@Lĩnh vực: ô tô
+#bảng giá gốc
+@Lĩnh vực: xây dựng
+#bảng giá theo catalo
+@Lĩnh vực: hóa học & vật liệu
+#giá biểu
+@Chuyên ngành kỹ thuật
+#giá theo bảng chào hàng
+@Lĩnh vực: ô tô
+#bảng giá gốc
+@Lĩnh vực: xây dựng
+#bảng giá theo catalo
+@Lĩnh vực: hóa học & vật liệu
+#giá biểu

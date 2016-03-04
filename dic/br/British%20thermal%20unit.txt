@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kinh tế
+#đơn vị nhiệt lượng Anh
+@Chuyên ngành kỹ thuật
+#đơn vị nhiệt Anh
+@Lĩnh vực: điện lạnh
+#Btu (? 10545 J)
+#Btumean (?10558 J)
+#Btuk
+#đơn vị nhiệt Anh trung bình
+@Lĩnh vực: đo lường & điều khiển
+#đơn vị đo lường nhiệt của anh BTU (-1, 055 kJ)
+@Lĩnh vực: y học
+#đơn vị nhiệt lượng Anh
+@Lĩnh vực: điện
+#đơn vị nhiệt năng của Anh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#btu

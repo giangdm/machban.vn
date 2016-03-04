@@ -1,0 +1,5 @@
+﻿@Gross domestic product deflator
+#(Econ) Chỉ số khử lạm phát cho tổng sản phẩm quốc nội.
+: Một chỉ số giá được sử dụng để điều chỉnh giá trị bằng tiền của tất cả hàng hoá và dịch vụ tham gia vào tổng sản phẩm quốc nội khi giá cả thay đổi.
+@Chuyên ngành kinh tế
+#chỉ số giảm phát tổng sản phẩm quốc nội

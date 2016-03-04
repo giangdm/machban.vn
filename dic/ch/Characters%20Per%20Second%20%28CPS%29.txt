@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#số ký tự trong một giây
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số ký tự trên giây
+@Chuyên ngành kỹ thuật
+#số ký tự mỗi giây

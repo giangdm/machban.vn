@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#giản đồ định thời
+@Lĩnh vực: ô tô
+#biểu đồ phân phối khí
+@Lĩnh vực: điện tử & viễn thông
+#sơ đồ định thời

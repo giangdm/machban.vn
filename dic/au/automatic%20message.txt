@@ -1,0 +1,5 @@
+﻿@automatic message
+#(Tech) thông báo tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thông báo tự động

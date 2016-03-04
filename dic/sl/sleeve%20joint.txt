@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp bản lề
+#khớp nối ống
+#mối nối ống
+#ống nối
+@Lĩnh vực: hóa học & vật liệu
+#khớp nối lồng
+@Lĩnh vực: xây dựng
+#mối nối kiểu măng song
+#mối nối kiểu ống bao

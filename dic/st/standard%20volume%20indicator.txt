@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chỉ báo âm lượng chuẩn
+@Lĩnh vực: toán & tin
+#chỉ báo âm lượng chuẩn

@@ -1,0 +1,2 @@
+﻿@urat
+#Một mạch tích hợp dùng để chuyển chuỗi dữ liệu song song bên trong một máy tính thành chuỗi nối tiếp, loại chuỗi dữ liệu cái này sau cái kia dùng trong truyền thông không đồng bộ Quá trình truyền thông nối tiếp khi đã có UART, còn đòi hỏi phải có cổng và modem nối tiếp

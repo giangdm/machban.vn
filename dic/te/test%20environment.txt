@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều kiện chạy thử
+#môi trường chạy thử
+#môi trường kiểm tra

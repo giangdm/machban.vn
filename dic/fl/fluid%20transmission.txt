@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#hộp biến tốc thủy lực
+#hộp truyền động thủy lực

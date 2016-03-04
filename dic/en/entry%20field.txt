@@ -1,0 +1,10 @@
+﻿@entry field
+#(Tech) phạm vi nhập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trương nhập
+#vùng nhập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trương nhập
+#vùng nhập

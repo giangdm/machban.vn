@@ -1,0 +1,2 @@
+﻿@crossover voltage
+#(Tech) điện áp giao chéo

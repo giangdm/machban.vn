@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cấu kiện của khối (tổ hợp)
+@Lĩnh vực: toán & tin
+#yếu tố khối lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cấu kiện của khối (tổ hợp)
+@Lĩnh vực: toán & tin
+#yếu tố khối lượng

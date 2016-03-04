@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#lỗ bugi
+@Lĩnh vực: cơ khí & công trình
+#lỗ lắp bugi vào máy

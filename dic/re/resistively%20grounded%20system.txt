@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hệ thống (có) trung tính nối đất qua điện trở

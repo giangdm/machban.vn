@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch hoán đổi thuần túy
+#giao dịch soap (hoán đổi) thuần túy

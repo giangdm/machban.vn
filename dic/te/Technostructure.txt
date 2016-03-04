@@ -1,0 +1,6 @@
+﻿@Technostructure
+#(Econ) Cấu trúc công nghệ.
+: Lớp học quản lý và kỹ năng hoạch định và kỹ thuật mà sản xuất công nghiệp hiện đại đòi hỏi.
+@Chuyên ngành kinh tế
+#cơ cấu kỹ thuật
+#tầng lớp quản lý kỹ thuật (của xã hội hiện đại)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu nhiệt độ
+@Lĩnh vực: xây dựng
+#áp lực nhiệt độ
+@Lĩnh vực: điện lạnh
+#độ chênh lệch nhiệt độ

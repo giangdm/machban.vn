@@ -1,0 +1,6 @@
+﻿@automatic loader
+#(Tech) bộ nạp tự động
+@Chuyên ngành kỹ thuật
+#bộ nạp tự động
+@Lĩnh vực: xây dựng
+#máy bốc xếp tự động

@@ -1,0 +1,3 @@
+﻿@Indexation of tax allowances and taxation.
+#(Econ) Chỉ số hoá việc trợ cấp thuế và việc đánh thuế.
+: Chỉ số hoá các khoản trợ cấp thuế là quá trình giữ cho số lượng trợ cấp thuế không đổi tính theo giá trị thực tế.

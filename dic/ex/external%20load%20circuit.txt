@@ -1,0 +1,2 @@
+﻿@external load circuit
+#(Tech) mạch gánh ngoài

@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#đặc tính tải
+@Lĩnh vực: điện
+#đặc tính (phụ) tải
+#đặc tuyến (phụ) tải
+@Lĩnh vực: điện lạnh
+#đặc tính động
+@Lĩnh vực: toán & tin
+#đặc tuyến tải
+@Lĩnh vực: giao thông & vận tải
+#đặc tuyến tải trọng
+@Chuyên ngành kỹ thuật
+#đặc tính tải
+@Lĩnh vực: điện
+#đặc tính (phụ) tải
+#đặc tuyến (phụ) tải
+@Lĩnh vực: điện lạnh
+#đặc tính động
+@Lĩnh vực: toán & tin
+#đặc tuyến tải
+@Lĩnh vực: giao thông & vận tải
+#đặc tuyến tải trọng

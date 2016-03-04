@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đo điện trở đất
+@Lĩnh vực: điện lạnh
+#thử nghiệm điện trở đất
+@Lĩnh vực: điện
+#thử nghiệm nối đất

@@ -1,0 +1,7 @@
+﻿@building site
+*danh từ
+#khu đất đang xây dựng nhà ở
+@Chuyên ngành kỹ thuật
+#công trường xây dựng
+@Lĩnh vực: xây dựng
+#khu đất xây dựng

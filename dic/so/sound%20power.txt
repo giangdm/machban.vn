@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cường độ âm
+@Lĩnh vực: toán & tin
+#công suất âm (tần)
+@Lĩnh vực: xây dựng
+#công suất âm (thanh)

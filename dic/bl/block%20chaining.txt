@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương pháp liên kết khối
+#sự móc mối khối
+#xếp thành chuỗi các khối

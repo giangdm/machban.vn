@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#biên pha
+@Lĩnh vực: cơ khí & công trình
+#ranh giới giữa các pha

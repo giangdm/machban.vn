@@ -1,0 +1,5 @@
+﻿@time-sheet
+*danh từ
+#sổ chấm công, sổ ghi số giờ làm việc
+@Chuyên ngành kỹ thuật
+#biểu đồ thời gian

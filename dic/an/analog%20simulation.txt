@@ -1,0 +1,4 @@
+﻿@analog simulation
+#(Tech) mô phỏng tương tự
+@Chuyên ngành kỹ thuật
+#sự mô phỏng tương tự

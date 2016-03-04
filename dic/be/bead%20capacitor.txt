@@ -1,0 +1,2 @@
+﻿@bead capacitor
+#(Tech) bộ điện dung hình chuỗi

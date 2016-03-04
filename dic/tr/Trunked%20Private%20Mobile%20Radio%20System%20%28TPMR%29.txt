@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tạo nhóm trung kế của hệ thống vô tuyến di động dùng riêng

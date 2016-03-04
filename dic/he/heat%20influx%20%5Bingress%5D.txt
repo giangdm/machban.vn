@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng nhiệt cấp
+@Lĩnh vực: điện lạnh
+#dòng nhiệt xâm nhập

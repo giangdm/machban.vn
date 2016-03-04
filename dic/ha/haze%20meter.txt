@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#cái đo độ đục
+#đục kế
+@Chuyên ngành kỹ thuật
+#đục kế
+@Lĩnh vực: đo lường & điều khiển
+#máy đo độ đục
+#máy đo sương mù
+@Lĩnh vực: vật lý
+#quang kế truyền qua

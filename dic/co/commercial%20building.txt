@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa hàng
+#nhà phục vụ kinh doanh
+#nhà thương mại
+@Lĩnh vực: xây dựng
+#nhà bán hàng

@@ -1,0 +1,3 @@
+﻿@Cost - utility analysis
+#(Econ) Phân tích chi phí - công dụng; Phân tích tận dụng chi phí.
+: Là một phân tích CHI PHÍ - HIỆU QUẢ trong kinh tế học y tế, trong đó kết quả hay lợi ích được tính bằng Tuổi thọ đã điều chỉnh theo chất lượng hoặc một số đo phi tiền tệ chỉ phúc lợi của bệnh nhân.

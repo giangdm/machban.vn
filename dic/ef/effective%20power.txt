@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#công suất thực
+@Lĩnh vực: hóa học & vật liệu
+#công suất hữu hiệu
+@Lĩnh vực: xây dựng
+#công suất thực tế

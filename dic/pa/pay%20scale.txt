@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thang lương
+#tiêu chuẩn lương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thang trả lương

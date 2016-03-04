@@ -1,0 +1,3 @@
+﻿@packing-list
+*danh từ
+#phiếu đóng gói

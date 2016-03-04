@@ -1,0 +1,5 @@
+﻿@duplex system
+#(Tech) hệ thống truyền thông hai chiều
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống song công

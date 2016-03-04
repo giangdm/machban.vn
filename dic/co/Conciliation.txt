@@ -1,0 +1,15 @@
+﻿@Conciliation
+#(Econ) Hoà giải
+: Sự can thiệp vào một TRANH CHẤP VỀ LAO ĐỘNG theo yêu cầu của các bên liên quan bằng một bên thứ ba độc lập và không thiên vị nhằm hoà giải các quan điểm của hai bên. Xem MEDIATION, ARBITRATION.
+<!-- more -->
+@conciliation /kən,sili'eiʃn/
+*danh từ
+#sự hoà giải
+=court of conciliation: toà án hoà giải
+@Chuyên ngành kinh tế
+#cuộc hòa giải
+#hòa giải
+#sự điều giải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hòa giải

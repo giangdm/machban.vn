@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các mặt phẳng thẳng góc
+#các mặt phẳng vuông góc

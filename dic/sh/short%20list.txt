@@ -1,0 +1,6 @@
+﻿@short list
+*danh từ
+#số lượng nhỏ (nhất là các người dự tuyển vào một công việc được chọn lựa từ số lượng người dự tuyển lớn hơn )
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#danh sách hạn chế

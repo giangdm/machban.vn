@@ -1,0 +1,2 @@
+﻿@global bus
+#(Tech) mẫu tuyến chung

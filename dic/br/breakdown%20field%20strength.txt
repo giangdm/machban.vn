@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cường độ điện trường đánh thủng
+@Lĩnh vực: điện
+#cường độ trường đánh thủng

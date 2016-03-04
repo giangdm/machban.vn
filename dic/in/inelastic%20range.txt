@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#miền không đàn hồi
+@Lĩnh vực: xây dựng
+#miền phi đàn hồi
+@Lĩnh vực: cơ khí & công trình
+#vùng không đàn hồi

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#đường đứt
+#đường gián đoạn
+#đường nét đứt
+#nét cắt
+#nét gạch gạch
+@Lĩnh vực: toán & tin
+#đường đứt nét
+#đường gạch (-)
+@Lĩnh vực: cơ khí & công trình
+#đường gạch
+@Lĩnh vực: xây dựng
+#đường nét đứt đoạn
+#đường vạch vạch (-----)

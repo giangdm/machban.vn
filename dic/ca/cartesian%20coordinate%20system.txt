@@ -1,0 +1,10 @@
+﻿@cartesian coordinate system
+#(Tech) hệ thống tọa độ Đêcáctơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ số tọa độ Descartes
+@Lĩnh vực: toán & tin
+#hệ tọa độ Cartesian
+#Hệ tọa độ Đề cát
+@Lĩnh vực: điện tử & viễn thông
+#hệ tọa độ Đê-các-tơ

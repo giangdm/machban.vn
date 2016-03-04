@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#vị trí đục lỗ
+@Lĩnh vực: xây dựng
+#ô phiếu đục lỗ
+#vị trí trên phiếu (đục) lỗ

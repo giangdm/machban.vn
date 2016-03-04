@@ -1,0 +1,9 @@
+﻿@absolute error
+#(Tech) sai số tuyệt đối
+@Chuyên ngành kinh tế
+#sai số tuyệt đối
+@Chuyên ngành kỹ thuật
+#lỗi đã xác nhận
+#lỗi tuyệt đối
+@Lĩnh vực: y học
+#sai số tuyệt đối

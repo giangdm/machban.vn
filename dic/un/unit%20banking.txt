@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chế độ ngân hàng đơn nhất
+#chế độ ngân hàng đơn nhất (không được phép mở các chi nhánh)
+#dịch vụ ngân hàng theo đơn vị duy nhất

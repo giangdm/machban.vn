@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#nhu cầu cao điểm
+#thời kỳ tiêu thụ cao điểm (điện lực)
+@Chuyên ngành kỹ thuật
+#phụ tải đỉnh
+@Lĩnh vực: điện
+#nhu cầu điện năng đỉnh
+#nhu cầu phụ tải đỉnh

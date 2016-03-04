@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phát điện tuabin
+@Lĩnh vực: cơ khí & công trình
+#máy phát xoay chiều
+@Lĩnh vực: điện
+#tuabin máy phát (xoay chiều)
+@Lĩnh vực: xây dựng
+#tuabin phát điện

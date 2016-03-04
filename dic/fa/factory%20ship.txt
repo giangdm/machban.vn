@@ -1,0 +1,13 @@
+﻿@factory ship ['fæktəri∫ip]
+*danh từ
+# tàu đánh cá kiêm chế biến
+@Chuyên ngành kinh tế
+#nhà máy đánh bắt cá
+#tàu chế biến (hải sản ngoài khơi)
+#tàu mẹ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tàu ở xưởng chế tạo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tàu ở xưởng chế tạo

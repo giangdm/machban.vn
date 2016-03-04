@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ thống tưới tiêu
+#mạng lưới tưới nước
+#mạng tưới tiêu

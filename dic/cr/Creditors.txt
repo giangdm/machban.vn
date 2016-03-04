@@ -1,0 +1,5 @@
+﻿@Creditors
+#(Econ) Các chủ nợ.
+: Là các cá nhân hay các tổ chức cho vay tiền để được người hoặc tổ chức vay hứa trả một khoản tiền nhất định hàng năm theo LÃI SUẤT  và hoàn trả GỐC vào một ngày nào đó trong tương lai.
+@Chuyên ngành kinh tế
+#tiền nợ

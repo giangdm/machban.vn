@@ -1,0 +1,8 @@
+﻿@Gross domestic product (GDP)
+#(Econ) Tổng sản phẩm quốc nội.
+: Xem NATIONAL INCOME.
+@Chuyên ngành kỹ thuật
+#tổng sản phẩm quốc gia
+#Tổng sản phẩm quốc nội (GDP)
+@Lĩnh vực: xây dựng
+#tổng sản phẩm quốc nội

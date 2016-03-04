@@ -1,0 +1,7 @@
+﻿@data exchange
+#(Tech) trao đổi dữ liệu; tổng đài dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tổng đài dữ liệu
+@Lĩnh vực: toán & tin
+#trao đổi dữ liệu

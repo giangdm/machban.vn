@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#điểm nóng chảy
+#nhiệt độ chảy mềm
+@Chuyên ngành kỹ thuật
+#điểm hóa mềm
+#nhiệt độ hóa mềm

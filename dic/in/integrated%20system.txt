@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ dữ liệu tích hợp
+#hệ tích hợp
+@Lĩnh vực: toán & tin
+#hệ thống tích hợp

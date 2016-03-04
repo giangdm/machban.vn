@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng cắt
+#biến dạng trượt
+#lực cắt
+#sự biến dạng trượt
+#ứng suất trượt
+@Lĩnh vực: xây dựng
+#biến dạng chống cắt
+#biến dạng sắt
+#sự biến dạng (cắt, trượt)
+@Lĩnh vực: cơ khí & công trình
+#công cắt
+#công trượt
+@Lĩnh vực: hóa học & vật liệu
+#sự biến dạng cắt

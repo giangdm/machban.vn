@@ -1,0 +1,5 @@
+﻿@Incremental capital-output ratio
+#(Econ) Tỷ số vốn/ sản lượng tăng thêm (ICOR).
+: Số đơn vị VỐN tăng thêm cần thiết để sản xuất ra một đơn vị sản lượng tăng thêm.
+@Chuyên ngành kinh tế
+#hệ số vốn-sản phẩm gia tăng

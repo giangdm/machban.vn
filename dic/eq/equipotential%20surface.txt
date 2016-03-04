@@ -1,0 +1,8 @@
+﻿@equipotential surface
+#(Tech) bề mặt đẳng thế
+@Chuyên ngành kỹ thuật
+#bề mặt đẳng thế
+#mặt đẳng thế
+@Chuyên ngành kỹ thuật
+#bề mặt đẳng thế
+#mặt đẳng thế

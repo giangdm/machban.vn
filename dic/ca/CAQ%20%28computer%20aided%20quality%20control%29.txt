@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự kiểm tra chất lượng bằng máy tính
+#sự quản lý chất lượng bằng máy tính

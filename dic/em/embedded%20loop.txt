@@ -1,0 +1,8 @@
+﻿@embedded loop
+#(Tech) chu trình gài trong
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#vòng móc lồng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#vòng móc lồng

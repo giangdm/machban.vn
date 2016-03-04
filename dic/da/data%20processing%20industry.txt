@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#công nghiệp xử lý thông tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#công nghệ tin học

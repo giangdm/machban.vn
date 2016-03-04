@@ -1,0 +1,12 @@
+﻿@Credit account
+#(Econ) Tài khoản tín dụng.
+: Xem CHARGE ACCOUNT.
+@Chuyên ngành kinh tế
+#tài khoản mua bán chịu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trương mục cho vay
+<!-- more -->
+@credit account
+*danh từ
+#tài khoản tín dụng

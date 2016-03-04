@@ -1,0 +1,2 @@
+﻿@back conduction
+#(Tech) dẫn ngược

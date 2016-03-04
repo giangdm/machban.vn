@@ -1,0 +1,3 @@
+﻿@Annual allowances
+#(Econ) Miễn thuế hàng năm.
+: Xem CAPITAL ALLOWANCE.

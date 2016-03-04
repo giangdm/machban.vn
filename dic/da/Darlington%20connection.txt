@@ -1,0 +1,2 @@
+﻿@Darlington connection
+#(Tech) mạch nối Darlington (Đắclintơn)

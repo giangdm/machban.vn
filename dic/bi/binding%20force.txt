@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hiệu năng ràng buộc
+#sức ước thúc
+@Chuyên ngành kỹ thuật
+#lực dính
+#lực dính bám
+#lực kết dính
+#lực liên kết

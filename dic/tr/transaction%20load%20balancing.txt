@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cân bằng tải giao tác
+@Lĩnh vực: toán & tin
+#sự cân bằng tải giao dịch

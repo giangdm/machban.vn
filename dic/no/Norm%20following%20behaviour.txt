@@ -1,0 +1,3 @@
+﻿@Norm following behaviour
+#(Econ) Hành vi theo định mức lương.
+: Lập luận cho rằng trong một giai đoạn của chính sách thu nhập khi tồn tại một định mức lương do luật định hoặc được áp dụng một cách tự nguyện thì đinh mức này trên thực tế sẽ trở thành cái đích cho mọi thoả thuận về lương, hay nói cách khác nó sẽ trở thành mức lương cơ bản.

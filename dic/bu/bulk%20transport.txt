@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chở xá
+#sự vận tải hàng rời
+@Chuyên ngành kỹ thuật
+#sự vận tải hàng rời
+@Lĩnh vực: điện lạnh
+#vận chuyển rời

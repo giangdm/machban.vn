@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cọc bệ
+#cọc để mở rộng (đổ tại chỗ)

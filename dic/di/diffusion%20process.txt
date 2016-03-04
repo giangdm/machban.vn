@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#quá trình khuếch tán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#quá trình khuếch tán
+@Lĩnh vực: toán & tin
+#quá trình phổ cập

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cầu chì ngắt
+@Lĩnh vực: điện lạnh
+#cầu chì nhảy cắt mạch

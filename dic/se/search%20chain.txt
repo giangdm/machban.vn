@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi tìm kiếm
+@Lĩnh vực: điện tử & viễn thông
+#dãy tìm kiếm

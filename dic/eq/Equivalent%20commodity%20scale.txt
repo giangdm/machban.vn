@@ -1,0 +1,5 @@
+﻿@Equivalent commodity scale
+#(Econ) Thang/hệ số/ tỷ lệ/qui mô qui đổi hàng hoá tiêu dùng tương đương.
+: Một hệ số biểu thị bằng số áp dụng cho mức tiêu dùng các hàng hoá nhất định của các giá đình trong các hoàn cảnh khác nhau để chỉ ra mức tiêu dùng mà mỗi gia đình cần có để đạt được mức sống nhất định.
+@Chuyên ngành kinh tế
+#quy mô tiêu dùng ngang nhau

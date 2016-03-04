@@ -1,0 +1,2 @@
+﻿@elementwise
+#theo từng phần tử

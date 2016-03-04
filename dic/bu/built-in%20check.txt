@@ -1,0 +1,6 @@
+﻿@built-in check
+#(Tech) kiểm tra tự chế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểm tra cài sẵn
+#kiểm tra lập sẵn

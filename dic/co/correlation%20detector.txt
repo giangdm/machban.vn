@@ -1,0 +1,2 @@
+﻿@correlation detector
+#(Tech) bộ phát hiện sóng tương quan

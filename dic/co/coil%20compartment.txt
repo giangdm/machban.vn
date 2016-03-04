@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ngăn ống xoắn
+@Lĩnh vực: điện lạnh
+#khoang [ngăn] ống xoắn
+#khoang ống xoắn

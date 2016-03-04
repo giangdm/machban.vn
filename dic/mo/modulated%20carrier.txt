@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sóng mang đã điều biến
+@Lĩnh vực: toán & tin
+#sóng mang điều chế
+@Lĩnh vực: điện tử & viễn thông
+#sóng mang được biến điệu

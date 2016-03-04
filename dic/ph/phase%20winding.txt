@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn dây pha
+@Lĩnh vực: điện lạnh
+#cuộn dây pha (ở phần ứng động cơ đa pha)
+#dây quấn pha

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tỷ suất bảo hộ thực hiện
+@Chuyên ngành kỹ thuật
+#chỉ số bốc hơi
+@Lĩnh vực: xây dựng
+#tốc đọ bốc hơi

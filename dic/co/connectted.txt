@@ -1,0 +1,10 @@
+﻿@connectted
+#liên thông
+#arcwise c. liên thông đường
+#cyclic lly c. liên thông xilic
+#finitely c. liên thông hữu hạn
+#irreducibly c. liên thông không khả quy
+#locally c. liên thông địa phương
+#locally simple c. đơn liên địa phương
+#simple c. đơn liên
+#strongly c. liên thông mạch

@@ -1,0 +1,5 @@
+﻿@accumulative carry
+#(Tech) số nhớ tích lũy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhớ tích lũy

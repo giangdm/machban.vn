@@ -1,0 +1,8 @@
+﻿@clearway
+*danh từ
+#con đường cấm xe cộ không được dừng lại
+@Chuyên ngành kỹ thuật
+#đường cấm đổ xe
+#đường cao tốc
+#đường thủy
+#đường tránh

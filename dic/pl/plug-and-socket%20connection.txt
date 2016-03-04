@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự nối bằng chốt cắm
+#sự nối bằng đầu cắm

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#kim loại nặng
+#kim loại nặng (có tỷ trọng từ 5 trở lên)
+@Chuyên ngành kỹ thuật
+#kim loại nặng

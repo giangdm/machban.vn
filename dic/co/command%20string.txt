@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi lệnh
+@Lĩnh vực: điện tử & viễn thông
+#xâu lệnh

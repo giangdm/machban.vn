@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dụng cụ điều khiển từ xa
+@Lĩnh vực: toán & tin
+#dụng cụ viễn khiển

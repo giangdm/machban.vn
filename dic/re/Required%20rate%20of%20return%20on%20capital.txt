@@ -1,0 +1,2 @@
+﻿@Required rate of return on capital
+#(Econ) Suất sinh lợi cần có của vốn.

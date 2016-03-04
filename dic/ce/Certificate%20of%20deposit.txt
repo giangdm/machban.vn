@@ -1,0 +1,7 @@
+﻿@Certificate of deposit
+#(Econ) Giấy chứng nhận tiền gửi.
+: Một chứng từ do một ngân hàng phát hành chứng nhận khoản tiền gửi ở ngân hàng đó và là một lời hứa trả lại khoản tiền cho người cầm phiếu vào một ngày xác định trong tương lai.
+@Chuyên ngành kinh tế
+#biên lai gửi tiền
+#chứng chỉ ký thác
+#giấy chứng tiền gửi

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#thao tác sai
+@Lĩnh vực: toán & tin
+#phép toán không hợp lệ
+#thao tác không hợp lệ

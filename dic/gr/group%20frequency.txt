@@ -1,0 +1,2 @@
+﻿@group frequency
+#(Tech) tần số nhóm

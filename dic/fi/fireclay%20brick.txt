@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#gạch chịu lửa
+#gạch samôt
+@Lĩnh vực: vật lý
+#gạch chịu lửa (lò)
+@Lĩnh vực: xây dựng
+#gạch samot
+@Chuyên ngành kỹ thuật
+#gạch chịu lửa
+#gạch samôt
+@Lĩnh vực: vật lý
+#gạch chịu lửa (lò)
+@Lĩnh vực: xây dựng
+#gạch samot

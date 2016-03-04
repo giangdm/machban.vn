@@ -1,0 +1,12 @@
+﻿@solid-state
+*tính từ
+#chỉ dùng bán dẫn (tức là thiết bị điện tử không có đèn điện tử)
+@Chuyên ngành kỹ thuật
+#bán dẫn
+#trạng thái rắn
+#vi điện tử
+#vi mạch
+@Lĩnh vực: toán & tin
+#chất bán dẫn
+@Lĩnh vực: điện
+#vi rắn

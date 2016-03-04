@@ -1,0 +1,12 @@
+﻿@buffer storage
+#(Tech) bộ trữ đệm, bộ trữ trung gian
+@Chuyên ngành kinh tế
+#sự bảo quản lượng dự trữ
+@Chuyên ngành kỹ thuật
+#bộ đệm
+#bộ nhớ đệm
+#bộ nhớ trung gian
+@Lĩnh vực: điện tử & viễn thông
+#bộ lưu trữ đệm
+@Lĩnh vực: toán & tin
+#vùng lưu trữ đệm

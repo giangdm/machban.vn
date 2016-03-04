@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống tầm và tầm-tốc độ
+#phương pháp khoảng cách và Doppler

@@ -1,0 +1,9 @@
+﻿@column inch ['kɔləm,int∫]
+*danh từ
+# đơn vị đo lường cho tài liệu in rộng một cột và sâu một in-sơ
+@Chuyên ngành kinh tế
+#insơ cột
+#insơ của cột báo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#inch cột

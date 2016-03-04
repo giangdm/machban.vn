@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khối lập phương thử
+#mẫu khối vuông thí nghiệm
+@Lĩnh vực: cơ khí & công trình
+#mẫu thử lập phương

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự hồi tiếp xuất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hồi tiếp đầu ra

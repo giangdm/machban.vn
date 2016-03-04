@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đặc tính của dòng
+#đặc tính dòng
+#hình ảnh dòng
+#mô hình dòng
+#sơ đồ dòng
+@Lĩnh vực: toán & tin
+#dạng dòng
+@Lĩnh vực: hóa học & vật liệu
+#mô hình dòng chảy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đặc tính của dòng
+#đặc tính dòng
+#hình ảnh dòng
+#mô hình dòng
+#sơ đồ dòng
+@Lĩnh vực: toán & tin
+#dạng dòng
+@Lĩnh vực: hóa học & vật liệu
+#mô hình dòng chảy

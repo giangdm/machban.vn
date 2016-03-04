@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng (chảy) dao động
+#dòng (chảy) xung động
+#dòng chảy dao động
+@Lĩnh vực: điện lạnh
+#dòng dao động
+#dòng xung động
+@Lĩnh vực: vật lý
+#dòng mạch đập
+#dòng mạch động
+#luồng mạch động
+#luồng tạo xung

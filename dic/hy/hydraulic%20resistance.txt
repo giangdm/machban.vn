@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sức cản thủy lực
+@Lĩnh vực: xây dựng
+#sức bền thủy lực
+@Lĩnh vực: điện lạnh
+#trở kháng thủy lực
+#trở lực thủy lực

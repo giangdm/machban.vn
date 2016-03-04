@@ -1,0 +1,2 @@
+﻿@Darlington(-connected) transistors
+#(Tech) tran(sito nối mạch Darlington (Đắclintơn)

@@ -1,0 +1,7 @@
+﻿@built-in function
+#(Tech) cơ năng cài sẵn; hàm cài sẵn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chức năng lập sẵn
+#hàm cài sẵn
+#hàm có sẵn

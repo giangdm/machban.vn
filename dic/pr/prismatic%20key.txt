@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#then bằng
+@Lĩnh vực: xây dựng
+#then chốt
+@Lĩnh vực: cơ khí & công trình
+#then rãnh

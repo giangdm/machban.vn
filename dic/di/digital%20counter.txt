@@ -1,0 +1,7 @@
+﻿@digital counter
+#(Tech) máy đếm hiện số = digit counter
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ đếm số
+@Lĩnh vực: đo lường & điều khiển
+#máy đếm hiện số

@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#bị rỗ
+#độ rỗng
+#hệ số độ rỗng
+#hốc
+#khe hở
+#khe nứt
+#không bào
+#làm mất giá trị
+#làm mất hiệu lực
+#lỗ hổng
+#lỗ rỗ
+#lỗ rỗng
+#lõm co
+#rỗ co
+#rỗng
+#vết rỗ co
+#vết rỗ trống
+@Lĩnh vực: toán & tin
+#hệ số độ rộng

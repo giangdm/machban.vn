@@ -1,0 +1,2 @@
+﻿@active time
+#(Tech) thời gian hoạt động

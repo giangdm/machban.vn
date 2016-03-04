@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#cánh bên (của đứt gãy)
+#cánh treo
+#tường biên
+#vách bên
+@Lĩnh vực: xây dựng
+#mố đập
+#tường cánh (vuông góc)
+@Lĩnh vực: giao thông & vận tải
+#thành bên

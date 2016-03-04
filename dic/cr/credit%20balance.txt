@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#kết số dư
+#số dư bên có
+#số dư có
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kết số thừa
+#sai ngạch thừa

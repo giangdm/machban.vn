@@ -1,0 +1,3 @@
+﻿@Locking - in effect
+#(Econ) Hiệu ứng kẹt
+: Hiệu ứng làm cho một người có một tài sản không bán tài sản đó nữa vì giá trị thị trường của nó giảm xuống và sẽ gây ra thua lỗ.

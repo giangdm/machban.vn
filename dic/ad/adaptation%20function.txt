@@ -1,0 +1,6 @@
+﻿@adaptation function
+#(Tech) chức năng thích ứng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chức năng điều hợp
+#chức năng giao tiếp

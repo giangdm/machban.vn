@@ -1,0 +1,2 @@
+﻿@electron sheath
+#(Tech) tầng điện tử

@@ -1,0 +1,3 @@
+﻿@Free exchange rates
+#(Econ) Tỷ giá hối đoái tự do
+: Xem EXCHANGE RATES.

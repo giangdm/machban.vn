@@ -1,0 +1,5 @@
+﻿@Interdependent utility
+#(Econ) Độ thoả dụng phụ thuộc lẫn nhau.
+: Nếu độ thoả dụng của một nhười bị tác động bởi số lượng hàng hoá và dịch vụ mà những người khác tiêu dùng thì nảy sinh trường hợp độ thoả dụng phụ thuộc lẫn nhau.
+@Chuyên ngành kinh tế
+#tính hữu dụng phụ thuộc nhau

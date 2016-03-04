@@ -1,0 +1,2 @@
+﻿@DRO (destructive readout) memory
+#(Tech) bộ nhớ bị xóa khi đọc

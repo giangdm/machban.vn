@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trạm liên kết chính
+#trạm liên kết sơ cấp

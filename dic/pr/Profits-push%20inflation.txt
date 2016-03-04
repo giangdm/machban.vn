@@ -1,0 +1,3 @@
+﻿@Profits-push inflation
+#(Econ) Lạm phát do lợi-nhuận-đẩy.
+: Một biến thể của lạm phát chi phí đẩy, quy nguồn gốc của quá trình lạm phát cho các nhà tư bản định tìm một phần gia tăng trong thu nhập quốc dân.

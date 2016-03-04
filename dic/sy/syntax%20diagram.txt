@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đồ thị cú pháp
+@Lĩnh vực: toán & tin
+#sơ đồ cú pháp

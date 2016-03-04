@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#ngày bắt đầu có giá trị
+#ngày bắt đầu tính lãi
+#ngày thanh toán
+#ngày tính lãi

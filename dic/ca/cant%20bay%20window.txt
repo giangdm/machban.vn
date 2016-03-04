@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cửa sổ chìa mặt nghiêng
+#cửa sổ có cánh

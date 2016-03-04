@@ -1,0 +1,6 @@
+﻿@many-valued
+#đa trị
+@Chuyên ngành kỹ thuật
+#đa trị
+@Lĩnh vực: điện lạnh
+#không đơn vị

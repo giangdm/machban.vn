@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đèn độ hỗ dẫn biến thiên (có độ hỗ dẫn thay đổi)
+#đèn muy biến thiên

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giấy bảo đảm hợp đồng
+#giấy đảm bảo hợp đồng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giấy bảo đảm hợp đồng

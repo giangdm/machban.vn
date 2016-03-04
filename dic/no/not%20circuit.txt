@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạch lô gíc nghịch đảo
+@Chuyên ngành kỹ thuật
+#mạch đảo
+@Lĩnh vực: toán & tin
+#mạch không
+#mạch NOT
+#mạch phủ định

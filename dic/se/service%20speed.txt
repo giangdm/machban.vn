@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#tốc độ thương mại (của xe hơi ...)
+#tốc độ thương mại (của xe hơi)
+@Chuyên ngành kỹ thuật
+#tốc độ vận hành
+@Lĩnh vực: giao thông & vận tải
+#tốc độ chạy tàu
+#tốc độ khai thác

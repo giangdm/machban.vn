@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mối nối cách điện
+@Lĩnh vực: xây dựng
+#mối nối cách ly

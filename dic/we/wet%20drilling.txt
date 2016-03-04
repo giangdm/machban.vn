@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự khoan kiểu nước
+#sự khoan kiểu thủy lực
+#sự khoan kiểu ướt
+@Lĩnh vực: cơ khí & công trình
+#sự khoan ướt

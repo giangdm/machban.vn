@@ -1,0 +1,3 @@
+﻿@Peak-load pricing
+#(Econ) Định giá theo mức tiêu thụ đỉnh; Định giá theo tiêu dùng cao điểm.
+: Vấn đề tính giá theo tiêu dùng ở điểm đỉnh xuất phát khi mà cầu về sản lượng (đầu ra) của một xí nghiệp công cộng có thể có những biến động lớn.

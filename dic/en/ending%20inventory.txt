@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giá trị tồn kho cuối kỳ
+#kiểm kê cuối kỳ
+#tồn kho cuối kỳ

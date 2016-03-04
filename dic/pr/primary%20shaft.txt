@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#trụ sơ cấp
+#trục dẫn động hộp số
+@Lĩnh vực: cơ khí & công trình
+#trục sơ cấp (trục bộ ly hợp)

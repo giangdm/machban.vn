@@ -1,0 +1,2 @@
+﻿@EEROM (electrically erasable ROM)
+#(Tech) ROM xoá bằng điện

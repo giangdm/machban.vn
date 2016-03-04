@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đường dồn tàu
+#đường nhánh lập tàu
+#đường ray chuyển tàu
+#đường ray lập tàu
+#đường ray phân loại tàu
+@Lĩnh vực: giao thông & vận tải
+#đường phân loại tàu

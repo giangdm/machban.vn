@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu ứng biên
+@Lĩnh vực: cơ khí & công trình
+#hiệu ứng bờ
+@Lĩnh vực: xây dựng
+#hiệu úng đầu mút
+@Lĩnh vực: toán & tin
+#hiệu ứng đâu mút
+@Lĩnh vực: điện lạnh
+#hiệu ứng tận cùng
+@Chuyên ngành kỹ thuật
+#hiệu ứng biên
+@Lĩnh vực: cơ khí & công trình
+#hiệu ứng bờ
+@Lĩnh vực: xây dựng
+#hiệu úng đầu mút
+@Lĩnh vực: toán & tin
+#hiệu ứng đâu mút
+@Lĩnh vực: điện lạnh
+#hiệu ứng tận cùng

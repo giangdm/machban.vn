@@ -1,0 +1,3 @@
+﻿@slewness
+#tính lệch; tính xiên; tính ghềnh
+#positive s. (thống kê) hệ số lệch dương

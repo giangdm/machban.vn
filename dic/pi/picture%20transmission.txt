@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ phát hình
+#sự chuyển hình
+#sự phát hình

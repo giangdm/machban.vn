@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#bản lề chốt cố định
+@Lĩnh vực: xây dựng
+#bản lề dẹt chốt cố định
+#bản lề dẹt có trục cố định
+#bản lề dẹt trục cố định
+@Chuyên ngành kỹ thuật
+#bản lề chốt cố định
+@Lĩnh vực: xây dựng
+#bản lề dẹt chốt cố định
+#bản lề dẹt có trục cố định
+#bản lề dẹt trục cố định

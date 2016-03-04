@@ -1,0 +1,9 @@
+﻿@Stationary point
+#(Econ) Điểm tĩnh tại.
+: Một điểm trên đồ thị mà ở đó độ dốc(tốc độ thay đổi) đối với BIẾN THIÊN ĐỘC LẬP bằng không, thường là giá trị cực đại hay cực tiểu của hàm đó.
+@Chuyên ngành kỹ thuật
+#điểm dừng
+#điểm ổn định
+@Lĩnh vực: toán & tin
+#điểm dừng, điểm nghỉ
+#điểm nghỉ

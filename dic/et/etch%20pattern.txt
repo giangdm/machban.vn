@@ -1,0 +1,2 @@
+﻿@etch pattern
+#(Tech) dạng hình mạch khắc

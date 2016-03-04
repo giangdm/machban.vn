@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tiếp điểm thường mở
+@Lĩnh vực: toán & tin
+#công tắc mở thường
+@Lĩnh vực: điện
+#công tắc tác động đóng

@@ -1,0 +1,9 @@
+﻿@mortality table [mɔ:'tæləti'teibl]
+*danh từ
+# bảng cho thấy con người ở các độ tuổi khác nhàubinh thường có thể sống được bao lâu; bảng tuổi thọ trung bình
+@Chuyên ngành kinh tế
+#bảng thống kê (tuổi) tử vong
+#bảng tuổi thọ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng tử vong

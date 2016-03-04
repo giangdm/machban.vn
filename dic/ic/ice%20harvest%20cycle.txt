@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu kì ra (nước) đá
+#chu kì thu hoạch (nước) đá
+#chu kỳ ra đá
+#chu kỳ thu hoạch đá

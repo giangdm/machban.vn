@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm chuẩn
+#điểm cố định
+@Lĩnh vực: toán & tin
+#dấu chấm cố định
+#dấu phẩy cố định
+#điểm bất động
+@Chuyên ngành kỹ thuật
+#điểm chuẩn
+#điểm cố định
+@Lĩnh vực: toán & tin
+#dấu chấm cố định
+#dấu phẩy cố định
+#điểm bất động

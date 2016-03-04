@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#sự làm lạnh không khí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#làm lạnh bằng không khí
+@Lĩnh vực: điện lạnh
+#làm lạnh không khí
+#làm mát băng không khí
+#sự làm lạnh không khí
+@Lĩnh vực: xây dựng
+#sự làm mát không khí

@@ -1,0 +1,6 @@
+﻿@Juglar cycle
+#(Econ) Chu kỳ Juglar.
+: Một chu kỳ trong thương mại trong mức độ hoạt động kinh tế với thời gian từ 9 tới 10 năm.
+@Chuyên ngành kinh tế
+#chu kỳ Jaglar
+#chu kỳ Juglar

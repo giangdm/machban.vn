@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#quyền chiếm giữ tài sản
+#quyền chiếm hữu tài sản
+#quyền giữ lại hàng hóa
+#quyền lưu giữ tài sản

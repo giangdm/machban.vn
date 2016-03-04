@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#suất cước hợp đồng
+@Chuyên ngành kỹ thuật
+#cước phí
+@Lĩnh vực: xây dựng
+#tỷ số điện nạp
+@Lĩnh vực: toán & tin
+#tỷ số nạp điện

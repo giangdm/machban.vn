@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vòng tâm sai của elip
+#vòng tròn lệch tâm của elip

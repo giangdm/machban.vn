@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#phát nhiệt
+#sự phát nhiệt
+#sự tạo nhiệt
+@Lĩnh vực: điện lạnh
+#sản xuất nhiệt
+#sự sản xuất nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#sự sinh nhiệt

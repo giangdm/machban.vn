@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#tính đa hướng (một gen chịu trách nhiệm về nhiều kiểu hình)

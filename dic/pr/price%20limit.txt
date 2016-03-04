@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giá cao nhất (của bên mua)
+#giá thấp nhất (của bên bán)
+#giới hạn giá cả
+#giới hạn về giá
+#hạn mức giá

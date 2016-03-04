@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công trình thăm dò
+@Lĩnh vực: cơ khí & công trình
+#hầm lò thăm dò
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công trình thăm dò
+@Lĩnh vực: cơ khí & công trình
+#hầm lò thăm dò

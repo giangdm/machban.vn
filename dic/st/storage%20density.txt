@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mật độ bảo quản
+#mật độ bit
+#mật độ ghi
+#mật độ lưu trữ
+#mật độ nén
+#mật độ nhớ

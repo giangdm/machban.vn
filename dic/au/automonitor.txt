@@ -1,0 +1,2 @@
+﻿@automonitor
+#(Tech) bộ giám sát tự động; chương trình cơ năng (vận hành)

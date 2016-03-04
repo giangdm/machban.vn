@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy quay
+#máy xoay
+@Lĩnh vực: điện lạnh
+#máy điện quay
+@Lĩnh vực: điện
+#máy trục quay

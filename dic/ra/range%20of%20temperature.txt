@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khoảng nhiệt độ
+@Lĩnh vực: điện lạnh
+#thang nhiệt độ

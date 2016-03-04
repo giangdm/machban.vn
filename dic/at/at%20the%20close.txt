@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#theo giá lúc đóng cửa (sở giao dịch chứng khoán)
+#vào lúc đóng cửa
+#vào lúc đóng cửa thị trường chứng khoán

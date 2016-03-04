@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#trạm phụ
+@Lĩnh vực: điện tử & viễn thông
+#đài chủ hầu
+#đài phụ thuộc
+@Lĩnh vực: toán & tin
+#trạm nhánh
+#trạm nhánh, trạm phụ
+#trạm phụ thuộc

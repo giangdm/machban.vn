@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#độ co giãn của cung
+#tính co dãn của mức cung
+#tính co giãn của mức cung

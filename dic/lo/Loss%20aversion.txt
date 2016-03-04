@@ -1,0 +1,3 @@
+﻿@Loss aversion
+#(Econ) Sự không thích mất mát.
+: Một giả thiết cho rằng ĐỘ PHI THOẢ DỤNG do bị mất một hàng hoá nhiều hơn so với độ thoả dụng của hàng hoá ấy.

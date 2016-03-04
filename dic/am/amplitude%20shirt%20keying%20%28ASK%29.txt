@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đánh tín hiệu dịch biên độ
+#điều chế ASK
+#khóa dịch biên độ

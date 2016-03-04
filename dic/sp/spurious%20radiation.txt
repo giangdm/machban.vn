@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bức xạ không thiết yếu
+@Lĩnh vực: điện lạnh
+#bức xạ tạp nhiễu
+#phát xạ tạp nhiễu

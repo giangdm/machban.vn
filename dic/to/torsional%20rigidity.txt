@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ cứng chống xoắn
+@Lĩnh vực: toán & tin
+#độ cứng khi xoắn
+@Lĩnh vực: xây dựng
+#độ cứng xoắn

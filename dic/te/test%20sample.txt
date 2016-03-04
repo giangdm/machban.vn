@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ phận đang được thử
+#mẫu kiểm tra
+#mẫu thí nghiệm
+#mẫu thử
+@Lĩnh vực: cơ khí & công trình
+#thanh thử

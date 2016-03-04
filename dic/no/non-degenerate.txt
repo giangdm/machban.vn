@@ -1,0 +1,4 @@
+﻿@non-degenerate
+#không suy biến
+@Chuyên ngành kỹ thuật
+#không suy biến

@@ -1,0 +1,7 @@
+﻿@cursor key
+#(Tech) phím con trỏ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phím con chạy
+@Lĩnh vực: toán & tin
+#phím con trỏ

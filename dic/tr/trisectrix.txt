@@ -1,0 +1,2 @@
+﻿@trisectrix
+#đường chia góc làm ba (đồ thị của x 2 : xy 2 : ay 2 - 3ax 2 = 0)

@@ -1,0 +1,2 @@
+﻿@Positive bais
+#(Econ) Thiên lệch đồng biến.

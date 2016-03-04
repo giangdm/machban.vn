@@ -1,0 +1,5 @@
+﻿@computer simulation
+#(Tech) mô phỏng điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự mô phỏng máy tính

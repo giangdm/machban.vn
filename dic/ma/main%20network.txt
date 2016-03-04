@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lưới khống chế cơ bản
+#lưới tam giác hạng I
+#lưới tam giác hạng nhất
+@Lĩnh vực: đo lường & điều khiển
+#lưới trắc địa cơ bản
+@Lĩnh vực: điện tử & viễn thông
+#mạng chủ

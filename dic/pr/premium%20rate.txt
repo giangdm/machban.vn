@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#mức phí bảo hiểm
+#mức tiền bù (hối đoái)
+#mức tiền thưởng
+#phí suất bảo hiểm
+#suất phí bảo hiểm
+#suất tiền bù
+#suất tiền thưởng

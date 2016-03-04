@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự kiểm nghiệm hàng loạt
+#sự kiểm tra lấy mẫu
+#sự thử hàng loạt
+#sự thử lô

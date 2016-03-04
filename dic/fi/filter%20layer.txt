@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp lọc
+#tầng lọc
+@Lĩnh vực: xây dựng
+#lớp thấm (đập)
+@Chuyên ngành kỹ thuật
+#lớp lọc
+#tầng lọc
+@Lĩnh vực: xây dựng
+#lớp thấm (đập)

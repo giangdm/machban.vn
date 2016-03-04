@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản kê 4 cạnh
+#bản kê bốn cạnh
+#bản kê trên chu vi

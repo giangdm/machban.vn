@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thời gian hồi phục ngược
+@Lĩnh vực: điện tử & viễn thông
+#thời gian phục hồi ngược

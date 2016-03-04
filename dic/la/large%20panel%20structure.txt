@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cấu trúc tấm lớn
+@Lĩnh vực: toán & tin
+#kết cấu tấm lợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cấu trúc tấm lớn
+@Lĩnh vực: toán & tin
+#kết cấu tấm lợp

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#u mô bào, khối u có chứa các đại thực bào

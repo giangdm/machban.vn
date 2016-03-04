@@ -1,0 +1,3 @@
+﻿@Superconsistency
+#(Econ) Siêu nhất quán.
+: Một tình thế trong đó các ước lượng BÌNH PHƯƠNG NHỎ NHẤT THÔNG THƯỜNG hội tụ nhanh hơn về giá trị tổng thể thực sự của chúng khi kích thước mẫu tăng lên hơn là trong trường hợp nhất quán.

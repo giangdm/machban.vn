@@ -1,0 +1,3 @@
+﻿@Transformation problem
+#(Econ) Bài toán chuyển đổi.
+: Bài toán trong kinh tế học C.Mác nhằm tìm ra một bộ giá duy nhất từ các giá trị, nghĩa là đầu vào lao động.

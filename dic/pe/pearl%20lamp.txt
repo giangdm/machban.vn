@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đèn hạt trai
+@Lĩnh vực: điện lạnh
+#đèn ngọc trai

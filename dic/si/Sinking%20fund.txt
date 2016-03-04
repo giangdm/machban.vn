@@ -1,0 +1,15 @@
+﻿@Sinking fund
+#(Econ) Quỹ dự phòng hoàn trả.
+: Phần quỹ thường xuyên để riêng nhằm mục đích để trả nợ, hoặc để khấu hao phần vốn nằm trong thiết bị.
+@Chuyên ngành kinh tế
+#quỹ chìm
+#quỹ thanh toán nợ
+#quỹ tích luỹ
+#quỹ tích lũy
+#quỹ trả nợ
+@Chuyên ngành kỹ thuật
+#quỹ đang chìm
+@Lĩnh vực: điện tử & viễn thông
+#quỹ trả dần (hoặc giảm dần)
+@Lĩnh vực: hóa học & vật liệu
+#vốn khấu hao

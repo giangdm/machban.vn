@@ -1,0 +1,8 @@
+﻿@Poll tax
+#(Econ) Thuế thân.
+: Thuế tính cả gói mà sự thanh toán không liên quan đến thu nhập hoặc chi tiêu.
+@Chuyên ngành kinh tế
+#thuế thân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thuế thân

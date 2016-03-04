@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chất lưu Newton
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chất lỏng newton

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#khung dùng cho tỷ lệ đặc biệt
+#vùng dành cho dữ liệu thang đo

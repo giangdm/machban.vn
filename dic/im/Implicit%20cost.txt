@@ -1,0 +1,7 @@
+﻿@Implicit cost
+#(Econ) Chi phí ẩn.
+: Chi phí cơ hội của việc sử dụng các yếu tố sản xuất mà một nhà sản xuất không phải mua hay thuê mà lại sở hữu chúng.
+@Chuyên ngành kinh tế
+#chi phí ẩn
+#phí tổn ẩn tàng
+#phí tổn nội tại

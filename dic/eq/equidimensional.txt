@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cùng thứ nguyên
+#đồng thứ nguyên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cùng thứ nguyên
+#đồng thứ nguyên

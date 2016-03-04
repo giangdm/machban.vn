@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm truyền
+#hàm truyền đạt
+@Lĩnh vực: đo lường & điều khiển
+#chức năng chuyển tải
+@Lĩnh vực: toán & tin
+#chức năng rẽ nhánh
+#chức năng truyền
+#hàm số chuyển

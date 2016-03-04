@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#thông tin vô tuyến
+@Lĩnh vực: điện
+#sự truyền sóng vô tuyến
+@Lĩnh vực: điện lạnh
+#thông tin vô tuyến điện
+@Lĩnh vực: toán & tin
+#truyền thông (bằng) vô tuyến

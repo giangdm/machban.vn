@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công trình lấy nước hình tia
+#giếng lọc nằm ngang
+#rãnh tiêu nước hình tia

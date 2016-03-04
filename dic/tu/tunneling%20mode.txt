@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chế độ chui hầm
+#chế độ rò
+@Lĩnh vực: vật lý
+#kiểu (dao động) chui hầm

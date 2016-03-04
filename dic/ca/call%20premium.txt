@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tiền chênh lệch đổi lại trước kỳ (trái phiếu)
+#tiền cược mua
+#tiền mua quyền chuộc lại (trái phiếu)

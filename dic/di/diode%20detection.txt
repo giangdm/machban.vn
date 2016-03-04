@@ -1,0 +1,2 @@
+﻿@diode detection
+#(Tech) kiểm sóng bằng đèn hai cực

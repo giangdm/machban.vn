@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#vật thể đồng nhất
+@Lĩnh vực: ô tô
+#thân xe thống nhất
+#thân xe tổ hợp

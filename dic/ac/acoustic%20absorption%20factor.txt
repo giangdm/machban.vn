@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số giảm âm
+#hệ số hút âm
+@Lĩnh vực: xây dựng
+#hệ số tiêu âm

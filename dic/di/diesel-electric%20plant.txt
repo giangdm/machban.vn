@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nhà máy điện diesel
+@Lĩnh vực: điện lạnh
+#trạm phát điện điezen

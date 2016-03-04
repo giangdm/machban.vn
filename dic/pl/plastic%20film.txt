@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#màng chất dẻo
+@Chuyên ngành kỹ thuật
+#màng chất dẻo
+@Lĩnh vực: xây dựng
+#màng dẻo
+@Lĩnh vực: hóa học & vật liệu
+#phim bằng chất dẻo

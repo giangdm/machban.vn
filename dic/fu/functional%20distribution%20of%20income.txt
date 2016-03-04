@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#phân bố thu nhập (quốc dân) theo chức năng
+#phân phối thu nhập theo chức năng

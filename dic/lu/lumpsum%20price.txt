@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giá bao khoán
+#giá theo thỏa thuận
+#giá trọn gói

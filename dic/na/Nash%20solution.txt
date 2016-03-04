@@ -1,0 +1,3 @@
+﻿@Nash solution
+#(Econ) Giải pháp Nash.
+: Trong LÝ THUYẾT TRÒ CHƠI  khái niệm này được áp dụng trong những điều kiện nhất định để tìm ra cách giải quyết cho những trò chơi hai người hợp tác với nhau.

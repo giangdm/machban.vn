@@ -1,0 +1,12 @@
+﻿@equivalent load
+#(Tech) gánh tương đương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tải trọng tương đương
+@Lĩnh vực: toán & tin
+#tải tương đương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tải trọng tương đương
+@Lĩnh vực: toán & tin
+#tải tương đương

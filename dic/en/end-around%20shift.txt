@@ -1,0 +1,10 @@
+﻿@end-around shift
+#(Tech) dịch tuần hoàn
+@Chuyên ngành kỹ thuật
+#dịch chuyển vòng
+@Lĩnh vực: toán & tin
+#sự chuyển dịch vòng quanh
+@Chuyên ngành kỹ thuật
+#dịch chuyển vòng
+@Lĩnh vực: toán & tin
+#sự chuyển dịch vòng quanh

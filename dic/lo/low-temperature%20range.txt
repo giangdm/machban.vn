@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng nhiệt độ thấp
+@Lĩnh vực: điện lạnh
+#khoảng nhiệt độ thấp
+#phạm vi nhiệt độ thấp

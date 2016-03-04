@@ -1,0 +1,2 @@
+﻿@priceable
+#xem price

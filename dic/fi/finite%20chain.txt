@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chuỗi hữu hạn
+@Lĩnh vực: toán & tin
+#xích hữu hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chuỗi hữu hạn
+@Lĩnh vực: toán & tin
+#xích hữu hạn

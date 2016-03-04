@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#kỹ sư (chủ quản) dự án công trình
+@Chuyên ngành kỹ thuật
+#kỹ sư trưởng thiết kế
+@Lĩnh vực: hóa học & vật liệu
+#kỹ sư đề án

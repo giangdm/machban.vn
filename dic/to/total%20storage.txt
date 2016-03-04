@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dung lương toàn bộ (của hồ chứa)
+@Lĩnh vực: toán & tin
+#dung lượng toàn bộ (của hồ chứa)

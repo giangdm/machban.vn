@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công việc văn phòng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#công tác văn phòng
+@Lĩnh vực: xây dựng
+#công việc văn phòng

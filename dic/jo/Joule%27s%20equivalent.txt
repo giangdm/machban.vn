@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đương lượng Joule
+@Chuyên ngành kỹ thuật
+#đương lượng nhiệt
+@Lĩnh vực: điện lạnh
+#đương lượng cơ của nhiệt

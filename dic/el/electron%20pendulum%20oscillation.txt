@@ -1,0 +1,2 @@
+﻿@electron pendulum oscillation
+#(Tech) dao động con lắc điện tử

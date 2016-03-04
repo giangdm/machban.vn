@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống truy tìm
+@Lĩnh vực: xây dựng
+#hệ thu hồi
+#hệ tìm kiếm

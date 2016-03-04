@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khía bảo vệ chống ghi
+#khóa bảo vệ ghi
+#rãnh chống ghi

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ so màu
+@Lĩnh vực: điện
+#bộ so sánh màu

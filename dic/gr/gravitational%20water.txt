@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nước trọng lực
+#nước trọng lượng
+@Lĩnh vực: vật lý
+#nước chảy theo trọng lực

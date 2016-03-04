@@ -1,0 +1,4 @@
+﻿@clipping circuit
+#(Tech) mạch xén đầu, mạch hạn chế (biên độ)
+@Chuyên ngành kỹ thuật
+#mạch xén

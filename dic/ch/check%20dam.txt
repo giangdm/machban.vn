@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#đập chống lũ
+#ngưỡng gây bồi
+@Lĩnh vực: điện
+#ngưỡng cản dòng

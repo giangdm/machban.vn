@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#tốc độ ra
+#tốc độ trục bị động
+@Lĩnh vực: toán & tin
+#tốc độ xuất, tốc ra

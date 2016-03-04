@@ -1,0 +1,13 @@
+﻿@Present value
+#(Econ) Giá trị hiện tại.
+: Giá trị của một luồng lợi tức hoặc phí tương lai tính bằng giá trị hiện tại của chúng.
+@Chuyên ngành kinh tế
+#giá trị hiện tại
+#hiện giá
+#thời giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị hiện có
+#giá trị hiện tại
+@Lĩnh vực: điện tử & viễn thông
+#giá trị hiện thời

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#số nhân dung lượng
+@Chuyên ngành kỹ thuật
+#chỉ tiêu năng suất
+#hệ số công suất
+#hệ số sử dụng
+@Lĩnh vực: toán & tin
+#hệ số dung lượng
+@Lĩnh vực: hóa học & vật liệu
+#thừa số dung tích

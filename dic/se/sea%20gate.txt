@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cổng ngăn biển
+@Lĩnh vực: hóa học & vật liệu
+#cửa biển
+@Lĩnh vực: cơ khí & công trình
+#cửa phía biển (ngăn triều)

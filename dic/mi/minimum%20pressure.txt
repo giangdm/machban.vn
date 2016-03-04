@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#áp lực bé nhất
+@Lĩnh vực: cơ khí & công trình
+#áp lực nhỏ nhất

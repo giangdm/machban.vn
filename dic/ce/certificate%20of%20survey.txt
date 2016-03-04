@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chứng chỉ giám định (của hãng công chứng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bằng giám định

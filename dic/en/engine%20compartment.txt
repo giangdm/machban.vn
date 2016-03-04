@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#gian máy
+@Lĩnh vực: ô tô
+#khoang động cơ
+@Lĩnh vực: xây dựng
+#khoang máy
+@Chuyên ngành kỹ thuật
+#gian máy
+@Lĩnh vực: ô tô
+#khoang động cơ
+@Lĩnh vực: xây dựng
+#khoang máy

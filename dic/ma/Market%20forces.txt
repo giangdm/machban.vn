@@ -1,0 +1,7 @@
+﻿@Market forces
+#(Econ) Các tác nhân thị trường.
+: Là những tác nhân phát sinh từ quan hệ tự do giữa cung và cầu của thị tường dẫn đến việc phải điều chỉnh giá bán và/hoặc số lượng được giao dịch.
+@Chuyên ngành kinh tế
+#động lực của thị trường
+#lực (thúc đẩy) thị trường
+#lực thị trường

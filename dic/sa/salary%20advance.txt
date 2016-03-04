@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự tạm ứng tiền lương
+#tiền lương ứng trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tiền trả trước (cho) lương bổng

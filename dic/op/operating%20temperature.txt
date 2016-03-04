@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ điều
+#nhiệt độ hoạt động
+#nhiệt độ làm việc
+#nhiệt độ vận hành

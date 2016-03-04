@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#rơle (bảo vệ) áp suất thấp
+#rơle bảo vệ áp suất thấp
+#rơle đường hút

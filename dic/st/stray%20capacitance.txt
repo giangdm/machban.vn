@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#điện dung dò
+#điện dung ký sinh
+#điện dung tạp
+#điện dung tạp tán
+@Lĩnh vực: điện
+#điện dung khí sinh
+#điện dung rò

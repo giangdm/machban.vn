@@ -1,0 +1,2 @@
+﻿@computer peripherals
+#(Tech) thiết bị ngoại vi máy điện toán

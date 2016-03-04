@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#một kích thích tố tổng hợp và có dự trữ ở tuyến tùng trước

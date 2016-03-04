@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy quạt kiểu hướng tâm
+#máy quạt kiểu luồng chéo
+@Lĩnh vực: điện lạnh
+#quạt luồng ngang

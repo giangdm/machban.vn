@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lên kế hoạch cho mạng
+#sự kế hoạch hóa mạng
+#sự lập kế hoạch mạng
+@Lĩnh vực: điện tử & viễn thông
+#quy hoạch mạng

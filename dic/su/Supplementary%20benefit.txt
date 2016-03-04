@@ -1,0 +1,10 @@
+﻿@Supplementary benefit
+#(Econ) Trợ cấp bổ sung.
+: Khoản thanh toán duy trì thu nhập mà đã có lúc tạo thành một phần của hệ thống an sinh xã hội của Anh quốc. Các khoản thanh toán được trả cho những người không có việc làm đồng thời không đi học chính quy và những người mà nguồn lực tài chính của họ ít hơn một mức tính toán về nhu cầu.
+@Chuyên ngành kinh tế
+#tiền trợ cấp thất nghiệp bổ sung
+#trợ cấp xã hội
+<!-- more -->
+@supplementary benefit
+*danh từ
+#trợ cấp xã hội (ở Anh)

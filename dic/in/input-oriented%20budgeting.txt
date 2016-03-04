@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#đầu vào-đầu ra
+#nhập lượng-xuất lượng
+#nhập-xuất
+#vào-ra (máy tính)
+#xuất-nhập lượng

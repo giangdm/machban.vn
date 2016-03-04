@@ -1,0 +1,35 @@
+﻿@leading edge
+*danh từ
+#gờ trước của cánh máy bay
+@Chuyên ngành kỹ thuật
+#cạnh đầu (của tín hiệu)
+#mép trước
+#sườn trước
+@Lĩnh vực: xây dựng
+#cạnh cắt dẫn đầu
+@Lĩnh vực: cơ khí & công trình
+#cạnh nghiêng
+@Lĩnh vực: toán & tin
+#cạnh trước
+#cánh trước (máy bay)
+@Lĩnh vực: điện
+#mép sườn
+@Lĩnh vực: giao thông & vận tải
+#mép trước cánh
+#sườn tấn của cánh
+@Chuyên ngành kỹ thuật
+#cạnh đầu (của tín hiệu)
+#mép trước
+#sườn trước
+@Lĩnh vực: xây dựng
+#cạnh cắt dẫn đầu
+@Lĩnh vực: cơ khí & công trình
+#cạnh nghiêng
+@Lĩnh vực: toán & tin
+#cạnh trước
+#cánh trước (máy bay)
+@Lĩnh vực: điện
+#mép sườn
+@Lĩnh vực: giao thông & vận tải
+#mép trước cánh
+#sườn tấn của cánh

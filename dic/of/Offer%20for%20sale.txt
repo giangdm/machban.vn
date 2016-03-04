@@ -1,0 +1,7 @@
+﻿@Offer for sale
+#(Econ) Chào bán.
+: Là phương thức tiến hành một đợt phát hành chứng khoán mới, theo đó chứng khoán được một nhà phát hành mua lại từ người phát hành, sau đó được chào bán cho công chúng.
+@Chuyên ngành kinh tế
+#chào bán (những chứng khoán mới phát hành cho công chúng)
+#cung ứng để bán
+#sự đưa ra bán

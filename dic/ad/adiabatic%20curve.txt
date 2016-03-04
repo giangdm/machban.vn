@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đường đoạn nhiệt
+@Lĩnh vực: toán & tin
+#đường cong đoạn nhiệt

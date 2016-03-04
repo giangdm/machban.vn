@@ -1,0 +1,4 @@
+﻿@frequency demultiplier
+#(Tech) bộ giảm tần, bộ phân tích tần
+@Chuyên ngành kỹ thuật
+#bộ chia tần số

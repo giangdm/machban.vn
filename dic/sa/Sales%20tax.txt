@@ -1,0 +1,19 @@
+﻿@Sales tax
+#(Econ) Thuế bán hàng.
+: Một loại thuế đánh vào giao dịch thị trường.
+@Chuyên ngành kinh tế
+#dựa vào giá bán hàng
+#thuế bán
+#thuế bán hàng
+#thuế doanh nghiệp
+#thuế doanh thu
+#thuế hàng hóa
+#thuế kinh doanh
+#thuế tiêu thụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thuế môn bài
+<!-- more -->
+@sales tax
+*danh từ
+#thuế mua hàng

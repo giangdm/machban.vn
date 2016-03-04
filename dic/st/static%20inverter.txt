@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đảo tĩnh
+@Lĩnh vực: điện lạnh
+#bộ đổi điện tĩnh (dùng cho hệ nguồn không ngắt)
+@Lĩnh vực: giao thông & vận tải
+#bộ nắn điện tĩnh

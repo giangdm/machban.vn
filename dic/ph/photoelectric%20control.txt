@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#điều khiển quang điện
+@Lĩnh vực: toán & tin
+#sự điều khiển quang điện

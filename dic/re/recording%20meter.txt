@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ ghi
+@Lĩnh vực: toán & tin
+#dụng cụ thu
+@Lĩnh vực: cơ khí & công trình
+#máy đếm tự động
+@Lĩnh vực: điện
+#máy đo (kiểu) tự ghi

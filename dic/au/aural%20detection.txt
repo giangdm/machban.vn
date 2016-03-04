@@ -1,0 +1,2 @@
+﻿@aural detection
+#(Tech) phát hiện bằng âm thanh

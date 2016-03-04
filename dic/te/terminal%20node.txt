@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nút cuối
+@Lĩnh vực: toán & tin
+#nút đầu cuối
+#nút đầu cuối (của cây)

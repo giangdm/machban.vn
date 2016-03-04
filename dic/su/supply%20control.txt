@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh việc cung cấp
+#khống chế việc cung cấp
+#sự khống chế (điều chỉnh) việc cung cấp

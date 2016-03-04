@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tỷ lệ khoan doa
+@Lĩnh vực: cơ khí & công trình
+#tỷ số giữa khoảng chạy và đường kính (xy lanh)

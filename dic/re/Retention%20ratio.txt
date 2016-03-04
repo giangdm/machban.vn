@@ -1,0 +1,5 @@
+﻿@Retention ratio
+#(Econ) Tỷ lệ giữ lại.
+: Là tỷ lệ lợi nhuận ròng được tính làm thu nhập giữ lại.
+@Chuyên ngành kinh tế
+#tỷ lệ cổ tức giữ lại

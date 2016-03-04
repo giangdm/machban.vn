@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ điều khiển quá trình
+#hệ thống điều khiển tiến trình
+@Lĩnh vực: đo lường & điều khiển
+#hệ thống điều khiển quy trình

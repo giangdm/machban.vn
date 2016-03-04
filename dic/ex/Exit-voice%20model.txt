@@ -1,0 +1,3 @@
+﻿@Exit-voice model
+#(Econ) Mô hình nói rút lui.
+: Là sự phân loại các hệ thống, mà các cá nhân sử dụng để bày tỏ ý thích của họ để phân biệt những người muốn tham gia vào hay rút lui khỏi những thứ cần sự giao tiếp bằng lời nói.

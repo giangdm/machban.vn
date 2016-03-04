@@ -1,0 +1,2 @@
+﻿@Multiplier - accelerator model
+#(Econ) Mô hình gia tốc theo thừa số / hệ số nhân.

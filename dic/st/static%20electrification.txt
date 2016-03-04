@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nhiễm điện tĩnh
+#sự nhiễm điện tĩnh

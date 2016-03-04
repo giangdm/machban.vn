@@ -1,0 +1,3 @@
+﻿@Optimum of optimorum
+#(Econ) Trạng thái tối ưu trong tối ưu.
+: Xem OPTMUM.

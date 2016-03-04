@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm ảnh
+@Lĩnh vực: điện
+#phần hình ảnh
+@Lĩnh vực: toán & tin
+#phần tử ảnh
+#phần tử ảnh (pixel)

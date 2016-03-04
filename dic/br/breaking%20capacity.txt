@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#năng lực cắt mạch
+@Lĩnh vực: điện
+#công suất ngắt
+#dung lượng cắt
+#khả năng cắt mạch
+#khả năng ngắt
+@Lĩnh vực: điện tử & viễn thông
+#năng lực ngắt mạch

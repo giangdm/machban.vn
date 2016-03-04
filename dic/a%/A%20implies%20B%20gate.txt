@@ -1,0 +1,2 @@
+﻿@A implies B gate
+#(Tech) cổng A bao hàm B

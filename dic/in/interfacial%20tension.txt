@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#lực căng bề mặt
+#sức căng bề mặt
+@Lĩnh vực: cơ khí & công trình
+#sức căng của mặt ngoài
+@Lĩnh vực: môi trường
+#sức căng mặt phân cách
+@Lĩnh vực: điện lạnh
+#sức căng phân giới

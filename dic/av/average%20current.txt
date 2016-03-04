@@ -1,0 +1,4 @@
+﻿@average current
+#(Tech) dòng điện trung bình
+@Chuyên ngành kỹ thuật
+#dòng trung bình

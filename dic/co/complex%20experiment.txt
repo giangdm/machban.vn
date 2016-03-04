@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thí nghiệm hỗn tạp
+#thí nghiệm phức tạp

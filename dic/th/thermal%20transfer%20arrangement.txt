@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị trao đổi nhiệt
+@Lĩnh vực: điện lạnh
+#thiết bị truyền nhiệt
+#thiết bị truyền nhiệt (trao đổi nhiệt)

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phương trình bậc nhất
+@Chuyên ngành kỹ thuật
+#phương trình bậc nhất
+#phương trình tuyến tính
+@Lĩnh vực: toán & tin
+#phương trình đơn giản

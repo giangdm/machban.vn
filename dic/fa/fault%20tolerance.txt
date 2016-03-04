@@ -1,0 +1,10 @@
+﻿@fault tolerance
+#(Tech) sự dung sai lỗi
+@Chuyên ngành kỹ thuật
+#dung sai
+#khả năng kháng lỗi
+#sai hỏng cho phép
+@Chuyên ngành kỹ thuật
+#dung sai
+#khả năng kháng lỗi
+#sai hỏng cho phép

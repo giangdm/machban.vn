@@ -1,0 +1,4 @@
+﻿@functional block
+#(Tech) khối cơ năng
+@Chuyên ngành kỹ thuật
+#khối chức năng

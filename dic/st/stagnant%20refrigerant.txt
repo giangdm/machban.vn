@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#môi chất lạnh đình trệ
+#môi chất lạnh đình trệ (không chuyển động)

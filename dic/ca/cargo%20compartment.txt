@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#ngăn trở hàng hóa
+@Lĩnh vực: điện lạnh
+#buồng (lạnh) hàng hóa
+@Lĩnh vực: giao thông & vận tải
+#khoang hàng hóa (hàng không)
+@Lĩnh vực: hóa học & vật liệu
+#khoang tàu chứa hàng (khô)

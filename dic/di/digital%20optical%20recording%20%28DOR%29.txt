@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự ghi quang số
+@Lĩnh vực: điện lạnh
+#ghi quang số
+@Lĩnh vực: toán & tin
+#phép ghi quang số

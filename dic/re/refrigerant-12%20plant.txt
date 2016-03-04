@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trạm lạnh (làm việc với) R12
+#trạm lạnh R12

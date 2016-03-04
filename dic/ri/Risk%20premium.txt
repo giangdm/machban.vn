@@ -1,0 +1,7 @@
+﻿@Risk premium
+#(Econ) Tiền bù cho rủi ro, phí rủi ro
+: 1.Là một khoản bổ sung vào TỶ LỆ CHIẾT KHẤU thuần tuý để tính đến sự không chắc chắn của những lợi ích hoặc doanh thu của một dự án trong tương lai; 2.Trong một thế giới không chắc chắn, đó là phần lợi tức bù đắp cho chủ sở hữu vốn về những rủi ro trong việc sử dụng số vốn đó trong kinh doanh.
+@Chuyên ngành kinh tế
+#tiền bù rủi ro
+@Chuyên ngành kỹ thuật
+#lệ phí mạo hiểm

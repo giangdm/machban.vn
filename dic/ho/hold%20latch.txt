@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ điều khiển
+@Lĩnh vực: điện tử & viễn thông
+#mạch chốt giữ

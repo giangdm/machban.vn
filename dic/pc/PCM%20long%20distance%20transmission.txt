@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#truyền điều biến mã xung
+#truyền PCM đường dài

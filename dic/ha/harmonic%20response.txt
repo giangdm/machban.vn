@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đáp ứng điều hòa
+@Lĩnh vực: điện tử & viễn thông
+#đáp ứng sóng hình sin
+@Lĩnh vực: điện lạnh
+#độ nhạy sóng hình sin

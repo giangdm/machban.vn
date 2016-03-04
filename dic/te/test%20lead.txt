@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu dây cảm biến
+@Lĩnh vực: điện
+#cáp đo
+#đầu dây ra thử nghiệm
+#dây dẫn thử
+#dây ra thử
+#dây tiếp dẫn
+@Lĩnh vực: điện lạnh
+#dây đấu thử
+#dây nối thử

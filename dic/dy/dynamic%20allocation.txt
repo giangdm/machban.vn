@@ -1,0 +1,9 @@
+﻿@dynamic allocation
+#(Tech) phân bố động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phân bố động
+@Lĩnh vực: toán & tin
+#sự cấp phát động
+#sự phân bố động
+#sự phân phối động

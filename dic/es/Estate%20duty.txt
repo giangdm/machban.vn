@@ -1,0 +1,5 @@
+﻿@Estate duty
+#(Econ) Thuế di sản (thuế tài sản thừa kế).
+: Dạng chủ yếu của thuế của cải ở Anh trước khi nó được thay thế bằng thuế CHUYỂN GIAO VỐN năm 1974. Thuế này được dánh giá theo suất luỹ tiến vào các tài sản của người chủ khi người này qua đời. Thuế luỹ tiến  được áp dụng cho toàn bộ tài sản chứ không chỉ cho lượng gia tăng của cải.
+@Chuyên ngành kinh tế
+#thuế di sản

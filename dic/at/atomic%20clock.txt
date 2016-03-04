@@ -1,0 +1,4 @@
+﻿@atomic clock
+#(Tech) đồng hồ nguyên tử
+@Chuyên ngành kỹ thuật
+#đồng hồ nguyên tử

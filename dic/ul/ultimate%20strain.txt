@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng giới hạn
+@Lĩnh vực: cơ khí & công trình
+#sự biến dạng tới hạn
+@Lĩnh vực: xây dựng
+#sức căng tối đa
+@Lĩnh vực: toán & tin
+#sức tối đa

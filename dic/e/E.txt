@@ -1,0 +1,9 @@
+﻿@E/R model = Entity-Relationship Model
+#(Tech) mô hình tương quan thực thể
+<!-- more -->
+@e /'iədrɔps/
+*danh từ
+#thuốc nhỏ tai
+<!-- more -->
+@e
+#(Tech) e (cơ số đối số/lôgarít tự nhiên)

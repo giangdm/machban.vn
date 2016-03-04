@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#pha phân tán
+@Lĩnh vực: môi trường
+#giai đoạn phân tán
+@Lĩnh vực: y học
+#pha phát tán

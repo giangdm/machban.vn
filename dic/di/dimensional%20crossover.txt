@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chuyển thứ nguyên
+#tiếp chuyển số chiều

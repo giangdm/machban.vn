@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bán trực tiếp
+#ma-két-tinh trực tiếp
+#tiếp thị trực tiếp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tiếp thị trực tiếp

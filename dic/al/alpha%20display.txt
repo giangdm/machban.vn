@@ -1,0 +1,2 @@
+﻿@alpha display
+#(Tech) hiển thị chữ cái, hiển thị văn tự

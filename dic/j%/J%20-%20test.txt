@@ -1,0 +1,3 @@
+﻿@J - test
+#(Econ) Kiểm định J.
+: Một phép kiểm định được tạo ra để giải quyết các giả thiết không có biến chung trong khuôn khổ của mô hình hồi quy.

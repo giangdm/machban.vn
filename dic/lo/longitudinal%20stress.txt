@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất dọc
+#ứng suất dọc trục
+@Lĩnh vực: xây dựng
+#sự cưa dọc gỗ
+#ứng suất trên phương dọc
+@Lĩnh vực: hóa học & vật liệu
+#ứng lực dọc
+@Lĩnh vực: cơ khí & công trình
+#ứng suất dọc (trục)

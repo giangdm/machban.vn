@@ -1,0 +1,9 @@
+﻿@Income tax
+#(Econ) Thuế thu nhập
+: Đây là một loại thuế quan trọng nhất ở Ah và đóng một vai trò quan trọng trong các chế độ tài chính của tất cả các nước phương Tây.
+@Chuyên ngành kinh tế
+#thuê lợi tức
+#thuế thu nhập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thuế trên lương bổng

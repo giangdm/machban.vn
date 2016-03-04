@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#ê tô
+#kềm
+#vặn
+@Lĩnh vực: xây dựng
+#ê tô có chốt
+#ê tô có chốt định vị
+@Lĩnh vực: toán & tin
+#kềm, vặn, ê-tô

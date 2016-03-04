@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#máy dán (hồ)
+#máy phết hồ
+@Chuyên ngành kỹ thuật
+#máy bôi hồ
+#máy dán
+#máy gắn keo
+#máy phết keo

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thử nghiệm kết đông-tan giá
+#thử nghiệm kết đông-xả đông

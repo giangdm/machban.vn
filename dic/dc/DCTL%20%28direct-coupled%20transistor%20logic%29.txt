@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chuỗi lôgic tranzito ghép trực tiếp
+@Lĩnh vực: toán & tin
+#mạch logic transistor ghép trực tiếp

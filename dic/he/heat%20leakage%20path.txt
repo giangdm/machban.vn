@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đường rò nhiệt
+#đường thẩm thấu nhiệt
+#lối thẩm thấu nhiệt

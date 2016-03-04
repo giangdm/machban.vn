@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ba sao (ký hiệu nhiệt độ của tủ lạnh)
+#ba sao (ký hiệu nhiệt độ của tủ)

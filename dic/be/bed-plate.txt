@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#ăng ten kiểu bảng
+#ăng ten kiểu giát giường
+#ăng ten kiểu nệm giường
+@Lĩnh vực: hóa học & vật liệu
+#bàn tựa
+@Lĩnh vực: điện
+#bệ, tấm đế (nền, móng)

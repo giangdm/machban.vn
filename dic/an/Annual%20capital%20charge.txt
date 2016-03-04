@@ -1,0 +1,3 @@
+﻿@Annual capital charge
+#(Econ) Chi phí vốn hàng năm.
+: Một kỹ thuật thẩm định dự án vốn có sử dụng chiết khấu và công nhân rằng việc sử dụng vốn đòi hỏi trả tiền lãi đối với lượng vốn sử dụng và khấu hao.

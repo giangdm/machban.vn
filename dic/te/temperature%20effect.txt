@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ảnh hưởng của nhiệt độ
+@Lĩnh vực: hóa học & vật liệu
+#hiệu ứng nhiệt độ

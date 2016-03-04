@@ -1,0 +1,5 @@
+﻿@yield capacity /'ji:ldkə'pæsiti/
+*danh từ
+#năng suất
+@Chuyên ngành kinh tế
+#năng suất

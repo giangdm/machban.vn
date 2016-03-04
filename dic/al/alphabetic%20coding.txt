@@ -1,0 +1,6 @@
+﻿@alphabetic coding
+#(Tech) biên mã bằng chữ cái
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự lập mã chữ cái
+#sự mã hóa chữ cái

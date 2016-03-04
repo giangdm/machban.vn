@@ -1,0 +1,6 @@
+﻿@Personal saving
+#(Econ) Tiết kiệm cá nhân.
+: Phần của thu nhập cá nhân không thanh toán trả thuế cũng không chi cho hàng hoá và dịch vụ (tiêu dùng hiện tại).
+@Chuyên ngành kinh tế
+#tiết kiệm cá nhân
+#tiết kiệm của cá nhân

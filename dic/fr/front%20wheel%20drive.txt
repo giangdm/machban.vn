@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#loại xe có dẫn động trước
+@Lĩnh vực: vật lý
+#sự dẫn động bằng bánh trước

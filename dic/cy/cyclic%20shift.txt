@@ -1,0 +1,8 @@
+﻿@cyclic shift
+#(Tech) dịch chuyển tuần hoàn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự chuyển dịch tuần hoàn
+#sự dịch chuyển quay vòng
+#sự dịch chuyển tuần hoàn
+#sự dịch chuyển vòng

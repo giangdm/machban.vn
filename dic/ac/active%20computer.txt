@@ -1,0 +1,7 @@
+﻿@active computer
+#(Tech) máy điện toán hoạt động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy tính hoạt động
+@Lĩnh vực: điện tử & viễn thông
+#máy tính tích cực

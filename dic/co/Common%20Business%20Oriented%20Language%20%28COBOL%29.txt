@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ngôn ngữ định hướng theo kinh doanh chung
+@Chuyên ngành kỹ thuật
+#ngôn ngữ COBOL
+@Lĩnh vực: toán & tin
+#ngôn ngữ hướng thương mại chung
+#ngôn ngữ hướng thương mại thông dụng

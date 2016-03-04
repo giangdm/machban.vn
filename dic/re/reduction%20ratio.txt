@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số nghiền
+#hệ số suy giảm
+@Lĩnh vực: cơ khí & công trình
+#độ giảm tỷ số truyền
+#tỉ số giảm
+#tỷ số giảm tốc
+@Lĩnh vực: xây dựng
+#hệ số giảm yếu
+#hệ số thon dần
+@Lĩnh vực: hóa học & vật liệu
+#hệ số thu nhỏ
+#tỷ lệ giảm giá
+#tỷ số giảm nhỏ

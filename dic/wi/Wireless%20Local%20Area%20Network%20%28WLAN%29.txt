@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạng cục bộ không dây
+#mạng cục bộ vô tuyến
+@Lĩnh vực: điện tử & viễn thông
+#Mạng cục bộ vô tuyến, LAN vô tuyến

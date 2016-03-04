@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lọc dùng vải
+#cái lọc vải
+#vải lọc
+@Lĩnh vực: điện
+#bộ lọc bằng sợi dệt
+@Lĩnh vực: môi trường
+#bộ lọc bằng vải
+#bộ lọc bụi vải sợi
+@Chuyên ngành kỹ thuật
+#bộ lọc dùng vải
+#cái lọc vải
+#vải lọc
+@Lĩnh vực: điện
+#bộ lọc bằng sợi dệt
+@Lĩnh vực: môi trường
+#bộ lọc bằng vải
+#bộ lọc bụi vải sợi

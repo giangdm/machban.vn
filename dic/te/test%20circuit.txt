@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch kiểm tra
+@Lĩnh vực: điện tử & viễn thông
+#mạch thử
+@Lĩnh vực: điện lạnh
+#sơ đồ thử nghiệm
+#vòng tuần hoàn thử nghiệm

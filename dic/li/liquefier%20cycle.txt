@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu trình hóa lỏng
+#chu trình ngưng
+#chu trình ngưng [hóa lỏng]
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu trình hóa lỏng
+#chu trình ngưng
+#chu trình ngưng [hóa lỏng]

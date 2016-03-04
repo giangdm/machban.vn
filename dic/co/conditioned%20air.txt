@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#không khí đã được điều hòa nhiệt độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#không khí (được) điều hòa
+#không khí được điều hòa

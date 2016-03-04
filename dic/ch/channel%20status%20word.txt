@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#từ trạng thái kênh
+@Lĩnh vực: toán & tin
+#từ mô tả trạng thái kênh

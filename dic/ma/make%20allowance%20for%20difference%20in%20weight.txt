@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#chú ý đến chênh lệch trọng lượng
+#thừa nhận trọng lượng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hệ thống chỉnh tự động
+@Lĩnh vực: đo lường & điều khiển
+#hệ thống điều chỉnh tự động

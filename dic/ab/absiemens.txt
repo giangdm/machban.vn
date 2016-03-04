@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#aS (mo hệ CGS điện từ, bằng 10 mũ 9 mo)

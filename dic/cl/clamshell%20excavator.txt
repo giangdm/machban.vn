@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy đào gầu ngoạm
+#máy xúc gàu ngoạm
+@Lĩnh vực: cơ khí & công trình
+#máy xúc bằng gàu ngoạm
+@Lĩnh vực: toán & tin
+#máy xúc gầu ngoạm
+@Lĩnh vực: hóa học & vật liệu
+#máy xúc kiểu gàu ngoạm

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#mức lương tính theo sản phẩm
+#mức tiền công
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảng giá khoán
+#giá khoán

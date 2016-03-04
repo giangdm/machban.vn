@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số truyền âm
+@Lĩnh vực: xây dựng
+#hệ số lọt âm
+@Lĩnh vực: toán & tin
+#hệ số truyền âm thanh

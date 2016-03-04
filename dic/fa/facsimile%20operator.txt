@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuyên viên rửa ảnh
+@Lĩnh vực: xây dựng
+#chuyên viên sửa ảnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuyên viên rửa ảnh
+@Lĩnh vực: xây dựng
+#chuyên viên sửa ảnh

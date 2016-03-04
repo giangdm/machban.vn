@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#độ nhạy cường trường tự do
+#hệ số truyền trường tự do

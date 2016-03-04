@@ -1,0 +1,5 @@
+﻿@Assessable profit
+#(Econ) Lợi nhuận chịu thuế.
+: Xem TAXABLE INCOME.
+@Chuyên ngành kinh tế
+#lợi nhuận chịu thuế

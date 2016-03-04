@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy Holtz (tạo liên tục điện tích ở điện áp cao)
+#máy Teopler-Holtz

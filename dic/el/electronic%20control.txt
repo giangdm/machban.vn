@@ -1,0 +1,12 @@
+﻿@electronic control
+#(Tech) điều khiển bằng điện tử, điều chỉnh bằng điện tử
+@Chuyên ngành kỹ thuật
+#điều khiển điện tử
+#sự điều khiển điện tử
+@Lĩnh vực: cơ khí & công trình
+#sự điều khiển (bằng) điện tử
+@Chuyên ngành kỹ thuật
+#điều khiển điện tử
+#sự điều khiển điện tử
+@Lĩnh vực: cơ khí & công trình
+#sự điều khiển (bằng) điện tử

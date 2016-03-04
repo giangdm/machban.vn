@@ -1,0 +1,2 @@
+﻿@dyadic processor
+#(Tech) bộ xử lý nhị nguyên/diadic

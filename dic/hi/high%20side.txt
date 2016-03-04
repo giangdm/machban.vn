@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#phần áp suất cao
+@Lĩnh vực: điện
+#phía cap áp

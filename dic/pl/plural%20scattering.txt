@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hiện tượng đồng tán xạ
+@Lĩnh vực: điện lạnh
+#tán xạ nhiều lần

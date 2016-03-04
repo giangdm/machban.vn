@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình ứng dụng CNM
+#chương trình ứng dụng quản trị mạng truyền thông

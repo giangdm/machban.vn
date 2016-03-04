@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#người bán hàng
+#người bán hàng (ở cửa hàng)
+#nhân viên bán hàng
+#nhân viên của hàng
+#nhân viên cửa hàng

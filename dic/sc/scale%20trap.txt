@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bộ phận tách cặn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thiết bị tách cặn

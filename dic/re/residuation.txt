@@ -1,0 +1,4 @@
+﻿@residuation
+#sự xác định phần dư, thặng dư
+@Chuyên ngành kỹ thuật
+#thặng dư

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chạy máy
+#sự chạy máy
+@Chuyên ngành kỹ thuật
+#sự chạy máy
+@Lĩnh vực: toán & tin
+#sự vận hành máy

@@ -1,0 +1,5 @@
+﻿@active surface
+#(Tech) bề mặt hoạt tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bề mặt hoạt hóa

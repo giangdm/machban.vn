@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chi phí bất ngờ
+#chi phí linh tinh
+#chi phí phụ
+#chi phí thất thường
+@Chuyên ngành kỹ thuật
+#chi phí phụ
+#phụ phí

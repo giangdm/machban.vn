@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#chữ lượng có thể (dung lượng kho mỏ)
+#trữ lượng có thể (dựa trên tính toán lý thuyết)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ ghi tự động
+@Lĩnh vực: điện
+#cái chuyển mạch tự động

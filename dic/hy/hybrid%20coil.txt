@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#cuộn dây lai
+#máy biến áp lai
+@Lĩnh vực: điện lạnh
+#cuộn dây lai ghép
+#cuộn dây sai động
+#máy biến áp vi sai
+@Lĩnh vực: điện tử & viễn thông
+#cuộn lai

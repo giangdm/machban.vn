@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nhiêt độ phòng đệm
+#nhiệt độ phòng đệm

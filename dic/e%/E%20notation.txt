@@ -1,0 +1,8 @@
+﻿@E notation
+#(Tech) ký hiệu E (lũy thừa)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu diễn số mũ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu diễn E

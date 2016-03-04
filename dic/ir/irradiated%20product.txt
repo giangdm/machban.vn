@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sản phẩm chiếu xạ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sản phẩm được chiếu xạ

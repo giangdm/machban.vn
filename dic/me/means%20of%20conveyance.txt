@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#công cụ, phương tiện vận tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#các phương tiện vận chuyển

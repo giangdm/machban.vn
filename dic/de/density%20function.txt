@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hàm số mật độ (trong thống kê)
+@Chuyên ngành kỹ thuật
+#hàm mật độ
+#mật độ phân phối
+@Lĩnh vực: cơ khí & công trình
+#hàm mặt độ

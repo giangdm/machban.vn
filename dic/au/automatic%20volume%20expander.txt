@@ -1,0 +1,2 @@
+﻿@automatic volume expander
+#(Tech) bộ giãn âm lượng tự động

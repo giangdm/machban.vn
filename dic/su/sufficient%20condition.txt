@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#điều kiện đủ
+#điều kiện tất yếu
+@Chuyên ngành kỹ thuật
+#điều kiện đủ
+@Lĩnh vực: toán & tin
+#chế độ dừng
+#chế độ ổn định

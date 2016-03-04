@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhu cầu chứa
+@Lĩnh vực: toán & tin
+#sự yêu cầu bộ nhớ

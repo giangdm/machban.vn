@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sổ xuất nhập hàng trong kho
+#tài khoản chứng khoán
+#tài khoản vốn cổ phần

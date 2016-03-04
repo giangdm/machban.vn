@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống làm tan mù tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ phá băng tự động
+#hệ thống phá băng tự động

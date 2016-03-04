@@ -1,0 +1,6 @@
+﻿@Non-rival consumption
+#(Econ) Sự tiêu dùng không bị kèn cựa; Sự tiêu dùng không bị cạnh tranh.
+: Khi sự tiêu dùng của một cá nhân đối với một loại hàng hoá không hề làm giảm đi nguồn cung cấp hàng hoá đó cho những cá nhân khác thì hàng hoá đó được coi là không cạnh tranh trong tiêu dùng.
+@Chuyên ngành kinh tế
+#sự tiêu dùng không cạnh tranh
+#sự tiêu dùng không có đối thủ

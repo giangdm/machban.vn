@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#rủi ro đặc định
+#rủi ro đặc thù

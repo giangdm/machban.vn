@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ghép nối (bằng) đúc nóng
+#mối nối đúc nóng

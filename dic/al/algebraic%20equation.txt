@@ -1,0 +1,4 @@
+﻿@algebraic equation
+#(Tech) phương trình đại số
+@Chuyên ngành kỹ thuật
+#phương trình đại số

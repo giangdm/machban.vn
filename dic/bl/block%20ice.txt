@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khối băng
+#tảng băng
+@Chuyên ngành kỹ thuật
+#đá khối

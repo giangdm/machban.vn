@@ -1,0 +1,8 @@
+﻿@realizability
+#tính thực hiện được
+#recursive r. tính thực hiện được đệ quy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính thực hiện được
+@Lĩnh vực: đo lường & điều khiển
+#tính xác thực

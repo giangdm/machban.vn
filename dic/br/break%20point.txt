@@ -1,0 +1,19 @@
+﻿@Chuyên ngành kinh tế
+#điểm làm trong (dịch đục)
+#điểm phân lớp nhũ tương
+#điểm vực
+@Chuyên ngành kỹ thuật
+#điểm gãy
+#điểm gãy liên tục
+#điểm ngắt
+#giới hạn bền
+#giới hạn độ bền
+@Lĩnh vực: hóa học & vật liệu
+#điểm đứt
+#điểm phân lớp
+@Lĩnh vực: cơ khí & công trình
+#điểm gãy khúc
+@Lĩnh vực: toán & tin
+#điểm ngừng (máy)
+@Lĩnh vực: xây dựng
+#điểm tạm dừng

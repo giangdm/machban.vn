@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khả năng cắt
+@Lĩnh vực: điện lạnh
+#khả năng cắt (điện)
+@Lĩnh vực: xây dựng
+#mức độ gãy

@@ -1,0 +1,5 @@
+﻿@gas phototube
+#(Tech) ống quang điện có khí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ống quang điện thấm khí

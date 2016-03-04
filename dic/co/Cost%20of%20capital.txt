@@ -1,0 +1,8 @@
+﻿@Cost of capital
+#(Econ) Chi phí vốn.
+: Là chi phí được tính bằng tỷ lệ phần trăm, của các nguồn VỐN khác nhau cần thiết để trả cho việc chi dùng vốn.Tất cả các nguồn vốn đều có giá và có thể tính được trực tiếp như lhoản vay nợ.
+@Chuyên ngành kinh tế
+#chi phí về vốn
+#giá sử dụng vốn
+#phí tổn về vốn
+#phí vốn

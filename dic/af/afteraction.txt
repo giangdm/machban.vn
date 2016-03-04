@@ -1,0 +1,3 @@
+﻿@afteraction
+*danh từ
+#tác động thứ sinh

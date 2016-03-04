@@ -1,0 +1,10 @@
+﻿@braided wire
+#(Tech) dây tết
+@Chuyên ngành kỹ thuật
+#dây bện
+#dây điện
+#dây tết
+@Lĩnh vực: điện lạnh
+#dây tết (quanh cáp, dây dẫn)
+@Lĩnh vực: điện
+#dây tết bọc ngoài

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#panen (xếp) theo từng dãy
+#tấm cơ bản
+#tấm đơn vị

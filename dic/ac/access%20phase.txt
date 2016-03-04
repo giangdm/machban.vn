@@ -1,0 +1,2 @@
+﻿@access phase
+#(Tech) pha/vị tướng truy cập

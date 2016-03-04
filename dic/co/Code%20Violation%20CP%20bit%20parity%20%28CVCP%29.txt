@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Vi phạm mã - Ngang bằng chẵn lẻ bit CP

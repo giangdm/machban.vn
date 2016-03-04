@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cầu đo điện dung
+@Lĩnh vực: điện lạnh
+#cầu điện dung

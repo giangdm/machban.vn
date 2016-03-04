@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phân loại
+@Lĩnh vực: vật lý
+#bộ phân loại cơ học

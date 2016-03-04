@@ -1,0 +1,14 @@
+﻿@even parity
+#(Tech) tính chẵn; tính đồng đẳng chẳn
+@Chuyên ngành kỹ thuật
+#kiểm tra tính chẵn
+@Lĩnh vực: toán & tin
+#bậc chẵn
+#kiểm tra theo (số) chẵn
+#tính chẵn
+@Chuyên ngành kỹ thuật
+#kiểm tra tính chẵn
+@Lĩnh vực: toán & tin
+#bậc chẵn
+#kiểm tra theo (số) chẵn
+#tính chẵn

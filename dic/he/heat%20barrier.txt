@@ -1,0 +1,7 @@
+﻿@heat barrier
+*danh từ
+#giới hạn về vận tốc máy bay (do nhiệt sinh ra vì ma sát với không khí)
+@Chuyên ngành kỹ thuật
+#rào cản nhiệt
+@Lĩnh vực: điện tử & viễn thông
+#thanh chuyển giao nhiệt

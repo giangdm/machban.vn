@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khối đệm tháp giải nhiệt
+#tầng đệm tháp giải nhiệt
+@Lĩnh vực: xây dựng
+#vật liệu phụ tháp làm lạnh

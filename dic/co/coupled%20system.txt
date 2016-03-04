@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#hệ ghép
+@Lĩnh vực: toán & tin
+#hệ thống kết hợp

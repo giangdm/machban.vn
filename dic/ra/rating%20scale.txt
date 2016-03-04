@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thang đánh giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thang biểu phân loại (cho điểm)

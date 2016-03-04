@@ -1,0 +1,2 @@
+﻿@bad-connection test
+#(Tech) thử sự nối hư

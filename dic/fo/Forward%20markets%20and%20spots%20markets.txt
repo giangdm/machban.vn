@@ -1,0 +1,2 @@
+﻿@Forward markets and spots markets
+#(Econ) Các thị trường định trước và thị trường giao ngay.

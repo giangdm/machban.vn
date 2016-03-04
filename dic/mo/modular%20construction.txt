@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#cấu tạo định hình
+@Chuyên ngành kỹ thuật
+#kết cấu khối
+#kết cấu modun
+#tiêu chuẩn
+@Lĩnh vực: giao thông & vận tải
+#chế tạo theo kiểu môđun
+@Lĩnh vực: điện
+#thiết kế khối
+@Lĩnh vực: xây dựng
+#xây dựng theo môđun

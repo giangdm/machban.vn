@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thứ tự pha thuận
+@Lĩnh vực: điện lạnh
+#thứ tự thuận pha

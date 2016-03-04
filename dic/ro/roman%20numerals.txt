@@ -1,0 +1,6 @@
+﻿@roman numerals
+*danh từ
+#(Roman numerals) chữ số La mã
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các số La Mã

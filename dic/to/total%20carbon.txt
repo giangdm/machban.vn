@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng cácbon tổng
+@Lĩnh vực: cơ khí & công trình
+#hàm lượng cacbon

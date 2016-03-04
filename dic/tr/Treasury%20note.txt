@@ -1,0 +1,9 @@
+﻿@Treasury note
+#(Econ) Đồng tiền của bộ tài chính.
+: Xem CURRENCY NOTE.
+@Chuyên ngành kinh tế
+#công khố phiếu kho bạc trung hạn
+#công khố phiếu trung hạn (từ 1 đến 10 năm)
+#giấy bạc kho bạc
+#giấy bạc tài chính
+#trái phiếu kho bạc trung hạn

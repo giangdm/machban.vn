@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tấm lá kim loại phản xạ
+#tấm mỏng phản xạ

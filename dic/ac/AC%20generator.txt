@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phát điện xoay chiều
+@Lĩnh vực: ô tô
+#máy phát xoay chiều
+@Lĩnh vực: điện
+#sự phát sóng xoay chiều
+#sự tạo dòng điện AC

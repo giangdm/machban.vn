@@ -1,0 +1,8 @@
+﻿@equivalence element
+#(Tech) phần tử tương đương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần tử tương đương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần tử tương đương

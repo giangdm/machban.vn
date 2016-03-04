@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mô hình hạt nhân
+@Lĩnh vực: điện lạnh
+#mẫu hạt nhân

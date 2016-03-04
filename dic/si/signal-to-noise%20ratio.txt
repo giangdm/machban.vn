@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tỷ lệ tín hiệu-nhiễu
+@Lĩnh vực: xây dựng
+#tỷ số kí hiệu tiếng ồn (nhiễu âm)

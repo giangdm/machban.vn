@@ -1,0 +1,7 @@
+﻿@Consolidated fund
+#(Econ) Quỹ ngân khố.
+: Một cụm thuật ngữ khác cho NGÂN KHỐ ở Anh. Đó là một tài khoản của chính phủ bao gồm thu nhập từ thuế.
+@Chuyên ngành kinh tế
+#quỹ chỉnh lý (của chính phủ)
+#quỹ hợp nhất
+#quỹ thống nhất

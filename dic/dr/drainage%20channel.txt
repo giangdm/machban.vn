@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#kênh tiêu nước
+#mương thoát nước
+#mương tưới
+#rãnh thoát nước
+#rãnh tiêu nước
+@Lĩnh vực: xây dựng
+#kênh thoát nước

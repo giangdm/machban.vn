@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#động thái phản ứng
+#hành vi (tác động) phản ứng
+#hành vi phản ứng

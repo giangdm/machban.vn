@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#bình giảm nhiệt dầu
+#lỗ bôi trơn
+@Lĩnh vực: ô tô
+#bình giải nhiệt dầu nhớt
+#két làm mát dùng dầu
+@Lĩnh vực: điện
+#bộ làm mát bằng dầu
+@Lĩnh vực: điện lạnh
+#bộ làm mát dầu
+#bộ làm mát dùng dầu
+@Lĩnh vực: cơ khí & công trình
+#bộ tản nhiệt dùng dầu

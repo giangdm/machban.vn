@@ -1,0 +1,34 @@
+﻿@Chuyên ngành kỹ thuật
+#ống gom khí xả
+#ống xả
+@Lĩnh vực: toán & tin
+#cổ góp ống xả
+@Lĩnh vực: cơ khí & công trình
+#cụm ống thải
+#ống góp hơi xả
+@Lĩnh vực: xây dựng
+#đường ống thoát
+#đường ống xả
+#miệng ống xả
+@Lĩnh vực: ô tô
+#ống góp hải
+#ống thải
+@Lĩnh vực: điện lạnh
+#ống góp hơi thoát
+@Chuyên ngành kỹ thuật
+#ống gom khí xả
+#ống xả
+@Lĩnh vực: toán & tin
+#cổ góp ống xả
+@Lĩnh vực: cơ khí & công trình
+#cụm ống thải
+#ống góp hơi xả
+@Lĩnh vực: xây dựng
+#đường ống thoát
+#đường ống xả
+#miệng ống xả
+@Lĩnh vực: ô tô
+#ống góp hải
+#ống thải
+@Lĩnh vực: điện lạnh
+#ống góp hơi thoát

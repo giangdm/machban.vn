@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#công suất nhiệt
+@Lĩnh vực: vật lý
+#đường công suất nhiệt

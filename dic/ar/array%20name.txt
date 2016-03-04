@@ -1,0 +1,2 @@
+﻿@array name
+#(Tech) tên dẫy số = array declarator

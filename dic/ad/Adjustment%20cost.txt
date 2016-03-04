@@ -1,0 +1,2 @@
+﻿@Adjustment cost
+#(Econ) Chi phí điều chỉnh sản xuất.

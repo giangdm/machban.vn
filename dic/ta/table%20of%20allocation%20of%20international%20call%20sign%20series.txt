@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bảng phân định chỉ số gọi điện thoại quốc tế
+#bảng phân phối chỉ số gọi điện thoại quốc tế

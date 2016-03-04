@@ -1,0 +1,7 @@
+﻿@computer utility
+#(Tech) chương trình tiện ích điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#công cụ máy tính
+#tiên ích máy tính
+#tiện ích máy tính

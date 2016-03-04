@@ -1,0 +1,3 @@
+﻿@Capital services
+#(Econ) Các dịch vụ vốn
+: Luồng dịch vụ qua thời gian bắt nguồn từ dung lượng vốn thiết bị (Xem CAPITAL).

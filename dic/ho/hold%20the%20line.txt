@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#duy trì tình trạng kinh tế
+#khống chế vật giá
+@Chuyên ngành kỹ thuật
+#cầm máy
+@Lĩnh vực: điện tử & viễn thông
+#giữ máy
+@Lĩnh vực: xây dựng
+#giữ máy (điện thoại)

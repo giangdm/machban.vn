@@ -1,0 +1,10 @@
+﻿@Birth rate
+#(Econ) Tỷ suất sinh
+: Được định nghĩa là số người sinh sống sót trung bình trên 1000 dân mỗi năm.
+@Chuyên ngành kinh tế
+#tỷ lệ sinh đẻ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tỷ lệ sinh đẻ
+@Lĩnh vực: y học
+#tỷ lệ sinh sản, tỷ suất sinh

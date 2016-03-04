@@ -1,0 +1,6 @@
+﻿@computer logic
+#(Tech) luận lý điện toán; mạch luận lý điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lôgic máy (tính)
+#lôgic máy tính

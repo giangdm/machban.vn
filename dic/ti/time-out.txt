@@ -1,0 +1,16 @@
+﻿@time-out /'taim,aut/
+*danh từ
+#thời gian không tính (trong một trận đấu bóng đá, bóng rổ... vì hội ý, vì ngừng đấu...)
+@Chuyên ngành kinh tế
+#tạm ngưng
+#thời gian chờ đợi (khi máy tính đang vận hành)
+@Chuyên ngành kỹ thuật
+#quá giờ
+#sự định thời
+#sự quá giờ
+#sự quá thời gian
+#thời gian chờ
+@Lĩnh vực: điện tử & viễn thông
+#hết giờ
+@Lĩnh vực: toán & tin
+#thời gian tạm ngưng

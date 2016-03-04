@@ -1,0 +1,4 @@
+﻿@full-page
+*tính từ
+#đầy một trang
+=a full-page list:danh sách dài cả một trang

@@ -1,0 +1,9 @@
+﻿@em fraction
+#phân số em
+#Phân số dạng ký tự đơn, chiếm độ rộng một em, dùng dấu vạch chéo (1 / 4), khác với phân số thường được thể hiện bằng ba hoặc nhiều ký tự (1 / 4)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân số em
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân số em

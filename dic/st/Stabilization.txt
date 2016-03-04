@@ -1,0 +1,29 @@
+﻿@Stabilization
+#(Econ) Sự ổn định hoá.
+: Một phương pháp chuẩn tắc nghiên cứu sự biến động trong mức độ hoạt động kinh tế.
+<!-- more -->
+@stabilization /,steibilai'zeiʃn/
+*danh từ
+#sự làm cho vững vàng, sự làm cho ổn định; sự vững vàng, sự ổn định
+@Chuyên ngành kinh tế
+#sự làm điều hòa
+#sự ổn định
+@Chuyên ngành kỹ thuật
+#gia cố
+#ổn định
+#sự cố định
+#sự điều hòa
+#sự gia cố
+#sự gia cố đất
+#sự làm ổn định
+@Lĩnh vực: đo lường & điều khiển
+#sự làm cho ổn định
+@Lĩnh vực: điện lạnh
+#sự làm ổn định (vật liệu từ)
+@Lĩnh vực: hóa học & vật liệu
+#sự ổn định
+@Lĩnh vực: xây dựng
+#sự ổn định hóa
+<!-- more -->
+@stabilization
+#sự làm ổn định

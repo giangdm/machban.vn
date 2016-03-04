@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản kinh doanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trương mục khai thác

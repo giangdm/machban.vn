@@ -1,0 +1,5 @@
+﻿@ambiguity function
+#(Tech) hàm số nhập nhằng/bất thường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chức năng đánh giá sự không rõ của rađa

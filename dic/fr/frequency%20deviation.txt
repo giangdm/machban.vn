@@ -1,0 +1,9 @@
+﻿@frequency deviation
+#(Tech) độ lệch tần số; độ di tần
+@Chuyên ngành kỹ thuật
+#độ lệch tần
+#độ lệch tần số
+#sự làm lệch tần
+#sự quét tần
+@Lĩnh vực: toán & tin
+#sự lệch tần số

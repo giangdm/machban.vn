@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn dây đổi nối
+@Lĩnh vực: điện lạnh
+#dây quấn đổi chiều

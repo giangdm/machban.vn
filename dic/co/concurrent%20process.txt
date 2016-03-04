@@ -1,0 +1,2 @@
+﻿@concurrent process
+#(Tech) quá trình đồng thời

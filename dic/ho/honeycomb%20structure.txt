@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#kết cấu tổ ong
+#kiến trúc tổ ong
+@Lĩnh vực: điện lạnh
+#cấu trúc (kiểu) tổ ong
+#cấu trúc kiểu tổ ong
+@Lĩnh vực: xây dựng
+#cấu trúc rỗ tổ ong

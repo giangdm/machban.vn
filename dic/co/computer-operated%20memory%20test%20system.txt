@@ -1,0 +1,2 @@
+﻿@computer-operated memory test system
+#(Tech) hệ thống thử bộ nhớ bằng máy điện toán

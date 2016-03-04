@@ -1,0 +1,4 @@
+﻿@half-group
+#(đại số) nửa nhóm đặt trong một nhóm
+@Chuyên ngành kỹ thuật
+#nửa nhóm

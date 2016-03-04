@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tích phân theo chu tuyến
+#tích phân theo đường đáy

@@ -1,0 +1,3 @@
+﻿@Wage contour
+#(Econ) Vòng tiền công.
+: Một tập hợp các mức lương ở một số thị trường lao động nội bộ.

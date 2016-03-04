@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#lưới (xóa nhiễu) (ở đèn điện tử)
+#lưới triệt (nhiễu)

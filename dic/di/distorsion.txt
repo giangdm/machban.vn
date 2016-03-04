@@ -1,0 +1,9 @@
+﻿@distorsion
+#sự méo, sự biến dạng, biến dạng méo
+#amplitude d. sự méo biên độ
+#delay d. sự méo pha
+#envelope sự méo bao hình
+#frequency sự méo tần số
+#low d. (điều khiển học) sự méo không đáng kể
+#phase d. (điều khiển học) sự méo pha
+#wave from d. sự sai dạng tín hiệu

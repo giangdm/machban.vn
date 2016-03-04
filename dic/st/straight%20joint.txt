@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#liên kết đối đầu
+#mạch xây thẳng (xây tường)
+#mối liên kết thẳng
+#mối nối đối đầu
+#mối nối thẳng
+@Lĩnh vực: xây dựng
+#mạch xây đứng và thẳng

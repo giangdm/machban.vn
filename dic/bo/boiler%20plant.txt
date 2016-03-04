@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thiết bị nồi hơi
+@Lĩnh vực: xây dựng
+#tổ hợp nồi hơi
+#trạm nồi hơi
+@Lĩnh vực: cơ khí & công trình
+#xưởng nồi hơi

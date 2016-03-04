@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điện thương mại
+@Lĩnh vực: xây dựng
+#điện tư gia
+@Lĩnh vực: toán & tin
+#điện tử gia

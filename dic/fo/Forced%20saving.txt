@@ -1,0 +1,5 @@
+﻿@Forced saving
+#(Econ) Tiết kiệm bắt buộc.
+: Một dạng tiết kiệm phát sinh do người tiêu dùng không có khả năng tiêu tiền của mình vào những hàng tiêu dùng mà mình muốn, đơn thuần là vì những hàng hoá này không có.
+@Chuyên ngành kinh tế
+#tiết kiệm bắt buộc

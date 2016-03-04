@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#thời gian hữu ích (của một máy tính)
+#thời gian khai thác
+@Chuyên ngành kỹ thuật
+#pha đích
+#thời gian chạy
+#thời gian làm việc
+#thời gian thực hiện
+@Lĩnh vực: toán & tin
+#thời gian chạy có ích
+#thời gian có ích

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phụ tải trễ
+@Lĩnh vực: điện lạnh
+#tải điện cảm
+#tải điện kháng
+#tải gây chậm pha
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phụ tải trễ
+@Lĩnh vực: điện lạnh
+#tải điện cảm
+#tải điện kháng
+#tải gây chậm pha

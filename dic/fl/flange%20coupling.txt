@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu nối bích
+#khớp bích
+#khớp nối bích
+#mối ghép bích
+@Lĩnh vực: xây dựng
+#liên kết cánh dầm
+#liên kết kiểu bích
+@Lĩnh vực: cơ khí & công trình
+#sự ghép nối bằng bích
+@Chuyên ngành kỹ thuật
+#đầu nối bích
+#khớp bích
+#khớp nối bích
+#mối ghép bích
+@Lĩnh vực: xây dựng
+#liên kết cánh dầm
+#liên kết kiểu bích
+@Lĩnh vực: cơ khí & công trình
+#sự ghép nối bằng bích

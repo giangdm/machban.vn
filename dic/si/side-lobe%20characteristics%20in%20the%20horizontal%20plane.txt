@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#các đặc trưng búp bên trong mặt phẳng (nằm) ngang
+#các đặc trưng thùy bên trong mặt phẳng (nằm) ngang

@@ -1,0 +1,2 @@
+﻿@Darlington emitter follower
+#(Tech) mạch cặp gánh cực phát, mạch Darlington (Đắclintơn)

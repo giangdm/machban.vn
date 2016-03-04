@@ -1,0 +1,6 @@
+﻿@copper conductor
+#(Tech) dây dẫn bằng đồng
+@Chuyên ngành kỹ thuật
+#dây đồng
+@Lĩnh vực: điện
+#dây dẫn đồng

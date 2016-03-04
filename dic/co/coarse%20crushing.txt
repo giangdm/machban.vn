@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự nghiền sơ bộ
+@Chuyên ngành kỹ thuật
+#nghiền thô
+#sự nghiền lần thứ nhất
+#sự nghiền thô

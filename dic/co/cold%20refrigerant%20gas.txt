@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ga lạnh (ở nhiệt độ thấp)
+#gas lạnh (ở nhiệt độ lạnh)
+#hơi lạnh của môi chất lạnh

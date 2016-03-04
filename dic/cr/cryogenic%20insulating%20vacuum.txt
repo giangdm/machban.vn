@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cách nhiệt chân không cryo
+#chân không cách nhiệt cryo

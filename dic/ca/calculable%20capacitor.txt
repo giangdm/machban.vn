@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tụ điện tính được
+@Lĩnh vực: vật lý
+#tụ tính toán được

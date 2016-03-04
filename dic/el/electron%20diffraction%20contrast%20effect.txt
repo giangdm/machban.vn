@@ -1,0 +1,2 @@
+﻿@electron diffraction contrast effect
+#(Tech) hiệu ứng tương phản nhiễu xạ điện tử

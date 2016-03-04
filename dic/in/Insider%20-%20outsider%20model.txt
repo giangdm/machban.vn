@@ -1,0 +1,3 @@
+﻿@Insider - outsider model
+#(Econ) Mô hình Người trong cuộc - người ngoài cuộc.
+: Các mô hình phân biệt những người hiện đang làm việc, gọi là những người bên trong - những người này được coi là có một ít sức mạnh đối với thị trường - với những người không có việc làm nhưng đang muốn làm việc, gọi là những người bên ngoài.

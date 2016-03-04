@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị vận chuyểnủung
+@Chuyên ngành kỹ thuật
+#băng tải rung

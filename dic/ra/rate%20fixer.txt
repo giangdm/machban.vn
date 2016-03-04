@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#người định mức lương
+#người lập mức lương
+@Chuyên ngành kỹ thuật
+#người định mức
+@Lĩnh vực: đo lường & điều khiển
+#người định giá

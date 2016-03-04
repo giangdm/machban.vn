@@ -1,0 +1,10 @@
+﻿@frequency control
+#(Tech) sự điều tần, điều chỉnh tần số
+@Chuyên ngành kỹ thuật
+#sự điều chỉnh tần số
+#sự điều khiển tần số
+#sự ổn định tần số
+@Lĩnh vực: toán & tin
+#điều chỉnh tần số
+@Lĩnh vực: vật lý
+#ổn định hóa tần số

@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#giao thông cục bộ
+#lưu lượng cục bộ
+@Lĩnh vực: xây dựng
+#giao thông địa phương
+@Lĩnh vực: điện tử & viễn thông
+#lưu lượng nội hạt
+@Lĩnh vực: giao thông & vận tải
+#sự giao thông địa phương
+#sự giao thông gần
+@Chuyên ngành kỹ thuật
+#giao thông cục bộ
+#lưu lượng cục bộ
+@Lĩnh vực: xây dựng
+#giao thông địa phương
+@Lĩnh vực: điện tử & viễn thông
+#lưu lượng nội hạt
+@Lĩnh vực: giao thông & vận tải
+#sự giao thông địa phương
+#sự giao thông gần

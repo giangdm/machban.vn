@@ -1,0 +1,2 @@
+﻿@cpi
+#ký tự/inch, số ký tự trên mỗi inch

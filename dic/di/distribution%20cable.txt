@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cáp phân bổ
+#cáp phân phát
+@Lĩnh vực: điện
+#cáp phân phối (điện)

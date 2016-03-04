@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bàn hướng dẫn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bàn thông tin
+@Lĩnh vực: điện tử & viễn thông
+#quầy thông tin

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hầm lạnh
+@Chuyên ngành kỹ thuật
+#hầm đá
+@Lĩnh vực: điện lạnh
+#hầm (nước) đá

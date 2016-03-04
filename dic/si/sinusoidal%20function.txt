@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm điều hòa
+#hàm sin
+@Lĩnh vực: điện
+#hàm hình sin

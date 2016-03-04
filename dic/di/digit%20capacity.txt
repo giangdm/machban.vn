@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dung lượng chữ số
+@Lĩnh vực: điện tử & viễn thông
+#dung lượng số

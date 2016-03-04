@@ -1,0 +1,6 @@
+﻿@purser-strings /'pə:sstriɳz/
+*danh từ số nhiều
+#dây thắt ví tiền, dây thắt hầu bao
+=to hold the purser-strings: nắm việc chi tiêu
+=to tighten the purser-strings: tằn tiện, thắt chặt hầu bao
+=to loosen the purser-strings: ăn tiêu rộng rãi, mở rộng hầu bao

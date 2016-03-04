@@ -1,0 +1,11 @@
+﻿@broken line
+#(Tech) đường gẫy
+@Chuyên ngành kỹ thuật
+#đường chấm chấm
+#đường chấm chấm (...)
+#đường gấp khúc
+#đường nét đứt
+@Lĩnh vực: toán & tin
+#đường dứt nét
+@Lĩnh vực: xây dựng
+#đường gãy khúc

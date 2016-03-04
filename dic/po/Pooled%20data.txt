@@ -1,0 +1,3 @@
+﻿@Pooled data
+#(Econ) Dữ liệu gộp.
+: Dữ liệu kiểu hình thành khi (a) SỐ LIỆU CHÉO và (b) DỮ LIỆU CHUỖI THỜI GIAN được sáp nhập vào cùng bộ dữ liệu, thông thường khi không có đủ dữ liệu kiểu (a) hoặc (b) riêng, để ước lượng các thông số của một mô hình do không đủ các bậc tự do.

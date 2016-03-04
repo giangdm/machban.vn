@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#lệch pha
+#sự lệch pha
+@Lĩnh vực: điện
+#không trùng pha
+#sai pha
+@Lĩnh vực: xây dựng
+#sai dây/sai pha
+#sai vi tướng

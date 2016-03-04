@@ -1,0 +1,2 @@
+﻿@acceptor type trap
+#(Tech) cái bẫy loại nhận

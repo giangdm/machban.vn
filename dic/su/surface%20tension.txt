@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sức căng bề mặt
+@Chuyên ngành kỹ thuật
+#lực căng mặt ngoài
+#lực căng trên bề mặt
+#sự căng mặt ngoài
+#sức căng bề mặt
+#sức căng mặt ngoài
+@Lĩnh vực: xây dựng
+#kéo trên bề mặt

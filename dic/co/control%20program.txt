@@ -1,0 +1,6 @@
+﻿@control program
+#(Tech) chương trình điều khiển
+@Chuyên ngành kỹ thuật
+#cánh lái điều khiển
+#chương trình kiểm tra
+#mặt điều khiển

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chương trình khởi động
+@Lĩnh vực: toán & tin
+#khối khởi động
+@Lĩnh vực: điện tử & viễn thông
+#khối mồi

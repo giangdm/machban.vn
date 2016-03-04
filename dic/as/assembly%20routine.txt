@@ -1,0 +1,5 @@
+﻿@assembly routine
+#(Tech) thường trình dịch mã số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chương trình hợp ngữ

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ cache
+#bộ nhớ đệm
+#bộ nhớ truy cập nhanh

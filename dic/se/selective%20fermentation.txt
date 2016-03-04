@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự lên men chọn lọc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#lên men chọn lọc

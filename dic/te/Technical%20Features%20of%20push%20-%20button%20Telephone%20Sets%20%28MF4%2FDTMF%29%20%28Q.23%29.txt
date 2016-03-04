@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Các đặc điểm kỹ thuật của máy điện thoại ấn phím (MF4/DTMF)

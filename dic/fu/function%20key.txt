@@ -1,0 +1,8 @@
+﻿@function key
+#(Tech) phím cơ năng
+@Chuyên ngành kinh tế
+#phím chức năng
+@Chuyên ngành kỹ thuật
+#phím chức năng
+@Lĩnh vực: toán & tin
+#phím ẩn

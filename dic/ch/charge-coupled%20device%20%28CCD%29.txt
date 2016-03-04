@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#linh kiện ghép điện tích
+@Lĩnh vực: toán & tin
+#thiết bị kép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#CCD

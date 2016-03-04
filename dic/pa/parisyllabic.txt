@@ -1,0 +1,3 @@
+﻿@parisyllabic
+*tính từ
+#có số âm tiết như nhau trong hệ biến cách của từ

@@ -1,0 +1,6 @@
+﻿@Option value
+#(Econ) Giá trị của quyền lựa chọn.
+: Là giá trị mà người tiêu dùng có được trong việc có quyền chọn mua một loại hàng hoá.
+@Chuyên ngành kinh tế
+#giá trị của sự lựa chọn
+#giá trị lựa chọn

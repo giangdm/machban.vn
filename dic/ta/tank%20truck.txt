@@ -1,0 +1,18 @@
+﻿@tank truck
+*danh từ
+#<Mỹ> xe ô tô có két to hình ống để chở sữa (dầu )
+@Chuyên ngành kinh tế
+#xe bồn
+#xe chở nước
+#xe sitec
+#xe tải chở dầu
+#xe tải trở nước, xe tải chở dầu, xe bồn
+@Chuyên ngành kỹ thuật
+#ô tô xitec
+#xe xitec
+@Lĩnh vực: ô tô
+#ô tô (có) két
+#ô tô chở nhiên liệu
+@Lĩnh vực: cơ khí & công trình
+#xe bồn
+#xe chở xăng

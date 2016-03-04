@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công ty chế tạo
+#sự ủy thác gia công
+#xí nghiệp chế tạo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#công ty sản xuất

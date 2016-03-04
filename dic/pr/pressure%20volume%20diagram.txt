@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#áp tích đồ
+@Lĩnh vực: vật lý
+#giản đồ thể tích-áp suất

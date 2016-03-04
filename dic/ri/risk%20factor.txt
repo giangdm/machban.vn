@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ số độ kiên cố
+#yếu tổ rủi ro
+@Lĩnh vực: y học
+#yếu tố rủi ro

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ không biến dạng
+@Lĩnh vực: xây dựng
+#hệ bất biến
+@Lĩnh vực: toán & tin
+#hệ không biến đổi

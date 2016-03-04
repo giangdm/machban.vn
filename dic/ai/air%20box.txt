@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bình khí nén
+#hộp gió
+#thùng khí nén
+@Lĩnh vực: cơ khí & công trình
+#buồng không khí
+#chụp khí
+@Lĩnh vực: hóa học & vật liệu
+#hộp kín

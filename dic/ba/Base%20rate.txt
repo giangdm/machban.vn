@@ -1,0 +1,9 @@
+﻿@Base rate
+#(Econ) Lãi suất gốc.
+: Sau khi bãi bỏ những hiệp định về tiền gửi và tiền vay năm 1971, CÁC NGÂN HÀNG THANH TOÁN BÙ TRỪ CỦA ANH đã áp dụng tập quán xác định và thông báo lãi suất gốc.Xem COMPETITION AND CREDIT CONTROL.
+@Chuyên ngành kinh tế
+#giá gốc
+<!-- more -->
+@base rate
+*danh từ
+#lãi suất ngân hàng ấn định làm cơ sở cho lãi suất đối với những người vay và đầu tư, Lãi suất gốc

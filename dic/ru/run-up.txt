@@ -1,0 +1,12 @@
+﻿@run-up
+*danh từ
+#sự chạy lấy đà trước khi ném bóng, nhảy
+@Chuyên ngành kỹ thuật
+#chạy thử
+#sự chạy thử
+@Lĩnh vực: giao thông & vận tải
+#chạy nóng máy (động cơ và hệ truyền động)
+#nổ máy thử
+#sự nổ máy thử (động cơ và cơ câu chuyển động)
+@Lĩnh vực: cơ khí & công trình
+#sự leo lên

@@ -1,0 +1,9 @@
+﻿@Capital charges
+#(Econ) Các phí tổn cho vốn
+: Các chi phí mà các công ty và cá nhân đưa vào tài khoản của họ để trả lãi vốn vay, khấu hao tài sản và trả nợ vay. Xem ANNUAL CAPITAL CHARGE.
+@Chuyên ngành kinh tế
+#chi phí vốn
+#phí lợi tức (chi phí để trả lãi vay)
+#phí vốn
+@Chuyên ngành kỹ thuật
+#chi phí khấu hao

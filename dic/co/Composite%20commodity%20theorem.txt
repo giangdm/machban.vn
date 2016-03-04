@@ -1,0 +1,5 @@
+﻿@Composite commodity theorem
+#(Econ) Định lý hàng hoá đa hợp
+: Theo J.R.HICKS (Giá trị và tư bản, Đại học Oxford,1939), định lý này nói rằng nếu có một số hàng hoá mà giá tương đối của chúng (tức là giá của hàng hoá này so với giá của hàng hoá kia) không đổi thì những hàng hoá đó có thể coi là một hàng hoá có tên hàng hoá đa hợp
+@Chuyên ngành kinh tế
+#thuyết hàng phức hợp

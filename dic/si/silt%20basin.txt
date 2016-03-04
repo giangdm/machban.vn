@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bể chặn bùn
+#bể lắng bùn (để làm trong nước)
+#giếng lắng (làm nước trong)

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chất chống thối rữa
+#chất khử trùng
+#chất sát trùng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chất chống thối rữa

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#cổ phần phải góp tối thiểu
+#vốn góp tối thiểu

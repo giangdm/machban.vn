@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bể làm lạnh cryo
+#bể nhiệt độ thấp
+#bể sinh hàn
+#bồn (chất lỏng) cryo

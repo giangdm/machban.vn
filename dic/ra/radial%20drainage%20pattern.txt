@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#mô hình thoát nước tỏa tia
+#mô hình thoát nước xuyên tâm

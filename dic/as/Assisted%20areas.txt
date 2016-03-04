@@ -1,0 +1,5 @@
+﻿@Assisted areas
+#(Econ) Các vùng được hỗ trợ
+: Các vùng trong nước mà ở đó hoạt động kinh tế hoạt động kinh tế được hỗ trợ bởi chính sách chi tiêu và thuế của chính phủ. Xem DEPRESSED AREAS, REGIONAL EMPLOYMENT PREMIUM, REGIONAL DEVELOPMENT GRANT.
+@Chuyên ngành kinh tế
+#những vùng cần hỗ trợ phát triển

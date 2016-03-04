@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự bứt quang điện
+#tách quang điện
+@Lĩnh vực: điện lạnh
+#sự quang tách

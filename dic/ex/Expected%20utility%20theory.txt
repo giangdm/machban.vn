@@ -1,0 +1,3 @@
+﻿@Expected utility theory
+#(Econ) Lý thuyết độ thoả dụng kỳ vọng; Thuyết thoả dụng dự tính.
+: Là thuyết về các hành vi cá nhân trong điều kiện KHÔNG CHẮC CHẮN của VON NEUMANN và MORGENSTERN. Thuyết đưa ra sự mô tả logic rằng mọi người duy lý có thể cư xử như thế nào trong một thế giới không chắc chắn. Phần chính của thuyết này cho thấy rằng một cá nhân có những sở thích thoả mãn một số định đề (thường là về trật tự, tiếp tục và dộc lập) sẽ lựa chọn để tối đa hoá độ thoả dụng dự tính.

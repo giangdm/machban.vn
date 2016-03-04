@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy chiết ly quán tính
+#máy tách quán tính
+@Lĩnh vực: vật lý
+#máy tách bằng quán tính

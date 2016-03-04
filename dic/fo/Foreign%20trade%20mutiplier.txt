@@ -1,0 +1,3 @@
+﻿@Foreign trade mutiplier
+#(Econ) Nhân tử ngoại thương.
+: Tỷ số phản ánh sự thay đổi của thu nhập có được từ sự thay đổi của xuất khẩu so với sự thay đổi của thu nhập.

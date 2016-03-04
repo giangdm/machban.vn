@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thép tung ten
+@Lĩnh vực: xây dựng
+#thép tungten
+@Lĩnh vực: cơ khí & công trình
+#thép wolfram
+#thép wol-fram (thép bền nóng)

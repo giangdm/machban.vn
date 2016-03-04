@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#biểu thuế suất
+#thuế biểu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#biểu thuế
+@Lĩnh vực: xây dựng
+#thuế biểu

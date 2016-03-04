@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nhiễu điện trở
+#tạp âm điện trở
+#tiếng ồn điện trở

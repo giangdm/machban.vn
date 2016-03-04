@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng tuần hoàn
+@Lĩnh vực: điện lạnh
+#dòng chảy tuần hoàn
+@Lĩnh vực: toán & tin
+#dòng hình tròn

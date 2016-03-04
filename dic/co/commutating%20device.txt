@@ -1,0 +1,2 @@
+﻿@commutating device
+#(Tech) thiết bị chuyển mạch

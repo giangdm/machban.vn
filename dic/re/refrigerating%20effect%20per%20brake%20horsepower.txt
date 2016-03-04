@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#năng suất lạnh theo công suất hãm
+#năng suất lạnh theo năng suất hãm

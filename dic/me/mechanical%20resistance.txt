@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền cơ học
+@Lĩnh vực: vật lý
+#cơ sức cản cơ học
+#trở cơ học
+@Lĩnh vực: toán & tin
+#sức cản cơ học

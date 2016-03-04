@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hố dầu
+#hố gom dầu
+#hố thu dầu

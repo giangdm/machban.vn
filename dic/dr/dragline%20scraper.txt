@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy cạp xúc
+#máy trang (đất)
+@Lĩnh vực: toán & tin
+#máy trang đất

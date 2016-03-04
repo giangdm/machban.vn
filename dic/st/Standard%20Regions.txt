@@ -1,0 +1,3 @@
+﻿@Standard Regions
+#(Econ) Các khu vực chuẩn.
+: Các diện tích địa lý mà nước Anh được phân chia nhằm mục đích thống kê về kinh tế xã hội khác nhau.

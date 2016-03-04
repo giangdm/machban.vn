@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ảnh hưởng đến vùng lân cận
+@Chuyên ngành kỹ thuật
+#hiệu ứng lân cận

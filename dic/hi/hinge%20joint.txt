@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#bản lề
+#khớp bản lề
+#khớp kiểu pianô
+#liên kết chốt
+#mối nối bản lề
+#mối nối khớp
+#sự liên kết bản lề
+@Lĩnh vực: toán & tin
+#khối hình trụ
+@Lĩnh vực: xây dựng
+#khớp hình trụ

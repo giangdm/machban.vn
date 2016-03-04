@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự nhận dạng các nguồn giao thoa
+#sự nhận dạng các nguồn nhiễu

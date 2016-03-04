@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#lực cản lắc
+#sức cản lăn
+@Lĩnh vực: ô tô
+#chống lăn
+@Lĩnh vực: vật lý
+#lực cản lăn
+@Lĩnh vực: cơ khí & công trình
+#sức chống lăn
+#trở lực khi lăn
+@Lĩnh vực: hóa học & vật liệu
+#trở lực lắc

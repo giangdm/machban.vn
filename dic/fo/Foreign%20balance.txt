@@ -1,0 +1,7 @@
+﻿@Foreign balance
+#(Econ) Cán cân thanh toán quốc tế.
+: Xem BALANCE OF PAYMENT.
+@Chuyên ngành kinh tế
+#cán cân đối ngoại
+#cán cân thanh toán quốc tế
+#số dư ngoại hối

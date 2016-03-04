@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#gas nóng
+#hơi chất làm lạnh nóng
+#hơi môi chất lạnh nóng

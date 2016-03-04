@@ -1,0 +1,5 @@
+﻿@cumulative data
+#(Tech) dữ kiện tích lũy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số liệu tích lũy

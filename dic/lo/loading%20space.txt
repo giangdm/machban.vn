@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#khoảng trống chất hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng chất tải
+#không gian chất tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng chất tải
+#không gian chất tải

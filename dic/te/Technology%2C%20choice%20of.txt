@@ -1,0 +1,3 @@
+﻿@Technology, choice of
+#(Econ) Sự lựa chọn công nghệ.
+: Một khía cạnh then chốt của chiến lược phát triển là việc lựa chọn kỹ thuật. Ở các nước đang phát triển, mức độ sẵn có của các yếu tố thường ngược lại ở chỗ vốn thì khan hiếm và đắt đỏ còn lao động thì thừa, rẻ.

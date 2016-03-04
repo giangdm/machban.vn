@@ -1,0 +1,5 @@
+﻿@telnet
+#Trong các máy dựa vào hệ điều hành UNIX và được nối vào mạng Internet, đây là một chương trình cho phép người sử dụng tiến hành thâm nhập vào các máy tính ở xa thông qua các ghép nối TCP/IP
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình Telnet

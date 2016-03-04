@@ -1,0 +1,2 @@
+﻿@graphic file
+#(Tech) tập tin đồ họa

@@ -1,0 +1,3 @@
+﻿@Iso-profit curve
+#(Econ) Các đường đẳng nhuận.
+: Quỹ tích các tổ hợp của hai hay nhiều biến phụ thuộc của HÀM LỢI NHUẬN tạo nên một mức lợi nhuận như nhau.

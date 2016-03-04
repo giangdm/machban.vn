@@ -1,0 +1,10 @@
+﻿@cyclic permutation
+#(Tech) hoán vị tuần hoàn
+@Chuyên ngành kỹ thuật
+#hoán vị vòng quanh
+@Lĩnh vực: điện tử & viễn thông
+#hoán vị theo chu kỳ
+@Lĩnh vực: toán & tin
+#hoán vị xiclic
+@Lĩnh vực: xây dựng
+#sự hoán vị vòng tròn

@@ -1,0 +1,6 @@
+﻿@consist (of)
+#gồm, bao gồm
+@Chuyên ngành kỹ thuật
+#bao gồm
+@Lĩnh vực: toán & tin
+#gồm

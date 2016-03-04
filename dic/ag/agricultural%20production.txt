@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sản xuất nông nghiệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sản xuất nông nghiệp

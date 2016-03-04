@@ -1,0 +1,3 @@
+﻿@noughts and crosses ['nɔ:ts ənd'krɔsi:z] Cách viết khác : ticktacktoe ['tiktæktou]
+*danh từ
+# trò chơi mà trong đó, hai đấu thủ viết những dấu o và x trên giấy kẻ ô gồm 9 ô, cố đạt được trước một dãy liền ba o hoặc ba x; cờ ca rô

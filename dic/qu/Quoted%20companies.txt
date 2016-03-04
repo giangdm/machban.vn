@@ -1,0 +1,5 @@
+﻿@Quoted companies
+#(Econ) Các công ty được niêm yết giá.
+: Những công ty mà vốn cổ phiếu có thể được bán tự do ở SỞ GIAO DỊCH CHỨNG KHOÁN. Ở London, việc giao dịch có được quy chế như vậy đòi hỏi phải đưa ra một thông báo giá của Uỷ ban niêm yết của Sở giao dịch chứng khoán.
+@Chuyên ngành kinh tế
+#các công ty được yết giá

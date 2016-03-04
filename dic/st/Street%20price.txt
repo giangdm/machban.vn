@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#Giá ngoài Sở giao dịch chứng khoán
+@Chuyên ngành kinh tế
+#giá ngoài đường
+#giá ngoài sở giao dịch (chứng khoán)

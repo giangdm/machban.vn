@@ -1,0 +1,5 @@
+﻿@Basing-point system
+#(Econ) Hệ thống điểm định vị cơ sở.
+: Một cách định giá trong đó những người bán hàng khác nhau trong một thị trường thống nhất rằng mức giá đối với một hàng hoá sẽ được tính bằng tổng giá cố định và mức phí vận chuyển đã được thống nhất liên quan đến khoảng cách giữa người tiêu dùng và điểm gần nhất trong một số các địa điểm đã được thoả thuận gọi là các điểm định vị cơ sở.
+@Chuyên ngành kinh tế
+#phương thức tính vận phí cho điểm gốc

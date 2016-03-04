@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#dự trữ phóng xạ
+#trữ lượng hoạt động
+#trữ lượng nhiên liệu

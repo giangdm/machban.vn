@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#khối điều khiển lệnh
+@Lĩnh vực: toán & tin
+#bộ điều khiển lệnh
+@Lĩnh vực: đo lường & điều khiển
+#bộ hướng dẫn điều khiển
+@Lĩnh vực: điện tử & viễn thông
+#đơn vị chỉ thị điều khiển

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thời gian bộ nhớ
+@Lĩnh vực: điện
+#thời gian lưu (phụ tải) thời gian nhớ (dữ liệu)
+@Lĩnh vực: toán & tin
+#thời gian lưu trữ
+#thời gian nhớ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#người máy thao tác công nghiệp
+@Lĩnh vực: toán & tin
+#thao tác công nghiệp

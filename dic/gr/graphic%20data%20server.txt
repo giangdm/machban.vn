@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy chủ dữ liệu đồ họa
+#phục vụ dữ liệu đồ họa

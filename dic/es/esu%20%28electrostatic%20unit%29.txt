@@ -1,0 +1,2 @@
+﻿@esu (electrostatic unit)
+#(Tech) esu (đơn vị điện tĩnh)

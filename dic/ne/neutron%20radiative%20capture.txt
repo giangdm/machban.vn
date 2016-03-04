@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bắt nơtron sinh bức xạ
+#hấp thu notron bức xạ
+#sự bắt notron bức xạ

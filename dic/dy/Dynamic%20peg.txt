@@ -1,0 +1,3 @@
+﻿@Dynamic peg
+#(Econ) Tỷ giá hối đoái neo động.
+: Xem EXCHANGE RATE.

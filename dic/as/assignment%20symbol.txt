@@ -1,0 +1,2 @@
+﻿@assignment symbol
+#(Tech) dấu gán, ký hiệu gán

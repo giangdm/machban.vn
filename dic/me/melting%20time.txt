@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#khoảng thời gian nóng chảy
+@Lĩnh vực: điện lạnh
+#thời gian tan đá

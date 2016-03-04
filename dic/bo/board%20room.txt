@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phòng họp của ban quản trị
+#phòng họp hội đồng
+#phòng yết giá cổ phiếu
+@Chuyên ngành kỹ thuật
+#phòng đọc sách
+#phòng họp

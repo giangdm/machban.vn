@@ -1,0 +1,6 @@
+﻿@compose sequence
+#(Tech) dẫy sắp chữ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi soạn thảo
+#dãy động tác xếp chữ

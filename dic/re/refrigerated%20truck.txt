@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#toa làm lạnh
+#xe làm lạnh
+@Chuyên ngành kỹ thuật
+#chở hàng lạnh
+#xe bảo quản lạnh
+@Lĩnh vực: điện lạnh
+#ô tô có khoang lạnh

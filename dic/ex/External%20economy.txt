@@ -1,0 +1,5 @@
+﻿@External economy
+#(Econ) Ảnh hưởng kinh tế từ bên ngoài; Tính kinh tế từ bên ngoài
+: Xem EXTERNALITIES.
+@Chuyên ngành kinh tế
+#kinh tế ngoại bộ

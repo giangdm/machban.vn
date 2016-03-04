@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến dạng thuần nhất
+@Lĩnh vực: xây dựng
+#sự biến dạng đồng nhất

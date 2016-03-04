@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#đặc khu kinh tế
+#khu phát triển xí nghiệp
+#khu vực kinh doanh đặc biệt
+#khu vực miễn quan thuế
+#khu vườn ươm xí nghiệp

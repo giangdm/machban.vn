@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#sự bảo quản ngắn hạn
+#sự bảo quản tạm thời
+@Chuyên ngành kỹ thuật
+#bộ nhớ tạm
+#bộ nhớ tạm thời
+#bộ nhớ trung gian
+@Lĩnh vực: điện lạnh
+#bảo quản tạm thời
+#sự bảo quản tạm thời
+@Lĩnh vực: toán & tin
+#bộ lưu trữ tạm
+@Lĩnh vực: điện tử & viễn thông
+#bộ lưu trữ tạm thời

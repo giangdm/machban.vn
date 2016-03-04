@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giám đốc an toàn (lao động)
+#người chịu trách nhiệm về an toàn
+@Chuyên ngành kỹ thuật
+#nhân viên an toàn
+#sĩ quan an toàn

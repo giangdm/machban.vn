@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch gián tiếp
+#hối đoái gián tiếp
+#tỷ giá (hối đoái) gián tiếp
+#tỷ giá gián tiếp

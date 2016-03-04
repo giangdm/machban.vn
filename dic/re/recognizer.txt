@@ -1,0 +1,3 @@
+﻿@recognizer
+*danh từ
+#người công nhận

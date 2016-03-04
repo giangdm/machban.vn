@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm bốc cháy
+#nhiệt độ bắt lửa
+#nhiệt độ bốc cháy
+#nhiệt độ cháy
+#nhiệt độ đun nóng
+#nhiệt độ hút
+@Lĩnh vực: ô tô
+#điểm khởi cháy
+#nhiệt độ khởi cháy
+@Lĩnh vực: cơ khí & công trình
+#nhiệt độ đánh lửa
+@Lĩnh vực: điện lạnh
+#nhiệt độ nạp

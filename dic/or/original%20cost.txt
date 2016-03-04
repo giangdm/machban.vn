@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chi phí gốc
+#giá gốc
+#phí tổn ban đầu
+#phí tổn gốc
+@Chuyên ngành kỹ thuật
+#chi phí đầu tư
+#giá gốc

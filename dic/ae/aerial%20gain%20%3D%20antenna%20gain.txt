@@ -1,0 +1,2 @@
+﻿@aerial gain = antenna gain
+#(Tech) gia lượng dây trời

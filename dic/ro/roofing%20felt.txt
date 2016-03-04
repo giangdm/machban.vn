@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#bìa lợp
+#giấy dầu
+@Lĩnh vực: xây dựng
+#các tông hắc ín
+#giấy dầu lợp
+#giấy lợp mái
+#phớt tẩm bitum (để lợp mái)
+@Lĩnh vực: hóa học & vật liệu
+#các tông thấm bitum
+#nỉ tẩm bitum

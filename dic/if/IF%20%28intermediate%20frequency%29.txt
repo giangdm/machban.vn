@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#trung tần
+@Lĩnh vực: toán & tin
+#tần số trung gian

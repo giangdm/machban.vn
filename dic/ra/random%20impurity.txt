@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tạp chất hỗn độn
+#tạp chất ngẫu nhiên

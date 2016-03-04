@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#làm phối hợp trở kháng
+#sự dung hợp tổng trở
+@Lĩnh vực: điện tử & viễn thông
+#làm thích ứng trở kháng

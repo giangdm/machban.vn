@@ -1,0 +1,39 @@
+﻿@spacing /'speisiɳ/
+*danh từ
+#sự để cách (ở máy chữ)
+@Chuyên ngành kinh tế
+#khoảng cách (giữa các dòng trên bản đánh máy)
+#sự để cách
+#sự xếp đặt
+@Chuyên ngành kỹ thuật
+#bước
+#bước răng (mũi doa)
+#độ chặt
+#độ gián cách hạt (đá mài)
+#giãn cách
+#giãn cách dòng
+#khoảng cách
+#khoảng tách (giữa các phương tiện)
+#phân bố
+#sự sắp đặt
+#tầm nhìn thấy
+#tầm nhìn xa
+#xếp đặt
+@Lĩnh vực: xây dựng
+#bước (cột)
+#khẩu độ (ngang)
+@Lĩnh vực: cơ khí & công trình
+#bước (răng)
+@Lĩnh vực: điện lạnh
+#gián cách
+@Lĩnh vực: toán & tin
+#giãn cách từ
+#sự cách hàng
+#sự giãn cách
+#sự tạo giãn cách
+#sự tạo khoảng (cách)
+@Lĩnh vực: vật lý
+#hằng số mạng (tinh thể)
+<!-- more -->
+@spacing
+#(máy tính) xếp đặt, phana bố

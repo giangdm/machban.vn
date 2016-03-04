@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quạt cầu
+@Chuyên ngành kỹ thuật
+#hình cầu
+@Lĩnh vực: toán & tin
+#hình quạt cầu
+@Lĩnh vực: điện tử & viễn thông
+#phạm vi hình quạt cầu

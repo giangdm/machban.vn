@@ -1,0 +1,3 @@
+﻿@Eligible asset ratio
+#(Econ) Tỷ số tài sản dự trữ.
+: Xem RESERVE ASSET RATIO.

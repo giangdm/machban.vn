@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#cái chỉ mức dầu
+@Lĩnh vực: hóa học & vật liệu
+#que đo dầu
+@Lĩnh vực: xây dựng
+#thước thăm (dầu nước)
+@Lĩnh vực: toán & tin
+#thước thăm (dầu, nước)

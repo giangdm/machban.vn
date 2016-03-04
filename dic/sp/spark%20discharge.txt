@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đánh lửa điện
+#phóng điện tia lửa
+#tia điện
+#tia lửa điện
+@Lĩnh vực: vật lý
+#phóng tia lửa điện
+@Lĩnh vực: điện
+#sự phóng tia lửa điện

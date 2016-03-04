@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dụng cụ Vebe (để xác định độ cứng của bê tông)

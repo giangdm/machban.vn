@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#bản ước giá tổn phí
+#sự ước tính phí tổn
+@Chuyên ngành kỹ thuật
+#chi phí dự toán
+#dự toán
+#lập dự toán
+@Lĩnh vực: cơ khí & công trình
+#dự toán giá thành
+@Lĩnh vực: xây dựng
+#sự ước tính giá thành

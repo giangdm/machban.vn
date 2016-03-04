@@ -1,0 +1,3 @@
+﻿@Doolittle method
+#(Econ) Phương pháp Doolittle
+: Một cách tiếp cận có hệ thống để giải các hệ phương trình có 4 phương trình hoặc có 4 phương trình trở lên do M.H.Doolittle đưa ra.

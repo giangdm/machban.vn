@@ -1,0 +1,3 @@
+﻿@False trading
+#(Econ) Thương mại lừa dối.
+: Hoạt động thương mại theo mức giá phi cân bằng.

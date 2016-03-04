@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ngắt phần cứng
+@Lĩnh vực: toán & tin
+#sự dừng do phần cứng
+#sự ngắt do phần cứng

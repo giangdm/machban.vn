@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ rộng rãnh ghi
+#khổ đường sắt
+@Lĩnh vực: ô tô
+#chiều rộng đường
+@Lĩnh vực: điện tử & viễn thông
+#độ rộng của đường

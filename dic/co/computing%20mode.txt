@@ -1,0 +1,2 @@
+﻿@computing mode
+#(Tech) kiểu tính toán

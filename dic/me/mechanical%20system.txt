@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ cơ (học)
+@Lĩnh vực: vật lý
+#hệ thống cơ
+@Lĩnh vực: cơ khí & công trình
+#hệ thống cơ khí

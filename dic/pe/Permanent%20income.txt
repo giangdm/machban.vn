@@ -1,0 +1,9 @@
+﻿@Permanent income
+#(Econ) Thu nhập thường xuyên.
+: Cũng có nghĩa là thu nhập bình thường và thu nhập dự kiến và trung bình. Thu nhập trung bình mà cá nhân hoặc hộ gia đình dự kiến nhận được trong một số năm trong khi vẫn giữ nguyên của cải của mình.
+@Chuyên ngành kinh tế
+#thu nhập dài hạn, thường xuyên
+#thu nhập thường xuyên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thu nhập lâu dài

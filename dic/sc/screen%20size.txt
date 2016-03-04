@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#số liệu sàng
+@Chuyên ngành kỹ thuật
+#kích thước lỗ sàng
+@Lĩnh vực: hóa học & vật liệu
+#cỡ rây

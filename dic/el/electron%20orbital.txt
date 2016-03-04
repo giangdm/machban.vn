@@ -1,0 +1,2 @@
+﻿@electron orbital
+#(Tech) vân đạo điện tử, quỹ hàm điện tử

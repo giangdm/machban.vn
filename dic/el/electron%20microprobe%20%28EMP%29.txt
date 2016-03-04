@@ -1,0 +1,2 @@
+﻿@electron microprobe (EMP)
+#(Tech) vi đầu đọc điện tử, kim dò điện tử

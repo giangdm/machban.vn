@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phép sắc ký phóng xạ
+#phổ học phóng xạ

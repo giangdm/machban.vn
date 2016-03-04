@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhân điện tử
+@Lĩnh vực: toán & tin
+#bộ nhân electron
+@Chuyên ngành kỹ thuật
+#bộ nhân điện tử
+@Lĩnh vực: toán & tin
+#bộ nhân electron

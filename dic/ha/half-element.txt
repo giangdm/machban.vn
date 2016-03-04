@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bán nửa pin
+@Lĩnh vực: điện
+#nửa pin
+@Lĩnh vực: vật lý
+#pin bán phần

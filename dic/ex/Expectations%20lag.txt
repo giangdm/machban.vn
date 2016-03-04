@@ -1,0 +1,5 @@
+﻿@Expectations lag
+#(Econ) Độ trễ kỳ vọng; Độ trễ dự tính
+: Độ trễ trong việc xem xét lại giá trị kỳ vọng của một biến số do các thay đổi trong giá trị hiện tại của nó. Độ trễ dự tính thường được giải thích bằng GIẢ THIẾT KỲ VỌNG PHỎNG THEO.
+@Chuyên ngành kinh tế
+#độ trễ dự tính

@@ -1,0 +1,3 @@
+﻿@Marginal cost of funds schedule
+#(Econ) Biểu đồ chi phí cận biên của vốn.
+: Là biểu đồ xác định chi tiết chi phí thực sự của vốn tài chính của doanh nghiệp.

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số giảm
+#hệ số quy đổi
+#hệ số rút gọn
+#hệ số tính đổi
+@Lĩnh vực: xây dựng
+#hệ số chiết giảm
+@Lĩnh vực: cơ khí & công trình
+#hệ số đổi
+@Lĩnh vực: hóa học & vật liệu
+#hệ số khử

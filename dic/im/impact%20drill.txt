@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy khoan đập
+@Lĩnh vực: cơ khí & công trình
+#choòng khoan đập
+#may khoan búa
+#máy khoan xoay đập
+@Lĩnh vực: hóa học & vật liệu
+#máy khoan kiểu xung động

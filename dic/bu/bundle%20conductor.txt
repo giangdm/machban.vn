@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dây cáp bó
+#dây cáp vặn xoắn
+#dây dẫn bó
+@Lĩnh vực: điện lạnh
+#dây chùm
+#dây dẫn tách nhiều sợi

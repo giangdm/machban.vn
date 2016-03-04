@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phép toán một ngôi
+@Lĩnh vực: toán & tin
+#phép toán đơn phân
+#phép toán một toán hạng
+#thao tác đơn tử

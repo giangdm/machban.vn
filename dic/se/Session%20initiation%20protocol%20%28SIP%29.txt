@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giao thức khởi tạo phiên-một giao thức báo hiệu dùng cho hội nghị và điện thoại qua internet

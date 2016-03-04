@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#ngày kết toán bù trừ
+#ngày thanh toán (cổ phiếu)

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy sấy gió nóng
+@Lĩnh vực: điện
+#bình sấy không khí
+@Lĩnh vực: hóa học & vật liệu
+#chất làm khô không khí
+@Lĩnh vực: xây dựng
+#thiết bị làm khô khí
+#thiết bị sấy không khí

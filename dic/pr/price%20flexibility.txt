@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tính co dãn của giá
+#tính co giãn của giá cả
+#tính mềm dẻo của giá cả

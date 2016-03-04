@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#máy trả lời tự động (điện thoại)
+@Chuyên ngành kỹ thuật
+#máy trả lời tự động
+@Lĩnh vực: toán & tin
+#máy đáp tự động

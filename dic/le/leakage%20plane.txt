@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mặt phẳng tấm
+@Lĩnh vực: toán & tin
+#mặt phẳng thấm
+@Lĩnh vực: cơ khí & công trình
+#mặt thấm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mặt phẳng tấm
+@Lĩnh vực: toán & tin
+#mặt phẳng thấm
+@Lĩnh vực: cơ khí & công trình
+#mặt thấm

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kênh đơn công
+@Lĩnh vực: toán & tin
+#kênh truyền đơn công
+#kênh truyền một chiều

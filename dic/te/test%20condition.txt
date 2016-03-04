@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điều kiện thử
+@Lĩnh vực: toán & tin
+#điều kiện kiểm tra
+@Lĩnh vực: hóa học & vật liệu
+#điều kiện thử nghiệm

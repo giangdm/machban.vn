@@ -1,0 +1,12 @@
+﻿@echo canceller
+#(Tech) bộ triệt tiếng dội
+@Chuyên ngành kỹ thuật
+#bộ triệt tiếng dội
+#hủy bỏ phản hồi
+#khử phản hồi
+#kỹ thuật khử phản hồi
+@Lĩnh vực: điện tử & viễn thông
+#bộ bù tiếng dội
+#bộ hủy tiếng dội
+@Lĩnh vực: điện lạnh
+#bộ triệt tín dội

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hốc rỗng
+#lỗ rỗng
+@Lĩnh vực: xây dựng
+#túi rỗng (bên trong vật liệu)

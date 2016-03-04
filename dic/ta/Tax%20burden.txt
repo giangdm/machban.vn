@@ -1,0 +1,6 @@
+﻿@Tax burden
+#(Econ) Gánh nặng thuế.
+: Xem AVERAGE RATE OF TAX.
+@Chuyên ngành kinh tế
+#gánh nặng thuế má
+#khoản thuế mà cá nhân hoặc cơ quan xí nghiệp phải đóng

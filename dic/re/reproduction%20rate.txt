@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#mức, tỉ lệ sinh đẻ
+#tỷ lệ tái sinh sản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#tỷ lệ sinh sản

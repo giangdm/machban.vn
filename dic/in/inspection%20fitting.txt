@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa kiểm tra
+#lỗ kiểm tra
+#lỗ làm sạch
+#thiết bị kiểm tra

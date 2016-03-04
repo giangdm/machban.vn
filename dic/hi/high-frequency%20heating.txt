@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sự nung điện môi
+@Lĩnh vực: điện lạnh
+#gia nhiệt cao tần
+@Lĩnh vực: điện
+#sự nung bằng cao tần
+#sự nung bằng dòng Foucault
+#sự nung cao tần
+#sự nung điện tử

@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống đun nóng
+@Chuyên ngành kỹ thuật
+#đường ống dẫn nhiệt
+#hệ thống cấp nhiệt
+#hệ thống gia nhiệt
+#hệ thống sưởi
+@Lĩnh vực: điện
+#hệ thống cấp nước nóng
+@Lĩnh vực: hóa học & vật liệu
+#hệ thống đun nóng
+@Lĩnh vực: ô tô
+#hệ thống sưởi (phụ tùng)
+@Lĩnh vực: vật lý
+#hệ thống sưởi ấm

@@ -1,0 +1,3 @@
+﻿@Open market operations
+#(Econ) Các nghiệp vụ thị trường mở, thị trường tự do.
+: Là việc bán hoặc mua lại các loại chứng khoán có thể bán được, việc này được ngân hàng trung ương tiến hành tại một thị trường mở và được coi như một công cụ kiểm soát hệ thông tiền tệ.

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mã hóa dải con
+@Lĩnh vực: điện lạnh
+#SBC

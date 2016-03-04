@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#các điều kiện xung quanh
+@Lĩnh vực: điện tử & viễn thông
+#điều kiện chung quanh
+@Lĩnh vực: toán & tin
+#điều kiện xung quanh

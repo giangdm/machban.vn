@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp cách (điện, nhiệt)
+#lớp lót cách điện
+#lớp lót cách nhiệt

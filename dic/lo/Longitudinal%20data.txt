@@ -1,0 +1,3 @@
+﻿@Longitudinal data
+#(Econ) Dữ liệu dọc.
+: Một kiểu dữ liệu PANEL, trong đó các thông tin trong giai đoạn trước thời điểm thu thập được đưa vào.

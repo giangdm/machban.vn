@@ -1,0 +1,6 @@
+﻿@Tap issue
+#(Econ) Bán lẻ chứng khoán liên tục.
+: Hệ thống mà chứng khoán viền vàng có thể mua được từ cơ quan môi giới chính phủ mua trên sở giao dịch chứng khoán London.
+@Chuyên ngành kinh tế
+#phát hành chứng khoán nhà nước, phát hành trực tiếp
+#việc phát hành chứng khoán nhà nước

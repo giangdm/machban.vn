@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chiết áp Pedersen
+@Lĩnh vực: điện lạnh
+#điện thế kế Pedersen

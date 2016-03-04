@@ -1,0 +1,8 @@
+﻿@Tax credit
+#(Econ) Ghi có thuế.
+: Đây là khoản ghi có trực tiếp đối với một loại thuế: khoản thuế phải trả được giảm đi bằng khoản ghi có.
+@Chuyên ngành kinh tế
+#khấu trừ thuế
+#khoản khấu trừ (mức nộp) thuế
+#số dư thuế sang qua (trong sổ kế toán)
+#tín dụng thuế

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khối lượng hàng ngoại thương
+#lượng hàng ngoại thương
+#lượng mậu dịch đối ngoại

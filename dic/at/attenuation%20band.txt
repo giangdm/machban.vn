@@ -1,0 +1,4 @@
+﻿@attenuation band
+#(Tech) dải suy giảm
+@Chuyên ngành kỹ thuật
+#dải suy giảm

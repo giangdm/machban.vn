@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy cân bưu điện
+@Lĩnh vực: toán & tin
+#máy cân bưu kiện

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#buồng rửa
+#buồng vệ sinh
+#buồng xí
+#phòng vệ sinh
+@Lĩnh vực: xây dựng
+#khu vệ sinh

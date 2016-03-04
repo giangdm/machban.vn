@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tốc độ dỡ hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chế độ phóng điện
+#tốc độ phóng điện

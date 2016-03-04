@@ -1,0 +1,8 @@
+﻿@Payout ratio
+#(Econ) Tỷ lệ trả cổ tức.
+: Phần trăm của lãi ròng mà một xí nghiệp thanh toán dưới dạng cổ tức.
+@Chuyên ngành kinh tế
+#tỉ suất cổ tức lợi nhuận
+#tỉ suất phân phối
+#tỷ số trả cổ tức
+#tỷ suất lợi nhuận

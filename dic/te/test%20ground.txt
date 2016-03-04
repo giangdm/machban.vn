@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bãi thử nghiệm
+@Lĩnh vực: giao thông & vận tải
+#khu vực thử

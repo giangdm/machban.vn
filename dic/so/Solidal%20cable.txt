@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp Solidal (cáp cứng)
+@Lĩnh vực: điện lạnh
+#cáp Solidal (tên thương mại)

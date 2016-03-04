@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thu nhập sau
+#thu nhập về sau
+@Chuyên ngành kỹ thuật
+#lợi tức chậm trễ
+@Lĩnh vực: điện tử & viễn thông
+#danh lợi chậm trễ

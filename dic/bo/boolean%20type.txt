@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểu đúng sai
+#kiểu logic
+#kiểu luận lý
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểu Boole

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự mô tả thuật toán
+@Lĩnh vực: toán & tin
+#sự mô tả algorithmic

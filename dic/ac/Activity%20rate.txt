@@ -1,0 +1,9 @@
+﻿@Activity rate
+#(Econ) Tỷ lệ lao động.
+: Xem LABOUR FORCE PARTICIPATION RATE.
+@Chuyên ngành kinh tế
+#tỉ lệ lực lượng lao động (trên tổng dân số)
+#tỷ lệ lực lượng lao động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tỷ suất hoạt động

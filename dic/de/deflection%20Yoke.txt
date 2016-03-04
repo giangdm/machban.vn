@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn dây lệch tuyến
+@Chuyên ngành kỹ thuật
+#bộ lái tia
+@Lĩnh vực: điện lạnh
+#cuộn lái tia

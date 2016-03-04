@@ -1,0 +1,9 @@
+﻿@trial run
+*danh từ
+#sự thử (để kiểm tra sơ bộ về chất lượng, tính hiệu quả...của ai/cái gì)
+@Chuyên ngành kinh tế
+#sự cho chạy thử (máy móc, xe, tàu)
+@Chuyên ngành kỹ thuật
+#sự chạy thử
+#sự vận hành chứng minh
+#sự vận hành thử

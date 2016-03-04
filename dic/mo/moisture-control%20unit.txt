@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy kiểm soát (độ) ẩm
+#máy kiểm soát độ ẩm

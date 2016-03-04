@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#gạch (hình) cong
+#gạch cuốn vòng
+#gạch dạng vòng cung

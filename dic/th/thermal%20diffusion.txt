@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự khuếch tán nhiệt
+@Lĩnh vực: điện lạnh
+#khuếch tán nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#phát tán nhiệt

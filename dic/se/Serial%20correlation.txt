@@ -1,0 +1,6 @@
+﻿@Serial correlation
+#(Econ) Tương quan chuỗi.
+: Còn được gọi là tương quan tự định. Một bài toán kinh tế lượng, trong đó giá trị hiện tại của một sai số trong một phương trình tương quan vớ những giá trị trong quá khứ của nó, chỉ để chỉ ra rằng, một số ảnh hưởng hệ thống nào đó đã bị loại bỏ khỏi phương trình.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự tương quan nối tiếp

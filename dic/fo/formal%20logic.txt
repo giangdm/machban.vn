@@ -1,0 +1,4 @@
+﻿@formal logic
+#(Tech) luận lý hình thức
+@Chuyên ngành kỹ thuật
+#lôgic hình thức

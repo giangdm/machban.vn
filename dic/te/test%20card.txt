@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phiếu kiểm tra
+@Lĩnh vực: điện tử & viễn thông
+#bìa thử
+@Lĩnh vực: cơ khí & công trình
+#phiếu thử

@@ -1,0 +1,6 @@
+﻿@display command
+#(Tech) lệnh hiển thi
+@Chuyên ngành kỹ thuật
+#lệnh hiển thị
+@Lĩnh vực: toán & tin
+#lệnh trình bày

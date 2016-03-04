@@ -1,0 +1,9 @@
+﻿@gaugeable
+*tính từ
+#có thể đo, đong được
+#có thể đánh giá được
+#có thể định cở được
+#có thể hiệu chuẩn được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đo được

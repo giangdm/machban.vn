@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#bảng tổng kết tài sản sau kế toán
+#mục ghi sổ bổ túc sau khi kết sổ

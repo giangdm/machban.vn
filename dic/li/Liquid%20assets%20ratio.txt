@@ -1,0 +1,2 @@
+﻿@Liquid assets ratio
+#(Econ) Tỷ lệ tài sản dễ hoán chuyển.

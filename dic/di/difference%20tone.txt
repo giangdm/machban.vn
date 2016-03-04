@@ -1,0 +1,6 @@
+﻿@difference tone
+#(Tech) âm hiệu sai biệt
+@Chuyên ngành kỹ thuật
+#âm hiệu
+@Lĩnh vực: vật lý
+#âm vi sai

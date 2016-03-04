@@ -1,0 +1,7 @@
+﻿@IMF
+#(Econ) Quỹ tiền tệ quốc tế.
+: Xem INTERNATIONAL  MONETARY FUND.
+<!-- more -->
+@imf
+*(viết tắt)
+#Qũy tiền tệ quốc tế (International Monetary Fund)

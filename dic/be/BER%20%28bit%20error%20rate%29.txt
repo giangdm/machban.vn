@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tỉ lệ lỗi bit
+#tỷ số bit lỗi

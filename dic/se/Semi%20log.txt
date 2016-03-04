@@ -1,0 +1,3 @@
+﻿@Semi log
+#(Econ) Phương pháp bán Lôgarit hoá.
+: Phương pháp minh hoạ những biến số kinh tế có thể thay đôi theo thời gian.

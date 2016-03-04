@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phụ tải cơ bản (của máy phát điện)
+#phụ tải gốc
+#phụ tải nền
+@Lĩnh vực: điện lạnh
+#tải cơ bản
+@Lĩnh vực: hóa học & vật liệu
+#tải trọng cơ bản

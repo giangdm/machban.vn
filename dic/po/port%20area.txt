@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khu cảng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#mặt cắt lỗ thông (động cơ 2 kỳ)

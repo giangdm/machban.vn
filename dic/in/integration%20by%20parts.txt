@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#lấy tích phân từng phần
+@Lĩnh vực: toán & tin
+#phép lấy tích phân từng phần

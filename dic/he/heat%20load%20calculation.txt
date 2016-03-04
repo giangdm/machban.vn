@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tính toán tải lạnh
+@Lĩnh vực: điện lạnh
+#tính toán tải nhiệt

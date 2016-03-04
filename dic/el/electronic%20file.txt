@@ -1,0 +1,2 @@
+﻿@electronic file
+#(Tech) tập tin điện tử

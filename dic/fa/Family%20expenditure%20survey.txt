@@ -1,0 +1,3 @@
+﻿@Family expenditure survey
+#(Econ) Điều tra chi tiêu gia đình.
+: Một cuộc điều tra chọn mẫu hàng năm về xu hướng chi tiêu của các hộ gia đình do chính phủ Anh tiến hành.

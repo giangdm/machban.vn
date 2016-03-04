@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#kho tư liệu
+#ngân hàng dữ liệu
+@Chuyên ngành kỹ thuật
+#kho dữ liệu
+#ngân hàng dữ liệu
+#ngân hàng số liệu
+#sở dữ liệu
+@Lĩnh vực: xây dựng
+#kho tư liệu
+@Lĩnh vực: toán & tin
+#nhà băng dữ liệu

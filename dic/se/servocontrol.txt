@@ -1,0 +1,6 @@
+﻿@servocontrol
+*danh từ
+#cơ cấu điều khiển phụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#cơ cấu điều khiển phụ

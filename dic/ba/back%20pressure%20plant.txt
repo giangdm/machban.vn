@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nhà máy điện trích hơi
+#nhà máy đối áp

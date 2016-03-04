@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#định tỷ giá
+#hối giá gián tiếp
+#thị giá gián tiếp

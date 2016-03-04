@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#bảng kê các bộ phận rời (của một loại máy)
+@Lĩnh vực: ô tô
+#danh mục phụ tùng

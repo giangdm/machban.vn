@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp học plasma
+#lớp học thể diện tương
+@Lĩnh vực: điện tử & viễn thông
+#vỏ bọc plasma
+#vỏ bọc thể diện tương

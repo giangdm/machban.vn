@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#hàng chở cồng kềnh
+#hàng chở xốp (mềm và nhẹ, chiếm dung tích lớn, như len ...)

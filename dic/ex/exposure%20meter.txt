@@ -1,0 +1,15 @@
+﻿@exposure meter
+*danh từ
+# thiết bị đo độ sáng và cho biết nên để tốc độ sáng phim trong bao lâu; đồng hồ đo sáng (cũng) light meter
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện quang kế
+@Lĩnh vực: vật lý
+#lộ sáng kế
+#máy đo cường độ sáng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện quang kế
+@Lĩnh vực: vật lý
+#lộ sáng kế
+#máy đo cường độ sáng

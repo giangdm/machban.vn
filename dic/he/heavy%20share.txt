@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cổ phiếu cao giá
+#cổ phiếu cao giá (so với giá trung bình ngoài thị trường)
+#cổ phiếu hạng nặng

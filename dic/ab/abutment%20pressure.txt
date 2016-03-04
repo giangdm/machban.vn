@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực đế tựa
+#áp lực gối
+#áp lực gối đỡ
+#áp lực gối tựa
+#áp lực trục
+#áp lực tựa
+#phản lực gối
+@Lĩnh vực: cơ khí & công trình
+#phản lực (tại) gối tựa
+@Lĩnh vực: xây dựng
+#phản lực tựa

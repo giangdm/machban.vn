@@ -1,0 +1,5 @@
+﻿@cyclic memory
+#(Tech) bộ nhớ tuần hoàn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ tuần hoàn

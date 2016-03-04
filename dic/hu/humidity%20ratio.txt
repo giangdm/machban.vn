@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#độ ẩm riêng
+#sự chứa ẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ ẩm riêng
+#độ chứa ẩm
+#tỷ số độ ẩm

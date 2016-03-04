@@ -1,0 +1,16 @@
+﻿@Circulating capital
+#(Econ) Vốn lưu động.
+: Xem WORRKING CAPITAL.
+<!-- more -->
+@circulating capital /'sə:kjuleitiɳ'kæpitl/
+*danh từ
+#vốn luân chuyển
+@Chuyên ngành kinh tế
+#vốn lưu động
+@Chuyên ngành kỹ thuật
+#vốn luân chuyển
+#vốn lưu động
+@Lĩnh vực: toán & tin
+#tư bản lưu động
+@Lĩnh vực: xây dựng
+#vốn chu chuyển

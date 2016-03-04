@@ -1,0 +1,2 @@
+﻿@geometric mean
+#(Tech) số trung bình nhân [TN]

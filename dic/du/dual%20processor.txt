@@ -1,0 +1,4 @@
+﻿@dual processor
+#(Tech) bộ xử lý kép
+@Chuyên ngành kỹ thuật
+#bộ xử lý kép

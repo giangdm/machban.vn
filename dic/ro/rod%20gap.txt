@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khe chống sét dạng thanh
+#khe phóng điện dạng thanh
+@Lĩnh vực: điện
+#khe chống sét kiểu thanh
+#mỏ phóng điện

@@ -1,0 +1,4 @@
+﻿@all-or-nothing
+#hoặc được cả hoặc mất hết
+=playing an all-or-nothing game:đánh bạc hoặc được cả hoặc mất hết
+#không mảy may thoả hiệp

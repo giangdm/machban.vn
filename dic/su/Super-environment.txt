@@ -1,0 +1,3 @@
+﻿@Super-environment
+#(Econ) Siêu môi trường.
+: Chỉ các yếu tố nằm ngoài tầm kiểm soát của một hãng đại điện trong dài hạn.

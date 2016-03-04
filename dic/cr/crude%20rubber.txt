@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cao su sống
+@Chuyên ngành kỹ thuật
+#cao su thô

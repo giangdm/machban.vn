@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bề dày của vỉa
+#độ dày địa tầng
+@Lĩnh vực: cơ khí & công trình
+#chiều dày địa tầng

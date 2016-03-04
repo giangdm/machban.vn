@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ăng ten chỉnh hướng được
+#ăng ten điều chỉnh được
+#ăng ten lái được
+#ăng ten xoay được
+#ăng ten xoay hướng
+#dây trời xoay hướng

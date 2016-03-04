@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ nhạy két
+@Lĩnh vực: toán & tin
+#tính nhạy loại chữ

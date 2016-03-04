@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#linh kiện Gunn
+@Lĩnh vực: điện lạnh
+#dụng cụ Gunn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dụng cụ điện tử chuyển
+@Lĩnh vực: điện tử & viễn thông
+#linh kiện điện tử chuyển

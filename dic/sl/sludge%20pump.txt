@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bơm nước thải
+@Chuyên ngành kỹ thuật
+#bơm hút bùn
+#máy bơm bùn
+@Lĩnh vực: xây dựng
+#bơm hút cát
+#máy bơm bùn (quặng)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#chiều cao thông suốt
+#chiều cao tự do
+#tổng chiều cao trong lòng

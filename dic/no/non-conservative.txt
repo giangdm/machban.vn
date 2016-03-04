@@ -1,0 +1,4 @@
+﻿@non-conservative
+#không bảo toàn
+@Chuyên ngành kỹ thuật
+#không bảo toàn

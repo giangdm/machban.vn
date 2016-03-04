@@ -1,0 +1,2 @@
+﻿@glide path transmitter
+#(Tech) máy phát dốc hạ cánh

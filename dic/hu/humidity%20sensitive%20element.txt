@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cảm biến ẩm
+#phần tử cảm biến ẩm
+#phần tử nhạy ẩm

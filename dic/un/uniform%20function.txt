@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm đơn trị
+@Lĩnh vực: điện tử & viễn thông
+#hàm đơn vị

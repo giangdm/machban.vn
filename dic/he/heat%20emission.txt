@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bức xạ nhiệt
+#phát nhiệt
+#sự phát nhiệt
+#sự thải nhiệt
+#tỏa nhiệt
+@Lĩnh vực: điện lạnh
+#lượng tỏa nhiệt

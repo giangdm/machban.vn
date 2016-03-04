@@ -1,0 +1,6 @@
+﻿@donkey-work
+#thành ngữ donkey
+#donkey-work
+#phần gay go của một công việc
+#thành ngữ donkey
+=donkey-work:phần gay go của một công việc

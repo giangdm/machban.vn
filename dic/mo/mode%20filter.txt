@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lọc kiểu (dao động)
+@Lĩnh vực: điện lạnh
+#bộ lọc kiểu truyền
+@Lĩnh vực: toán & tin
+#cái lọc kiểu sóng

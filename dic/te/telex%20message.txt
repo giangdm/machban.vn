@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bức điện telex
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thông báo telex

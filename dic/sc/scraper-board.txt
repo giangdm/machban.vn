@@ -1,0 +1,4 @@
+﻿@scraper-board
+*danh từ
+#cái bảng bôi màu đen có thể cạo trắng để thành bức tranh
+#bức tranh (được tạo bằng lối trên)

@@ -1,0 +1,5 @@
+﻿@Capital-intensive sector
+#(Econ) Ngành bao hàm nhiều vốn
+: Một ngành kinh tế trong đó các kỹ thuật sản xuất chủ yếu BAO HÀM NHIỀU VỐN (Xem CAPITAL INTENSITY, CAPITAL INTENSIVE TECHNIQUES, APPROPRIATE TECHNOLOGY).
+@Chuyên ngành kinh tế
+#lĩnh vực tập trung nhiều vốn

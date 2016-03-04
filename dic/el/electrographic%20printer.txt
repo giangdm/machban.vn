@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#máy in tĩnh điện
+@Lĩnh vực: xây dựng
+#máy in điện đồ
+@Lĩnh vực: toán & tin
+#máy in điện ký
+@Chuyên ngành kỹ thuật
+#máy in tĩnh điện
+@Lĩnh vực: xây dựng
+#máy in điện đồ
+@Lĩnh vực: toán & tin
+#máy in điện ký

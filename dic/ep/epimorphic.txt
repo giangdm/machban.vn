@@ -1,0 +1,15 @@
+﻿@epimorphic
+*tính từ
+#giữ nguyên dạng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#thuộc tái sinh bộ phận tổn thất
+@Lĩnh vực: toán & tin
+#toán cấu
+#toàn cầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#thuộc tái sinh bộ phận tổn thất
+@Lĩnh vực: toán & tin
+#toán cấu
+#toàn cầu

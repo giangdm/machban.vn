@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm bốc cháy
+@Lĩnh vực: điện lạnh
+#điểm bắt lửa
+@Chuyên ngành kỹ thuật
+#điểm bốc cháy
+@Lĩnh vực: điện lạnh
+#điểm bắt lửa

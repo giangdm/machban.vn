@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#vận tốc sóng
+@Lĩnh vực: toán & tin
+#tố độ sóng truyền
+@Lĩnh vực: điện lạnh
+#tốc độ sóng
+@Lĩnh vực: xây dựng
+#tốc độ sóng truyền

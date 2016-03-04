@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sai số xác suất
+@Lĩnh vực: điện lạnh
+#sai số cái nhiên
+@Lĩnh vực: toán & tin
+#sai số có thể
+@Lĩnh vực: xây dựng
+#sai số thống kê

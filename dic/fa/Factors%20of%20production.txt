@@ -1,0 +1,5 @@
+﻿@Factors of production
+#(Econ) Các yếu tố sản xuất.
+: Các nguồn lực của xã hội được sử dụng trong quá trình sản xuất.
+@Chuyên ngành kinh tế
+#các yếu tố sản xuất

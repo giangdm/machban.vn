@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cam đĩa
+#đĩa lệch tâm
+#vòng đệm lệch tâm
+@Lĩnh vực: hóa học & vật liệu
+#bánh có rãnh lệch tâm
+@Lĩnh vực: cơ khí & công trình
+#puli lệch tâm

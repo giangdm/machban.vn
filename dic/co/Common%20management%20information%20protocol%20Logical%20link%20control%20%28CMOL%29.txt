@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển tuyến nối lôgic Của giao thức thông tin quản lý

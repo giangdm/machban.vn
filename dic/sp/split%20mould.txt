@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khuôn dập hở
+#khuôn ghép
+#khuôn tách

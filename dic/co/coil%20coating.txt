@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp phủ cuộn dây
+#lớp phủ ống dây
+#lớp phủ ống xoắn
+@Lĩnh vực: ô tô
+#dán đường viền

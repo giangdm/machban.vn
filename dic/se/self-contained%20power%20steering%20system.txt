@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#hệ thống lái nguồn độc lập
+#hệ trợ động nguồn độc lập

@@ -1,0 +1,2 @@
+﻿@console typewriter
+#(Tech) máy đánh chữ điều hành

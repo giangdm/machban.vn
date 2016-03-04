@@ -1,0 +1,2 @@
+﻿@electrooptic Q-switch
+#(Tech) bộ chuyển phẩm chất điện quang

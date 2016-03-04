@@ -1,0 +1,5 @@
+﻿@grammar school ['græməsku:l]
+*danh từ
+# trường dạy tiếng La-tinh ( (thế kỷ) 16)
+# trường trung học phổ thông (chứ không phải dạy nghề)
+# (từ Mỹ,nghĩa Mỹ) như primary school

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng mạch bộ nhớ mở rộng
+#bảng mạch mở rộng bộ nhớ

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công trình học phần mềm
+@Chuyên ngành kỹ thuật
+#công nghệ phần mềm
+#kỹ thuật phần mềm
+@Lĩnh vực: xây dựng
+#kỹ nghệ phần mềm

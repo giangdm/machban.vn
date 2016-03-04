@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nhiệt độ (nước) cung cấp
+#nhiệt độ nước (cung) cấp

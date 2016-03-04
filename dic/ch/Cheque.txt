@@ -1,0 +1,16 @@
+﻿@Cheque
+#(Econ) Séc
+: Một loại chứng từ thường được cấp dưới dạng in sẵn bởi một ngân hàng, yêu cầu ngân hàng chuyển từ tài khoản VÃNG LAI của người  rút sang người định danh được trả.
+<!-- more -->
+@cheque /tʃek/
+*danh từ
+#séc
+=to cash a cheque: lĩnh tiền bằng séc
+=to draw a cheque: viết séc (để lấy tiền)
+*nội động từ
+#to cheque out lĩnh séc
+@Chuyên ngành kinh tế
+#séc
+@Chuyên ngành kỹ thuật
+#ngân phiếu
+#séc

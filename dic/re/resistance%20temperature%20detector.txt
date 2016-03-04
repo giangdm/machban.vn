@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#bộ dò nhiệt độ điện trở
+@Lĩnh vực: điện
+#cảm biến nhiệt điện trở
+#điện trở đo nhiệt

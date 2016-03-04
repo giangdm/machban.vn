@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#sự gọi thầu
+@Chuyên ngành kỹ thuật
+#gọi thầu
+#mời thầu
+@Lĩnh vực: điện
+#cuộc đấu thầu
+#giấy mời tham dự đấu thầu
+#thông báo gọi thầu

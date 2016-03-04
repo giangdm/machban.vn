@@ -1,0 +1,6 @@
+﻿@average power
+#(Tech) công suất trung bình
+@Chuyên ngành kỹ thuật
+#năng lượng trung bình
+@Lĩnh vực: điện
+#nguồn điện trung bình

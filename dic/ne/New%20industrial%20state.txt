@@ -1,0 +1,5 @@
+﻿@New industrial state
+#(Econ) Tình trạng công nghiệp mới.
+: Cụm thuật ngữ này có liên quan đến công trình nghiên cứu của J.KGALBRAITH, người lập luận rằng các nền kinh tế tư bản chủ nghĩa phát triển hiện đại đã trải qua một sự chuyển đổi trong quyền lực kinh tế và chính trị từ những nhà sở hữu vốn sang cái mà ông gọi là CƠ CẤU CÔNG NGHỆ.
+@Chuyên ngành kinh tế
+#nước công nghiệp mới

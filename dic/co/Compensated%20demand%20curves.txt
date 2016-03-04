@@ -1,0 +1,3 @@
+﻿@Compensated demand curves
+#(Econ) Đường cầu đã được bù.
+: Một đường cầu trong đó HIỆU ỨNG THU NHẬP của thay đổi  giá đã được loại bỏ để thu nhập thực tế dọc đường cầu không đổi.

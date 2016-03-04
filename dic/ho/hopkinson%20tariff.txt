@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giá điện hai thành phần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biểu giá Hopkinson
+@Lĩnh vực: điện lạnh
+#giá điện Hopkinson

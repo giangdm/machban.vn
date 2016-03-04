@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#tấm đệm phía trên (thanh nhiên liệu trong mạng)

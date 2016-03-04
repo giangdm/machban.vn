@@ -1,0 +1,2 @@
+﻿@audio indicator
+#(Tech) bộ chỉ báo âm lượng

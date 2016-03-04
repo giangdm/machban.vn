@@ -1,0 +1,3 @@
+﻿@Cointegration
+#(Econ) Đồng liên kết
+: Đây là một phương pháp xác định mối quan hệ dài hạn giữa một nhóm các biến CHUỖI THỜI GIAN.

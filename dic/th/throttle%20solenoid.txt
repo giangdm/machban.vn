@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#solenoid đẩy bướm ga (điều kiển cầm chừng)

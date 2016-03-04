@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hoạt động của mặt trời
+@Lĩnh vực: vật lý
+#hoạt động mặt trời
+@Lĩnh vực: điện tử & viễn thông
+#sự hoạt động mặt trời (vật lý)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống số
+@Lĩnh vực: toán & tin
+#hệ thống chữ số

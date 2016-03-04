@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ phát xạ hồng ngoại
+#máy phát tia hồng ngoại

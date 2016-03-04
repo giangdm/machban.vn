@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thanh giằng cột
+@Lĩnh vực: toán & tin
+#thanh giằng đầu cột

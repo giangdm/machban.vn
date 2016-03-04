@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng trượt
+#sự biến dạng trượt
+@Lĩnh vực: xây dựng
+#biến dạng chống cắt
+@Lĩnh vực: điện lạnh
+#độ biến dạng trượt

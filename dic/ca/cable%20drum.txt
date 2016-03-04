@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#tang quấn cáp
+@Lĩnh vực: điện
+#ru lô cáp
+@Lĩnh vực: cơ khí & công trình
+#trống cáp
+@Lĩnh vực: hóa học & vật liệu
+#trống quấn dây cáp

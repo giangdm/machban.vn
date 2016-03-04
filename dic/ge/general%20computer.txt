@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#máy tính thông dụng
+@Chuyên ngành kỹ thuật
+#máy tính vạn năng

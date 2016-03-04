@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đột lỗ
+#máy đục lỗ
+@Lĩnh vực: toán & tin
+#máy đục lỗ bằng phím
+@Lĩnh vực: điện
+#máy xuyên phiếu
+@Chuyên ngành kỹ thuật
+#máy đột lỗ
+#máy đục lỗ
+@Lĩnh vực: toán & tin
+#máy đục lỗ bằng phím
+@Lĩnh vực: điện
+#máy xuyên phiếu

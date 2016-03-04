@@ -1,0 +1,11 @@
+﻿@Second-best
+#(Econ) (Tình trạng) tốt nhì.
+: Định lý tình trạng tốt nhì do R.G.Lipsey và K.Lancaster đưa ra, cho rằng nếu một trong những điều kiện của tối ưu PARETO không thể thực hiện được thì nói chung tình thế có thể đạt được tốt nhất (phương án tốt nhất thứ hai) chỉ có thể đạt được bằng cách thoát khỏi mọi điều kiện Pareto khác.
+<!-- more -->
+@second-best /'sekənd'best/
+*tính từ
+#hạng hai, hạng nhì
+#to come off second-best
+#bị thua, bị đánh bại
+@Chuyên ngành kinh tế
+#loại hai

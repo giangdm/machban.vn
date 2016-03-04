@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#con trỏ khối hiện hành
+#con trỏ ổ đĩa hiện tại

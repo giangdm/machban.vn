@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh rời rạc
+#điều khiển lấy mẫu
+@Lĩnh vực: đo lường & điều khiển
+#sự điều khiển lấy mẫu

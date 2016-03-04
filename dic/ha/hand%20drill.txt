@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cái khoan tay
+#máy khoan tay
+@Lĩnh vực: ô tô
+#máy khoan cầm tay
+@Lĩnh vực: xây dựng
+#sự khoan tay

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#nắp lỗ kiểm tra
+@Lĩnh vực: đo lường & điều khiển
+#nắp mở kiểm tra

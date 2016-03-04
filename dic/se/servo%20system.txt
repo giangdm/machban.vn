@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ cấu secvo
+#hệ điều khiển trợ động
+#hệ trợ động
+@Lĩnh vực: cơ khí & công trình
+#hệ thống tùy động

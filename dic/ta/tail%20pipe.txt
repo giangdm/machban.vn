@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#ống cuối
+#ống đuôi
+#ống hút (bơm nước)
+#ống xả
+@Lĩnh vực: ô tô
+#đoạn ống thải (sau giảm thanh)
+#ống xả khói
+@Lĩnh vực: cơ khí & công trình
+#ống hút (máy bơm)

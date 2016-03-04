@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu cuối tập tin
+#nhãn kết thúc file
+#nhãn kết thúc tập tin
+#nhãn kết thúc tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu cuối tập tin
+#nhãn kết thúc file
+#nhãn kết thúc tập tin
+#nhãn kết thúc tệp

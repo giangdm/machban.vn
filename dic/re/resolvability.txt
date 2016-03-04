@@ -1,0 +1,5 @@
+﻿@resolvability
+*danh từ
+#tính phân giải, tính dung giải
+@Chuyên ngành kỹ thuật
+#tính giải được

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chuyển đổi đo
+#máy biến áp đo lường
+#máy biến áp lực
+#máy biến dòng
+@Lĩnh vực: điện
+#biến áp công cụ
+#biến áp đo điện

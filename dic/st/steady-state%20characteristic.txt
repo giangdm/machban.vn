@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đặc tính trạng thái tĩnh
+@Lĩnh vực: điện lạnh
+#đặc tuyến chế độ xác lập (của hồ quang)
+#đặc tuyến ổn định

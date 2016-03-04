@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ký hiệu hậu tố
+#ký pháp Ba Lan nghịch đảo

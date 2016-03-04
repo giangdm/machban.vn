@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện trở (phụ) tải
+@Lĩnh vực: ô tô
+#điện trở phụ (đánh lửa)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện trở (phụ) tải
+@Lĩnh vực: ô tô
+#điện trở phụ (đánh lửa)

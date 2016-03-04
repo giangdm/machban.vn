@@ -1,0 +1,13 @@
+﻿@Unemployment
+#(Econ) Thất nghiệp.
+: Là những người lao động không có việc làm, bao gồm cả những người đang trong giai đoạn tìm việc làm mới hoặc những người không thể tìm được việc làm với đồng lương thực tế hiện hành.
+<!-- more -->
+@unemployment /'ʌnim'plɔimənt/
+*danh từ
+#sự thất nghiệp; nạn thấp nghiệp
+#khối lượng công việc chưa làm
+@Chuyên ngành kinh tế
+#mức thất nghiệp
+#số người thất nghiệp
+#thất nghiệp
+#tình trạng thất nghiệp

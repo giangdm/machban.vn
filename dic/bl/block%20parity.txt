@@ -1,0 +1,7 @@
+﻿@block parity
+#(Tech) giải thuật kiểm toàn khối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chẵn lẻ theo khối
+@Lĩnh vực: toán & tin
+#tính chẵn lẻ khối

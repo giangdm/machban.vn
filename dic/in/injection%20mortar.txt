@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dung dịch phun
+#vữa (dùng để) phun
+#vữa bơm vào

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đường ống nhánh
+#ống nhánh
+#ống tháo
+#ống thoát
+@Lĩnh vực: xây dựng
+#đường ống phân nhánh
+@Lĩnh vực: giao thông & vận tải
+#đường ống thứ quản

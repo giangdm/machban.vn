@@ -1,0 +1,4 @@
+﻿@dry measure
+#sự cân đong hàng khô
+@Chuyên ngành kinh tế
+#đo dung lượng chất khô

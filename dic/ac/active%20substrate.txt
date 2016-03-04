@@ -1,0 +1,2 @@
+﻿@active substrate
+#(Tech) nền hoạt tính [ĐL]

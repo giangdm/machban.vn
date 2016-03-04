@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#biển chỉ đường
+#cột chỉ đường
+#dấu hiệu đi đường
+@Chuyên ngành kỹ thuật
+#biển chỉ đường
+#ký hiệu giao thông
+#tín hiệu giao thông

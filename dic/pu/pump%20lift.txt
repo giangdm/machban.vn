@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#cột áp của bơm
+@Lĩnh vực: hóa học & vật liệu
+#cột hút của bơm
+@Lĩnh vực: xây dựng
+#độ nâng của bơm
+@Lĩnh vực: cơ khí & công trình
+#khoảng chạy của pittông bơm
+#tầm dâng của bơm (chiều cao cột nước bơm)
+#tầm hút (chiều cao hút) của bơm
+@Lĩnh vực: điện lạnh
+#sức nâng nước của bơm

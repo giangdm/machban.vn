@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nhựa epoxy
+#nhựa tổng hợp
+@Lĩnh vực: xây dựng
+#keo tổng hợp
+@Lĩnh vực: hóa học & vật liệu
+#nhựa tổng hợp (hóa dầu)

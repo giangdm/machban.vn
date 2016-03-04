@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm nghiệm
+@Lĩnh vực: toán & tin
+#sự tính toán kiểm tra

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bảo chứng cố định
+#bảo chứng đặc định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện tích riêng

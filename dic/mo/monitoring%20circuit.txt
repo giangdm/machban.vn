@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch điều khiển
+#mạch kiểm tra
+@Lĩnh vực: toán & tin
+#mạch quan sát

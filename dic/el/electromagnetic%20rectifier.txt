@@ -1,0 +1,10 @@
+﻿@electromagnetic rectifier
+#(Tech) bộ chỉnh lưu điện từ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ chỉnh lưu điện từ
+#bộ chỉnh lưu kiểu rung
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ chỉnh lưu điện từ
+#bộ chỉnh lưu kiểu rung

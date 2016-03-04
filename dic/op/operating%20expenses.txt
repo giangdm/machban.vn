@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#chi phí điều hành
+#chi phí kinh doanh
+#chi phí vận hành
+@Chuyên ngành kỹ thuật
+#chi phí (trong) sử dụng
+#chi phí điều hành
+#chi phí sản xuất
+#chi phí vận hành

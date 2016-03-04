@@ -1,0 +1,3 @@
+﻿@Manoilescu argument
+#(Econ) Lập luận Manoilescu.
+: Là một phiên bản, do nhà kinh tế Manoilescu đưa ra, về luận chứng về NGÀNH CÔNG NGHIỆP NON TRẺ, dựa vào nhận định rút ra từ thực tế rằng mức lương trung bình  trong khu vực chế tạo ở một nước chậm phát triển cao hơn mức lương trung bình trong khu vực nông nghiệp mặc dù năng suất lao động có thể như nhau.

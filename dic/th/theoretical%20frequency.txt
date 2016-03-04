@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#xác suất
+@Lĩnh vực: toán & tin
+#xác suất lý thuyết

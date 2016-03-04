@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#nhóm lỗi
+@Lĩnh vực: toán & tin
+#chùm lỗi
+#khối lỗi
+@Chuyên ngành kỹ thuật
+#nhóm lỗi
+@Lĩnh vực: toán & tin
+#chùm lỗi
+#khối lỗi

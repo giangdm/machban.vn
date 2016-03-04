@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hằng số độ nhớt-mật độ (của dầu)
+@Lĩnh vực: hóa học & vật liệu
+#hằng số độ nhớt-trọng lực

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#lỗ khoan chồng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đục lặp
+@Lĩnh vực: toán & tin
+#lỗ đục đôi
+#sự đục lỗ kép

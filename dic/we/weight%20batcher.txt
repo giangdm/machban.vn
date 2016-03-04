@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cân định lượng
+@Lĩnh vực: xây dựng
+#bộ đong theo trọng lượng

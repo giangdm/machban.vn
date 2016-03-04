@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#biểu đồ âm thanh
+#carota âm thanh
+@Lĩnh vực: đo lường & điều khiển
+#log siêu âm (kỹ thuật đo)

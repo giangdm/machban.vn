@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#vô định
+@Lĩnh vực: toán & tin
+#phương trình vô định

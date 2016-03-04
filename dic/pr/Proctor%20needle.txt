@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kim Procto (đo độ dẻo)
+@Lĩnh vực: cơ khí & công trình
+#kim Proctor

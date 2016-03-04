@@ -1,0 +1,5 @@
+﻿@Issue department
+#(Econ) Cục phát hành.
+: Một cục thuộc Ngân hàng Anh có trách nhiệm trong việc phát hành giấy bạc ngân hàng.
+@Chuyên ngành kinh tế
+#phòng phát hành (ngân hàng)

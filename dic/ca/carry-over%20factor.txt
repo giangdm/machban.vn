@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số chuyển
+#hệ số tiêu cự
+#hệ số truyền momen
+@Lĩnh vực: xây dựng
+#hệ số truyền mô men

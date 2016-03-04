@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sự thử nhiệt đới hóa
+@Lĩnh vực: điện
+#thử (đặc tính) nhiệt đới hóa
+@Lĩnh vực: điện lạnh
+#thử nghiệm nhiệt đới hóa

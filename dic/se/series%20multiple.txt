@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đa ổ cắm nối tiếp (ở bảng chuyển mạch)

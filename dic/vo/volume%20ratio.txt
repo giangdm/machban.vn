@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ số (về) thể tích
+@Lĩnh vực: toán & tin
+#hệ số về thể tích
+@Lĩnh vực: cơ khí & công trình
+#tỷ số thể tích

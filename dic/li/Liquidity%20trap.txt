@@ -1,0 +1,5 @@
+﻿@Liquidity trap
+#(Econ) Bẫy tiền mặt; Bẫy thanh khoản.
+: Tình huống mà trong đó việc tăng cung tiền không dẫn tới việc giảm lãi suất mà đơn thuần chỉ dẫn đến việc tăng số dư tiền nhàn rỗi; độ co giãn cầu về tiền đối với lãi suất trở thành vô hạn.
+@Chuyên ngành kinh tế
+#bẫy tiền mặt

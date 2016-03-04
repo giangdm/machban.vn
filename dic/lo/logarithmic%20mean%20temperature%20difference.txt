@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ chênh nhiệt độ trung bình lôgarit
+#hiệu nhiệt độ trung bình loga
+<!-- more -->
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ chênh nhiệt độ trung bình lôgarit
+#hiệu nhiệt độ trung bình loga

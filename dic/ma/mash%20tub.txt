@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thùng hòa bột
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+#thùng hòa trộn

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#các đường sinh phẳng
+@Lĩnh vực: toán & tin
+#các đường sinh thẳng

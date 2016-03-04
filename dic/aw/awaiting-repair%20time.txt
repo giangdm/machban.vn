@@ -1,0 +1,2 @@
+﻿@awaiting-repair time
+#(Tech) thời gian chờ đợ sửa chữa

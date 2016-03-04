@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất
+#chiều cao cột áp
+#cột áp thủy tĩnh
+#độ cao cột nước
+@Lĩnh vực: xây dựng
+#chiều cao đo áp
+@Lĩnh vực: hóa học & vật liệu
+#độ chênh áp

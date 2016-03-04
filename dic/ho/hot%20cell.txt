@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#buồng "nóng"
+#buồng phóng xạ mạnh
+#buồng phóng xạ mức cao

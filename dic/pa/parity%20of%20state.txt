@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#số chẵn lẻ của trạng thái
+#tính chẵn lẻ của trạng thái

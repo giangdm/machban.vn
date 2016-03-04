@@ -1,0 +1,3 @@
+﻿@Effective rate of tax
+#(Econ) Mức thuế hữu dụng; Thuế suất hộ hữu hiệu.
+: Xem AVERAGE RATE OF TAX

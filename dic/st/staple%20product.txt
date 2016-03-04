@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#nhu yếu phẩm
+#sản phẩm chính
+#sản phẩm chủ yếu
+#sản phẩm thiết yếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sản phẩm chính yếu

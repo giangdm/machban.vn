@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị ngưng tụ dùng trong khí lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dàn ngưng giải nhiệt gió
+#giàn ngưng giải nhiệt gió

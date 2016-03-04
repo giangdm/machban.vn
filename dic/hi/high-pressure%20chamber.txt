@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng áp lực cao
+@Lĩnh vực: y học
+#phòng cao áp

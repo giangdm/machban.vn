@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chứng khoán chưa tiêu thụ được
+#chứng khoán dư thừa
+#chứng khoán dư thừa (do phát hành quá lượng nhu cầu)
+#rủi ro bao tiêu

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ căn cứ kiến thức
+@Lĩnh vực: toán & tin
+#hệ thống chuyên gia
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ căn cứ kiến thức
+@Lĩnh vực: toán & tin
+#hệ thống chuyên gia

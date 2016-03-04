@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giá đấu mở đầu (trong cuộc bán đấu giá)
+#giá hỏi mua đầu tiên
+#sự ra giá đầu tiên

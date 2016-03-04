@@ -1,0 +1,6 @@
+﻿@Geissler tube
+#(Tech) đèn Geissler (một loại đèn phóng điện có khí)
+@Chuyên ngành kỹ thuật
+#ống Geissler
+@Lĩnh vực: điện
+#đèn Geissler

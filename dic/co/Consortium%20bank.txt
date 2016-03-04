@@ -1,0 +1,5 @@
+﻿@Consortium bank
+#(Econ) Ngân hàng Consortium.
+: Một kiểu ngân hàng quốc tế hình thành bằng cách tập hợp các ngân hàng vốn đang tồn tại từ các nước khác nhau. Xem LIBOR.
+@Chuyên ngành kinh tế
+#tập đoàn tài chánh ngân hàng

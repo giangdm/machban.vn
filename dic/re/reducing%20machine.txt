@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#máy nghiền mịn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#máy nghiền (trộn)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lực thấp
+@Lĩnh vực: điện
+#công suất thấp

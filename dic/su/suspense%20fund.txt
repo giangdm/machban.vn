@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khoản tiền ghi tạm
+#khoản tiền tạm ghi
+#vốn tạm ghi

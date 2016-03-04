@@ -1,0 +1,8 @@
+﻿@selenium cell
+*danh từ
+#pin selen (pin có chứa một mảnh selen dùng trong các thiết bị quang điện)
+@Chuyên ngành kỹ thuật
+#mắt điện
+#pin selen
+@Lĩnh vực: điện
+#phần tử selen

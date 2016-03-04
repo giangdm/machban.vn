@@ -1,0 +1,6 @@
+﻿@Business cycle
+#(Econ) Chu kỳ kinh doanh.
+: Xem TRADE CYCLE.
+@Chuyên ngành kinh tế
+#chu kỳ kinh doanh
+#chu kỳ kinh tế

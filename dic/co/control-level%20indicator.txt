@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chỉ báo
+@Lĩnh vực: toán & tin
+#mức điều khiển

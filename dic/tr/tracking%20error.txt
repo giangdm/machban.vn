@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi đồng chỉnh
+#sai số đồng chỉnh
+#sai số theo dõi
+@Lĩnh vực: điện tử & viễn thông
+#sai lệch trong theo dõi

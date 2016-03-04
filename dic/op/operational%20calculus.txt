@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phép tính làm việc
+@Lĩnh vực: toán & tin
+#phép tính toán tử
+#phép tính xử lý
+@Lĩnh vực: điện lạnh
+#tính toán tử

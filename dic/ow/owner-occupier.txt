@@ -1,0 +1,8 @@
+﻿@owner-occupier
+*danh từ
+#chủ nhân cư ngụ; người chủ của căn nhà đang ở
+@Chuyên ngành kinh tế
+#chủ chiếm hữu
+#nghiệp chủ chiếm hữu
+#người chủ hộ sở hữu
+#người ở trong nhà mình

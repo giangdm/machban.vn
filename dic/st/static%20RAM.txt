@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#RAM tĩnh
+@Lĩnh vực: toán & tin
+#SRAM

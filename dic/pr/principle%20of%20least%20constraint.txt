@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nguyên lý liên kết tối thiểu
+@Lĩnh vực: vật lý
+#nguyên lý ràng buộc tối thiểu

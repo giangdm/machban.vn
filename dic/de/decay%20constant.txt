@@ -1,0 +1,8 @@
+﻿@decay constant
+#(Tech) hằng số thoái hóa
+@Chuyên ngành kỹ thuật
+#hằng số phân rã
+#hằng số tắt dần
+@Lĩnh vực: điện lạnh
+#hằng số (phân) rã
+#hằng số suy giảm

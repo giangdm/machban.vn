@@ -1,0 +1,12 @@
+﻿@epitaxial transistor
+#(Tech) đèn tinh thể kéo lớp mặt ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tranzito epitaxy
+@Lĩnh vực: điện tử & viễn thông
+#tranzito ghim Schottky
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tranzito epitaxy
+@Lĩnh vực: điện tử & viễn thông
+#tranzito ghim Schottky

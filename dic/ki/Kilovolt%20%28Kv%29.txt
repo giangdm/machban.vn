@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#kí-lô-vôn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bằng 1000 volt
+@Lĩnh vực: điện
+#kilôvon
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bằng 1000 volt
+@Lĩnh vực: điện
+#kilôvon

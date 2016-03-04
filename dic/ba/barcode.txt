@@ -1,0 +1,2 @@
+﻿@barcode
+#mã vạch, sọc mã số

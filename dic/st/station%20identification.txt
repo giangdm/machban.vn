@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự nhận dạng đài
+#sự nhạn dạng trạm
+@Lĩnh vực: điện tử & viễn thông
+#mã hiệu của trạm đài

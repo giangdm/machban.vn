@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#bộ chỉ báo khoảng chuyển (truyền động tự động)

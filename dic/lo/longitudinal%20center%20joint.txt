@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mạch xây dọc trung tâm
+#mối nối dọc trung tâm

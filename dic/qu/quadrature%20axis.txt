@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#trục ngang
+#trục vuông góc
+@Lĩnh vực: điện
+#trục cầu phương

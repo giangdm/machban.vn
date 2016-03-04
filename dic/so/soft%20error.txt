@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi mềm
+#lỗi nhất thời
+#lỗi nhẹ
+#lỗi tạm thời

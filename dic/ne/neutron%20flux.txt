@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#dòng notron
+#luồng nơtron
+#thông luợng notron

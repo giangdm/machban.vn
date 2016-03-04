@@ -1,0 +1,3 @@
+﻿@flowdiagram
+*danh từ
+#xem flowchart

@@ -1,0 +1,8 @@
+﻿@hit list
+*danh từ
+#danh sách những nhân vật sẽ bị sát hại
+@Chuyên ngành kinh tế
+#danh sách đen (về những kế hoạch hay hạng mục sẽ bị hủy bỏ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#danh sách so khớp

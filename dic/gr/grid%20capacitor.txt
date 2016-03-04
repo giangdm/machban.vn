@@ -1,0 +1,5 @@
+﻿@grid capacitor
+#(Tech) bộ điện dung ở lưới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tụ điện lưới

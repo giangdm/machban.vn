@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu nối đất
+#đầu nối vỏ máy
+#đường nối đất
+#nối đất
+#mối nối đất
+#sự nối đất
+#sự tiếp đất
+@Lĩnh vực: ô tô
+#vật (dây) nối mass

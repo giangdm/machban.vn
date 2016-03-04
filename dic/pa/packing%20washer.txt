@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#long đen đệm
+#vòng đệm bit
+@Lĩnh vực: xây dựng
+#khoan ép kín
+@Lĩnh vực: toán & tin
+#khoen ép kín
+@Lĩnh vực: cơ khí & công trình
+#vòng lót đệm kín

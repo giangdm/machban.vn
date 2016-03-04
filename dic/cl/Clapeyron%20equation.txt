@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#phương trình Clapeyron
+@Lĩnh vực: toán & tin
+#phương trinh Clapeyron-Clausius
+#phương trình Clausius-Clapeyron

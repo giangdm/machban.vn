@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#DBMS (Hệ thống quản lý cơ sở dữ liệu) định hướng đối tượng

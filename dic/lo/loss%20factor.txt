@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số tiêu tán
+#hệ số tổn thất
+@Lĩnh vực: hóa học & vật liệu
+#hệ số hao
+@Lĩnh vực: xây dựng
+#hệ số mất mát
+@Lĩnh vực: điện
+#hệ số tiêu hao
+@Lĩnh vực: điện lạnh
+#hệ số tổn hao

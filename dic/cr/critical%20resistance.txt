@@ -1,0 +1,4 @@
+﻿@critical resistance
+#(Tech) điện trở tới hạn
+@Chuyên ngành kỹ thuật
+#điện trở tới hạn

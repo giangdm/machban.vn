@@ -1,0 +1,6 @@
+﻿@Discrete distribution
+#(Econ) Phân phối rời rạc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân bố rời rạc
+#phân phối rời rạc

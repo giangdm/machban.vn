@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#sự chậm trễ thời gian
+#sự chậm trễ thời gian, độ trễ thời gian
+@Chuyên ngành kỹ thuật
+#độ trễ thời gian
+#sự đánh lửa trễ
+@Lĩnh vực: cơ khí & công trình
+#đánh lửa muộn
+@Lĩnh vực: toán & tin
+#sự trễ thời gian
+@Lĩnh vực: ô tô
+#thời gian chậm
+@Lĩnh vực: điện lạnh
+#trễ thời gian

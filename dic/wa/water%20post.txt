@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cột nước (vòi nước công cộng)
+#máy nước công cộng (dọc đường phố)
+#tháp cấp nước
+#vòi nước công cộng

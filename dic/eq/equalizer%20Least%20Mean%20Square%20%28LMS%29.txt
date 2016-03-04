@@ -1,0 +1,2 @@
+﻿@equalizer Least Mean Square (LMS)
+#(Tech) quân bình bằng phương trung bình nhân tối thiểu

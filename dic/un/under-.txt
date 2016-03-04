@@ -1,0 +1,14 @@
+﻿@under-
+#hình thái những chỉ
+#vị trí dưới cái gì, hành động dưới cái gì
+=undercurrent:dòng chảy ngầm
+=under-skirt:váy lót trong
+#underline
+#gạch dưới
+#tính chất phụ thuộc; kém quan trọng
+=under-secretary:trợ lý bộ trưởng
+#undertone
+#giọng thấp
+#tính không đầy đủ, tính không trọn vẹn
+=under-developed:kém phát triển
+=under-estimate:đánh giá thấp

@@ -1,0 +1,3 @@
+﻿@Weighted mean
+#(Econ) Trung bình gia quyền.
+: Xem WEIGHTED AVERAGE.

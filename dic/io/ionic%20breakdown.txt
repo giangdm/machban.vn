@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#đánh thủng iôn hóa
+@Lĩnh vực: điện
+#sự đánh thủng ion

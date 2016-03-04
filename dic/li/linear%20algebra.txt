@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đại số tuyến tính
+@Lĩnh vực: toán & tin
+#đại số ma trận
+@Chuyên ngành kỹ thuật
+#đại số tuyến tính
+@Lĩnh vực: toán & tin
+#đại số ma trận

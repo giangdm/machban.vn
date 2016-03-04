@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thay đổi trạng thái
+@Lĩnh vực: toán & tin
+#chuyển tiếp trạng thái
+@Lĩnh vực: đo lường & điều khiển
+#sự chuyển tiếp trạng thái

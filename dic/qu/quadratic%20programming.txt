@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#quy hoạch toàn phương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự lập trình bậc hai

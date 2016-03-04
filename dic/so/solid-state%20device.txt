@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ phận chất bán dẫn (trạng thái rắn)
+@Lĩnh vực: toán & tin
+#linh kiện mạch bán dẫn

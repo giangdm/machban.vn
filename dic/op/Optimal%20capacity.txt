@@ -1,0 +1,3 @@
+﻿@Optimal capacity
+#(Econ) Công suất tối ưu.
+: Là sản lượng tương ứng với điểm tối thiểu của một biểu đồ của tổng chi phí trung bình.

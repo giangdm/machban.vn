@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cấp thấp
+@Lĩnh vực: điện lạnh
+#mức thấp
+@Lĩnh vực: toán & tin
+#mức thấp, bậc thấp

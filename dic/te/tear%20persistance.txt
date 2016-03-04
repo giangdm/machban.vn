@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền chống kéo đứt
+#độ bền chống rách
+#độ bền chống xé rách
+#độ bền đứt
+#độ bền kéo
+#độ bền xé rách

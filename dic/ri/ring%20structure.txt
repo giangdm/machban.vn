@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#cấu tạo vòng
+@Lĩnh vực: điện tử & viễn thông
+#cấu trúc vành
+@Lĩnh vực: toán & tin
+#cấu trúc vòng

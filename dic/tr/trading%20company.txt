@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#công ty mua bán
+#công ty thương mại
+#công ty thương mại, xí nghiệp thương mại
+#xí nghiệp thương mại

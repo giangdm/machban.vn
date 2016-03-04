@@ -1,0 +1,3 @@
+﻿@t-statistic
+#(Econ) Thống kê t.
+: Một thống kê tuân theo phân phối T. Thống kê t thường được dùng trong kiểm định giả thiết để xác định MỨC Ý NGHĨA THỐNG KÊ của các tham số trong các mô hình kinh tế lượng, và được tính bằng tỷ số giữa giá trị tham số ước tính và sai số chuẩn của nó.

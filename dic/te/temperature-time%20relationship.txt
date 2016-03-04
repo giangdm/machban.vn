@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự quan hệ về nhiệt độ và thời gian
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#quan hệ nhiệt độ-thời gian

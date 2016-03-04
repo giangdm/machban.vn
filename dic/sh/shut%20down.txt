@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#đóng cửa (một nhà máy ...)
+#đóng cửa (một nhà máy)
+#nghỉ việc
+@Chuyên ngành kỹ thuật
+#đóng
+#đóng cửa xí nghiệp
+#dừng
+#ngừng
+@Lĩnh vực: cơ khí & công trình
+#ngắt máy
+@Lĩnh vực: giao thông & vận tải
+#tắt (động cơ và cơ cấu truyền động)
+@Lĩnh vực: toán & tin
+#tắt máy, đóng

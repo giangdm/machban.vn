@@ -1,0 +1,15 @@
+﻿@liquid measure ['likwid 'meʒə]
+*danh từ
+# đơn vị đo dung lượng chất lỏng
+@Chuyên ngành kinh tế
+#đơn vị đo lường chất lỏng
+@Chuyên ngành kỹ thuật
+#độ đo chất lỏng
+#số đo chất lỏng
+@Lĩnh vực: hóa học & vật liệu
+#đo chất lỏng
+@Chuyên ngành kỹ thuật
+#độ đo chất lỏng
+#số đo chất lỏng
+@Lĩnh vực: hóa học & vật liệu
+#đo chất lỏng

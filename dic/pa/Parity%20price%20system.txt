@@ -1,0 +1,5 @@
+﻿@Parity price system
+#(Econ) Hệ thống giá tương đương.
+: Một hệ thống hỗ trợ giá đối với nền nông nghiệp Mỹ lần đầu tiên được thiết lập với đạo luật Điều chỉnh nông nghiệp năm 1933.
+@Chuyên ngành kinh tế
+#chế độ giá cả ngang bằng

@@ -1,0 +1,2 @@
+﻿@detection radar
+#(Tech) radda phát hiện

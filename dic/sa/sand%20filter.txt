@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị lọc cát
+@Chuyên ngành kỹ thuật
+#bể lọc cát
+#bộ lọc cát
+#lớp lọc ngược bằng cát
+@Lĩnh vực: xây dựng
+#bộ lọc bằng cát
+#thiết bị lọc qua cát
+@Lĩnh vực: điện lạnh
+#phin lọc cát

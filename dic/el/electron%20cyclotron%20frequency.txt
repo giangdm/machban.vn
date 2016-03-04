@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tần số xyclotron của electron
+@Lĩnh vực: vật lý
+#tần số xyclotron electron
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tần số xyclotron của electron
+@Lĩnh vực: vật lý
+#tần số xyclotron electron

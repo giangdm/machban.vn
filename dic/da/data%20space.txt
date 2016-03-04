@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng dữ liệu
+@Lĩnh vực: toán & tin
+#không gian dữ liệu

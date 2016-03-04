@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đường áp ứng tần
+#quỹ tích đáp ứng tần
+@Lĩnh vực: điện lạnh
+#đường cong đáp-ứng tần số

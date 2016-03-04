@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bảng quảng cáo
+#bảng tiếp thị
+#bảng yết thị
+#tấm áp phích nhỏ
+#tấm ap-phích nhỏ
+#tấm nhãn (ghi giá của tủ kính)
+#tấm nhãn (ghi giá, của tủ kính)
+#thẻ mẫu hàng

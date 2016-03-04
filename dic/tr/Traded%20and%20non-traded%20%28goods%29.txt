@@ -1,0 +1,2 @@
+﻿@Traded and non-traded (goods)
+#(Econ) Hàng ngoại thương và phi ngoại thương.

@@ -1,0 +1,5 @@
+﻿@circular list
+#(Tech) danh sách vòng tròn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#danh sách vòng

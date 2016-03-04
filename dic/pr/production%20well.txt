@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#giếng sản xuất
+@Lĩnh vực: xây dựng
+#giếng sản xuất (khai thác dầu mỏ)
+@Lĩnh vực: hóa học & vật liệu
+#giếng sản xuất (kỹ thuật nâng tải)

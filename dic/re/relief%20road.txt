@@ -1,0 +1,7 @@
+﻿@relief road
+*danh từ
+#đường vòng, đường khác mà xe cộ có thể sử dụng để tránh khu vực lưu lượng giao thông lớn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đường giảm (dãn) mật độ xe
+#đường phân luồng (tránh ách tắc)

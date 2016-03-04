@@ -1,0 +1,3 @@
+﻿@Rate of commodity
+#(Econ) Tỷ lệ thay thế hàng hoá.
+: Xem MARGINAL RATE OF SUBSTITUTION.

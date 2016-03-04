@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ FORTOTRAN
+@Lĩnh vực: xây dựng
+#sự dịch công thức

@@ -1,0 +1,3 @@
+﻿@Bernoulli Hypothesis
+#(Econ) Giả thuyết Bernoulli.
+: Daniel Bernoulli là một nhà toán học thế kỷ XIX đã đưa ra một lời giải cho một  nghịch lý được ca ngợi. Bài toán này là một trong số các bài toán giải thích tại sao các cá nhân sẽ không trả một khoản cực lớn để chơi trò chơi xấp ngửa của một đồng xu.

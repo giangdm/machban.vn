@@ -1,0 +1,2 @@
+﻿@copy command
+#(Tech) lệnh sao chép

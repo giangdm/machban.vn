@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#vốn ban đầu (khi mới thành lập doanh nghiệp)
+@Chuyên ngành kỹ thuật
+#vốn ban đầu

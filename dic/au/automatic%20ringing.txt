@@ -1,0 +1,2 @@
+﻿@automatic ringing
+#(Tech) reo chuông tự động

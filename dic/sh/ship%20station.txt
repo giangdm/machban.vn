@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đài của tàu biển
+@Lĩnh vực: điện tử & viễn thông
+#đài tàu thủy
+@Lĩnh vực: giao thông & vận tải
+#trạm trên tàu biển

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị rửa
+@Lĩnh vực: xây dựng
+#hệ máy rửa

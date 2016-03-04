@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ chính
+@Lĩnh vực: xây dựng
+#hệ cơ sở
+@Lĩnh vực: toán & tin
+#hệ thống cơ sở

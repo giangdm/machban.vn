@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bảo chứng cố định
+#phí cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#lượng tiêu hao cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#lượng tiêu hao cố định

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nhiệt độ chảy lỏng ban đầu
+#nhiệt độ nóng chảy ban đầu
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt độ nóng chảy đầu tiên

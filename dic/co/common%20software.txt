@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phần mềm chung
+@Lĩnh vực: toán & tin
+#phần mềm phổ biến

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#dịch vụ cơ bản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dịch vụ chính
+@Lĩnh vực: toán & tin
+#dịch vụ cơ bản
+#dịch vụ cơ sở

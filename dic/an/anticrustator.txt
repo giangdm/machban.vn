@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chất chống cặn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#chất chống cáu cặn

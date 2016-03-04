@@ -1,0 +1,6 @@
+﻿@contact print
+*danh từ
+#sự in ảnh bằng cách đặt phim âm bản trên giấy in trước khi phơi ra ánh sáng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bản in tiếp xúc

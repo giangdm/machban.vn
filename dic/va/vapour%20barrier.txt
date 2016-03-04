@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#lớp cách hơi nước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#màn chắn bằng hơi nước
+@Lĩnh vực: hóa học & vật liệu
+#màng ngăn hơi nước

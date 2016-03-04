@@ -1,0 +1,6 @@
+﻿@Repressed inflation
+#(Econ) Lạm phát bị kiềm chế.
+: Là trường hợp việc ấn định giá kiểm soát được tốc độ thay đổi của giá cả mà không tác động đến những xu hướng lạm phát đang diễn ra.
+@Chuyên ngành kinh tế
+#lạm phát có tính kiềm chế, lạm phát ức chế
+#lạm phát được kiềm chế

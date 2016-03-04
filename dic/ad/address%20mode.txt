@@ -1,0 +1,6 @@
+﻿@address mode
+#(Tech) kiểu địa chỉ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ địa chỉ
+#kiểu địa chỉ

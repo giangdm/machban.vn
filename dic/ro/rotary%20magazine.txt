@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máng trữ quay (trữ vật liệu)
+@Lĩnh vực: vật lý
+#hộp quay (máy chiếu phim dương)

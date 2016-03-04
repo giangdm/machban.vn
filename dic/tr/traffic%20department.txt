@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phòng giao thông
+#phòng kinh doanh
+#phòng mãi vụ
+#phòng mại vụ
+#phòng phối hợp (của công ty quảng cáo)
+#phòng vận tải (trong một xí nghiệp)

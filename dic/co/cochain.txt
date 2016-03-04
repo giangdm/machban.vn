@@ -1,0 +1,2 @@
+﻿@cochain
+#(Tech) đồng chuỗi

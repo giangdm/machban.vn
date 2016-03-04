@@ -1,0 +1,5 @@
+﻿@Basic industries
+#(Econ) Những ngành cơ bản.
+: Xem ECONOMIC BASE.
+@Chuyên ngành kinh tế
+#các ngành công nghiệp cơ bản

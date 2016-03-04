@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy trả tiền tự động
+@Chuyên ngành kỹ thuật
+#máy rút tiền tự động
+@Lĩnh vực: toán & tin
+#ATM

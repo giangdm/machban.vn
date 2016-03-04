@@ -1,0 +1,3 @@
+﻿@Employee Stock Ownership plan (ESOP)
+#(Econ) Kế hoạch Sở hữu cổ phần cho người làm.
+: Một kế hoạch cho phép các nhân viên trong các hãng của Mỹ được hưởng lợi nhuân và sự tăng trưởng của doanh nghiệp bằng cách sở hữu các cổ phần trong cổ phần chung của công ty.

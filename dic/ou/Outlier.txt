@@ -1,0 +1,26 @@
+﻿@Outlier
+#(Econ) Giá trị ngoại lai.
+: Là một thuật ngữ được dùng để mô tả một điểm số liệu mà cách xa một cách bất thường trung tâm của quan sát.
+<!-- more -->
+@outlier /'aut,laiə/
+*danh từ
+#người nằm ngoài, cái nằm ngoài
+#(từ Mỹ,nghĩa Mỹ) người đứng ngoài (một tổ chức...), người tách khỏi nhóm...
+#(địa lý,địa chất) phần tách ngoài (tách ra khỏi phần chính)
+#(từ Mỹ,nghĩa Mỹ) người ở ngoài (chỗ làm...)
+@Chuyên ngành kỹ thuật
+#khoảng chệch
+#khoảng lệch
+#khoảng loại bỏ
+#núi sót
+@Lĩnh vực: hóa học & vật liệu
+#khối sót
+@Lĩnh vực: cơ khí & công trình
+#khối sót lại
+@Lĩnh vực: đo lường & điều khiển
+#phần tách ngoài
+@Lĩnh vực: xây dựng
+#van sót
+<!-- more -->
+@outlier
+#(thống kê) giá trị ngoại lệ

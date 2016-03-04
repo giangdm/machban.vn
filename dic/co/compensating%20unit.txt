@@ -1,0 +1,2 @@
+﻿@compensating unit
+#(Tech) đơn vị bù trừ

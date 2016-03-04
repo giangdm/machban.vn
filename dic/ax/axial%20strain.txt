@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng dọc
+#ứng suất dọc trục
+@Lĩnh vực: xây dựng
+#biến dạng dọc trục
+@Lĩnh vực: cơ khí & công trình
+#tải dọc trục

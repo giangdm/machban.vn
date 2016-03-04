@@ -1,0 +1,3 @@
+﻿@Marginal propensity to withdraw
+#(Econ) Thiên hướng rút tiền cận biên.
+: Là mức thay đổi những khoản rút tiền do thay đổi một đơn vị thu nhập.

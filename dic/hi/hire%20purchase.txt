@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#phương thức mua (hoặc bán) trả góp
+#phương thức thuê mua
+#sự cho thuê (sự mua hàng trả góp)

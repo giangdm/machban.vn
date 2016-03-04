@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý đồng thời
+@Lĩnh vực: điện tử & viễn thông
+#xử lý đồng thời

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian kiểm tra
+@Lĩnh vực: toán & tin
+#thời gian thử

@@ -1,0 +1,13 @@
+﻿@dump truck ['dʌmptrʌk]
+# như dumper
+@Chuyên ngành kỹ thuật
+#vật liệu
+#xe đổ đất
+#xe tải
+#xe trút đất
+#xe tự đổ
+@Lĩnh vực: ô tô
+#ô tô tự đổ
+@Lĩnh vực: xây dựng
+#xe tải trút hàng
+#xe tải tự đổ

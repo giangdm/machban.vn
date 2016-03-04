@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#điện tích cảm ứng
+@Lĩnh vực: điện
+#phụ tải cảm ứng
+#phụ tải điện cảm
+#phụ tải gây chậm pha
+@Lĩnh vực: toán & tin
+#tải (tự) cảm
+#tải mang tính cảm
+#tải tự cảm
+@Lĩnh vực: điện lạnh
+#tải điện cảm
+#tải điện kháng

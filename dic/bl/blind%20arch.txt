@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#vòm giả
+@Lĩnh vực: xây dựng
+#cuốn giả (kiến trúc)
+#cuốn trang trí
+#vòm cuốn giả
+#vòm rỗng

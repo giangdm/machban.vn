@@ -1,0 +1,12 @@
+﻿@Limited company
+#(Econ) Công ty trách nhiệm hữu hạn.
+: Có hai loại công ty trách nhiệm hữu hạn ở Anh: Công ty trách nhiệm hữu hạn công cộng và công ty trách nhiệm hữu hạn tư nhân.
+@Chuyên ngành kinh tế
+#công ty hữu hạn
+#công ty trách nhiệm hữu hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#công ty hữu hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#công ty hữu hạn

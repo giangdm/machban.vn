@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khoảng không gian bào
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#khoang giun bào

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cuộn dây điều tiêu
+@Lĩnh vực: điện
+#cuộn dây hội tụ

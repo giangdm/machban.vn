@@ -1,0 +1,8 @@
+﻿@computer system
+#(Tech) hệ thống điện toán
+@Chuyên ngành kinh tế
+#hệ thống máy vi tính
+@Chuyên ngành kỹ thuật
+#hệ thống máy tính
+@Lĩnh vực: điện tử & viễn thông
+#hệ máy tính

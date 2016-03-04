@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#động cơ tự động
+#động cơ xe ô tô
+@Lĩnh vực: toán & tin
+#máy xe tự động

@@ -1,0 +1,5 @@
+﻿@biocomputer
+#(Tech) máy điện toán sinh tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy tính sinh học

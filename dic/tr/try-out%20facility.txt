@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị thử
+@Lĩnh vực: cơ khí & công trình
+#phương tiện thử nghiệm

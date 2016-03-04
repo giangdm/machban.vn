@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ chênh nhiệt độ trung bình cộng
+#hiệu nhiệt độ trung bình cộng

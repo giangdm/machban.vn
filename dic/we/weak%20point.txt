@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chỗ yếu
+@Lĩnh vực: xây dựng
+#khâu nút
+#khâu yếu

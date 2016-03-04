@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thanh ghi con trỏ lệnh
+#thanh ghi địa chỉ lệnh
+@Lĩnh vực: toán & tin
+#thanh ghi chương trình
+@Lĩnh vực: điện tử & viễn thông
+#thanh ghi trình

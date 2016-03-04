@@ -1,0 +1,6 @@
+﻿@digital switch
+#(Tech) bộ chuyển dạng số tự
+@Chuyên ngành kỹ thuật
+#bộ chuyển mạch số
+#hệ chuyển mạch số
+#tổng đài số

@@ -1,0 +1,11 @@
+﻿@Collinearity
+#(Econ) Cộng tuyến.
+: Xem MULTICOLLINEARITY, LINEAR DEPENDENCE.
+@Chuyên ngành kinh tế
+#cộng tuyến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính cộng tuyến
+<!-- more -->
+@collinearity
+#tính cộng tuyến

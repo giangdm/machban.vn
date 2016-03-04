@@ -1,0 +1,5 @@
+﻿@Business performance
+#(Econ) Kết quả kinh doanh.
+: Mức độ tại đó một nghành đạt được kết quả hay mục tiêu mà các hãng thành viên theo đuổi. Xem STRUCTURE - CONDUCT - PERFORMANCE - FRAMEWORK).
+@Chuyên ngành kinh tế
+#thành quả kinh doanh

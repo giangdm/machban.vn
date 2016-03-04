@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ giãn dài tuyệt đối
+#độ giãn tuyệt đối

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chuỗi hội tụ
+@Chuyên ngành kỹ thuật
+#sự hội tụ
+@Lĩnh vực: toán & tin
+#chuỗi số hội tụ

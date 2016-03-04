@@ -1,0 +1,4 @@
+﻿@flow-off
+*danh từ
+#dòng xả; luồng xả
+#(luyện kim) đậu hơi

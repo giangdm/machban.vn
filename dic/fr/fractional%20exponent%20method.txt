@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương pháp phân số mũ
+#phương pháp số mũ phân

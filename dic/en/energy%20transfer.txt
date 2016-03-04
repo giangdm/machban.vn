@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#sự biến đổi năng lượng
+#sự truyền năng lượng
+@Lĩnh vực: điện lạnh
+#chuyển năng lượng
+@Lĩnh vực: toán & tin
+#sự di chuyển năng lượng
+@Lĩnh vực: vật lý
+#sự truyền công suất
+@Lĩnh vực: điện tử & viễn thông
+#truyền năng lượng
+@Chuyên ngành kỹ thuật
+#sự biến đổi năng lượng
+#sự truyền năng lượng
+@Lĩnh vực: điện lạnh
+#chuyển năng lượng
+@Lĩnh vực: toán & tin
+#sự di chuyển năng lượng
+@Lĩnh vực: vật lý
+#sự truyền công suất
+@Lĩnh vực: điện tử & viễn thông
+#truyền năng lượng

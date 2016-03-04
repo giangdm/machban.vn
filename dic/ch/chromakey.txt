@@ -1,0 +1,6 @@
+﻿@chromakey
+#(Tech) khóa màu
+@Chuyên ngành kỹ thuật
+#phủ chờm tách màu
+#sự khóa màu
+#sự phủ tách màu

@@ -1,0 +1,3 @@
+﻿@Probit model
+#(Econ) Mô hình Probit (hay mô hình xác suất đơn vị).
+: Xem LINEAR PROBABILITY MODEL.

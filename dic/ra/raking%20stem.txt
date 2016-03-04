@@ -1,0 +1,32 @@
+﻿@Chuyên ngành kỹ thuật
+#bàn dao
+#bàn dao chữ thập
+#bàn trượt
+#búa đập
+#búa đóng cọc
+#chày dập
+#con trượt
+#đầm
+#đầm chặt
+#đầm nện
+#dao xọc
+#đầu búa
+#đầu xọc
+#đóng cọc
+#giá lắc
+#khuôn dập
+#lèn
+#nện
+#pittông trụ trượt
+#sự thử va đập
+#vồ nện
+#xe dao
+@Lĩnh vực: cơ khí & công trình
+#bàn trượt đầu rơvonve
+@Lĩnh vực: giao thông & vận tải
+#chiều dài lớn nhất
+#động áp
+@Lĩnh vực: xây dựng
+#nhào đất
+@Lĩnh vực: vật lý
+#vồ đập

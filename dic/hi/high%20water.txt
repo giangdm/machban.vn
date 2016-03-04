@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#độ cao nước lớn
+#dòng triều lên
+#lụt
+#nước lên
+#nước lớn
+#nước lũ
+#nước thượng lưu
+#thượng lưu
+#thủy triều lên
+#triều dâng
+#triều lên
+@Lĩnh vực: xây dựng
+#kỳ nước lớn
+@Lĩnh vực: môi trường
+#lũ

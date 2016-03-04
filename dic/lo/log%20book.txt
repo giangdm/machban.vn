@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sổ nhật ký đương việc
+@Chuyên ngành kỹ thuật
+#nhật ký khoan

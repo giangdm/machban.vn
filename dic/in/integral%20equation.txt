@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phương trình tích phân
+@Lĩnh vực: điện tử & viễn thông
+#hướng tính tích phân

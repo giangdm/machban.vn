@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vật liệu cách ly dạng sợi
+@Lĩnh vực: điện lạnh
+#vật liệu cách nhiệt dạng bông
+#vật liệu cách nhiệt dạng sợi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vật liệu cách ly dạng sợi
+@Lĩnh vực: điện lạnh
+#vật liệu cách nhiệt dạng bông
+#vật liệu cách nhiệt dạng sợi

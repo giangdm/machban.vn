@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu điện thế đánh lửa
+@Lĩnh vực: điện lạnh
+#điện áp đánh lửa (ở bugi)

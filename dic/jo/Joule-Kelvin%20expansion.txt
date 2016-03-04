@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu ứng Joule-Thomson
+#sự giãn nở Joule-Kelvin
+#sự giãn nở Joule-Thomson

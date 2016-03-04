@@ -1,0 +1,3 @@
+﻿@ARCH effect
+#(Econ) Hiệu ứng ARCH.
+:  Xem ARCH.

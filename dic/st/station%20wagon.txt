@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#ô tô con liên hợp
+@Lĩnh vực: giao thông & vận tải
+#toa tàu chở hàng kiện
+@Lĩnh vực: xây dựng
+#xe thự dụng
+#xe thực dụng

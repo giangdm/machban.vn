@@ -1,0 +1,2 @@
+﻿@enabled interrupt
+#(Tech) ngắt có phép

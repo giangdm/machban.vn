@@ -1,0 +1,8 @@
+﻿@AND gate
+#(Tech) cổng VÀ
+@Chuyên ngành kỹ thuật
+#cổng Và
+@Lĩnh vực: toán & tin
+#cổng "và"
+#cổng AND
+#phần tử Và

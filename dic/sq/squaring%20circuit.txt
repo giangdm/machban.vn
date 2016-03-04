@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch bình phương
+#mạch lấy bình phương
+@Lĩnh vực: toán & tin
+#mạch tạo sóng vuông
+@Lĩnh vực: điện lạnh
+#mạch tạo sóng vuông góc

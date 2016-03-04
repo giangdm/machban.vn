@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giấy khai ban đầu
+#khoản bút toán đầu tiên
+#khoản ghi sổ đầu tiên

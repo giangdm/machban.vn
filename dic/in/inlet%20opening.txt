@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa lấy nước
+#cửa vào
+#lỗ vào
+#lối vào
+@Lĩnh vực: xây dựng
+#lỗ lấy nước vào
+#lỗ nước vào
+@Lĩnh vực: cơ khí & công trình
+#miệng cống lấy nước

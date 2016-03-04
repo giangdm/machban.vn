@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#luật xác suất Gaussien
+@Chuyên ngành kỹ thuật
+#luật xác suất bình thường

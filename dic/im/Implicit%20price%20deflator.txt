@@ -1,0 +1,7 @@
+﻿@Implicit price deflator
+#(Econ) Chỉ số giảm phát giá ẩn.
+: Một chỉ số giá được sử dụng để giảm phát một hay nhiều thành phần của tài khoản thu nhập quốc dân.
+@Chuyên ngành kinh tế
+#chỉ số quy ra vật giá
+#hệ số điều chỉnh vật giá hàng nội
+#hệ số quy giá tổng hợp

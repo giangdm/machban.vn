@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#không cho phép xếp chở từng phần
+#không được xếp chở từng phần

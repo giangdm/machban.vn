@@ -1,0 +1,5 @@
+﻿@Proxy variable
+#(Econ) Biến số đại diện.
+: Một biến số được sử dụng trong việc phân tích hồi quy để thay thế thay mặt một biến số khác về mặt lý thuyết thoả đáng hơn trong những trường hợp mà các dữ liệu không có được đối với biến số này hoặc biến số này không thể quan sát được (chẳng hạn mức tiêu dùng mong muốn hoặc thu nhập thường xuyên.
+@Chuyên ngành kinh tế
+#biến số thay thế

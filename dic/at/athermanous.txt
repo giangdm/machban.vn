@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#không thấm nhiệt
+@Lĩnh vực: điện lạnh
+#không thấu nhiệt
+@Lĩnh vực: điện tử & viễn thông
+#sự không thấm nhiệt

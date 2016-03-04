@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy điều nhiệt bảo vệ
+#rơle nhiệt bảo vệ
+#rơle nhiệt độ bảo vệ
+#tecmostat bảo vệ
+#thermostat bảo vệ

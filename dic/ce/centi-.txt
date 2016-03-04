@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#một trăm
+@Lĩnh vực: y học
+#tiền tố chỉ thứ một trăm hoặc một trăm

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự hóa bền cơ học
+#sự làm cứng nguội
+#sự tăng bền cơ học

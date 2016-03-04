@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đếm ngược
+@Lĩnh vực: toán & tin
+#bộ đếm thuận nghịch
+@Lĩnh vực: đo lường & điều khiển
+#máy đếm hai chiều
+#máy đếm thuận nghịch

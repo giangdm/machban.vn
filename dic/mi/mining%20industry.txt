@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#công nghiệp khai mỏ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#công nghiệp khai khoáng

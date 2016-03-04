@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bức xạ Rontgen
+@Lĩnh vực: toán & tin
+#bức xạ tia X
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bức xạ Rơnghen
+#bức xạ X

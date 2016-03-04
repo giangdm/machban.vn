@@ -1,0 +1,30 @@
+﻿@Chuyên ngành kỹ thuật
+#dầm ngang
+#dầm sàn
+@Lĩnh vực: xây dựng
+#đà sàn nhà
+#dầm chiếu nghỉ (cầu thang)
+#dầm dọc sàn cầu
+#dầm mặt cầu
+#rầm ngang (cầu)
+#rầm sàn
+@Lĩnh vực: giao thông & vận tải
+#dầm ngang (cầu)
+#xà sàn
+@Lĩnh vực: toán & tin
+#dầm sàn nhà
+@Chuyên ngành kỹ thuật
+#dầm ngang
+#dầm sàn
+@Lĩnh vực: xây dựng
+#đà sàn nhà
+#dầm chiếu nghỉ (cầu thang)
+#dầm dọc sàn cầu
+#dầm mặt cầu
+#rầm ngang (cầu)
+#rầm sàn
+@Lĩnh vực: giao thông & vận tải
+#dầm ngang (cầu)
+#xà sàn
+@Lĩnh vực: toán & tin
+#dầm sàn nhà

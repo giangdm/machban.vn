@@ -1,0 +1,5 @@
+﻿@Policy instruments
+#(Econ) Các công cụ chính sách.
+: Các biến số kinh tế và xã hội được chính phủ vận dụng để tác động đến các biến số của chính sách, nó được gọi là công cụ và ta có thể phân biệt bốn hạng mục kinh tế chủ yếu: CHÍNH SÁCH TÀI CHÍNH; CHÍNH SÁCH TIỀN TỆ, CHÍNH SÁCH TỶ GIÁ HỐI ĐOÁI và CHÍNH SÁCH GIÁ CẢ VÀ THU NHẬP.
+@Chuyên ngành kinh tế
+#các công cụ chính sách

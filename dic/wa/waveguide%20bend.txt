@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đoạn cong ống dẫn sóng
+#đoạn uốn ống dẫn sóng
+#khủy ống dẫn sóng

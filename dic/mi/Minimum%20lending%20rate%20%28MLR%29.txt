@@ -1,0 +1,3 @@
+﻿@Minimum lending rate (MLR)
+#(Econ) Lãi suất cho vay tối thiểu.
+: Cụm thuật ngữ được đưa vào tháng 10/1971 để thay thế cho cụm thuật ngữ lãi suất ngân hàng, tên gọi của lãi suất mà ngân hàng Anh sẽ hỗ trợ bằng các khoản tiền vay hoạc bằng cách tái chiết khấu các hối phiếu cho các NGÂN HÀNG CHIẾT KHẤU do thiếu vốn trên thị trường tiền tệ buộc phải tới ngân hàng trung ương như là NGƯỜI CHO VAY CỨU CÁNH CUỐI CÙNG. Vào tháng 8/1981 MLR đã bị xóa bỏ, dù vẫn còn quy định sễ sử dụng nó trong những trường hợp khẩn cấp.

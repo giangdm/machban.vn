@@ -1,0 +1,8 @@
+﻿@t-junction
+*danh từ
+#(T-junction) ống nối chữ T (chỗ một con đường, một đường ống  nối với một con đường, đường ống  khác như ng không vượt qua, do đó tạo thành hình chữ T)
+@Chuyên ngành kỹ thuật
+#mối nối chữ T
+@Lĩnh vực: xây dựng
+#nút giao chữ T
+#sự nối thẳng góc

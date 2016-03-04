@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#co giãn của cung theo giá
+#tính co giãn của mức cung theo giá

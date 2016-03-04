@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hợp đồng cung ứng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hợp đồng giao hàng

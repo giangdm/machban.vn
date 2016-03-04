@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng căn quân phương
+@Lĩnh vực: điện lạnh
+#dòng hiệu dụng
+#dòng rms

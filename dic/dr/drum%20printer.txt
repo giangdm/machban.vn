@@ -1,0 +1,8 @@
+﻿@drum printer ['drʌm,printə]
+*danh từ
+# (tin học) thiết bị in nhanh trong đó yếu tố in là một cái trống từ quay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy in kiểu trống
+#máy in trống
+#máy in trống quay

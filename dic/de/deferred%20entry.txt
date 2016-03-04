@@ -1,0 +1,8 @@
+﻿@deferred entry
+#(Tech) cửa vào trì hoãn
+@Chuyên ngành kỹ thuật
+#ngõ vào trì hoãn
+@Lĩnh vực: điện tử & viễn thông
+#nhập trì hoãn
+@Lĩnh vực: toán & tin
+#vào muộn

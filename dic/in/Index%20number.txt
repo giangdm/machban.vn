@@ -1,0 +1,9 @@
+﻿@Index number
+#(Econ) Số chỉ số.
+: Con số thể hiên giá trị của một đại lượng nào đó.
+@Chuyên ngành kinh tế
+#chỉ số
+#số chỉ số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#số chỉ số

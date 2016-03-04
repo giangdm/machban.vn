@@ -1,0 +1,5 @@
+﻿@direct-connect modem
+#(Tech) bộ biến hoàn nối trực tiếp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#môđem mắc trực tiếp

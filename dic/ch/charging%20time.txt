@@ -1,0 +1,2 @@
+﻿@charging time
+#(Tech) thời gian nạp

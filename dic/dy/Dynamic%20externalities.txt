@@ -1,0 +1,2 @@
+﻿@Dynamic externalities
+#(Econ) Các ngoại hưởng động; Ngoại ứng động.

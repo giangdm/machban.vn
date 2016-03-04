@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#môđun chống uốn (của mặt cắt)
+@Lĩnh vực: cơ khí & công trình
+#môđun tiết diện

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra hệ thống
+#sự thử nghiệm hệ thống
+@Lĩnh vực: toán & tin
+#sự kiểm tra hệ thống

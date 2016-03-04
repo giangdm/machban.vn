@@ -1,0 +1,9 @@
+﻿@First difference
+#(Econ) Vi phân bậc I.
+: Hiệu số giữa một biến và giá trị trễ một bậc về thời gian của nó.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sai phân cấp một
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sai phân cấp một

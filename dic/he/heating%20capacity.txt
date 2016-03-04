@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#công suất nhiệt
+#khả năng tỏa nhiệt
+#năng suất nhiệt
+#năng suất sưởi
+#năng suất tỏa nhiệt
+#nhiệt dung
+@Lĩnh vực: xây dựng
+#khả năng cấp nhiệt
+#khả năng sưởi ấm
+@Lĩnh vực: hóa học & vật liệu
+#năng suất nung nóng

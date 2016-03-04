@@ -1,0 +1,6 @@
+﻿@concatenated data set
+#(Tech) bộ dữ kiện nối chuỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập dữ liệu ghép
+#tập dữ liệu nối kết

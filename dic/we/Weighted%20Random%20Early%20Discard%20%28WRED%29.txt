@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hủy bỏ sớm ngẫu nhiên có trọng số-phương pháp xếp hàng bảo đảm lưu lượng ưu tiên cao ít bị mất hơn trong thời gian tắc nghẽn

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự tương tự màng
+@Lĩnh vực: xây dựng
+#sự tương tự màng mỏng
+@Lĩnh vực: toán & tin
+#tương tự màng

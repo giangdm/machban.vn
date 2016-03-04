@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phiếu lỗ chính
+#phiếu lỗ cố định
+#phiếu lỗ hay sử dụng

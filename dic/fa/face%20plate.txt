@@ -1,0 +1,28 @@
+﻿@Chuyên ngành kỹ thuật
+#mâm cặp hoa mai
+#mâm quay
+#mặt bàn tiện
+#mặt hiển thị
+@Lĩnh vực: hóa học & vật liệu
+#đĩa ngoài
+@Lĩnh vực: cơ khí & công trình
+#mâm cặp quay (máy tiện)
+#tâm lát mặt
+@Lĩnh vực: giao thông & vận tải
+#tấm mặt (đóng tàu)
+@Lĩnh vực: điện tử & viễn thông
+#tấm mặt (ống tia catốt)
+@Chuyên ngành kỹ thuật
+#mâm cặp hoa mai
+#mâm quay
+#mặt bàn tiện
+#mặt hiển thị
+@Lĩnh vực: hóa học & vật liệu
+#đĩa ngoài
+@Lĩnh vực: cơ khí & công trình
+#mâm cặp quay (máy tiện)
+#tâm lát mặt
+@Lĩnh vực: giao thông & vận tải
+#tấm mặt (đóng tàu)
+@Lĩnh vực: điện tử & viễn thông
+#tấm mặt (ống tia catốt)

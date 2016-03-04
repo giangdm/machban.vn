@@ -1,0 +1,75 @@
+﻿@slope /sloup/
+*danh từ
+#dốc, đường dốc, chỗ dốc; độ dốc
+=slopeof a roof: độ dốc của mái nhà
+=mountain slope: sườn núi
+#(quân sự) tư thế vác súng
+=to come to the slope: đứng vào tư thế vác súng
+*nội động từ
+#nghiêng, dốc
+=the road slopes down: đường dốc xuống
+=the sun was sloping in the West: mặt trời đang lặng về phía tây
+#(từ lóng) (: off) chuồn, biến
+#(từ lóng) (: about) đi dạo
+*ngoại động từ
+#cắt nghiêng, làm nghiêng
+=to slope the neck of a dress: khoét cổ áo dài
+=to slope the sides of a pit: xây nghiêng bờ giếng (ở mỏ)
+#(quân sự) vác lên vai
+=to slope arms: vác súng lên vai
+@Chuyên ngành kinh tế
+#chỗ dốc
+#độ nghiêng (của đường cong trên đồ biểu)
+#độ nghiêng (của khúc tuyến trên đồ biểu)
+#dốc
+#đường dốc
+@Chuyên ngành kỹ thuật
+#bờ dốc
+#cặp bánh xe
+#đắp bờ
+#đắp đập
+#đắp đê
+#đặt nghiêng
+#độ chênh lệch dần
+#độ dốc
+#độ dốc mái
+#độ nghiêng
+#dốc đồi
+#dốc nghiêng
+#đường dốc
+#đường dốc (địa hình)
+#giếng nghiêng (mỏ)
+#góc nghiêng
+#građien giảm
+#hệ số góc
+#lò hạ
+#lò nghiêng
+#mái dốc
+#mặt dốc
+#mặt nghiêng
+#sườn dốc
+@Lĩnh vực: xây dựng
+#có mái dốc
+#đắp bờ dốc
+#đắp taluy
+#độ dốc dọc (tối đa)
+#độ nghhiêng
+#mái đất
+#mái ta luy
+@Lĩnh vực: toán & tin
+#độ dốc, độ nghiêng
+@Lĩnh vực: điện tử & viễn thông
+#độ hổ dẫn
+@Lĩnh vực: cơ khí & công trình
+#mặt sau của dao
+#tang của góc dốc
+@Lĩnh vực: hóa học & vật liệu
+#phỗng rót than
+<!-- more -->
+@slope
+#độ dốc, độ nghiêng
+#s. of a curve at a point độ dốc của một đường cong tại một điểm
+#s. of a straight line [hệ số góc, độ dốc] của đường thẳng
+#asymptotic s. độ nghiêng tiệm cận
+#equilibrium s. độ dốc cân bằng
+#natural s. độ dốc tự nhiên

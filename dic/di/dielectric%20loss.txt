@@ -1,0 +1,7 @@
+﻿@dielectric loss
+#(Tech) sự tổn hao điện môi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hao tán điện môi
+@Lĩnh vực: điện
+#tổn thất điện môi

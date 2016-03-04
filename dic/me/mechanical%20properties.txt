@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#những tính chất cơ học
+@Lĩnh vực: vật lý
+#tính chất cơ học

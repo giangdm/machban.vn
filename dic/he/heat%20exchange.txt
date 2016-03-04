@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự trao đổi nhiệt
+@Chuyên ngành kỹ thuật
+#sự trao đổi nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#trao đổi nhiệt

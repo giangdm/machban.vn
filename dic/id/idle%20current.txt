@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chạy không
+#dòng điện không tải
+#dòng phản kháng
+#dòng vô công
+#dòng vuông góc
+@Lĩnh vực: điện
+#dòng điện mạch hở
+@Lĩnh vực: toán & tin
+#dòng điện rỗi

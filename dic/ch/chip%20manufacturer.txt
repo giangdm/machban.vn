@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhà sản xuất chip
+#nhà sản xuất vi mạch

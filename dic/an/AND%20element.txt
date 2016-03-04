@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cổng Và
+#phần tử AND
+#phần tử Và
+#yếu tố "và"

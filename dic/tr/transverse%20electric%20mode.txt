@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểu (dao động) điện ngang
+#kiểu TE
+@Lĩnh vực: điện lạnh
+#kiểu H, điện ngang

@@ -1,0 +1,6 @@
+﻿@audio transformer
+#(Tech) bộ biến áp âm tần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biến áp âm tần
+#máy biến áp tần số âm thanh

@@ -1,0 +1,32 @@
+﻿@Chuyên ngành kỹ thuật
+#chỗ nối chồng
+#hàn chồng mí
+#mối hàn chồng chập
+#mối nối chồng
+#mối nối phủ
+@Lĩnh vực: hóa học & vật liệu
+#khớp nối chồng
+@Lĩnh vực: xây dựng
+#liên kết chồng
+@Lĩnh vực: điện tử & viễn thông
+#nối ghép chồng
+@Lĩnh vực: toán & tin
+#mối nối chập
+@Lĩnh vực: ô tô
+#sự ghép mí
+@Chuyên ngành kỹ thuật
+#chỗ nối chồng
+#hàn chồng mí
+#mối hàn chồng chập
+#mối nối chồng
+#mối nối phủ
+@Lĩnh vực: hóa học & vật liệu
+#khớp nối chồng
+@Lĩnh vực: xây dựng
+#liên kết chồng
+@Lĩnh vực: điện tử & viễn thông
+#nối ghép chồng
+@Lĩnh vực: toán & tin
+#mối nối chập
+@Lĩnh vực: ô tô
+#sự ghép mí

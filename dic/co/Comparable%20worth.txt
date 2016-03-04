@@ -1,0 +1,3 @@
+﻿@Comparable worth
+#(Econ) Giá trị có thể so sánh.
+: Lương ngang nhau trả cho công việc có giá trị ngang nhau.

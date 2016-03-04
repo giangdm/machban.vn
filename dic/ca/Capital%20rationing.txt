@@ -1,0 +1,3 @@
+﻿@Capital rationing
+#(Econ) Định mức vốn
+: Được dùng để xác định một tình huống, trong đó sự hạn hẹp ngân sách về lượng tiền sẵn có cho đầu tư và các dự án trên mức ràng buộc thị trường thông thường được quyết định bởi mối liên hệ giữa chi phí vốn và lợi tức dự kiến.

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy đầu cuối
+@Chuyên ngành kỹ thuật
+#thiết bị đầu cuối
+@Lĩnh vực: xây dựng
+#đơn vị cuối cùng
+#thiết bị cuối (máy tính điện tử)

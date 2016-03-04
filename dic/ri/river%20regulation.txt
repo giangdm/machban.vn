@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#nắn dòng
+#sự cải tạo sông
+#sự chỉnh dòng sông
+#sự điều tiết dòng sông
+@Lĩnh vực: xây dựng
+#công tác chỉnh (dòng sông)
+#sự chỉnh dòng
+@Lĩnh vực: cơ khí & công trình
+#sự chỉnh trị sông
+#sự điều tiết sông
+@Lĩnh vực: toán & tin
+#sự nắn dòng sông

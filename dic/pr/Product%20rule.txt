@@ -1,0 +1,3 @@
+﻿@Product rule
+#(Econ) Quy tắc tích số.
+: Một quy tắc để xác định đạo hàm của một hàm theo một biến, khi hàm số bao gồm tích của hai hoặc nhiều hàm số riêng biệt của biến số.

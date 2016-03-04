@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#không khí ẩm
+@Lĩnh vực: điện lạnh
+#khí quyển ẩm
+@Lĩnh vực: môi trường
+#môi trường không khí ẩm

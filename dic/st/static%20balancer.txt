@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chia điện áp
+@Lĩnh vực: điện
+#bộ cân bằng tĩnh
+@Lĩnh vực: điện lạnh
+#bộ nối cân bằng tĩnh

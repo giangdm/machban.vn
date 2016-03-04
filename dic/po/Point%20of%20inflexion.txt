@@ -1,0 +1,3 @@
+﻿@Point of inflexion
+#(Econ) Điểm uốn.
+: Một điển trên đồ thị, hoặc hàm số mà tỷ lệ thay đổi của độ dốc của hàm số đổi dấu. Điều này cho thấy rằng khi đạo hàm thứ hai của hàm số bằng 0.

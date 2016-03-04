@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#hai đỉnh
+#hai giá cao nhất liên tiếp nhau (chứng khoán)

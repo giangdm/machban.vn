@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số lan truyền
+#hệ số truyền
+#hệ số truyền dẫn
+@Lĩnh vực: toán & tin
+#thừa số lan truyền

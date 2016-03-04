@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tham số tới hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#thông số tới hạn

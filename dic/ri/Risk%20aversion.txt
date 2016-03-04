@@ -1,0 +1,6 @@
+﻿@Risk aversion
+#(Econ) Sự sợ rủi ro, không thích rủi ro.
+: Là kỳ vọng của nhà đầu tư muốn có lợi tức dự kiến cao hơn để bù đắp sự gia tăng độ rủi ro.
+@Chuyên ngành kinh tế
+#sự không thích rủi ro
+#sự không thích rủi ro (của người tiêu dùng)

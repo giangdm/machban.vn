@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy in xích chữ
+@Lĩnh vực: toán & tin
+#máy in chuỗi

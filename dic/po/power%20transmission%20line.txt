@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đường tải điện
+#đường truyền điện lực
+#lưới điện
+#lưới điện chính
+@Lĩnh vực: điện lạnh
+#đường truyền công suất

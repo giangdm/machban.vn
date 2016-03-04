@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kèo chính
+#thanh căng rầm đỡ kèo
+#thanh dui chính
+#thanh kèo chính
+#xà mái nghiêng chính (biên trên của sàn tam giác)

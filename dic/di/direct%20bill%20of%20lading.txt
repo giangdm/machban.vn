@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#vận đơn chở thẳng
+#vận đơn chở thẳng (không phải sang tàu tiếp vận)
+#vận đơn trực tiếp

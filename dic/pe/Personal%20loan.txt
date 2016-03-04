@@ -1,0 +1,7 @@
+﻿@Personal loan
+#(Econ) Khoản vay cho cá nhân.
+: Khoản vay do ngân hàng và một số thể chế tài chính khác quy định cho những người đi vay mang tính cá nhân (có nghĩa là không để kinh doanh) để mua hàng tiêu dùng, để sửa chữa nhà cửa…. Và có thể được thanh toán lại trong một khoảng thời gian.
+@Chuyên ngành kinh tế
+#khoản cá nhân vay
+#khoản vay cá nhân
+#khoản vay tiêu dùng

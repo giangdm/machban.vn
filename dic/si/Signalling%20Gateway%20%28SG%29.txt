@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cổng mạng báo hiệu (cổng chỉ hỗ trợ lưu lượng báo hiệu chứ không có lưu lượng mang )

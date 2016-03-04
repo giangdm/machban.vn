@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ giãn dài riêng
+#sự giãn dài trên đơn vị dài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ giãn dài riêng
+#sự giãn dài trên đơn vị dài

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạch tích hợp có một hàng chân cắm
+#vỏ có một hàng chân

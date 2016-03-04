@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự hút gió
+#sự thông gió nhân tạo
+@Lĩnh vực: xây dựng
+#sự hút bằng cơ khí
+@Lĩnh vực: hóa học & vật liệu
+#thông gió tự nhiên

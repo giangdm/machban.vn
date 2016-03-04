@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhập nối tiếp-xuất song song
+#vào nối tiếp-ra song song

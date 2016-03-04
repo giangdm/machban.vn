@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#số có thể chấp nhận được
+@Chuyên ngành kỹ thuật
+#mức chấp nhận được

@@ -1,0 +1,6 @@
+﻿@intervalometer
+*danh từ
+#cái kiểm soát khoảng cách (của máy ảnh)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ định giờ

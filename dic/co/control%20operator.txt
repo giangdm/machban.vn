@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#điều độ viên
+@Lĩnh vực: xây dựng
+#điều phối viên
+#toán tử điều khiển
+@Lĩnh vực: đo lường & điều khiển
+#người thao tác điều khiển

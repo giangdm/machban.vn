@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#chất tạo nhũ tương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#chất nhũ hóa
+#chất tạo nhũ tương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#chất nhũ hóa
+#chất tạo nhũ tương

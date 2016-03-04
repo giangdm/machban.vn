@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu lượng kế
+#lưu lượng kế (chất lỏng)
+@Lĩnh vực: điện lạnh
+#bộ chỉ thị dòng lỏng
+#chỉ thị dòng lỏng
+@Chuyên ngành kỹ thuật
+#lưu lượng kế
+#lưu lượng kế (chất lỏng)
+@Lĩnh vực: điện lạnh
+#bộ chỉ thị dòng lỏng
+#chỉ thị dòng lỏng

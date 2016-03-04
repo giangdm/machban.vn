@@ -1,0 +1,5 @@
+﻿@Transactions demand for money
+#(Econ) Cầu về tiền giao dịch.
+: Một động cơ đòi hỏi có tiền để phục vụ mục đích giao dịch, nghĩa là thanh toán và nhận thanh toán, sử dụng tiền với chức năng của nó là phương tiện trao đổi.
+@Chuyên ngành kinh tế
+#nhu cầu tiền tệ cho chi phí sử dụng

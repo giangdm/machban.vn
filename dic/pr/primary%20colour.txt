@@ -1,0 +1,18 @@
+﻿@primary colour
+*danh từ
+#màu gốc, màu chính
+@Chuyên ngành kinh tế
+#chất màu cơ bản
+#chất màu dầu
+@Chuyên ngành kỹ thuật
+#màu chủ yếu
+#màu cơ bản
+#màu gốc
+@Lĩnh vực: toán & tin
+#màu chính
+@Lĩnh vực: hóa học & vật liệu
+#màu nguyên thủy
+@Lĩnh vực: điện tử & viễn thông
+#màu sắc sơ cấp
+@Lĩnh vực: điện
+#màu sơ cấp

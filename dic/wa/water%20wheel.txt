@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bánh xe nước
+#guồng nước
+@Lĩnh vực: xây dựng
+#bánh thủy lực
+#tua bin thủy lực
+@Lĩnh vực: điện lạnh
+#tua bin nước

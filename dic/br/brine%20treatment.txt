@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự xử lý bằng muối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#xử lý nước muối

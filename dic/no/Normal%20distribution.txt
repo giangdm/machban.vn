@@ -1,0 +1,16 @@
+﻿@Normal distribution
+#(Econ) Phân phối chuẩn
+@Chuyên ngành kinh tế
+#phân phối chuẩn
+@Chuyên ngành kỹ thuật
+#phân bố chuẩn
+#phân phối Gauss
+#sự phân bố chuẩn
+#sự phân bố Gauss
+@Lĩnh vực: điện lạnh
+#phân bố chuẩn (tắc)
+@Lĩnh vực: toán & tin
+#phân phối chuẩn
+#phân phối chuẩn (tắc)
+@Lĩnh vực: xây dựng
+#sự phân phối chuẩn

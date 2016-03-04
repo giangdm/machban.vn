@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ số lỗi ký tự
+#suất lỗi ký tự
+@Lĩnh vực: toán & tin
+#tỉ lệ lối kí tự

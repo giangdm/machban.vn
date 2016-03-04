@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khối lượng tới hạn
+#số lượng tới hạn
+@Chuyên ngành kỹ thuật
+#khối lượng tới hạn

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#quỹ để dành
+#quỹ dự phòng
+#quỹ dự trữ hưu bổng
+#quỹ tiết kiệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quỹ tích kiệm hưu bổng

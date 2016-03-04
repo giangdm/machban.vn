@@ -1,0 +1,12 @@
+﻿@floatable /floatable/
+*tính từ
+#có thể nổi, nổi trên mặt nước
+#có thể đi được (sông, suối)
+@Chuyên ngành kỹ thuật
+#có thể nổi
+@Lĩnh vực: hóa học & vật liệu
+#nổi được
+@Chuyên ngành kỹ thuật
+#có thể nổi
+@Lĩnh vực: hóa học & vật liệu
+#nổi được

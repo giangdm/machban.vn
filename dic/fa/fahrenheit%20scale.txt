@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#thang đo
+@Chuyên ngành kỹ thuật
+#nhiệt giai Fahrenheit
+@Lĩnh vực: điện lạnh
+#thang nhiệt độ Fahrenheit
+@Chuyên ngành kỹ thuật
+#thang đo
+@Chuyên ngành kỹ thuật
+#nhiệt giai Fahrenheit
+@Lĩnh vực: điện lạnh
+#thang nhiệt độ Fahrenheit

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phương tiện điều khiển truyền thông của mạng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình điều khiển truyền thông mạng

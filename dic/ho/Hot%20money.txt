@@ -1,0 +1,9 @@
+﻿@Hot money
+#(Econ) Tiền nóng.
+: Một quốc gia có lãi suất cao sẽ thu hút tiền từ nước ngoài vào.
+@Chuyên ngành kinh tế
+#vốn nổi
+<!-- more -->
+@hot money
+*danh từ
+#số tiền thường xuyênluân chuyển để sinh lợi, tiền nóng

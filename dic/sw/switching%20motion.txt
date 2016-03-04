@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự chuyển mạch
+#sự sang số
+@Lĩnh vực: cơ khí & công trình
+#chuyển động đóng mở

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kẹp kiểu vít
+@Lĩnh vực: cơ khí & công trình
+#hàm kẹp
+#kẹp chữ C

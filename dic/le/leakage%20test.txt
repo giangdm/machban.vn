@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#sự thử độ chảy rò
+#sự thử độ kín
+@Chuyên ngành kỹ thuật
+#sự thử chỗ rò
+@Lĩnh vực: xây dựng
+#thí nghiệm chống rò
+@Lĩnh vực: điện
+#thử độ rò
+@Chuyên ngành kỹ thuật
+#sự thử chỗ rò
+@Lĩnh vực: xây dựng
+#thí nghiệm chống rò
+@Lĩnh vực: điện
+#thử độ rò

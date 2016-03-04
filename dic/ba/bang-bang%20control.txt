@@ -1,0 +1,2 @@
+﻿@bang-bang control
+#(Tech) điều khiển kiểu đóng-mở [TQ]

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sợi nhiều chế độ
+@Lĩnh vực: vật lý
+#sợi nhiều kiểu dao động

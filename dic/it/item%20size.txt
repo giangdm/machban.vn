@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cỡ khoản mục
+@Lĩnh vực: toán & tin
+#kích thước mục

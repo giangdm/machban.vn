@@ -1,0 +1,2 @@
+﻿@floating-gate PROM
+#(Tech) PROM cổng phù động

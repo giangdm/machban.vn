@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sắt non
+@Lĩnh vực: xây dựng
+#sắt mềm
+@Lĩnh vực: cơ khí & công trình
+#sắt thường

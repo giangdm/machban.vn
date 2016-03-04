@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#người khai thác mạng
+@Lĩnh vực: toán & tin
+#người thao tác mạng
+#người vận hành mạng

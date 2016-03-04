@@ -1,0 +1,12 @@
+﻿@Dynamic programming
+#(Econ) Quy hoạch động.
+: Một tập hợp các kỹ thuật toán học để giải các loại bài toán chuỗi ra quyết định.
+<!-- more -->
+@dynamic programming
+#(Tech) thảo chương động
+@Chuyên ngành kinh tế
+#phương pháp quy hoạch động
+#quy hoạch động
+@Chuyên ngành kỹ thuật
+#quy hoạch động
+#sự lập trình động

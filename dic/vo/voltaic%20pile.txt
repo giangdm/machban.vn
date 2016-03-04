@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#pin Volta (dạng sơ cấp đầu tiên)
+@Lĩnh vực: điện
+#pin Vonta

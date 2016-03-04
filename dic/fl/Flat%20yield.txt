@@ -1,0 +1,11 @@
+﻿@Flat yield
+#(Econ) Tiền lãi đồng loạt.
+: Một khoản tiền hàng năm được tính vào tiền lãi của một chứng khoán biểu hiện bằng tỷ lệ % của giá mua.
+@Chuyên ngành kinh tế
+#lợi suất ròng (của chứng khoán có lãi cố định)
+#mức sinh lợi thực tế (hàng năm)
+#suất thu nhập đồng loạt
+@Chuyên ngành kỹ thuật
+#bãi bằng
+@Chuyên ngành kỹ thuật
+#bãi bằng

@@ -1,0 +1,9 @@
+﻿@display type
+#kiểu hiển thị
+@Chuyên ngành kinh tế
+#cỡ chữ nổi lớn (để in quảng cáo)
+@Chuyên ngành kỹ thuật
+#kiểu chữ nhấn mạnh
+#kiểu chữ tít
+@Lĩnh vực: toán & tin
+#chữ màn hình

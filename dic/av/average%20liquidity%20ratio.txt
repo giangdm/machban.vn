@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tỉ lệ tiền lưu động bình quân
+#tỉ lệ xoay vòng (tiền mặt) bình quân
+#tỉ suất chu chuyển bình quân

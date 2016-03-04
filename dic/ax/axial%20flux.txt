@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dòng chảy hướng trục
+@Lĩnh vực: cơ khí & công trình
+#dòng hướng tâm

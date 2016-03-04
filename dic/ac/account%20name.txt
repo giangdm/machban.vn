@@ -1,0 +1,2 @@
+﻿@account name
+#(Tech) tên chương mục, tên tài khoản

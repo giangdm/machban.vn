@@ -1,0 +1,13 @@
+﻿@precoat
+*danh từ
+#lớp sơn lót, lớp mạ lót
+*ngoại động từ
+#sơn lót; mạ lót
+@Chuyên ngành kinh tế
+#lớp vật liệu lọc
+@Chuyên ngành kỹ thuật
+#lớp phủ
+#lớp sơn lót
+@Lĩnh vực: xây dựng
+#quét sơn lót
+#sơn lót (màu)

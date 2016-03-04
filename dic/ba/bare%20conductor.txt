@@ -1,0 +1,10 @@
+﻿@bare conductor
+#(Tech) dây dẫn trần
+@Chuyên ngành kỹ thuật
+#dây trần
+@Lĩnh vực: điện
+#dây dẫn không bọc
+#dây dẫn trần
+#vật dẫn trần
+@Lĩnh vực: điện lạnh
+#dây không bọc (cách điện)

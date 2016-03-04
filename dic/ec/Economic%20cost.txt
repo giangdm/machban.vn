@@ -1,0 +1,6 @@
+﻿@Economic cost
+#(Econ) Chi phí kinh tế.
+@Chuyên ngành kinh tế
+#chi phí kinh tế
+#phí tổn kinh tế
+#phí tổn tiết kiệm

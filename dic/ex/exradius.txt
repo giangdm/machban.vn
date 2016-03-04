@@ -1,0 +1,2 @@
+﻿@exradius
+#bán kính của vòng tròn bàng tiếp (một tam giác)

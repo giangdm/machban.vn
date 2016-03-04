@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy hàn tấm đối cạnh
+#máy hàn tấm giáp mối

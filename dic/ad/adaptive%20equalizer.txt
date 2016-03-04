@@ -1,0 +1,5 @@
+﻿@adaptive equalizer
+#(Tech) bộ cân bằng điều ứng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ san bằng thích nghi

@@ -1,0 +1,4 @@
+﻿@how-to
+*danh từ
+#sách hướng dẫn thực hiện một việc gì đó
+=She is reading a how-to on Vietnamese typing:Cô ta đang đọc sách hướng dẫn đánh máy tiếng Việt

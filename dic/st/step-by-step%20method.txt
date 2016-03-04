@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phương pháp (gần đúng) từng bước
+@Lĩnh vực: cơ khí & công trình
+#phương pháp lùi từng bước
+#phương pháp phân cấp (khoan)

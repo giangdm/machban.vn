@@ -1,0 +1,2 @@
+﻿@auto decompressor
+#(Tech) máy giảm áp tự động

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ sở dữ liệu tương quan
+@Lĩnh vực: toán & tin
+#cơ sở dữ liệu quan hệ

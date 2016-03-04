@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tốc độ khuấy trộn
+#vận tốc khuấy trộn

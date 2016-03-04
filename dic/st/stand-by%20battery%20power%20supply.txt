@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#bộ nguồn ắcqui dự phòng
+@Lĩnh vực: điện
+#nguồn nuôi ắcqui dự phòng

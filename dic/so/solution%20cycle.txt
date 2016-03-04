@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu trình (vòng tuần hoàn) dung dịch
+#chu trình dung dịch
+#vòng tuần hoàn dung dịch

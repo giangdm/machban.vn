@@ -1,0 +1,4 @@
+﻿@indecomposability
+#tính không khai triển được, tính không phân tích được
+@Chuyên ngành kỹ thuật
+#không phân tích được

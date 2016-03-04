@@ -1,0 +1,2 @@
+﻿@exe
+#Trong DOS, đây là một đuôi mở rộng, chỉ rõ tệp tin đó là một chương trình chạy được

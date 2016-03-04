@@ -1,0 +1,8 @@
+﻿@Dividend cover
+#(Econ) Mức bảo chứng cổ tức.
+: Tỷ số lợi nhuận trên cổ phiếu thông thường so với tổng lợi tức trên cổ phiếu.
+@Chuyên ngành kinh tế
+#mức bảo chứng cổ tức
+#mức bảo đảm cổ tức (của công ty)
+#mức đảm bảo trang trải cổ tức
+#tỉ suất giữa lãi ròng và cổ tức

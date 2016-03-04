@@ -1,0 +1,9 @@
+﻿@ambient temperature
+#(Tech) ôn độ chung quanh
+@Chuyên ngành kinh tế
+#nhiệt độ môi trường xung quanh
+@Chuyên ngành kỹ thuật
+#nhiệt độ môi trường
+#môi trường
+@Lĩnh vực: điện lạnh
+#nhiệt độ xung quanh

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm đông cứng
+#điểm đông đặc
+#điểm hóa rắn
+#nhiệt độ đông đặc
+@Lĩnh vực: điện lạnh
+#điểm đóng rắn
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt độ hóa rắn

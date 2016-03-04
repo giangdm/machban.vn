@@ -1,0 +1,11 @@
+﻿@Well-behaved
+#(Econ) Có hành vi tốt.
+: Một thuộc tính của hàm sản xuất và độ thoả dụng. Nó đòi hỏi sản xuất (độ thoả dụng) bằng 0 nếu một trong những đầu vào (hàng hoá) bằng 0 và nó cũng đòi hỏi sản phẩm biên (độ thoả dụng luôn luôn dương nhưng giảm dần khi những lượng của một yếu tố sản xuất (hàng hoá) đã cho nào đó tăng dần.
+<!-- more -->
+@well-behaved /'welbi'heivd/
+*tính từ
+#có hạnh kiểm tốt, có giáo dục
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chạy tốt
+#hoạt động tốt

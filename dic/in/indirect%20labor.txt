@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#lao động gián tiếp
+#nhân công gián tiếp
+@Chuyên ngành kỹ thuật
+#lao động gián tiếp

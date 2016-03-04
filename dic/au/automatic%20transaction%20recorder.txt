@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ ghi giao dịch tự động
+#bộ ghi toàn tác tự động

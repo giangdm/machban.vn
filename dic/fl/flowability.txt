@@ -1,0 +1,20 @@
+﻿@flowability
+*danh từ
+#khả năng chảy; tính dễ chảy; tính dễ nắn
+=flowability of plastics:tính dễ chảy của chất dẻo
+@Chuyên ngành kỹ thuật
+#độ chảy
+@Lĩnh vực: xây dựng
+#độ chảy loãng
+#độ lưu động
+#tính chảy loãng
+@Lĩnh vực: cơ khí & công trình
+#độ lưu lượng
+@Chuyên ngành kỹ thuật
+#độ chảy
+@Lĩnh vực: xây dựng
+#độ chảy loãng
+#độ lưu động
+#tính chảy loãng
+@Lĩnh vực: cơ khí & công trình
+#độ lưu lượng

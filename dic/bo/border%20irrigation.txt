@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự tưới ngập bờ ngăn
+#sự tưới tràn bờ
+@Lĩnh vực: xây dựng
+#sự tưới nước tràn bờ
+@Lĩnh vực: cơ khí & công trình
+#tưới theo bờ khoanh vùng

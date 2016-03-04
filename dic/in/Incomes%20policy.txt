@@ -1,0 +1,5 @@
+﻿@Incomes policy
+#(Econ) Chính sách thu nhập.
+: Ý định của chính phủ muốn kiểm soát tiền công bằng một hình thức can thiệp nào đó vào quá trình thương thuyết về tiền công.
+@Chuyên ngành kinh tế
+#chính sách về thu nhập

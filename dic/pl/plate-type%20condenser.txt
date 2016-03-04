@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị ngưng tụ phiến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dàn ngưng kiểu tấm

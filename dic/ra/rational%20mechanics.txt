@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cơ học thuần lý
+@Lĩnh vực: toán & tin
+#cơ học thuần túy

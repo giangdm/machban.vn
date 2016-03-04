@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mạng vòng
+@Lĩnh vực: điện tử & viễn thông
+#mạng hình vòng
+@Lĩnh vực: toán & tin
+#mạng vòng lặp
+#vòng lặp

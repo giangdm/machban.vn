@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sức bền va đập
+#sức chống va đập
+@Lĩnh vực: xây dựng
+#tính chịu được va chạm

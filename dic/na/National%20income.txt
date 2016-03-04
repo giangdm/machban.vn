@@ -1,0 +1,5 @@
+﻿@National income
+#(Econ) Thu nhập quốc dân.
+: Là thước đo giá trị tiền tệ và hàng hoá và dịch vụ được cung cấp trên toàn quốc từ hoạt động kinh tế.
+@Chuyên ngành kinh tế
+#thu nhập quốc gia

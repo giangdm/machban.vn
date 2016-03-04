@@ -1,0 +1,10 @@
+﻿@insurance policy
+*danh từ
+#hợp đồng bảo hiểm, bảo khoán
+@Chuyên ngành kinh tế
+#đơn bảo hiểm
+#khế ước bảo hiểm
+@Chuyên ngành kỹ thuật
+#chính sách bảo hiểm
+@Lĩnh vực: xây dựng
+#hợp đồng bảo hiểm

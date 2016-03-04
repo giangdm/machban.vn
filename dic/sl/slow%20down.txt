@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giảm bớt hoạt động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#chạy chậm dần

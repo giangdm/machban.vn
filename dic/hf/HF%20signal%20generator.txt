@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy phát điện tín hiệu HF
+#máy phát tín hiệu cao tần

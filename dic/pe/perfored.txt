@@ -1,0 +1,2 @@
+﻿@perfored
+#đục lỗ (thiết bị lưu trữ thông tin trong đó dữ liệu được biểu diện bằng các lỗ hổng đục theo cột)

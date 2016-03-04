@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bảng thang lương
+#mức lương
+#tiêu chuẩn lương
+@Chuyên ngành kỹ thuật
+#mức lương bổng
+@Lĩnh vực: xây dựng
+#giá tiền lương

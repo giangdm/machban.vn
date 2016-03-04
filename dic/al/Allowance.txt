@@ -1,0 +1,60 @@
+﻿@Allowance
+#(Econ) Phần tiền trợ cấp.
+<!-- more -->
+@allowance /ə'lauəns/
+*danh từ
+#sự cho phép
+#sự thừa nhận, sự công nhận, sự thú nhận
+=by his own allowance: do chính anh ta thừa nhận
+#tiền trợ cấp; tiền cấp phát; tiền bỏ túi, tiền tiêu vặt
+=to get a very small allowance from home every month: hàng tháng nhận được của gia đình gửi cho một số tiền nhỏ
+=family allowance fund: quỹ trợ cấp gia đình đông con
+#phần tiền, khẩu phần, phần ăn
+=to put the men on half allowance: (quân sự) cho quân lính ăn nửa khẩu phần
+=to be on short allowance: bị hạn chế khẩu phần
+=at no allowance: không hạn chế
+=to reduce the allowance of water: giảm khẩu phần nước
+=do not take more than your usual allowance: không được ăn quá khẩu phần thường lệ
+#sự kể đến, sự tính đến, sự chiếu cố đến, sự dung thứ
+=to make allowances for the difference of age: kể đến (chiếu cố đến) sự khác nhau về tuổi
+=to make allowance for youth: chiếu cố đến tuổi trẻ, dung thứ cho tuổi trẻ
+#sự trừ, sự bớt
+=to make allowance for the tare: trừ bì
+#(kỹ thuật); (vật lý) hạn định cho phép
+*ngoại động từ
+#chia phần ăn cho
+#cấp một số tiền cho (ai), trợ cấp
+@Chuyên ngành kinh tế
+#bớt giá
+#dung sai
+#khẩu phần
+#khoản miễn giảm
+#tiền chiết khấu, tiền trợ cấp, tiền khấu trừ
+#tiền dự trữ
+@Chuyên ngành kỹ thuật
+#chiết khấu
+#độ dôi
+#dung hạn
+#dung sai
+#lượng dư
+#lượng thừa
+#phụ cấp
+#sai số cho phép
+#sự bồi thường
+#sự cho phép
+#sự đền bù
+#sự thừa nhận
+#tiền trợ cấp
+@Lĩnh vực: toán & tin
+#cho chạy tiếp
+#sự được phép
+#sự được thừa nhận
+#tiền boa
+@Lĩnh vực: cơ khí & công trình
+#dung sai cho phép
+#hạn định cho phép
+@Lĩnh vực: xây dựng
+#số tiền trừ đi
+<!-- more -->
+@allowance
+#(máy tính) cho vay tiếp; (toán kinh tế) tiền trợ cấp; tiền hoa hồng

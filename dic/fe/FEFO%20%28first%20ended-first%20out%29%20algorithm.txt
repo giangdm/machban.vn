@@ -1,0 +1,2 @@
+﻿@FEFO (first ended-first out) algorithm
+#(Tech) thuật toán xong trước ra trước

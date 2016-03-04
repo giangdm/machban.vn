@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hoạt động không đồng bộ
+#phép toán bất đồng bộ
+#thao tác không đồng bộ

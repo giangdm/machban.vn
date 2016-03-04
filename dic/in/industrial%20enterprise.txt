@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#xí nghiệp công nghiệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#xí nghiệp công nghiệp

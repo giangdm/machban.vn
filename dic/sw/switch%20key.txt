@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#cái ngắt mạch
+@Lĩnh vực: toán & tin
+#khóa chuyển mạch
+#khóa ngắt mạch

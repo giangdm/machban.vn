@@ -1,0 +1,6 @@
+﻿@array processing
+#(Tech) xử lý dẫy số
+@Chuyên ngành kỹ thuật
+#xử lý mảng
+@Lĩnh vực: toán & tin
+#xử lý song song

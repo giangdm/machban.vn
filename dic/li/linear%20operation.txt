@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép toán tuyến tính
+@Lĩnh vực: điện
+#sự vận hành tuyến tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép toán tuyến tính
+@Lĩnh vực: điện
+#sự vận hành tuyến tính

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nghiên cứu ứng dụng
+#sự nghiên cứu ứng dụng
+@Chuyên ngành kỹ thuật
+#nghiên cứu tính thực tiễn
+#nghiến cứu ứng dụng

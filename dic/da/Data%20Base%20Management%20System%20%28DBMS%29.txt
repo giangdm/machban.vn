@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ quản lí đế dữ liệu
+@Lĩnh vực: toán & tin
+#hệ quản trị cơ sở dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống quản lý cơ sở dữ liệu

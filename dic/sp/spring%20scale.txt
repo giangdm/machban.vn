@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#thước lò xo (đo sự thay đổi áp lực của lò xo)

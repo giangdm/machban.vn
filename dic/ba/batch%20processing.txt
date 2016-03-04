@@ -1,0 +1,17 @@
+﻿@batch processing
+#(Tech) xử lý theo lô
+@Chuyên ngành kinh tế
+#sự xử lý hàng loạt
+@Chuyên ngành kỹ thuật
+#sự vận hành từng mẻ
+#sự xử lý phân đoạn
+#sự xử lý từng lô
+#sự xử lý từng mẻ
+@Lĩnh vực: toán & tin
+#sự xử lý lô
+#xử lý bó
+#xử lý lô
+@Lĩnh vực: điện tử & viễn thông
+#sự xử lý theo lô
+@Lĩnh vực: xây dựng
+#xử lý đợt

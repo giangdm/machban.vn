@@ -1,0 +1,9 @@
+﻿@conversion table
+#(Tech) bảng chuyển đổi/hoán, bảng đối chiếu
+@Chuyên ngành kinh tế
+#bảng quy đổi
+@Chuyên ngành kỹ thuật
+#bảng chuyển đổi
+#bảng dịch
+@Lĩnh vực: điện tử & viễn thông
+#bảng biến đổi

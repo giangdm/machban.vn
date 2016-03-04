@@ -1,0 +1,5 @@
+﻿@computer tape
+#(Tech) băng điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#băng máy tính

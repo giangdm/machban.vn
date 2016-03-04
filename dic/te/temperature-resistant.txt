@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#chịu được nóng
+#chịu nóng
+@Lĩnh vực: điện lạnh
+#chịu nhiệt cao
+@Lĩnh vực: xây dựng
+#chống nóng

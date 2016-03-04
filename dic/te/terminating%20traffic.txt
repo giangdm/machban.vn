@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu lượng xong
+@Lĩnh vực: xây dựng
+#giao thông về đến đích
+@Lĩnh vực: điện tử & viễn thông
+#lưu lượng đầu cuối
+#lưu lượng đến kết thúc

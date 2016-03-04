@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#hàn nối đầu
+#sự hàn đối đâu
+#sự hàn đối tiếp
+#sự hàn giáp mối
+@Lĩnh vực: điện lạnh
+#hàn đối đầu
+#hàn giáp mối
+@Lĩnh vực: điện
+#hàn mút
+@Lĩnh vực: xây dựng
+#sự hàn đầu tiếp đầu
+#sự hàn đối
+#sự hàn giáp
+@Lĩnh vực: hóa học & vật liệu
+#sự hàn đối đầu

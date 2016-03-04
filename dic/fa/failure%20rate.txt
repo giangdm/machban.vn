@@ -1,0 +1,38 @@
+﻿@failure rate
+#(Tech) tỷ suất hư hỏng, mức độ hư hỏng
+@Chuyên ngành kỹ thuật
+#suất lỗi
+#suất sự cố
+#xác suất hỏng
+@Lĩnh vực: toán & tin
+#tần số hỏng hóc
+#tỷ lệ hỏng
+#tỷ lệ lỗi
+#tỷ lệ thất bại
+#tỷ suất sai hỏng
+@Lĩnh vực: điện
+#tần suất sự cố
+@Lĩnh vực: xây dựng
+#tốc độ sự cố
+@Lĩnh vực: cơ khí & công trình
+#tỷ lệ sự cố
+@Lĩnh vực: điện tử & viễn thông
+#tỷ suất hư hỏng
+@Chuyên ngành kỹ thuật
+#suất lỗi
+#suất sự cố
+#xác suất hỏng
+@Lĩnh vực: toán & tin
+#tần số hỏng hóc
+#tỷ lệ hỏng
+#tỷ lệ lỗi
+#tỷ lệ thất bại
+#tỷ suất sai hỏng
+@Lĩnh vực: điện
+#tần suất sự cố
+@Lĩnh vực: xây dựng
+#tốc độ sự cố
+@Lĩnh vực: cơ khí & công trình
+#tỷ lệ sự cố
+@Lĩnh vực: điện tử & viễn thông
+#tỷ suất hư hỏng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp trục
+@Lĩnh vực: điện lạnh
+#cáp trục đứng

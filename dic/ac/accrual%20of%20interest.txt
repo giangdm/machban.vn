@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự lũy kế lợi tức
+#tự động cộng lãi vào vốn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự tích lũy lợi nhuận

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phí suất tịnh
+#suất giá thuần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#vận tốc thực

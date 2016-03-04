@@ -1,0 +1,4 @@
+﻿@auxiliary memory
+#(Tech) bộ nhớ phụ
+@Chuyên ngành kỹ thuật
+#bộ nhớ phụ

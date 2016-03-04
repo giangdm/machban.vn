@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt động lạnh
+@Lĩnh vực: vật lý
+#nhiệt động học lạnh

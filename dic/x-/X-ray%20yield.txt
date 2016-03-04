@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#hiệu suất tia Rontgen
+#hiệu xuất tia x

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất toàn phần
+@Lĩnh vực: xây dựng
+#sức ép toàn phần
+#ứng suất toàn phần

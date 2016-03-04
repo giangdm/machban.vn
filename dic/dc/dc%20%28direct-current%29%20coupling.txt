@@ -1,0 +1,2 @@
+﻿@dc (direct-current) coupling
+#(Tech) ghép điện một chiều

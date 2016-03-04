@@ -1,0 +1,8 @@
+﻿@damping coefficient
+#(Tech) hệ số suy giảm
+@Chuyên ngành kỹ thuật
+#hệ số cản
+#hệ số giảm
+#hệ số suy giảm
+#hệ số tắt
+#hệ số tắt dần

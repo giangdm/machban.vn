@@ -1,0 +1,2 @@
+﻿@buffered interface
+#(Tech) giao diện đệm

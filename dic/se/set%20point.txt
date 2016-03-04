@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm đã cho
+@Lĩnh vực: đo lường & điều khiển
+#điểm đặt
+@Lĩnh vực: hóa học & vật liệu
+#điểm đóng rắn
+@Lĩnh vực: cơ khí & công trình
+#giá trị đã cho (của đại lượng điều chỉnh)
+@Lĩnh vực: điện lạnh
+#tín hiệu định chuẩn

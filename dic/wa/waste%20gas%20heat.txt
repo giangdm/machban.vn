@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt khí thải
+#nhiệt khí xả
+@Lĩnh vực: ô tô
+#nhiệt của khí thải

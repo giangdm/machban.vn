@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ xử lý gắn kèm
+#bộ xử lý gắn thêm
+#bộ xử lý nối kết

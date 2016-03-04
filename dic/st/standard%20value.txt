@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giá trị tiêu chuẩn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giá trị chuẩn

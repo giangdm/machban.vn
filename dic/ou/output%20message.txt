@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thông báo ra
+@Lĩnh vực: toán & tin
+#thông báo xuất
+@Lĩnh vực: xây dựng
+#thông tin (đưa) ra
+#thông tin xuất

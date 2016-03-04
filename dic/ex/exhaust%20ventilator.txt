@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#quạt hút thải
+#quạt thải
+@Lĩnh vực: hóa học & vật liệu
+#quạt xả
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#quạt hút thải
+#quạt thải
+@Lĩnh vực: hóa học & vật liệu
+#quạt xả

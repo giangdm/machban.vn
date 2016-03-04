@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#in màn hình
+#sổ màn hình
+#sự kết xuất màn hình
+#sự xổ màn hình

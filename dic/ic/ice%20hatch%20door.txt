@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cửa (chất) đá
+#cửa chất (nước) đá
+#cửa chuyển (nước) đá (vào kho)
+#cửa chuyển đá (vào kho)

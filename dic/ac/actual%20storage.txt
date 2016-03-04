@@ -1,0 +1,2 @@
+﻿@actual storage
+#(Tech) bộ trữ hữu hiệu

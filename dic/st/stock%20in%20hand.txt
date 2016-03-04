@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hàng có sẵn để bán
+#hàng có sẵn trong kho
+#hàng trữ hiện có

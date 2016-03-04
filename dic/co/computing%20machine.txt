@@ -1,0 +1,6 @@
+﻿@computing machine
+#(Tech) máy tính
+@Chuyên ngành kỹ thuật
+#máy tính
+@Lĩnh vực: toán & tin
+#máy tính toán

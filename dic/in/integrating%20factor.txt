@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhân tử lấy tích phân
+@Lĩnh vực: toán & tin
+#nhân tử tích hợp

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng bảo vệ
+#vòng chống ghi
+@Lĩnh vực: toán & tin
+#vòng an toàn

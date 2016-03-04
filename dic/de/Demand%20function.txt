@@ -1,0 +1,10 @@
+﻿@Demand function
+#(Econ) Hàm cầu
+: Một biểu thức đại số của BIỂU ĐỒ CẦU được diễn đạt bằng các số hạng tổng quát hoặc với các giá trị bằng các con số cụ thể cho các tham số khác nhau và thường bao gồm các yếu tố ảnh hưởng đến cầu.
+@Chuyên ngành kinh tế
+#hàm cầu
+#hàm số nhu cầu
+@Chuyên ngành kỹ thuật
+#hàm cầu
+@Lĩnh vực: toán & tin
+#hàm cầu (kinh tế)

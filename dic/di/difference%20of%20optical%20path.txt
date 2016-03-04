@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiệu (số) đường đi
+#hiệu quang lộ
+#hiệu quang trình

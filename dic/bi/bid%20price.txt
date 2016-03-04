@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#giá bỏ thầu
+#giá đặt mua
+#giá dự đấu
+#giá dự thầu
+#giá hỏi mua
+#giá mua vô (của thị trường chứng khoán)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giá thầu

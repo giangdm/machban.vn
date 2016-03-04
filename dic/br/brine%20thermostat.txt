@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy điều hòa bằng nước muối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#rơle nhiệt độ nước muối
+#tecmostat nước muối
+#thermostat nước muối

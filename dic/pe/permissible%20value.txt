@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đại lượng cho phép
+#giá trị cho phép
+#khả năng cho phép

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#các giao dịch nợ
+#các giao dịch nợ (trong quan hệ thanh toán quốc tế)

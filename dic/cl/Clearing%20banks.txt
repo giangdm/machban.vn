@@ -1,0 +1,3 @@
+﻿@Clearing banks
+#(Econ) Các ngân hàng thanh toán bù trừ
+: Ở Anh, cụm thuật ngữ này dùng để chỉ các NGÂN HÀNG THƯƠNG MẠI theo truyền thống điều hành và có thể tiếp cận với một PHÒNG THANH TOÁN BÙ TRỪ hay các cơ quan tương đương với mục đích thanh toán bù trừ các tờ SÉC của nhau.

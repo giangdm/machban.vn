@@ -1,0 +1,3 @@
+﻿@cet
+*(viết tắt)
+#Giờ Trung Âu (Central European Time)

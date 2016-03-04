@@ -1,0 +1,6 @@
+﻿@Optimum tariff
+#(Econ) Thuế quan tối ưu.
+: Là thuế quan có tác dụng tối đa hoá phúc lợi hay độ thoả dụng của một quốc gia.
+@Chuyên ngành kinh tế
+#suất thuế tối ưu
+#thuế suất tối ưu

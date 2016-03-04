@@ -1,0 +1,3 @@
+﻿@Complements
+#(Econ) Hàng hoá bổ trợ
+: Một hàng hoá có xu hướng được mua theo kèm với hàng hoá khác đã được mua vì nó bổ trợ cho hàng hoá thứ nhất

@@ -1,0 +1,15 @@
+﻿@Capital expenditure
+#(Econ) Chi tiêu cho vốn.
+: Chi tiêu cho tư liệu sản xuất của các hãng, chính phủ, các cơ quan chính phủ hay hộ gia đình, nhằm mục đích thay thế vốn đã khấu hao hay tạo vốn mới. Xem CAPITAL INVESTMENT.
+@Chuyên ngành kinh tế
+#chi dùng vào tư liệu sản xuất
+#chi phí tài sản cố định
+#chi phí thiết lập
+#chi phí về tư liệu sản xuất
+#chi phí vốn
+#chi phí xây dựng cơ bản
+#tài sản kinh doanh
+@Chuyên ngành kỹ thuật
+#chi phi kinh doanh
+@Lĩnh vực: cơ khí & công trình
+#vốn cơ bản

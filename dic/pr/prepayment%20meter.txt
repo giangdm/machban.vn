@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đếm trả tiền trước
+@Lĩnh vực: điện
+#công tơ giả tiền (điện) trước
+#điện kế trả trước
+@Lĩnh vực: điện lạnh
+#công tơ trả tiền trước

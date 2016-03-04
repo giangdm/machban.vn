@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đường ống chính tiếp liệu
+@Lĩnh vực: cơ khí & công trình
+#đường ống chính tiết liệu
+@Lĩnh vực: điện
+#đường tải điệncung cấp chính

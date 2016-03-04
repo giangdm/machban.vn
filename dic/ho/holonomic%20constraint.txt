@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ràng buộc holonom
+@Lĩnh vực: xây dựng
+#sự liên kết holonôm

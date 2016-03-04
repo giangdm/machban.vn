@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#lò sưởi dùng quạt
+@Lĩnh vực: vật lý
+#bộ gia nhiệt dùng quạt
+#bộ nung có quạt
+@Lĩnh vực: xây dựng
+#thiết bị sưởi dùng quạt
+@Chuyên ngành kỹ thuật
+#lò sưởi dùng quạt
+@Lĩnh vực: vật lý
+#bộ gia nhiệt dùng quạt
+#bộ nung có quạt
+@Lĩnh vực: xây dựng
+#thiết bị sưởi dùng quạt

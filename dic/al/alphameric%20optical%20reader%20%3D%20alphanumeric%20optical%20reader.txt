@@ -1,0 +1,1 @@
+﻿@alphameric optical reader = alphanumeric optical reader

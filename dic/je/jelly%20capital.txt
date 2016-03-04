@@ -1,0 +1,3 @@
+﻿@jelly capital
+#(Econ) Vốn mềm dẻo.
+: Cụm thuật ngữ miêu tả vốn khi ở phương diện lý thuyết người ta giả định rằng TỶ SỐ VỐN - LAO ĐỘNG có thể được thay đổi ngay lập tức.

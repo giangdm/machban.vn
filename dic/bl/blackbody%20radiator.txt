@@ -1,0 +1,2 @@
+﻿@blackbody radiator
+#(Tech) bộ bức xạ vật thể đen

@@ -1,0 +1,5 @@
+﻿@best approximation
+#(Tech) ứớc lượng gần đúng nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép xấp xỉ tối ưu

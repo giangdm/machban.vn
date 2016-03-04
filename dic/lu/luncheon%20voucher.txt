@@ -1,0 +1,8 @@
+﻿@luncheon voucher
+*danh từ
+#phiếu ăn, vé ăn
+@Chuyên ngành kinh tế
+#phiếu ăn
+#phiếu ăn trưa
+#phiếu cơm trưa
+#vé ăn

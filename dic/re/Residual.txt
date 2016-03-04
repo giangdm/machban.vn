@@ -1,0 +1,45 @@
+﻿@Residual
+#(Econ) Số dư.
+: Chênh lệch giữa một điểm số liệu trên thực tế với giá trị được đưa ra bởi một phương trình ước tính.
+<!-- more -->
+@residual /ri'zidjuəl/
+*tính từ
+#còn dư, còn lại
+#(toán học); (vật lý) thặng dư, (còn) dư
+=residual oscillation: dao động dư
+*danh từ
+#phần còn lại, phần còn dư
+#(toán học) số dư
+#số chưa tính; số tính nhầm vào (khi tính nhầm)
+@Chuyên ngành kinh tế
+#bã
+#cặn
+#cặn bã còn lại
+#chênh lệch
+#còn dư
+#còn lại
+#dư
+#phần còn lại
+#phần dư
+#sai biệt
+#số dư
+#số sai biệt
+#thặng dư
+#vật thặng dư
+@Chuyên ngành kỹ thuật
+#chất kết tủa
+#chất lắng
+#còn dư
+#dư
+#phần còn lại
+#phần dư
+#số dư
+#thặng dư
+#thừa
+@Lĩnh vực: hóa học & vật liệu
+#sót
+@Lĩnh vực: toán & tin
+#thừa dư
+<!-- more -->
+@residual
+#dư, thặng dư, thừa dư

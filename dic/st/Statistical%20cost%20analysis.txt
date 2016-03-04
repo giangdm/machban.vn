@@ -1,0 +1,3 @@
+﻿@Statistical cost analysis
+#(Econ) Phân tích chi phí thống kê.
+: Đó là việc sử dụng kỹ thuật thống kê và dùng để chỉ các kỹ thuật sử dụng trong nghiên cứu chi phí như PHƯƠNG PHÁP KĨ THUẬT VÀ KỸ THUẬT SURVIVOR

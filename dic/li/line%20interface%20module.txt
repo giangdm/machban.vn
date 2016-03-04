@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#môđun giao diện đường truyền
+@Lĩnh vực: điện tử & viễn thông
+#môđun khớp nối đường truyền
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#môđun giao diện đường truyền
+@Lĩnh vực: điện tử & viễn thông
+#môđun khớp nối đường truyền

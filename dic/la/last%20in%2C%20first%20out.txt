@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#nhập sau xuất trước
+#phương thức vào sau, ra trước
+@Chuyên ngành kỹ thuật
+#LIFO Nhập sau, xuất trước
+@Chuyên ngành kỹ thuật
+#LIFO Nhập sau, xuất trước

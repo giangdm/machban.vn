@@ -1,0 +1,10 @@
+﻿@compression ratio
+#(Tech) độ ép, độ nén
+@Chuyên ngành kinh tế
+#mức độ nén
+@Chuyên ngành kỹ thuật
+#độ nén
+#hệ số nén
+#tỉ số nén
+@Lĩnh vực: toán & tin
+#tỷ lệ nén

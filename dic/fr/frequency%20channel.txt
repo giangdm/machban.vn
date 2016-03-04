@@ -1,0 +1,4 @@
+﻿@frequency channel
+#(Tech) kênh tần số
+@Chuyên ngành kỹ thuật
+#kênh tần số

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm đông cứng
+#điểm kết đông
+#nhiệt độ kết đông

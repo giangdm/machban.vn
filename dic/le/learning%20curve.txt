@@ -1,0 +1,19 @@
+﻿@Chuyên ngành kinh tế
+#đường cong học hỏi
+#đường học hỏi
+@Chuyên ngành kỹ thuật
+#đường cong
+#đường cong nhận thức
+#đường cong tập quen
+@Lĩnh vực: điện tử & viễn thông
+#đường chỉ thị
+@Lĩnh vực: xây dựng
+#tốc độ lĩnh hội
+@Chuyên ngành kỹ thuật
+#đường cong
+#đường cong nhận thức
+#đường cong tập quen
+@Lĩnh vực: điện tử & viễn thông
+#đường chỉ thị
+@Lĩnh vực: xây dựng
+#tốc độ lĩnh hội

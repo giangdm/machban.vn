@@ -1,0 +1,8 @@
+﻿@digital display
+#(Tech) hiển thị dạng sốtự
+@Chuyên ngành kỹ thuật
+#màn hình số
+@Lĩnh vực: toán & tin
+#màn hình chữ số
+#màn hình hiện số
+#sự hiển thị số

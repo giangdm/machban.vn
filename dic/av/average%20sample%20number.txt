@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#số lượng lấy mẫu trung bình
+@Chuyên ngành kỹ thuật
+#số trích mẫu trung bình

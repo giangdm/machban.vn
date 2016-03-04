@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mã hoạt động
+@Lĩnh vực: toán & tin
+#mã phép toán
+#mã vận hành (của máy tính)

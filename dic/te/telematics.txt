@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#viễn truyền học
+@Chuyên ngành kỹ thuật
+#viễn tin học
+@Lĩnh vực: điện tử & viễn thông
+#dịch vụ viễn tin

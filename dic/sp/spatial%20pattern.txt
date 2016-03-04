@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cấu trúc không gian
+@Lĩnh vực: môi trường
+#hình mẫu không gian

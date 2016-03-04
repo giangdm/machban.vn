@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hàng chở về
+@Chuyên ngành kỹ thuật
+#chuyến hàng trở về
+@Lĩnh vực: hóa học & vật liệu
+#cất hàng trở về

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sự hong ngoài trời
+#sự làm khô bằng không khí
+@Chuyên ngành kỹ thuật
+#sự hong khô
+@Lĩnh vực: môi trường
+#làm khô không khí
+@Lĩnh vực: xây dựng
+#sự phơi khô
+#sự phơi ngoài trời

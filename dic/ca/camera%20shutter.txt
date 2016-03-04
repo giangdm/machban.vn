@@ -1,0 +1,2 @@
+﻿@camera shutter
+#(Tech) cửa sập máy thu hình

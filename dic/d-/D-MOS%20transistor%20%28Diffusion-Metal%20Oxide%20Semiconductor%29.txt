@@ -1,0 +1,2 @@
+﻿@D-MOS transistor (Diffusion-Metal Oxide Semiconductor)
+#(Tech) trănsito D-MOS (đèn tinh thể bán dẫn ôxit kim loại khuếch tán kép)

@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa chịu lửa
+@Lĩnh vực: hóa học & vật liệu
+#cửa buồng đốt
+#cửa chống cháy (mỏ)
+@Lĩnh vực: xây dựng
+#cửa ngăn cháy
+#cửa phòng cháy
+@Chuyên ngành kỹ thuật
+#cửa chịu lửa
+@Lĩnh vực: hóa học & vật liệu
+#cửa buồng đốt
+#cửa chống cháy (mỏ)
+@Lĩnh vực: xây dựng
+#cửa ngăn cháy
+#cửa phòng cháy

@@ -1,0 +1,11 @@
+﻿@access permission
+#(Tech) cho phép truy cập
+@Chuyên ngành kỹ thuật
+#quyền truy cập
+#sự cho phép truy xuất
+@Lĩnh vực: xây dựng
+#phép được truy cập
+@Lĩnh vực: toán & tin
+#quyền truy xuất
+#sự cho phép truy cập
+#sự cho phép truy nhập

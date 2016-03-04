@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#khe hở dạng kim
+@Lĩnh vực: điện lạnh
+#khe phóng điện hình kim

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị trao đổi nhiệt
+@Lĩnh vực: điện lạnh
+#máy móc trao đổi nhiệt

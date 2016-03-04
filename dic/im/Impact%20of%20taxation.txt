@@ -1,0 +1,3 @@
+﻿@Impact of taxation
+#(Econ) Tác động của việc đánh thuế.
+: Đề cập đến một người, một công ty hay một giao dịch bị đánh thuế.

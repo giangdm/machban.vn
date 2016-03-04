@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chọn theo cơ số đếm
+@Lĩnh vực: điện tử & viễn thông
+#sắp theo cơ số

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#côngtenơ được điều chỉnh nhiệt độ
+#côngtenơ được khống chế (điều chỉnh) nhiệt độ
+#côngtenơ được khống chế nhiệt độ

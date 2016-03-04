@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chi phí sản xuất
+@Chuyên ngành kỹ thuật
+#chi phí khai thác
+#chi phí sản xuất

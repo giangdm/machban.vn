@@ -1,0 +1,2 @@
+﻿@diffusion conductance
+#(Tech) dẫn điện khuếch tán

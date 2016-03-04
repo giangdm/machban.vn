@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#A/in2
+@Lĩnh vực: điện
+#ampe trên insơ bình phương

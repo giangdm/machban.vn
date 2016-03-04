@@ -1,0 +1,6 @@
+﻿@Windfall loss
+#(Econ) Lỗ bất thường.
+: Một khoản suy giảm không lường trước được của thu nhập.
+@Chuyên ngành kinh tế
+#lỗ bất ngờ
+#tổn thất không thể dự kiến, bất ngờ, lỗ bất ngờ

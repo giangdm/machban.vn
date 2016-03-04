@@ -1,0 +1,3 @@
+﻿@Short run average cost
+#(Econ) Chi phí trung bình ngắn hạn.
+: Xem Average cost.

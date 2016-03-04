@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch nối song song
+#mạch song song
+@Lĩnh vực: ô tô
+#mạch điện song song
+@Lĩnh vực: điện
+#mạch ghép song song

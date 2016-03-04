@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bộ phận tưới để phá băng (trong máy lạnh không khí)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tia phun phá băng

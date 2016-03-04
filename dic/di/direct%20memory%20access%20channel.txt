@@ -1,0 +1,2 @@
+﻿@direct memory access channel
+#(Tech) kênh truy cập bộ nhớ trực tiếp

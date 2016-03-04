@@ -1,0 +1,6 @@
+﻿@quad (quadrangle)
+#ô vuông sơ cấp; ô tứ giác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ô tứ giác
+#ô vuông sơ cấp

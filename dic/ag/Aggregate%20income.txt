@@ -1,0 +1,7 @@
+﻿@Aggregate income
+#(Econ) Thu nhập gộp; Tổng thu nhập
+: Xem INTERNATION INCOME
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thu nhập chung
+#tổng doanh lợi

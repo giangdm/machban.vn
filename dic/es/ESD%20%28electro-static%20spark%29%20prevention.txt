@@ -1,0 +1,2 @@
+﻿@ESD (electro-static spark) prevention
+#(Tech) sự đề phòng phóng điện tĩnh

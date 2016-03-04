@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#tổn hao do bức xạ
+@Lĩnh vực: điện
+#tổn thất phát xạ

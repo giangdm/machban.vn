@@ -1,0 +1,4 @@
+﻿@computation speed
+#(Tech) tốc độ tính toán
+@Chuyên ngành kỹ thuật
+#tốc độ tính toán

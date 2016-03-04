@@ -1,0 +1,9 @@
+﻿@accounting rate
+#(Tech) biểu suất kế toán
+@Chuyên ngành kinh tế
+#hối suất kế toán
+#tỉ suất kế toán
+@Chuyên ngành kỹ thuật
+#mức kế toán
+@Lĩnh vực: điện tử & viễn thông
+#suất kế toán

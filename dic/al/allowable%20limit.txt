@@ -1,0 +1,4 @@
+﻿@allowable limit
+#(Tech) giới hạn được phép
+@Chuyên ngành kỹ thuật
+#giới hạn cho phép

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng hơi lạnh tiết lưu
+@Lĩnh vực: điện lạnh
+#dòng khí lạnh được giãn nở
+@Chuyên ngành kỹ thuật
+#dòng hơi lạnh tiết lưu
+@Lĩnh vực: điện lạnh
+#dòng khí lạnh được giãn nở

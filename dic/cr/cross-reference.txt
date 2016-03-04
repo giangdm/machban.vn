@@ -1,0 +1,8 @@
+﻿@cross-reference
+*danh từ
+#lời chỉ dẫn tham khảo, tham khảo chéo (một đoạn... trong cùng một cuốn sách)
+*động từ
+#bổ sung (một cuốn sách,  v v) những lời chỉ dẫn tham khảo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tham khảo chéo

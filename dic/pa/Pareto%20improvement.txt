@@ -1,0 +1,5 @@
+﻿@Pareto improvement
+#(Econ) Sự cải thiện Pareto.
+: Một sự phân phối lại các nguồn lực làm cho ít nhất một người khá lên mà không làm cho bất cứ ai kém đi.
+@Chuyên ngành kinh tế
+#Sự cải thiện Pareto

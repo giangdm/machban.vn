@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bảo hiểm trách nhiệm của người chủ
+#bảo hiểm trách nhiệm dân sự của chủ nhân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảo hiểm tai nạn lao động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảo hiểm tai nạn lao động

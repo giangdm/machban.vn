@@ -1,0 +1,3 @@
+﻿@Polynomial lag
+#(Econ) Độ trễ đa thức; trể của biểu thức đại số.
+: Xem ALMON LAG.

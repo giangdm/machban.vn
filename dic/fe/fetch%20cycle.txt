@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chu kỳ tìm nạp
+#chu trình nạp
+#chu trình tải
+#chu trình tìm nạp
+#vòng tìm nạp
+#vòng tìm nạp lệnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chu kỳ tìm nạp
+#chu trình nạp
+#chu trình tải
+#chu trình tìm nạp
+#vòng tìm nạp
+#vòng tìm nạp lệnh

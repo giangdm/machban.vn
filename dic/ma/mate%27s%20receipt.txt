@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#biên lai thuyền phó
+#đơn nhận hàng của tàu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#biên lai của thuyền phó

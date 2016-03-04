@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin thiết bị
+@Lĩnh vực: điện tử & viễn thông
+#tệp thiết bị

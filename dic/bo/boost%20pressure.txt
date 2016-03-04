@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực
+#áp lực đẩy
+#áp lực tăng áp
+#tăng áp
+@Lĩnh vực: ô tô
+#áp lực hút
+#áp suất tăng áp
+@Lĩnh vực: hóa học & vật liệu
+#áp suất tăng cường
+#áp suất thổi thêm

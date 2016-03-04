@@ -1,0 +1,17 @@
+﻿@standard time
+*danh từ
+#giờ tiêu chuẩn
+@Chuyên ngành kinh tế
+#giờ chuẩn
+#giờ địa phương
+#giờ tiêu chuẩn (pháp định)
+#thời gian chuẩn
+#thời gian tiêu chuẩn
+@Chuyên ngành kỹ thuật
+#giờ chuẩn
+@Lĩnh vực: giao thông & vận tải
+#giờ theo múi (đạo hàm)
+@Lĩnh vực: toán & tin
+#giờ tiêu chuẩn
+@Lĩnh vực: điện lạnh
+#thời gian chuẩn

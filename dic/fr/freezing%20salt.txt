@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#muối để làm lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#muối làm đông lạnh

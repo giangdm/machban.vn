@@ -1,0 +1,2 @@
+﻿@modulatorb
+#(vật lí) máy biến điệu

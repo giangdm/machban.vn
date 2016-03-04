@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#chế độ quá độ
+@Lĩnh vực: điện tử & viễn thông
+#chế độ giao thời
+@Lĩnh vực: toán & tin
+#trạng thái chuyển
+@Lĩnh vực: điện
+#trạng thải chuyển tiếp
+#trạng thái nhất thời

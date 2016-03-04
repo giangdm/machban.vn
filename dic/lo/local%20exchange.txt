@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chuyển mạch cấp đô thị
+#tổng đài cục bộ
+#tổng đài nội hạt
+@Lĩnh vực: điện lạnh
+#tổng đài địa phương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chuyển mạch cấp đô thị
+#tổng đài cục bộ
+#tổng đài nội hạt
+@Lĩnh vực: điện lạnh
+#tổng đài địa phương

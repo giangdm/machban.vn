@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#trục ép
+@Lĩnh vực: hóa học & vật liệu
+#trục lăn ép
+@Lĩnh vực: xây dựng
+#trục nén

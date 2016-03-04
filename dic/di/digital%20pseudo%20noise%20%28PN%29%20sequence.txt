@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trình tự tiếng ồn giả bằng số
+#trình tự tiếng ồn giả số hóa

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy thu truyền hình
+@Lĩnh vực: xây dựng
+#máy thu thị tần

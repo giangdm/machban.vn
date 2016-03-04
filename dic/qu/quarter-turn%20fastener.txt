@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đui cắm có cạnh
+@Lĩnh vực: vật lý
+#móc cài vật vuông góc

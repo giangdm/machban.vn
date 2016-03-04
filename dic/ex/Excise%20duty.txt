@@ -1,0 +1,5 @@
+﻿@Excise duty
+#(Econ) Thuế tiêu thụ đặc biệt.
+: Xem CUSTOMS, EXCISE AND PROTECTIVE DUTIES.
+@Chuyên ngành kinh tế
+#thuế hàng hóa

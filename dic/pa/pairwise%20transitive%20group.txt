@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhóm bắc cầu từng cặp điểm
+#nhóm bắc cầu từng điểm cặp

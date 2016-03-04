@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kỹ thuật
+#đấu chữ Y
+#đấu hình sao
+#nối hình sao
+#mắc chữ Y
+#mắc hình sao
+#mạch đấu sao
+#mạng hình sao
+#sự nối sao
+@Lĩnh vực: điện
+#cách mối nối hình sao
+@Lĩnh vực: toán & tin
+#mạng sao
+#sự nối (mạng) hình sao
+#sự nối mạng hình sao
+@Lĩnh vực: xây dựng
+#mối nối hình sao

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy điều khiển bằng tay
+#máy vận hành bằng tay
+#máy vận hành thủ công

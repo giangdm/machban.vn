@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tần số
+@Lĩnh vực: điện
+#bằng 10 mũ 9

@@ -1,0 +1,2 @@
+﻿@administration information display
+#(Tech) bộ hiển thị tin tức quản lý

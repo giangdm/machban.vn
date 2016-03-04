@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống nhập/xuất cơ bản
+#hệ thống vào/ra cơ bản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ nhập xuất cơ sở
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống đầu vào/ đầu ra cơ bản

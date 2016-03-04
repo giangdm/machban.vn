@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#buồng đốt
+#buồng nhiệt
+#buồng nung
+@Lĩnh vực: vật lý
+#buồng gia nhiệt
+#buồng sưởi

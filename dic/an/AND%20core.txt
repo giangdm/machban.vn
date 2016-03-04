@@ -1,0 +1,2 @@
+﻿@AND core
+#(Tech) lõi VÀ

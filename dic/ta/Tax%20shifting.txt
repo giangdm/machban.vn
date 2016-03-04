@@ -1,0 +1,5 @@
+﻿@Tax shifting
+#(Econ) Chuyển đẩy thuế.
+: HIện tượng mà trong đó những người phải chịu thuế có thể chuyển gánh nặng một phần hay toàn bộ cho những người khác.
+@Chuyên ngành kinh tế
+#sự trút gánh nặng thuế khóa lên người khác

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dàn ngưng (có) hai dòng
+#giàn ngưng (có) hai dòng
+#giàn ngưng (có) hai lối

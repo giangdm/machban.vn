@@ -1,0 +1,6 @@
+﻿@Regional economics
+#(Econ) Kinh tế học khu vực.
+: Kinh tế học khu vực là chuyên nghành phân tích kinh liên quan đến việc phân phối  hoạt động kinh tế theo không gian và sự khác nhau về không gian trong kết quả của hoạt động kinh tế.
+@Chuyên ngành kinh tế
+#kinh tế học khu vực
+#kinh tế học vùng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tổng kiểm tra
+@Lĩnh vực: toán & tin
+#tổng điều khiển
+@Lĩnh vực: điện tử & viễn thông
+#tổng số kiểm soát

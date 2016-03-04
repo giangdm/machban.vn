@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#cần đẩy ly hợp
+@Lĩnh vực: cơ khí & công trình
+#cần điều khiển ly hợp

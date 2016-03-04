@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số dãn nở
+#hệ số giãn nở
+#hệ số nở
+@Lĩnh vực: điện lạnh
+#hệ số bơm nhiệt
+@Lĩnh vực: toán & tin
+#hệ số giãn

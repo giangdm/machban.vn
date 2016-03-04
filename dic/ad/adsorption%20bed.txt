@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp hấp phụ
+#lớp hấp thụ
+@Lĩnh vực: điện lạnh
+#tầng hấp phụ

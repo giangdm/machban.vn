@@ -1,0 +1,5 @@
+﻿@decreasing sequence
+#(Tech) trình tự tiệm giảm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dãy số không tăng

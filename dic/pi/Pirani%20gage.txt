@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đầu đo Pirani
+@Chuyên ngành kỹ thuật
+#áp kế pirani

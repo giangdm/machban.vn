@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ IC
+#bộ mạch tích hợp
+#gói mạch tích hợp

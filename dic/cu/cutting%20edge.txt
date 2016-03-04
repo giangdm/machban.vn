@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#cạnh cắt
+#lưỡi cắt
+#lưỡi dao
+#mép cắt
+@Lĩnh vực: xây dựng
+#cạch bên
+#cạch cắt
+#cạnh sắc lưỡi cắt
+#chân vát (giếng chìm)
+#giá đỡ chân (giếng chìm)
+@Lĩnh vực: toán & tin
+#cạnh bên
+#giá đỡ chân

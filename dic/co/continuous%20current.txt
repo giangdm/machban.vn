@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng điện
+#dòng liên tục
+#liên hợp
+@Lĩnh vực: toán & tin
+#dòng điện liên hợp
+@Lĩnh vực: thực phẩm
+#thiết bị nấu liên tục

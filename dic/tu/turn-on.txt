@@ -1,0 +1,9 @@
+﻿@turn-on
+*danh từ
+#<thgt> người (vật) kích động; người (vật) làm cho ai bị kích thích (đặc biệt là về tình dục)
+@Chuyên ngành kỹ thuật
+#bật
+#mở (máy)
+#sự bật (đèn)
+#sự chuyển sang đóng (chuyển tiếp trạng thái)
+#sự đóng (điện)

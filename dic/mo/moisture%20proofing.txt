@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#chống ẩm
+#không thấm ẩm
+@Lĩnh vực: xây dựng
+#cách ẩm
+@Lĩnh vực: điện lạnh
+#không nhiễm ẩm

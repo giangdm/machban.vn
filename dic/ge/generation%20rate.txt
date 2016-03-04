@@ -1,0 +1,5 @@
+﻿@generation rate
+#(Tech) suất tạo lập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tốc độ sinh

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đường về nước ngưng
+@Lĩnh vực: điện lạnh
+#hồi phần ngưng
+#sự hồi lỏng ngưng

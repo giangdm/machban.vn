@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm chuẩn
+@Lĩnh vực: cơ khí & công trình
+#dấu (điểm) đánh lửa
+@Lĩnh vực: ô tô
+#dấu cân cam
+#dấu cân lửa
+#mốc điều chỉnh đánh lửa
+#mốc định thời đánh lửa
+@Lĩnh vực: toán & tin
+#dấu hiệu thời gian

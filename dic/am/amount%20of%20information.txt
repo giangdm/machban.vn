@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#lượng thông tin
+#số tiền thông tin
+@Chuyên ngành kỹ thuật
+#lượng thông tin
+@Lĩnh vực: toán & tin
+#khối lượng điều tra
+#số lượng kiểm tra

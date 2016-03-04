@@ -1,0 +1,6 @@
+﻿@contiguous data structure
+#(Tech) cấu trúc dữ kiện tiếp cận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cấu trúc dữ liệu liền kề
+#cấu trúc dữ liệu mật tiếp

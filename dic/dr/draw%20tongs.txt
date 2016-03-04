@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kìm căng dây
+@Lĩnh vực: điện
+#kìm vuốt dây

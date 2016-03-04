@@ -1,0 +1,6 @@
+﻿@damping coil
+#(Tech) cuộn dây suy giảm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn (dây) cản dịu
+#cuộn (dây) làm nhụt

@@ -1,0 +1,8 @@
+﻿@database
+#(Tech) kho dữ liệu, cơ sở dữ liệu [TN]
+@Chuyên ngành kinh tế
+#ngân hàng dữ liệu
+@Chuyên ngành kỹ thuật
+#cơ sở dữ liệu
+#kho dữ liệu
+#sở dữ liệu

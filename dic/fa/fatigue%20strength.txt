@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền mỏi
+#giới hạn mỏi
+#sức bền mỏi
+#sức chịu mỏi
+@Lĩnh vực: xây dựng
+#cường độ chịu mỏi
+#cường độ mỏi
+#tính bền mỏi
+@Chuyên ngành kỹ thuật
+#độ bền mỏi
+#giới hạn mỏi
+#sức bền mỏi
+#sức chịu mỏi
+@Lĩnh vực: xây dựng
+#cường độ chịu mỏi
+#cường độ mỏi
+#tính bền mỏi

@@ -1,0 +1,3 @@
+﻿@ring-circuit
+*danh từ
+#(điện học) mạch vòng

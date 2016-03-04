@@ -1,0 +1,2 @@
+﻿@computer jargon
+#(Tech) biệt ngữ điện toán

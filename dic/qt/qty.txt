@@ -1,0 +1,3 @@
+﻿@qty
+*danh từ
+#vt của quantity số lượng

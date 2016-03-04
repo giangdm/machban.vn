@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#cán bộ lãnh đạo
+#viên chức, quan chức cao cấp
+@Chuyên ngành kỹ thuật
+#nhân viên cao cấp
+@Lĩnh vực: điện tử & viễn thông
+#công chức cao cấp

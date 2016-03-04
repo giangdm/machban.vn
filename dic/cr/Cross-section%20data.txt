@@ -1,0 +1,2 @@
+﻿@Cross-section data
+#(Econ) Số liệu chéo/ mẫu/ đặc trưng.

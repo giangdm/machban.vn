@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bước đường hàn
+#khoảng cách giữa các mối hàn (hàn đứt đoạn)

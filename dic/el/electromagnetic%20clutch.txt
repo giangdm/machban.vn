@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ ly hợp điện từ
+@Lĩnh vực: điện
+#khớp li hợp điện từ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ ly hợp điện từ
+@Lĩnh vực: điện
+#khớp li hợp điện từ

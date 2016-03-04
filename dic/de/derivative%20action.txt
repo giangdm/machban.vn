@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tố tụng phái sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#hoạt động dẫn xuất
+@Lĩnh vực: toán & tin
+#tác động dẫn xuất

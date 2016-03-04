@@ -1,0 +1,7 @@
+﻿@satisfiability
+#(logic học) tính thực hiện được, tính thoả mãn được
+#joint s. tính thoả mãn đồng thời
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính thỏa mãn được
+#tính thực hiện được

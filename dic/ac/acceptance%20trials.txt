@@ -1,0 +1,7 @@
+﻿@acceptance trials
+#(Tech) thực nghiệm thụ quang
+@Chuyên ngành kinh tế
+#thử nghiệm để chấp nhận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#thử nghiệm thu

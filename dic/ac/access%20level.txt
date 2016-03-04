@@ -1,0 +1,11 @@
+﻿@access level
+#(Tech) mức truy cập
+@Chuyên ngành kỹ thuật
+#mức truy nhập
+@Lĩnh vực: toán & tin
+#cấp truy cập
+#cấp truy xuất
+#mức độ truy cập
+#mức độ truy xuất
+@Lĩnh vực: điện lạnh
+#mức vào

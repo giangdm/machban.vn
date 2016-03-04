@@ -1,0 +1,9 @@
+﻿@rest area
+*danh từ
+#góc thụt vào để đổ xe (ở đường phố )
+@Chuyên ngành kinh tế
+#khu/nơi dừng nghỉ tạm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bãi nghỉ
+#khu nghỉ

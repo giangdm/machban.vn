@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tỷ giá (hối đoái) kỳ hạn
+#tỷ giá ngoại hối kỳ hạn

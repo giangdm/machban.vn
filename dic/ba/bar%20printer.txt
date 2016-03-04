@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy in kiểu cần chữ
+@Lĩnh vực: toán & tin
+#máy in thanh

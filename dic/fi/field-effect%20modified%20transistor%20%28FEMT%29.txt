@@ -1,0 +1,2 @@
+﻿@field-effect modified transistor (FEMT)
+#(Tech) trăngsito biến đổi hiệu trường

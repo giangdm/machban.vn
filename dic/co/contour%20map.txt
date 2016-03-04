@@ -1,0 +1,10 @@
+﻿@contour map
+#bản đò có vẽ đường đồng mức
+@Chuyên ngành kỹ thuật
+#bản đồ cao độ
+#bản đồ đường đồng mức
+#ngón dò chép hình
+@Lĩnh vực: toán & tin
+#bản đồ đường mức
+@Lĩnh vực: cơ khí & công trình
+#rãnh cán chép hình

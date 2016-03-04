@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#sức chịu mòn
+#sức chống mài mòn
+#sức chống mòn
+#tính chịu mài mòn
+@Lĩnh vực: xây dựng
+#độ chịu mòn
+#tính chịu mòn
+@Lĩnh vực: giao thông & vận tải
+#khả năng chống mòn
+@Lĩnh vực: dệt may
+#sự chống mài mòn
+@Lĩnh vực: ô tô
+#tính chống mòn

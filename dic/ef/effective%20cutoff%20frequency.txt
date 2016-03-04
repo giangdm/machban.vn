@@ -1,0 +1,2 @@
+﻿@effective cutoff frequency
+#(Tech) tần số cắt hữu hiệu

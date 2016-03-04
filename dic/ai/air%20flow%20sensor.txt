@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ cảm biến dòng không khí
+#đầu cảm do dòng không khí
+#đầu cảm đo dòng không khí

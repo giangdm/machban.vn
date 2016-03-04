@@ -1,0 +1,2 @@
+﻿@Inflation-adjusted budget
+#(Econ) Ngân sách được điều chỉnh theo lạm phát.

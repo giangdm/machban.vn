@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chứa khí
+@Lĩnh vực: điện lạnh
+#chứa đầy khí

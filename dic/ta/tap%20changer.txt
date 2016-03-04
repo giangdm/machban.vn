@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều chỉnh điện áp
+@Lĩnh vực: điện
+#bộ chỉnh áp
+#bộ đổi đầu lối ra
+#bộ đổi nấc điện áp
+#công tắc nhiều tiếp điểm

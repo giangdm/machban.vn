@@ -1,0 +1,2 @@
+﻿@Interna Rate of return
+#(Econ) Nội suất thu hồi vốn/ tỷ lệ hoàn vốn nội bộ.

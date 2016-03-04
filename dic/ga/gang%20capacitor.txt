@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ tụ điện
+@Lĩnh vực: điện
+#tổ hợp tụ điện xoay
+@Lĩnh vực: điện lạnh
+#tụ nhiều phần tử

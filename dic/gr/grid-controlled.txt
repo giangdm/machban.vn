@@ -1,0 +1,3 @@
+﻿@grid-controlled
+*tính từ
+#được điều khiển trên mạng; được khống chế trên lưới

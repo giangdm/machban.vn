@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thành phần vận tốc theo tia
+#thành phần vận tốc xuyên tâm

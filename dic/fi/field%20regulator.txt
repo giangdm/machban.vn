@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#biến trở điều chỉnh trường
+#bộ điều chỉnh trường
+@Lĩnh vực: điện lạnh
+#bộ điều kiển từ trường
+@Chuyên ngành kỹ thuật
+#biến trở điều chỉnh trường
+#bộ điều chỉnh trường
+@Lĩnh vực: điện lạnh
+#bộ điều kiển từ trường

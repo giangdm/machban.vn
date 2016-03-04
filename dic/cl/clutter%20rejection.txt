@@ -1,0 +1,2 @@
+﻿@clutter rejection
+#(Tech) loại nhiễu

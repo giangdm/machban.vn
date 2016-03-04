@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#trái phiếu chiết giá
+#trái phiếu chiết khấu
+#trái phiếu chiết khấu (được bán dưới bình giá)

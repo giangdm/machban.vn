@@ -1,0 +1,9 @@
+﻿@Autoregression
+#(Econ) Tự hồi quy.
+: SỰ HỒI QUY của một biến số trên giá trị hay các giá trị trễ của nó. Xem SERIAL CORRELATION AND ARIMA.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự tự hồi quy
+<!-- more -->
+@autoregression
+#sự tự hồi quy

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự quản lý lượng tài nguyên
+#sự quản lý trữ

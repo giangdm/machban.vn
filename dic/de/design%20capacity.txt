@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#công suất tính toán
+@Lĩnh vực: xây dựng
+#công suất thiết kế
+#sức chứa tính toán

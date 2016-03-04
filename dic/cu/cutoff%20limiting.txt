@@ -1,0 +1,2 @@
+﻿@cutoff limiting
+#(Tech) hạn chế bằng cắt dừng

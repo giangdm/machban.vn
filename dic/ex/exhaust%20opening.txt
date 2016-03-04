@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗ xả nước
+@Lĩnh vực: xây dựng
+#lỗ xả hơi
+#lỗ xả khí
+@Chuyên ngành kỹ thuật
+#lỗ xả nước
+@Lĩnh vực: xây dựng
+#lỗ xả hơi
+#lỗ xả khí

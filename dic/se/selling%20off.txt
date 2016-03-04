@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bán chạy
+#bán tháo
+#bán tống
+#bán tống bán tháo
+#sự bán thanh lý (hàng trữ trong kho)

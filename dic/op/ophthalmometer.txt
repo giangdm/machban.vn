@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#nhãn khúc kế
+@Lĩnh vực: điện lạnh
+#máy đo nhãn khúc
+@Lĩnh vực: y học
+#sự đo nhãn chiết

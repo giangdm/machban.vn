@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự kết suất
+#sự kết suất bộ nhớ
+#sự kết xuất bộ nhớ

@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kinh tế
+#phép kiểm định Kolmogorov-Sminov

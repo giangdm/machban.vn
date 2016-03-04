@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#quản lý bộ nhớ
+@Lĩnh vực: toán & tin
+#sự quản lý bộ nhớ

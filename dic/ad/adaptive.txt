@@ -1,0 +1,5 @@
+﻿@adaptive
+#(Tech) mang tính thích nghi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#có khả năng thích nghi

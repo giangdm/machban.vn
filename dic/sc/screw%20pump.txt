@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy bơm trục vít
+@Lĩnh vực: điện lạnh
+#bơm trục vít
+@Lĩnh vực: hóa học & vật liệu
+#bơm vít
+@Lĩnh vực: xây dựng
+#máy bơm vít (vô tận)

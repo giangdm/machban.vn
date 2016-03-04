@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phân cấp theo cỡ hạt
+#phân loại theo cỡ hạt
+@Lĩnh vực: xây dựng
+#sự phân cỡ hạt
+#sự phân loại theo kích thước (hạt)

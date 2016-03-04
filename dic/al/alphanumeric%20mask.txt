@@ -1,0 +1,2 @@
+﻿@alphanumeric mask
+#(Tech) màn che chữ-số

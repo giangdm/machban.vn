@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tủ lạnh có kí hiệu sao (chỉ độ lạnh)
+#tủ lạnh có ký hiệu sao (chỉ độ lạnh)

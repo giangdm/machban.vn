@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Trung kế trực tiếp analog qua vệ tinh (TIA-646-B)

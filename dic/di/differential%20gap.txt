@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bước vi sai
+@Lĩnh vực: đo lường & điều khiển
+#khe vi sai

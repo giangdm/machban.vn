@@ -1,0 +1,5 @@
+﻿@busy relay
+#(Tech) bộ nối điện báo bận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#rơle báo bận

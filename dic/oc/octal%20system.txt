@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ bát phân
+@Lĩnh vực: toán & tin
+#hệ cơ số tám

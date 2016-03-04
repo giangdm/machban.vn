@@ -1,0 +1,6 @@
+﻿@data transfer
+#(Tech) sự truyền dữ liệu; chuyển dữ liệu
+@Chuyên ngành kỹ thuật
+#sự chuyển dữ liệu
+#sự truyền dữ liệu
+#truyền dữ liệu

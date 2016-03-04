@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự triệt các mômen
+#sự triệt các xung lượng
+#sự xóa các mômen
+#sự xóa các xung lượng

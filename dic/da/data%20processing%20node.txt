@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nút xử lý dữ liệu
+#trạm xử lý dữ liệu

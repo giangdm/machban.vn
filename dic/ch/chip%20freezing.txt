@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kết đông lát mỏng
+#kết đông mảnh
+#kết đông mảnh [lát mỏng]

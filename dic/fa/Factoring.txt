@@ -1,0 +1,15 @@
+﻿@Factoring
+#(Econ) Bao thanh toán; mua nợ; Giải thoát nợ.
+: Phương pháp giải thoát số nợ thương mại thông qua đó một công ty có thể bán được số nợ này cho một thể chế tài chính.
+@Chuyên ngành kinh tế
+#bao thanh toán
+#bao thanh toán tương đối
+#mua nợ tương đối
+#phân tích thành thừa số
+#phương pháp đại lý mua nợ
+#tự chịu lời lỗ
+<!-- more -->
+@factoring
+*danh từ
+#sự phân tích thành thừa số
+=scale factoring:sự chọn thang tỉ lệ

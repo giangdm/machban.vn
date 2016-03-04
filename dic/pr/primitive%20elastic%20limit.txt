@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giới hạn đàn hồi ban đầu
+@Lĩnh vực: xây dựng
+#giới hạn đàn hồi ban đầu (mẫu chưa cứng nguội)

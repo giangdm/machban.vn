@@ -1,0 +1,14 @@
+﻿@closed loop
+#(Tech) vòng kín, vòng đóng
+@Chuyên ngành kỹ thuật
+#đường bao kín
+#mạch kín
+#vòng khép kín
+#vòng kín
+#vòng lặp vô hạn
+@Lĩnh vực: toán & tin
+#chu kỳ đóng
+#vòng đóng
+#vòng lặp kín
+@Lĩnh vực: giao thông & vận tải
+#hệ điều khiển khép kín

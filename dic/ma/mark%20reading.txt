@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự cảm biến dấu hiệu
+#sự đọc dấu hiệu
+#sự quét dấu hiệu
+@Lĩnh vực: toán & tin
+#sự đọc nhãn

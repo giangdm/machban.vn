@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chi mạch (điện thoại)
+@Lĩnh vực: toán & tin
+#vòng đường truyền
+#vòng mạch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chi mạch (điện thoại)
+@Lĩnh vực: toán & tin
+#vòng đường truyền
+#vòng mạch

@@ -1,0 +1,6 @@
+﻿@Import substitution
+#(Econ) Thay thế nhập khẩu.
+: Một trong những chiến lược phát triển chủ yếu được các nước đang phát triển lựa chọn.
+@Chuyên ngành kinh tế
+#sự thay thế nhập khẩu
+#thay thế nhập khẩu

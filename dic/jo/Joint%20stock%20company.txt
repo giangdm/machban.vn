@@ -1,0 +1,6 @@
+﻿@Joint stock company
+#(Econ) Công ty cổ phần.
+: Công ty cổ phần đựơc thành lập mà không phải tuân theo những đòi hỏi phải cam kết nhiều vốn tài chính.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#công ty góp cổ phần

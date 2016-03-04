@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đọc thẻ từ
+@Lĩnh vực: toán & tin
+#bộ đọc thẻ từ tính
+#thiết bị đọc thẻ từ
+@Lĩnh vực: điện lạnh
+#máy đọc thẻ từ

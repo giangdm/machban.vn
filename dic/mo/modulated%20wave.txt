@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#chuyển điệu
+#sóng biến điệu
+#sóng đã điều biến
+@Lĩnh vực: toán & tin
+#sóng chuyển điệu
+@Lĩnh vực: điện lạnh
+#sóng được điều biến

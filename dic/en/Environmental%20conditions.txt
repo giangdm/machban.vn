@@ -1,0 +1,9 @@
+﻿@Environmental conditions
+#(Econ) Những điều kiện môi trường.
+: Mặc dù trình độ hiểu biết khoa học và kỹ thuật của thế giới đang gia tăng, vẫn còn chênh lệch lớn về kiến thức này, đặc biệt liên quan đến điều kiện môi trường ở CÁC NƯỚC ĐANG PHÁT TRIỂN.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#điều kiện môi trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#điều kiện môi trường

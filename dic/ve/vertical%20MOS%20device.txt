@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dụng cụ VMOS
+@Lĩnh vực: điện tử & viễn thông
+#linh kiện VMOS

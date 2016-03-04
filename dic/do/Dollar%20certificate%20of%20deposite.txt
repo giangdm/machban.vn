@@ -1,0 +1,3 @@
+﻿@Dollar certificate of deposite
+#(Econ) Giấy chứng nhận tiền gửi đôla.
+: Giấy chứng nhận tiền gửi (CD) ghi bằng đola và được phát hành để được phát hành để đổi lấy tiền gửi bằng đôla.

@@ -1,0 +1,2 @@
+﻿@computer input
+#(Tech) nhập phẩm máy điện toán

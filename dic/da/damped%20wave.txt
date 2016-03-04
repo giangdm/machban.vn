@@ -1,0 +1,4 @@
+﻿@damped wave
+#(Tech) sóng suy giảm
+@Chuyên ngành kỹ thuật
+#sóng tắt dần

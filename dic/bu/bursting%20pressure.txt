@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất bung ra
+#áp suất nổ
+#áp suất vỡ tung

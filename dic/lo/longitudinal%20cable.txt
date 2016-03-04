@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bó sợi dọc
+@Lĩnh vực: điện
+#cáp dọc
+@Lĩnh vực: toán & tin
+#cáp dọc, bó sợi dọc

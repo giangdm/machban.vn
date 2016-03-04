@@ -1,0 +1,4 @@
+﻿@Monetary standard
+#(Econ) Bản vị tiền tệ.
+@Chuyên ngành kinh tế
+#bản vị tiền tệ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ làm lạnh phun lỏng cryo
+#hệ thống [thiết bị] lạnh phun lỏng cryo
+#thiết bị làm lạnh phun lỏng cryo

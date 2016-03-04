@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#độ dẫn nhiệt
+@Chuyên ngành kỹ thuật
+#độ dẫn nhiệt
+#hệ số dẫn nhiệt
+#sự dẫn nhiệt

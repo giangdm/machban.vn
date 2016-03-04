@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#chất lỏng bay hơi
+@Lĩnh vực: điện lạnh
+#chất lỏng đã bay hơi
+@Chuyên ngành kỹ thuật
+#chất lỏng bay hơi
+@Lĩnh vực: điện lạnh
+#chất lỏng đã bay hơi

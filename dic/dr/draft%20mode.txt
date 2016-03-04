@@ -1,0 +1,9 @@
+﻿@draft mode
+#(Tech) kiểu vẽ phác
+@Chuyên ngành kinh tế
+#cách làm bản nháp
+@Chuyên ngành kỹ thuật
+#cách nháp
+@Lĩnh vực: toán & tin
+#chế độ nháp
+#chế độ phác thảo

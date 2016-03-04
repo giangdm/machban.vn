@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp cách ly phản xạ
+@Lĩnh vực: xây dựng
+#sự cách ly phản xạ
+#sự cách nhiệt phản xạ

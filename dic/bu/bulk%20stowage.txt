@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#đổ xá (vào khoang tàu, không vào bao hoặc đóng kiện)
+#sự chất đống
+#sự đóng gói không bao bì
+#sự xếp hàng hóa rời
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự xếp thành đống

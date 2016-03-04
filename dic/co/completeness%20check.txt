@@ -1,0 +1,7 @@
+﻿@completeness check
+#(Tech) kiểm tra sự hoàn chỉnh
+@Chuyên ngành kỹ thuật
+#sự kiểm tra
+@Lĩnh vực: toán & tin
+#kiểm tra tính toàn vẹn
+#sự hoàn chỉnh

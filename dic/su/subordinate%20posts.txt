@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#cấp dưới
+#chức vụ hạ cấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chức vụ thừa hành
+#việc làm thừa hành

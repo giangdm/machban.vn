@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nửa sắc độ
+#nửa tông
+@Lĩnh vực: vật lý
+#âm liên tục
+#tông liên tục

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hở ở đỉnh
+#trán tường hình tam giác
+#trán tường vỡ

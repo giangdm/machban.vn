@@ -1,0 +1,2 @@
+﻿@frequency-response characteristic
+#(Tech) đặc tính hưởng ứng tần số

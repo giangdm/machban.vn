@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#đồ biểu hệ thống thiết bị
+#đồ biểu quy trình kỹ thuật
+#đồ biểu trình tự thao tác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sơ đồ hệ thống

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#con bài ăn
+#lá bài ăn
+#lá bài chủ
+#quân bài chủ
+@Chuyên ngành kỹ thuật
+#quân bài thắng
+@Lĩnh vực: toán & tin
+#quân bài chủ

@@ -1,0 +1,2 @@
+﻿@dc (direct-current) telegraphy = direct current telegraphy
+#(Tech) điện báo dòng điện một chiều

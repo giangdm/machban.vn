@@ -1,0 +1,6 @@
+﻿@alternate path
+#(Tech) đường thay thế, đường vòng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường dẫn luân phiên
+#đường dẫn thay thế

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#phân tích kiểm nghiệm
+@Lĩnh vực: cơ khí & công trình
+#phân tích kiểm tra
+@Lĩnh vực: xây dựng
+#sự phân để kiểm tra
+#sự tính kiểm nghiệm
+#sự tính kiểm tra

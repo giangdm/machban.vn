@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ đồng hồ chạy xung
+@Lĩnh vực: điện
+#hệ thống đồng hồ xung

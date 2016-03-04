@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cấu kiện mối đúc
+@Lĩnh vực: xây dựng
+#cấu kiện mới đúc

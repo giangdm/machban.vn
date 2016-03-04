@@ -1,0 +1,2 @@
+﻿@full-read pulse
+#(Tech) xung đọc (toàn phần) = read(ding) pulse

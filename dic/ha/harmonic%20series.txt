@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chuỗi điều hòa
+@Lĩnh vực: xây dựng
+#chuỗi hài hòa

@@ -1,0 +1,5 @@
+﻿@restiform
+*tính từ
+#dạng thừng
+@Chuyên ngành kỹ thuật
+#bình thường

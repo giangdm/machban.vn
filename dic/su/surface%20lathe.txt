@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp bề mặt
+#máy tiện cụt
+#máy tiện mặt đầu
+#máy tiện mặt mút
+#máy tiện ngang

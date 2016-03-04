@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#áp kế kiểu cột lỏng
+@Lĩnh vực: điện lạnh
+#manomet mức lỏng
+@Chuyên ngành kỹ thuật
+#áp kế kiểu cột lỏng
+@Lĩnh vực: điện lạnh
+#manomet mức lỏng

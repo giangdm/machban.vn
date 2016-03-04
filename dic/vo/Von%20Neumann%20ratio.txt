@@ -1,0 +1,3 @@
+﻿@Von Neumann ratio
+#(Econ) Tỷ số Von Neumann.
+: Một thống kê kiểm định được tính để tìm sự hiện diện của sự TƯƠNG QUAN CHUỖI CỦA CÁC SAI SỐ trong phân tích hồi quy.

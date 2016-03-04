@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập (hợp) nhiệm vụ không liên kết
+#tập (hợp) tác vụ không kết buộc

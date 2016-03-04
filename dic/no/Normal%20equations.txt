@@ -1,0 +1,3 @@
+﻿@Normal equations
+#(Econ) Các phương trình chuẩn.
+: Là một nhóm các phương trình đồng thời, nhóm phương trình nay được giải để có được ước lượng bình phương nhỏ nhất của các thông số trong một phân tích hồi quy, bao gồm tổng của các bình phương và tích chéo của các biến số trong phương trình hồi quy.

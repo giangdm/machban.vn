@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dao máy
+@Lĩnh vực: cơ khí & công trình
+#dao máy (máy dập cắt)

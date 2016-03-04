@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ngưỡng hút giữ
+@Lĩnh vực: điện
+#ngưỡng tác động (của rơle)

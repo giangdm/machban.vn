@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#mật độ tương đối
+@Chuyên ngành kỹ thuật
+#độ chặt tương đối
+#khối lượng riêng tương đối
+#mật độ tương đối
+#mật độ tỷ đối
+@Lĩnh vực: hóa học & vật liệu
+#mật độ tương dối
+@Lĩnh vực: xây dựng
+#tỷ trọng tương đối

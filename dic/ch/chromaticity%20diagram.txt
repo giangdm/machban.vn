@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#giản đồ sắc độ
+#sơ đồ màu
+@Lĩnh vực: xây dựng
+#bảng so màu
+#thang độ màu

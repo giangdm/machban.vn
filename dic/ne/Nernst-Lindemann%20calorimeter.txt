@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo nhiệt Nernst-Lindemann
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt lượng kế Nernst-Lindemann

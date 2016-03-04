@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch tín dụng
+#giao dịch trả góp
+#mua bán chịu

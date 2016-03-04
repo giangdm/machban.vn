@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chứng khoán phong vũ biểu
+#chứng khoán tham khảo
+#cổ phiếu có tính đại biểu
+#cổ phiếu phong vũ biểu (chỉ báo xu hướng thị trường)

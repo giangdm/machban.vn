@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điểm lamđa
+#nhiệt độ lamđa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điểm lamđa
+#nhiệt độ lamđa

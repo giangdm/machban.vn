@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ chỉ thị nhiệt độ dầu
+@Lĩnh vực: giao thông & vận tải
+#dầu dò nhiệt độ dầu

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#sơ đồ xây dựng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#đồ án thi công
+#mặt bằng thi công
+@Lĩnh vực: xây dựng
+#đồ án xây dựng
+#sơ đồ xây dựng

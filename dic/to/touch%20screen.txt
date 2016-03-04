@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#màn cảm ứng
+@Chuyên ngành kỹ thuật
+#màn hình cảm giác
+@Lĩnh vực: toán & tin
+#màn hình chạm
+#màn hình nhạy xúc giác
+#màn hình sờ
+#màn hình tiếp xúc
+#màn hình xúc giác

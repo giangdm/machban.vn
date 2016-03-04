@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#ngưỡng lỗi
+@Lĩnh vực: toán & tin
+#ngưỡng sai
+#ngưỡng sai hỏng
+@Chuyên ngành kỹ thuật
+#ngưỡng lỗi
+@Lĩnh vực: toán & tin
+#ngưỡng sai
+#ngưỡng sai hỏng

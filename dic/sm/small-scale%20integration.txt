@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thẻ thông minh
+@Lĩnh vực: toán & tin
+#cạc chip
+#thẻ chip
+@Lĩnh vực: điện lạnh
+#tích hợp cỡ nhỏ

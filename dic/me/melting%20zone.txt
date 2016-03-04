@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#đới nóng chảy
+#vừng nóng chảy
+@Lĩnh vực: xây dựng
+#vành (ảnh hưởng) nóng chảy
+#vùng (ảnh hưởng) nóng chảy
+@Lĩnh vực: điện lạnh
+#vùng nóng chảy

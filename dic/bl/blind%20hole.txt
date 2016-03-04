@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗ bịt
+#lỗ cụt
+#lỗ khoan tịt
+#lỗ mù
+#lỗ tắc
+#lỗ thông suốt
+@Lĩnh vực: cơ khí & công trình
+#lỗ có đáy
+#lỗ không suốt
+#lỗ không thông
+#lỗ kín
+@Lĩnh vực: xây dựng
+#lỗ tịt (khoan)

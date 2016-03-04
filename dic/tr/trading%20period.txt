@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#kì hạn kinh doanh (giữa 2 kì kết toán tài chánh)
+#kỳ hạn kinh doanh
+#kỳ hạn kinh doanh (giữa hai kỳ kết toán tài chánh)

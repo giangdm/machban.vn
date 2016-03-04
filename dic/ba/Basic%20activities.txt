@@ -1,0 +1,6 @@
+﻿@Basic activities
+#(Econ) Các hoạt động cơ bản.
+: Xem ECONOMIC BASE.
+@Chuyên ngành kinh tế
+#nguyên tắc kế toán cơ bản
+#những hoạt động cơ bản

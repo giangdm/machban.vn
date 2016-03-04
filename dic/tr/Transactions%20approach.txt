@@ -1,0 +1,3 @@
+﻿@Transactions approach
+#(Econ) Phương pháp giao dịch.
+: Tên phiên bản của Newcomb và Fisher về THUYẾT ĐỊNH LƯỢNG TIỀN.

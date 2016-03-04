@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#các yếu tố/bộ phận của máy móc
+@Lĩnh vực: toán & tin
+#phần môi trường
+#phần tử máy

@@ -1,0 +1,11 @@
+﻿@Planned economy
+#(Econ) Nền kinh tế kế hoạch hoá.
+: Một nền kinh tế trong đó các quá trình kinh tế chủ yếu được quyết định ở một mức độ lớn không phải do các tác nhân thị trường, mà do một cơ quan kế hoạch hoá kinh tế, cơ quan này thực hiện các mục tiêu kinh tế chủ yếu của xã hội.
+@Chuyên ngành kinh tế
+#kinh tế chỉ huy
+#kinh tế kế hoạch
+#nền kinh tế kế hoạch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kinh tế chỉ đạo
+#kinh tế theo kế hoạch

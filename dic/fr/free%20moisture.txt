@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#lượng nước tự do
+@Chuyên ngành kỹ thuật
+#độ ẩm tự do
+@Lĩnh vực: điện lạnh
+#độ ẩm không liên kết
+@Lĩnh vực: xây dựng
+#hơi ẩm trọng lực

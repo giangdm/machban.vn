@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#gối đỡ
+@Lĩnh vực: xây dựng
+#gối chặn
+@Lĩnh vực: toán & tin
+#gối chặn, má tì
+@Lĩnh vực: cơ khí & công trình
+#má tì

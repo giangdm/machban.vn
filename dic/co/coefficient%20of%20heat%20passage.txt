@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số dẫn nhiệt
+#hệ số truyền nhiệt

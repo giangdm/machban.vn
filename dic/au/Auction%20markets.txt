@@ -1,0 +1,3 @@
+﻿@Auction markets
+#(Econ) Các thị trường đấu giá.
+: Một thị trường có tổ chức tại đó giá cả được điều chỉnh liên tục theo biến đổi của cung và cầu. Nét đặc trưng cơ bản của các thị trường đấu giá là các hạng mục hàng hoá được chuẩn hoá, mua bán vô danh và đủ số lượng để đảm bảo hành vi cạnh tranh.

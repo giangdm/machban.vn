@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đánh dấu bằng điểm kiểm tra
+#vùng môi trường kiểm tra

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#lượng dự trữ tiền đồng
+#số vàng nắm giữ

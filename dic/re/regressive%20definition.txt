@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#định nghĩa đệ quy
+@Lĩnh vực: toán & tin
+#hạ cấp (của ma trận)

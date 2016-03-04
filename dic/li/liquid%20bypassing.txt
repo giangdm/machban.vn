@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đường vòng lỏng
+#tạo đường rẽ lỏng
+@Lĩnh vực: hóa học & vật liệu
+#nhánh lỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đường vòng lỏng
+#tạo đường rẽ lỏng
+@Lĩnh vực: hóa học & vật liệu
+#nhánh lỏng

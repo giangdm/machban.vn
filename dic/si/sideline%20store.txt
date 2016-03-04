@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chú thích bên lề (được in bên góc trang sách)
+#cửa hàng có bán các mặt hàng phụ
+#phần chú thêm bên cạnh

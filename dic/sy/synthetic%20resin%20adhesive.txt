@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#keo nhựa tổng hợp
+@Chuyên ngành kỹ thuật
+#nhựa tổng hợp
+@Lĩnh vực: xây dựng
+#keo tổng hợp

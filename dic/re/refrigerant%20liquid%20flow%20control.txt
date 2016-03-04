@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh dòng môi chất lạnh lỏng
+#khống chế dòng môi chất lạnh lỏng
+#sự điều chỉnh (khống chế) dòng môi chất lạnh

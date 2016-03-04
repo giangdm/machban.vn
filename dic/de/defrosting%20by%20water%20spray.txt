@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự làm tan đông bằng nước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phá băng bằng phun nước

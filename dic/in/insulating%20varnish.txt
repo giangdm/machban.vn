@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sơn cách điện
+#sơn cách nhiệt
+@Lĩnh vực: toán & tin
+#véc ni cách điện
+@Lĩnh vực: điện lạnh
+#vécni cách điện
+@Lĩnh vực: xây dựng
+#vécni cách nhiệt

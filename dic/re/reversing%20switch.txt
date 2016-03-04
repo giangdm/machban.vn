@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đường cong trái chiều
+@Lĩnh vực: điện
+#cần dao đảo chiều
+#công tắc đảo điện
+#công tắc đổi chiều

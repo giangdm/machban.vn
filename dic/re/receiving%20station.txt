@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#ga nhận hàng
+#ga tiếp nhận
+#trạm tiếp nhận
+#trạm tiếp nhận (vô tuyến điện)
+@Chuyên ngành kỹ thuật
+#đài thu
+@Lĩnh vực: toán & tin
+#đài nhận tin

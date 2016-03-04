@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#phanh phụ
+@Lĩnh vực: xây dựng
+#phanh bảo hiểm
+@Lĩnh vực: vật lý
+#phanh hãm gấp
+#phanh hãm khẩn cấp
+@Lĩnh vực: hóa học & vật liệu
+#phanh khẩn cấp
+@Lĩnh vực: cơ khí & công trình
+#thắng tay khẩn cấp
+@Chuyên ngành kỹ thuật
+#phanh phụ
+@Lĩnh vực: xây dựng
+#phanh bảo hiểm
+@Lĩnh vực: vật lý
+#phanh hãm gấp
+#phanh hãm khẩn cấp
+@Lĩnh vực: hóa học & vật liệu
+#phanh khẩn cấp
+@Lĩnh vực: cơ khí & công trình
+#thắng tay khẩn cấp

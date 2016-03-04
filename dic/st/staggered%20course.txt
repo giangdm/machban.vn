@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hàng ngói bố trí lệch nhau (không thẳng hàng)

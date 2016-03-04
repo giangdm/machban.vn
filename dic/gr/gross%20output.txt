@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#tổng đầu ra
+#tổng sản lượng
+#tổng số đầu ra
+@Chuyên ngành kỹ thuật
+#tổng sản lượng
+@Lĩnh vực: toán & tin
+#sản phẩm thô
+@Lĩnh vực: cơ khí & công trình
+#tổng điện lượng

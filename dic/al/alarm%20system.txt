@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống báo động
+@Chuyên ngành kỹ thuật
+#hệ thống báo động
+@Lĩnh vực: điện lạnh
+#hệ (thống) báo động

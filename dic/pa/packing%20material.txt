@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#vật liệu bao gói
+@Chuyên ngành kỹ thuật
+#vật liệu bít
+@Lĩnh vực: hóa học & vật liệu
+#vật liệu nạp

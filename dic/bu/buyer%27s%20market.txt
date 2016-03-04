@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thị trường của người mua
+#thị trường của người mua (tình trạng cung nhiều, cầu ít)
+#tình trạng cung nhiều cầu ít
+@Chuyên ngành kỹ thuật
+#chợ mua
+@Lĩnh vực: hóa học & vật liệu
+#thị trường người mua

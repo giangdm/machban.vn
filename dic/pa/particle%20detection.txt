@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dò hạt
+#phát hiện hạt
+@Lĩnh vực: vật lý
+#sự phát hiện hạt

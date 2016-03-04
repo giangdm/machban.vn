@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt dung riêng
+@Lĩnh vực: xây dựng
+#tỉ nhiệt

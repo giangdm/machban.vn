@@ -1,0 +1,5 @@
+﻿@diode detector
+#(Tech) bộ kiểm sóng đèn hai cực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ tách sóng đi-ốt

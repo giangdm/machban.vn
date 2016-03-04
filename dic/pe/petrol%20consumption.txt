@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mức tiêu thụ ga
+@Lĩnh vực: ô tô
+#mức tiêu thụ nhiên liệu
+#mức tiêu thụ xăng (động cơ)

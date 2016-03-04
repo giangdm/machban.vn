@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chi phí chỉ trả một lần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tiền chi tiêu một lần

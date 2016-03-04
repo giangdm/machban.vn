@@ -1,0 +1,2 @@
+﻿@automatic tuning control
+#(Tech) bộ điều chỉnh tần số tự động

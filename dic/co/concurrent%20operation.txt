@@ -1,0 +1,11 @@
+﻿@concurrent operation
+#(Tech) vận hành đồng thời; phép toán đồng thời
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hoạt động tương tranh
+#phép toán trùng hợp
+#thao tác trùng hợp
+@Lĩnh vực: điện tử & viễn thông
+#sự vận hành đồng thời
+#sự vận hành tương tranh
+#thao tác đồng thời

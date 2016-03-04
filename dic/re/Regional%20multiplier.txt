@@ -1,0 +1,3 @@
+﻿@Regional multiplier
+#(Econ) Số nhân khu vực.
+: Là một phiên bản của số nhân  được sử dụng trong việc phân tích các nền kinh tế khu vực.

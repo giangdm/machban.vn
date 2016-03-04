@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tấm lọc màu
+#thiết bị lọc màu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ lọc màu

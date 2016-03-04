@@ -1,0 +1,10 @@
+﻿@baseband
+#(Tech) dải gốc
+@Chuyên ngành kỹ thuật
+#dải cơ sở
+#dải gốc
+@Lĩnh vực: toán & tin
+#băng tần cơ sở
+#dải tần cơ sở
+@Lĩnh vực: xây dựng
+#đai bệ máy

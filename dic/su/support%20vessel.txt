@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tàu cung ứng
+@Lĩnh vực: giao thông & vận tải
+#tàu hỗ trợ (kiểu tầu)

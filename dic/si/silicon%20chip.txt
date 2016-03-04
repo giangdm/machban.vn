@@ -1,0 +1,6 @@
+﻿@silicon chip
+*danh từ
+#microchip làm bằng silic, dùng để chế tạo một tổ hợp vi mạch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chip silic

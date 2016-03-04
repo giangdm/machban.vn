@@ -1,0 +1,3 @@
+﻿@time-lock
+*danh từ
+#khoá hẹn giờ

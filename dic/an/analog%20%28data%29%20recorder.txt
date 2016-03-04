@@ -1,0 +1,2 @@
+﻿@analog (data) recorder
+#(Tech) máy ghi (dữ kiện) dạng tương tự

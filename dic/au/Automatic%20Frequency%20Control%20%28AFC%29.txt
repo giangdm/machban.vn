@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tự động diều khiển tần số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạch điều khiển tần số tự động
+#sự điều khiển tần số tự động
+@Lĩnh vực: điện tử & viễn thông
+#mạch kiểm tần số tự động

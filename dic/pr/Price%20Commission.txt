@@ -1,0 +1,3 @@
+﻿@Price Commission
+#(Econ) Uỷ ban vật giá.
+: Một uỷ ban độc lập do Chính phủ Anh thành lập năm 1973 để thực hiện các chính sách kiểm soát giá được biểu hiện trong các bộ luật về giá do Bộ Tài Chính soạn và Quốc hội thông qua. Uỷ ban này chính thức được bãi bỏ vào năm 1980.

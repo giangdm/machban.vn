@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ giãn kéo
+@Lĩnh vực: toán & tin
+#độ giãn khi kéo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ giãn kéo
+@Lĩnh vực: toán & tin
+#độ giãn khi kéo

@@ -1,0 +1,5 @@
+﻿- thiết bị trỏ tuyệt đối. Một thiết bị trỏ có vị trí luôn kết hợp với một vị trí cụ thể của con trỏ ( cursor) trên màn hình. Các mép của ma trận di động của thiết bị ăn khớp với các mép của màn hình hoặc của một cửa sổ trên màn hình. Chẳng hạn, nếu người dùng đặt bút điện tử của bảng con đồ hoạ lên góc trên phải của bảng, thì con trỏ trên màn hình sẽ dời đến góc trên phải của màn hình hoặc của cửa sổ trên màn hình nơi con trỏ đang kết hợp. Nếu người dùng dời bút điện tử đến góc dưới trái của bảng, thì con trỏ trên màn hình cũng sẽ dời đến góc dưới trái.
+Xem thêm absolute coordinate,  graphics tablet
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết bị trỏ tuyệt đối

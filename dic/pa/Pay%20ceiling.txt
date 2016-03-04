@@ -1,0 +1,6 @@
+﻿@Pay ceiling
+#(Econ) Mức lương trần; giới hạn trần của tiền lương; Giới hạn cao nhất của tiền lương.
+: Một giới hạn cao nhất có hiệu lực về mức tiền lương.
+@Chuyên ngành kinh tế
+#lương trần
+#mức lương cao nhất

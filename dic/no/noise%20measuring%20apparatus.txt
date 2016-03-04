@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy đo tạp âm
+#máy đo tiếng động
+#thiết bị đo tạp âm
+#thiết bị đo tiếng động

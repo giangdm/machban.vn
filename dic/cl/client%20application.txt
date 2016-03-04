@@ -1,0 +1,7 @@
+﻿@client application
+#(Tech) ứng dụng khách/ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ứng dụng khách
+@Lĩnh vực: xây dựng
+#ứng dụng thân chủ

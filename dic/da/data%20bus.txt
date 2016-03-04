@@ -1,0 +1,6 @@
+﻿@data bus
+#(Tech) mẫu tuyến dữ liệu
+@Chuyên ngành kỹ thuật
+#buýt dữ liệu
+@Lĩnh vực: toán & tin
+#kênh số liệu

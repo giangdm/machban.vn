@@ -1,0 +1,24 @@
+﻿@Simulation
+#(Econ) Sự mô phỏng.
+: Một hình thức dự đoán đưa ra một tập hợp những phương án dự đoán dựa trên những giả thiết khác nhau về các tình huống tương lai, cụ thể là để trả lời câu hỏi cái gì sẽ xảy ra nếu?, thay vì câu hỏi cái gì sẽ xảy ra?.
+<!-- more -->
+@simulation /,simju'leiʃn/
+*danh từ
+#sự giả vờ, sự giả cách
+#sự đóng vai, sự thủ vai
+#sự bắt chước; sự dựa theo
+@Chuyên ngành kỹ thuật
+#bắt chước
+#mô phỏng
+#sự bắt chước
+#sự mô hình hóa
+#sự mô phỏng
+@Lĩnh vực: xây dựng
+#dựa theo
+@Lĩnh vực: toán & tin
+#sự giả lập
+#sự phỏng theo
+<!-- more -->
+@simulation
+#(máy tính) sự mô hình hoá, sự phỏng theo
+#analogue s. mô hình hoá tương tự

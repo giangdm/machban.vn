@@ -1,0 +1,14 @@
+﻿@Standard of living
+#(Econ) Mức sống.
+: Gọi là mức MỨC PHÚC LỢI XÃ HỘI, THOẢ DỤNG hay thu nhập thực tế. Mức độ phúc lợi vật chất của một cá nhân hay hộ gia đình, thường được tính bằng số lượng hành hoá và dịch vụ được tiêu dùng.
+@Chuyên ngành kinh tế
+#mức sinh hoạt
+#mức sinh sống
+#mức sống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tiêu chuẩn của đời sống
+<!-- more -->
+@standard of living
+*danh từ
+#mức sống

@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#đường ống áp lực
+#đường ống cung cấp
+#đường ống phân phối
+#ống cao áp
+#ống cung cấp
+#ống dẫn tới
+#ống phân phối
+#ống xả
+@Lĩnh vực: xây dựng
+#ống dẫn nước tới
+@Lĩnh vực: ô tô
+#ống phun cấp

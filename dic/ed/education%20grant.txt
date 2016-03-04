@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#trợ cấp giáo dục
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tiền trợ cấp học phí

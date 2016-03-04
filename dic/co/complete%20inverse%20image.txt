@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ảnh ngược hoàn toàn
+#nghịch ảnh đầy đủ
+#tạo ảnh toàn phần

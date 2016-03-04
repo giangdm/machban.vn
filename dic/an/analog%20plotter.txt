@@ -1,0 +1,2 @@
+﻿@analog plotter
+#(Tech) máy vẽ hình loại tương tự

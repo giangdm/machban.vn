@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nút ngắt tự động áp suất cao
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ ngắt an toàn

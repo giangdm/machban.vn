@@ -1,0 +1,3 @@
+﻿@Profit, falling rate of
+#(Econ) Tỷ lệ sút giảm lợi nhuận.
+: Một xu hướng đối với tỷ lệ lợi tức của vốn sút giảm theo thời gian.

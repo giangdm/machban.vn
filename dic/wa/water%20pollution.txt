@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: môi trường
+#ô nhiễm nước
+@Lĩnh vực: xây dựng
+#sự làm ô nhiễm nước
+@Lĩnh vực: cơ khí & công trình
+#sự nhiễm bẩn nước
+@Lĩnh vực: hóa học & vật liệu
+#sự ô nhiễm nước

@@ -1,0 +1,5 @@
+﻿@Gini coefficient
+#(Econ) Hệ số GINI.
+: Chỉ số về mức bất bình đẳng (thường là) của phân phối thu nhập.
+@Chuyên ngành kinh tế
+#hệ số Gini

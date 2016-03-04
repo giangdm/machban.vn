@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#rủi ro bể vỡ
+@Chuyên ngành kỹ thuật
+#nguy cơ phá hỏng

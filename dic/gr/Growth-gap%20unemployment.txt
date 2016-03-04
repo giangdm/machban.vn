@@ -1,0 +1,6 @@
+﻿@Growth-gap unemployment
+#(Econ) Thất nghiệp do chênh lệch về tăng trưởng.
+: Thất nghiệp do thiếu hụt cầu dài hạn.
+@Chuyên ngành kinh tế
+#nạn thất nghiệp do gián đoạn tăng trưởng
+#thất nghiệp do tăng trưởng đứt quãng

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#lực cắt ngang
+#ứng suất cắt
+#ứng suất trượt
+@Lĩnh vực: toán & tin
+#sức cắt ngang
+#ứng suất trượt (cắt)
+@Lĩnh vực: cơ khí & công trình
+#ứng suất cắt (tiếp tuyến)
+@Lĩnh vực: xây dựng
+#ứng suất chống cắt

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hàn kế
+#nhiệt kế lạnh
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt kế nghiệm lạnh
+@Lĩnh vực: y học
+#máy đo điềm băng

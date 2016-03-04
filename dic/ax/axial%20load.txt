@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sức trọng tải cầu xe
+#tải trọng đúng tâm
+#ứng suất dọc trục
+@Lĩnh vực: cơ khí & công trình
+#tải dọc trục
+#tải trọng hướng trục

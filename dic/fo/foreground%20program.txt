@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chương trình chính (máy tính)
+@Chuyên ngành kỹ thuật
+#chương trình ưu tiên
+#tiền cảnh
+@Lĩnh vực: toán & tin
+#chương trình bề mặt
+#chương trình khẩn

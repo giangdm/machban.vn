@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#số bình quân tổng thể
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kỳ vọng lý thuyết

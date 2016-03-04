@@ -1,0 +1,2 @@
+﻿@deposited resistor
+#(Tech) điện trở kết tụ

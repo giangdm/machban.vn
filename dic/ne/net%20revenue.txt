@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#doanh thu thuần
+#thu nhập doanh nghiệp tịnh
+#tiền lời ròng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#thực thu

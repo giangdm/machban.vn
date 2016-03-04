@@ -1,0 +1,6 @@
+﻿@reference library
+*danh từ
+#thư viện tra cứu (không được mượn về)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thư viện tham khảo

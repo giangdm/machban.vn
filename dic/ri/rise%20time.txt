@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian thiết lập
+@Lĩnh vực: toán & tin
+#thời gian khởi động
+#thời gian nhảy
+#thời gian phát sinh
+@Lĩnh vực: điện lạnh
+#thời gian lên
+#thời gian tăng trưởng
+@Lĩnh vực: vật lý
+#thời gian tăng
+@Lĩnh vực: đo lường & điều khiển
+#thời gian tăng lên
+@Lĩnh vực: giao thông & vận tải
+#thời gian tăng tốc (gây tiếng nổ âm thanh)

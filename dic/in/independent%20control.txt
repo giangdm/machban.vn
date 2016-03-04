@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều chỉnh độc lập
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển độc lập
+@Lĩnh vực: vật lý
+#sự điều khiển độc lập

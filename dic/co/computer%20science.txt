@@ -1,0 +1,10 @@
+﻿@computer science
+#(Tech) khoa học điện toán, khoa vi tính, tin học [TN]
+@Chuyên ngành kinh tế
+#khoa học máy tính
+@Chuyên ngành kỹ thuật
+#khoa học thông tin
+@Lĩnh vực: toán & tin
+#khoa học máy tính
+#khoa học tính
+#khoa học về máy tính

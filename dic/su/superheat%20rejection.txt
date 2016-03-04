@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thải bỏ quá nhiệt
+#thải nhiệt do quá nhiệt
+#thải nhiệt quá nhiệt

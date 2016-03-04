@@ -1,0 +1,4 @@
+﻿@compact disk-interactive
+#Một tiêu chuẩn về đựa compact được thiết kế để sử dụng cho việc nghe nhìn có tương tác các đựa compact chứa hình tiếng bằng máy TV và máy đọc đựa CD-I Được thiết kế để dùng cho giáo dục, đào tạo và giải trí nhưng CD-I chậm tìm được thị trường cho mình
+@Chuyên ngành kỹ thuật
+#đĩa compac tương tác

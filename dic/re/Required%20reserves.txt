@@ -1,0 +1,7 @@
+﻿@Required reserves
+#(Econ) Dự trữ bắt buộc.
+: Trong ngành ngân hàng ở Mỹ, các tổ chức nhận tiền gửi phải duy trì một tỷ lệ phần trăm nhất định của số nợ mà các tổ chức này phát hành (về cơ bản gồm có séc, sổ tiết kiệm và giấy chứng nhận tài khoản tiền gửi) dưới dạng số dư nhàn rỗi.
+@Chuyên ngành kinh tế
+#dự trữ bắt buộc
+#dự trữ pháp định (của ngân hàng)
+#những dự trữ bắt buộc

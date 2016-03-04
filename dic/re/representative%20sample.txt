@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#mẫu đại diện
+#mẫu hàng chọn
+#mẫu hàng tiêu biểu
+#mẫu tiêu biểu
+@Chuyên ngành kỹ thuật
+#mẫu đại diện
+#mẫu điển hình
+#mẫu đo
+#mẫu thay thế
+#mẫu thử
+#mẫu vật

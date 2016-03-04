@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tải trọng ngoài
+#ứng suất ngoài
+@Lĩnh vực: cơ khí & công trình
+#ứng suất mặt ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tải trọng ngoài
+#ứng suất ngoài
+@Lĩnh vực: cơ khí & công trình
+#ứng suất mặt ngoài

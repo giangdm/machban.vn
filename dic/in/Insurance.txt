@@ -1,0 +1,27 @@
+﻿@Insurance
+#(Econ) Bảo hiểm
+: Bảo hiểm cho phép mọi người đổi rủi ro của việc thua thiệt lớn để lấy sự chắc chắn của việc thua thiệt nhỏ.
+<!-- more -->
+@insurance /in'ʃuərəns/
+*danh từ
+#sự bảo hiểm
+#tiền đóng bảo hiểm; tiền bảo hiểm được hưởng
+#hợp đồng bảo hiểm
+@Chuyên ngành kinh tế
+#bảo hiểm
+@Chuyên ngành kỹ thuật
+#bảo hiểm
+#sự bảo hiểm
+#tiền bảo hiểm
+@Lĩnh vực: toán & tin
+#biện pháp bảo hiểm
+#chế độ bảo hiểm
+@Lĩnh vực: hóa học & vật liệu
+#hợp đồng bảo hiểm
+<!-- more -->
+@insurance
+#(toán kinh tế) sự bảo hiểm biện pháp bảo hiểm, chế độ bảo hiểm
+#acsidnet i. bảo hiểm tai nạn
+#life i. bảo hiểm đời sống
+#property i. bảo hiểm tài sản
+#term life i. bảo hiểm suốt đời

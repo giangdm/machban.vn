@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điểm sôi bình thường
+@Lĩnh vực: hóa học & vật liệu
+#điểm sôi thường
+@Lĩnh vực: môi trường
+#nhiệt độ sôi thường

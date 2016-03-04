@@ -1,0 +1,28 @@
+﻿@Chuyên ngành kinh tế
+#điểm gãy
+@Chuyên ngành kỹ thuật
+#điểm bắt cháy (vật liệu)
+#điểm bốc cháy
+#điểm chớp sáng
+#nhiệt độ cháy thấp nhất
+#nhiệt độ chớp sáng
+@Lĩnh vực: điện
+#điểm bắt cháy
+#điểm chớp cháy
+@Lĩnh vực: điện lạnh
+#điểm bắt lửa
+@Lĩnh vực: xây dựng
+#điểm chớp
+@Chuyên ngành kỹ thuật
+#điểm bắt cháy (vật liệu)
+#điểm bốc cháy
+#điểm chớp sáng
+#nhiệt độ cháy thấp nhất
+#nhiệt độ chớp sáng
+@Lĩnh vực: điện
+#điểm bắt cháy
+#điểm chớp cháy
+@Lĩnh vực: điện lạnh
+#điểm bắt lửa
+@Lĩnh vực: xây dựng
+#điểm chớp

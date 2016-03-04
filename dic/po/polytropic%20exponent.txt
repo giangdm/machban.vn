@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#chỉ số đa biến
+@Lĩnh vực: điện lạnh
+#số mũ đa biến
+#số mũ đa hướng

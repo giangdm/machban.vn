@@ -1,0 +1,5 @@
+﻿@Bounded rationality
+#(Econ) Tính duy lý bị hạn chế.
+: Một khái niệm được H.A.SIMON đưa ra cho rằng mặc dầu các cá nhân cư xử theo lý trí theo đó sự sắp đặt sở thích cho dù là hoàn chỉnh, nhất quán và kín kẽ, nhưng khả năng thu nhập và xử lý thông tin của họ lại bị hạn chế, nghĩa là nó bị giới hạn bởi khả năng tính toán của trí óc con người.
+@Chuyên ngành kinh tế
+#lý tính hữu hạn (của khách hàng...)

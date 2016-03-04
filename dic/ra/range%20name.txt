@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#tên vùng
+@Lĩnh vực: toán & tin
+#tên dải
+#tên miền

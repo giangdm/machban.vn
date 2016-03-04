@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dàn ngưng nhiều cụm
+#dàn ngưng nhiều ống dẫn
+#giàn ngưng nhiều cụm
+#giàn ngưng nhiều ống dẫn

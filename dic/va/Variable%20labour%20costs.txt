@@ -1,0 +1,3 @@
+﻿@Variable labour costs
+#(Econ) Các chi phí lao động khả biến.
+: Chi phí thuê mướn công nhân thay đổi tỷ lệ thuận hay hơn tỷ lệ thuận với số giờ làm việc.

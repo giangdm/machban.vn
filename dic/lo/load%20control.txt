@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều chỉnh tải trọng
+@Lĩnh vực: toán & tin
+#điều chỉnh theo tải trọng
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển tải
+@Lĩnh vực: điện
+#sự điều khiển phụ tải
+#sự kiềm chế phụ tải
+@Chuyên ngành kỹ thuật
+#sự điều chỉnh tải trọng
+@Lĩnh vực: toán & tin
+#điều chỉnh theo tải trọng
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển tải
+@Lĩnh vực: điện
+#sự điều khiển phụ tải
+#sự kiềm chế phụ tải

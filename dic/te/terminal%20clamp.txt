@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#cái kẹp đầu dây
+#cái kẹp tiếp xúc
+@Lĩnh vực: điện
+#kẹp nối dây

@@ -1,0 +1,6 @@
+﻿@Constrained optimization
+#(Econ) Tối ưu hoá có rằng buộc
+: Cực đại hoá hay cực tiểu hoá một HÀM MỤC TIÊU, trong đó CÁC BIẾN LỰA CHỌN tuân theo một số RẰNG BUỘC nào đó. (Xem LINEAR PROGRAMMING).
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự tối ưu ép buộc

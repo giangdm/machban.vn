@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#trạm nhập dữ liệu
+@Lĩnh vực: toán & tin
+#trạm tập hợp dữ liệu
+#trạm thu thập dữ liệu

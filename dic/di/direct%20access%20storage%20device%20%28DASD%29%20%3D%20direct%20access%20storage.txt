@@ -1,0 +1,2 @@
+﻿@direct access storage device (DASD) = direct access storage
+#(Tech)  bộ trữ trực truy

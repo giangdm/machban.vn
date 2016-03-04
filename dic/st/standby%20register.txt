@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thanh ghi dự phòng
+@Lĩnh vực: toán & tin
+#thanh ghi dự trữ

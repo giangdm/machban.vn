@@ -1,0 +1,3 @@
+﻿@Long run average cost (LAC)
+#(Econ) Chi phí trung bình dài hạn.
+: Trong dài hạn tất cả các chi phí có xu hướng là chi phí khả biến.

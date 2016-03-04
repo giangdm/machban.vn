@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sự liên kết chịu kéo
+@Lĩnh vực: điện
+#bộ nối chịu lực căng
+@Lĩnh vực: cơ khí & công trình
+#khe nứt căng
+@Lĩnh vực: xây dựng
+#mối nối chịu kéo

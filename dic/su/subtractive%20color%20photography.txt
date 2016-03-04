@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chụp ảnh màu (theo) kiểu trừ
+#chụp ảnh màu trừ

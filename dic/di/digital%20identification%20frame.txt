@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khung nhận dạng số
+#mành nhận dạng bằng số
+#mành nhận dạng digital

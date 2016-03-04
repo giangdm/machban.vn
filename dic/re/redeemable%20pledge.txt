@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự cầm cố có thể chuộc lại
+#sự thế chấp có thể chuộc lại
+#vật cầm cố có thể chuộc lại
+#vật làm tin có thể lấy lại
+#vật thế chấp có thể chuộc lại
+#vật thế chấp có thể lấy lại được

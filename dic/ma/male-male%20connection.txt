@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cánh nối
+@Lĩnh vực: hóa học & vật liệu
+#nối cạnh
+@Lĩnh vực: xây dựng
+#mối nối cạnh

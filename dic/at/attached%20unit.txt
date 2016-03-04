@@ -1,0 +1,2 @@
+﻿@attached unit
+#(Tech) bộ phận gắn nối

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp ống lồng
+@Lĩnh vực: xây dựng
+#khớp nối định tâm (bằng vành gờ khớp lồng ống)
+#khớp nối lồng ống

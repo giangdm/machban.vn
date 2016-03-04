@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Khuyến nghị H.450 của ITU về hỗ trợ các dịch vụ phụ trong H.323

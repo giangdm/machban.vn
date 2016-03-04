@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nguyên liệu làm khuôn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#vật liệu đúc

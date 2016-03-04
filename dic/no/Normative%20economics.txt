@@ -1,0 +1,6 @@
+﻿@Normative economics
+#(Econ) Kinh tế học chuẩn tắc.
+: Là phân tích kinh tế để đưa ra những quy định hoặc những tuyên bố về việc điều đó cần phải như thế nào chứ không phải điều đó là như thế nào.
+@Chuyên ngành kinh tế
+#kinh tế học chuẩn tắc
+#kinh tế học quy phạm

@@ -1,0 +1,6 @@
+﻿@acknowledge character
+#(Tech) ký tự báo nhận
+@Chuyên ngành kỹ thuật
+#ký tự báo nhận
+@Lĩnh vực: toán & tin
+#ký tự xác nhận

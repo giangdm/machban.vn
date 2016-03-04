@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#ngày cấp
+#ngày cấp (chứng từ)
+#ngày ký phát (hối phiếu)
+#ngày lập
+#ngày lập (hóa đơn)
+#ngày mở (thư tín dụng)
+#ngày phát hành

@@ -1,0 +1,5 @@
+﻿@Pecuniary external economy
+#(Econ) Tính kinh tế tiền tệ bên ngoài.
+: Miêu tả một tình huống trong đó lợi nhuận của một doanh nghiệp phụ thuộc không những  vào đầu vào và đầu ra của riêng doanh nghiệp mà còn phụ thuộc vào đầu vào và đầu ra của các doanh nghiệp khác.
+@Chuyên ngành kinh tế
+#ngoại ứng tiền tệ

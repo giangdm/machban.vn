@@ -1,0 +1,7 @@
+﻿@digital signal processor (DSP)
+#(Tech) bộ xử lý tín hiệu dạng số tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ xử lý tín hiệu số
+@Lĩnh vực: toán & tin
+#bộ xử lý tín hiệu số-DSP

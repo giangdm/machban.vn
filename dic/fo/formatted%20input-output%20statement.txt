@@ -1,0 +1,2 @@
+﻿@formatted input-output statement
+#(Tech) câu lệnh vào ra đã định khuôn dạng

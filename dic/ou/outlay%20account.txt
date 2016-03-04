@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản chi tiêu
+#tài khoản kinh phí
+#tài khoản quyết toán lỗ lãi

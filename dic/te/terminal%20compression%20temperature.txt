@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nhiệt độ cuối tầm (quá trình) nén
+#nhiệt độ cuối tầm nén
+@Lĩnh vực: vật lý
+#nhiệt độ quá trình nén

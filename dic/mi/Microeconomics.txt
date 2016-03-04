@@ -1,0 +1,12 @@
+﻿@Microeconomics
+#(Econ) Kinh tế học vi mô.
+: Là thuật ngữ sử dụng để mô tả những phần trong phân tích kinh tế quan tâm đến hành vi của những đơn vị đơn lẻ, cụ thể là những người tiêu dùng và các doanh nghiệp.
+@Chuyên ngành kinh tế
+#kinh tế hóa cụ thể
+#kinh tế học cụ thể
+#kinh tế học vi mô
+#kinh tế học vi quan
+<!-- more -->
+@microeconomics
+*danh từ
+#(kinh tế) ngành nghiên cứu hoạt động của các doanh nghiệp và người tiêu dùng; kinh tế vi mô

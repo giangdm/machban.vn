@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy thâu toàn sóng
+@Lĩnh vực: toán & tin
+#máy thu toàn sóng

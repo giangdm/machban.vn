@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tải trọng chính
+#tải trọng chủ yếu
+#tải trọng cơ bản

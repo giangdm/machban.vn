@@ -1,0 +1,8 @@
+﻿@code letter
+#(Tech) chữ mã
+@Chuyên ngành kỹ thuật
+#mã chữ
+@Lĩnh vực: toán & tin
+#chữ cái mã
+#ký hiệu mã
+#mẫu tự mã

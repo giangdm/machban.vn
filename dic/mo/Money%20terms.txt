@@ -1,0 +1,5 @@
+﻿@Money terms
+#(Econ) (Biểu thị giá trị) bằng tiền.
+: Là việc biểu hiện những giá trị của một loại hàng hoá theo tiền trên danh nghĩa - hay nó cách khác là bao gồm cả những thay đổi trong mức giá chung.
+@Chuyên ngành kinh tế
+#đơn vị tiền tệ

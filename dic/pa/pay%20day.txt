@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#ngày kết toán (cổ phiếu)
+#ngày phát lương
+#ngày thanh toán
+#ngày trả lương

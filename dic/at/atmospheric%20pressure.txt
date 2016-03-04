@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất khí quyển
+#áp suất không khí
+@Lĩnh vực: xây dựng
+#áp lực khí trời

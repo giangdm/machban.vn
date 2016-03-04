@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#biên
+#sườn
+@Lĩnh vực: xây dựng
+#hông
+#vách cánh
+@Lĩnh vực: hóa học & vật liệu
+#vách treo

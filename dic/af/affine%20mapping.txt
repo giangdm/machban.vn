@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ánh xạ afin
+@Lĩnh vực: toán & tin
+#ánh xạ affin

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#băng tần UHF
+#dải siêu tần
+#dải tần UHF

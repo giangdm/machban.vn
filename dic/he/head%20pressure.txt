@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#áp suất hút vào
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#áp lực bơm
+@Lĩnh vực: cơ khí & công trình
+#áp lực cột nước

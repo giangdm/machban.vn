@@ -1,0 +1,8 @@
+﻿@taxability /,tæksə'biliti/
+*danh từ
+#tính chất có thể đánh thuế được
+#tính chất có thể quy tội, tính chất có thể chê
+@Chuyên ngành kinh tế
+#khả năng có thể bị đánh thuế
+#tính chất có thể đánh thuế
+#tính chất phải nộp thuế

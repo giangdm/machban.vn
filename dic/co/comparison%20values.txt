@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#trị số chuẩn
+@Lĩnh vực: vật lý
+#trị số để so sánh

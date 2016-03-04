@@ -1,0 +1,2 @@
+﻿@building block principle
+#(Tech) nguyên lý kết khối

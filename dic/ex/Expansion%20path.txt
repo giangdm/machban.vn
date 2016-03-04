@@ -1,0 +1,5 @@
+﻿@Expansion path
+#(Econ) Đường bành trướng; Đường mở rộng
+: Liên quan đến HÃNG, đây là đường nối các lựa chọn yếu tố đầu vào ở mỗi mức sản lượng như trong đồ thị, nghĩa là quỹ tích của cấc tiếp điểm giữa ĐƯỜNG ĐẲNG PHÍ và ĐƯỜNG ĐẲNG LƯỢNG.
+@Chuyên ngành kinh tế
+#đường mở rộng

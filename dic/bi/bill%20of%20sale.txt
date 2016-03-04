@@ -1,0 +1,10 @@
+﻿@bill of sale
+*danh từ
+#văn bản ghi nhận việc mua bán tài sản tư nhân
+@Chuyên ngành kinh tế
+#giấy bán
+#giấy bán hàng
+#văn tự bán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hóa đơn bán hàng

@@ -1,0 +1,5 @@
+﻿@glue-pot /'glu:pɔt/
+*danh từ
+#lọ hồ
+@Chuyên ngành kỹ thuật
+#lọ keo

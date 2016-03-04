@@ -1,0 +1,2 @@
+﻿@deterioration failure
+#(Tech) thất bại vì bị suy thoái

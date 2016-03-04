@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện trở không tuyến tính
+@Lĩnh vực: điện
+#điện trở phi tuyến

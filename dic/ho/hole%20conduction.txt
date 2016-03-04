@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ dẫn (điện) lỗ trống
+#tính dẫn (điện) lỗ trống
+@Lĩnh vực: điện
+#sự dẫn điện lỗ trống

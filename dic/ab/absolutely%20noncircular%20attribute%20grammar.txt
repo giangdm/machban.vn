@@ -1,0 +1,2 @@
+﻿@absolutely noncircular attribute grammar
+#(Tech) văn phạm thuộc tính phi tuần hoàn tuyệt đối

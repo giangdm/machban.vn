@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#nhu cầu dung tích phòng
+@Lĩnh vực: điện lạnh
+#nhu cầu không gian phòng

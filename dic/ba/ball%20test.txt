@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thử độ cứng Brinell
+@Lĩnh vực: xây dựng
+#kiểm tra bóng
+#thí nghiệm bi
+@Lĩnh vực: hóa học & vật liệu
+#phép thử dùng bi lăn
+#phép thử thông máng
+@Lĩnh vực: điện
+#thử độ cứng dùng bi

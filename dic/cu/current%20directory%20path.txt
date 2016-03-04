@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường dẫn thư mục hiện hành
+@Lĩnh vực: điện tử & viễn thông
+#đường dẫn thư mục hiện thời

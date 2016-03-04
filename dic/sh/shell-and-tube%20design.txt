@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kết đông kiểu ống chùm
+#kết đông kiểu ống vỏ
+#thiết kế (kết cấu) kiểu ống vỏ (ống chùm)
+#thiết kế kiểu ống chùm
+#thiết kế kiểu ống vỏ

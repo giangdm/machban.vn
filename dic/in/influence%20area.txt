@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt ảnh hưởng
+#miền ảnh hưởng
+#vùng ảnh hưởng
+@Lĩnh vực: xây dựng
+#diện tích ảnh hưởng
+#khu ảnh hưởng
+#khu vực ảnh hưởng

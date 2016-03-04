@@ -1,0 +1,3 @@
+﻿@Auctions
+#(Econ) Đấu giá.
+: Một kiểu thị trường trong đó người mua tiềm tàng đặt giá cho hàng hoá chứ không phải đơn thuần trả theo.

@@ -1,0 +1,4 @@
+﻿@consumed power
+#(Tech) công suất tiêu thụ
+@Chuyên ngành kỹ thuật
+#công suất tiêu thụ

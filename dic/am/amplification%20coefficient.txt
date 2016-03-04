@@ -1,0 +1,9 @@
+﻿@amplification coefficient
+#(Tech) hệ số khuếch đại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#độ tăng tính khuếch đại
+@Lĩnh vực: toán & tin
+#hệ số khuếch đại
+@Lĩnh vực: điện
+#hệ số khuếch tán

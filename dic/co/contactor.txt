@@ -1,0 +1,17 @@
+﻿@contactor /'kɔntæktə/
+*danh từ
+#(vật lý) cái tiếp xúc
+=electromagnetic contactor: cái tiếp xúc điện tử
+@Chuyên ngành kỹ thuật
+#bộ đóng cắt
+#bộ khởi động
+#bộ tiếp xúc
+#cái tiếp xúc
+#rơle điện
+@Lĩnh vực: điện
+#bộ đóng ngắt
+#công tắc tơ
+#công tắc tự động
+#côngtăctơ
+@Lĩnh vực: xây dựng
+#máy khởi động

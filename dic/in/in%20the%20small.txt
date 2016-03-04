@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cục bộ
+@Lĩnh vực: toán & tin
+#bộ phận nhỏ
+@Lĩnh vực: xây dựng
+#sự ổn định bé

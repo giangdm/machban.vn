@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#phân tích chiều hướng biến đổi
+#phân tích động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#phân tích động
+@Lĩnh vực: xây dựng
+#phân tích động học
+@Lĩnh vực: toán & tin
+#sự phân tích động

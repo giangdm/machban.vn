@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trở kháng sóng hình sin
+@Lĩnh vực: điện
+#trở kháng sóng sin

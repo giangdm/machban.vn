@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chất màu
+@Chuyên ngành kỹ thuật
+#bột màu
+#chất nhuộm màu

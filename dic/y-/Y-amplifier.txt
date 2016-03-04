@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ khuếch đại Y
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ khuếch đại học

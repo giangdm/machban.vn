@@ -1,0 +1,3 @@
+﻿@Underidentification
+#(Econ) Sự chưa đủ để nhận dạng.
+: Được xem như không được nhận dạng. Xem IDENTIFICATION PROBLEM.

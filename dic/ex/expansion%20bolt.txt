@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bulông chẻ
+@Lĩnh vực: cơ khí & công trình
+#bulông chẻ đuôi
+#ốc nở
+#vít chẻ đuôi
+@Lĩnh vực: điện lạnh
+#bulông giãn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bulông chẻ
+@Lĩnh vực: cơ khí & công trình
+#bulông chẻ đuôi
+#ốc nở
+#vít chẻ đuôi
+@Lĩnh vực: điện lạnh
+#bulông giãn

@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#sự hỏng máy
+@Lĩnh vực: cơ khí & công trình
+#sự hư hỏng động cơ
+@Lĩnh vực: xây dựng
+#sư trục trặc động cơ
+@Lĩnh vực: toán & tin
+#sự trục trặc động cơ
+@Chuyên ngành kỹ thuật
+#sự hỏng máy
+@Lĩnh vực: cơ khí & công trình
+#sự hư hỏng động cơ
+@Lĩnh vực: xây dựng
+#sư trục trặc động cơ
+@Lĩnh vực: toán & tin
+#sự trục trặc động cơ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khu vực ảnh hưởng
+#phạm vị ảnh hưởng
+@Chuyên ngành kỹ thuật
+#vùng ảnh hưởng

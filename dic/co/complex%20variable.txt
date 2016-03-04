@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#biến số ảo
+#phức biểu số
+@Chuyên ngành kỹ thuật
+#biến phức
+@Lĩnh vực: xây dựng
+#biến số tạp

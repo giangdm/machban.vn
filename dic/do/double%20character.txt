@@ -1,0 +1,2 @@
+﻿@double character
+#(Tech) ký tự đôi

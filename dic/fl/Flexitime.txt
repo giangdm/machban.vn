@@ -1,0 +1,9 @@
+﻿@Flexitime
+#(Econ) Thời gian làm việc linh hoạt.
+: Lý thuyết kinh tế chỉ ra rằng nếu thực hiện thời gian linh hoạt sẽ có lợi vì các công nhân khác nhau có những khẩu vị và sở thích khác nhau.
+@Chuyên ngành kinh tế
+#thời gian làm việc linh hoạt
+<!-- more -->
+@flexitime
+*danh từ
+#hệ thống giờ làm việc linh hoạt

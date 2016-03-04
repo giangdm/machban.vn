@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#kim ngạch hối phiếu vượt quá thư tín dụng
+#ký phát hối phiếu thái quá
+#số tiền hối phiếu vượt quá thư tín dụng

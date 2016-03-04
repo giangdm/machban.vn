@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#kiến trúc phân lớp
+@Lĩnh vực: toán & tin
+#cấu trúc phân tầng
+#kiến trúc theo lớp
+@Chuyên ngành kỹ thuật
+#kiến trúc phân lớp
+@Lĩnh vực: toán & tin
+#cấu trúc phân tầng
+#kiến trúc theo lớp

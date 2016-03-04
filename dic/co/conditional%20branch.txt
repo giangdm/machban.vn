@@ -1,0 +1,6 @@
+﻿@conditional branch
+#(Tech) nhánh rẽ tùy điều kiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhánh có điều kiện
+#nhánh điều kiện

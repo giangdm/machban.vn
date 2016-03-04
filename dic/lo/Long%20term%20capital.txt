@@ -1,0 +1,5 @@
+﻿@Long term capital
+#(Econ) Vốn dài hạn.
+: Vốn dưới dạng tài chính (tiền) nếu được vay theo các điều khoản vay nợ, có kỳ hạn trả nợ dài, thường trên 10 năm; hoặc theo cách khác nếu ai huy động bằng cách phát hành cổ phần thì sẽ không được hoàn trả, trừ khi công ty đóng cửa.
+@Chuyên ngành kinh tế
+#vốn dài hạn

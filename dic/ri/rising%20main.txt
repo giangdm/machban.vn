@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#ống đứng
+@Lĩnh vực: điện
+#đường cáp điện dọc
+#đường cáp điện đứng
+#đường điện thẳng đứng
+#ống cáp dọc
+#ống cáp thẳng đứng (cho nhiều tầng nhà)
+@Lĩnh vực: điện lạnh
+#đường dây trục đặt đứng
+@Lĩnh vực: xây dựng
+#ống xả nước đứng

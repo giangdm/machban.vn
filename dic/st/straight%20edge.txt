@@ -1,0 +1,19 @@
+﻿@Chuyên ngành kỹ thuật
+#lưỡi dao thẳng
+#lưỡi dao tựa
+#mép thẳng
+#thước
+#thước dẫn
+@Lĩnh vực: hóa học & vật liệu
+#ê ke kép
+#thước chữ T
+@Lĩnh vực: giao thông & vận tải
+#ê ke vuông
+#thước rà
+@Lĩnh vực: xây dựng
+#thước điều chỉnh
+#thước làm thẳng
+@Lĩnh vực: đo lường & điều khiển
+#thước kẻ
+@Lĩnh vực: toán & tin
+#thước, thước dẫn

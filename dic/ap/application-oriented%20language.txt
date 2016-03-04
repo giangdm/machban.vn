@@ -1,0 +1,5 @@
+﻿@application-oriented language
+#(Tech) ngôn ngữ hướng dụng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ hướng ứng dụng

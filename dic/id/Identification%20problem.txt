@@ -1,0 +1,3 @@
+﻿@Identification problem
+#(Econ) Bài toán nhận dạng.
+: Bài toán kinh tế lượng nảy sinh trong quá trình ước lượng các tham số của các phương trình đồng thời.

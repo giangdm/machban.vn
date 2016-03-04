@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#Am2/JS
+@Lĩnh vực: điện
+#ampe mét bình phương trên jun giây

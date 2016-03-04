@@ -1,0 +1,5 @@
+﻿@Voluntary-exchange model
+#(Econ) Mô hình trao đổi tự nguyện.
+: Một phép tiếp cận đối với phân tích việc cung cấp Hàng hoá công cộng nhằm thiết lập các điều kiện mà qua đó các hàng hoá này có thể cung cấp trên cơ sở thoả thuận hoàn toàn nhất trí - nghĩa là không có cưỡng ép.
+@Chuyên ngành kinh tế
+#mô hình trao đổi tự nguyện

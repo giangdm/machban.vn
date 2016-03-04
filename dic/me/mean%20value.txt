@@ -1,0 +1,8 @@
+﻿@mean value [mi:n'vælju:]
+*danh từ
+# giá trị trung bình
+@Chuyên ngành kinh tế
+#giá trị trung bình
+@Chuyên ngành kỹ thuật
+#giá trị trung bình
+#trung bình

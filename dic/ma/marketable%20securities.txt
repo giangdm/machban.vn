@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chứng khoán có giá
+#chứng khoán trái phiếu dễ bán
+#có thể mua bán được
+#những chứng khoán có thể mua bán được

@@ -1,0 +1,6 @@
+﻿@Net property income from abroad
+#(Econ) Thu nhập tài sản ròng từ nước ngoài.
+: Là mức chênh lệch giữa LỢI NHUẬN, CỔ TỨC và LÃI SUẤT nhận được từ các tài sản ở nước ngoài của các cư dân trong nước và lợi nhuận, cổ tức và lãi suất thanh toán ra nước ngoài cho các TÀI SẢN của các cư dân người nước ngoài ở nền kinh tế TRONG NƯỚC.
+@Chuyên ngành kinh tế
+#thu nhập dòng từ tài sản ở nước ngoài
+#thu nhập ròng từ tài sản ở nước ngoài

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đường gắn
+@Lĩnh vực: môi trường
+#mạch hồ
+@Lĩnh vực: hóa học & vật liệu
+#mạch keo

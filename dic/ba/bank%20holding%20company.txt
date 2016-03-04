@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#công ty chủ quản ngân hàng
+#công ty holding ngân hàng
+#công ty mẹ ngân hàng

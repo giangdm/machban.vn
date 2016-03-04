@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tốc độ chảy thoát
+#tốc độ trút tải
+@Lĩnh vực: xây dựng
+#vận tốc lưu tượng

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#trọng lượng ròng thực tế
+#trọng lượng tịnh thực tế

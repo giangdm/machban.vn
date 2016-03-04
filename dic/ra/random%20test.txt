@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép kiểm tra ngẫu nhiên
+@Lĩnh vực: xây dựng
+#sự thử ngẫu nhiên
+#thí nghiệm ngẫu nhiên

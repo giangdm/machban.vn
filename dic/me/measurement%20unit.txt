@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn vị đo
+#đơn vị đo lường
+@Lĩnh vực: toán & tin
+#thiết bị đo lường

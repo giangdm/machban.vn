@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#thanh chịu nén
+@Lĩnh vực: toán & tin
+#thanh chéo (chịu nén)
+#thanh xiên (chịu nén)

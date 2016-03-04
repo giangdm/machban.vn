@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#máy điều chỉnh chuyển chất lỏng
+#máy điều chỉnh chuyển tác nhân lạnh lỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ điều chỉnh cung cấp lỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ điều chỉnh cung cấp lỏng

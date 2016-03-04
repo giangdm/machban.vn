@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#khối nhỏ
+@Lĩnh vực: toán & tin
+#khối có ít bản ghi
+#khối ngắn
+@Lĩnh vực: ô tô
+#khối động cơ ngắn (gồm píston, xy lanh, trục khủy)

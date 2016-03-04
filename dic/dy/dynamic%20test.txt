@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự kiểm tra động
+#sự thử động
+@Lĩnh vực: cơ khí & công trình
+#sự thử động lực
+#thử động lực
+#trắc nghiệm động lực
+@Lĩnh vực: hóa học & vật liệu
+#thí nghiệm động lực
+@Lĩnh vực: xây dựng
+#thử nghiệm động học

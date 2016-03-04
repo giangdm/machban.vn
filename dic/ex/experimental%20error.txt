@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sai số số thí nghiệm
+@Lĩnh vực: điện lạnh
+#sai số thí nghiệm
+@Lĩnh vực: toán & tin
+#sai số thực nghiệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sai số số thí nghiệm
+@Lĩnh vực: điện lạnh
+#sai số thí nghiệm
+@Lĩnh vực: toán & tin
+#sai số thực nghiệm

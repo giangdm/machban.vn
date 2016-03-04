@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#lược sử môi trường ứng dụng
+@Lĩnh vực: toán & tin
+#hiện trạng môi trường ứng dụng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#định dạng môi trường ứng dụng

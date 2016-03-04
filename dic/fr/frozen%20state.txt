@@ -1,0 +1,7 @@
+﻿@frozen state
+#(Tech) trạng thái đông đặc/ngưng bặt
+@Chuyên ngành kinh tế
+#trạng thái đông lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trạng thái đông lạnh

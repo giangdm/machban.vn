@@ -1,0 +1,2 @@
+﻿@AM (amplitude-modulated) receiver
+#(Tech) máy thu biến điệu biên (độ)

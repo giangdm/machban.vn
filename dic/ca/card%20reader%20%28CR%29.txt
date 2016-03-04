@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ đọc phiếu
+#máy đọc thẻ
+#máy đọc thẻ từ

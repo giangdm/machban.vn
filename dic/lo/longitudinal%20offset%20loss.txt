@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự thất thoát dịch chuyển dọc
+@Lĩnh vực: vật lý
+#tổn thất do dịch chuyển dọc

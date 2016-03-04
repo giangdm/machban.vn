@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phương pháp năng lượng biến dạng
+@Lĩnh vực: toán & tin
+#phương pháp ứng suất năng lượng

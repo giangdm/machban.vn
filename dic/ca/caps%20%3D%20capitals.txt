@@ -1,0 +1,2 @@
+﻿@caps = capitals
+#(Tech) các chữ hoa

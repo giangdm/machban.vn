@@ -1,0 +1,15 @@
+﻿@landing field
+*danh từ
+#bãi đáp, bãi hạ cánh
+@Chuyên ngành kỹ thuật
+#đường băng
+#phi trường
+#sân bay
+@Lĩnh vực: giao thông & vận tải
+#vùng cất hạ cánh
+@Chuyên ngành kỹ thuật
+#đường băng
+#phi trường
+#sân bay
+@Lĩnh vực: giao thông & vận tải
+#vùng cất hạ cánh

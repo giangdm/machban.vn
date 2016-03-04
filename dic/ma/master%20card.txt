@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bìa chính
+#bìa chủ
+#cạc chính
+#cạc chủ
+#phiếu chính
+#tấm mạch chính
+#thẻ chính
+@Lĩnh vực: điện tử & viễn thông
+#thẻ tín dụng

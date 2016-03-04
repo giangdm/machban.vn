@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chất làm lạnh trung gian
+#chất lỏng trung gian
+#chất tải lạnh trung gian

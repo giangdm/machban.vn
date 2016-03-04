@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#kiểu mẫu bỏ thầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phương thức thầu

@@ -1,0 +1,3 @@
+﻿@split-level
+*tính từ
+#(nhà, phòng) có sàn của phòng này ở vào nửa chừng (cao hơn hay thấp hơn) phòng bên cạnh

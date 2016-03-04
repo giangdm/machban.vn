@@ -1,0 +1,30 @@
+﻿@flow control
+#(Tech) điều khiển thông lượng
+@Chuyên ngành kỹ thuật
+#sự chỉnh dòng
+#sự điều chỉnh dòng chảy
+#sự điều chỉnh lưu lượng
+#sự điều tiết dòng chảy
+#sự kiểm soát lưu lượng
+@Lĩnh vực: toán & tin
+#điều khiển dòng (luồng)
+#sự điều khiển dòng
+#sự kiểm soát luồng
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển luồng
+@Lĩnh vực: ô tô
+#sự điều khiển lưu lượng
+@Chuyên ngành kỹ thuật
+#sự chỉnh dòng
+#sự điều chỉnh dòng chảy
+#sự điều chỉnh lưu lượng
+#sự điều tiết dòng chảy
+#sự kiểm soát lưu lượng
+@Lĩnh vực: toán & tin
+#điều khiển dòng (luồng)
+#sự điều khiển dòng
+#sự kiểm soát luồng
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển luồng
+@Lĩnh vực: ô tô
+#sự điều khiển lưu lượng

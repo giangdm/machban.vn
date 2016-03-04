@@ -1,0 +1,6 @@
+﻿@Programme budgeting
+#(Econ) Lập ngân sách theo chương trình.
+: Xem OUTPUT BUDGETING.
+@Chuyên ngành kinh tế
+#ngân sách có tính kế hoạch
+#sự ghi ngân sách có kế hoạch

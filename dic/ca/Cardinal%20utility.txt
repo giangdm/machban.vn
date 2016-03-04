@@ -1,0 +1,5 @@
+﻿@Cardinal utility
+#(Econ) Độ thoả dụng điểm hoá; Độ thoả dụng, khoảng cách giữa các mức thoả dụng.
+: Có thể phân biệt hai nghĩa của cụm thuật ngữ này.1)Ít được sử dụng hơn là độ thoả dụng gắn với một nhóm hàng hoá có thể đo được một cách tuyệt đối bằng đơn vị như 'util' (một thuật ngữ được Jevons dùng trong thuyết kinh tế chính trị của ông năm 1871). 2)Được sử dụng rộng rãi hơn, liên quan chỉ đến khoảng cách giữa các mức độ thoả dụng.
+@Chuyên ngành kinh tế
+#lượng hữu dụng

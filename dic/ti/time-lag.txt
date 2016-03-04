@@ -1,0 +1,5 @@
+﻿@time-lag
+*danh từ
+#khoảng cách thời gian giữa hai sự kiện có liên quan
+@Chuyên ngành kinh tế
+#độ trễ thời gian

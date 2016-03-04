@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chương trình xử lý lô
+@Lĩnh vực: toán & tin
+#chương trình xử lý theo bó

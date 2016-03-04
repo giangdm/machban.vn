@@ -1,0 +1,10 @@
+﻿@Time series
+#(Econ) Chuỗi số/dữ liệu theo thời gian.
+: Một chuỗi các giá trị quan sầtm một biến nhận ở các thời điểm khác nhau (thường là trong các giai đoạn kế tiếp nhau).
+@Chuyên ngành kinh tế
+#dãy số liệu theo thời gian
+#những số liệu theo chuỗi thời gian
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi thời gian
+#loạt thời gian

@@ -1,0 +1,3 @@
+﻿@std
+*(viết tắt)
+#hệ thống điện thoại gọi đường dài cho người thuê bao (subscriber trunk dialling)

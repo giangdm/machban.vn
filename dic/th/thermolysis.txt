@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự phân nhiệt
+@Chuyên ngành kỹ thuật
+#sự nhiệt phân
+@Lĩnh vực: y học
+#tiêu nhiệt

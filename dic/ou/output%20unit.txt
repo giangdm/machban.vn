@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#đơn vị đầu ra
+#đơn vị sản lượng
+@Chuyên ngành kỹ thuật
+#thiết bị xuất
+@Lĩnh vực: toán & tin
+#thiết bị ra

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ phận nhập
+@Lĩnh vực: toán & tin
+#bộ vào
+@Lĩnh vực: đo lường & điều khiển
+#phần tử đầu vào
+@Lĩnh vực: điện tử & viễn thông
+#phần tử nhập

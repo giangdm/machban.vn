@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng quan sát
+#cửa quan sát
+#kính quan sát

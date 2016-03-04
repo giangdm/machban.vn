@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ghi-sê ngân hàng tự động
+#máy giao dịch tự động
+#máy rút tiền tự động

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều chỉnh theo chương trình
+#điều khiển theo chương trình
+#điều khiển theo thời gian biểu

@@ -1,0 +1,2 @@
+﻿@end-of-text character
+#(Tech) ký tự kết thúc văn bản

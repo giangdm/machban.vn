@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#độ thấm gia tăng
+#tính thấm gia tăng
+@Lĩnh vực: điện
+#độ thẩm từ gia tăng
+@Lĩnh vực: điện lạnh
+#độ từ thẩm tăng
+#số gia độ từ thẩm

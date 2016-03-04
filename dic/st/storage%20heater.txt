@@ -1,0 +1,9 @@
+﻿@storage heater
+*danh từ
+#lò sưởi điện tích nhiệt (nhiệt được tích lại vào những lúc giá điện rẻ hơn)
+@Chuyên ngành kỹ thuật
+#lò sưởi tích nhiệt
+@Lĩnh vực: điện lạnh
+#bộ đun bể trữ
+@Lĩnh vực: cơ khí & công trình
+#bộ tăng nhiệt thùng trữ

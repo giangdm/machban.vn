@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#áp kế ống biên
+#áp kế ống Bourdon
+#áp kế ống lò xo
+@Lĩnh vực: đo lường & điều khiển
+#áp kế kiểu lò xo

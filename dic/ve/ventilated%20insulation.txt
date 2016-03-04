@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cách nhiệt có thông gió
+#cách nhiệt có xả khí

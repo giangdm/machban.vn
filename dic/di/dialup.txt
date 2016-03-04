@@ -1,0 +1,2 @@
+﻿@dialup
+#(Tech) nối nhất thời (giữa các máy) [NB]

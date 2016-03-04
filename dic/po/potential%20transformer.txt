@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy biến áp
+#máy biến thế
+@Lĩnh vực: điện
+#bộ biến điện áp
+#máy biến áp điện thế
+@Lĩnh vực: điện lạnh
+#máy biến đổi điện áp
+#máy biến thế đo thế

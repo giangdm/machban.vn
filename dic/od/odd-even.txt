@@ -1,0 +1,5 @@
+﻿@odd-even
+#trạng từ
+#chẵn-lẻ
+@Chuyên ngành kỹ thuật
+#lẻ-chẵn

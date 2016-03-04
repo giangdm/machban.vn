@@ -1,0 +1,6 @@
+﻿@Property rights
+#(Econ) Các quyền sở hữu tài sản.
+: Những quyền này nói đến việc cho phép sử dụng tài nguyên, hàng hoá và dịch vụ.
+@Chuyên ngành kinh tế
+#cổ phiếu bất động sản
+#quyền sở hữu tài sản

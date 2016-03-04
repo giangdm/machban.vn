@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#đường cong làm nguội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đường cong gia lạnh
+#đường cong làm lạnh
+@Lĩnh vực: hóa học & vật liệu
+#đường cong làm lanh
+#đường nguội

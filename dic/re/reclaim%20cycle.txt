@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chu trình tái sinh
+@Lĩnh vực: điện lạnh
+#chu trình hoàn nguyên
+#chu trình phục hồi
+#chu trình tái sinh (phục hồi, hoàn nguyên)

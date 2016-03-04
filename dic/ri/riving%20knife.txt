@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dao bóc lớp
+#dao tách lớp
+@Lĩnh vực: cơ khí & công trình
+#chêm mở mạch cưa

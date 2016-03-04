@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#chuyển mạch cắt nhanh
+@Lĩnh vực: điện lạnh
+#cầu dao nhạy
+#cầu dao tác dụng nhanh
+@Lĩnh vực: điện
+#ổ cắm bật vào
+#ổ cắm đóng nhanh
+#ổ cắm lắp nhanh
+#ổ cắm tự sập vào

@@ -1,0 +1,18 @@
+﻿@Stock exchange
+#(Econ) Sở giao dịch chứng khoán.
+: Một thị trường mà ở đó buôn bán các chứng khoán chứ không phải là hối phiếu hay các công cụ ngắn hạn khác do chính phủ, các địa phương và CÁC CÔNG TY CÔNG CỘNG phát hành.
+<!-- more -->
+@stock exchange /'stɔkiks,tʃeindʤ/
+*danh từ
+#sở giao dịch chứng khoán
+=the Stock Exchange: sở giao dịch chứng khoán Luân đôn
+@Chuyên ngành kinh tế
+#sở giao dịch chứng khoán
+#sở giao dịch cổ phiếu
+#sở giao thông chứng khoán
+@Chuyên ngành kỹ thuật
+#thị trường chứng khoán
+@Lĩnh vực: xây dựng
+#giao dịch chứng khoán
+@Lĩnh vực: toán & tin
+#phòng hối đoái

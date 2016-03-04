@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#một loại dạng băng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ khuôn (nước) đá
+#sự lật khuôn đá

@@ -1,0 +1,3 @@
+﻿@Rank-tournament compensation rule
+#(Econ) Quy tắc đền bù theo xếp hạng thi đua
+: Một quy tắc theo đó việc người chủ thanh toán cho nhân viên phụ thuộc vào thứ hạng của nhân viên đó trong cuộc ganh đua.

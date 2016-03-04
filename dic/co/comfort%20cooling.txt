@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự làm lạnh thuận tiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#làm mát tiện nghi
+@Lĩnh vực: xây dựng
+#sự làm mát tiện nghi

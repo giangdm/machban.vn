@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự nhìn bằng máy
+#sự nhìn của máy
+#thị giác máy

@@ -1,0 +1,14 @@
+﻿@electrolytic rectifier
+#(Tech) bộ chỉnh lưu điện giải
+@Chuyên ngành kỹ thuật
+#bộ chỉnh lưu điện phân
+@Lĩnh vực: điện
+#chỉnh lưu điện phân
+@Lĩnh vực: hóa học & vật liệu
+#máy tinh cất điện phân
+@Chuyên ngành kỹ thuật
+#bộ chỉnh lưu điện phân
+@Lĩnh vực: điện
+#chỉnh lưu điện phân
+@Lĩnh vực: hóa học & vật liệu
+#máy tinh cất điện phân

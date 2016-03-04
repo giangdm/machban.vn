@@ -1,0 +1,2 @@
+﻿@chart recording
+#(Tech) ghi đồ thị

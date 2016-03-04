@@ -1,0 +1,2 @@
+﻿@aural harmonic
+#(Tech) điều âm dựa trên thính giác

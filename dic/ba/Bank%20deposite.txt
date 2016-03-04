@@ -1,0 +1,3 @@
+﻿@Bank deposite
+#(Econ) Tiền gửi ngân hàng.
+: Theo ngiã giản đơn, đó là các khoản tiền gửi trong tài khoản ngân hàng. Trong thực tế chúng đơn giản là những ghi chép về tình trạng nợ của một ngân hàng đối với  những người gửi, và chúng nảy sinh từ tính chất của ngân hàng với vai trò là TRUNG GIAN TÀI CHÍNH.

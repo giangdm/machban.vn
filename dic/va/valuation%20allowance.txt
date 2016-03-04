@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#để định giá tích sản
+#dự trữ để bù giá, để định giá tài sản
+#dự trữ để bù giảm giá

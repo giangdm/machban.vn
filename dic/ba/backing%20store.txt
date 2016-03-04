@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ dự phòng
+#bộ nhớ phụ
+@Lĩnh vực: điện tử & viễn thông
+#lưu trữ phụ

@@ -1,0 +1,4 @@
+﻿@checksum
+#tổng kiểm tra, đặc số kiểm tra
+@Chuyên ngành kỹ thuật
+#kiểm tra tổng

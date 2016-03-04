@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sản lượng hơi
+#sự sinh hơi
+@Lĩnh vực: điện
+#sự phát hơi (nước)
+@Lĩnh vực: giao thông & vận tải
+#sự sinh hơi nước (động cơ)

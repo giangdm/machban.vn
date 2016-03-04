@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự gia nhiệt đối lưu
+@Lĩnh vực: điện lạnh
+#sưởi ấm bằng đối lưu

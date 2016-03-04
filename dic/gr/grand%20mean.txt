@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số tổng bình quân
+#trung bình tổng quát

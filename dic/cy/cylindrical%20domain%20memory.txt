@@ -1,0 +1,2 @@
+﻿@cylindrical domain memory
+#(Tech) bộ nhớ vùng trụ

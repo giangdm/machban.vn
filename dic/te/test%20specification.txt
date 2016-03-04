@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mã kiểm tra
+#sự đặc tả kiểm tra
+@Lĩnh vực: toán & tin
+#đặc tả kiểm tra

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ chảy của vữa
+#độ lỏng của vữa
+#tính lưu động của vữa

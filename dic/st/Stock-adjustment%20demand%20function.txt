@@ -1,0 +1,3 @@
+﻿@Stock-adjustment demand function
+#(Econ) Hàm cầu điều chỉnh theo lượng vốn.
+: Áp dụng đối với cầu về hàng tiêu dùng lâu bền. Đây là một hàm cầu mà trong bất kỳ giai đoạn nào phảp ánh mức chênh lệch giữa số lượng thực có và một mức hàng tiêu dùng lâu bền tối ưu mong muốn.

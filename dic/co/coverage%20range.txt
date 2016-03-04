@@ -1,0 +1,2 @@
+﻿@coverage range
+#(Tech) tầm bao quát

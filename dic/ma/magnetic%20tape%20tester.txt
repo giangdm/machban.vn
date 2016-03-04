@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ kiểm tra băng từ
+#thiết bị kiểm tra băng từ

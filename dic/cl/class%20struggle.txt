@@ -1,0 +1,5 @@
+﻿@class struggle
+#đấu tranh giai cấp
+@Chuyên ngành kinh tế
+#đấu tranh giai cấp
+#đấu tranh xã hội

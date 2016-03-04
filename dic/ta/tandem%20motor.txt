@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ kép
+@Lĩnh vực: đo lường & điều khiển
+#động cơ tiếp đôi

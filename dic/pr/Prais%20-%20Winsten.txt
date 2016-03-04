@@ -1,0 +1,3 @@
+﻿@Prais - Winsten
+#(Econ) Biến đổi Prais - Winsten.
+: Biến đổi Prais - Winsten được sử dụng trong phương pháp COCHRANE-ORCUTT để ước tính các thông số của một phương trình mà số dư của chúng tuân theo MỐI TƯƠNG QUAN TẠO THÀNH DÃY.

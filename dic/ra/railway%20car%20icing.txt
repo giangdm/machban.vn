@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự nạp băng vào toa lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cấp (nước) đá cho toa tàu lạnh

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần tử không dùng nữa
+#phần tử lỗi thời
+#phần tử quá hạn
+#yếu tố lỗi thời

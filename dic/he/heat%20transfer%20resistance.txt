@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#điện trở nhiệt
+@Chuyên ngành kỹ thuật
+#nhiệt trở
+#nhiệt trở truyền nhiệt

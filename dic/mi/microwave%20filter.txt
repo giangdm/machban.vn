@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lọc vi ba
+#bộ lọc vi sóng
+@Lĩnh vực: điện lạnh
+#bộ lọc sóng cực ngắn

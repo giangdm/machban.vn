@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự biến thiên độ ẩm
+@Lĩnh vực: cơ khí & công trình
+#sự thay đổi độ ẩm

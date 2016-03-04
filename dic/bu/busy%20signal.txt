@@ -1,0 +1,8 @@
+﻿@busy signal
+#(Tech) tín hiệu báo bận
+@Chuyên ngành kinh tế
+#tín hiệu bận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tín hiệu bận
+#tín hiệu đường bị chiếm

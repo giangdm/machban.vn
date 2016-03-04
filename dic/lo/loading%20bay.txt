@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#vịnh chất hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#vùng nạp (điện tích)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#vùng nạp (điện tích)

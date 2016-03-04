@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thu nhập chính
+#thu nhập cơ bản
+#thu nhập doanh nghiệp chính

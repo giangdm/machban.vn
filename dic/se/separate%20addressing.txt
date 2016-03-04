@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#địa chỉ hóa riêng biệt
+#địa chỉ hóa tách rời

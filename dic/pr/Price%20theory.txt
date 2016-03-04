@@ -1,0 +1,5 @@
+﻿@Price theory
+#(Econ) Lý thuyết giá.
+: Các lý thuyết bao gồm trong  tư duy có thể được chia làm ba đề mục chính: Các lý thuyết liên quan đến sự xác định các giá riêng lẻ, các thuyết liên quan đến các thay đổi trong mức giá tổng hợp và các thuyết  áp dụng cho việc phân bổ nguồn lực.
+@Chuyên ngành kinh tế
+#lý thuyết giá cả

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm bảo vệ
+@Lĩnh vực: điện tử & viễn thông
+#điểm liên kết xuống (ở máy thu đổi tần)

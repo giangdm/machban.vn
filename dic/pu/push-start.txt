@@ -1,0 +1,5 @@
+﻿@push-start
+*ngoại động từ
+#khởi động (xe có động cơ) bằng cách đẩy nó cho máy chạy
+*danh từ
+#xe nổ máy

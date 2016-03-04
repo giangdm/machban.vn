@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#khí cụ đo cao trình
+#máy đo cao trình
+@Lĩnh vực: điện lạnh
+#dụng cụ đo mức
+#thước thủy chuẩn
+@Chuyên ngành kỹ thuật
+#khí cụ đo cao trình
+#máy đo cao trình
+@Lĩnh vực: điện lạnh
+#dụng cụ đo mức
+#thước thủy chuẩn

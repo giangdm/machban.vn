@@ -1,0 +1,10 @@
+﻿@collating sequence
+#(Tech) trình tự đối hợp
+@Chuyên ngành kỹ thuật
+#thứ tự sắp xếp
+@Lĩnh vực: toán & tin
+#chuỗi đối chiếu
+#dãy đối chiếu
+#dãy hòa trộn
+#dãy so lựa
+#thứ tự đối chiếu

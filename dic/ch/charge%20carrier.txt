@@ -1,0 +1,10 @@
+﻿@charge carrier
+#(Tech) hạt mang điện tích
+@Chuyên ngành kỹ thuật
+#hạt mang điện
+#phần tử mang
+@Lĩnh vực: điện lạnh
+#hạt tải điện (tích)
+#phần tử tải (điện)
+@Lĩnh vực: điện tử & viễn thông
+#vật mang điện

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự chuyển điện tích
+@Lĩnh vực: điện lạnh
+#chuyển điện tích
+@Lĩnh vực: điện tử & viễn thông
+#sự chuyển giao điện tích

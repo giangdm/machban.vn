@@ -1,0 +1,3 @@
+﻿@Little - Mirrlees method
+#(Econ) Phương pháp Little - Mirrlees.
+: Một kỹ thuật đánh giá dự án trong các NƯỚC ĐANG PHÁT TRIỂN đã được chú ý rộng rãi.

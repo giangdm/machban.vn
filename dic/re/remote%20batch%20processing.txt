@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý (dữ liệu) từ xa
+#sự xử lý lô từ xa
+#xử lý bó từ xa

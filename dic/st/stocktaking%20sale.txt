@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#bán để kiểm kê hàng trữ kho
+#bán hạ giá trước (hoặc sau) khi kiểm kê

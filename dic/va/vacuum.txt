@@ -1,0 +1,19 @@
+﻿@vacuum /'vækjuəm/
+*danh từ,  số nhiều vacuums,  vacua
+#(vật lý) chân không
+#(thông tục) (như) vacuum_cleaner
+@Chuyên ngành kinh tế
+#chân không
+@Chuyên ngành kỹ thuật
+#áp suất âm
+#áp suất thấp
+#chân không tuyệt đối
+#có chân không
+#độ chân không
+#rỗng
+#trống
+@Lĩnh vực: ô tô
+#áp thấp
+<!-- more -->
+@vacuum
+#(vật lí) Chân không

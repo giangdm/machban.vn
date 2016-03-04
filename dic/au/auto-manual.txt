@@ -1,0 +1,2 @@
+﻿@auto-manual
+#(Tech) tự động-thủ công

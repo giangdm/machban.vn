@@ -1,0 +1,23 @@
+﻿@Linear programming
+#(Econ) Quy hoạch tuyến tính.
+: Một kỹ thuật tạo lập và phân tích các bài toán tối ưu hốác ràng buộc trong đó hàm mục tiêu là một hàm tuyến tính và được tối đa hoá hay tối thiểu hoá tuỳ thuộc và số lượng các bất đẳng thức ràng buộc tuyến tính.
+@Chuyên ngành kinh tế
+#đơn vị đo đường dài
+#quy hoạch tuyến tính
+#sự đo đường dài
+@Chuyên ngành kỹ thuật
+#lập trình tuyến tính
+#quy hoạch tuyến tính
+@Lĩnh vực: điện tử & viễn thông
+#sự lập trình tuyến tính
+#sự quy hoạch tuyến tính
+@Lĩnh vực: hóa học & vật liệu
+#sự quy hoạch theo tuyến
+@Chuyên ngành kỹ thuật
+#lập trình tuyến tính
+#quy hoạch tuyến tính
+@Lĩnh vực: điện tử & viễn thông
+#sự lập trình tuyến tính
+#sự quy hoạch tuyến tính
+@Lĩnh vực: hóa học & vật liệu
+#sự quy hoạch theo tuyến

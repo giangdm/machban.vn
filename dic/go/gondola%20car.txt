@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#toa chở hàng
+#toa không mui
+#toa sàn
+#toa trần
+#toa trần chở hàng
+#xe sàn phẳng
+@Lĩnh vực: hóa học & vật liệu
+#toa trần (để chất hàng)
+#toa xe phẳng
+@Lĩnh vực: giao thông & vận tải
+#toa xe hàng không mui

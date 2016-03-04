@@ -1,0 +1,2 @@
+﻿@Shut down price
+#(Econ) Giá đóng cửa, cuối ngày (thị trường chứng khoán).

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#áp suất làm việc
+@Chuyên ngành kỹ thuật
+#áp lực làm việc
+#áp lực vận hành
+#áp suất làm việc
+#áp suất vận hành
+@Lĩnh vực: xây dựng
+#áp lực công tác
+@Lĩnh vực: điện
+#áp suất công tác

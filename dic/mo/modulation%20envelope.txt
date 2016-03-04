@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đường bao điều biến
+@Lĩnh vực: toán & tin
+#bao hình biến điệu
+@Lĩnh vực: điện
+#bao hình điều chế
+@Lĩnh vực: điện tử & viễn thông
+#đường bao biến điệu

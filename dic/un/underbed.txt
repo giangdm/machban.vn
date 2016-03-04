@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dưới
+#lớp đáy
+#lớp đệm
+#lớp dưới (so với lớp đầu tiên ở phía trên)
+@Lĩnh vực: hóa học & vật liệu
+#vỉa lót

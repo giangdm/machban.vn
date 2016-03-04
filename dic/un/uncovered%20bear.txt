@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hối phiếu không có đổi giá
+#hối phiếu không được bảo chứng
+#người bán khống
+#người bán khống (giá xuống) (chứng khoán)

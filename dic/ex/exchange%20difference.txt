@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#mức chênh lệch hối đoái
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự sai biệt đổi tiền
+#sự sai biệt hối suất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự sai biệt đổi tiền
+#sự sai biệt hối suất

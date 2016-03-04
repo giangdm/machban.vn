@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ampe kế nhiệt
+@Lĩnh vực: điện
+#ampe kế dây nhiệt

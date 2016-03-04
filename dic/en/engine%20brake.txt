@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#hãm động cơ
+@Lĩnh vực: ô tô
+#phanh động cơ
+@Lĩnh vực: cơ khí & công trình
+#thắng động cơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#hãm động cơ
+@Lĩnh vực: ô tô
+#phanh động cơ
+@Lĩnh vực: cơ khí & công trình
+#thắng động cơ

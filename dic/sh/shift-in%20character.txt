@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kí tự dịch vào
+#ký tự SI
+#ký tự trong mã
+@Lĩnh vực: điện tử & viễn thông
+#ký tự mã hóa

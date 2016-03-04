@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phổ công suất của tạp âm Gaussien
+#phổ công suất của tiếng ồn Gaussien

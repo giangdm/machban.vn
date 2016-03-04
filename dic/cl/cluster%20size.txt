@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cỡ cụm
+@Lĩnh vực: toán & tin
+#kích thước cụm
+#kích thước liên cung
+#kích thước nhóm

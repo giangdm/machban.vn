@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sắc (tông) liên tục
+@Chuyên ngành kỹ thuật
+#nắp có ren liên tục
+#nắp có ren vít
+@Lĩnh vực: toán & tin
+#sắc màu liên tục

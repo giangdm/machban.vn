@@ -1,0 +1,4 @@
+﻿@Syndicate loan
+#(Econ) Cho vay liên hiệp.
+@Chuyên ngành kinh tế
+#khoản vay tổ hợp

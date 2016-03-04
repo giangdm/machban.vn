@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp phiên
+@Lĩnh vực: toán & tin
+#lớp giao tiếp
+#tầng giao tiếp
+#tầng hội
+#tầng phiên

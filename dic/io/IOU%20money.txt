@@ -1,0 +1,2 @@
+﻿@IOU money
+#(Econ) Tiền dựa theo nợ.

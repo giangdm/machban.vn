@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ghi ngang (theo chiều thẳng góc)
+#sự ghi vuông góc

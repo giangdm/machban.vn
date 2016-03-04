@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số suy giảm
+#hệ số tắt dần
+@Lĩnh vực: toán & tin
+#nhân tử suy giảm

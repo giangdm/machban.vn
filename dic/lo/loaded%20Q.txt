@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ số Q ghép ngoài
+@Lĩnh vực: cơ khí & công trình
+#Q có phụ tải
+@Lĩnh vực: xây dựng
+#Q làm việc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ số Q ghép ngoài
+@Lĩnh vực: cơ khí & công trình
+#Q có phụ tải
+@Lĩnh vực: xây dựng
+#Q làm việc

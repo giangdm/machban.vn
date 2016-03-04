@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo mức
+#mức lỏng kế
+@Lĩnh vực: điện lạnh
+#chỉ thị mức lỏng
+#máy đo mức lỏng
+@Chuyên ngành kỹ thuật
+#máy đo mức
+#mức lỏng kế
+@Lĩnh vực: điện lạnh
+#chỉ thị mức lỏng
+#máy đo mức lỏng

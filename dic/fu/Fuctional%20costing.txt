@@ -1,0 +1,3 @@
+﻿@Fuctional costing
+#(Econ) Lập chi phí theo chức năng.
+: Xem OUTPUT BUDGETING.

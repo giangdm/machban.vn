@@ -1,0 +1,12 @@
+﻿@registration number
+*danh từ
+#số đăng ký (của xe)
+@Chuyên ngành kinh tế
+#số bằng lái
+#số đăng ký
+#số đăng ký, số bằng lái (xe hơi)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#số đăng ký
+@Lĩnh vực: ô tô
+#số đăng ký xe

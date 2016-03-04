@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#giới hạn quá khoảng đo
+#giới hạn quá tầm

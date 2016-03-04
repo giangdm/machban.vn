@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ phát hiện khói
+@Lĩnh vực: điện
+#bộ báo khói
+#máy phát hiện khói
+@Lĩnh vực: xây dựng
+#bộ cảm biến khói
+#đầu báo khói
+#thiết bị phát hiện khói
+@Lĩnh vực: điện lạnh
+#bộ dò khói
+#ống thông khói

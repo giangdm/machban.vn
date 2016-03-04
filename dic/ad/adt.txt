@@ -1,0 +1,3 @@
+﻿@adt
+*(viết tắt)
+#thời gian ban ngày ở Đại Tây Dương (Atlantic Daylight Time)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#bệnh (do) bảo quản lạnh
+@Lĩnh vực: điện lạnh
+#rối loạn do bảo quản lạnh

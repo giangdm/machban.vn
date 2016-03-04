@@ -1,0 +1,5 @@
+﻿@Inactive money
+#(Econ) Tiền nhàn rỗi.
+: Xem IDLE BALANCES.
+@Chuyên ngành kinh tế
+#tiền không hoạt động

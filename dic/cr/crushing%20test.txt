@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra độ cứng
+#sự thí nghiệm nén
+#sự thử ép
+#sự thử nén
+@Lĩnh vực: xây dựng
+#sự thí nghiệm uốn dập
+#thí nghiệm nén vỡ
+@Lĩnh vực: cơ khí & công trình
+#sự thử nén vỡ

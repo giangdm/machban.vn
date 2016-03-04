@@ -1,0 +1,2 @@
+﻿@ENQ (Enquiry = Inquiry)
+#(Tech) điều tra, chiếu hội; câu hỏi

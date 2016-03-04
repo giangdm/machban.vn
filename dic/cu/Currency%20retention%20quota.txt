@@ -1,0 +1,6 @@
+﻿@Currency retention quota
+#(Econ) Hạn mức giữ ngoại tệ
+: Quyền ở một số nước xuất khẩu, phần lớn là các nước XHCN, được mua lại một tỷ lệ nhất định số thu nhập NGOẠI HỐI của mình, do đó mà không bị lệ thuộc vào việc phân bổ nhập khẩu từ trung ương.
+@Chuyên ngành kinh tế
+#tỉ lệ lưu giữ ngoại hối
+#tỷ lệ lưu giữ ngoại hối

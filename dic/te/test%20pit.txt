@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#giếng thăm dò
+#hố thăm dò
+#lỗ khoan thăm dò
+@Lĩnh vực: xây dựng
+#hố đào thí nghiệm đất
+#hố thử
+@Lĩnh vực: cơ khí & công trình
+#hố khoan thăm dò

@@ -1,0 +1,26 @@
+﻿@Chuyên ngành kỹ thuật
+#đường ngắm
+#đường phối cảnh
+#tia ngắm
+@Lĩnh vực: vật lý
+#đường nhìn thấy
+#phương ngắm
+@Lĩnh vực: điện lạnh
+#đường truyền thẳng (của ăng ten phát)
+@Lĩnh vực: điện tử & viễn thông
+#trên đường thấy trực tiếp
+#trông thấy thẳng
+#trông thấy trực diện
+@Chuyên ngành kỹ thuật
+#đường ngắm
+#đường phối cảnh
+#tia ngắm
+@Lĩnh vực: vật lý
+#đường nhìn thấy
+#phương ngắm
+@Lĩnh vực: điện lạnh
+#đường truyền thẳng (của ăng ten phát)
+@Lĩnh vực: điện tử & viễn thông
+#trên đường thấy trực tiếp
+#trông thấy thẳng
+#trông thấy trực diện

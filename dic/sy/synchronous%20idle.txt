@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu hiệu rỗi đồng bộ
+@Lĩnh vực: điện tử & viễn thông
+#sự điều bộ
+#sự làm đồng bộ

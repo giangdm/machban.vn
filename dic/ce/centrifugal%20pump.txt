@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm ly tâm
+@Lĩnh vực: điện
+#bơm li tâm
+@Lĩnh vực: điện lạnh
+#máy bơm ly tâm

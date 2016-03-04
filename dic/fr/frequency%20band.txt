@@ -1,0 +1,13 @@
+﻿@frequency band
+#(Tech) dải tần số
+@Chuyên ngành kỹ thuật
+#băng tần (số)
+#dải sóng
+#dải tần
+#dải tần số
+#khoảng tần (số)
+#miền tần (số)
+@Lĩnh vực: điện
+#dải tần (số)
+@Lĩnh vực: xây dựng
+#giải tần số

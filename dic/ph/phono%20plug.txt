@@ -1,0 +1,9 @@
+﻿@phono plug
+#chốt cắm phono
+#Một loại đầu nối có chân ngắn dùng để nối các thiết bị âm thanh dùng trong gia đình Trong máy tính, các chốt cắm phono được dùng cho các cổng âm thanh và các cổng lối ra của màn hình tổng hợp Đồng nghĩa với RCA plug
+@Chuyên ngành kỹ thuật
+#đầu cắm máy hát
+@Lĩnh vực: toán & tin
+#chốt cắm phono
+@Lĩnh vực: điện
+#phích cắm máy hát đĩa

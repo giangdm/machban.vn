@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#con chạy
+#tiếp điểm chạy
+#tiếp điểm quét
+#tiếp điểm trượt
+#tiếp điểm tự làm sạch
+@Lĩnh vực: cơ khí & công trình
+#sự tiếp xúc trượt

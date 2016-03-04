@@ -1,0 +1,5 @@
+﻿@Average propensity to save
+#(Econ) Khuynh hướng tiết kiệm bình quân.
+: Phần của tổng thu nhập Y được đưa vào tiết kiệm S, tức không được sử dụng cho mục đích tiêu dùng. Khuynh hướng tiết kiệm bình quân bằng S/Y. Xem SAVING FUNCTION, MARGINAL PROPENSITY TO SAVE.
+@Chuyên ngành kinh tế
+#khuynh hướng tiết kiệm trung bình

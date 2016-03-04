@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thời gian phản ứng
+#thời gian phản ứng, thời gian khởi động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thời gian (xảy ra) phản ứng

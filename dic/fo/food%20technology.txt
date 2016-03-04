@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#quá trình sản xuất các sản phẩm thực phẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công nghệ thực phẩm

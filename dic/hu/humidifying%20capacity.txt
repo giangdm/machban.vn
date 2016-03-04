@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#năng suất gia ẩm
+@Lĩnh vực: xây dựng
+#khả năng làm ẩm
+@Lĩnh vực: điện lạnh
+#năng suất làm ẩm

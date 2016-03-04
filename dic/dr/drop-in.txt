@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đọc sai
+#lỗi đọc tạp
+#thông tin nhiễu
+@Lĩnh vực: điện
+#tín hiệu sai

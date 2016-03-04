@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt biên
+#mặt giới hạn
+#mặt phân cách
+@Lĩnh vực: toán & tin
+#mạch giới hạn

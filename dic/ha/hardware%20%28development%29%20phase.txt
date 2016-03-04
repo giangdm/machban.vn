@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giai đoạn thực hiện phần cứng
+#pha thực hiện phần cứng

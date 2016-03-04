@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bật
+#bật lên
+#bật máy
+#đóng
+#đóng mạch
+#đóng máy
+#mở
+@Lĩnh vực: điện
+#bật điện
+#đóng điện
+@Lĩnh vực: cơ khí & công trình
+#đóng mạch điện
+#mở điện

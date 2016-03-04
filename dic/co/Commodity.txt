@@ -1,0 +1,21 @@
+﻿@Commodity
+#(Econ) Vật phẩm; Hàng hoá
+: Bất kỳ vật nào được sản xuất ra để phục vụ tiêu dùng hay trao đổi trên thị trường
+<!-- more -->
+@commodity /kə'mɔditi/
+*danh từ,  (thường) số nhiều
+#hàng hoá; loại hàng, mặt hàng
+#(từ cổ,nghĩa cổ) tiện nghi
+@Chuyên ngành kinh tế
+#hàng hóa
+#hàng nguyên liệu
+#hàng nguyên liệu...
+#mặt hàng
+#thế phẩm
+@Chuyên ngành kỹ thuật
+#hàng hóa
+@Lĩnh vực: cơ khí & công trình
+#mặt hàng thường dùng
+<!-- more -->
+@commodity
+#(toán kinh tế) hàng hoá

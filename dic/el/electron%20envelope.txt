@@ -1,0 +1,2 @@
+﻿@electron envelope
+#(Tech) tầng vỏ điện tử

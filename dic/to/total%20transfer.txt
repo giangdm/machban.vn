@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự chuyển nhượng toàn ngạch (thư tín dụng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự chuyển toàn phần
+#sự chuyển tổng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#tốc độ xả lạnh
+@Lĩnh vực: điện lạnh
+#cường độ hạ lạnh
+#tốc độ hạ lạnh

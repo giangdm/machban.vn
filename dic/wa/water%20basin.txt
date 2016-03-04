@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bể nước
+@Lĩnh vực: xây dựng
+#nơi chứa nước (biển, sông, hồ, ao)

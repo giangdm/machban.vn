@@ -1,0 +1,2 @@
+﻿@A-D = A/D = a-d (analog-to-digital)
+#(Tech) đổi  dạng sóng (dạng tương tự) sang dạng số

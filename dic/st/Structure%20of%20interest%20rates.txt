@@ -1,0 +1,5 @@
+﻿@Structure of interest rates
+#(Econ) Biểu khung lãi xuất; Cơ cấu lãi suất.
+: Xem TERM STRUCTURE OF INTEREST RATES.
+@Chuyên ngành kinh tế
+#cơ cấu lãi xuất

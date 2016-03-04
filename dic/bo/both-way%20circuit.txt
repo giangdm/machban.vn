@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch hai chiều
+@Lĩnh vực: điện tử & viễn thông
+#đường truyền hai chiều

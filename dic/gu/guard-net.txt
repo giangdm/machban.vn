@@ -1,0 +1,3 @@
+﻿@guard-net
+*danh từ
+#(điện) lưới bảo vệ

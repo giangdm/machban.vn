@@ -1,0 +1,4 @@
+﻿@Purchasing power of money
+#(Econ) Sức mua của đồng tiền.
+@Chuyên ngành kinh tế
+#sức mua của đồng tiền

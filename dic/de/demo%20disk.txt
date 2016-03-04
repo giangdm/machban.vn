@@ -1,0 +1,2 @@
+﻿@demo disk
+#(Tech) đĩa biểu diễn

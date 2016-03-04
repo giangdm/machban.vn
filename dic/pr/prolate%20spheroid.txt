@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hình phỏng cầu thuôn
+#phỏng cầu thuôn (clipxoit tròn xoay)
+#phỏng cầu thuôn (ellipsoit tròn xoay)

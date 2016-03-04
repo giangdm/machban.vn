@@ -1,0 +1,6 @@
+﻿@New York Stock Exchange
+#(Econ) Sở giao dịch chứng khoán New York
+: Là thị trường chứng khoán chính ở Mỹ, tại đó có niêm yết hơn 1000 loại chứng khoán.
+@Chuyên ngành kinh tế
+#Sở giao dịch chứng khoán New York
+#Sở giao dịch Chứng khoán Nữu Ước

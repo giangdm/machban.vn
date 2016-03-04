@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng làm lạnh sơ bộ
+#buồng làm lạnh trước
+#buồng lạnh sơ bộ

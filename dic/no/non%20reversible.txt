@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#không thể đảo ngược
+#một chiều
+@Lĩnh vực: cơ khí & công trình
+#không chuyển lại được
+#không đảo ngược lại được

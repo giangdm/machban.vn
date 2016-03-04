@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#máy lạnh có nén
+@Lĩnh vực: điện lạnh
+#tủ lạnh có máy nén

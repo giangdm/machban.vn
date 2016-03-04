@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cột đường ra
+#cột lộ ra
+@Lĩnh vực: điện
+#trụ fiđơ
+#trụ xuất tuyến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cột đường ra
+#cột lộ ra
+@Lĩnh vực: điện
+#trụ fiđơ
+#trụ xuất tuyến

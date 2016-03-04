@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cước thu sau
+#cước vận chuyển (do người nhận hàng) trả sau (khi hàng đến)
+#vận phí nhờ thu

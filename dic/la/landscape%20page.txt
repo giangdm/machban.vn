@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trang có kiểu in ngang
+@Lĩnh vực: điện tử & viễn thông
+#trang khổ ngang
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trang có kiểu in ngang
+@Lĩnh vực: điện tử & viễn thông
+#trang khổ ngang

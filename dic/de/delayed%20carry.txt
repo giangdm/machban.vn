@@ -1,0 +1,7 @@
+﻿@delayed carry
+#(Tech) số nhớ trễ
+@Chuyên ngành kỹ thuật
+#nhớ trễ
+@Lĩnh vực: toán & tin
+#số mang trễ
+#sự mang sang trễ

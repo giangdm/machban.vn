@@ -1,0 +1,5 @@
+﻿@automatic noise limiter
+#(Tech) bộ hạn chế nhiễu tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ hạn nhiễu (ồn) tự động

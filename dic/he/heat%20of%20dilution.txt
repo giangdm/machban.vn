@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt lượng tỏa
+@Chuyên ngành kỹ thuật
+#nhiệt pha loãng
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt dung dịch

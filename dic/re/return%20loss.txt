@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#tổn hao do phản xạ
+@Lĩnh vực: điện lạnh
+#độ suy giảm thích ứng
+@Lĩnh vực: điện tử & viễn thông
+#sự suy giảm thích phối
+#sự suy giảm thích ứng
+@Lĩnh vực: điện
+#tổn hao ngược

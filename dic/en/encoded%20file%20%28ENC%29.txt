@@ -1,0 +1,2 @@
+﻿@encoded file (ENC)
+#(Tech) tập tin được mã hóa

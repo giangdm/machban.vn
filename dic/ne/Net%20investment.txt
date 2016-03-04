@@ -1,0 +1,6 @@
+﻿@Net investment
+#(Econ) Đầu tư ròng ( Còn gọi là sự tạo vốn ròng) .
+: Là việc bổ sung thêm vào tổng nguồn vốn của nền kinh tế, hay nói cách khác là giá trị của vốn đầu tư đã trừ khấu. Xem INVESTMENT.
+@Chuyên ngành kinh tế
+#đầu tư ròng
+#mức đầu tư tịnh

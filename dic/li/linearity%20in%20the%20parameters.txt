@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tính chất tuyến tính theo các hàm số
+#tính chất tuyến tính theo các tham số

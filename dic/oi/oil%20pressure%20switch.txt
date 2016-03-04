@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle bảo vệ áp suất dầu
+#rơle hiệu áp
+@Lĩnh vực: ô tô
+#công tắc áp suất dầu (nhớt)
+@Lĩnh vực: điện lạnh
+#rơle bảo vệ áp lực dầu
+#thiết bị cắt áp lực dầu

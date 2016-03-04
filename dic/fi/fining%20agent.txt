@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#chất làm trong nước quả
+@Chuyên ngành kỹ thuật
+#chất làm sạch
+#chất làm trong
+@Lĩnh vực: thực phẩm
+#chất làm trong đồ uống
+@Chuyên ngành kỹ thuật
+#chất làm sạch
+#chất làm trong
+@Lĩnh vực: thực phẩm
+#chất làm trong đồ uống

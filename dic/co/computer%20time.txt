@@ -1,0 +1,4 @@
+﻿@computer time
+#(Tech) thời gian chạy máy điện toán
+@Chuyên ngành kinh tế
+#thời gian tính của máy vi tính

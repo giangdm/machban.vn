@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đầu cuối hiển thị trực quan
+#thiết bị đầu cuối màn hình

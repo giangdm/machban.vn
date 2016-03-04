@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giới hạn mua bán
+#hạn giá giao dịch (hàng hóa kỳ hạn...)
+#hạn ngạch giao dịch (hàng hóa kỳ hạn...)

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống vận tải tuyến nhánh
+#tuyến nối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hệ thống rót nạp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hệ thống rót nạp

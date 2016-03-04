@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy tiện
+@Lĩnh vực: cơ khí & công trình
+#máy thuộc nhóm tiện (máy tiện đứng, máy doa ngang)

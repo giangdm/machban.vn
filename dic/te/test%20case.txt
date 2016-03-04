@@ -1,0 +1,12 @@
+﻿@test case
+*danh từ
+#ca/vụ án chuẩn (vụ án hoặc trình tự tố tụng khác cung cấp được một quyết định có thể áp dụng để giải quyết những trường hợp tương tự trong tương lai)
+@Chuyên ngành kinh tế
+#án lệ kiểm định
+#phán lệ
+#vụ kiện chờ tòa thẩm lý phán quyết
+#vụ kiện được lập thành án lệnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trường hợp kiểm thử
+#trường hợp kiểm tra

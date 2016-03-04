@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ BLISS
+#ngôn ngữ cơ bản thi hành phần mền hệ thống

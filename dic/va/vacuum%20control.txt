@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#điều khiển
+@Lĩnh vực: hóa học & vật liệu
+#điều chỉnh chân không
+@Lĩnh vực: ô tô
+#điều khiển (thời điểm đánh lửa) bằng chân không
+@Lĩnh vực: cơ khí & công trình
+#kiểm soát bằng chân không
+@Lĩnh vực: toán & tin
+#sự điều khiển chân không

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#phân tích tách biệt
+#sự cảm biến từ xa
+@Lĩnh vực: điện lạnh
+#cảm biến từ xa
+#dò tìm từ xa
+#kỹ thuật viễn thám
+@Lĩnh vực: toán & tin
+#sự nhận biết từ xa
+#viễn thám
+@Lĩnh vực: điện tử & viễn thông
+#sự phân biệt từ xa
+@Lĩnh vực: xây dựng
+#sự thăm dò từ xa

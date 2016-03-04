@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự cố tối thiểu
+#tình trạng hư hỏng ít nhất

@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa
+#cửa van chắn nước
+#van cống
+#van cổng (đóng hai chiều)
+#van cửa
+#van cửa âu
+#van cửa cổng
+#van cửa đập
+#van trượt
+#vòi khóa
+@Lĩnh vực: xây dựng
+#nắp dạng cửa
+@Lĩnh vực: cơ khí & công trình
+#van cổng

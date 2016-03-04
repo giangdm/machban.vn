@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#miễn trừ tiếng ồn
+#tính miễn trừ nhiễu
+@Lĩnh vực: toán & tin
+#chống ồn
+#sự loại trừ tạp âm
+#tính miễn nhiễm ồn
+@Lĩnh vực: điện lạnh
+#miễn trừ tạp nhiễu
+@Lĩnh vực: điện tử & viễn thông
+#tính chống tạp âm
+#tính miễn tạp âm

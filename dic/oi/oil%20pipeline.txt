@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#ống dẫn dầu
+@Chuyên ngành kỹ thuật
+#đường ống dẫn dầu
+#ống dẫn dầu
+@Lĩnh vực: điện
+#đường ống dầu

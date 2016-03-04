@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#ống xoắn hơi nước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ống xoắn bốc hơi
+@Lĩnh vực: hóa học & vật liệu
+#ống xoắn dẫn hơi nóng

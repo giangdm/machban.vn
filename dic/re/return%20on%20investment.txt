@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#lợi tức đầu tư
+#mức doanh lợi đầu tư
+#thu lợi từ đầu tư
+#thu nhập từ đầu tư
+@Chuyên ngành kỹ thuật
+#lãi trên vốn đầu tư
+#lợi nhuận trên vốn đầu tư

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#lực cơ bản (tương tác)
+@Lĩnh vực: cơ khí & công trình
+#lực cơ sở

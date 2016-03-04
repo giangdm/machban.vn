@@ -1,0 +1,6 @@
+﻿@computing service
+#(Tech) dịch vụ tính toán; thao tác tính toán [TQ]
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#công cụ tính toán
+#dịch vụ tính toán

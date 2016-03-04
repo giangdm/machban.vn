@@ -1,0 +1,2 @@
+﻿@double-sideband suppressed carrier modulation
+#(Tech) biến điệu sóng chở dải biên kép bị lược

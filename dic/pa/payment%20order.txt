@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#lệnh chi phó
+#lệnh trả tiền
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phiếu chi

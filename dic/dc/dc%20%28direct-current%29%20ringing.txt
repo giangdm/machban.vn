@@ -1,0 +1,2 @@
+﻿@dc (direct-current) ringing
+#(Tech) rung chuông điện một chiều

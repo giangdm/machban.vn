@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#đồng hồ chấm công
+#máy chấm công
+#máy tính giờ
+@Chuyên ngành kỹ thuật
+#bộ ghi thời gian
+#máy ghi thời gian
+@Lĩnh vực: toán & tin
+#máy chấm công
+@Lĩnh vực: đo lường & điều khiển
+#máy ghi sự kiện

@@ -1,0 +1,5 @@
+﻿@composition resistor
+#(Tech) cái điện trở hợp chất (than)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện trở bội ép

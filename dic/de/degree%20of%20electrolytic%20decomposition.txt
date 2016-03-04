@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ phân giải điện ly
+@Lĩnh vực: hóa học & vật liệu
+#mức phân giải điện ly

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đặc tuyến vận hành
+#đường cong bản chất hoạt động
+#đường cong đặc trưng vận hành
+@Lĩnh vực: điện
+#đường cong đặc tính vận hành

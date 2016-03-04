@@ -1,0 +1,9 @@
+﻿@Power function
+#(Econ) Hàm luỹ thừa.
+: Một hàm số trong đó biến số độc lập được nâng lên tới một luỹ thừa nào đó.
+@Chuyên ngành kỹ thuật
+#hàm lũy thừa
+@Lĩnh vực: điện tử & viễn thông
+#hàm công suất
+@Lĩnh vực: toán & tin
+#hàm lực lượng

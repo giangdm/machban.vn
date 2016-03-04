@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#mức hạn cho vay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mức giới hạn cho vay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mức giới hạn cho vay

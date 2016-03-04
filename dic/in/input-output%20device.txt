@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị nhập (vi tính)
+@Chuyên ngành kỹ thuật
+#thiết bị vào-ra
+@Lĩnh vực: xây dựng
+#bộ đưa vào-đưa ra
+@Lĩnh vực: toán & tin
+#khối vào-ra

@@ -1,0 +1,7 @@
+﻿@global processor
+#(Tech) bộ xử lý chung
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ xử lý toàn cục
+@Lĩnh vực: toán & tin
+#bộ xử lý tổng thể

@@ -1,0 +1,8 @@
+﻿@formatted record
+#(Tech) bản ghi đã định khuôn dạng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản ghi đã định dạng
+#mẩu tin đã định dạng
+@Lĩnh vực: điện tử & viễn thông
+#bản ghi theo khuôn

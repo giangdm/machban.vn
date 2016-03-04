@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nhóm rời rạc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhóm rời rạc

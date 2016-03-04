@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bơm chất làm lạnh
+@Lĩnh vực: điện lạnh
+#bơm chất tải lạnh
+@Lĩnh vực: ô tô
+#bơm nước làm mát

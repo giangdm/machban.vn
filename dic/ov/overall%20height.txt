@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#chiều cao tổng cộng
+#độ cao chế tạo
+#độ cao chung
+#độ cao kiến trúc
+#độ cao toàn thể
+@Lĩnh vực: xây dựng
+#chiều cao tổng thể
+@Lĩnh vực: cơ khí & công trình
+#tổng chiều cao

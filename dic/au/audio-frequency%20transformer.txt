@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biến áp âm tần
+@Lĩnh vực: điện lạnh
+#máy biến áp âm tần
+#máy biến áp tần số âm thanh

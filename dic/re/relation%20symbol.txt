@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#toán tử quan hệ
+@Lĩnh vực: toán & tin
+#ký hiệu quan hệ

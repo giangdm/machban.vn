@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ chế tầng chứa
+@Lĩnh vực: hóa học & vật liệu
+#kỹ thuật tầng chứa

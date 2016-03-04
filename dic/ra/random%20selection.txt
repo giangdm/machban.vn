@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự lấy mẫu ngẫu nhiên
+@Lĩnh vực: điện tử & viễn thông
+#chọn ngẫu nhiên
+@Lĩnh vực: toán & tin
+#sự chọn ngẫu nhiên

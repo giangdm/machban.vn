@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt điều chỉnh
+@Lĩnh vực: điện lạnh
+#nhiệt khống chế

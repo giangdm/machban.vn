@@ -1,0 +1,3 @@
+﻿@run about
+#chạy quanh, chạy lăng xăng, chạy ngược, chạy xuôi
+#chạy lang thang (trẻ con)

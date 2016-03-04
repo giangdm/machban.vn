@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lá tôn lõi
+@Lĩnh vực: điện
+#tấm lõi
+@Lĩnh vực: điện lạnh
+#tôn biến áp

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giá ra ngược lại
+#giá trả (của bên mua)
+#sự đấu giá cao
+#sự tăng giá cạnh mại (trong việc đấu giá)

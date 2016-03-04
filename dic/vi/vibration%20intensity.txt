@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cường độ dao động
+@Lĩnh vực: cơ khí & công trình
+#cường độ rung

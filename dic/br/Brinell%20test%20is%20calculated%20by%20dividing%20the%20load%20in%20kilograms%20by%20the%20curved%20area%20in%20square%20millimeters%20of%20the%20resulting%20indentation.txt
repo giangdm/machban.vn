@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kỹ thuật
+#bán kính thử Brinell được tính bằng cách chia khối lượng tính bằng kilogam cho diện tích phần lõm còn lại tính bằng milimet vuông

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiên liệu lỏng
+@Lĩnh vực: ô tô
+#phun trực tiếp
+@Lĩnh vực: hóa học & vật liệu
+#sự bơm chân không
+#sự phun cơ học
+@Lĩnh vực: cơ khí & công trình
+#sự phun bột
+#sự phun hạt

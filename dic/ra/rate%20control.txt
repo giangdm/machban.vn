@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều chỉnh vận tốc
+@Lĩnh vực: xây dựng
+#giám định chỉ tiêu
+#kiểm tra giá
+@Lĩnh vực: đo lường & điều khiển
+#tỷ lệ điều chỉnh

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#năng suất không đổi
+@Lĩnh vực: điện lạnh
+#năng suất hút không đổi
+#thể tích hút không đổi

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hơi tiết lưu
+@Lĩnh vực: điện lạnh
+#hơi dãn nở
+#hơi giãn nở
+@Chuyên ngành kỹ thuật
+#hơi tiết lưu
+@Lĩnh vực: điện lạnh
+#hơi dãn nở
+#hơi giãn nở

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#số đọc
+@Lĩnh vực: điện lạnh
+#giá trị chỉ báo
+#giá trị chỉ thị
+#giá trị đọc

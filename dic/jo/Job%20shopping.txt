@@ -1,0 +1,7 @@
+﻿@Job shopping
+#(Econ) Chọn việc làm.
+: Một xu hướng trong giới công nhân trẻ, và đặc biệt trong số những người vị thành niên tìm kiếm việc làm thích hợp trên cơ sở thử nghiệm.
+@Chuyên ngành kinh tế
+#kiếm chọn việc làm
+#sự tìm chọn việc làm
+#sự tìm chọn việc làm (của thanh niên...)

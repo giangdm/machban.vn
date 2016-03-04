@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phân phối thống kê
+@Lĩnh vực: toán & tin
+#phân bố thống kê
+@Lĩnh vực: điện tử & viễn thông
+#sự phân phối thống kê

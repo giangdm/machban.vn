@@ -1,0 +1,5 @@
+﻿@discharge current
+#(Tech) dòng phóng điện
+@Chuyên ngành kỹ thuật
+#dòng điện phóng
+#dòng phóng điện

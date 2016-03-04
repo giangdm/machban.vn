@@ -1,0 +1,3 @@
+﻿@radio-label
+*ngoại động từ
+#đánh dấu bằng đồng vị phóng xạ

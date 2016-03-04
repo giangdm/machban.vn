@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng bôi trơn
+@Lĩnh vực: xây dựng
+#vòng mỡ
+@Lĩnh vực: toán & tin
+#vòng mở

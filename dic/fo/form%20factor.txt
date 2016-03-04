@@ -1,0 +1,8 @@
+﻿@form factor
+#(Tech) kích cỡ thiết bị
+@Chuyên ngành kỹ thuật
+#hệ số dạng
+#hệ số hình dáng
+#hệ số hình dạng
+@Lĩnh vực: cơ khí & công trình
+#yếu tố hình dạng

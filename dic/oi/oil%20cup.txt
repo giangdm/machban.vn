@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bầu dầu
+#hộp dầu
+#ve dầu
+@Lĩnh vực: cơ khí & công trình
+#bôi dầu
+@Lĩnh vực: hóa học & vật liệu
+#chén đong dầu
+@Lĩnh vực: điện lạnh
+#cốc (đựng) dầu

@@ -1,0 +1,5 @@
+﻿@nil-series
+#(đại số) chuỗi không
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi không

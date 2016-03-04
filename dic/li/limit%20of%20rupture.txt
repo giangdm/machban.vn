@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giới hạn phá hoại đứt
+#giới hạn phá hoại gãy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giới hạn phá hoại đứt
+#giới hạn phá hoại gãy

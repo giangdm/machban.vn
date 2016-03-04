@@ -1,0 +1,4 @@
+﻿@automatic break
+#(Tech) cắt tự động
+@Chuyên ngành kỹ thuật
+#ngắt tự động

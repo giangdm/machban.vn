@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ lưu trữ bằng phim từ
+#bộ nhớ màng mỏng từ
+#bộ nhớ phim từ

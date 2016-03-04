@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nghiên cứu đảo ngược
+#thiết bị đối chiếu
+#thiết kế đối chiếu

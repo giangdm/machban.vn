@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sức chịu sơ khởi
+@Lĩnh vực: cơ khí & công trình
+#tải trọng ban đầu

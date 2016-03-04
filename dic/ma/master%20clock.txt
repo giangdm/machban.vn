@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ chính
+#đồng hồ chủ
+@Lĩnh vực: điện
+#đồng hồ chủ (tổng)
+@Lĩnh vực: điện lạnh
+#đồng hồ mẹ

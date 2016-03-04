@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cốt thép đai
+#cốt thép tròn
+@Lĩnh vực: xây dựng
+#cốt thép móc
+#đai cốt thép
+@Lĩnh vực: cơ khí & công trình
+#cốt thép vòng

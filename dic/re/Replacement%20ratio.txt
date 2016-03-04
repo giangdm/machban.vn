@@ -1,0 +1,3 @@
+﻿@Replacement ratio
+#(Econ) Tỷ số thay thế.
+: Là tỷ số giữa tổng thu nhập ròng (thu nhập cộng với phúc lợi đã trừ thuế và tiền nhà ở, cho phép hoàn trả lại tiền thêu) khi thất nghiệp và tổng thu nhập thuần khi đang làm việc.

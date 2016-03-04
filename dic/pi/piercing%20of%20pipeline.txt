@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đục đường ống
+#khoan đường ống
+#xuyên thủng đường ống

@@ -1,0 +1,3 @@
+﻿@capital-sum
+*danh từ
+#tổng số tiền

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tín hiệu độ chói
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu độ sáng
+@Lĩnh vực: điện
+#tín hiệu luminan

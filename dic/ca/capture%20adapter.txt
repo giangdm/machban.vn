@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều hợp bắt
+#bộ điều hợp bắt giữ
+#bộ thích ứng thu thập

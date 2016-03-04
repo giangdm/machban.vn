@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hoạch định năng suất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#kế hoạch cho công suất

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đường điện thoại song kênh
+#đường kênh (có) hai tần số
+#kênh hai tần số

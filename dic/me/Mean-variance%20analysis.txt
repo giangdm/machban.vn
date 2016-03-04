@@ -1,0 +1,3 @@
+﻿@Mean-variance analysis
+#(Econ) Phân tích trung bình - phương sai.
+: Là phương pháp tìm ra DANH MỤC các tài sản có hiệu quả cao.

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#sự nhập dữ liệu
+@Chuyên ngành kỹ thuật
+#nhập dữ liệu
+#mục dữ liệu
+#phần tử dữ liệu
+@Lĩnh vực: toán & tin
+#mục nhập dữ liệu
+#sự nhập dữ liệu

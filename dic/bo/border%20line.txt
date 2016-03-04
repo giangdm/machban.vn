@@ -1,0 +1,16 @@
+﻿@border line /'bɔ:dəlain/
+*danh từ
+#đường ranh giới, giới tuyến
+*tính từ
+#ở giới tuyến
+#border-line case
+#(tâm lý học) trường hợp gần như điên
+@Chuyên ngành kỹ thuật
+#đường biên
+#đường giới hạn
+#đường viền
+#giới hạn
+@Lĩnh vực: hóa học & vật liệu
+#đường mép
+@Lĩnh vực: xây dựng
+#đường phân giới

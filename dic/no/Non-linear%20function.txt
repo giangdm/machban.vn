@@ -1,0 +1,3 @@
+﻿@Non-linear function
+#(Econ) Hàm phi tuyến.
+: Là mối quan hệ toán học giữa các biến số mà mối quan hệ này lại không phải là một hàm tuyến tính.

@@ -1,0 +1,2 @@
+﻿@diode rectification
+#(Tech) chỉnh lưu bằng đèn hai cực

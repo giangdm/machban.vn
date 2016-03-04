@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#vốn chuyên dụng
+#vốn đặc định

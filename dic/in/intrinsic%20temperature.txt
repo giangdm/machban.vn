@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ bên trong
+@Lĩnh vực: điện lạnh
+#nhiệt độ nội tại

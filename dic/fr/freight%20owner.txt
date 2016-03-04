@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chủ hàng
+#chủ hàng (thuê tàu)
+#người thuê tàu chở

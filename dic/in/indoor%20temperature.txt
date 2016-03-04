@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ trong nhà
+#nhiệt độ trong phòng
+@Lĩnh vực: điện lạnh
+#nhiệt độ (trong) phòng

@@ -1,0 +1,2 @@
+﻿@equivalent inductance
+#(Tech) điện cảm tương đương

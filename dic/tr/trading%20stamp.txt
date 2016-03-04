@@ -1,0 +1,7 @@
+﻿@trading stamp
+*danh từ
+#tem của một số cửa hàng  trao cho khách hàng có thể đổi lấy hàng hoá hoặc tiền mặt
+@Chuyên ngành kinh tế
+#phiếu mua hàng
+#phiếu tặng mua hàng
+#phiếu thưởng mua hàng

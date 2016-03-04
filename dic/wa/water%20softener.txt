@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống làm mềm nước
+@Chuyên ngành kỹ thuật
+#chất làm mềm nước
+@Lĩnh vực: xây dựng
+#thiết bị làm mềm nước

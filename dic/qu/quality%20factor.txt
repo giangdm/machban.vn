@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chỉ số chất lượng
+#nhân tố chất lượng
+@Chuyên ngành kỹ thuật
+#hệ số chất lượng
+#hệ số phẩm chất
+#hệ số Q

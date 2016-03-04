@@ -1,0 +1,4 @@
+﻿@custom IC
+#(Tech) mạch tập thành (IC) đặc chế
+@Chuyên ngành kỹ thuật
+#chíp tùy biến

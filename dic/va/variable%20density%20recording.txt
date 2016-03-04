@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phép ghi mật độ thay đổi
+#sự ghi mật độ thay đổi

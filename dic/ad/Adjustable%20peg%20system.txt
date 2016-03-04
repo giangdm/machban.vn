@@ -1,0 +1,3 @@
+﻿@Adjustable peg system
+#(Econ) Hệ thống neo tỷ giá hối đoái có thể điều chỉnh.
+: Hệ thống này được quỹ tiền tệ quốc tế (IMF) đưa ra tại hội nghị Bretton Woods và đề cập đến một bộ TỶ GIÁ HỐI ĐOÁI CỐ ĐỊNH  hay được neo mà về cơ bản là cố định nhưng cho phép điều chỉnh hoặc thay đổi với lượng nhỏ theo cả 2 hướng.

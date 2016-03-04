@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nhãn kiểm tra
+#rãnh điều khiển
+@Lĩnh vực: điện tử & viễn thông
+#đường điều khiển

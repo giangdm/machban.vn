@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường cong có bề rộng không đổi
+#đường cong có độ rộng không đổi

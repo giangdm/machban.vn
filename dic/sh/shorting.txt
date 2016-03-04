@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#lập vị thế ngắn
+@Chuyên ngành kỹ thuật
+#sự ngắn mạch
+@Lĩnh vực: điện
+#sự chập mạch
+#sự làm ngắn mạch

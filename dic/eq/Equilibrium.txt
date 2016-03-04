@@ -1,0 +1,38 @@
+﻿@Equilibrium
+#(Econ) Cân bằng
+: Một cụm thuật ngữ mượn từ môn vật lý để miêu tả tình huống, trong đó các tác nhân kinh tế hay tổng tác nhân kinh tế như thị trường, không có động lực gì để thay đổi hành vi kinh tế của mình.
+<!-- more -->
+@equilibrium /,i:kwi'libriəm /
+*danh từ
+#sự thăng bằng
+#tính vô tư (trong nhận xét...)
+@Chuyên ngành kinh tế
+#cân bằng
+#sự cân bằng
+#sự thăng bằng
+#thăng bằng
+@Chuyên ngành kỹ thuật
+#sự cân bằng
+#trạng thái cân bằng
+@Chuyên ngành kỹ thuật
+#sự cân bằng
+#trạng thái cân bằng
+<!-- more -->
+@equilibrium
+#sự cân bằng
+#e. of forces sự cân bằng lực
+#e. of a particle [of a body] sự cân bằng của một vật thể
+#configuration e. cấu hình thăng bằng
+#dynamic e. cân bằng động lực
+#elastic e. cân bằng đàn hồi
+#indifferent e. cân bằng không phân biệt
+#labile e. (vật lí) cân bằng không ổn định
+#mobile e. (điều khiển học) cân bằng di động
+#neutral e. (cơ học) cân bằng không phân biệt
+#phase e. (vật lí) cân bằng pha
+#plastic e. cân bằng dẻo
+#relative e. cân bằng tương đối
+#semi-stable e. cân bằng nửa ổn định
+#stable e. cân bằng ổn định
+#trasient e. (điều khiển học) cân bằng động
+#unstable e. (vật lí) cân bằng không ổn định

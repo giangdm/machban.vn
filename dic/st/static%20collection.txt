@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cổ góp điện cố định
+@Lĩnh vực: toán & tin
+#cổ góp điện tĩnh

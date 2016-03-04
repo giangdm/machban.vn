@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tổng doanh thu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#tổng thu nhập

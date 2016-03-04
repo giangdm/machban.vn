@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tổn thất nhiệt
+@Lĩnh vực: xây dựng
+#sự mất nhiệt
+#sự tổn hao nhiệt
+@Lĩnh vực: điện lạnh
+#tổn hao nhiệt

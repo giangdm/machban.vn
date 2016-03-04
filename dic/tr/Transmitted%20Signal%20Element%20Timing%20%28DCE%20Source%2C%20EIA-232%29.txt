@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#định thời phần tử tín hiệu phát (nguồn DCE, EIA-232)

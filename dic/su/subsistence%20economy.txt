@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#kinh tế tự cấp (không có thừa để xuất khẩu)
+#kinh tế tự nhiên
+#nền kinh tế chỉ đủ sinh tồn

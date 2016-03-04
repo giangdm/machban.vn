@@ -1,0 +1,2 @@
+﻿@access address
+#(Tech) địa chỉ truy cập

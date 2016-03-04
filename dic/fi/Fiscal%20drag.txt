@@ -1,0 +1,7 @@
+﻿@Fiscal drag
+#(Econ) Sức cản của thuế khoá.
+: Ảnh hưởng của Lạm phát đối với thuế suất hữu hiệu hay trung bình.
+@Chuyên ngành kinh tế
+#phí nộp thuế
+#phí tài chính phải trả
+#sức cản của thuế

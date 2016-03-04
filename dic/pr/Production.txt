@@ -1,0 +1,32 @@
+﻿@Production
+#(Econ) Sản xuất.
+: Hành động biến đổi các yếu tố sản xuất thành hàng hoá và dịch vụ do yêu cầu của tiêu dùng và đầu tư.
+<!-- more -->
+@production /production/
+*danh từ
+#sự đưa ra, sự trình bày
+#sự sản xuất, sự chế tạo
+#sự sinh
+#sản phẩm, tác phẩm
+#sản lượng
+#(từ Mỹ,nghĩa Mỹ) sự bỏ vốn và phương tiện để dựng (phim, kịch...)
+@Chuyên ngành kinh tế
+#năng suất
+#sản lượng
+#sự sản xuất
+#sự tạo thành
+@Chuyên ngành kỹ thuật
+#năng suất
+#quy tắc suy diễn
+#sản lượng
+#sản phẩm
+#sản xuất
+#sự chế tạo
+#sự sản xuất
+@Lĩnh vực: toán & tin
+#production
+<!-- more -->
+@production
+#sự sản xuất, sản phẩm
+#current p. sự sản xuất hiện hành
+#mass p. sản xuất hàng loạt

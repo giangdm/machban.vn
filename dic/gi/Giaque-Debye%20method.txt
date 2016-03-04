@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khử từ đoạn nhiệt
+#làm lạnh từ tính
+#phương pháp Giaque-Debye

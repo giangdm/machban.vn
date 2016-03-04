@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy laminar
+#dòng chảy tầng
+#dòng chảy thành lớp
+@Lĩnh vực: cơ khí & công trình
+#chuyển động tầng
+#sự chảy tầng
+@Chuyên ngành kỹ thuật
+#dòng chảy laminar
+#dòng chảy tầng
+#dòng chảy thành lớp
+@Lĩnh vực: cơ khí & công trình
+#chuyển động tầng
+#sự chảy tầng

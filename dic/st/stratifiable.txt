@@ -1,0 +1,6 @@
+﻿@stratifiable
+#(hình học) phân tầng được, phân thớ được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân tầng được
+#phân thớ được

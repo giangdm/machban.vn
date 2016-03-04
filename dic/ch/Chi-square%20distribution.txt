@@ -1,0 +1,12 @@
+﻿@Chi-square distribution
+#(Econ) Phân phốI Kai bình phương (Phân phối khi bình phương)
+: Một phân bố xác suất với tham số n bậc tự do của tham số. Xem CONTINGENCY TABLES.
+<!-- more -->
+@chi-square distribution
+#(Tech) phân bố x bình phương
+@Chuyên ngành kinh tế
+#phân phối khi bình phương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân bố chi-bình phương
+#phân phối x2

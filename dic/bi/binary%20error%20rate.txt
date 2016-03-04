@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mức sai số nhị phân
+@Lĩnh vực: toán & tin
+#suất lỗi bit

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ môi trường
+@Lĩnh vực: điện lạnh
+#nhiệt độ không khí xung quanh
+@Lĩnh vực: môi trường
+#nhiệt độ môi trường xung quanh

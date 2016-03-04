@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#động cơ nhiệt phản lực
+@Lĩnh vực: giao thông & vận tải
+#động cơ phản lực nhiệt

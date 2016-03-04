@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dây quấn từng lớp
+@Lĩnh vực: điện
+#kiểu quấn thành lớp
+#sự quấn thành lớp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dây quấn từng lớp
+@Lĩnh vực: điện
+#kiểu quấn thành lớp
+#sự quấn thành lớp

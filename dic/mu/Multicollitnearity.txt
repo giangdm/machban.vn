@@ -1,0 +1,3 @@
+﻿@Multicollitnearity
+#(Econ) Tính đa cộng tuyến.
+: Là một bài toán kinh tế lượng trong đó hai hoặc nhiều BIẾN SỐ GIẢI THÍCH trong một phân tích hồi quy có tương quan mật thiết với nhau.

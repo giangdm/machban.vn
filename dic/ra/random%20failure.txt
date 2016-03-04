@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sai hỏng ngẫu nhiên
+#sai sót ngẫu nhiên
+@Lĩnh vực: xây dựng
+#sự cố ngẫu nhiên
+@Lĩnh vực: điện tử & viễn thông
+#sự hư hỏng ngẫu nhiên
+#sự thất bại ngẫu nhiên

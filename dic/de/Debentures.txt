@@ -1,0 +1,3 @@
+﻿@Debentures
+#(Econ) Trái khoán công ty.
+: Các chứng khoán NỢ có lãi suất cố định thường do một công ty phát hành và bảo lãnh bằng tài sản. Xem FINANCIAL CAPITAL.

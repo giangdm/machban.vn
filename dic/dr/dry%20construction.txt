@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công trình lắp ghép
+#công trình xây khô
+#kết cấu khô

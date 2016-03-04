@@ -1,0 +1,12 @@
+﻿@Filtering
+#(Econ) Quá trình lọc.
+: Một cụm thuật ngữ được sử dụng trong KINH TẾ HỌC ĐÔ THỊ để mô tả quá trình thay đổi về chất lượng nhà ở, nhìn chung là diễn ra thông qua việc chuyển nhà ở của nhóm người có thu nhập cao sang nhóm người có thu nhập thấp hơn.
+@Chuyên ngành kinh tế
+#sự thanh lọc
+#thanh lọc
+@Chuyên ngành kỹ thuật
+#lọc
+#sự lọc
+@Chuyên ngành kỹ thuật
+#lọc
+#sự lọc

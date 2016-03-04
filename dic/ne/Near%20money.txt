@@ -1,0 +1,6 @@
+﻿@Near money
+#(Econ) Tiền cận; Chuẩn tệ.
+: Là của cải được nắm giữ dưới một hình thức mà có thể chuyển đổi một cách nhanh chóng và dễ dàng thành tiền.
+@Chuyên ngành kinh tế
+#cận tệ
+#thứ gần như tiền

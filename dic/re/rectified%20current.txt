@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng một chiều
+@Lĩnh vực: điện lạnh
+#dòng chỉnh lưu
+@Lĩnh vực: điện
+#dòng điện đã chỉnh lưu
+#dòng được chỉnh lưu

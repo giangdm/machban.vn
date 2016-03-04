@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đạo hàm bên phải
+@Lĩnh vực: toán & tin
+#đạo hàm bên trái

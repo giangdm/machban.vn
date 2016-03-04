@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#van điều tiết không khí
+@Lĩnh vực: điện lạnh
+#bộ điều chỉnh gió
+#clapê gió
+@Lĩnh vực: xây dựng
+#bộ làm ẩm không khí
+#van điều khiển khí nén

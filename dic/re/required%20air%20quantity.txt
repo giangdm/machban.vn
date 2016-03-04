@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: môi trường
+#lượng khí yêu cầu
+@Lĩnh vực: điện lạnh
+#lượng không khí yêu cầu

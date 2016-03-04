@@ -1,0 +1,6 @@
+﻿@error control character
+#(Tech) ký tự kiểm soát sai lầm
+@Chuyên ngành kỹ thuật
+#ký tự kiểm soát lỗi
+@Chuyên ngành kỹ thuật
+#ký tự kiểm soát lỗi

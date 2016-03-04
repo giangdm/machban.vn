@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự lạnh tự nhiên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#lạnh tự nhiên

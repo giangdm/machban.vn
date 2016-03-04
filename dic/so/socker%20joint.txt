@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp bản lề
+#khớp cacđăng
+#khớp cầu
+#khớp nối ống lồng

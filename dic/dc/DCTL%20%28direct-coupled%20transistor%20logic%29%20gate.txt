@@ -1,0 +1,2 @@
+﻿@DCTL (direct-coupled transistor logic) gate
+#(Tech) cổng luận lý đèn tinh thể ghép trực tiếp

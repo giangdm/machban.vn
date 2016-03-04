@@ -1,0 +1,9 @@
+﻿@central processing unit (CPU)
+#(Tech) bộ xử lý trung ương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khối xử lý trung tâm
+@Chuyên ngành kỹ thuật
+#bộ xử lý trung tâm
+@Lĩnh vực: toán & tin
+#đơn vị xử lý trung tâm (CPU)

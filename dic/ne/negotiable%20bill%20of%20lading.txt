@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#vận đơn có thể chuyển nhượng
+#vận đơn có thể nhận hàng

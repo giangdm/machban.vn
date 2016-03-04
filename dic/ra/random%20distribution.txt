@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân phối đều
+@Lĩnh vực: hóa học & vật liệu
+#phân phối ngẫu nhiên
+@Lĩnh vực: điện tử & viễn thông
+#sự phân phối ngẫu nhiên

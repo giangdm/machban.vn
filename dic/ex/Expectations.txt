@@ -1,0 +1,7 @@
+﻿@Expectations
+#(Econ) Kỳ vọng; dự tính.
+: Là các quan điểm hay sự tin tưởng vào các giá trị tương lai của các biến số kinh tế.
+@Chuyên ngành kinh tế
+#khả năng được thừa kế
+#kỳ vọng
+#những dự tính

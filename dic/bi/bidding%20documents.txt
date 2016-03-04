@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#tài liệu đấu thầu
+@Chuyên ngành kỹ thuật
+#điều kiện đấu thầu
+#hồ sơ đấu thầu
+@Lĩnh vực: xây dựng
+#giấy tờ để gọi thầu
+#hồ sơ để gọi thầu
+#quảng cáo để gọi thầu
+#tài liệu đấu thầu

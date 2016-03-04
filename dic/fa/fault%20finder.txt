@@ -1,0 +1,10 @@
+﻿@fault finder
+#(Tech) máy dò lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy dò khuyết tật
+#máy dò sự cố
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy dò khuyết tật
+#máy dò sự cố

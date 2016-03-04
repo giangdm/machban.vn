@@ -1,0 +1,3 @@
+﻿@Cost - push inflation
+#(Econ) Lạm phát do chi phí đẩy.
+: Là sự gia tăng được duy trì của mức giá chung do sự gia tăng tự định của các chi phí. Xem DEMAND-FULL INFLATION, THE WAGE-WAGE SPIRAL.

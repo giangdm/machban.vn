@@ -1,0 +1,2 @@
+﻿@delay frequency equalizer
+#(Tech) bộ cân bằng tần số trễ

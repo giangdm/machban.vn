@@ -1,0 +1,4 @@
+﻿@Advanced countries
+#(Econ) Các nước phát triển, các nước đi đầu.
+@Chuyên ngành kinh tế
+#các nước tiên tiến

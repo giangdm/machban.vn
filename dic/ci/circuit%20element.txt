@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#linh kiện
+#phần tử mạch
+#thành phần
+@Lĩnh vực: toán & tin
+#chi tiết của sơ đồ
+#thành phần mạch điện
+@Lĩnh vực: điện tử & viễn thông
+#mạch logíc
+#thành phần logíc

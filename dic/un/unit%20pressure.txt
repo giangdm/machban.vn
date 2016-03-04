@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực thấm
+#áp suất
+#cường độ áp lực
+#đơn vị áp suất
+@Lĩnh vực: toán & tin
+#áp suất đơn vị

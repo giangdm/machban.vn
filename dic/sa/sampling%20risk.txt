@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#rủi ro chọn mẫu
+@Chuyên ngành kỹ thuật
+#rủi ro trong lấy mẫu

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy tạo xung điện
+@Lĩnh vực: điện lạnh
+#máy phát sóng xung (kích)
+#máy tạo xung cao áp
+@Lĩnh vực: điện
+#máy phát xung đột biến
+#máy tạo sóng xung

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hội viên hoạt động
+#hội viên hợp tư liên đới
+#hội viên quản lý
+#hội viên thường

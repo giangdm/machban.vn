@@ -1,0 +1,2 @@
+﻿@differential encoding
+#(Tech) mã hóa vi phân

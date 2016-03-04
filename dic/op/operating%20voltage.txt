@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp công tác
+#điện áp đóng mạch
+#điện áp hoạt động
+#điện áp làm việc
+#điện áp vận hành
+@Lĩnh vực: điện
+#điện áp thao tác

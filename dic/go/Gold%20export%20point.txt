@@ -1,0 +1,5 @@
+﻿@Gold export point
+#(Econ) Điểm xuất khẩu vàng.
+: Xem Gold point.
+@Chuyên ngành kinh tế
+#điểm xuất vàng

@@ -1,0 +1,6 @@
+﻿@Lender of last resort
+#(Econ) Người cho vay cứu cánh cuối cùng.
+: Một trong những chức năng, và là một trong những lý do tồn tại của một NGÂN HÀNG TRUNG ƯƠNG HIỆN ĐẠI.
+@Chuyên ngành kinh tế
+#ngân hàng cho vay cuối cùng
+#người cho vay (có thẩm quyền) tối hậu

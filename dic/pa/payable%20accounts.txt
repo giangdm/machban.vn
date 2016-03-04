@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#các khoản phải trả
+#khoản nợ
+#số tiền phải trả

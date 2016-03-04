@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra để xác định điểm khói hoặc sự dò khói
+@Lĩnh vực: hóa học & vật liệu
+#phép thử khói
+@Lĩnh vực: xây dựng
+#thí nghiệm thông khói (để kiểm tra sự rò của nước)

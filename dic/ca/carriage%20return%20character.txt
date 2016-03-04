@@ -1,0 +1,2 @@
+﻿@carriage return character
+#(Tech) ký tự về đầu dòng

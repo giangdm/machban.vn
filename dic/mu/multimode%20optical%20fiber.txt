@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sợi quang đa kiểu dao động
+@Lĩnh vực: toán & tin
+#sợi quang nhiều chế độ

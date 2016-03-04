@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#giãn nở đoạn nhiệt
+#sự giãn nở đoạn nhiệt
+@Lĩnh vực: điện lạnh
+#sự dãn nở đoạn nhiệt

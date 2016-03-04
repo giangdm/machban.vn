@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#động cơ có van đặt trên
+@Lĩnh vực: vật lý
+#động cơ có van treo
+#động cơ OHV

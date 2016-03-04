@@ -1,0 +1,2 @@
+﻿@dma
+#kênh truy cập trực tiếp bộ nhớ

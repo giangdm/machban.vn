@@ -1,0 +1,2 @@
+﻿@Financial ratios
+#(Econ) Tỷ số tài chính.

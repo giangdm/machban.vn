@@ -1,0 +1,3 @@
+﻿@St. Louis model
+#(Econ) Mô hình St. Louis.
+: Một mô hình kinh tế lượng tuyến tính nhỏ của nền kinh tế Mỹ được đưa ra tại Ngân hàng dự trữ Liên bang ở St.Louis để chống lại xu hướng dùng các mô hình phi tuyến tính và lớn hơn được đưa ra ở các nơi khác từ mô hình ban đầu về nền kinh tế Mỹ của Tinbergen và Klein-Goldberger.

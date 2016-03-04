@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng bộ
+#màn hình đa đồng bộ
+@Lĩnh vực: toán & tin
+#màn hình quét nhiều lần

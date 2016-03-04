@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#tỷ suất bảo hộ thực hiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tốc độ trao đổi
+@Lĩnh vực: xây dựng
+#tỷ suất của trao đổi
+@Lĩnh vực: cơ khí & công trình
+#tỷ suất hối đoái

@@ -1,0 +1,2 @@
+﻿@double stub tuner
+#(Tech) bộ điều hưởng hai nhánh cụt

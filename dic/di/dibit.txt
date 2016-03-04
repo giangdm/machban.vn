@@ -1,0 +1,6 @@
+﻿@dibit
+#(Tech) hai bít, hai số tự nhị phân (00, 01, 10, 11)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhóm đôi bít
+#nhóm hai bit

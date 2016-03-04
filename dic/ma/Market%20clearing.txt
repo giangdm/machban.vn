@@ -1,0 +1,4 @@
+﻿@Market clearing
+#(Econ) Điểm thị trường bán sạch.
+@Chuyên ngành kinh tế
+#kết toán thị trường

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#khu chất toa
+#khu điều phối (công-ten-nơ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#khu vực dồn toa
+#khu vực lập đoàn tàu

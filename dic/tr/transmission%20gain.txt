@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ khuếch đại
+@Lĩnh vực: vật lý
+#độ tăng (của các hệ thống truyền dẫn)
+@Lĩnh vực: điện tử & viễn thông
+#độ tăng tích dẫn truyền

@@ -1,0 +1,12 @@
+﻿@electric light
+#(Tech) ánh sáng điện; đèn điện
+@Chuyên ngành kỹ thuật
+#ánh sáng điện
+#đèn điện
+@Lĩnh vực: điện lạnh
+#chiếu sáng bằng điện
+@Chuyên ngành kỹ thuật
+#ánh sáng điện
+#đèn điện
+@Lĩnh vực: điện lạnh
+#chiếu sáng bằng điện

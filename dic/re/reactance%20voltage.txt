@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện áp của điện kháng
+#điện áp-điện kháng
+@Lĩnh vực: điện lạnh
+#điện áp phản kháng

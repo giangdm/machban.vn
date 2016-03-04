@@ -1,0 +1,2 @@
+﻿@prelatise
+#Cách viết khác : prelatize

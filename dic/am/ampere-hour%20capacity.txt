@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điện lượng
+@Lĩnh vực: toán & tin
+#điện dung bằng ampe giờ
+@Lĩnh vực: điện
+#dung lượng ampe giờ

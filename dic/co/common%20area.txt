@@ -1,0 +1,5 @@
+﻿@common area
+#(Tech) khu vực chung
+@Chuyên ngành kỹ thuật
+#khu vực chung
+#vùng chung

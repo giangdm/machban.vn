@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra kích thước
+@Lĩnh vực: điện lạnh
+#đo kích thước

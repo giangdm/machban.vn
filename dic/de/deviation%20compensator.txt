@@ -1,0 +1,5 @@
+﻿@deviation compensator
+#(Tech) bộ sửa lệch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ bù độ lệch

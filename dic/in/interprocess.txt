@@ -1,0 +1,2 @@
+﻿@interprocess
+#liên quá trình, liên tiến trình

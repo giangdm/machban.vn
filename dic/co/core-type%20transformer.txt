@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biến áp có lõi
+#máy biến áp dạng lõi
+@Lĩnh vực: điện lạnh
+#biến áp kiểu trụ

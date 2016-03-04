@@ -1,0 +1,40 @@
+﻿@winding /'waindi /
+*danh từ
+#khúc lượn, khúc quanh
+#sự cuộn, sự cuốn; guồng (t, chỉ, sợi)
+#(ngành mỏ) sự khai thác
+#sự lên dây (đồng hồ)
+#(kỹ thuật) sự vênh
+*tính từ
+#uốn khúc, quanh co (sông, đường)
+#xoáy trôn ốc, xoắn ốc, cuộn lại, cuốn
+@Chuyên ngành kỹ thuật
+#cuộn
+#cuộn dây
+#ống ruột gà
+#quanh co
+#sự cong vênh
+#sự cuộn
+#sự quấn
+#sự quấn dây
+#sự quay
+#sự uốn
+#uốn khúc
+#vong dây
+#vòng quay
+#vòng ren
+@Lĩnh vực: cơ khí & công trình
+#cuộn dây điện (trong một máy điện hay bộ điện thế)
+@Lĩnh vực: điện lạnh
+#dây quấn
+@Lĩnh vực: xây dựng
+#khúc lượn
+#khúc quanh
+#sự cuộn (không có lõi)
+#trục tải mỏ quặng
+@Lĩnh vực: điện
+#kiểu quấn dây
+#quấn dây
+<!-- more -->
+@winding
+#[vòng, sự] quay; sự uốn

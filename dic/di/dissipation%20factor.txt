@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số tiêu tán
+#hệ số tổn thất
+@Lĩnh vực: toán & tin
+#hệ số hao tán

@@ -1,0 +1,6 @@
+﻿@Diversifier
+#(Econ) Người đầu tư đa dạng.
+: Một nhà đâu tư giữ một phần của cải của mình dưới dạng tiền và phần còn lại là công trái hợp nhất.
+@Chuyên ngành kinh tế
+#người đầu tư đa dạng
+#người đầu tư đa dạng (vừa bằng tiền vừa bằng trái phiếu...)

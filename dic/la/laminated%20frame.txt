@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khung lá thép
+@Lĩnh vực: điện
+#khung thép lá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khung lá thép
+@Lĩnh vực: điện
+#khung thép lá

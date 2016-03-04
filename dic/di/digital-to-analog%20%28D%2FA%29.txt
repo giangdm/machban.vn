@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bằng số-tương tự
+@Lĩnh vực: toán & tin
+#số-tương tự

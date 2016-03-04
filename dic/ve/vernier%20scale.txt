@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#thang đo du xích
+@Lĩnh vực: xây dựng
+#thang vernier

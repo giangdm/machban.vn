@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#vốn dễ chuyển thành tiền mặt
+@Chuyên ngành kỹ thuật
+#vốn luân chuyển
+@Chuyên ngành kỹ thuật
+#vốn luân chuyển

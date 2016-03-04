@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tốc độ làm lạnh bổ sung
+#tốc độ làm lạnh non

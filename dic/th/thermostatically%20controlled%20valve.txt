@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#van ổn nhiệt
+@Lĩnh vực: điện lạnh
+#van điều chỉnh theo ổn nhiệt

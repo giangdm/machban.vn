@@ -1,0 +1,10 @@
+﻿@data sheet
+#(Tech) tờ dữ liệu
+@Chuyên ngành kinh tế
+#bảng số liệu
+#lý lịch (hàng hóa)
+@Chuyên ngành kỹ thuật
+#bản dữ liệu
+#bản thuyết minh
+@Lĩnh vực: xây dựng
+#tờ dữ liệu

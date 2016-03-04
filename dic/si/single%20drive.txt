@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#dẫn động riêng biệt
+@Lĩnh vực: hóa học & vật liệu
+#điều khiển riêng lẻ

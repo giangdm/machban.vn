@@ -1,0 +1,6 @@
+﻿@acute accent
+#(ngôn) dấu sắc (như trong café)
+@Chuyên ngành kinh tế
+#dấu sắc
+@Chuyên ngành kỹ thuật
+#dấu sắc (nhấn)

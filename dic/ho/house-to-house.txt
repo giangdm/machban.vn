@@ -1,0 +1,7 @@
+﻿@house-to-house
+*tính từ
+#từ nhà này sang nhà kế tiếp, lần lượt từng nhà
+@Chuyên ngành kinh tế
+#bán tận nhà
+#đến từng nhà
+#tận nhà

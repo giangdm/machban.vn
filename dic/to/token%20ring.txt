@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhẫn biển hiệu
+@Lĩnh vực: toán & tin
+#mạng token ring
+#vòng mã thông báo
+#vòng thẻ bài

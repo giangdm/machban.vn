@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự chắn cao tần
+#sự chắn RF
+@Lĩnh vực: điện lạnh
+#chắn RF

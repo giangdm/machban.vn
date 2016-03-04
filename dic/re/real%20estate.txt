@@ -1,0 +1,11 @@
+﻿@real estate
+*danh từ
+# tài sản cố định gồm có nhà và đất; bất động sản (cũng) realty ; real       property     -  sự kinh doanh bất động sản
+@Chuyên ngành kinh tế
+#bất động sản
+#nhà đất
+#tài sản địa ốc
+@Chuyên ngành kỹ thuật
+#bất động sản
+@Lĩnh vực: xây dựng
+#sở hữu bất động sản

@@ -1,0 +1,5 @@
+﻿@Equalization grants
+#(Econ) Các khoản trợ cấp để cân bằng.
+: Các quỹ do một chính phủ cấp cho các chính quyền địa phương với mục đích giảm mức độ không cân bằng trong thu nhập hay doanh thu do chính quyền địa phương thu được.
+@Chuyên ngành kinh tế
+#trợ cấp để cân bằng (tài chính)

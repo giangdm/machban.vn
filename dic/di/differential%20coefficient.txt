@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#hệ số sai biệt
+#hệ số vi phân
+@Chuyên ngành kỹ thuật
+#đạo hàm
+#vi phân
+@Lĩnh vực: hóa học & vật liệu
+#hệ số riêng
+@Lĩnh vực: toán & tin
+#hệ số vi phân

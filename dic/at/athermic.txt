@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#không dẫn nhiệt
+@Lĩnh vực: y học
+#không sốt, không nóng
+@Lĩnh vực: điện
+#không thấm nhiệt

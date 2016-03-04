@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dòng điện ngắn mạch quy nhiệt
+#dòng ngắn mạch hiệu dụng

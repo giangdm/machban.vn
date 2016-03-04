@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dữ liệu ra
+#dữ liệu xuất
+#số liệu rút ra
+#xuất dữ liệu
+@Lĩnh vực: toán & tin
+#dữ liệu đầu ra

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dấu chấm câu
+#ký tự phân cách
+@Lĩnh vực: toán & tin
+#kí tự dấu cách

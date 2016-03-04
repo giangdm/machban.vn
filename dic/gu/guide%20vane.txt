@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#tấm dẫn hướng
+@Lĩnh vực: toán & tin
+#cánh dẫn hướng
+@Lĩnh vực: xây dựng
+#cánh hướng tĩnh
+@Lĩnh vực: điện lạnh
+#van dẫn hướng

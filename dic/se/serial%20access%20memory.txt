@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ truy cập nối tiếp
+#bộ nhớ truy cập tuần tự
+#bộ nhớ truy nhập tuần tự

@@ -1,0 +1,5 @@
+﻿@iac
+#Mối liên kết trong System 7
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#interapplicatiôn communication

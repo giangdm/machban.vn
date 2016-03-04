@@ -1,0 +1,18 @@
+﻿@Real / relative price
+#(Econ) Các giá thực tế/ tương đối.
+@Chuyên ngành kinh tế
+#chân thực
+#thật
+#thực tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thực, bất động
+<!-- more -->
+@real
+*tính từ
+#thực, thực tế, có thực
+#thật (không phải giả, không phải nhân tạo)
+#chân chính, đúng, xứng đáng với tên gọi
+#<pháp> bất động
+*danh từ
+#thực tế

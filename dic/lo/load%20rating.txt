@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#khả năng tải
+#sức tải
+#tải trọng danh định
+@Lĩnh vực: ô tô
+#chỉ số trọng tải
+@Lĩnh vực: cơ khí & công trình
+#sức mang tải danh định
+@Lĩnh vực: xây dựng
+#xếp đẳng cấp tải trọng
+@Chuyên ngành kỹ thuật
+#khả năng tải
+#sức tải
+#tải trọng danh định
+@Lĩnh vực: ô tô
+#chỉ số trọng tải
+@Lĩnh vực: cơ khí & công trình
+#sức mang tải danh định
+@Lĩnh vực: xây dựng
+#xếp đẳng cấp tải trọng

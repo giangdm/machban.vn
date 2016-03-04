@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí không thường xuyên
+@Chuyên ngành kỹ thuật
+#chi phí đột xuất

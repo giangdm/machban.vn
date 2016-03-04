@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bộ xử lý ngoại (máy tính)
+@Chuyên ngành kỹ thuật
+#bộ tiền xử lý
+#bộ xử lý trước
+@Lĩnh vực: xây dựng
+#xử lý viên mặt đầu

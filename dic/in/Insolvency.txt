@@ -1,0 +1,23 @@
+﻿@Insolvency
+#(Econ) Tình trạng không trả được nợ.
+: Một người hay công ty không trả được nợ, sau khi qua các khâu xem xét về luật pháp, có thể được tuyên bố Phá sản hay họ có thể dàn xếp với những người cho vay để xoá nợ.
+<!-- more -->
+@insolvency /in'sɔlvənsi/
+*danh từ
+#tình trạng không trả được nợ
+@Chuyên ngành kinh tế
+#không có khả năng thanh toán
+#không có khả năng trả nợ
+#sự không có khả năng trả nợ
+#sự phá sản
+@Chuyên ngành kỹ thuật
+#sự phá sản
+@Lĩnh vực: giao thông & vận tải
+#không trả nợ được
+#vỡ nợ
+@Lĩnh vực: toán & tin
+#sự vỡ nợ
+#tình trạng vỡ nợ
+<!-- more -->
+@insolvency
+#(toán kinh tế) [tình trạng, sự] vỡ nợ; sự phá sản

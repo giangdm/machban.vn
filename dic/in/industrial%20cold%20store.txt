@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kho lạnh công nghiệp
+@Lĩnh vực: điện lạnh
+#nhà lạnh công nghiệp

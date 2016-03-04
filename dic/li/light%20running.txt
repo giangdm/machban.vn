@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chạy sơ
+@Lĩnh vực: xây dựng
+#sự chạy thử không tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chạy sơ
+@Lĩnh vực: xây dựng
+#sự chạy thử không tải

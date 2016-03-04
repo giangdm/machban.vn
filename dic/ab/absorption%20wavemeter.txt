@@ -1,0 +1,7 @@
+﻿@absorption wavemeter
+#(Tech) máy đo sóng loại hấp thu
+@Chuyên ngành kỹ thuật
+#hấp thụ tần số
+@Lĩnh vực: điện tử & viễn thông
+#sóng kế cộng hưởng
+#sóng kế hấp thụ

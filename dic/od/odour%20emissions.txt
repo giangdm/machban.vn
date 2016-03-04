@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: môi trường
+#phát tán mùi hôi
+#phát thải mùi hôi

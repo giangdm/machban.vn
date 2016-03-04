@@ -1,0 +1,2 @@
+﻿@coroutine
+#(Tech) đồng thường trình, thường trình phụ

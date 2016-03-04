@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biến áp có lõi
+@Lĩnh vực: xây dựng
+#máy biến áp kiểu lõi

@@ -1,0 +1,6 @@
+﻿@Unintended inventory investment
+#(Econ) Đầu tư vào tồn kho ngoài dự kiến.
+: Tăng hàng tồn kho do các đơn đặt hàng dự tính không thành hiện thực.
+@Chuyên ngành kinh tế
+#kho hàng tăng không dự định
+#sự đầu tư hàng trữ không cố ý

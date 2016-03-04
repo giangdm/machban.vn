@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản lề cánh cửa
+#bản lề khung cửa sổ

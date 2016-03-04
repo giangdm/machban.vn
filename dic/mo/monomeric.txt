@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn thể
+@Lĩnh vực: điện lạnh
+#monome

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#nhà máy fomat
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+#nhà máy pho mát
+@Lĩnh vực: xây dựng
+#xưởng (làm) pho mát

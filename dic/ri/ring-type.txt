@@ -1,0 +1,4 @@
+﻿@ring-type
+#(máy tính) loại vành
+@Chuyên ngành kỹ thuật
+#loại vành

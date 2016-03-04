@@ -1,0 +1,2 @@
+﻿@discrete source
+#(Tech) nguồn phân rời; nguồn ẩn

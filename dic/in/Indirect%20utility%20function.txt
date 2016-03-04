@@ -1,0 +1,6 @@
+﻿@Indirect utility function
+#(Econ) Hàm thoả dụng gián tiếp.
+: Hàm thoả dụng biểu hiện độ thoả dụng thu được từ một tập hợp hàng hoá được xác định bởi giá cả của những hàng hoá này và mức thu nhập.
+@Chuyên ngành kinh tế
+#hàm hữu dụng gián tiếp
+#hàm lợi ích gián tiếp

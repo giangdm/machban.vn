@@ -1,0 +1,3 @@
+﻿@Scitovsky paradox
+#(Econ) Nghịch lý Scitovsky.
+: Nghịch lý nảy sinh nếu bước chuyển từ phân bổ A sang phân bổ B thể hiện một cải thiện Pareto TIỀM NĂNG nhưng những người chịu thiệt thòi từ bước chuyển này sẽ thu lại từ khi lại chuyển về A để tạo điều kiện cho họ mua chuộc những người được lợi trơe lại từ sự phân bổ ban đầu.

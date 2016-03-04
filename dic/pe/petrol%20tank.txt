@@ -1,0 +1,16 @@
+﻿@petrol tank
+*danh từ
+#bồn xăng
+@Chuyên ngành kỹ thuật
+#bể chứa xăng dầu
+#thùng chứa xăng dầu
+#thùng ga
+#thùng nhiên liệu
+@Lĩnh vực: hóa học & vật liệu
+#bể chứa xăng
+@Lĩnh vực: xây dựng
+#bể đựng xăng
+@Lĩnh vực: cơ khí & công trình
+#bình chứa xăng
+@Lĩnh vực: toán & tin
+#dầu hôi

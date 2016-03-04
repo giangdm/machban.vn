@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#rung nảy tiếp xúc
+@Lĩnh vực: điện
+#sự nảy do tiếp xúc
+#sự nẩy tiếp điểm
+@Lĩnh vực: toán & tin
+#sự nhảy công tắc
+#sự nhảy tiếp xúc

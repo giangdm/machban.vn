@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giá bình quân cổ phiếu
+#số bình quân giá chứng khoán

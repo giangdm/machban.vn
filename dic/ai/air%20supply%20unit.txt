@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cụm thiết bị cấp không khí
+#cụm thiết bị thông gió

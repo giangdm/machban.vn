@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mạng dải nền
+@Lĩnh vực: toán & tin
+#mạng dải tần cơ bản

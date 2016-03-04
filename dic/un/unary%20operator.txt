@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#toán tử đơn phân
+#toán tử một hạng tử
+#toán tử một ngôi

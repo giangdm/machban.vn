@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phòng vẽ thiết kế
+#phòng vẽ thiết kế (trong xí nghiệp)
+@Chuyên ngành kỹ thuật
+#phòng can vẽ
+#phòng thiết kế
+#phòng vẽ

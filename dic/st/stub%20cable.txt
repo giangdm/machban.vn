@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cáp nhánh
+@Lĩnh vực: toán & tin
+#cáp mẫu
+@Lĩnh vực: điện tử & viễn thông
+#cáp ngẫu
+@Lĩnh vực: điện lạnh
+#cáp nhánh cụt

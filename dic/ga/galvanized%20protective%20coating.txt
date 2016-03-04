@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp mạ điện bảo vệ
+#lớp mạ kẽm bảo vệ
+#lớp phủ bảo vệ mạ kẽm

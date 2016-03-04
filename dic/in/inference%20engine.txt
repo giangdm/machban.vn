@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy suy luận
+@Lĩnh vực: toán & tin
+#công cụ suy luận
+#động cơ suy diễn

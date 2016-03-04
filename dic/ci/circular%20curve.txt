@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đường cong tròn
+@Lĩnh vực: toán & tin
+#đường đơn viên
+#đường đơn viền

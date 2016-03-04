@@ -1,0 +1,3 @@
+﻿@Spurious regression problem
+#(Econ) Bài toán hồi quy giả.
+: Bài toán nảy sinh khi các biến số liên kết với các bậc khác nhau trong một số mô hình hồi quy.

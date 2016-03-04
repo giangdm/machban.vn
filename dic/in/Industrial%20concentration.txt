@@ -1,0 +1,4 @@
+﻿@Industrial concentration
+#(Econ) Sự tập trung công nghiệp.
+@Chuyên ngành kinh tế
+#sự tập trung công nghiệp

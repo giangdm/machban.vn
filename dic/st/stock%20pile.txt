@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kho dự trữ
+@Lĩnh vực: cơ khí & công trình
+#kho vật liệu
+#kho vật tư

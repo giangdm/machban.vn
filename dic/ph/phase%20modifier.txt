@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy cải tiến (góc) pha
+#máy điều chỉnh (góc) pha
+@Lĩnh vực: điện
+#máy hiệu chỉnh pha

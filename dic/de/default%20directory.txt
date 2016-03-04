@@ -1,0 +1,5 @@
+﻿@default directory
+#(Tech) danh mục mặc định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thư mục mặc định

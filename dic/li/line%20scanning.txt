@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#sự quét dòng
+#sự quét mành
+@Lĩnh vực: điện lạnh
+#quét dòng
+@Chuyên ngành kỹ thuật
+#sự quét dòng
+#sự quét mành
+@Lĩnh vực: điện lạnh
+#quét dòng

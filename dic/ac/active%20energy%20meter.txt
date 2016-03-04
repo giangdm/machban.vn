@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo năng lượng hữu công
+@Lĩnh vực: điện
+#công tơ hữu công (tác dụng)
+@Lĩnh vực: điện lạnh
+#công tơ năng lượng tác dụng
+#máy đo điện năng tác dụng

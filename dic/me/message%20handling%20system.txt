@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ xử lý thông báo
+@Lĩnh vực: điện lạnh
+#hệ (thống) xử lý thông báo

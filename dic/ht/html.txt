@@ -1,0 +1,3 @@
+﻿@html
+*danh từ
+#<tin>(vt của HyperText Markup Language) Ngôn ngữ Đánh dấu Siêu văn bản

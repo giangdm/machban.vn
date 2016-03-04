@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#bảng tính toán tổn thất
+#sự tính toán tổn thất

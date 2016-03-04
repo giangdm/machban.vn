@@ -1,0 +1,7 @@
+﻿@sum total
+*danh từ
+#toàn bộ; nội dung tổng quát
+#tổng số cuối cùng
+@Chuyên ngành kinh tế
+#số tổng cộng
+#tổng số tiền

@@ -1,0 +1,5 @@
+﻿@bps
+#(vt của bits per second) số bit trong mỗi giây, bit/giây
+@Chuyên ngành kỹ thuật
+#bit trên giây
+#bit/s

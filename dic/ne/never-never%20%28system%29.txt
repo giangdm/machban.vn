@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#chế độ trả góp
+#phương thức mua chịu trả dần từng đợt

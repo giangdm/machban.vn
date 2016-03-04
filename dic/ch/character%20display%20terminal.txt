@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đầu cuối hiển thị kí tự
+#màn hình hiển thị kí tự

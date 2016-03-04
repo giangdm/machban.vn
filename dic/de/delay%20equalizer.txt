@@ -1,0 +1,9 @@
+﻿@delay equalizer
+#(Tech) bộ cân bằng trễ, bộ cân bằng vị tướng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ bù trễ pha
+@Lĩnh vực: điện lạnh
+#mạch hiệu chính pha
+@Lĩnh vực: toán & tin
+#mạch hiệu chỉnh trễ

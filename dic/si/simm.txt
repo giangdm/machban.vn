@@ -1,0 +1,2 @@
+﻿@simm
+#mô đun nhớ một hàng chân

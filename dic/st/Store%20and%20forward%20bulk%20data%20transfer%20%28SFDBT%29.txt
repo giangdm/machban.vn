@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#truyền khối dữ liệu theo kiểu lưu trữ và chuyển tiếp

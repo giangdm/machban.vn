@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bồn chứa xi phông nguyên
+#chậu rửa liền xi phông

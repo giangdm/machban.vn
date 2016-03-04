@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#công ty dầu hỏa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#công ty dầu

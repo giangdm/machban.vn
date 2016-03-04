@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sự hàm có áp lực
+#sự hàm ép
+@Lĩnh vực: hóa học & vật liệu
+#sự hàn áp lực
+@Lĩnh vực: xây dựng
+#sự hàn dưới áp lực
+#sự hàn dưới áp suất

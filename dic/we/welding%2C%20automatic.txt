@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hàn máy
+#hàn tự động
+@Lĩnh vực: toán & tin
+#hàn tự động, hàn máy

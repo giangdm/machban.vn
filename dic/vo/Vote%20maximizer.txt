@@ -1,0 +1,3 @@
+﻿@Vote maximizer
+#(Econ) Ngừơi muốn tối đa hoá phiếu bầu.
+: Ngừơi muốn tối đa hoá phiếu bầu chính trị cho mình.

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cọc xiết dây
+@Lĩnh vực: toán & tin
+#máy kiểm soát dây đứt

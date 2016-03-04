@@ -1,0 +1,3 @@
+﻿@Grand factor price frontier
+#(Econ) Giới hạn giá cả nhân tố chính.
+: Một khái niệm do P.SAMUELSON SỬ DỤNG nhằm khôi phục lại việc sử dụng tổng tư bản trong các mô hình kinh tế tân cổ điển.

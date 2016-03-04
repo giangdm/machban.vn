@@ -1,0 +1,2 @@
+﻿@cylindrical waveguide
+#(Tech) ống dẫn sóng hình trụ

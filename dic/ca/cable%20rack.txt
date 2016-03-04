@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#giá đỡ cáp
+#khung cáp
+@Lĩnh vực: xây dựng
+#trụ cáp

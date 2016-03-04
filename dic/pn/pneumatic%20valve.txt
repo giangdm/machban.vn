@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#van (điều khiển bằng) khí nén
+@Lĩnh vực: hóa học & vật liệu
+#van khí động
+@Lĩnh vực: cơ khí & công trình
+#van khí nén

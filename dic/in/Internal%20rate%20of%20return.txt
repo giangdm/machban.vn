@@ -1,0 +1,8 @@
+﻿@Internal rate of return
+#(Econ) Nội suất sinh lợi
+: Xem RATE OF RETURN.
+@Chuyên ngành kinh tế
+#chỉ số nội hoàn
+#lợi suất nội hàm
+#lợi suất thực tế
+#mức hoàn trả vốn

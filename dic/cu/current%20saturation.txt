@@ -1,0 +1,9 @@
+﻿@current saturation
+#(Tech) bão hòa cường độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bão hòa dòng
+@Lĩnh vực: toán & tin
+#sự bão hòa dòng
+@Lĩnh vực: điện tử & viễn thông
+#sự bão hòa dòng điện

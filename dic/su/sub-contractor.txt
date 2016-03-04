@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#người thầu lại
+#người thầu phụ
+#người thầu thứ cấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#người nhận thầu lại

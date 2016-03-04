@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống lớn
+#máy tính lớn
+#thiết bị (xử lý) trung tâm
+@Chuyên ngành kỹ thuật
+#máy tính chính
+#máy tính cỡ lớn
+#máy tính lớn
+#siêu máy tính
+@Lĩnh vực: xây dựng
+#máy toán đại khung

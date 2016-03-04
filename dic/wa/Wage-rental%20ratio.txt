@@ -1,0 +1,2 @@
+﻿@Wage-rental ratio
+#(Econ) Tỷ số tiền công- tiền thuê vốn.

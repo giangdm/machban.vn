@@ -1,0 +1,2 @@
+﻿@field separation character
+#(Tech) ký tự phân trường

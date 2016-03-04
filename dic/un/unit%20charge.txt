@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#đơn vị cơ bản
+#phí cơ bản
+#phí đơn vị (điện thoại...)
+@Chuyên ngành kỹ thuật
+#culông E
+#culông tĩnh điện
+#điện tích đơn vị
+@Lĩnh vực: hóa học & vật liệu
+#diện tích đơn vị
+@Lĩnh vực: điện
+#đơn vị điện tích

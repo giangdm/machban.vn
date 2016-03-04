@@ -1,0 +1,5 @@
+﻿@brush contact resistance
+#(Tech) điện trở tiếp xúc chổi (điện)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện trơ tiếp xúc chổi than

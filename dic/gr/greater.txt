@@ -1,0 +1,4 @@
+﻿@greater
+#lớn hơn, có ý nghĩa hơn
+@Chuyên ngành kỹ thuật
+#lớn hơn

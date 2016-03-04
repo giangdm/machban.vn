@@ -1,0 +1,2 @@
+﻿@irq
+#đường dây yêu cầu ngắt

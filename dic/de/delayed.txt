@@ -1,0 +1,6 @@
+﻿@delayed
+#bị chậm
+@Chuyên ngành kỹ thuật
+#làm trễ
+@Lĩnh vực: toán & tin
+#bị chậm

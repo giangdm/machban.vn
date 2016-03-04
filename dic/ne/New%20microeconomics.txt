@@ -1,0 +1,3 @@
+﻿@New microeconomics
+#(Econ) Kinh tế học vi mô mới.
+: Là tên gọi được đặt cho các tài liệu kinh tế đã thực hiên việc phân biệt kinh tế học vĩ mô; cụ thể là đã đưa một cơ sở kinh tế học vi mô vững chắc cho những cơ cấu làm nền tảng cho mối quan hệ tổng hợp giữa những thay đổi về giá và thất nghiệp.

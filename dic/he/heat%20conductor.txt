@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#vật dẫn nhiệt
+@Lĩnh vực: điện lạnh
+#bộ dẫn nhiệt
+#chất [vật] dẫn nhiệt
+#chất dẫn nhiệt

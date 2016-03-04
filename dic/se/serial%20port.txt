@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#cảng (xếp thành) dọc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cổng nối tiếp

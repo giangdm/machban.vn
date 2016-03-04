@@ -1,0 +1,6 @@
+﻿@non
+#(tiền tố) không
+@Chuyên ngành kinh tế
+#không phải là
+@Chuyên ngành kỹ thuật
+#bất

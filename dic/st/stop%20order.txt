@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#lệnh đình chỉ
+#lệnh đình chỉ đặt mua, giao dịch, thông báo ngưng trả tiền
+#lệnh dừng lại
+#lệnh ngăn ngừa tổn thất
+#lệnh ngưng
+#lệnh ngưng trả
+#thông báo ngưng trả tiền

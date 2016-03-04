@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#ga lập tàu
+#kho gỗ
+#nhà máy, xưởng
+#sân
+@Lĩnh vực: toán & tin
+#bãi dỡ hàng
+#thước Anh (0, 9144m)

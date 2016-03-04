@@ -1,0 +1,8 @@
+﻿@prefactor
+#nhân tử đi trước (bên trái)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhân tử đi trước (bên trái)
+#nhân tử trước
+@Lĩnh vực: điện lạnh
+#thừa số trước

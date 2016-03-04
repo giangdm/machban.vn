@@ -1,0 +1,15 @@
+﻿@Nominal value
+#(Econ) Giá trị danh nghĩa.
+: Là giá trị được ghi trên một tờ chứng khoán hoặc mệnh giá của nó, trái với giá trị danh nghĩa là giá thị trường.
+@Chuyên ngành kinh tế
+#diện giá
+#giá trị danh nghĩa
+#giá trị ngoài mặt
+#mệnh giá
+@Chuyên ngành kỹ thuật
+#giá trị danh định
+#giá trị danh nghĩa
+@Lĩnh vực: cơ khí & công trình
+#giá trị định danh
+@Lĩnh vực: điện lạnh
+#trị số định mức

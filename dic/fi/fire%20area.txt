@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng đốt
+@Lĩnh vực: xây dựng
+#khu phòng hỏa
+@Lĩnh vực: vật lý
+#vùng sinh nhiệt
+@Chuyên ngành kỹ thuật
+#vùng đốt
+@Lĩnh vực: xây dựng
+#khu phòng hỏa
+@Lĩnh vực: vật lý
+#vùng sinh nhiệt

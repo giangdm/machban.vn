@@ -1,0 +1,5 @@
+﻿@Voluntary unemployment
+#(Econ) Thất nghiệp tự nguyện.
+: Phần Thất nghiệp nảy sinh từ quá trình tìm việc và thất nghiệp tạm thời và trá hình.
+@Chuyên ngành kinh tế
+#thất nghiệp tự nguyện

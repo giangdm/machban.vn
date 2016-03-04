@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ gom dòng
+#cần lấy điện
+@Lĩnh vực: điện lạnh
+#bộ gom điện
+@Lĩnh vực: giao thông & vận tải
+#cần vẹt
+@Lĩnh vực: xây dựng
+#con lăn lấy điện

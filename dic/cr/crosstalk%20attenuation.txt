@@ -1,0 +1,2 @@
+﻿@crosstalk attenuation
+#(Tech) suy giảm xuyên âm

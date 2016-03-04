@@ -1,0 +1,10 @@
+﻿@boad
+#(máy tính) bảng, bàn
+#calculating b. (máy tính) bàn tính
+#computer b. bàn tính
+#control b. bảng kiểm tra
+#distributing b. bảng phân phối
+#instrument b. bảng dụng cụ
+#key b. bàn phím, bảng điều khiển
+#panel b. bảng (danh sách) dụng cụ
+#plotting b. bàn can (thiết kế)

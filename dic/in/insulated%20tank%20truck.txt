@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#xe téc đẳng nhiệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#xe xi-téc cách nhiệt

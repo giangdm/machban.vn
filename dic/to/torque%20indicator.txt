@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cái chỉ độ xoắn
+@Lĩnh vực: đo lường & điều khiển
+#cái chỉ báo mômen xoắn

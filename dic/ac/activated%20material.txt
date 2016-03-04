@@ -1,0 +1,2 @@
+﻿@activated material
+#(Tech) chất được hoạt hóa

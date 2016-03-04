@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ giải điều tần số
+@Lĩnh vực: điện tử & viễn thông
+#sự tách sóng tần số

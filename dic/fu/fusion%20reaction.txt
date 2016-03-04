@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phản ứng tỏa nhiệt
+@Lĩnh vực: điện
+#phản ứng phát nhiệt
+@Lĩnh vực: điện lạnh
+#phản ứng tổng hợp

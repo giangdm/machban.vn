@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phương trình dòng nhiệt
+#phương trình nhiệt
+#phương trình nhiệt Fourier

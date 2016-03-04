@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#đơn vị đầu vào
+@Chuyên ngành kỹ thuật
+#phương tiện nhập
+#thiết bị vào
+@Lĩnh vực: toán & tin
+#đơn vị nhập
+#dụng cụ nhập
+#khối nhập liệu
+#khối vào dữ liệu
+#thiết bị nhập
+#thiết bị nhập liệu
+#thiết nhập

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#khí kế nén
+@Chuyên ngành kỹ thuật
+#khí cụ đo nén
+#máy nén
+@Lĩnh vực: đo lường & điều khiển
+#áp kế nén

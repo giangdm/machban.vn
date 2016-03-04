@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dạng sóng phân tán nhân tạo
+#dạng sóng tiêu tán nhân tạo
+#tín hiệu phân tán nhân tạo
+#tín hiệu tiêu tán nhân tạo

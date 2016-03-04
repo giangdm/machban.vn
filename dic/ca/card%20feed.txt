@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ cấp thẻ
+#bộ đẩy bìa
+#cơ cấu nạp phiếu
+#hộp tiếp thẻ
+#thiết bị đẩy bìa vào
+@Lĩnh vực: điện tử & viễn thông
+#bộ nạp bìa

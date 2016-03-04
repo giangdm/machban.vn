@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hộp số
+#hộp tốc độ
+@Lĩnh vực: cơ khí & công trình
+#cơ cấu biến tốc vô cấp

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thời gian lưu giữ (của bộ nhớ)
+@Lĩnh vực: toán & tin
+#thời gian lưu trữ

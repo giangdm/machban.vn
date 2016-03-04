@@ -1,0 +1,8 @@
+﻿@error flag
+#(Tech) cờ báo sai lầm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cờ hiệu báo lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cờ hiệu báo lỗi

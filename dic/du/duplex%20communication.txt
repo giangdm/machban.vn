@@ -1,0 +1,2 @@
+﻿@duplex communication
+#(Tech) sự truyền thông hai chiều

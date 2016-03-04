@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống hãm điện trở
+@Lĩnh vực: giao thông & vận tải
+#bộ hãm có biến trở

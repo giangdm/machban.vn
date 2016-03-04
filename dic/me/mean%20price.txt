@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giá trung bình
+#giá trung bình (giữa giá mua và giá bán)
+#giá trung bình cộng

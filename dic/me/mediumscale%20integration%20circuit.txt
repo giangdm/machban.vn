@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mạch tích hợp cỡ trung bình
+#mạch tích hợp cỡ vừa

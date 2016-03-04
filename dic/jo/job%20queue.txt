@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hàng công việc
+#luồng công việc
+@Lĩnh vực: toán & tin
+#chuỗi công việc
+#danh mục công việc

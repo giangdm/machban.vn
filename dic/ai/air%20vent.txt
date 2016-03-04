@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa (thông) gió
+#lỗ thoát hơi
+#lỗ thoát khí
+#lỗ thông gió
+#lỗ thông hơi
+#lỗ thông khí
+#sự thoát khí
+#van không khí
+#van thông khí

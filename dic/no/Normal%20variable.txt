@@ -1,0 +1,3 @@
+﻿@Normal variable
+#(Econ) Biến thông thường.
+: Là một biến ngẫu nhiên có phân phối chuẩn.

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chuyển bank
+#chuyển khối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuyển bank
+#chuyển khối (nhớ)

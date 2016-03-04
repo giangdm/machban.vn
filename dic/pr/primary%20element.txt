@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nguyên tử sơ cấp
+@Lĩnh vực: điện lạnh
+#phần tử sơ cấp

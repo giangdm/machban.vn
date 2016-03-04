@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#nung (bằng) điện
+#sự biến đổi thành nhiệt nhờ điện năng
+#sự gia nhiệt bằng điện
+#sự nung nóng bằng điện
+#sự sưởi ấm bằng điện
+@Lĩnh vực: xây dựng
+#sự sưởi bằng điện
+@Lĩnh vực: điện lạnh
+#sưởi (bằng) điện
+@Chuyên ngành kỹ thuật
+#nung (bằng) điện
+#sự biến đổi thành nhiệt nhờ điện năng
+#sự gia nhiệt bằng điện
+#sự nung nóng bằng điện
+#sự sưởi ấm bằng điện
+@Lĩnh vực: xây dựng
+#sự sưởi bằng điện
+@Lĩnh vực: điện lạnh
+#sưởi (bằng) điện

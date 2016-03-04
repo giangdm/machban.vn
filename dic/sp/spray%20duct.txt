@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ống dẫn của dàn phun
+#ống dẫn của giàn phun

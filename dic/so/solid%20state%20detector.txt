@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bộ dò mạch rắn
+#bộ tách sóng mạch rắn

@@ -1,0 +1,5 @@
+﻿@Federal Reserve System
+#(Econ) Hệ thống Dự trữ Liên bang.
+: Hệ thống này được thành lập ở Mỹ năm 1913 thực hiện chức năng của một NGÂN HÀNG TRUNG ƯƠNG và xây dựng một khuôn khổ đủ mạnh nhằm kiểm soát hệ thống ngân hàng thương mại. Hệ thống này có cấu trúc quy mô liên bang, gồm có 12 Ngân hàng dự trữ Liên bang, mỗi ngân hàng có trách nhiệm về các hoạt động hàng ngày trong khu vực và hoạt động giống như kênh liên hệ hai chiều giữa hệ thống này và cộng đồng liên doanh.
+@Chuyên ngành kinh tế
+#hệ thống dự trữ liên bang

@@ -1,0 +1,2 @@
+﻿@auto-request control
+#(Tech) kiểm soát yêu cầu tự động

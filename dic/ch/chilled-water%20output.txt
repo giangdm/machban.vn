@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#năng suất (lượng) nước lạnh
+@Lĩnh vực: điện lạnh
+#năng suất nước lạnh

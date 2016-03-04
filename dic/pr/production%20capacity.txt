@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#năng suất
+#năng suất sản xuất
+#sản lượng
+@Lĩnh vực: cơ khí & công trình
+#công suất sản xuất
+@Lĩnh vực: toán & tin
+#khả năng sản xuất
+#khả năng xản xuất

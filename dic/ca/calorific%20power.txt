@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#khả năng sinh nhiệt
+@Chuyên ngành kỹ thuật
+#năng suất tỏa nhiệt
+#nhiệt trị
+@Lĩnh vực: điện lạnh
+#lượng tỏa nhiệt

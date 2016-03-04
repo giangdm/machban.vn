@@ -1,0 +1,2 @@
+﻿@graphics editor
+#(Tech) chương trình biên soạn đồ họa

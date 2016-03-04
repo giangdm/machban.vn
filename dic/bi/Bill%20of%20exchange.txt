@@ -1,0 +1,11 @@
+﻿@Bill of exchange
+#(Econ) Hối phiếu đối ngoại.
+: Hối phiếu được rút để cấp tiền cho giao dịch ngoại thương.
+@Chuyên ngành kinh tế
+#hối phiếu
+@Chuyên ngành kỹ thuật
+#chứng từ vận tải
+#hối phiếu
+<!-- more -->
+@bill of exchange
+#hối phiếu

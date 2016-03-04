@@ -1,0 +1,5 @@
+﻿@Indivisibilities
+#(Econ) Tính bất khả chia; Tính không thể phân chia được.
+: Đặc tính của một yếu tố sản xuất hay một hàng hoá không cho phép sử dụng nó dưới một phép tối thiểu nào đó.
+@Chuyên ngành kinh tế
+#tính không thể chia cắt

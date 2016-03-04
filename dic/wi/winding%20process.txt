@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+#quá trình đánh ống sợi
+#quá trình guồng sợi
+#quá trình quấn sợi

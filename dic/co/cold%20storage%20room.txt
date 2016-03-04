@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phòng bảo quản lạnh
+@Chuyên ngành kỹ thuật
+#buồng lạnh
+#buồng ướp lạnh
+#phòng bảo quản lạnh
+@Lĩnh vực: đo lường & điều khiển
+#phòng ướp lạnh

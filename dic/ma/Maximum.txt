@@ -1,0 +1,26 @@
+﻿@Maximum
+#(Econ) Giá trị cực đại.
+: Là giá trị lớn nhất của một hàm số hoặc của biến số.
+<!-- more -->
+@maximum /'mæksiməm/ (maxima) /'mæksimə/
+*danh từ số nhiều
+#điểm cao nhất, cực điểm, cực độ, tối đa
+*tính từ
+#cực độ, tối đa
+@Chuyên ngành kinh tế
+#cực đại
+#số lượng cực đại
+#số lượng tối đa
+#tối đa
+#tối đại
+@Chuyên ngành kỹ thuật
+#giá trị đỉnh
+<!-- more -->
+@maximum
+#cực đại, giá trị lớn nhất
+#absolute m. cực đại tuyệt đối, cực đại hoàn toàn
+#improper m. cực đại không chân chính
+#relative m. cực đại tương đối
+#strong m. cực đại mạnh
+#true m. cực đại chân thực, cực đại cốt yếu
+#vrai m., v. max cực đại thực

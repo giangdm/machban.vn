@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thợ lắp ráp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thợ lắp máy lạnh

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#giá bắt buộc
+#giá chỉ đạo
+#giá khống chế
+#giá quản chế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#giá chỉ đạo
+@Lĩnh vực: xây dựng
+#giá được quản lý

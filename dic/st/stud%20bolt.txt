@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#vít cấy
+@Lĩnh vực: cơ khí & công trình
+#chi tiết ghép có ren
+#chốt ren
+#vít cấy (có) ren hai đầu
+@Lĩnh vực: xây dựng
+#chốt có ren
+#đinh chìm
+#đinh vít cấy
+#đinh vít hai đầu
+@Lĩnh vực: toán & tin
+#gu-giông, đinh chùm

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điện trở bề mặt
+#điện trở lớp da
+#sức bền bề mặt
+@Lĩnh vực: điện lạnh
+#điện trở lớp mặt ngoài

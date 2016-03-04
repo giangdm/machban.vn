@@ -1,0 +1,5 @@
+﻿@block device
+#(Tech) thiết bị khối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết bị khối

@@ -1,0 +1,26 @@
+﻿@Assurance
+#(Econ) Bảo hiểm xác định
+: Một loại bảo hiểm liên quan đến tình huống trong đó bảo hiểm cho sự kiện không thể tránh khỏi. Điều này có thể do hợp đồng liên quan tới việc trả một khoản xác định vào một ngày nào đó hoặc là vì cái chết của người được bảo hiểm.
+<!-- more -->
+@assurance /ə'ʃuərəns/
+*danh từ
+#sự chắc chắn; sự tin chắc; điều chắc chắn, điều tin chắc
+#sự quả quyết, sự cam đoan; sự đảm bảo
+#sự tự tin
+#sự trơ tráo, sự vô liêm sỉ
+=to have the assurance to do something: dám trơ tráo làm việc gì
+#(pháp lý) bảo hiểm
+=life assurance: bảo hiểm tính mệnh
+#to make assurance double sure
+#để cho hoàn toàn chắc chắn; làm cho không thể nghi ngờ vào đâu được
+@Chuyên ngành kinh tế
+#bảo hiểm nhân thọ
+#sự đảm bảo
+@Chuyên ngành kỹ thuật
+#sự bảo đảm
+#sự bảo hiểm
+#sự đảm bảo
+<!-- more -->
+@assurance
+#sự bảo hiểm
+#life a. tk bảo hiểm sinh mạng

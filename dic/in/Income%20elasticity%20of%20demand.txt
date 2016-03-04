@@ -1,0 +1,6 @@
+﻿@Income elasticity of demand
+#(Econ) Co giãn của cầu theo thu nhập.
+: Đo lường mức độ phản ứng của lượng cầu về một hàng hoá đối với một mức thay đổi về mức thu nhập của những người có yêu cầu về hàng hoá này.
+@Chuyên ngành kinh tế
+#độ co giãn của cầu theo thu nhập
+#độ co giãn của mức cầu theo thu nhập

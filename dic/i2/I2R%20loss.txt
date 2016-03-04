@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#tổn hao đồng
+@Lĩnh vực: điện
+#sự giảm nhiệt
+#tổn thất I2R (nhiệt)
+@Lĩnh vực: điện lạnh
+#tổn hao hiệu ứng Joule
+#tổn hao I2R

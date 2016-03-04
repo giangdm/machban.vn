@@ -1,0 +1,7 @@
+﻿@computer terminal
+#(Tech) đầu cuối máy điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kết bị máy toán
+@Lĩnh vực: toán & tin
+#thiết bị cuối máy tính

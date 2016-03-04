@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#khâu (nối) mang từ tính
+@Lĩnh vực: điện
+#khâu từ tính
+@Lĩnh vực: điện lạnh
+#thiết bị nối từ

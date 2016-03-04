@@ -1,0 +1,11 @@
+﻿@earth current
+#(Tech) dòng tiếp đất; dòng trong đất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dòng điện đất
+@Lĩnh vực: điện lạnh
+#dòng điện trong đất
+@Lĩnh vực: hóa học & vật liệu
+#dòng telua
+@Lĩnh vực: điện tử & viễn thông
+#dòng tiếp đất

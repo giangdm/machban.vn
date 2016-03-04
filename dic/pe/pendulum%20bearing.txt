@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#gối lắc
+@Lĩnh vực: xây dựng
+#gối tựa kiểu con lắc
+@Lĩnh vực: vật lý
+#ổ lắc
+@Lĩnh vực: cơ khí & công trình
+#ổ lưỡi dao

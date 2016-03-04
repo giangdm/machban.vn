@@ -1,0 +1,8 @@
+﻿@type-face
+*danh từ
+#kiểu chữ; bộ chữ in được thiết kế riêng biệt
+@Chuyên ngành kinh tế
+#kiểu và cỡ con chữ in
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mặt chữ

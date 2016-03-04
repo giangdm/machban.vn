@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chỉ thị hạ cánh
+#lệnh cho hàng lên bờ
+#lệnh dỡ hàng lên bờ
+#lệnh dỡ hàng lên bờ (của hải quan)
+#lệnh nhập kho hải quan

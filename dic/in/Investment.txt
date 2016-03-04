@@ -1,0 +1,25 @@
+﻿@Investment
+#(Econ) Đầu tư.
+: Thuật ngữ này được sử dụng phổ biến nhất để mô tả lưu lượng chi tiêu được dùng để tăng hay duy trì DUNG LƯỢNG VỐN thực tế.
+<!-- more -->
+@investment /in'vestmənt/
+*danh từ
+#sự đầu tư; vốn đầu tư; cái được đầu tư
+#(như) investiture
+#(quân sự) sự bao vây, sự phong toả
+@Chuyên ngành kinh tế
+#cái được đầu tư
+#đầu tư
+#đối tượng đầu tư
+#khoản đầu tư
+#sự đầu tư
+#tiền đầu tư
+#tư liệu sản xuất
+#vốn đầu tư
+@Chuyên ngành kỹ thuật
+#đầu tư
+#sự đầu tư
+#vốn đầu tư
+<!-- more -->
+@investment
+#(toán kinh tế) vốn đầu tư; sự hùn (vốn)

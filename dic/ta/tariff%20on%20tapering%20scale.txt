@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kinh tế
+#bảng giá tính theo tỉ lệ càng xa càng giảm

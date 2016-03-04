@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chính sách kinh tế (quốc gia)
+#quyết sách kinh tế (của xí nghiệp)
+#sự lựa chọn kinh tế (của cá nhân)

@@ -1,0 +1,2 @@
+﻿@electron emission decay
+#(Tech) sự thoái hóa phát xạ điện tử

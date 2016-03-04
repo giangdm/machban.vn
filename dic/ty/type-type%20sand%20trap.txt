@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bể lắng gián đoạn
+#bể lắng rửa theo chu kỳ

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thiết bị clo hóa
+#thiết bị xử lý clo
+#trạm clo hóa
+@Lĩnh vực: hóa học & vật liệu
+#xưởng clo hóa

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thời gian đáp ứng (của kim máy đo)
+@Lĩnh vực: điện
+#thời gian hồi đáp
+@Lĩnh vực: điện tử & viễn thông
+#thời gian nhạy
+@Lĩnh vực: đo lường & điều khiển
+#thời gian phản hồi

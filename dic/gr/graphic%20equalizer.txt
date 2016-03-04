@@ -1,0 +1,5 @@
+﻿@graphic equalizer
+#(Tech) bộ cân bằng đồ họa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#bộ điều chỉnh âm sắc

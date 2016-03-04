@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#các tính chất nhiệt động (lực) học
+#đặc tính nhiệt động (lực) học

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mặt tròn xoay bậc hai
+@Lĩnh vực: toán & tin
+#quadrics song tiếp

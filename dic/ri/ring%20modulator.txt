@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều biến hình xuyến
+@Lĩnh vực: toán & tin
+#bộ điều chế vòng
+@Lĩnh vực: điện
+#bộ mạch điều chế vòng
+#mạch biến điện vòng

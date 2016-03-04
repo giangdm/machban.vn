@@ -1,0 +1,2 @@
+﻿@effective height of antenna
+#(Tech) độ cao hữu hiệu của ăngten

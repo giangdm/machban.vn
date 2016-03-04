@@ -1,0 +1,7 @@
+﻿@cumulative error
+#(Tech) sai số tích lũy
+@Chuyên ngành kỹ thuật
+#lỗi tích lũy
+#sai số tích lũy
+@Lĩnh vực: điện
+#sai số gộp

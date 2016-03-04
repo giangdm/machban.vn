@@ -1,0 +1,3 @@
+﻿@Correspondent banks
+#(Econ) Các ngân hàng đại lý.
+: Một ngân hàng hoạt động như một đại lý cho một ngân hàng khác ở nơi mà ngân hàng này không có văn phòng hoặc vì lý do nào đó ngân hàng không thể tiến hành cho các nghiệp vụ của bản thân nó.

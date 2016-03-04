@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dây dẫn trở về
+@Lĩnh vực: điện lạnh
+#dây trở về (của mạch công suất dòng một chiều)

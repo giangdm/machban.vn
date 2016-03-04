@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phương thức kinh doanh
+#phương thức thao tác
+@Chuyên ngành kỹ thuật
+#chế độ hoạt động
+#phương pháp làm việc

@@ -1,0 +1,3 @@
+﻿@Liquility
+#(Econ) Khả năng chuyển hoán.
+: Tính chất của tài sản gần tới mức mua tự do, TIỀN được định nghĩa là có khả năng chuyển hoán cao nhất.

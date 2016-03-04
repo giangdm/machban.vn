@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phòng có vách hút âm
+@Lĩnh vực: vật lý
+#phòng không có tiếng dội

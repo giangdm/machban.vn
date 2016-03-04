@@ -1,0 +1,2 @@
+﻿@computer-enhanced image
+#(Tech) hình ảnh tăng cường bằng điện toán

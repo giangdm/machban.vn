@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#chuỗi xung
+#dãy xung
+@Lĩnh vực: điện lạnh
+#chùm xung
+#đoàn xung
+@Lĩnh vực: toán & tin
+#loạt xung

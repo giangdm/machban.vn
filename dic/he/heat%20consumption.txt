@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#lượng nhiệt tiêu thụ
+#lượng tiêu thụ nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#tiêu thụ nhiêt

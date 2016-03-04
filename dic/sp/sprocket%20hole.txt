@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗ hổng
+#lỗ kéo phim
+#lỗ móc đẩy
+#lỗ móc phim
+#lỗ răng khuyết
+@Lĩnh vực: xây dựng
+#lỗ dẫn
+@Lĩnh vực: vật lý
+#lỗ dẫn hướng

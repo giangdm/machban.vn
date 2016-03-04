@@ -1,0 +1,2 @@
+﻿@automatic sequence
+#(Tech) chuỗi/trình tự tự động

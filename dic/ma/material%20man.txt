@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#người giữ kho
+#người quản lý kho

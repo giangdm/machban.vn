@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sóng đứng
+@Lĩnh vực: xây dựng
+#clapotis
+@Lĩnh vực: điện lạnh
+#sóng dừng
+@Lĩnh vực: ô tô
+#sóng thẳng

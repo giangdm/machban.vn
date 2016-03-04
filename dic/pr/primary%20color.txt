@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#màu chủ yếu
+#màu cơ bản
+#màu cơ bản// màu gốc
+#màu gốc
+@Lĩnh vực: toán & tin
+#màu nguyên thủy

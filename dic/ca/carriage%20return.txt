@@ -1,0 +1,13 @@
+﻿@carriage return
+#(Tech) trở đầu bộ lên giấy, về đầu dòng
+@Chuyên ngành kinh tế
+#lượt về của xe chuyển hàng
+@Chuyên ngành kỹ thuật
+#ký tự xuống dòng
+#phím xuống dòng
+#trở về
+@Lĩnh vực: toán & tin
+#chuyển dòng
+#đầu in quay về
+#sự trở về đầy dòng
+#xuống dòng

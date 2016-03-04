@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quyền trên file
+#quyền trên tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quyền trên file
+#quyền trên tệp

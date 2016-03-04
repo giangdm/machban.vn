@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Daemon máy in dòng (Giao thức để gửi công việc in ấn giữa các hệ thống UNIX)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Daemon máy in dòng (Giao thức để gửi công việc in ấn giữa các hệ thống UNIX)

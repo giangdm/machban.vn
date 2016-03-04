@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ đảo kiểu biến đổi điện rung (biến DC thành AC)

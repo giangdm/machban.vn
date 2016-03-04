@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn bền uốn
+#sức bền uốn
+@Lĩnh vực: xây dựng
+#cường độ chịu uốn giới hạn
+@Lĩnh vực: cơ khí & công trình
+#giới bạn bền uốn

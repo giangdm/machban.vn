@@ -1,0 +1,14 @@
+﻿@Private company
+#(Econ) Công ty tư nhân.
+: Xem COMPANY.
+@Chuyên ngành kinh tế
+#công ty riêng
+#công ty trách nhiệm hữu hạn
+#công ty tư
+#công ty tư doanh
+@Chuyên ngành kỹ thuật
+#công ty tư nhân
+<!-- more -->
+@private company
+*danh từ
+#công ty tư doanh

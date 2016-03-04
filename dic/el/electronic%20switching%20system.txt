@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống chuyển mạch điện tử
+@Lĩnh vực: điện tử & viễn thông
+#hệ chuyển mạch điện tử
+@Lĩnh vực: điện lạnh
+#hệ đóng-ngắt (mạch) bằng điện tử
+@Chuyên ngành kỹ thuật
+#hệ thống chuyển mạch điện tử
+@Lĩnh vực: điện tử & viễn thông
+#hệ chuyển mạch điện tử
+@Lĩnh vực: điện lạnh
+#hệ đóng-ngắt (mạch) bằng điện tử

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh tích phân
+@Lĩnh vực: toán & tin
+#điều khiển tích phân
+@Lĩnh vực: đo lường & điều khiển
+#kiểm soát trọn vẹn
+@Lĩnh vực: xây dựng
+#sự điều khiển toàn phần

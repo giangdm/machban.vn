@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ truyền thông
+@Lĩnh vực: xây dựng
+#hệ liên lạc
+@Lĩnh vực: toán & tin
+#hệ thống truyền thông

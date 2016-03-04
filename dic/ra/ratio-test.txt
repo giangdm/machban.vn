@@ -1,0 +1,2 @@
+﻿@ratio-test
+#phép kiểm định theo tỷ số

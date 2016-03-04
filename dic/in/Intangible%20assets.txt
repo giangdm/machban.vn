@@ -1,0 +1,5 @@
+﻿@Intangible assets
+#(Econ) Tài sản vô hình.
+: Xem TANGIBLE ASSETS, GOODWILL.
+@Chuyên ngành kinh tế
+#tài sản vô hình

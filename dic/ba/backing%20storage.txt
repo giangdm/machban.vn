@@ -1,0 +1,7 @@
+﻿@backing storage
+#(Tech) bộ trữ dự phòng
+@Chuyên ngành kỹ thuật
+#bộ nhớ dự phòng
+#bộ nhớ phụ
+@Lĩnh vực: điện tử & viễn thông
+#bộ lưu trữ dự phòng

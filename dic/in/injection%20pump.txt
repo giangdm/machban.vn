@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm nhiên liệu (cao áp)
+#bơm phun
+#bơm phun (nhiên liệu)
+#máy bơm phun
+@Lĩnh vực: giao thông & vận tải
+#bơm cao áp
+@Lĩnh vực: ô tô
+#bơm cao áp (heo dầu)
+@Lĩnh vực: hóa học & vật liệu
+#bơm tiêm phun
+@Lĩnh vực: cơ khí & công trình
+#máy bơm phụt dung dịch

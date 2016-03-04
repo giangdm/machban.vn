@@ -1,0 +1,6 @@
+﻿@Income terms of trade
+#(Econ) Tỷ giá thương mại theo thu nhập
+: Xem TERM OF TRADE.
+@Chuyên ngành kinh tế
+#tỉ lệ trao đổi thu nhập
+#tỷ lệ trao đổi thu nhập

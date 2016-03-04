@@ -1,0 +1,9 @@
+﻿@troy weight
+*danh từ
+#hệ tơrôi (hệ thống trọng lượng của Anh dùng để cân vàng, bạc và trong đó 1 pao = 12 ao hoặc 5760 gren)
+@Chuyên ngành kinh tế
+#hệ thống trọng lượng troy
+#hệ troi (hệ thống đo lường của Anh)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#khối lượng theo hệ Troy

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt quang định hướng
+@Lĩnh vực: điện
+#sự biến đổi tecmion
+@Lĩnh vực: vật lý
+#sự biến hóa tecmion

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#thước cặp có du xích
+@Lĩnh vực: xây dựng
+#thước hẹp đo bề dày
+@Lĩnh vực: cơ khí & công trình
+#thước kẹp (phụ)
+@Lĩnh vực: hóa học & vật liệu
+#thước kẹp có du xích
+@Lĩnh vực: toán & tin
+#thước kẹp đo bề dày

@@ -1,0 +1,2 @@
+﻿@ac (alternating current) oscillator source
+#(Tech) nguồn dao động điện xoay chiều

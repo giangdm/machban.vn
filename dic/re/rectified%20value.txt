@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giá trị đã chỉnh lưu
+@Lĩnh vực: điện
+#trị số chỉnh

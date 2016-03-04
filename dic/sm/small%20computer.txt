@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy tính con
+@Lĩnh vực: điện tử & viễn thông
+#máy tính nhỏ

@@ -1,0 +1,8 @@
+﻿@ring-shaped
+#có hình vành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#có hình vành
+#dạng vòng
+@Lĩnh vực: hóa học & vật liệu
+#hình vòng

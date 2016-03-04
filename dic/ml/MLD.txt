@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#liều gây chết tối thiểu (lượng chất độc nhỏ nhất có thểgây ra tử vong)

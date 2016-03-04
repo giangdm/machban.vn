@@ -1,0 +1,2 @@
+﻿@electron voltaic effect
+#(Tech) hiệu ứng điện thế điện tử

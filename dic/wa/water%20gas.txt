@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hơi đốt lỏng
+#khí nước
+@Lĩnh vực: hóa học & vật liệu
+#khí than ướt
+@Lĩnh vực: điện
+#thủy khí (khí điều chế từ nước, gồm có H2 và CO2)

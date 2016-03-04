@@ -1,0 +1,2 @@
+﻿@deductive database
+#(Tech) kho dữ liệu suy diễn

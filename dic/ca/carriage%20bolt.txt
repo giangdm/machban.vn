@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bu lông thân xe
+#bulông bắt gỗ
+@Lĩnh vực: cơ khí & công trình
+#bulông sàn xe
+@Lĩnh vực: toán & tin
+#bulông thân xe
+@Lĩnh vực: xây dựng
+#bulông toa xe

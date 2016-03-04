@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu thừa nhận thông báo
+#tín hiệu xác nhận thông báo

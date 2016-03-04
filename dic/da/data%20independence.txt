@@ -1,0 +1,4 @@
+﻿@data independence
+#(Tech) tính độc lập dữ liệu
+@Chuyên ngành kỹ thuật
+#độc lập dữ liệu

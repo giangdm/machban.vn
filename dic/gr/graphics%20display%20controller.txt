@@ -1,0 +1,2 @@
+﻿@graphics display controller
+#(Tech) bộ điều khiển hiển thị đồ họa

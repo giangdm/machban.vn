@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#cen-ti-mét khối
+#phân khối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#centimét khối
+@Lĩnh vực: ô tô
+#phân khối (cm3)

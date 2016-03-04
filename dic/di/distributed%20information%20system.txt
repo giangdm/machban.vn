@@ -1,0 +1,5 @@
+﻿@distributed information system
+#(Tech) hệ thống thông tin phân bố
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thông tin phân tán

@@ -1,0 +1,3 @@
+﻿@UNIDO guidelines
+#(Econ) Các hướng dẫn của UNIDO.
+: Một kỹ thuật thẩm định dự án ở các nước đang phát triển và là một phiên bản của phương pháp LITTLE-MIRRLEES.

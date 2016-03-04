@@ -1,0 +1,26 @@
+﻿@Chuyên ngành kỹ thuật
+#sơ đồ đấu điện
+#sơ đồ mạch điện
+#sự đấu dây
+#sự đi dây điện
+#sự nối dây điện
+@Lĩnh vực: xây dựng
+#sự đặt (đường) dây điện
+@Lĩnh vực: điện lạnh
+#sự đặt dây dẫn
+#sự đấu dây điện
+#sự đi dây dẫn
+#sự mắc dây
+@Chuyên ngành kỹ thuật
+#sơ đồ đấu điện
+#sơ đồ mạch điện
+#sự đấu dây
+#sự đi dây điện
+#sự nối dây điện
+@Lĩnh vực: xây dựng
+#sự đặt (đường) dây điện
+@Lĩnh vực: điện lạnh
+#sự đặt dây dẫn
+#sự đấu dây điện
+#sự đi dây dẫn
+#sự mắc dây

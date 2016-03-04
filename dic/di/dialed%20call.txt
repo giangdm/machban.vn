@@ -1,0 +1,2 @@
+﻿@dialed call
+#(Tech) cú gọi quay số

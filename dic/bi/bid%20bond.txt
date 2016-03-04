@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giấy bảo đảm nhận thầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khoản bảo lãnh đấu thầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giấy bỏ thầu

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#khu chế xuất
+#khu gia công hàng xuất khẩu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#khu chế suất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#khu chế suất

@@ -1,0 +1,3 @@
+﻿@Generalized least square (GLS)
+#(Econ) Bình phương nhỏ nhất tổng quát.
+: Còn gọi là ước lượng Aitken. Một dạng ước lượng theo kiểu BÌNH PHƯƠNG NHỎ NHẤT áp dụng cho các trường hợp trong đó Ma trận phương sai - Hiệp phương sai của Thành phần nhiễu của phương trình hồi quy không có số 0 trong các vị trí ngoài đường chéo, và/ hoặc không có các phần tử thuộc đường chéo giống nhau.

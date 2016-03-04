@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phí bù hoãn bán
+#phí hoãn giao (chứng khoán)
+#tiền bù khoản bán
+#tiền chênh lệch giá xuống

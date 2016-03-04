@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dao động hình sin
+#sự dao động sin
+@Lĩnh vực: toán & tin
+#dao động sin
+@Lĩnh vực: điện
+#sự rung động hình sin

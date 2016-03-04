@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khuynh hướng chung
+@Chuyên ngành kỹ thuật
+#phương chung (của đất đá)

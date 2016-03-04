@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm phân bố
+@Lĩnh vực: vật lý
+#hàm trạng thái

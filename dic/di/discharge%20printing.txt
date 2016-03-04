@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+#sự in bóc màu
+#sự in phá màu

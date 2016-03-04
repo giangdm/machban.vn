@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống chất dẫn góc
+#hệ thống chất dẫn nhị diện
+#hệ thống dây dẫn góc
+#hệ thống dây dẫn nhị diện

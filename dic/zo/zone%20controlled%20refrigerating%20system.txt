@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) lạnh điều chỉnh cục bộ
+#hệ (thống) lạnh được điều chỉnh theo vùng
+#hệ (thống) lạnh khống chế cục bộ
+#hệ (thống) lạnh khống chế theo vùng

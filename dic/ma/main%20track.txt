@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đường chính
+#đường sắt chính
+@Lĩnh vực: giao thông & vận tải
+#đường chính tuyến
+#đường ray chính
+#đường tránh tàu lùi

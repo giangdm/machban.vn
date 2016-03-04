@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phòng ướp lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phòng bảo quản (nước) đá

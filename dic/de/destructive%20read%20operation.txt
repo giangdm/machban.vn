@@ -1,0 +1,2 @@
+﻿@destructive read operation
+#(Tech) vận hành đọc phá hủy

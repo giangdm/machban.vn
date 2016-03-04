@@ -1,0 +1,3 @@
+﻿@Threshold analysí
+#(Econ) Phân tích ngưỡng.
+: Một kỹ thuật dùng trong hoạch định vật chất để tìm ra quy mô mong muốn của cộng đồng và việc cung cấp các dịch vụ công cộng.

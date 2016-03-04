@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch hở
+@Lĩnh vực: điện
+#dây dẫn điện hở
+#dây dẫn ngoài
+#không tuyến
+@Lĩnh vực: xây dựng
+#sự đặt dây hở
+#sự mắc dây lộ thiên

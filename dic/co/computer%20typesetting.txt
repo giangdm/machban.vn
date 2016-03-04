@@ -1,0 +1,6 @@
+﻿@computer typesetting
+#(Tech) sắp chữ bằng máy điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sắp chữ bằng máy tính
+#sắp chữ điện tử

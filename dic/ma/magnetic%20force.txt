@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#cường độ trường từ
+#cường độ từ tính
+#cường độ từ trường
+#lực từ
+#lực từ hóa
+@Lĩnh vực: xây dựng
+#đường lực của từ trường
+#đường từ lực
+@Lĩnh vực: điện
+#từ lực

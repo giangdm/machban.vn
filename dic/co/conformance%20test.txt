@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự kiểm tra hợp chuẩn
+@Lĩnh vực: toán & tin
+#sự kiểm tra tương hợp
+#sự kiểm tra tương thích

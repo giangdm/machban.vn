@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#trạm chính
+@Lĩnh vực: điện tử & viễn thông
+#trạm gốc
+@Lĩnh vực: toán & tin
+#trạm sơ cấp

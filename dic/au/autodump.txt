@@ -1,0 +1,2 @@
+﻿@autodump
+#(Tech) xổ tự động, tự động đổ ra

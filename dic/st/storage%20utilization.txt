@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hiệu suất bộ nhớ
+#mức sử dụng bộ nhớ
+#sự sử dụng bộ nhớ

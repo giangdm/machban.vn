@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp ảnh
+@Lĩnh vực: vật lý
+#phương pháp các ảnh
+@Lĩnh vực: toán & tin
+#phương pháp tạo ảnh

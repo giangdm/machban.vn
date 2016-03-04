@@ -1,0 +1,5 @@
+﻿@double linked list
+#(Tech) chuỗi liên kết kép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#danh sách liên kết kép

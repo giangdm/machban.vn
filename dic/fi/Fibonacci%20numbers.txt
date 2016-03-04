@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#số Fibonacci
+@Lĩnh vực: toán & tin
+#các số Fibonacci
+@Chuyên ngành kỹ thuật
+#số Fibonacci
+@Lĩnh vực: toán & tin
+#các số Fibonacci

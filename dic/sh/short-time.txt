@@ -1,0 +1,7 @@
+﻿@short-time
+#(máy tính) thời gian ngắn
+@Chuyên ngành kinh tế
+#không toàn thời gian (không chọn ngày, không chọn tuần)
+#ngắn hạn
+#tạm thời
+#tuần làm việc ngắn hạn

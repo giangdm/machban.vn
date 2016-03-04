@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kiểm dư vòng
+#kiểm tra dư thừa vòng
+@Lĩnh vực: toán & tin
+#kiểm tra độ dư vòng

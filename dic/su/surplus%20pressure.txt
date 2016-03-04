@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất dư
+@Lĩnh vực: xây dựng
+#áp lực dư (so với áp lực tiêu chuẩn)

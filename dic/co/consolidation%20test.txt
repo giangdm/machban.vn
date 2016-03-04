@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thử độ gắn kết
+@Lĩnh vực: xây dựng
+#thí nghiệm cố kết
+@Lĩnh vực: toán & tin
+#thí nghiệm liên kết

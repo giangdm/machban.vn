@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dấu cuối băng
+#dấu đầu băng
+#nhãn băng
+@Lĩnh vực: toán & tin
+#dấu băng (cho biết đầu hay cuối băng)
+#dấu ghi băng
+#ký hiệu băng

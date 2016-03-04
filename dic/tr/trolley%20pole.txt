@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cần lấy điện
+@Lĩnh vực: xây dựng
+#cần bánh vẹt (xe điện)
+@Lĩnh vực: giao thông & vận tải
+#cần xe điện
+@Lĩnh vực: điện lạnh
+#cần xe điện (lấy điện từ dây nuôi tới xe điện)

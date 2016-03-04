@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#ống đúc liền
+#ống đúc, ống vết hàn
+#ống không hàn
+#ống không mối hàn
+#ống liền
+#ống nguyên
+@Lĩnh vực: xây dựng
+#không vết hàn
+#ống đúc

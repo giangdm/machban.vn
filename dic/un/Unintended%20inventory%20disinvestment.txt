@@ -1,0 +1,6 @@
+﻿@Unintended inventory disinvestment
+#(Econ) Giảm đầu tư vào tồn kho không dự kiến.
+: Giảm hàng tồn kho do mức bán hàng tăng lên không dự tính trước hay do giảm sút trong sản xuất.
+@Chuyên ngành kinh tế
+#kho hàng giảm không dự định
+#sự giảm đầu tư hàng trữ không cố ý

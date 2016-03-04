@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ chuyển đổi (dữ liệu) từ nối tiếp sang song song
+#bộ chuyển nối tiếp-song song

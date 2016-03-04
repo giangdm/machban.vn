@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giá (đưa ra) của bên mua (có lợi cho người mua)
+#giá người mua

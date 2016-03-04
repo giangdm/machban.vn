@@ -1,0 +1,6 @@
+﻿@Gross investment
+#(Econ) Tổng đầu tư.
+: Tổng đầu tư nảy sinh trong nền kinh tế trong một khoảng thời gian nhất định.
+@Chuyên ngành kinh tế
+#tổng (ngạch) đầu tư
+#tổng đầu tư

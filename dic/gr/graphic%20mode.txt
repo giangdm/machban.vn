@@ -1,0 +1,5 @@
+﻿@graphic mode
+#(Tech) kiểu đồ họa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chế độ đồ họa

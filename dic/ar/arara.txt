@@ -1,0 +1,3 @@
+﻿@arara
+*danh từ
+#cá nục

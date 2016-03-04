@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống khai thác mạng
+@Chuyên ngành kỹ thuật
+#hệ điều hành mạng

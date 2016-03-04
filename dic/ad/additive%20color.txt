@@ -1,0 +1,2 @@
+﻿@additive color
+#(Tech) mầu cộng thêm; phương pháp mầu cộng thêm

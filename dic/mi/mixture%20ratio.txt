@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#tỷ lệ hỗn hợp
+@Chuyên ngành kỹ thuật
+#tỷ lệ trộn
+@Lĩnh vực: hóa học & vật liệu
+#tỉ lệ hỗn hợp
+#tỉ số hỗn hợp
+@Lĩnh vực: ô tô
+#tỷ lệ hỗn hợp
+@Lĩnh vực: xây dựng
+#tỷ lệ phối liệu

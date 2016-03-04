@@ -1,0 +1,10 @@
+﻿@form feed
+#(Tech) tiếp mẫu (giấy in)
+@Chuyên ngành kỹ thuật
+#lệnh đẩy giấy
+#nạp giấy
+#sự dẫn tiến giấy
+#sự nạp giấy
+#tiếp giấy
+@Lĩnh vực: toán & tin
+#sự cấp giấy

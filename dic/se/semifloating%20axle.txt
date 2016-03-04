@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#trục nửa thoát tải
+#trục nửa tự lựa
+#trục nửa tùy động

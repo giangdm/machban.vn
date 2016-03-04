@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phân phối lần đầu
+#sự đưa (cổ phiếu) vào thị trường chứng khoán lần đầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phân phối sơ cấp
+@Lĩnh vực: điện
+#sự phân phối sơ cấp

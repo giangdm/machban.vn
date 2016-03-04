@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#bộ khung xe
+#khung xe thô
+#thân xe thô
+@Lĩnh vực: giao thông & vận tải
+#thùng xe dạng ống

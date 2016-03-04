@@ -1,0 +1,6 @@
+﻿@triangulable
+*tính từ
+#có thể quy ra ba tam giác; có thể dùng phép đo đạc tam giác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tam giác phân được

@@ -1,0 +1,2 @@
+﻿@chopped impulse voltage
+#(Tech) điện áp xung gián đoạn

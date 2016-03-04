@@ -1,0 +1,21 @@
+﻿@Automation
+#(Econ) Tự động hoá.
+: Trong khi được sử dụng theo nhiều cách, cụm thuật ngữ tự động hoá nói chung được coi là đồng nghĩa với việc thay thế lao động bằng quá trình tự động.
+<!-- more -->
+@automation /,ɔ:tə'meiʃn/
+*danh từ
+#sự tự động hoá; kỹ thuật tự động
+@Chuyên ngành kinh tế
+#sự tự động hóa
+@Chuyên ngành kỹ thuật
+#kĩ thuật tự động
+#kỹ thuật tự động
+#sự tự động
+#tự động
+@Lĩnh vực: điện
+#sự tự động (hóa)
+@Lĩnh vực: cơ khí & công trình
+#sự tự động hóa
+<!-- more -->
+@automation
+#sự tự động; tự động học; kỹ thuật tự động

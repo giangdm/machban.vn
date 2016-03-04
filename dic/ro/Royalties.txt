@@ -1,0 +1,9 @@
+﻿@Royalties
+#(Econ) Tiền hoa hồng (căn cứ vào kết quả làm việc cá nhân).
+: Xem COMPENSATION RULES.
+@Chuyên ngành kinh tế
+#tác quyền
+#tiền bản quyền tác giả
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thuế tài nguyên (luật)

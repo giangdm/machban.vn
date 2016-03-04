@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực đẩy nổi
+#đối áp
+#phản áp lực
+@Lĩnh vực: cơ khí & công trình
+#áp lực thấm lọc
+@Lĩnh vực: vật lý
+#lực đẩy acsimet

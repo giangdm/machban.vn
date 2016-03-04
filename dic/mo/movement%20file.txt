@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tệp chuyển tác
+#tệp sửa đổi
+@Lĩnh vực: toán & tin
+#tệp chứa tin động
+#tệp di chuyển
+#tệp thay đổi

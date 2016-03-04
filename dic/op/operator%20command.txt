@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lệnh cho người thực thi
+#lệnh cho thao tác viên
+@Lĩnh vực: toán & tin
+#lệnh người thao tác

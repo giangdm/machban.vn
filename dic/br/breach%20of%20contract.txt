@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#bội ước
+#hủy hợp đồng
+#sự vi phạm hợp đồng
+#vi phạm hợp đồng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự vi phạm hợp đồng
+@Lĩnh vực: xây dựng
+#vi phạm hợp đồng

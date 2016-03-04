@@ -1,0 +1,7 @@
+﻿@Social welfare function
+#(Econ) Hàm phúc lợi xã hội.
+: Sự biểu thị các mục tiêu của xã hội trong đó mức phúc lợi xã hội được trình bày dưới dạng một hàm số của cách phân bổ nguồn lực.
+@Chuyên ngành kinh tế
+#hàm phúc lợi xã hội
+@Chuyên ngành kỹ thuật
+#chức năng phúc lợi xã hội

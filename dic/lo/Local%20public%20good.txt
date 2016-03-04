@@ -1,0 +1,3 @@
+﻿@Local public good
+#(Econ) Hàng hoá công cộng địa phương.
+: Hàng hoá công cộng của một cộng đồng, chẳng hạn hệ thống đèn đường.

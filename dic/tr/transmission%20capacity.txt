@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dung lượng truyền
+#năng suất phát
+@Lĩnh vực: điện
+#dung lượng truyền (tải)
+#khả năng truyền tải

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bến dỡ hàng
+#bến dỡ hàng lên bờ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#cầu tàu cập bến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#cầu tàu cập bến

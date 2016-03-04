@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ xử lý ảnh đường quét
+#bộ xử lý ảnh mành
+#bộ xử lý ảnh quét

@@ -1,0 +1,5 @@
+﻿@Discharges
+#(Econ) Những người bị thôi việc
+: Tổng số người rời bỏ công việc một cách không tình nguyện trong bất kỳ một thời kỳ nào.
+@Chuyên ngành kinh tế
+#những người bị buộc thôi việc

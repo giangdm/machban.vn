@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự gộp lại thuần nhất
+#sự nhóm lại thuần nhất

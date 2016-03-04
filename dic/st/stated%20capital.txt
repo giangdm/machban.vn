@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#vốn quy định
+#vốn thiết định
+#vốn tuyên bố

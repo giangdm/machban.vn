@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#đĩa điện tử điện dung
+#đĩa tụ điện tử

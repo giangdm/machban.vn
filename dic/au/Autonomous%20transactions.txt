@@ -1,0 +1,5 @@
+﻿@Autonomous transactions
+#(Econ) Giao dịch tự định
+: Cụm thuật ngữ này được dùng trong học thuyết về CÁN CÂN THANH TOÁN để xác định những loại giao dịch diễn ra tự phát vì lý do lợi nhuận từ phía các hãng hoặc độ thoả dụng được tăng từ phía các cá nhân .
+@Chuyên ngành kinh tế
+#các giao dịch tự định

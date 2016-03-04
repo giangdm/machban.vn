@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bị chặn đều
+#giới hạn đều
+#giới nội đều

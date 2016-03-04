@@ -1,0 +1,2 @@
+﻿@electrode AC resistance
+#(Tech) điện trở dòng xoay chiều điện cực

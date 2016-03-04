@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đèn Klystron dội
+@Lĩnh vực: điện
+#klystron phản xạ
+@Lĩnh vực: vật lý
+#phương pháp in phản xạ

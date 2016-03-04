@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#khí ống khói
+#khí ống lò, khí ống khói
+#khí xả
+#sản phẩm cháy
+@Lĩnh vực: xây dựng
+#khí đốt (trong nhà)
+@Lĩnh vực: hóa học & vật liệu
+#khí ống lò
+@Lĩnh vực: điện
+#khí thải (từ ống khói)
+@Chuyên ngành kỹ thuật
+#khí ống khói
+#khí ống lò, khí ống khói
+#khí xả
+#sản phẩm cháy
+@Lĩnh vực: xây dựng
+#khí đốt (trong nhà)
+@Lĩnh vực: hóa học & vật liệu
+#khí ống lò
+@Lĩnh vực: điện
+#khí thải (từ ống khói)

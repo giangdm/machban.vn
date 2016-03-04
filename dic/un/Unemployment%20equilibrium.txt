@@ -1,0 +1,3 @@
+﻿@Unemployment equilibrium
+#(Econ) Cân bằng thất nghiệp.
+: Định đề trung tâm của Keynes trong cuốn Lý thuyết tổng quát  rằng ngay cả khi tiền công và giá cả hoàn toàn linh hoạt như được giả định trong thuyết cổ điển, nền kinh tế vẫn không luôn luôn trở về điểm đầy đủ việc làm.

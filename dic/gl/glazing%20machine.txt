@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#máy đánh bóng
+#máy mài
+@Chuyên ngành kỹ thuật
+#máy cán bóng
+#máy láng bóng
+@Lĩnh vực: điện lạnh
+#máy phủ băng (bề mặt)

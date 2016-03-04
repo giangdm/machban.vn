@@ -1,0 +1,5 @@
+﻿@half-module
+#(đại số) nửa môđun đặt trong môđun
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nửa mođun

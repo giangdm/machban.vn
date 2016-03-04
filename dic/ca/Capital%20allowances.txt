@@ -1,0 +1,5 @@
+﻿@Capital allowances
+#(Econ) Các khoản miễn thuế cho vốn.
+: Miễn thuế đối với thuế công ty liên quan đến chi tiêu cho vốn của hãng.
+@Chuyên ngành kinh tế
+#miễn thuế vốn cố định

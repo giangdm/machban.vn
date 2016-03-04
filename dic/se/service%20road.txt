@@ -1,0 +1,23 @@
+﻿@service road ['sɜ:vis roud]
+*danh từ
+# đường phụ (để vào nhà, cửa hàng...)
+@Chuyên ngành kinh tế
+#đường dịch vụ
+#đường phụ
+#đường tiện lợi (cạnh đường chính)
+#đường tiện lợi (cạnh đường chính...)
+@Chuyên ngành kỹ thuật
+#đường dẫn lên cầu
+#đường dẫn vào
+#đường dẫn vào ga
+#đường nhánh
+#đường phụ
+@Lĩnh vực: cơ khí & công trình
+#đường chuyên dùng
+#đường công tác
+@Lĩnh vực: xây dựng
+#đường chuyên dụng
+#đường công vụ
+#đường phục vụ
+#đường phục vụ sản xuất
+#đường tạm (thời)

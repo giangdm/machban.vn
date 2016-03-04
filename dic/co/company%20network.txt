@@ -1,0 +1,6 @@
+﻿@company network
+#mạng công ty
+#Mạng máy tính toàn cục, như DEC ENET (mạng (kỹ thuật) nội bộ của công ty Digital Equipment Corporation) chẳng hạn, thường có cổng tự động nối với các mạng hợp tác như ARPANET hoặc BITNET để thực hiện các chức năng như thư điện tử và truyền tệp tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạng công ty

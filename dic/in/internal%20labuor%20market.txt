@@ -1,0 +1,3 @@
+﻿@internal labuor market
+#(Econ) Thị trường lao động nội vi.
+: Một dàn xếp qua đó lao động được cung và cầu trong phạm vi một doanh nghiệp mà không có sự tham gia trực tiếp vào THỊ TRƯỜNG LAO ĐỘNG BÊN NGOÀI.

@@ -1,0 +1,7 @@
+﻿@non-directional
+#không có phương
+@Chuyên ngành kỹ thuật
+#không định hướng
+#vô hướng
+@Lĩnh vực: toán & tin
+#không có phương

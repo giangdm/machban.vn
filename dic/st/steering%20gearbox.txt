@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#hộp lái
+#hộp số điều khiển
+#hộp tốc độ điều khiển

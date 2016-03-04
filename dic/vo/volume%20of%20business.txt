@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khối lượng giao dịch
+#khối lượng kinh doanh
+#khối lượng nghiệp vụ

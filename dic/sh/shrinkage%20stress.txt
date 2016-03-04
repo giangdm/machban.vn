@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất do co ngót
+#ứng suất do lún
+@Lĩnh vực: cơ khí & công trình
+#ứng suất co (do hệ số giãn nở khác nhau)
+@Lĩnh vực: xây dựng
+#ứng suất co ngót

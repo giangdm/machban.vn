@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sơ đồ (vòng tuần hoàn) chất tải lạnh
+#sơ đồ chất tải lạnh
+#vòng tuần hoàn chất tải lạnh

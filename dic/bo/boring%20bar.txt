@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mũi khoan
+#trục khoan
+@Lĩnh vực: xây dựng
+#cân khoan
+@Lĩnh vực: cơ khí & công trình
+#trụ doa

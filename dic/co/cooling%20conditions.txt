@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều kiện [trạng thái] lạnh
+#điều kiện lạnh
+#trạng thái lạnh

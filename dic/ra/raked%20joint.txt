@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chỗ nối đào
+#mạch dây lõm (khoét sâu khoảng 2 cm)

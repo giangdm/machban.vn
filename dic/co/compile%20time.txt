@@ -1,0 +1,6 @@
+﻿@compile time
+#(Tech) thời gian biên dịch (một ngôn ngữ)
+@Chuyên ngành kỹ thuật
+#thời gian biên dịch
+@Lĩnh vực: xây dựng
+#thời gian biên soạn

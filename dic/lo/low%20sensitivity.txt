@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ nhạy thấp
+#ít nhạy
+#kém nhạy

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chuyến bay
+#chuyến bay, lịch bay
+#lịch bay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#chuyến bay định kỳ
+#chuyến bay theo lịch

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#cảng chài lưới
+#cảng đánh cá
+#ngư cảng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#cảng cá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#cảng cá

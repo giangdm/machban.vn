@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#cần điều khiển
+#tay gạt khởi động
+#thanh điều khiển
+@Lĩnh vực: toán & tin
+#gậy điều khiển
+#tay (đòn) điều khiển
+#tay điều khiển
+#thủ tục điều khiển chính
+@Lĩnh vực: cơ khí & công trình
+#tay gạt điều khiển

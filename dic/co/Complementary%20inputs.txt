@@ -1,0 +1,2 @@
+﻿@Complementary inputs
+#(Econ) (Các loại) đầu vào bổ trợ; Nhập lượng bổ trợ.

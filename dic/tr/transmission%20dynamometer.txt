@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lực kế truyền động
+@Lĩnh vực: điện
+#động lực kế truyền
+@Lĩnh vực: điện lạnh
+#động lực kế truyền động

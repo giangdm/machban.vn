@@ -1,0 +1,5 @@
+﻿@Depreciation rate
+#(Econ) Tỷ lệ khấu hao.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#định mức khấu hao

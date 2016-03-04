@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#số chỉ thang đo
+@Lĩnh vực: xây dựng
+#ký hiệu tỉ lệ
+#quy ước tỉ lệ

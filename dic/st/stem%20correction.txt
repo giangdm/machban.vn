@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hiệu chỉnh cần khoan
+@Lĩnh vực: điện lạnh
+#hiệu chính thân (nhiệt kế)

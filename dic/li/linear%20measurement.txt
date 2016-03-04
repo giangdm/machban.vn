@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#sự đo dài
+@Lĩnh vực: xây dựng
+#đo dài
+#phép đo thẳng
+@Lĩnh vực: toán & tin
+#đo tuyến tính
+#sự đo chiều dài
+@Lĩnh vực: điện tử & viễn thông
+#phép đo tuyến tính
+@Chuyên ngành kỹ thuật
+#sự đo dài
+@Lĩnh vực: xây dựng
+#đo dài
+#phép đo thẳng
+@Lĩnh vực: toán & tin
+#đo tuyến tính
+#sự đo chiều dài
+@Lĩnh vực: điện tử & viễn thông
+#phép đo tuyến tính

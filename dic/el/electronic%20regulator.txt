@@ -1,0 +1,12 @@
+﻿@electronic regulator
+#(Tech) bộ ổn áp điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ ổn định điện tử
+@Lĩnh vực: điện
+#ổn áp điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ ổn định điện tử
+@Lĩnh vực: điện
+#ổn áp điện tử

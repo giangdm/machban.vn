@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phần cứng dọc trục
+#phần ứng hướng trục

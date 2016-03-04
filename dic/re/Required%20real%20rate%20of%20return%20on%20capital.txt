@@ -1,0 +1,2 @@
+﻿@Required real rate of return on capital
+#(Econ) Suất sinh lợi thực tế cần có của vốn.

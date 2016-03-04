@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ngăn (lạnh đông) hai sao (-120C)
+#ngăn (lạnh đông) hai sao (-12độ C)

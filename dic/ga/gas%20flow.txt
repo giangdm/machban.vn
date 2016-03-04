@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng (chất) khí
+#dòng khí
+#luồng khí
+@Lĩnh vực: điện lạnh
+#dòng chất khí

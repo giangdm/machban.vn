@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt nóng chảy
+@Lĩnh vực: điện lạnh
+#ẩn nhiệt nóng chảy
+@Lĩnh vực: vật lý
+#nhiệt tổng hợp (hạt nhân)

@@ -1,0 +1,14 @@
+﻿@barometric pressure [bærə'metrik'pre∫ə]
+*danh từ
+# áp lực của không khí do phong vũ biểu ghi
+@Chuyên ngành kinh tế
+#áp kế khí quyển
+@Chuyên ngành kỹ thuật
+#áp suất khí áp kế
+#áp suất khí quyển
+#áp suất không khí
+#khí áp
+@Lĩnh vực: xây dựng
+#áp lực khí trời
+@Lĩnh vực: điện lạnh
+#áp suất khí trời

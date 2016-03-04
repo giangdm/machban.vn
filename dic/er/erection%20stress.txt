@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất lắp ghép
+@Lĩnh vực: xây dựng
+#ứng suất dựng
+@Lĩnh vực: cơ khí & công trình
+#ứng suất khi lắp
+@Chuyên ngành kỹ thuật
+#ứng suất lắp ghép
+@Lĩnh vực: xây dựng
+#ứng suất dựng
+@Lĩnh vực: cơ khí & công trình
+#ứng suất khi lắp

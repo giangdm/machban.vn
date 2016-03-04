@@ -1,0 +1,2 @@
+﻿@grid potentiometer
+#(Tech) bộ phân áp lưới

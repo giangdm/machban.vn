@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#chi tiết đệm
+#chi tiết ngăn cách
+@Lĩnh vực: cơ khí & công trình
+#chi tiết trung gian
+@Lĩnh vực: xây dựng
+#khối đệm
+#khối giãn cách

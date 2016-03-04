@@ -1,0 +1,3 @@
+﻿@Almon lag
+#(Econ) Độ trễ Almon.
+: Một kiểu trễ phân phối trong đó trọng số các giá trị liên tục của biến số trễ theo sau một do một đa thức gây ra.

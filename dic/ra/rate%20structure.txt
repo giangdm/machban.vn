@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#kết cấu giá
+#kết cấu lãi suất
+#kết cấu phí suất
+#kết cấu thuế suất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cấu trúc tỉ lệ

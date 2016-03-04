@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống tin học
+#hệ thống xử lý thông tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống xử lý thông tin
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống xử lý tin

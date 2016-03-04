@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chiều cao đẩy
+#chiều cao hút
+@Lĩnh vực: xây dựng
+#chiều dày lớp bê tông (rải rầm)
+#độ tôn cao

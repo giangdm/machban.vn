@@ -1,0 +1,2 @@
+﻿@cyclic check byte (CCB)
+#(Tech) bai kiểm tuần hoàn

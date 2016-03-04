@@ -1,0 +1,2 @@
+﻿@data access method
+#(Tech) phương pháp truy cập dữ liệu

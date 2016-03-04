@@ -1,0 +1,2 @@
+﻿@dc (direct-current) selection
+#(Tech) chọn (điện) một chiều

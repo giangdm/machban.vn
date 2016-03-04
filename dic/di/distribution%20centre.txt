@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#trung tâm cung cấp (dữ liệu) (máy tính)
+#trung tâm phân phối
+#trung tâm tiêu thụ

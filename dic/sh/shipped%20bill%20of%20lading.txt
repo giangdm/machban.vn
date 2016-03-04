@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#vận đơn đã bốc
+#vận đơn đã bốc, đã chất hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#vận đơn hàng đã bốc

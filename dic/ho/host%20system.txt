@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ chính
+@Lĩnh vực: toán & tin
+#hệ chủ
+#hệ thống máy chủ
+#hệ trung tâm
+@Lĩnh vực: xây dựng
+#hệ tiếp đãi

@@ -1,0 +1,8 @@
+﻿@first-in first-out (FIFO)
+#(Tech) vào trước ra trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vào trước ra trước-FIFO
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vào trước ra trước-FIFO

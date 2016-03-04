@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#số giờ làm việc
+#thời gian làm việc
+#thời gian làm việc, giờ làm việc
+@Chuyên ngành kỹ thuật
+#giờ làm việc

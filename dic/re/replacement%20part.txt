@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bộ phận (để) thay đổi nhân viên
+#bộ phận (để) thay thế
+@Chuyên ngành kỹ thuật
+#bộ phận thay thế
+#chi tiết thay thế
+#linh kiện thay thế
+#phụ tùng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tiền trả bồi thường
+#tiền trả trợ cấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự trả tiền thù lao

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lấy đạo hàm riêng
+#phép lấy đạo hàm riêng
+#phép lấy vi phân riêng

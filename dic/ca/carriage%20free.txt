@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#miễn cước
+#miễn cước phí
+#miễn phí cước
+#miễn thu vận phí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#miễn cước phí vận chuyển

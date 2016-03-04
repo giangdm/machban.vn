@@ -1,0 +1,10 @@
+﻿@small-scale
+*tính từ
+#được vẽ theo tỉ lệ nhỏ cho thấy ít chi tiết (về bản đồ, bản vẽ )
+#qui mô nhỏ (về tầm cỡ, số lượng )
+@Chuyên ngành kinh tế
+#cỡ nhỏ
+#quy mô nhỏ
+@Chuyên ngành kỹ thuật
+#cỡ nhỏ
+#quy mô nhỏ

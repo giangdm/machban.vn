@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khả năng khử ẩm
+@Lĩnh vực: điện lạnh
+#năng suất hút ẩm

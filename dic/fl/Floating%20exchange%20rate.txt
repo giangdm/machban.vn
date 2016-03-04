@@ -1,0 +1,5 @@
+﻿@Floating exchange rate
+#(Econ) Tỷ giá hối đoái thả nổi.
+: Xem EXCHANGE RATE
+@Chuyên ngành kinh tế
+#tỷ giá thả nổi

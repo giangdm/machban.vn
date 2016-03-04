@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các đỉnh đối (của một đa giác)
+#các đỉnh đối của một đa diện

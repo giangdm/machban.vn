@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#ban trị sự (của ngân hàng tiết kiệm, bệnh viện ...)
+@Chuyên ngành kỹ thuật
+#ban quản trị
+#hội đồng quản trị

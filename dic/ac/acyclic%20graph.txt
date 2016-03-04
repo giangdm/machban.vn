@@ -1,0 +1,6 @@
+﻿@acyclic graph
+#(Tech) đồ thị không tuần hoàn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đồ hình không chu trình
+#đồ thị không chu trình

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hợp đồng quản lý thi công
+#hợp đồng quản lý xây dựng

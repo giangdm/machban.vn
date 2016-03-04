@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thể tích buồng lạnh
+@Chuyên ngành kỹ thuật
+#dung tích buồng lạnh

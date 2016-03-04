@@ -1,0 +1,5 @@
+﻿@circular graph
+#(Tech) đồ thị vòng tròn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đồ thị vòng

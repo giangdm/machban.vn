@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bình oxy
+@Lĩnh vực: cơ khí & công trình
+#bình chứa ôxy
+#bình ôxi (hình trụ)
+@Lĩnh vực: xây dựng
+#bình đựng oxi
+#bình ôxi (hàn hơi)
+@Lĩnh vực: hóa học & vật liệu
+#bình ôxi

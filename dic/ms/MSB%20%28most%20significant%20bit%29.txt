@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bít có giá trị cao nhất
+#bit có nghĩa nhất
+#bít có nghĩa nhất
+#bit ở cực trái
+#bít quan trọng nhất

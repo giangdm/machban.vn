@@ -1,0 +1,7 @@
+﻿@play-back
+*danh từ
+#(kỹ thuật) bộ phận phát lại (của máy ghi âm); sự phát lại âm thanh đã thu (dây thu tiếng, đĩa hát...)
+#đĩa thu; cuộn dây thu (quay lại nghe lần đầu tiên)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự tái tạo lại (việc ghi âm tử)

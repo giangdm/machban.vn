@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nhà máy cấp điện và nhiệt kết hợp
+@Lĩnh vực: vật lý
+#trạm điện và nhiệt kết hợp

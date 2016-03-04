@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng hữu hạn
+@Lĩnh vực: toán & tin
+#biến dạng liên tục

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sai sót trong việc lấy mẫu
+#sự chọn lầm mẫu
+#sự chọn lầm mẫu, sai sót trong việc lấy mẫu, lấy mẫu sai
+#việc lấy mẫu sai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#sai số khi lấy mẫu
+@Lĩnh vực: toán & tin
+#sai số lấy mẫu

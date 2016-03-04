@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy hút bùn
+#máy xúc đất
+@Lĩnh vực: xây dựng
+#máy đào kiểu thủy lực
+@Lĩnh vực: hóa học & vật liệu
+#máy đào thủy lực

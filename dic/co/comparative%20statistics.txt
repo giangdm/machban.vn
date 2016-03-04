@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khoa thống kê so sánh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thống kê học so sánh

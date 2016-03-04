@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đổi điện
+@Lĩnh vực: điện lạnh
+#bộ máy phát-động cơ
+@Lĩnh vực: cơ khí & công trình
+#động cơ máy phát
+@Lĩnh vực: điện
+#máy phát động cơ
+#tổ hợp động cơ-máy phát

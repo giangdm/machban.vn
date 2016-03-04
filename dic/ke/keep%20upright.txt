@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#để đứng
+#xin đừng đặt ngược
+@Chuyên ngành kỹ thuật
+#giữ thẳng đứng
+@Chuyên ngành kỹ thuật
+#giữ thẳng đứng

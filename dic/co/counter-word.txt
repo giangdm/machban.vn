@@ -1,0 +1,3 @@
+﻿@counter-word
+*danh từ
+#sự phản kháng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bình nhiệt lượng kế
+#nhiệt lượng kế bình
+#nhiệt lượng kế kiểu bình
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt lượng kế bom

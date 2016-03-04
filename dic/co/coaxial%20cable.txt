@@ -1,0 +1,13 @@
+﻿@coaxial cable
+#(Tech) cáp đồng trục
+@Chuyên ngành kinh tế
+#cáp đồng trục
+@Chuyên ngành kỹ thuật
+#đường dây đồng tâm
+#đường dây đồng trục
+#đường truyền đồng tâm
+#đường truyền đồng trục
+@Lĩnh vực: toán & tin
+#cáp đồng trục
+@Lĩnh vực: xây dựng
+#dây đồng trục

@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#ghép nối tiếp
+#loạt nối tiếp
+#mắc nối tiếp
+#mạch nối tiếp
+#sự đấu nối tiếp
+#sự mắc nối tiếp
+#sự nối nối tiếp
+#sự nối tiếp
+@Lĩnh vực: vật lý
+#cách mắc nối tiếp (điện)
+@Lĩnh vực: hóa học & vật liệu
+#ghép hàng loạt
+@Lĩnh vực: cơ khí & công trình
+#lắp ráp hàng loạt
+@Lĩnh vực: toán & tin
+#sự kết nối tiếp
+#sự mắc nối tiếp (mạch)

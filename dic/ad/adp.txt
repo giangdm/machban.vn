@@ -1,0 +1,3 @@
+﻿@adp
+*(viết tắt)
+#truy cập dữ liệu tự động (automatic  data  proccessing)

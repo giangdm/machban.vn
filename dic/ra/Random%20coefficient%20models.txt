@@ -1,0 +1,3 @@
+﻿@Random coefficient models
+#(Econ) Các mô hình hệ số ngẫu nhiên.
+: Xem VARIABLE PARAMETER MODELS.

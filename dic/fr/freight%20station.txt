@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#ga hàng hóa
+#trạm trung chuyển
+#trạm vận chuyển hàng hóa
+@Chuyên ngành kỹ thuật
+#ga hàng hóa
+@Lĩnh vực: xây dựng
+#trạm chuyển hàng

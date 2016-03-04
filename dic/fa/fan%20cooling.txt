@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#làm lạnh bằng quạt
+#làm mát bằng quạt
+@Lĩnh vực: ô tô
+#quạt làm mát động cơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#làm lạnh bằng quạt
+#làm mát bằng quạt
+@Lĩnh vực: ô tô
+#quạt làm mát động cơ

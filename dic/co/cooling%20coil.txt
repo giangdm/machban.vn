@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#ống ruột gà làm nguội
+#ống xoắn lằm nguội
+@Chuyên ngành kỹ thuật
+#dàn lạnh
+#giàn lạnh
+#ống xoắn làm lạnh
+#ống xoắn lạnh
+@Lĩnh vực: điện lạnh
+#giàn xoắn lạnh
+@Lĩnh vực: cơ khí & công trình
+#ống xoắn làm nguội
+@Lĩnh vực: xây dựng
+#ống xoắn ốc làm lạnh

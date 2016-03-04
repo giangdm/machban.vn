@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#câu lệnh hành động
+#câu lệnh tác động
+#khai báo hoạt động
+@Lĩnh vực: điện tử & viễn thông
+#chỉ thị hành động

@@ -1,0 +1,2 @@
+﻿@display character generator
+#(Tech) bộ tạo ký tự hiển thị

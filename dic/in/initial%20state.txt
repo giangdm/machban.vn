@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trạng thái (ban) đầu
+@Lĩnh vực: toán & tin
+#trạng thái đầu
+#trạng thái khởi tạo

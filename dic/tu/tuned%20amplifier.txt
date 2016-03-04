@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ khuếch đại điều hưởng
+@Lĩnh vực: toán & tin
+#bộ khuếch đại cộng hưởng
+@Lĩnh vực: điện
+#mạch khuếch đại điều hợp

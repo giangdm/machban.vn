@@ -1,0 +1,5 @@
+﻿@Marginal rate of transformation
+#(Econ) Tỷ lệ chuyển đổi cận biên.
+: Là giá trị biểu hiện bằng số của độ dốc của đường GIỚI HẠN KHẢ NĂNG SẢN XUẤT.
+@Chuyên ngành kinh tế
+#tỷ suất thay đổi biên

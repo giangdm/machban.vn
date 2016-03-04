@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ phận chuyển mạch
+#phần tử chuyển đổi
+@Lĩnh vực: toán & tin
+#phần tử chuyển mạch
+#phần tử ngắt mạch

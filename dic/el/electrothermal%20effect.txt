@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu ứng nhiệt điện
+@Lĩnh vực: điện lạnh
+#hiệu ứng nhiệt điện ngược
+#hiệu ứng Peltier
+@Chuyên ngành kỹ thuật
+#hiệu ứng nhiệt điện
+@Lĩnh vực: điện lạnh
+#hiệu ứng nhiệt điện ngược
+#hiệu ứng Peltier

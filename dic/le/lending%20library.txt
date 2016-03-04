@@ -1,0 +1,9 @@
+﻿@lending library ['lendiη,laibrəri]
+*danh từ
+# thư viện cho mượn sách về nhà đọc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thư viện cho mượn (sách)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thư viện cho mượn (sách)

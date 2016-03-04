@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#hộp nối cáp
+#khớp nối cáp
+#nối cáp
+#mối ghép cáp
+#mối nối cáp
+@Lĩnh vực: xây dựng
+#hộp nối dây cáp
+#măng song nối dây cáp
+@Lĩnh vực: điện tử & viễn thông
+#ống bao nối dây cáp
+@Lĩnh vực: điện
+#sự nối cáp

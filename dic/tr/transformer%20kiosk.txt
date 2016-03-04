@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#buồng máy biến áp
+@Lĩnh vực: điện lạnh
+#tủ máy biến áp

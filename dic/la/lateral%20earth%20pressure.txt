@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#áp lực bên của đất
+#áp lực đất trên phương ngang
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#áp lực bên của đất
+#áp lực đất trên phương ngang

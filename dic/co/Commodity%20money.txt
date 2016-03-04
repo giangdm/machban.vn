@@ -1,0 +1,6 @@
+﻿@Commodity money
+#(Econ) Tiền tệ dựa trên vật phẩm; Tiền bằng hàng hoá.
+: Một hệ thống tiền tệ dựa trên một hàng hoá cụ thể.
+@Chuyên ngành kinh tế
+#đồng tiền hàng hóa
+#tiền tệ hàng hóa

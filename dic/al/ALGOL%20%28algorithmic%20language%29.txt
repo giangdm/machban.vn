@@ -1,0 +1,4 @@
+﻿@ALGOL (algorithmic language)
+#(Tech) ngôn ngữ thuật toán
+@Chuyên ngành kỹ thuật
+#ngôn ngữ ALGOL

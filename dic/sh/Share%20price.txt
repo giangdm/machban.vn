@@ -1,0 +1,6 @@
+﻿@Share price
+#(Econ) Giá cổ phiếu.
+: Giá thị trường hiện hành của một đơn vị vốn cổ phần của một công ty.
+@Chuyên ngành kinh tế
+#giá cổ phần
+#giá cổ phiếu

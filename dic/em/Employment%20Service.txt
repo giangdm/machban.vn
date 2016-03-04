@@ -1,0 +1,5 @@
+﻿@Employment Service
+#(Econ) Dịch vụ việc làm.
+: Các văn phong nhà nước hay tư nhân cố gắng sắp xếp những người xin việc vào các chỗ trống hiện có.
+@Chuyên ngành kinh tế
+#phòng tìm việc làm

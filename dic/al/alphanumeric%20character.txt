@@ -1,0 +1,6 @@
+﻿@alphanumeric character
+#(Tech) ký tự chữ-số
+@Chuyên ngành kỹ thuật
+#ký tự chữ số
+@Lĩnh vực: toán & tin
+#các ký tự chữ số

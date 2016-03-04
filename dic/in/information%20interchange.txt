@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự hoán đổi thông tin
+@Lĩnh vực: xây dựng
+#trao đổi thông tin

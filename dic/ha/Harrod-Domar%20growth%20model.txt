@@ -1,0 +1,3 @@
+﻿@Harrod-Domar growth model
+#(Econ) Mô hình tăng trưởng Harrod-Domar.
+: Mô hình tăng trưởng một khu vực do R.F.Harrod và E.Domar phát triển vào những năm 1940, về cơ bản xuất phát từ các cuộc cách mạng Keynes, vì nó có liên quan tới sự ổn định kinh tế và thất nghiệp cũng như những giả thiết cứng nhắc dùng cho phân tích ngắn hạn.

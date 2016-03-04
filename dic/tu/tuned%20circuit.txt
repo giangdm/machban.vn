@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch cộng hưởng
+#mạch điều hưởng
+#mạch được điều hưởng
+@Lĩnh vực: điện tử & viễn thông
+#mạch bắt sóng
+@Lĩnh vực: điện
+#mạch điều hợp
+@Lĩnh vực: xây dựng
+#mạch hòa hợp

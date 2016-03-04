@@ -1,0 +1,2 @@
+﻿@data link layer (OSI model)
+#(Tech) lớp liên kết dữ liệu

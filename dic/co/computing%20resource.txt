@@ -1,0 +1,2 @@
+﻿@computing resource
+#(Tech) tài nguyên tính toán

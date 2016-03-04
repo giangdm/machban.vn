@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#công tơ thuê bao
+#đồng hồ thuê bao
+@Lĩnh vực: điện tử & viễn thông
+#đồng hồ đo thuê bao
+#máy ghi thông báo
+#thiết bị (tính) cước cuộc gọi

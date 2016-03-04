@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhà máy điện
+@Lĩnh vực: điện lạnh
+#trạm phát (điện)

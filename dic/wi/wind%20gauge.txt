@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ đo gió
+#máy đo gió
+#phong kế
+#phong tốc kế
+@Lĩnh vực: điện lạnh
+#máy đo tốc độ gió
+@Lĩnh vực: hóa học & vật liệu
+#thước đo gió

@@ -1,0 +1,7 @@
+﻿@Singular matrix
+#(Econ) Ma trận đơn.
+: Một ma trận mà định thức của nó bằng 0, do tính phụ thuộc tuyến tính giữa một số hàng hoặc cột của nó, có nghĩa là một ma trận mà hạng của nó không bằng kích thước của nó.
+@Chuyên ngành kỹ thuật
+#ma trận suy biến
+@Lĩnh vực: toán & tin
+#ma trận đơn

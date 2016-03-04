@@ -1,0 +1,3 @@
+﻿@smoke-test
+*danh từ
+#sự thử bằng khói (để kiểm tra độ kín)

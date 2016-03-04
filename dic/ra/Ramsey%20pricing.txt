@@ -1,0 +1,3 @@
+﻿@Ramsey pricing
+#(Econ) Định giá Ramsay.
+: Đã được sử dụng rộng rãi trong thyết ngoại ứng môi trường, một qui tắc có thể cần thiết áp dụng cho mội mức giá trong một nền kinh tế, khi ít nhất có một thứ hàng hoá là hàng công cộng không thể cạn kiệt được.

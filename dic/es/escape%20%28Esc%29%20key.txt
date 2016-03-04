@@ -1,0 +1,2 @@
+﻿@escape (Esc) key
+#(Tech) phím thoát; phím khuếch trương

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sản phẩm trả lại để sửa chữa
+#thứ phẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đơn vị khuyết tật
+#đơn vị phế phẩm

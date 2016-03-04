@@ -1,0 +1,8 @@
+﻿@compensating winding
+#(Tech) cuộn dây bù trừ
+@Chuyên ngành kỹ thuật
+#cuộn dây bù
+@Lĩnh vực: điện lạnh
+#cuộn (dây) bù
+@Lĩnh vực: điện
+#cuộn bù

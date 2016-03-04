@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#đánh lửa muộn
+@Lĩnh vực: ô tô
+#đánh lửa trễ
+@Lĩnh vực: điện
+#sự đánh lửa chậm

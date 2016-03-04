@@ -1,0 +1,5 @@
+﻿@anode voltage
+#(Tech) điện áp dương cực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện áp anode

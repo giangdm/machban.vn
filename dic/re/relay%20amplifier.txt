@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ khuếch đại (kiểu) rơle
+@Lĩnh vực: điện lạnh
+#bộ khuếch đại rơle

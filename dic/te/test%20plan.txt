@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kế hoạch kiểm tra
+@Lĩnh vực: toán & tin
+#kế hoạch kiểm thử
+#kế hoạch thử

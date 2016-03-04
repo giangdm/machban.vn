@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#giàn các RAM
+@Lĩnh vực: toán & tin
+#nhóm các RAM

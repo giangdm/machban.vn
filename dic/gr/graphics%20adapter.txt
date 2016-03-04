@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bộ điều hợp đồ họa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều khiển đồ họa
+#bộ thích ứng đồ họa
+#bộ tương hợp đồ họa
+#cạc đồ họa

@@ -1,0 +1,20 @@
+﻿@heat sink ['hi:t,siηk]
+*danh từ
+# phương tiện tản nhiệt (của máy điện tử)
+@Chuyên ngành kỹ thuật
+#bộ làm nguội
+#bộ phận tiêu nhiệt
+#bộ tản nhiệt
+#sự hấp thụ nhiệt
+@Lĩnh vực: toán & tin
+#bộ hấp thụ nhiệt
+#tấm tản nhiệt
+@Lĩnh vực: xây dựng
+#bộ tiêu nhiệt
+@Lĩnh vực: điện
+#cái tỏa nhiệt
+@Lĩnh vực: điện lạnh
+#chỗ gom nhiệt thải
+#hố nhiệt
+@Lĩnh vực: ô tô
+#phần tử lấy nhiệt

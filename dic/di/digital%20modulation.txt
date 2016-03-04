@@ -1,0 +1,6 @@
+﻿@digital modulation
+#(Tech) biến điệu dạng số tự
+@Chuyên ngành kỹ thuật
+#sự điều biến số
+@Lĩnh vực: toán & tin
+#sự điều chế số

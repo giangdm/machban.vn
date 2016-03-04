@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự đánh giá cảm quan theo hai mẫu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tiêu chuẩn hai mẫu

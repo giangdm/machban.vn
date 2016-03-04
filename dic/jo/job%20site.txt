@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công trường
+@Chuyên ngành kỹ thuật
+#công trường xây dựng
+#địa điểm xây dựng
+@Lĩnh vực: xây dựng
+#địa điểm (đang) xây dựng

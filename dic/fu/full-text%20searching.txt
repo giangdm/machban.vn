@@ -1,0 +1,2 @@
+﻿@full-text searching
+#(Tech) tìm trên trọn bản văn

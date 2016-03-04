@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sai số có thể chấp nhận được
+@Chuyên ngành kỹ thuật
+#sai số cho phép
+@Lĩnh vực: điện
+#sai số chấp nhận được

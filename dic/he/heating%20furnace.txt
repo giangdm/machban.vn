@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#lò gia nhiệt
+#lò nhiệt
+#lò nung
+#lò sưởi
+@Lĩnh vực: vật lý
+#bộ nung nóng

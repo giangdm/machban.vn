@@ -1,0 +1,2 @@
+﻿@fax modem
+#(Tech) môddem điện thư

@@ -1,0 +1,3 @@
+﻿@Factor augmenting technical progress
+#(Econ) Tiến bộ kỹ thuật gia tăng ảnh hưởng của yếu tố.
+: Tiến bộ kỹ thuật dẫn đến việc gia tăng mức sản lượng khi VỐN và LỰC LƯỢNG LAO ĐỘNG KHÔNG ĐỔI.

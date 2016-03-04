@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ống dẫn hướng
+@Lĩnh vực: đo lường & điều khiển
+#ống định hướng
+@Lĩnh vực: xây dựng
+#ống vách trên mặt

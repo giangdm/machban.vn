@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống quản lý thông tin
+@Lĩnh vực: toán & tin
+#hệ quản lý thông tin

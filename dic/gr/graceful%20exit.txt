@@ -1,0 +1,2 @@
+﻿@graceful exit
+#(Tech) lối thoát nhẹ nhàng

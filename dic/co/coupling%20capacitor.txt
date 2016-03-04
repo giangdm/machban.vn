@@ -1,0 +1,7 @@
+﻿@coupling capacitor
+#(Tech) bộ tụ điện ghép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tụ điện ghép
+@Lĩnh vực: điện lạnh
+#tụ ghép

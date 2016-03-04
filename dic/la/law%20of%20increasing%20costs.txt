@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#định luật chi phí tăng dần
+#định luật phí tổn tăng dần
+#quy luật phí tổn tăng dần

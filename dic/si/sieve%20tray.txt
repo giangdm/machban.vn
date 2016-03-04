@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#khay kiểu sàng
+@Chuyên ngành kỹ thuật
+#đáy sàng
+#đĩa rây
+#khay rây

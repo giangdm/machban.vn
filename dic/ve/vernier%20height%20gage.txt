@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ vạch dấu bề mặt
+#máy đo hình dạng bề mặt
+#thước đo chiều cao
+#thước vạch dấu song song

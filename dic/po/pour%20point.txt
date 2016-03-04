@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm chảy
+#điểm đông đặc
+#điểm nóng chảy
+#nhiệt độ chảy
+#nhiệt độ rót dầu
+#nhiệt độ rót khuôn
+@Lĩnh vực: điện
+#điểm đặc quánh của nhớt
+@Lĩnh vực: điện lạnh
+#điểm rót
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt độ thấp nhất mà dầu có thể chảy (rót)

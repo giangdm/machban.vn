@@ -1,0 +1,2 @@
+﻿@delete [Del] key
+#(Tech) phím xóa

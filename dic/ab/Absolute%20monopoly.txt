@@ -1,0 +1,3 @@
+﻿@Absolute monopoly
+#(Econ) Độc quyền tuyệt đối.
+: Xem Monopoly.

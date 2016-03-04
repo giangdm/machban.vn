@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#trở kháng đột biến tương hỗ
+@Lĩnh vực: điện lạnh
+#trở kháng sóng hỗ cảm

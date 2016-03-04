@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mã định dạng
+@Lĩnh vực: toán & tin
+#mã đồng nhất hóa
+#mã nhận dạng
+#mã xác thực

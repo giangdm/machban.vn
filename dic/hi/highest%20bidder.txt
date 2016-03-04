@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#người đấu giá cao nhất
+#người trả giá cao nhất (trong cuộc bán đấu giá)

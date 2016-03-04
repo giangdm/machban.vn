@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp áo ống kính
+@Lĩnh vực: vật lý
+#mạ thấu kính
+#phủ thấu kính
+@Chuyên ngành kỹ thuật
+#lớp áo ống kính
+@Lĩnh vực: vật lý
+#mạ thấu kính
+#phủ thấu kính

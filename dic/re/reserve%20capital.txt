@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#vốn cổ phần dành lại (không nộp)
+#vốn dự trữ
+@Chuyên ngành kỹ thuật
+#vốn dự trữ

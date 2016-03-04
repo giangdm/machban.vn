@@ -1,0 +1,2 @@
+﻿@autoincremental addressing
+#(Tech) định địa chỉ tự tăng dần

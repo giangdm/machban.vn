@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phương trình trạng thái chuyển động
+#phương trình trạng thái nhiệt động lực

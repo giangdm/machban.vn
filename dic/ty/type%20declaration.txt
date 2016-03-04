@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khai báo loại
+@Lĩnh vực: toán & tin
+#sự khai báo kiểu

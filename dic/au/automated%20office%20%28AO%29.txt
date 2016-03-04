@@ -1,0 +1,2 @@
+﻿@automated office (AO)
+#(Tech) văn phòng được tự động hóa

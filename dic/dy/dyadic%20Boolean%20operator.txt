@@ -1,0 +1,2 @@
+﻿@dyadic Boolean operator
+#(Tech) toán tử Boole (Bun) nhị nguyên

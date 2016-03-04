@@ -1,0 +1,2 @@
+﻿@autotracing
+#(Tech) tự vẽ, tự ghi dấu

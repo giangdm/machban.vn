@@ -1,0 +1,5 @@
+﻿@bus controller
+#(Tech) bộ điều khiển mạch nối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tài xế xe buýt

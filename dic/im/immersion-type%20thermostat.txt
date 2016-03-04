@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bình điều nhiệt kiểu chìm
+#rơle nhiệt độ nhúng
+#tecmostat chìm

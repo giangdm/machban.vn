@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nguyên tắc đối ngẫu
+@Chuyên ngành kỹ thuật
+#nguyên lý đối ngẫu
+@Lĩnh vực: y học
+#nguyên lý lưỡng tính

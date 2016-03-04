@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dữ liệu nhập
+#dữ liệu vào
+#nhập dữ liệu
+#số liệu đưa vào
+@Lĩnh vực: toán & tin
+#dữ kiện vào

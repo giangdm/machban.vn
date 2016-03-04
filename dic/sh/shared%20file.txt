@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin chia sẻ
+#tệp chia sẻ
+#tệp chung
+#tệp dùng chung
+#tệp phân chia

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị làm nguội
+@Chuyên ngành kỹ thuật
+#bộ điều nhiệt
+#máy điều nhiệt
+#rơle nhiệt độ
+@Lĩnh vực: hóa học & vật liệu
+#bộ điều hòa nhiệt
+@Lĩnh vực: cơ khí & công trình
+#bộ ổn nhiệt

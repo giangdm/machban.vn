@@ -1,0 +1,6 @@
+﻿@Unit of account
+#(Econ) Đơn vị kế toán.
+: Xem Money.
+@Chuyên ngành kinh tế
+#đơn vị tính toán
+#sổ sách kế toán về việc sử dụng tiền

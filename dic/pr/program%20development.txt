@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phát triển chương trình
+@Lĩnh vực: toán & tin
+#sự phát triển chương trình
+#sự triển khai chương trình

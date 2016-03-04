@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dẫn thủy lực
+#hệ số lọc
+@Lĩnh vực: xây dựng
+#hệ số thấm nước
+#tính dẫn thủy lực

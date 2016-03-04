@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dùng riêng
+#sử dụng cá nhân
+@Lĩnh vực: xây dựng
+#ứng dụng thực nghiệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dùng riêng
+#sử dụng cá nhân
+@Lĩnh vực: xây dựng
+#ứng dụng thực nghiệm

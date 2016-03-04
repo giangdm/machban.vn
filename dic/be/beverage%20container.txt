@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đồ chứa đồ uống
+#vỏ hộp đồ uống
+@Lĩnh vực: điện lạnh
+#côngtenơ nước uống
+#côngtênơ nước uống

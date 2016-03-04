@@ -1,0 +1,5 @@
+﻿@alphanumeric data
+#(Tech) dữ kiện chữ-số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dữ liệu chữ số

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#gradien áp suất
+#građien áp suất
+@Lĩnh vực: cơ khí & công trình
+#gradien áp lực
+@Lĩnh vực: xây dựng
+#građien áp lực

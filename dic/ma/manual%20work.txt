@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#lao động chân tay
+@Chuyên ngành kỹ thuật
+#lao động thủ công
+@Lĩnh vực: xây dựng
+#công việc bằng tay
+@Lĩnh vực: hóa học & vật liệu
+#việc làm bằng tay

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cữ mở van
+#giới hạn mở van
+#giới hạn nâng lá van
+#giới hạn nâng tấm (lá) van
+#giới hạn nâng tấm van
+@Lĩnh vực: hóa học & vật liệu
+#vỏ bọc van

@@ -1,0 +1,8 @@
+﻿@EPROM (erasable programmable read-only memory)
+#(Tech) bộ nhớ chỉ đọc, thảo chương, và xóa được (éprôm)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#EPROM
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#EPROM

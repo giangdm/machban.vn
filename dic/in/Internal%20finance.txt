@@ -1,0 +1,6 @@
+﻿@Internal finance
+#(Econ) Tài chính bên trong.
+: Khoản tiền giữ lại từ LỢI NHUẬN RÒNG để sử dụng cho việc tài trợ các hoạt động của một doanh nghiệp. Xem External finance.
+@Chuyên ngành kinh tế
+#nguồn vốn nội bộ
+#nguồn vốn tự có

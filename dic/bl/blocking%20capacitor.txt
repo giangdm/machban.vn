@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tụ chặn cản
+@Lĩnh vực: xây dựng
+#tụ điện cảm ứng
+@Lĩnh vực: điện tử & viễn thông
+#tụ điện chặn
+@Lĩnh vực: điện lạnh
+#tụ-điện chặn

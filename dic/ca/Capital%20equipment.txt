@@ -1,0 +1,8 @@
+﻿@Capital equipment
+#(Econ) Thiết bị sản xuất, thiết bị vốn.
+: Xem CAPITAL
+@Chuyên ngành kinh tế
+#tài sản cố định
+#thiết bị cố định
+#thiết bị sản xuất
+#thiết bị vốn

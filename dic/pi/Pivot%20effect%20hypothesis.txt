@@ -1,0 +1,3 @@
+﻿@Pivot effect hypothesis
+#(Econ) Giả thuyết về hiệu ứng quay.
+: Lập luận cho rằng CHÍNH SÁCH THU NHẬP không những tạo nên các hiệu ứng dịch chuyển trong quá trình điều chỉnh tiền lương mà còn có thể làm thay đổi độ dốc của đường cong Phillips, hoặc nói một cách chuyên môn hơn, làm thay đổi độ lớn của sự phản ứng của tỷ lệ thay đổi về lương đối với các yếu tố quyết định gây ra sự thay đổi đó.

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#áp lực đình trệ
+@Lĩnh vực: vật lý
+#áp suất do ứ đọng
+@Lĩnh vực: điện lạnh
+#áp suất trì trệ

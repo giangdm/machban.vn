@@ -1,0 +1,6 @@
+﻿@Tariff Structure
+#(Econ) Khung biểu thuế quan.
+: Hình thái toàn bộ của các mức thuế quan.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cấu trúc bảng giá

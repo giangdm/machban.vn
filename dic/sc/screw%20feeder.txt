@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kiểu guồng xoắn
+#máy tiếp liệu kiểu vít

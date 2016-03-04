@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#điều kiện thời tiết
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#điều kiện thời tiết

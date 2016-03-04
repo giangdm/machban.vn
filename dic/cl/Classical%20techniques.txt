@@ -1,0 +1,3 @@
+﻿@Classical techniques
+#(Econ) Các kỹ thuật cổ điển
+: Một cụm thuật ngữ dùng để miêu tả kỹ thuật thống kê chuẩn nhằm phân biệt chúng cụ thể với các kỹ thuật BAYES.

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#khối tiếp điểm
+#nhóm tiếp điểm
+@Lĩnh vực: điện lạnh
+#khối tiếp xúc (ở rơle)

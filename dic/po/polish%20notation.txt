@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#ký pháp tiền tố
+@Lĩnh vực: toán & tin
+#ký pháp không dấu ngoặc
+@Chuyên ngành kỹ thuật
+#ký pháp Ba Lan
+#ký pháp Lukasiewicz
+@Lĩnh vực: toán & tin
+#ký hiệu Balan
+#ký pháp Balan

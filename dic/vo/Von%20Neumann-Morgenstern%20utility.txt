@@ -1,0 +1,3 @@
+﻿@Von Neumann-Morgenstern utility
+#(Econ) Thoả dụng Von Neumann-Morgenstern.
+: Theo tên đặt của J. von Neumann (1903-57) và O.Morgenstern (1902-77), đây là cách tiếp cận đối với thuyết cầu mà được cho là đúng khi áp dụng các tình huống rủi ro.

@@ -1,0 +1,4 @@
+﻿@Cost overrun
+#(Econ) Chi phí phát sinh.
+@Chuyên ngành kinh tế
+#sự chi quá phí tổn

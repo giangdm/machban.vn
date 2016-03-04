@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phương pháp cách ly sự cố
+@Lĩnh vực: toán & tin
+#thủ tục cô lập vấn đề

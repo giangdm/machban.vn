@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chi phí của chuyến đi công tác, phí đi lại, di chuyển
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tiền công tác

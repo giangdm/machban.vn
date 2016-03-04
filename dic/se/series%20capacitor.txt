@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tụ bù dọc
+#tụ điện nối tiếp
+#tụ mắc nối tiếp
+@Lĩnh vực: điện lạnh
+#tụ điện (mắc) nối tiếp
+#tụ điện bù dọc

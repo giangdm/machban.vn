@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự chuyển nối tiếp
+#sự truyền tuần tự
+@Lĩnh vực: điện tử & viễn thông
+#truyền kiểu nối tiếp

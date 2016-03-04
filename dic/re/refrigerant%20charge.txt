@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#lượng mang tác nhân lạnh trong hệ thống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#lượng nạp môi chất lạnh
+#nạp môi chất lạnh

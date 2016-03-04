@@ -1,0 +1,19 @@
+﻿@Chuyên ngành kinh tế
+#cao điểm tiêu thụ (điện)
+#mức tải tối cao
+#mức tải tối đa
+#số lượng chở tối đa
+@Chuyên ngành kỹ thuật
+#phụ tải đỉnh
+#tải trọng tối đa
+@Lĩnh vực: điện lạnh
+#công suất đỉnh
+#tải đỉnh
+@Lĩnh vực: điện
+#nhu cầu cực đại
+#nhu cầu đỉnh
+#tải cực đại
+@Lĩnh vực: cơ khí & công trình
+#tải trọng cao điểm
+@Lĩnh vực: xây dựng
+#tải trọng đỉnh

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#diện tích mặt cắt
+#diện tích mặt cắt ngang
+#tiết diện
+@Lĩnh vực: điện
+#thiết diện

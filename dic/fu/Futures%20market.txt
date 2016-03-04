@@ -1,0 +1,7 @@
+﻿@Futures market
+#(Econ) Thị trường kỳ hạn
+: Xem Forward market.
+@Chuyên ngành kinh tế
+#quyền chọn kỳ hạn
+#thị trường giao sau
+#thị trường kỳ hạn

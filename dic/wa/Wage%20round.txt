@@ -1,0 +1,5 @@
+﻿@Wage round
+#(Econ) Vòng quay tiền công.
+: Giả thuyết cho rằng tồn tại những mối liên kết chặt chẽ giữa các mức tiền lương thanh toán cho các nhóm đàm phán trong nền kinh tế, kết qủa là việc thanh toán lương tuân theo những hình thái nhất định mỗi năm.
+@Chuyên ngành kinh tế
+#vòng đàm phán lương

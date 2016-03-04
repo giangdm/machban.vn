@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hàng gạch xây đứng
+@Lĩnh vực: xây dựng
+#hàng gạch ở cạnh
+#ở mép
+@Chuyên ngành kỹ thuật
+#hàng gạch xây đứng
+@Lĩnh vực: xây dựng
+#hàng gạch ở cạnh
+#ở mép

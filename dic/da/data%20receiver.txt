@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhận dữ liệu
+@Lĩnh vực: toán & tin
+#máy thu dữ liệu

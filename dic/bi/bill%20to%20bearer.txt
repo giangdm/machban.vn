@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hối phiếu vô danh
+#phiếu khoán trả ngay khi đến đổi
+#phiếu khoán vô danh (trả cho người cầm phiếu)

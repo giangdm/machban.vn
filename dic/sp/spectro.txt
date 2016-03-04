@@ -1,0 +1,3 @@
+﻿@spectro
+#hình thái ghép có nghĩa quang phổ
+=spectrogram:ảnh quang phổ

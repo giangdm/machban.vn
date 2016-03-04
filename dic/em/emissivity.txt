@@ -1,0 +1,8 @@
+﻿@emissivity
+*danh từ
+#độ phát xạ
+=radiant emissivity:độ bức xạ
+@Chuyên ngành kỹ thuật
+#độ phát xạ
+@Chuyên ngành kỹ thuật
+#độ phát xạ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khách sạn kiểu chung cư
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khách sạn kiểu nhà ở

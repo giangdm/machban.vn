@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ hiển thị màu
+#màn hình màu
+@Lĩnh vực: toán & tin
+#bộ giám sát màu

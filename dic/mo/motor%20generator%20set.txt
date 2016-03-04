@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ máy phát-động cơ
+@Lĩnh vực: điện
+#nhóm động cơ phát điện
+@Lĩnh vực: hóa học & vật liệu
+#tổ động cơ phát lực

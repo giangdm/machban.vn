@@ -1,0 +1,2 @@
+﻿@deferred processing
+#(Tech) xử lý trì hoãn

@@ -1,0 +1,3 @@
+﻿@Restricted least squares (RLS)
+#(Econ) Bình phương nhỏ nhất hạn chế.
+: Là một phương pháp ước tính các thông số của một phương trình, trong đó có tính đến một loại thông tin ưu tiên.

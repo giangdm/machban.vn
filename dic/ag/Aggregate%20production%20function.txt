@@ -1,0 +1,6 @@
+﻿@Aggregate production function
+#(Econ) Hàm sản xuất gộp.
+: Mối quan hệ giữa lưu lượng sản lượng trong toàn nền kinh tế (Y), tổng lực lượng lao động (L) và tổng lượng vốn (K), các đầu vào tham gia trực tiếp vào sản xuất. Hàm này có thể được mở rộng để bao hàm cả ĐẤT ĐAI và CÔNG NGHỆ VỚI danh nghĩa là đầu vào.
+@Chuyên ngành kinh tế
+#hàm tổng sản lượng
+#hàm tổng sản xuất

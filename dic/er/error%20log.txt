@@ -1,0 +1,12 @@
+﻿@error log
+#(Tech) sổ ghi sai lầm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản ghi lỗi
+#ghi chép lỗi
+#nhật ký lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản ghi lỗi
+#ghi chép lỗi
+#nhật ký lỗi

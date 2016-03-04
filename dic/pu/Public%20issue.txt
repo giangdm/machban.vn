@@ -1,0 +1,7 @@
+﻿@Public issue
+#(Econ) Phát hành công cộng.
+: Phương pháp thực hiện một sự phát hành mới về CHỨNG KHOÁN trong đó cơ quan phát hành, chẳng hạn một công ty hoặc một chính quyền địa phương bán các chứng khoán một cách trực tiếp cho công chúng với mức giá ấn định.
+@Chuyên ngành kinh tế
+#phát hành công khai
+#phát hành công khai (cổ phiếu... trong công chúng)
+#phát hành trong công chúng

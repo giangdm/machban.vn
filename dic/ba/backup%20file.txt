@@ -1,0 +1,8 @@
+﻿@backup file
+#(Tech) tập tin sao dự phòng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin dự phòng
+#tập tin dự trữ
+#tệp dự phòng
+#tệp sao lưu

@@ -1,0 +1,8 @@
+﻿@boldface
+#(Tech) mặt chữ đậm
+@Chuyên ngành kinh tế
+#chỗ in đậm
+@Chuyên ngành kỹ thuật
+#kiểu chữ đậm
+@Lĩnh vực: xây dựng
+#mặt đậm

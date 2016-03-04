@@ -1,0 +1,22 @@
+﻿@Rate of return
+#(Econ) Tỷ suất lợi tức.
+: Một khái niệm chung nói đến số Tiền thu được từ sự đầu tư vốn, khi tiền này được coi như một phần của kinh phí.
+@Chuyên ngành kinh tế
+#lợi suất
+#mức lời
+#mức lợi nhuận
+#mức lợi tức
+#suất lợi tức
+#suất thu lợi
+#tỉ lệ hàng không bán được
+#tỉ lệ sinh lời
+#tỉ lệ trả lời
+#tỉ suất lợi nhuận
+#tỷ lệ hàng không bán được
+#tỷ lệ sinh lời
+#tỷ lệ trả lời
+#tỷ lệ, mức hàng trả lại
+#tỷ suất lợi nhuận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#định mức suất lợi nhuận

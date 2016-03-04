@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#mạng truyền hình cáp
+@Chuyên ngành kỹ thuật
+#mạng cáp
+@Lĩnh vực: điện tử & viễn thông
+#mạng dây cáp

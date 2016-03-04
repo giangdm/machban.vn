@@ -1,0 +1,6 @@
+﻿@external declaration
+#(Tech) mô tả ngoài
+@Chuyên ngành kỹ thuật
+#khai báo ngoài
+@Chuyên ngành kỹ thuật
+#khai báo ngoài

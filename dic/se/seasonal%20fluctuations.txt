@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự biến động (giá cả) theo thời vụ, theo mùa, từng mùa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#dao động theo mùa

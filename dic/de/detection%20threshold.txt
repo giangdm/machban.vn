@@ -1,0 +1,8 @@
+﻿@detection threshold
+#(Tech) ngưỡng tách sóng
+@Chuyên ngành kỹ thuật
+#ngưỡng phát hiện
+@Lĩnh vực: toán & tin
+#ngưỡng dò tìm
+@Lĩnh vực: điện tử & viễn thông
+#ngưỡng tách sóng

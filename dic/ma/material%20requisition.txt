@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#đơn xin xuất kho nguyên vật liệu
+#lệnh xuất vật tư
+#phiếu nhận vật liệu

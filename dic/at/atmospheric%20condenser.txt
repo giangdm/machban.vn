@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ tụ lỏng thiên nhiên
+@Lĩnh vực: điện
+#tụ điện lỏng thiên nhiên

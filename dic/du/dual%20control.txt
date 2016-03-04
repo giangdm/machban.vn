@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lưỡng khiển
+@Lĩnh vực: toán & tin
+#bộ điều khiển kép
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển đối ngẫu
+@Lĩnh vực: đo lường & điều khiển
+#điều khiển kép
+@Lĩnh vực: cơ khí & công trình
+#sự điều khiển kép

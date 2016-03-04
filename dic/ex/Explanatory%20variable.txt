@@ -1,0 +1,3 @@
+﻿@Explanatory variable
+#(Econ) Biến giải thích
+: Là biến số đóng vai trò trong việc giải thích sự biến đổi của một biến độc lập trong phân tích hồi quy, biến số giải thích xuất hiện bên phải của phương trình hồi quy.

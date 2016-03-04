@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự nhiệt ly
+#sự nhiệt phân
+@Lĩnh vực: vật lý
+#sự phân hủy do nhiệt
+#sự phân hủy nhiệt
+#sự phân ly do nhiệt

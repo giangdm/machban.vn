@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sức phản điện động
+@Lĩnh vực: vật lý
+#phản sức điện động

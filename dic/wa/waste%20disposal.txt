@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#xử lý phế liệu
+@Chuyên ngành kỹ thuật
+#sự chôn rác thải
+#sự khử bỏ chất thải
+#sự loại bỏ rác thải
+#sự thanh lý chất thải
+#sự vứt bỏ chất thải
+#sự xử lý chất thải
+#sự xử lý phế liệu
+@Lĩnh vực: xây dựng
+#loại bỏ rác thải
+@Lĩnh vực: hóa học & vật liệu
+#xử lý cặn bã
+#xử lý chất thải

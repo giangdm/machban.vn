@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#đường đổi ngày quốc tế
+#đường phân ngày quốc tế
+#giới tuyến ngày
+@Chuyên ngành kỹ thuật
+#đường đổi ngày
+@Lĩnh vực: giao thông & vận tải
+#đường chuẩn đo quốc tế

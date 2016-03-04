@@ -1,0 +1,5 @@
+﻿@Key rates
+#(Econ) Các mức lương then chốt.
+: Các mức lương của nghề nghiệp trong thị trường LAO ĐỘNG NỘI BỘ làm điểm tiếp xúc với thị trường bên ngoài.
+@Chuyên ngành kinh tế
+#mức lương then chốt

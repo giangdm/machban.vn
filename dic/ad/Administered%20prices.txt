@@ -1,0 +1,3 @@
+﻿@Administered prices
+#(Econ) Các mức giá bị quản chế.
+:  Các mức giá được hình thành do quyết định có ý thức của cá nhân hay hãng nào đó chứ không phải do các yếu tố tác động của thị trường.

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch lưu động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao dịch hiện hành
+#giao dịch hiện thời

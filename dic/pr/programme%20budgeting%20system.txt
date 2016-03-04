@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phương thức lập ngân sách theo kế hoạch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống ngân sách chương trình

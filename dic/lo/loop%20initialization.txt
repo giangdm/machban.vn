@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khởi động vòng lặp
+@Lĩnh vực: toán & tin
+#sự khởi đầu vòng lặp

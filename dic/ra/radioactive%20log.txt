@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#biểu đồ phóng xạ
+#carota phóng xạ
+@Lĩnh vực: đo lường & điều khiển
+#log phóng xạ (kỹ thuật đo)

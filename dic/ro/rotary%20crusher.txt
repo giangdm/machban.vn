@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy nghiền hình côn
+@Lĩnh vực: xây dựng
+#máy đập kiểu xoay
+#máy nghiền kiểu rôto
+@Lĩnh vực: hóa học & vật liệu
+#máy nghiền kiểu quay
+@Lĩnh vực: cơ khí & công trình
+#máy nghiền xoay

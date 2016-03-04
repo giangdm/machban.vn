@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phương trình Beattie và Brigman
+@Lĩnh vực: điện
+#tần số biến thiên

@@ -1,0 +1,5 @@
+﻿@compensating resistance
+#(Tech) điện trở bù trừ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện trở bù

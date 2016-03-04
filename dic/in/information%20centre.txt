@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#trung tâm tình báo (tiếp thị)
+@Chuyên ngành kỹ thuật
+#trung tâm thông tin

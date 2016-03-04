@@ -1,0 +1,2 @@
+﻿@disk-resident program
+#(Tech) chương trình thường trú trên điã

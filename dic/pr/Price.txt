@@ -1,0 +1,53 @@
+﻿@Price
+#(Econ) Giá
+: Giá của một loại hàng hoá hoặc giá đầu vào cho thấy cái phải chi để có được một thứ hàng hoá hay dịch vụ.
+<!-- more -->
+@price /prais/
+*danh từ
+#giá ((nghĩa đen) & (nghĩa bóng))
+=cost price: giá vốn
+=fixed price: giá nhất định
+=wholesale price: giá buôn bán
+=retail price: giá bán lẻ
+=beyond (above, without) price: vô giá, không định giá được
+=at any price: bằng bất cứ giá nào
+=independence at any price: phải dành được độc lập bằng bất cứ giá nào
+=under the rule of mammon, every man has his price: dưới sự thống trị của đồng tiền, người nào cũng có thể mua chuộc được
+#giá đánh cuộc
+=the starting price of a horse: giá đánh cuộc đặt lúc ngựa bắt đầu chạy đua
+#(từ cổ,nghĩa cổ) giá trị, sự quý giá
+=a pearl of great price: viên ngọc trai quý giá
+#to set a price on someone's head
+#treo giải thưởng lấy đầu ai
+#what price...?
+#(từ lóng) là cái thá gì...?, nước mẹ gì...?
+=what price the SEATO?: khối Đông-Nam-A thì nước mẹ gì?
+*ngoại động từ
+#đặt giá, định giá; (nghĩa bóng) đánh giá
+#to price onself out of the market
+#lấy giá cắt cổ
+@Chuyên ngành kinh tế
+#đánh giá
+#đặt giá
+#định giá
+#ghi giá
+#giá
+#giá cả
+#giá trị
+@Chuyên ngành kỹ thuật
+#định giá
+#giá
+#giá cả
+@Lĩnh vực: toán & tin
+#giá cả, giá
+<!-- more -->
+@price
+#(toán kinh tế) giá cả, giá
+#accounting p. giá kiểm tra
+#base p.s giá cơ sở
+#cost p. giá thành
+#detail p. giá bán lẻ
+#floor p.s giá tối thiểu
+#market p. giá thị trường
+#selling p. giá bán
+#wholesale p. giá bán buôn

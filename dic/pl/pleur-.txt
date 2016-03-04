@@ -1,0 +1,13 @@
+﻿@pleur-
+#hình thái ghép
+#màng phổi
+=pleuro-pneumonia:viêm phổi - màng phổi
+#bên cạnh
+#pleurodont
+#có răng cạnh
+#hình thái ghép
+#màng phổi
+=pleuro-pneumonia:viêm phổi - màng phổi
+#bên cạnh
+#pleurodont
+#có răng cạnh

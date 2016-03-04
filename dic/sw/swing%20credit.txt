@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#mức chênh lệch cho phép lẫn nhau
+#tín dụng kỹ thuật thanh toán bù trừ
+#tín dụng qua lại

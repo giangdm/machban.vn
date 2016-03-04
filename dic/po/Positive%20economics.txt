@@ -1,0 +1,6 @@
+﻿@Positive economics
+#(Econ) Kinh tế học thực chứng.
+: Bộ phận khoa học kinh tế quan tâm đến các định đề có thể kiểm tra được bằng đối chiếu với thực tế.
+@Chuyên ngành kinh tế
+#kinh tế học thực chứng
+#kinh tế thực chứng

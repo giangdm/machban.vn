@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhóm ưu tiên tự động-APG
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhóm tự động ưu tiên

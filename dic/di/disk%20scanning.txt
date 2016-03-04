@@ -1,0 +1,5 @@
+﻿@disk scanning
+#(Tech) quét đĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự quét đĩa

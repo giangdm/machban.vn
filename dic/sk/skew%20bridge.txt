@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cầu xiên
+@Lĩnh vực: xây dựng
+#cầu chéo
+#cầu nghiêng
+#cầu xiên (không vuông góc với bờ sông)

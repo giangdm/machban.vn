@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ chữ mưu đồ viên
+@Lĩnh vực: toán & tin
+#phông plotter

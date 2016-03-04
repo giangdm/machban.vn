@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình thoát bất đồng bộ
+#thủ tục thoát không đồng bộ

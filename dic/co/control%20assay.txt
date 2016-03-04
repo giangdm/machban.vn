@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thử kiểm tra
+@Lĩnh vực: đo lường & điều khiển
+#thuật toán điều khiển
+#thuật toán kiểm tra

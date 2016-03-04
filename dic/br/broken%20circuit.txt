@@ -1,0 +1,8 @@
+﻿@broken circuit
+#(Tech) mạch hở, mạch đứt
+@Chuyên ngành kỹ thuật
+#mạch hở
+@Lĩnh vực: điện
+#mạch (bị) ngặt
+@Lĩnh vực: toán & tin
+#mạch gẫy

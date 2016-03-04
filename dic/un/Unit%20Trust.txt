@@ -1,0 +1,11 @@
+﻿@Unit Trust
+#(Econ) Độc quyền đơn vị.
+: Một cụm thuật ngữ dùng ở Anh để chỉ một thể chế, giống như một độc quyền đầu tư, mà tạo điều kiện cho các nhà đầu tư phân tán rủi ro bằng việc mua cổ phần trong một danh mục chứng khoán.
+@Chuyên ngành kinh tế
+#công ty ủy thác đầu tư
+#quỹ nhập ủy thác đầu tư
+#tín thác đơn vị
+<!-- more -->
+@unit trust
+*danh từ
+#công ty đầu tư tín thác (công ty đầu tư, sử dụng các đóng góp của các thành viên đầu tư vào các chứng khoán khác nhau và trả tiền lãi cho các thành viên theo tỷ lệ cổ phần của họ tính theo trung bình có được từ các chứng khoán đó)

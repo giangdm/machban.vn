@@ -1,0 +1,2 @@
+﻿@depletion-layer photodiode
+#(Tech) đèn hai cực quang điện có lớp khuyết lập

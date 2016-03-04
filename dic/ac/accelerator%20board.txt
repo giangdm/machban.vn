@@ -1,0 +1,5 @@
+﻿@accelerator board
+#(Tech) bảng gia tốc, tấm gia tốc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#board (bo) tăng tốc

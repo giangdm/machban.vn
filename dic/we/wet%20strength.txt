@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#độ bền ẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#độ bền bão hòa ướt
+#độ bền ướt

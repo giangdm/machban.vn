@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#gói được nối gọi
+@Lĩnh vực: toán & tin
+#gói kết nối cuộc gọi

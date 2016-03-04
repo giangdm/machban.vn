@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ phân lực
+@Lĩnh vực: điện lạnh
+#bộ chia công suất
+@Lĩnh vực: toán & tin
+#bộ phân chia công suất

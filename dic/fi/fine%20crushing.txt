@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kinh tế
+#sự nghiền mịn
+#sự nghiền tinh
+@Chuyên ngành kỹ thuật
+#nghiền mịn
+#sự đập nhỏ
+#sự nghiền vụn
+@Lĩnh vực: xây dựng
+#sự nghiền lần ba
+#sự nghiền vụn mịn
+@Chuyên ngành kỹ thuật
+#nghiền mịn
+#sự đập nhỏ
+#sự nghiền vụn
+@Lĩnh vực: xây dựng
+#sự nghiền lần ba
+#sự nghiền vụn mịn

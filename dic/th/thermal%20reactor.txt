@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lò phản ứng nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#bộ phản ứng nhiệt
+@Lĩnh vực: vật lý
+#lò phản ứng nhiệt (một loại lò phản ứng hạt nhân)

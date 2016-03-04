@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#quan hệ ngành ngang (trong quản lý)
+#thể chế quan hệ theo chức năng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự phụ thuộc hàm

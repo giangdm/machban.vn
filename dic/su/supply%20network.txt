@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#đường cấp nước chính
+#hệ thống điện lực
+#lưới điện
+#lưới điện chính
+#mạng cấp điện
+#mạng điện
+#mạng điện chính
+#mạng lưới cấp nước chính
+@Lĩnh vực: điện
+#nguồn điện chính
+#nguồn điện lưới
+#mạng điện năng
+@Lĩnh vực: cơ khí & công trình
+#mạng lưới cung cấp

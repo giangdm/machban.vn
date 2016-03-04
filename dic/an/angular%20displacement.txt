@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chuyển vị góc
+@Lĩnh vực: điện lạnh
+#độ dịch chuyển góc
+@Lĩnh vực: điện tử & viễn thông
+#sự chuyển dịch gốc

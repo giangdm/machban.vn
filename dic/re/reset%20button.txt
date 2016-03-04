@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#nút khởi động lại
+@Lĩnh vực: toán & tin
+#núm khởi động lại
+#nút bật lại
+#nút reset
+#nút tái thiết lập
+#nút thiết lập lại
+#nút xác lập lại
+#phím khởi động lại
+@Lĩnh vực: điện
+#nút đặt lại
+#nút phục hồi
+#nút trả về

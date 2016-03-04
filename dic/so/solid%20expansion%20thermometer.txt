@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt kế (đo bằng sự) dãn nở chất rắn
+#nhiệt kế (đo nhờ) giãn nở chất rắn
+#nhiệt kế chất rắn giãn nở

@@ -1,0 +1,3 @@
+﻿@Valuation ratio
+#(Econ) Tỷ số đánh giá.
+: Tỷ số giữa thị giá cổ phần của hãng, V, với giá trị sổ sách  tài sản của nó, K.

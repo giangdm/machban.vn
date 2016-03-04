@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chi phí cố định
+#chi phí thường xuyên
+#chi phí tổng quát
+@Chuyên ngành kỹ thuật
+#các chi phí chung
+#chi phi thường xuyên

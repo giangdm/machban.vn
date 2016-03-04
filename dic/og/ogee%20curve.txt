@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bờ dốc dạng chữ S
+#đường cong dạng chữ S
+#đường cong hình chữ S

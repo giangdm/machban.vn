@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tính không loại trừ được
+#tính không ngăn cản được
+#tính không thể ngăn cản

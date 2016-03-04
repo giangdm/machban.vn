@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thanh đứng
+@Lĩnh vực: xây dựng
+#thanh treo (trong giàn mạng tam giác)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp bọc kim loại
+#lớp mạ kim loại
+#lớp phủ kim loại

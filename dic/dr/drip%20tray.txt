@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#mâm chứa nước thải
+@Chuyên ngành kỹ thuật
+#chậu nước ngưng
+#khay hứng nước ngưng
+#máng dầu
+@Lĩnh vực: cơ khí & công trình
+#khay dầu
+@Lĩnh vực: điện lạnh
+#khay hứng nhỏ giọt
+@Lĩnh vực: xây dựng
+#khay nước ngưng

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#độ chênh áp suất
+#độ giảm áp suất
+#sự giảm áp suất
+#sự sụt áp suất
+@Lĩnh vực: xây dựng
+#giảm áp lực
+#sự tụt áp lực
+@Lĩnh vực: hóa học & vật liệu
+#giảm áp suất
+@Lĩnh vực: cơ khí & công trình
+#sự sụt áp lực

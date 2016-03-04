@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bậc giá
+#khung giá
+#phạm vi giá cả
+#thang giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khoảng giá

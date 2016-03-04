@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự chiết chu kỳ
+#sự trích ly chu lỳ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự lấy ra theo lô

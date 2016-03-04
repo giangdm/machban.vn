@@ -1,0 +1,2 @@
+﻿@burst duration
+#(Tech) thời khoảng chớp màu (xung)

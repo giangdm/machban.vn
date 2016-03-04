@@ -1,0 +1,7 @@
+﻿@Absentee landlord
+#(Econ) Địa chủ (chủ bất động sản) cách biệt
+: Người chủ sở hữu đất hoặc nhà sống ở một nơi xa bất động sản của mình, thu tiền thuê và quản lý việc kinh doanh của mình thông qua trung gian hay người đại diện.
+<!-- more -->
+@absentee landlord
+*danh từ
+#người không thường xuyên có mặt ở đồn điền của mình

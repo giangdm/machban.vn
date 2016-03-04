@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#máy cảm biến kiểu điện trở
+#máy đo biến dạng

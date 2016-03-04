@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#lời hướng dẫn bút toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lệnh ghi

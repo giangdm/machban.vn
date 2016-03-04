@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kinh tế
+#tấn Anh
+#tấn dài
+#tổng tấn
+@Chuyên ngành kỹ thuật
+#tấn
+#tấn dài
+#tấn hệ mét
+#tấn thô
+#tổng trọng tải
+@Lĩnh vực: toán & tin
+#tấn Anh (1.016 kg)
+@Lĩnh vực: xây dựng
+#tấn Anh (1016kg)
+@Lĩnh vực: giao thông & vận tải
+#tấn già
+#tấn lớn (1016 kg)

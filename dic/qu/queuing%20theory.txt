@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#lý thuyết xếp hàng
+@Chuyên ngành kỹ thuật
+#lý thuyết lập hàng chờ
+@Lĩnh vực: toán & tin
+#lý thuyết hàng đợi
+#lý thuyết sắp hàng

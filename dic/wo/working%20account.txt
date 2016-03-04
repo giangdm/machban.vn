@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bản kế toán kinh doanh
+#tài khoản kinh doanh
+#tài khoản lưu động
+#tài khoản lưu động, tài khoản kinh doanh

@@ -1,0 +1,2 @@
+﻿@discharge time
+#(Tech) thời gian phóng điện

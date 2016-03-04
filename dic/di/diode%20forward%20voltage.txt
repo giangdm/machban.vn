@@ -1,0 +1,5 @@
+﻿@diode forward voltage
+#(Tech) điện áp thuận đèn hai cực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện áp đi-ốt thuận

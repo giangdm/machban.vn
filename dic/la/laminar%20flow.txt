@@ -1,0 +1,24 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy laminar
+#dòng chảy tầng
+#dòng chảy thành lớp
+#dòng chảy thành tầng
+#luồng chảy tầng
+#luồng tầng
+@Lĩnh vực: xây dựng
+#dòng chảy thành từng lớp
+#sự chảy tầng
+@Lĩnh vực: toán & tin
+#dòng thành lớp
+@Chuyên ngành kỹ thuật
+#dòng chảy laminar
+#dòng chảy tầng
+#dòng chảy thành lớp
+#dòng chảy thành tầng
+#luồng chảy tầng
+#luồng tầng
+@Lĩnh vực: xây dựng
+#dòng chảy thành từng lớp
+#sự chảy tầng
+@Lĩnh vực: toán & tin
+#dòng thành lớp

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lõi hở
+@Lĩnh vực: điện
+#biến áp

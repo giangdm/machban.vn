@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ gia tốc xuyên tâm
+@Lĩnh vực: điện lạnh
+#gia tốc theo tia
+#gia tốc xuyên tâm

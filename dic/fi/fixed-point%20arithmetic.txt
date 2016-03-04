@@ -1,0 +1,16 @@
+﻿@fixed-point arithmetic
+#(Tech) tính toán điểm cố định, tính toán định điểm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu diễn dấu chấm tĩnh
+#số học dấu chấm tĩnh
+#tính dấu phẩy cố định
+@Lĩnh vực: xây dựng
+#số học số nguyên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu diễn dấu chấm tĩnh
+#số học dấu chấm tĩnh
+#tính dấu phẩy cố định
+@Lĩnh vực: xây dựng
+#số học số nguyên

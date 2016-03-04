@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#các tiếp điểm đầu mút
+@Lĩnh vực: điện lạnh
+#tiếp xúc đối đầu

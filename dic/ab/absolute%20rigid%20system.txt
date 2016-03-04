@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ không biến dạng
+@Lĩnh vực: xây dựng
+#hệ cứng tuyệt đối

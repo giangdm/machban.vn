@@ -1,0 +1,5 @@
+﻿@Anticipated inflation
+#(Econ) Lạm phát được dự tính.
+: Xem EXPECTED INFLATION.
+@Chuyên ngành kỹ thuật
+#lạm phát theo dự kiến

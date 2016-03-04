@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hiệu quả làm lạnh cảm biến
+#hiệu quả làm lạnh nhạy
+@Lĩnh vực: điện lạnh
+#hiệu ứng lạnh cảm nhận được
+#hiệu ứng lạnh hiện
+#năng suất lạnh hiện
+#năng suất lạnh hiện (cảm giác được)

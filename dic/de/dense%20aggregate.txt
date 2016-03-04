@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cốt liệu chặt
+#cốt liệu đặc chắc
+#cốt liệu dầy đặc

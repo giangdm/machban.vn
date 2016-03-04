@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ngưng tụ lặp lại
+#sự tái ngưng tụ
+#tái ngưng tụ

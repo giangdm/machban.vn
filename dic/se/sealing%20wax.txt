@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sáp niêm
+#xi gắn
+#xi gắn (dùng để niêm phong)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#xi đóng dấu

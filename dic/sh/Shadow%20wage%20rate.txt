@@ -1,0 +1,3 @@
+﻿@Shadow wage rate
+#(Econ) Mức tiền công bóng.
+: Giá bóng của lao động.

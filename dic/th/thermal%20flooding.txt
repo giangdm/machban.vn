@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tái sinh bình nhiệt
+#thu hồi bình nhiệt

@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#có bảo hiểm
+#đường rầy phụ
+#hàng rào an toàn
+#hàng rào chắn
+#lưới bảo vệ
+#ray áp
+#ray dẫn hướng
+#ray hộ bánh
+#tay vịn bảo vệ
+@Lĩnh vực: xây dựng
+#kết cấu bảo hiểm
+#kết cấu ngăn
+#lan can bảo hiểm
+#tay vịn bên
+#thanh lan can (cầu thang)
+@Lĩnh vực: giao thông & vận tải
+#ray bảo vệ

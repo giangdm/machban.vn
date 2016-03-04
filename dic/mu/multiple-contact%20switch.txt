@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ chuyển mạch chọn
+#công tắc chọn
+@Lĩnh vực: điện
+#công tắc nhiều tiếp điểm

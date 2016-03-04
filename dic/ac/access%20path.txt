@@ -1,0 +1,6 @@
+﻿@access path
+#(Tech) đường truy cập
+@Chuyên ngành kỹ thuật
+#đường truy nhập
+@Lĩnh vực: toán & tin
+#đường dẫn truy cập

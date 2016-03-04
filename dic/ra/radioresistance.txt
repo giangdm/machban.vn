@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự chịu bức xạ
+#sự chống bức xạ
+#tính chịu bức xạ
+#tính chống bức xạ

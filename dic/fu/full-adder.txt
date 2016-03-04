@@ -1,0 +1,2 @@
+﻿@full-adder
+#(Tech) bộ cộng đầy đủ, bộ cộng toàn phần

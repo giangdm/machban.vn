@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#chọn lọc tự nhiên
+#sự đào thải tự nhiên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chọn tự nhiên
+@Lĩnh vực: hóa học & vật liệu
+#sự chọn lọc tự nhiên
+@Lĩnh vực: toán & tin
+#sự chọn tự nhiên

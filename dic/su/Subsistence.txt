@@ -1,0 +1,12 @@
+﻿@Subsistence
+#(Econ) Mức đủ sống.
+: Mức tiêu dùng tối thiểu cần có để tồn tại. Khái niệm này được các nhà KINH TẾ HỌC CỔ ĐIỂN dùng để giải thích mức tiền công dài hạn.
+<!-- more -->
+@subsistence /səb'sistəns/
+*danh từ
+#sự tồn tại
+#sự sống, sự sinh sống; sinh kế
+=subsistence wage: tiền lương đủ sống
+=subsistence money: tiền tạm ứng (chờ ngày lĩnh lương)
+@Chuyên ngành kinh tế
+#sự đủ sống

@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#phí mỗi dòng
+#phí mỗi dòng (đăng quảng cáo)
+@Chuyên ngành kỹ thuật
+#tốc độ đường truyền số
+@Lĩnh vực: điện tử & viễn thông
+#tần số dòng (truyền hình)
+@Lĩnh vực: điện lạnh
+#tốc độ điều biến
+@Chuyên ngành kỹ thuật
+#tốc độ đường truyền số
+@Lĩnh vực: điện tử & viễn thông
+#tần số dòng (truyền hình)
+@Lĩnh vực: điện lạnh
+#tốc độ điều biến

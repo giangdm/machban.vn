@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bộ cảm biến nhiệt
+#bộ dò nhiệt

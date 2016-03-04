@@ -1,0 +1,3 @@
+﻿@Characteristics theory
+#(Econ) Lý thuyết về đặc tính sản phẩm.
+: Lý thuyết này liên quan tới lý thuyết cầu tiêu dùng và công trình của K.lancaster.Ý tưởng chính là những người tiêu dùng không yêu cầu sản phẩm mà là đặc tính của sản phẩm. Xem HEDONIC PRICES.

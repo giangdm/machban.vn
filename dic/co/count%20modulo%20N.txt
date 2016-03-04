@@ -1,0 +1,2 @@
+﻿@count modulo N
+#(Tech) đếm theo mô khối (môddulô) N

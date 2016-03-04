@@ -1,0 +1,3 @@
+﻿@National Saving Bank
+#(Econ) Ngân hàng tiết kiệm quốc gia.
+: Đây là một ngân hàng tiết kiệm của nhà nước Anh hoạt động thông qua mạng lưới bưu điên.

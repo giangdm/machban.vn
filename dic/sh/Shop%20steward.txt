@@ -1,0 +1,7 @@
+﻿@Shop steward
+#(Econ) Đại biểu phân xưởng.
+: Một đại biểu được bầu ra đại diện cho một nhóm công nhân, người này sẽ thúc đẩy những mối quan tâm của những người lao động trong nhà máy hoặc phân xưởng như tiền công hoặc các điều kiện làm việc.
+@Chuyên ngành kinh tế
+#đại biểu công nhân viên chức
+#đại biểu công xưởng
+#đại diện công đoàn

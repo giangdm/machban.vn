@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ lực phẳng đồng quy
+@Lĩnh vực: xây dựng
+#hệ lực phẳng tác dụng đồng thời

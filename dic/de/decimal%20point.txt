@@ -1,0 +1,6 @@
+﻿@decimal point
+#(Tech) dấu thập phân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu chấm thập phân
+#dấu phảy thập phân

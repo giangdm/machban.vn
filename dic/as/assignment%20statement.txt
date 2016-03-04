@@ -1,0 +1,10 @@
+﻿@assignment statement
+#(Tech) câu lệnh gán, câu lệnh chỉ định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#câu lệnh gán
+#lệnh gán
+@Lĩnh vực: điện tử & viễn thông
+#chỉ thị chỉ định
+@Lĩnh vực: xây dựng
+#tuyên bố ấn định

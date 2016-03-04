@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cách âm tiêu chuẩn hóa
+#hiệu mức tiêu chuẩn hóa
+@Lĩnh vực: vật lý
+#độ chênh mức chuẩn hóa

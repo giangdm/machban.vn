@@ -1,0 +1,3 @@
+﻿@Passche price index
+#(Econ) Chỉ số giá Passche.
+: Chỉ số giá gia quyền theo năm hiện hành.

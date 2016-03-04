@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#độ bền vi sinh vật học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tính ổn định vi sinh

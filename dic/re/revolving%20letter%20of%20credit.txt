@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hạn ngạch tín dụng chu chuyển
+#thư tín dụng tuần hoàn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#thư tín dụng tuần hoàn

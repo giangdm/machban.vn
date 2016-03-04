@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#bản ngăn
+#màng ngăn
+#tấm đệm
+#vách ngăn
+@Lĩnh vực: hóa học & vật liệu
+#tấm ngăn bụi
+@Lĩnh vực: toán & tin
+#tấm ô văng
+@Lĩnh vực: xây dựng
+#tấm ôvăng

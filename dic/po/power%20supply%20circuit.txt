@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống điện lực
+#lưới điện chính
+#mạng cấp điện
+#mạng điện
+#mạng điện chính
+@Lĩnh vực: điện
+#mạch cấp điện (cho dụng cụ điện tử)
+#mạch nguồn
+#mạng cung cấp điện

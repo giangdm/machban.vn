@@ -1,0 +1,3 @@
+﻿@Existence, theorem of
+#(Econ) Định lý về sự tồn tại.
+: Bất kỳ một định lý nào tìm cách lập luận rằng, trong bối cảnh cân bằng tổng thể, tồn tại một loạt giá và lượng cân bằng. Xem EQUYLIBRUM, GENERAL EQUIBRIUM.

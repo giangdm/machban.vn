@@ -1,0 +1,5 @@
+﻿@one-to-one
+*tính từ, phó từ
+#một thành viên của nhóm này tương ứng với một thành viên của nhóm kia
+@Chuyên ngành kỹ thuật
+#một đối một

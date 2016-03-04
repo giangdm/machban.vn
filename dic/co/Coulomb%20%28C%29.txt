@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#Culông (C)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#culông
+@Lĩnh vực: toán & tin
+#đơn vị đo điện lượng

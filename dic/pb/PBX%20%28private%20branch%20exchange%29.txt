@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#tổng đài nhánh riêng
+@Lĩnh vực: điện tử & viễn thông
+#tổng đài nhánh lẻ
+#tổng đài nhánh tư nhân
+@Lĩnh vực: toán & tin
+#tổng đài nội bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tổng đài chuyển mạch-PBX

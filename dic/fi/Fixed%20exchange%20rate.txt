@@ -1,0 +1,5 @@
+﻿@Fixed exchange rate
+#(Econ) Tỷ giá hối đoái cố định.
+: Xem EXCHANGE RATE.
+@Chuyên ngành kinh tế
+#tỷ hối cố định

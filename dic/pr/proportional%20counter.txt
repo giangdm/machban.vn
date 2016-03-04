@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đếm tỷ lệ
+#máy đếm tỷ lệ
+@Lĩnh vực: đo lường & điều khiển
+#ống đếm tỷ lệ

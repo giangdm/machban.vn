@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nguồn nuôi C
+#nguồn nuôi lưới
+@Lĩnh vực: điện
+#bình điện C
+@Lĩnh vực: điện lạnh
+#bộ pin C

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy tính gia lượng
+@Lĩnh vực: toán & tin
+#máy tính gia số
+#máy tính tăng
+#máy tính tăng dần

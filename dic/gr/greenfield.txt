@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#công ty có vốn rủi ro
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#ống Green-field

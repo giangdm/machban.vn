@@ -1,0 +1,5 @@
+﻿@Neo-classical economics
+#(Econ) Kinh tế học tân cổ điển.
+: Là một phần của học thuyết kinh tế trong đó có sử dụng những kỹ thuật và phương pháp tiếp cận tổng hợp của các nhà kinh tế học đầu tiên theo trường phái biên thế kỷ XIX.
+@Chuyên ngành kinh tế
+#kinh tế học tân cổ điển

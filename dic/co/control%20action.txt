@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#vi phạm (đặc tả)
+@Lĩnh vực: toán & tin
+#tác động điều chỉnh
+@Lĩnh vực: xây dựng
+#tác dụng điều chỉnh
+#tác dụng điều tiết

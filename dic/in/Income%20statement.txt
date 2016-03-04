@@ -1,0 +1,7 @@
+﻿@Income statement
+#(Econ) Báo cáo thu nhập / Bản thu nhập.
+@Chuyên ngành kinh tế
+#bản báo cáo thu nhập
+#bảng báo cáo thu nhập
+#báo cáo doanh thu
+#báo cáo lợi tức

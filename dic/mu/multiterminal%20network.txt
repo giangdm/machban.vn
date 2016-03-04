@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mạng đa cực
+@Lĩnh vực: toán & tin
+#mạng nhiều đầu cuối

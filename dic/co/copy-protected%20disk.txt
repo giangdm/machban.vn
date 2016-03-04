@@ -1,0 +1,2 @@
+﻿@copy-protected disk
+#(Tech) đĩa được ngừa sao chép

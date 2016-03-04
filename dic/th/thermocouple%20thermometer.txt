@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt kế cặp nhiệt điện
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt kế có cặp nhiệt
+#nhiệt kế kiểu cặp nhiệt
+#nhiệt kế nhiệt điện

@@ -1,0 +1,3 @@
+﻿@BLUS residuals
+#(Econ) Số dư BLUS
+: Các số dư không chệch, tuyến tính, tốt nhất và với một ma trận hiệp phương sai vô hướng

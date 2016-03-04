@@ -1,0 +1,6 @@
+﻿@Expected net returns
+#(Econ) Mức lợi tức ròng kỳ vọng; Lợi tức ròng dự tính.
+: Là tổng các thu nhập dự tính trừ đi các chi phí dự tính, tức là lợi nhuận dự tính của một dự án đầu tư.
+@Chuyên ngành kinh tế
+#mức lời ròng dự tính
+#tiền lời ròng dự tính

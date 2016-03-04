@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hàng bốc dỡ chung công-ten-nơ
+#hàng chở lẻ
+#hàng không đầy công-ten-nơ

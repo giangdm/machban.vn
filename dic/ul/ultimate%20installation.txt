@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lắp đặt thiết bị cuối
+@Lĩnh vực: cơ khí & công trình
+#lắp ráp cuối cùng
+@Lĩnh vực: vật lý
+#thiết bị cuối cùng

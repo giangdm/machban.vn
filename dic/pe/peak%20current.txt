@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng điện cực đại
+#dòng đỉnh
+@Lĩnh vực: điện
+#dòng điện đỉnh

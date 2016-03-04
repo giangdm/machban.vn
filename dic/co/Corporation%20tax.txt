@@ -1,0 +1,6 @@
+﻿@Corporation tax
+#(Econ) Thuế doanh nghiệp; Thuế Công ty.
+: Thuế đánh vào doanh thu của các công ty sau khi đã trừ đi chi phí hoạt động, LÃI SUẤT, PHẦN GIẢM THUẾ CHO ĐẦU TƯ VỐN và MỨC GIẢM VỐN.
+@Chuyên ngành kinh tế
+#thuế công ty
+#thuế đánh vào công ty

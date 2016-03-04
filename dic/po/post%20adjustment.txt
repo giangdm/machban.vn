@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#số điều chỉnh chênh lệch giá địa điểm phục vụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tiền điều chỉnh chức vụ

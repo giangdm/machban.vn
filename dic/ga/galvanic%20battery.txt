@@ -1,0 +1,6 @@
+﻿@galvanic battery
+#(Tech) bình điện tự phát, bình điện nguyên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ pin điện
+#bộ pin ganvanic

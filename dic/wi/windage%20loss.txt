@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tổn hao do quạt gió
+@Lĩnh vực: điện
+#tổn thất do khe hở

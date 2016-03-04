@@ -1,0 +1,5 @@
+﻿@Comparative statics
+#(Econ) Phương pháp so sánh tĩnh.
+: So sánh một vị trí CÂN BẰNG mới với vị trí cân bằng cũ sau khi có thay đổi nào đó trong các biến số mà không đổi chiều với cách đạt được vị trí mới và thường không có khía cạnh định lượng.
+@Chuyên ngành kinh tế
+#so sánh tĩnh

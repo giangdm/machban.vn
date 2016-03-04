@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#xích dẫn động
+#xích điều khiển
+#xích lái
+#xích truyền động
+@Lĩnh vực: xây dựng
+#dây sên truyền
+@Lĩnh vực: toán & tin
+#dây xích truyền

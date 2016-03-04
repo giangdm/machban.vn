@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ phát hiện cháy
+#máy phát hiện hỏa hoạn
+@Lĩnh vực: điện
+#bộ báo cháy
+@Lĩnh vực: điện lạnh
+#bộ phát hiện hỏa hoạn
+@Lĩnh vực: xây dựng
+#đầu báo cháy
+#máy phát hiện cháy
+#thiết bị phát hiện cháy
+@Chuyên ngành kỹ thuật
+#bộ phát hiện cháy
+#máy phát hiện hỏa hoạn
+@Lĩnh vực: điện
+#bộ báo cháy
+@Lĩnh vực: điện lạnh
+#bộ phát hiện hỏa hoạn
+@Lĩnh vực: xây dựng
+#đầu báo cháy
+#máy phát hiện cháy
+#thiết bị phát hiện cháy

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thao tác tự động
+@Lĩnh vực: điện lạnh
+#hoạt động tự động
+#vận hành tự động
+@Lĩnh vực: điện tử & viễn thông
+#sự khai thác tự động

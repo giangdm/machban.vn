@@ -1,0 +1,6 @@
+﻿@time-scale
+*danh từ
+#thời gian diễn ra một loạt sự kiện; các giai đoạn kế tiếp nhau (của một quá trình ); một sự vận hành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trục thời gian

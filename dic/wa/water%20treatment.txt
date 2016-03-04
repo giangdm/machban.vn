@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sự xử lý (lần cuối) nước
+#sự xử lý nước
+#xử lý nước
+@Lĩnh vực: xây dựng
+#sự làm trong nước
+#sự xử lý nước (sử lý ban đầu) sự làm sạch nước
+@Lĩnh vực: điện
+#việc xử lí nước

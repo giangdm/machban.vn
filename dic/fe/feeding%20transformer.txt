@@ -1,0 +1,12 @@
+﻿@feeding transformer
+#(Tech) bộ biến áp cấp điện
+@Chuyên ngành kỹ thuật
+#máy biến áp cấp điện
+@Lĩnh vực: điện
+#biến áp cấp (điện)
+#biến áp nguồn
+@Chuyên ngành kỹ thuật
+#máy biến áp cấp điện
+@Lĩnh vực: điện
+#biến áp cấp (điện)
+#biến áp nguồn

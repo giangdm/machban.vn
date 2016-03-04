@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#ăng ten tạp
+#bộ phản xạ tạp
+#chấn tử tạp
+#chấn tử thụ động
+#phần tử thụ động
+@Lĩnh vực: toán & tin
+#phần tử bị động

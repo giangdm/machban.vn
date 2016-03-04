@@ -1,0 +1,13 @@
+﻿@vibrometer
+*danh từ
+#máy đo chấn động
+@Chuyên ngành kỹ thuật
+#máy đo chấn động
+@Lĩnh vực: xây dựng
+#cái đo rung
+#dụng cụ đo rung
+@Lĩnh vực: vật lý
+#chấn động kế
+#rung động kế
+@Lĩnh vực: điện
+#máy đo rung

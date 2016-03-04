@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#môđun chính
+@Lĩnh vực: điện
+#môđun cơ sở
+@Lĩnh vực: xây dựng
+#môđun gốc

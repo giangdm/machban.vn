@@ -1,0 +1,2 @@
+﻿@Induced expenditure
+#(Econ) Khoản chi tiêu phụ thuộc (vào mức thu nhập).

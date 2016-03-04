@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giá trị bước
+@Lĩnh vực: toán & tin
+#giá trị bước (là giá trị tăng sau mỗi lần lặp)

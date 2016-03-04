@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa chuyển (trong bao găng tay)
+#lỗ trao đổi
+@Lĩnh vực: vật lý
+#cổng chuyển
+#lỗ chuyển
+@Lĩnh vực: hóa học & vật liệu
+#cửa chuyển liệu
+@Lĩnh vực: ô tô
+#cửa nạp (động cơ hai kì)
+#lỗ tràn (động cơ hai kỳ)

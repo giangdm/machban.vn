@@ -1,0 +1,11 @@
+﻿@Linear dependence
+#(Econ) Phụ thuộc tuyến tính
+: Một tính chất của một tập hợp các vectơ trong đó một trong các vectơ có thể được biểu diễn bằng một tổ hợp tuyến tính của các vectơ khác.
+@Chuyên ngành kỹ thuật
+#phụ thuộc tuyến tính
+@Lĩnh vực: toán & tin
+#sự phụ thuộc tuyến tính
+@Chuyên ngành kỹ thuật
+#phụ thuộc tuyến tính
+@Lĩnh vực: toán & tin
+#sự phụ thuộc tuyến tính

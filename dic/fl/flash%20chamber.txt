@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#phòng bốc hơi
+@Chuyên ngành kỹ thuật
+#buồng đốt
+@Lĩnh vực: điện lạnh
+#buồng phun
+@Chuyên ngành kỹ thuật
+#buồng đốt
+@Lĩnh vực: điện lạnh
+#buồng phun

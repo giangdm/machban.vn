@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#cơ kháng
+@Lĩnh vực: vật lý
+#điện kháng cơ học

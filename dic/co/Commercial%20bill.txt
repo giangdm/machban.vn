@@ -1,0 +1,7 @@
+﻿@Commercial bill
+#(Econ) Hối phiếu thương mại.
+: Một HỐI PHIẾU được rút để tài trợ cho các hoạt động sản xuất, buôn bán hoặc thương mại khác. Nó khác với HỐI PHIẾU BỘ TÀI CHÍNH hay hối phiếu của chính quyền địa phương vì đó là công cụ của các nghiệp vụ tài chính công cộng.
+@Chuyên ngành kinh tế
+#hối phiếu thương mại
+#hồi phiếu thương mại
+#thương phiếu

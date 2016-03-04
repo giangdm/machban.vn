@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#không gian vectơ
+@Lĩnh vực: toán & tin
+#không gian tuyến tính

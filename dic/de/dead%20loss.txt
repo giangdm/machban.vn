@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#mất hoàn toàn
+#mất khống
+#sự mất trơn
+#tổn thất ròng (không được bối thường)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#sự hao khô
+#sự hao thuần

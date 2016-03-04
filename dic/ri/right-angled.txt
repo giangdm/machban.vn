@@ -1,0 +1,6 @@
+﻿@right-angled /'rait,æɳgld/
+*tính từ
+#vuông, vuông góc
+=right-angled triangle: hình tam giác vuông góc
+@Chuyên ngành kỹ thuật
+#vuông góc

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các ký tự đặc biệt
+@Lĩnh vực: xây dựng
+#ký tự đặc biệt

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tổng đài tự động dùng riêng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tổng đài nhánh tự động riêng
+#tổng đài tự động nội bộ

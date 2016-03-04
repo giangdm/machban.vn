@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#trả tiền (ngay) sau khi nhận hóa đơn
+#trả tiền khi giao hàng
+#trả tiền ngay sau khi nhận hóa đơn

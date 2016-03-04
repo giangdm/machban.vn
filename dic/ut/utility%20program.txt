@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chương trình tiện ích
+#chương trình tiện ích (của máy tính)
+@Chuyên ngành kỹ thuật
+#thường trình
+#trình tiện ích
+@Lĩnh vực: toán & tin
+#chương trình phục vụ

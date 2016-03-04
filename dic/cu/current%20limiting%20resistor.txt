@@ -1,0 +1,4 @@
+﻿@current limiting resistor
+#(Tech) cái điện trở hạn chế dòng
+@Chuyên ngành kỹ thuật
+#điện trở hạn chế dòng

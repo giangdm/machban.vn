@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch hở
+@Lĩnh vực: điện tử & viễn thông
+#chu trình mở
+@Lĩnh vực: điện
+#vòng hở
+@Lĩnh vực: đo lường & điều khiển
+#vòng lặp hở

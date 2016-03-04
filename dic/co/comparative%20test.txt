@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thử so sánh
+@Lĩnh vực: vật lý
+#phép thử so sánh
+@Lĩnh vực: xây dựng
+#thí nghiệm để so sánh

@@ -1,0 +1,2 @@
+﻿@book size personal computer
+#(Tech) máy điện toán cá nhân khổ sách

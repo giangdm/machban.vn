@@ -1,0 +1,5 @@
+﻿@Standard commodity
+#(Econ) Hàng hóa tiêu chuẩn.
+: Một thuật ngữ do P.SRAFFA dùng để tìm hiểu quan hệ giữa giá cả tương đối với phân phối thu nhập giữa tiền công và lợi nhuận.
+@Chuyên ngành kinh tế
+#hàng hóa chuẩn

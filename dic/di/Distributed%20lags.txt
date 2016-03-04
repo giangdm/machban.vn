@@ -1,0 +1,3 @@
+﻿@Distributed lags
+#(Econ) Độ trễ có phân phối.
+: Sự xác định về các mối quan hệ kinh tế lượng thường đòi hỏi rằng một biến giải thích không chỉ tồn tại dưới giá trị hiện tại mà còn dưới dạng một chuỗi trước đó (trễ).

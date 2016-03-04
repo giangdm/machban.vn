@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#lượng thu nhiệt
+@Lĩnh vực: xây dựng
+#sự thu nhiệt

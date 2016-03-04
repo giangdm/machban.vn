@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phân tích kỹ thuật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự phân tích kỹ thuật

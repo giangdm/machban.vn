@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#bộ biến đổi tín hiệu
+@Lĩnh vực: toán & tin
+#bộ chuyển đổi tín hiệu
+@Lĩnh vực: điện tử & viễn thông
+#bộ điều biến tín hiệu

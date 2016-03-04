@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ trễ đường truyền
+#trễ đường truyền
+@Lĩnh vực: điện tử & viễn thông
+#trễ đường truyền dẫn

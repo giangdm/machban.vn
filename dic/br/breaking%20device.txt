@@ -1,0 +1,2 @@
+﻿@breaking device
+#(Tech) thiết bị ngắt

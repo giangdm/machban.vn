@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#biến dạng lệch
+@Lĩnh vực: điện lạnh
+#méo không đều
+#méo lệch
+#méo sai thiên áp
+@Lĩnh vực: toán & tin
+#sự méo không đều
+#sự méo lệch

@@ -1,0 +1,5 @@
+﻿@count pulse
+#(Tech) nhịp đếm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#xung đếm

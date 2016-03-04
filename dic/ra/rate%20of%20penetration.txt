@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tốc độ khoan xuyên
+#tốc độ xuyên (kỹ thuật khoan cắt)
+@Lĩnh vực: xây dựng
+#tốc độ lún sâu

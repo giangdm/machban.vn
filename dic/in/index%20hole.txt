@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#lỗ chỉ số
+@Lĩnh vực: toán & tin
+#lỗ chỉ thị
+#lỗ đánh chỉ số

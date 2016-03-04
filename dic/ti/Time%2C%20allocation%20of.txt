@@ -1,0 +1,3 @@
+﻿@Time, allocation of
+#(Econ) Phân bổ thời gian.
+: Mô hình thời gian giải trí truyền thống về cung giờ giả định rằng toàn bộ thời gian được phân bổ hoặc làm việc để kiếm tiền hoặc cho giải trí.

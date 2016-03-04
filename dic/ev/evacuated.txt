@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#được tháo ra
+#được xả
+@Lĩnh vực: hóa học & vật liệu
+#được giải tỏa
+@Chuyên ngành kỹ thuật
+#được tháo ra
+#được xả
+@Lĩnh vực: hóa học & vật liệu
+#được giải tỏa

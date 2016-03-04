@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#điều khiển
+@Lĩnh vực: điện lạnh
+#bộ chuyển mạch chọn
+@Lĩnh vực: điện
+#công tắc bộ chọn
+#hộp số (sửa chữa)
+@Lĩnh vực: cơ khí & công trình
+#công tắc chọn lựa

@@ -1,0 +1,4 @@
+﻿@frequency scanner
+#(Tech) bộ quét tần số
+@Chuyên ngành kỹ thuật
+#bộ quét tần số

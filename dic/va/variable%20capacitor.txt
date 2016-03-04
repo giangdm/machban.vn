@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#tụ xoay
+@Lĩnh vực: điện
+#tụ biến thiên
+#tụ điện thay đổi được
+#tụ điện xoay
+@Lĩnh vực: toán & tin
+#tụ điện có thể chỉnh (giá trị)

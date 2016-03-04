@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ gián đoạn
+#hệ rời rạc
+@Lĩnh vực: đo lường & điều khiển
+#hệ thống rời rạc

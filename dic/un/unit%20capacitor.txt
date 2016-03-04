@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tụ điện đơn vị
+@Lĩnh vực: điện
+#tụ điện khối

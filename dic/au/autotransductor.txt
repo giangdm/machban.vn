@@ -1,0 +1,2 @@
+﻿@autotransductor
+#(Tech) bộ khuếch đại từ tự động

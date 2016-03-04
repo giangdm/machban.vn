@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm chuẩn
+#điểm khống chế
+#điểm kiểm soát

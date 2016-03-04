@@ -1,0 +1,3 @@
+﻿@Marginal disutility
+#(Econ) Độ phi thoả dụng cận biên.
+: Là độ phi thoả dụng tăng thêm phát sinh từ một thay đổi nhỏ trong một biến số nào đó.

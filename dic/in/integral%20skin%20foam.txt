@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bọt nguyên khối
+#bọt vỏ nguyên khối
+#chất xốp có cấu trúc
+#vật liệu xốp có cấu trúc

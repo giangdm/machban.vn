@@ -1,0 +1,5 @@
+﻿@clearing instruction
+#(Tech) chỉ thị xóa, chỉ thị trở về không
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#lệnh xóa

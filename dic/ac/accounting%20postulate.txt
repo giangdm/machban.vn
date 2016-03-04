@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#định đề kế toán
+#giả định kế toán
+#nguyên lý kế toán

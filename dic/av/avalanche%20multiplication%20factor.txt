@@ -1,0 +1,2 @@
+﻿@avalanche multiplication factor
+#(Tech) hệ số nhân thác

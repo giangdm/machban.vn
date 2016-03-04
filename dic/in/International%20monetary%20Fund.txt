@@ -1,0 +1,8 @@
+﻿@International monetary Fund
+#(Econ) (IMF) - Quỹ tiền tệ quốc tế.
+: (IMF) - Quỹ tiền tệ quốc tế được thành lập vào 12/1945 theo sự phê chuẩn các Điều khoản của Hiệp định về quỹ, được lập ra tại Hội nghị Tài chính và Tiền tệ của Liên hợp quốc tổ chưc tại BRETTON WOODS, New Hampshire, 1944. Mục đích của quỹ là khuyến khích sự hợp tác về tiền tệ quốc tế, tạo điều kiện cho việc mở rộng tăng trưởng cân đối trong THƯƠNG MẠI QUỐC TẾ, giúp đỡ các nước thành viên trong việc khắc phục CÁN CÂN THANH TOÁN và xúc tiến việc ổn định NGOẠI TỆ.
+@Chuyên ngành kinh tế
+#quỹ tiền tệ quốc tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#IMF Quỹ tiền tệ quốc tế

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tốc độ danh định
+@Lĩnh vực: xây dựng
+#vận tốc danh nghĩa

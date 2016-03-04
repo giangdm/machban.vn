@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#áp suất riêng phần
+@Chuyên ngành kỹ thuật
+#áp suất riêng phần
+@Lĩnh vực: cơ khí & công trình
+#áp lực cục bộ
+@Lĩnh vực: xây dựng
+#áp suất cục bộ
+@Lĩnh vực: vật lý
+#áp suất riêng
+@Lĩnh vực: hóa học & vật liệu
+#suất riêng phần

@@ -1,0 +1,4 @@
+﻿@data generator
+#(Tech) bộ tạo dữ liệu
+@Chuyên ngành kỹ thuật
+#bộ sinh dữ liệu

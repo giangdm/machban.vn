@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ngày mua bán
+#ngày mua bán (ngày chứng khoán thực sự được mua hay bán)
+#thời điểm buôn bán

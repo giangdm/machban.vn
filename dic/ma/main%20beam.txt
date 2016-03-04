@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#dầm chính
+#dầm đỡ
+#dầm dọc
+#giàn
+#hệ chịu lực
+#rầm chính
+#rầm đỡ
+#rầm dọc
+#xà chính
+@Lĩnh vực: ô tô
+#chùm sáng chính (đèn pha)
+@Lĩnh vực: toán & tin
+#chùm tia chính (điện từ)
+@Lĩnh vực: vật lý
+#chùm tia chính (điện tử)
+@Lĩnh vực: cơ khí & công trình
+#ố đỡ chính

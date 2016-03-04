@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kênh nhập/xuất
+@Lĩnh vực: toán & tin
+#kênh ra/vào
+#kênh vào/ra

@@ -1,0 +1,6 @@
+﻿@Equilibrium price
+#(Econ) Giá cân bằng
+: Giá tại đó THỊ TRƯỜNG ở trạng thái CÂN BẰNG.
+@Chuyên ngành kinh tế
+#giá cả cân bằng
+#giá cân bằng

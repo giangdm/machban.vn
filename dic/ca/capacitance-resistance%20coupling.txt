@@ -1,0 +1,2 @@
+﻿@capacitance-resistance coupling
+#(Tech) ghép dung-trở

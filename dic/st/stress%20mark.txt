@@ -1,0 +1,3 @@
+﻿@stress mark
+*danh từ
+#dấu để trỏ trọng âm vào một âm tiết trong một từ

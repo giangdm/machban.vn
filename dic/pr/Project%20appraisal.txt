@@ -1,0 +1,10 @@
+﻿@Project appraisal
+#(Econ) Thẩm định dự án.
+: Xem CAPITAL BUDGETING, DISCOU-TED CASH FLOW, NET PRESENT VALUE, RATE OF RETURN.
+@Chuyên ngành kinh tế
+#thẩm định dự án
+#thẩm tra dự án
+@Chuyên ngành kỹ thuật
+#sự giám định
+@Lĩnh vực: xây dựng
+#đánh giá thiết kế

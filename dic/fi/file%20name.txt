@@ -1,0 +1,14 @@
+﻿@file name
+#(Tech) tên tập tin
+@Chuyên ngành kinh tế
+#tên tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký hiệu nhận dạng tệp
+#tên file
+#tên tập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký hiệu nhận dạng tệp
+#tên file
+#tên tập

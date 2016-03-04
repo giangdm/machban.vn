@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra kích thước
+@Lĩnh vực: toán & tin
+#sự điều khiển cỡ
+#sự điều khiển kích thước
+@Lĩnh vực: cơ khí & công trình
+#sự kiểm tra kích thước

@@ -1,0 +1,12 @@
+﻿@pie chart
+*danh từ
+#biểu đồ tròn
+@Chuyên ngành kinh tế
+#biểu đồ tròn
+@Chuyên ngành kỹ thuật
+#biểu đồ tròn
+#đồ thị khoanh
+@Lĩnh vực: toán & tin
+#biểu đồ hình tròn
+#biểu đồ khoanh
+#đồ thị tròn

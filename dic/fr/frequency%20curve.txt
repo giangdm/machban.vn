@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#đường tần suất
+@Chuyên ngành kỹ thuật
+#đường tần số
+@Lĩnh vực: xây dựng
+#đường cong tần số
+@Lĩnh vực: toán & tin
+#đường mật độ
+#đường mật độ (phân phối)

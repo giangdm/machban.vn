@@ -1,0 +1,3 @@
+﻿@Two stage leatst squares (TSLS hoặc 2 SLS)
+#(Econ) Bình phương nhỏ nhất hai giai đoạn
+: Một phương pháp kinh tế lượng để ước lượng các tham số dạng cơ cấu của hệ phương trình đồng thời, trong đó tránh sự thiên lệch của phương trình đồng thời.

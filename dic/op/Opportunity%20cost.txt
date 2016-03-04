@@ -1,0 +1,10 @@
+﻿@Opportunity cost
+#(Econ) Chi phí cơ hội.
+: Là giá trị của hành động thay thế đã bị bỏ qua không làm.
+@Chuyên ngành kinh tế
+#chi phí cơ hội
+#phí tổn chọn bỏ
+#phí tổn lựa chọn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#chi phí cơ hội

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điểm kết đông ban đầu
+#điểm kết đông đầu tiên
+#nhiệt độ kết đông ban đầu
+#nhiệt độ kết đông đầu tiên

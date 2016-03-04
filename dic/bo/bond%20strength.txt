@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền dính
+#độ bền liên kết
+#lực bám dính
+#sức bám
+#sức bám dính
+@Lĩnh vực: xây dựng
+#cường độ dính bám
+#cường độ dính kết
+@Lĩnh vực: cơ khí & công trình
+#độ bền của mối gió

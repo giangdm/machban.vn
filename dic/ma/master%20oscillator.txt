@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ dao động chính
+#bộ phát khoảng thời gian
+#bộ tạo giao động chủ
+@Lĩnh vực: toán & tin
+#bộ dao động chủ
+@Lĩnh vực: điện lạnh
+#bộ giao động chủ
+@Lĩnh vực: điện tử & viễn thông
+#máy tạo sóng chủ chính

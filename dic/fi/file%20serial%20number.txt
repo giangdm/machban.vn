@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số file
+#số tệp
+@Lĩnh vực: điện tử & viễn thông
+#số hiệu tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số file
+#số tệp
+@Lĩnh vực: điện tử & viễn thông
+#số hiệu tệp

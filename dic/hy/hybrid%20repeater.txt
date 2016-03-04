@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cuộn dây lai
+#máy biến áp lai
+@Lĩnh vực: điện lạnh
+#bộ chuyển tiếp lai
+#máy biến áp cầu

@@ -1,0 +1,8 @@
+﻿@graphic panel
+#(Tech) bảng đồ họa (điều khiển)
+@Chuyên ngành kỹ thuật
+#bảng đồ họa
+@Lĩnh vực: hóa học & vật liệu
+#bảng biểu đồ
+@Lĩnh vực: đo lường & điều khiển
+#bảng đồ thị

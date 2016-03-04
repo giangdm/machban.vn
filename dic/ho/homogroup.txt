@@ -1,0 +1,5 @@
+﻿@homogroup
+#thuần nhóm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thuần nhóm

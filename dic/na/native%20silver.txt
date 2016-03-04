@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bạc (thuộc) tự nhiên
+@Lĩnh vực: xây dựng
+#bạc thiên nhiên
+@Lĩnh vực: hóa học & vật liệu
+#bạc tự nhiên
+#bạc tự sinh

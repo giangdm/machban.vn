@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực đá
+#áp lực đất
+#áp lực lên đất
+#áp lực trên đất đá
+#áp lực trên mặt đất
+@Lĩnh vực: cơ khí & công trình
+#áp suất trên mặt đất

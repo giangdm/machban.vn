@@ -1,0 +1,3 @@
+﻿@loadability
+*danh từ
+#khả năng mang tải

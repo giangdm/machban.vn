@@ -1,0 +1,13 @@
+﻿@Gopher
+#(Tech) Gopher (tên một hệ thống hoa tiêu khách chủ để truy cập thông tin trên mạng)
+<!-- more -->
+@gopher /'goufə/
+*danh từ (động vật học)
+#chuột túi
+#chuột vàng
+#rùa đất
+*danh từ & ngoại động từ
+#(như) gofer,  goffer
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#gopher

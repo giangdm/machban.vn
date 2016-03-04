@@ -1,0 +1,7 @@
+﻿@multicollinearity
+#(thống kê) đa cộng tuyến
+@Chuyên ngành kinh tế
+#đa cộng tuyến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đa cộng tuyến

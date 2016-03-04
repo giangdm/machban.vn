@@ -1,0 +1,6 @@
+﻿@Marshall Aid
+#(Econ) Viện trợ Marshall.
+: Là viện trợ của Mỹ và Canada cho Anh và các nước khác để trợ giúp họ phục hồi nền kinh tế sau chiến tranh thế giới thứ hai.
+@Chuyên ngành kinh tế
+#Viện trợ Marshall
+#viện trợ theo chương trình Marshall

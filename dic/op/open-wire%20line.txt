@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dây ăng ten
+@Lĩnh vực: điện
+#dây trên không
+@Lĩnh vực: điện tử & viễn thông
+#đường dây điện mở

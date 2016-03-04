@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cổng trượt
+#cửa đẩy trượt
+#cửa lăn (trong âu)
+#cửa van trượt
+#cửa xếp mở

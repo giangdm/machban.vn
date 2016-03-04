@@ -1,0 +1,6 @@
+﻿@Public good
+#(Econ) Hàng hoá công cộng.
+: Một hàng hoá hoặc dịch vụ mà nếu đã cung cấp cho một người nào đó thì đối với những người khác cũng được cung cấp như vậy mà không phải chịu bất cứ chi phí nào thêm.
+@Chuyên ngành kinh tế
+#công ích
+#hàng hóa quốc dân

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#phòng đợi
+#phòng khách
+@Lĩnh vực: xây dựng
+#phòng khách (nhỏ)

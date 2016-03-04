@@ -1,0 +1,6 @@
+﻿@Equilibrium rate of inflation
+#(Econ) Tỷ lệ lạm phát cân bằng.
+: Tỷ lệ LẠM PHÁT được hoàn toàn dự báo trước. TỶ lệ lạm phát giá cả mà tại đó các kỳ vọng có thể trở thành hiện thực.
+@Chuyên ngành kinh tế
+#tỉ lệ lạm pháp thăng bằng
+#tỷ lệ lạm phát thăng bằng

@@ -1,0 +1,6 @@
+﻿@backspace (BS)
+#(Tech) lùi một nấc, xóa ngược
+@Chuyên ngành kỹ thuật
+#lùi bước
+@Lĩnh vực: toán & tin
+#phím lùi

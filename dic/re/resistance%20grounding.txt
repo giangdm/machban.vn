@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nối đất qua điện trở
+#tiếp đất bằng điện trở

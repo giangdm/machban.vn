@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#bỏ vào phú de ngay (cụm từ ghi trên bảng hiệu cấm)
+#khu vực cấm đậu (với sự bỏ vào phú-de)

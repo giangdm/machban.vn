@@ -1,0 +1,17 @@
+﻿@on-line
+#trực tuyến
+@Chuyên ngành kinh tế
+#liên hệ trực tiếp
+#nối liền
+#phụ thuộc
+#trực tuyến
+@Chuyên ngành kỹ thuật
+#bảo dưỡng khi đang vận hành
+#đang mang điện
+#hoạt động trực tuyến
+#sự nối trực tiếp
+@Lĩnh vực: điện
+#đang vận hành
+@Lĩnh vực: toán & tin
+#online
+#trực tuyến, on-line

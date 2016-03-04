@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng đầu cuối
+@Lĩnh vực: điện lạnh
+#bảng đầu cực
+#bảng đầu nối ra
+@Lĩnh vực: xây dựng
+#bảng gắn đầu cực

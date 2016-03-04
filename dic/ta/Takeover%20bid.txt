@@ -1,0 +1,9 @@
+﻿@Takeover bid
+#(Econ) Trả giá thu mua.
+: Nỗ lực của một cá nhân, một nhóm người, hay một công ty nhằm mua đủ cổ phiếu để có quyền bỏ phiếu ở một công ty khác.
+@Chuyên ngành kinh tế
+#chào mua công khai
+#sự chào mua công khai
+#sự ra giá tiếp quản công ty
+#sự trả giá mua lại quyền kiểm soát công ty
+#trả giá tiếp quản công ty

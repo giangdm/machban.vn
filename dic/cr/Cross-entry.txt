@@ -1,0 +1,3 @@
+﻿@Cross-entry
+#(Econ) Nhập nghành chéo
+: Là một khái niệm để chỉ các hãng mới nhập ngành nhưng đã được thiết lập trong các nghành sử dụng các công nghệ tương tự với công nghệ mà các hãng mới nhập thị này tiến hành.

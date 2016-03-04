@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nợ kỳ hạn
+#nợ trả chậm
+#tài sản nợ trì hoãn

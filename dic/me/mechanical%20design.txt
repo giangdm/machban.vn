@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bản thiết kế cơ khí
+@Lĩnh vực: toán & tin
+#thiết kế cơ khí

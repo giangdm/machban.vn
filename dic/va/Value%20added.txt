@@ -1,0 +1,5 @@
+﻿@Value added
+#(Econ) Giá trị gia tăng.
+: Giá trị sản lượng của một hãng trừ đi giá trị đầu vào nó mua từ các hãng khác.
+@Chuyên ngành kinh tế
+#giá trị gia tăng

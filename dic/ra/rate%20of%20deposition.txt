@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hiệu suất lắng
+#tốc độ lắng đọng
+@Lĩnh vực: cơ khí & công trình
+#tốc độ trầm tích

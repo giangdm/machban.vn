@@ -1,0 +1,5 @@
+﻿@computer operation
+#(Tech) điều hành máy điện toán, vận hành máy điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thao tác máy

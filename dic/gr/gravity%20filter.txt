@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lọc tự chảy
+@Lĩnh vực: xây dựng
+#bể lọc bằng trọng lực

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#RAM tĩnh , Bộ nhớ truy nhập ngẫu nhiên tĩnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#RAM tĩnh

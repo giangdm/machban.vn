@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#máy đập kho dầu
+#máy thái khô dầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#máy cắt bánh

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#làm thí nghiệm
+#tiến hành
+@Lĩnh vực: toán & tin
+#dựng thí nghiệm
+@Lĩnh vực: xây dựng
+#thí nghiệm dựng thí nghiệm

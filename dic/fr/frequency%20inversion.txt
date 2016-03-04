@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự đảo tần số
+@Lĩnh vực: điện tử & viễn thông
+#sự đảo ngược tần số

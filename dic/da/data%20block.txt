@@ -1,0 +1,6 @@
+﻿@data block
+#(Tech) khối dữ liệu
+@Chuyên ngành kinh tế
+#khối dữ liệu
+@Chuyên ngành kỹ thuật
+#khối dữ liệu

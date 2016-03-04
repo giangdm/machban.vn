@@ -1,0 +1,5 @@
+﻿@well-formed
+*tính từ
+#(logich; ngôn ngữ) đúng; đúng đắn; chính xác
+#(ngôn ngữ) đúng ngữ pháp; được đánh dấu
+=well-formed sentence:câu được đánh dấu, câu đúng ngữ pháp

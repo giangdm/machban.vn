@@ -1,0 +1,6 @@
+﻿@ECU
+#(Econ) Xem EUROPEAN MONETARY SYSTEM
+<!-- more -->
+@ecu
+*(viết tắt)
+#đơn vị tiền tệ của Liên minh Âu châu (European Currency Unit)

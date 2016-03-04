@@ -1,0 +1,2 @@
+﻿@electronic wave = electron wave
+#(Tech) sóng điện tử

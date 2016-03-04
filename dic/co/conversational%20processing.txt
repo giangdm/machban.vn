@@ -1,0 +1,6 @@
+﻿@conversational processing
+#(Tech) xử lý đối thoại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý hội thoại
+#xử lý đàm thoại

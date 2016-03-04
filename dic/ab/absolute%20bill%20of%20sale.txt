@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giấy bán đứt hàng hóa
+#giấy bán hẳn
+#giấy bán tuyệt đối
+#giấy chuyển quyền sở hữu (tàu bè)

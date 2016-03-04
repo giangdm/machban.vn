@@ -1,0 +1,5 @@
+﻿@band selector
+#(Tech) bộ chọn dải sóng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ chọn dải tần

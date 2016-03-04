@@ -1,0 +1,3 @@
+﻿@Minimum employment target
+#(Econ) Mục tiêu tối thiểu về việc làm.
+: Trong các kế hoạch phát triển của cácc nước chậm phát triển thường xác định những mức chỉ tiêu tối thiểu về việ làm.

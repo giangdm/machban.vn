@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#cho gia công
+#đụng vào bình phong
+#kinh doanh phân tán
+#lập thêm chi nhánh (công ty...) tách thành bộ phận độc lập
+#phân nhánh
+#sản xuất phân tán
+#tách công ty

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chi phí thấy rõ
+#khí tổn (trả bằng) tiền mặt
+#phí tổn (trả bằng) tiền mặt
+#phí tổn hiển hiện

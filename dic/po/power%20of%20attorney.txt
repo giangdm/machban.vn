@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giấy ủy quyền
+#quyền ủy nhiệm
+#thư ủy nhiệm
+@Chuyên ngành kỹ thuật
+#ủy quyền
+@Lĩnh vực: xây dựng
+#giấy ủy quyền

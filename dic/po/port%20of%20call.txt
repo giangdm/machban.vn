@@ -1,0 +1,13 @@
+﻿@port of call
+*danh từ
+#cảng ghé (nơi tàu dừng trong chuyến đi biển xa)
+#<thgt> trạm dừng chân (nhất là một cuộc hành trình)
+@Chuyên ngành kinh tế
+#cảng ghé
+#cảng tạm dừng (dọc đường)
+@Chuyên ngành kỹ thuật
+#cảng thường lui tới
+@Lĩnh vực: giao thông & vận tải
+#cảng đậu lại
+@Lĩnh vực: xây dựng
+#cảng tàu đỗ lại tạm thời

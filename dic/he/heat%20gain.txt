@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ tăng nhiệt
+#nhiệt thu được
+@Lĩnh vực: điện lạnh
+#mức tăng nhiệt
+@Lĩnh vực: xây dựng
+#sự dôi nhiệt
+#thừa nhiệt

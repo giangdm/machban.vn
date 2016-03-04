@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đọc
+@Lĩnh vực: toán & tin
+#đoạn chương trình nhập
+#thủ tục nhập
+#thường trình nhập

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phương pháp truy nhập kho ảo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương pháp truy cập bộ nhớ ảo

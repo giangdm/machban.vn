@@ -1,0 +1,7 @@
+﻿@delivery truck
+*danh từ
+#xe giao hàng
+@Chuyên ngành kinh tế
+#ô tô chở sản phẩm đến người tiêu dùng
+@Chuyên ngành kỹ thuật
+#xe tải giao hàng

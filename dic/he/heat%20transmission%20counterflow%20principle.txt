@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nguyên lí truyền nhiệt ngược dòng
+@Lĩnh vực: vật lý
+#nguyên lý truyền nhiệt ngược dòng

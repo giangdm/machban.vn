@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#kiểm tra sản xuất
+#quản lý, kiểm soát sản xuất
+@Chuyên ngành kỹ thuật
+#quản lí sản xuất
+@Lĩnh vực: toán & tin
+#điều khiển sản xuất
+@Lĩnh vực: hóa học & vật liệu
+#kiểm tra sản xuất

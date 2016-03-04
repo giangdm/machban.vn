@@ -1,0 +1,5 @@
+﻿@Sackings
+#(Econ) Con số sa thải.
+: Con số thôi việc có lý do. Một yếu tố trong chu chuyển lao động.
+@Chuyên ngành kinh tế
+#sa thải

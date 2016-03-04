@@ -1,0 +1,4 @@
+﻿@accumulation layer
+#(Tech) lớp lũy tích
+@Chuyên ngành kỹ thuật
+#lớp tích lũy

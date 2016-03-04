@@ -1,0 +1,8 @@
+﻿@grid modulation
+#(Tech) sự biến điệu lưới
+@Chuyên ngành kỹ thuật
+#sự điều biến lưới
+@Lĩnh vực: điện
+#điều chế lưới
+@Lĩnh vực: toán & tin
+#sự điều chế lưới

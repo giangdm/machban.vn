@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dòng cực siêu thanh
+#dòng quá thanh
+@Lĩnh vực: toán & tin
+#dòng siêu âm

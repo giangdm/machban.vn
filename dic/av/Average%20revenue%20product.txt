@@ -1,0 +1,3 @@
+﻿@Average revenue product
+#(Econ) Sản phẩm doanh thu bình quân.
+: Sản phẩm doanh thu trung bình của một đầu vào (yếu tố sản xuất) nhân với doanh thu bình quân.

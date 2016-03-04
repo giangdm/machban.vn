@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#quạt điều chỉnh theo ổn nhiệt
+#quạt ổn nhiệt

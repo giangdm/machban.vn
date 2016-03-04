@@ -1,0 +1,2 @@
+﻿@electronic oscillator = electron oscillator
+#(Tech) bộ giao động điện tử

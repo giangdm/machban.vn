@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#loại bỏ chế độ thông thường
+@Lĩnh vực: điện lạnh
+#thải lọc tín hiệu cùng pha

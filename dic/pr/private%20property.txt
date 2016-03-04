@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#cấm vào
+#tài sản cá nhân
+#tài sản riêng
+#tài sản tư hữu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tài sản tư nhân

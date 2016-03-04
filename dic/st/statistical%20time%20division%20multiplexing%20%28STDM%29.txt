@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự truyền đa công phân thời thống kê
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ghép kênh phân chia thời gian theo thống kê

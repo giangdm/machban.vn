@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự tỏa nhiệt đối lưu
+#tỏa nhiệt đối lưu
+#truyền nhiệt đối lưu
+@Lĩnh vực: xây dựng
+#sự truyền nhiệt kiểu đối lưu

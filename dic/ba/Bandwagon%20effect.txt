@@ -1,0 +1,3 @@
+﻿@Bandwagon effect
+#(Econ) Hiệu ứng đoàn tàu
+: Hiệu ứng nhờ đó khi giá cả hàng hoá giảm và cầu của một vài bộ phận hay các cá nhân trong cộng đồng tăng, các cá nhân hoặc bộ phận bắt chước cách phản ứng này và cũng tăng cầu của họ.

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#màn hình Plasma
+@Lĩnh vực: toán & tin
+#bảng hiển thị bằng plasma
+#bảng plasma
+#panô plasma

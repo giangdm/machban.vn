@@ -1,0 +1,3 @@
+﻿@Moments
+#(Econ) Mô men
+: Là một thuật ngữ mô tả THỐNG KÊ tổng có tác dụng để biểu thị đặc điểm hình dạng và vị trí của một PHÂN PHỐI XÁC SUẤT, hoặc một mẫu số liệu.

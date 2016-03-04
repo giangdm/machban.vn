@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#các số so sánh được
+@Lĩnh vực: toán & tin
+#các số đồng dư

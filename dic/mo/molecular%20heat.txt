@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt phân tử
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt dung mol
+#nhiệt dung riêng phân tử

@@ -1,0 +1,30 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu nối bích
+#khớp bích
+#khớp nối bích
+#mối ghép bích
+@Lĩnh vực: hóa học & vật liệu
+#ghép nối bằng cánh
+@Lĩnh vực: điện tử & viễn thông
+#khối nối mặt bích
+@Lĩnh vực: xây dựng
+#liên kết bích
+#mối nối bằng bích
+#mối nối bằng mặt bích
+@Lĩnh vực: cơ khí & công trình
+#mối ghép bằng mặt bích
+@Chuyên ngành kỹ thuật
+#đầu nối bích
+#khớp bích
+#khớp nối bích
+#mối ghép bích
+@Lĩnh vực: hóa học & vật liệu
+#ghép nối bằng cánh
+@Lĩnh vực: điện tử & viễn thông
+#khối nối mặt bích
+@Lĩnh vực: xây dựng
+#liên kết bích
+#mối nối bằng bích
+#mối nối bằng mặt bích
+@Lĩnh vực: cơ khí & công trình
+#mối ghép bằng mặt bích

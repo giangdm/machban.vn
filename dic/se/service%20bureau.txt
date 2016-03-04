@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công ty dịch vụ
+#văn phòng dịch vụ
+@Chuyên ngành kỹ thuật
+#văn phòng phục vụ
+@Lĩnh vực: xây dựng
+#văn phòng dịch vụ

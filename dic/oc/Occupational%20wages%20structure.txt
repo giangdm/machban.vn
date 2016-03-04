@@ -1,0 +1,3 @@
+﻿@Occupational wages structure
+#(Econ) Cơ cấu lương theo nghề nghiệp.
+: Là việc phân hạng những mức lương trung bình trả cho các nhóm công nhân khác nhau được phân loại theo nghề nghiệp mà họ làm.

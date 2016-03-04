@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dấu vết nước thủy triều
+#giới hạn thủy triều
+@Lĩnh vực: toán & tin
+#dấu vết xước thủy triều
+@Lĩnh vực: hóa học & vật liệu
+#vết triều

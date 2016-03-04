@@ -1,0 +1,7 @@
+﻿@echo effect
+#(Tech) hiệu ứng dội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hiệu ứng dội
+@Lĩnh vực: điện lạnh
+#hiệu ứng tiếng vọng

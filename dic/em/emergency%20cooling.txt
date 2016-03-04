@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#làm lạnh cấp cứu
+#làm lạnh dự phòng
+#sự làm lạnh cấp cứu
+#sự làm lạnh dự trữ
+@Lĩnh vực: vật lý
+#sự làm nguội khẩn cấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#làm lạnh cấp cứu
+#làm lạnh dự phòng
+#sự làm lạnh cấp cứu
+#sự làm lạnh dự trữ
+@Lĩnh vực: vật lý
+#sự làm nguội khẩn cấp

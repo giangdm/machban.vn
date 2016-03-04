@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quản lý tài nguyên
+#sự quản lý nguồn
+@Lĩnh vực: xây dựng
+#sự quản lý tài nguyên

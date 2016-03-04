@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chỗ đã đầy ắp (thị trường chứng khoán)
+#hữu nhập vô xuất
+#người mua nhiều người bán ít
+#người mua quá nhiều
+#quá nhiều người mua

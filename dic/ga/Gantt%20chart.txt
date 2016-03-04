@@ -1,0 +1,8 @@
+﻿@Gantt chart
+#(Tech) biểu đồ Gantt
+@Chuyên ngành kinh tế
+#biểu đồ gantt
+@Chuyên ngành kỹ thuật
+#biểu đồ Gantt
+@Lĩnh vực: xây dựng
+#sơ đồ Grantt

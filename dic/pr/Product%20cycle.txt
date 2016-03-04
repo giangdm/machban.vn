@@ -1,0 +1,6 @@
+﻿@Product cycle
+#(Econ) Chu kỳ sản phẩm.
+: Cụm thuật ngữ này miêu tả hình thái về quá trình đi qua của các sản phẩm mới, sau đó trải qua giai đoạn của hoàn thiện và chuẩn hoá sản phẩm.
+@Chuyên ngành kinh tế
+#chu kỳ (sống) của sản phẩm
+#chu kỳ sản phẩm

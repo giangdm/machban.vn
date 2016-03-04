@@ -1,0 +1,6 @@
+﻿@Path independence
+#(Econ) Sự độc lập về đường tiến triển; Độc lập về đường đi.
+: Ở nơi diễn ra sự so sánh nhằm lựa chọn một số các giải pháp, sự lựa chọn này được gọi là Độc lập về đường đi khi giải pháp được lựa chọn độc lập với một trật tự để xem xét các giải pháp này.
+@Chuyên ngành kinh tế
+#tính độc lập của cách lựa chọn
+#tính độc lập của sự lựa chọn

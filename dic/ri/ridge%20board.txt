@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thanh rìa nóc mái
+#ván dọc ở nóc mái (để đỡ các nút ở xà mái nghiêng)

@@ -1,0 +1,4 @@
+﻿@compatible software
+#(Tech) nhu liệu tương thích
+@Chuyên ngành kinh tế
+#phần mềm tương thích

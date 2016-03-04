@@ -1,0 +1,3 @@
+﻿@Structure-conduct-performance framework
+#(Econ) Mô hình cơ cấu -thực thi -kết quả.
+: Là biện pháp phân loại và là khuôn khổ cho phân tích kinh tế công nghiệp. Phương pháp truyền thống là tìm ra các yếu tố nhân quả nối các khía cạnh của kinh tế thị trường như SỰ TẬP TRUNG và CÁC HÀNG RÀO CẢN NHẬP NGHÀNH với các yếu tố thực hiện kinh doanh -như QUẢNG CÁO và NGHIÊN CỨU VÀ TRIỂN KHAI - và kết quả hoạt động.

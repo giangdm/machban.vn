@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khả năng chịu tải an toàn
+#năng lực chịu tải an toàn

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ tốc độ (đếm vòng)
+@Lĩnh vực: cơ khí & công trình
+#đồng hồ đo vòng quay
+#thiết bị chỉ báo số vòng quay

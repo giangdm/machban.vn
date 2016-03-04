@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sức cản đứt
+#sức chống đứt
+@Lĩnh vực: xây dựng
+#cường độ phá hoại
+@Lĩnh vực: hóa học & vật liệu
+#độ bền chống đứt gãy

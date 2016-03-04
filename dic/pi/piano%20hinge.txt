@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bản lề
+#khớp bản lề
+@Lĩnh vực: xây dựng
+#bản lề ngang
+#khớp kiểu piano

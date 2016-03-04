@@ -1,0 +1,5 @@
+﻿@current resonance
+#(Tech) cộng hưởng cường độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự cộng hưởng dòng điện

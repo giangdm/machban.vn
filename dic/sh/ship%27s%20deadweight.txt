@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tổng trọng tải của tàu
+#trọng tải toàn phần của tàu

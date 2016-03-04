@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ phận chỉ dấu hiệu
+@Lĩnh vực: xây dựng
+#thiết bị chỉ dẫn bằng tín hiệu (ánh sáng)

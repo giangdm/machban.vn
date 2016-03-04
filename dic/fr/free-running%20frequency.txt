@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tần chạy tự do
+@Lĩnh vực: điện tử & viễn thông
+#tần số chạy tự do

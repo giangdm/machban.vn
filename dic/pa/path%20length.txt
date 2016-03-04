@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#chiều dài quãng đường
+#độ dài đường đi
+#độ dài quãng đường
+@Lĩnh vực: toán & tin
+#độ dài đường dẫn
+@Lĩnh vực: điện lạnh
+#khoảng bay

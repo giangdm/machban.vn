@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bản quốc
+#nước quốc tịch (của tàu bè)
+#nước sở tại
+@Chuyên ngành kỹ thuật
+#nước gốc

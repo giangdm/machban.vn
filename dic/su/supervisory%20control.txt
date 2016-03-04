@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều khiển giám sát
+#điều khiển từ xa
+#giám sát
+@Lĩnh vực: điện lạnh
+#điều khiển giám sát
+#giám sát từ xa
+@Lĩnh vực: cơ khí & công trình
+#sự kiểm tra giám sát

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lĩnh vực cấp cao
+@Lĩnh vực: toán & tin
+#tên miền cao nhất
+#tên miền mức đỉnh
+#vùng mức cao nhất

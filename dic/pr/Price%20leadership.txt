@@ -1,0 +1,8 @@
+﻿@Price leadership
+#(Econ) Sự dẫn giá.
+: Tình huống trong một nghành mà một hãng có sáng kiến tạo ra các thay đổi về giá và các hãng khác sau đó làm theo.
+@Chuyên ngành kinh tế
+#chủ đạo giá cả (của công ty lớn dẫn đầu trong thị trường)
+#lãnh đạo giá
+#sự chủ đạo giá cả (của công ty lớn dẫn đầu trong thị trường)
+#sự dẫn đầu giá cả

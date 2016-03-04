@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thuật tóan mật hóa dữ liệu quốc tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thuật toán mã hóa dữ liệu quốc tế

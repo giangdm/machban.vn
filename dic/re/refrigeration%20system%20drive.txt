@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều khiển hoạt động hệ (thống) lạnh
+#truyền động hệ (thống) lạnh
+#truyền động hệ thống lạnh

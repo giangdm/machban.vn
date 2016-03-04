@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu diễn thập lục phân
+#ký pháp thập lục phân

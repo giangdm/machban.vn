@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#đường cong nhiệt độ
+@Lĩnh vực: y học
+#đường nhiệt độ

@@ -1,0 +1,12 @@
+﻿@fail-safe system
+#(Tech) hệ thống phòng hư
+@Chuyên ngành kỹ thuật
+#hệ thống an toàn
+@Lĩnh vực: toán & tin
+#hệ gần tự an toàn
+#hệ thống tự an toàn
+@Chuyên ngành kỹ thuật
+#hệ thống an toàn
+@Lĩnh vực: toán & tin
+#hệ gần tự an toàn
+#hệ thống tự an toàn

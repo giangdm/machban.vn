@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biên độ sai số
+#khoảng cách sai số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biên độ sai số
+#khoảng cách sai số

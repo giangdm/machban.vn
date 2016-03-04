@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phòng họp
+@Lĩnh vực: xây dựng
+#buồng họp các hội đồng

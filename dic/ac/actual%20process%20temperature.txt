@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt độ quá trình thực
+@Lĩnh vực: điện lạnh
+#nhiệt quá trình thực

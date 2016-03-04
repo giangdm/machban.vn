@@ -1,0 +1,2 @@
+﻿@dc (direct-current) voltage
+#(Tech) điện áp của dòng điện một chiều

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản cho vay
+#tài khoản ứng trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trương mục cho mượn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trương mục cho mượn

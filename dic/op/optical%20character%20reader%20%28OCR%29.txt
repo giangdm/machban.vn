@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đọc ký tự quang
+@Lĩnh vực: toán & tin
+#máy đọc ký tự quang học (OCR)

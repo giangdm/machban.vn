@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến dạng do uốn dọc
+@Lĩnh vực: xây dựng
+#sự biến dạng uốn dọc

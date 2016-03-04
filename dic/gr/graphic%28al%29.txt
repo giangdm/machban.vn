@@ -1,0 +1,2 @@
+﻿@graphic(al)
+#(thuộc) đồ thị có vẽ hình

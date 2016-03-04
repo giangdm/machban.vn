@@ -1,0 +1,6 @@
+﻿@foundation course
+*danh từ
+#khoá đào tạo cơ bản về lãnh vực nào đó
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#lớp đệm móng

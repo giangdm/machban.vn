@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#sự chồng
+#sự đánh đống
+#sự xếp
+@Chuyên ngành kỹ thuật
+#sự tạo ngăn xếp
+#sự xếp chồng
+#sự xếp đống
+#xếp chồng
+@Lĩnh vực: xây dựng
+#sự đánh đống

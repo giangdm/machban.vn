@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đài trạm cuối Trái đất
+@Chuyên ngành kỹ thuật
+#cọc nối đất
+#đầu đất
+#đầu kẹp nối đất
+#đầu nối đất
+#đầu nối tiếp đất
+#đầu nối vỏ máy
+#sự nối đất
+#sự tiếp đất
+@Lĩnh vực: điện
+#cực tiếp đất
+@Lĩnh vực: xây dựng
+#đầu kẹp dây tiếp đất

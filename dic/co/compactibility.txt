@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#độ chắc sít
+#độ chặt
+@Lĩnh vực: xây dựng
+#độ đầm chặt
+#khả năng dầm chặt
+#tính đầm chặt
+#tính đầm được
+@Lĩnh vực: điện lạnh
+#tính nén dược

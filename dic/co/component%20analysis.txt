@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phân tích thành phần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân tích nhân tố

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ hay thay đổi
+#bộ nhớ khả biến

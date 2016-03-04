@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sự ngưng tụ phân đoạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ngưng một phần
+#ngưng tụ tinh cất
+#sự ngưng một phần
+#sự ngưng tụ tinh cất
+@Lĩnh vực: hóa học & vật liệu
+#ngưng phân đoạn

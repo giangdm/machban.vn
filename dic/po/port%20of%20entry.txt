@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#cảng cửa khẩu
+#cảng hải quan
+#cảng nhập
+#cảng vào
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cửa khẩu

@@ -1,0 +1,5 @@
+﻿@current meter
+#(Tech) máy đo dòng điện
+@Chuyên ngành kỹ thuật
+#lưu tốc kế
+#máy đo dòng chảy

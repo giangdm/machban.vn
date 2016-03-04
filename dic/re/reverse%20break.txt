@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#ngắt đảo chiều
+@Lĩnh vực: toán & tin
+#ngắt đảo ngược
+@Lĩnh vực: điện tử & viễn thông
+#ngắt ngược

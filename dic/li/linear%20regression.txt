@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#sự hồi quy tuyến tính
+@Lĩnh vực: toán & tin
+#hồi quy tuyến tính
+@Lĩnh vực: điện tử & viễn thông
+#sự suy thoái tuyến tính
+@Chuyên ngành kỹ thuật
+#sự hồi quy tuyến tính
+@Lĩnh vực: toán & tin
+#hồi quy tuyến tính
+@Lĩnh vực: điện tử & viễn thông
+#sự suy thoái tuyến tính

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#độ thâm nhập của không khí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ lọt không khí
+#tính lọt không khí
+#tính thấm khí
+@Lĩnh vực: điện lạnh
+#độ thấm khí
+#tính thẩm thấu không khí

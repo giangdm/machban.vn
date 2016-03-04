@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng (từ) trễ
+#vòng trễ
+@Lĩnh vực: điện lạnh
+#chu trình trễ
+@Lĩnh vực: điện
+#con đỉa từ trễ
+#vòng B/H
+#vòng từ trễ

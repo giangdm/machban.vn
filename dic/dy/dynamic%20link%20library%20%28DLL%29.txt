@@ -1,0 +1,4 @@
+﻿@dynamic link library (DLL)
+#(Tech) thư viện liên kết năng động
+@Chuyên ngành kỹ thuật
+#thư viện liên kết động

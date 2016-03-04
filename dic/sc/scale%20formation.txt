@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#đóng cặn
+#sự đóng cặn
+@Lĩnh vực: điện lạnh
+#hình thành cặn
+#sự hình thành cặn
+@Lĩnh vực: hóa học & vật liệu
+#hình thành lớp cặn
+@Lĩnh vực: xây dựng
+#sự tạo lớp muội than

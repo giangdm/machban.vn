@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp lò bằng
+@Lĩnh vực: hóa học & vật liệu
+#phương pháp Simens-Martin

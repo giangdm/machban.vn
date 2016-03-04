@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ truyền động bộ (STM)
+@Lĩnh vực: điện tử & viễn thông
+#phương thức chuyển tải đồng bộ

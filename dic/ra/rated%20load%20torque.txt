@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mômen định mức
+@Lĩnh vực: điện
+#mômen định mức [danh định]

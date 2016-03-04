@@ -1,0 +1,6 @@
+﻿@Interval estimation
+#(Econ) Ước lượng khoảng.
+: Ước lượng một khoảng trong đó giá trị của THAM SỐ thực tế có khả năng rơi vào.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự ước lượng khoảng

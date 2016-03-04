@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lò làm khô
+#lò nướng khô
+#lò sấy
+#lò sấy khô
+#lò xử lý nhiệt
+#máy sấy
+#phòng sấy
+@Lĩnh vực: ô tô
+#lò sấy thân xe

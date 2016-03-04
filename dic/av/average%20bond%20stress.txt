@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ứng suất dính bám trung bình
+#ứng suất dính trung bình

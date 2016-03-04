@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ngắt máy nén
+@Lĩnh vực: điện lạnh
+#dừng máy nén

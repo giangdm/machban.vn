@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cường độ dòng ban đầu
+@Lĩnh vực: điện
+#dòng điện ban đầu

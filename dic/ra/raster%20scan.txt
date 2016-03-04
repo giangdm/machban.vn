@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự quét dòng
+#sự quét mành
+@Lĩnh vực: toán & tin
+#quét mành
+#sự quét theo đường tia

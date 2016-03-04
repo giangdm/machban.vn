@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ren hình thang
+@Lĩnh vực: cơ khí & công trình
+#ren Acme
+#ren hình dạng

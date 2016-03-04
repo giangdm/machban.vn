@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#máy nghiền
+#máy xay
+@Chuyên ngành kỹ thuật
+#máy nghiền
+@Lĩnh vực: xây dựng
+#máy đập vỡ
+#máy nén mẫu thử bêtông

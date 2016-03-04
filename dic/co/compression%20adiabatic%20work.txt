@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công nén đẳng entropy
+#công nén đoạn nhiệt
+#công nén đoạn nhiệt (đẳng entropy)

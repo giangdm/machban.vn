@@ -1,0 +1,6 @@
+﻿@Paper money
+#(Econ) Tiền giấy.
+: Thuật ngữ khái quát chỉ tiền ở dạng giấy bạc ngân hàng.
+@Chuyên ngành kinh tế
+#giấy bạc ngân hàng
+#tiền giấy

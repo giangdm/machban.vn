@@ -1,0 +1,3 @@
+﻿@Resale price mainternance
+#(Econ) Việc duy trì giá bán lẻ.
+: Là thoả thuận theo đó các nhà sản xuất xác định một cách độc lập hoặc tập thể những mức giá tối thiểu mà các sản phẩm của họ có thể được bán lại tại các nhà bán buôn và bán lẻ.

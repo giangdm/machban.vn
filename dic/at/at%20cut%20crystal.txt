@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thạch anh cắt
+@Lĩnh vực: xây dựng
+#thạch anh cắt góc
+@Lĩnh vực: điện
+#tinh thể thạch anh cắt góc

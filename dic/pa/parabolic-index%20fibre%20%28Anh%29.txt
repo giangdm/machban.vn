@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sợi chỉ số parabon
+#sợi chiết suất parabon
+#sợi quặng chiết suất dạng parabon

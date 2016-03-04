@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#kích thước giới hạn dưới
+#kích thước nhỏ nhất
+#kích thước tối thiểu

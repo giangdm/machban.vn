@@ -1,0 +1,2 @@
+﻿@erasable programmable ROM (EPROM)
+#(Tech) bộ nhớ thảo chương và xóa được

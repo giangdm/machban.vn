@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ hiệu chỉnh
+#dụng cụ kiểm tra
+#thiết bị thử nghiệm
+@Lĩnh vực: đo lường & điều khiển
+#áp kế kiểm tra
+#áp kế thử
+#calip thử
+#máy đo thử

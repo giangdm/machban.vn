@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#độ lớn của xung
+#độ mập của xung
+#độ nở của xung

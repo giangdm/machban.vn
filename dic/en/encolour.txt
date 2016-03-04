@@ -1,0 +1,3 @@
+﻿@encolour
+*ngoại động từ
+#tô màu

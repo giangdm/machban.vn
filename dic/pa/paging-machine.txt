@@ -1,0 +1,3 @@
+﻿@paging-machine
+*danh từ
+#máy đánh số trang

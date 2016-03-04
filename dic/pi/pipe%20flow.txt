@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy qua ống dẫn
+@Lĩnh vực: vật lý
+#dòng chảy theo đường ống
+@Lĩnh vực: xây dựng
+#dòng chảy trong ống
+@Lĩnh vực: điện lạnh
+#dòng ống

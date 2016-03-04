@@ -1,0 +1,3 @@
+﻿@string orchestra
+*danh từ
+#ban nhạc dây, dàn nhạc dây

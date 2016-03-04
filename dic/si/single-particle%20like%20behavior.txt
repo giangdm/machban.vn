@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dáng điệu tựa hạt đơn
+#dáng điệu tựa một hạt
+#hành vi tựa hạt đơn
+#hành vi tựa một hạt

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thang độ cao
+@Lĩnh vực: xây dựng
+#tỷ lệ đứng
+#tỷ lệ trên trục tung
+@Lĩnh vực: cơ khí & công trình
+#tỷ lệ theo chiều đứng

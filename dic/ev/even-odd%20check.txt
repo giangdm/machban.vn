@@ -1,0 +1,2 @@
+﻿@even-odd check
+#(Tech) kiểm chẵn lẻ

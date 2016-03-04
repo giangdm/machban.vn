@@ -1,0 +1,5 @@
+﻿@Inflation tax
+#(Econ) Thuế lạm phát.
+: Tình huống khi chính phủ thực hiện chính sách tăng lạm phát thay cho việc tăng thuế để thanh toán cho các khoản chi tiêu của mình.
+@Chuyên ngành kinh tế
+#thuế lạm phát

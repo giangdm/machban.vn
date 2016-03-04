@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phân công
+#phần công việc được giao
+#sự phân phối công tác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phân công công việc

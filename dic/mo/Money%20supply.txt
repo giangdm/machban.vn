@@ -1,0 +1,9 @@
+﻿@Money supply
+#(Econ) Cung tiền.
+: Là số lượng tiền trong một nền kinh tế, có nhiều định nghĩa khác nhau liên quan đến các tài sản có khả năng chuyển hoán mà được coi là tiền tệ.
+@Chuyên ngành kinh tế
+#cung tiền tệ
+#lượng cung tiền tệ
+#mức cung tiền tệ
+#phát hành tiên tệ
+#phát hành tiền tệ

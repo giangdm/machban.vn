@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cổ phần không tham dự chia lãi
+#cổ phiếu không dự phần
+#cổ phiếu không dư phần (chưa lợi nhuận)

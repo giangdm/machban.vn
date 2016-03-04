@@ -1,0 +1,2 @@
+﻿@alphanumeric display
+#(Tech) hiển thị bằng chữ-số

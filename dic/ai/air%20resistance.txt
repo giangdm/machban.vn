@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lực cản không khí
+@Lĩnh vực: vật lý
+#lực cản của không khí
+@Lĩnh vực: xây dựng
+#tính chịu không khí

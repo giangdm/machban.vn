@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lát ván thành bên
+#lớp ốp tường
+@Lĩnh vực: xây dựng
+#lớp (lát, bọc) tường
+#lớp [lát, bọc] tường
+#lớp lót tường
+#lớp phủ tường

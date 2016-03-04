@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giá trị danh nghĩa
+#số tiền danh nghĩa
+#số tiền ghi trên phiếu

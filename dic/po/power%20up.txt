@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự cấp điện
+@Lĩnh vực: toán & tin
+#bật máy, bật điện
+@Lĩnh vực: điện
+#cấp nguồn bật máy
+#sự cấp nguồn

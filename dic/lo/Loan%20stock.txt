@@ -1,0 +1,8 @@
+﻿@Loan stock
+#(Econ) Số vốn vay.
+: Xem DEBENTURES, FINANCIAL CAPITAL
+@Chuyên ngành kinh tế
+#chứng khoán cho vay
+#chứng khoán cho vay (không có bảo đảm)
+#cổ phiếu cho vay
+#vốn vay

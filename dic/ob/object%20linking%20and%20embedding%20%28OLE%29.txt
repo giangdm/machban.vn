@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#nhúng và liên kết vật thể
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#Nhúng và Liên kết Đối tượng

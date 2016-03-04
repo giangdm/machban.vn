@@ -1,0 +1,5 @@
+﻿@Management buyout
+#(Econ) Thu mua bằng nghiệp vụ quản lý.
+: Là việc ban quản lý thu mua các tài sản của một công ty.
+@Chuyên ngành kinh tế
+#mua đứt để quản lý

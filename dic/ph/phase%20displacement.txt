@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dịch chuyển pha
+#độ dịch pha
+#độ lệch pha
+#sự dịch pha
+@Lĩnh vực: hóa học & vật liệu
+#dịch chuyển pha
+@Lĩnh vực: điện
+#sai số góc
+@Lĩnh vực: cơ khí & công trình
+#sự chuyển dịch pha
+@Lĩnh vực: toán & tin
+#sự dịch chuyển pha

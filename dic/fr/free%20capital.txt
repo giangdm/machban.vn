@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#vốn sẵn có
+#vốn tiền mặt
+#vốn tự do
+#vốn tự do (dạng tiền)

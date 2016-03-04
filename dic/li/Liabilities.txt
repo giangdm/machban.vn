@@ -1,0 +1,20 @@
+﻿@Liabilities
+#(Econ) Nợ.
+: Mọi trái quyền, thực tại hay tương lai, đối với một cá nhân hay tổ chức.
+@Chuyên ngành kinh tế
+#công nợ
+#nợ
+#nợ phải trả
+#tài sản nợ
+@Chuyên ngành kỹ thuật
+#sự mắc nợ
+#tài sản
+#thụ động
+@Lĩnh vực: xây dựng
+#khoản nợ
+@Chuyên ngành kỹ thuật
+#sự mắc nợ
+#tài sản
+#thụ động
+@Lĩnh vực: xây dựng
+#khoản nợ

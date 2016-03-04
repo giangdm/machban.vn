@@ -1,0 +1,8 @@
+﻿@decision tree
+#(Tech) cấu trúc cây để quyết định
+@Chuyên ngành kinh tế
+#cây quyết định
+@Chuyên ngành kỹ thuật
+#biểu đồ quyết định dạng cây
+@Lĩnh vực: toán & tin
+#cây quyết định

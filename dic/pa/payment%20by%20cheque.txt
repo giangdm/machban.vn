@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự thanh toán bằng chi phiếu
+#sự trả bằng séc
+#thanh toán bằng chi phiếu
+#trả bằng sec

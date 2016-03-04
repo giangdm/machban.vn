@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng dữ liệu vào
+#dòng nhập
+#hàng công việc
+#luồng nhập
+#luồng vào
+@Lĩnh vực: toán & tin
+#chuỗi công việc
+@Lĩnh vực: điện lạnh
+#dòng hơi vào

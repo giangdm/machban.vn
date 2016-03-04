@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức phân giải địa chỉ ngược
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Giao thức phân giải địa chỉ nghịch - quá trình ngược với phân giải địa chỉ ARP

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kênh ghép
+@Lĩnh vực: xây dựng
+#thép chữ C ghép

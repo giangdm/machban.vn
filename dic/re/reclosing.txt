@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự đóng lại
+@Lĩnh vực: điện lạnh
+#sự đóng lại (tự động)

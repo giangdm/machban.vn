@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công tơ điện phân
+@Lĩnh vực: cơ khí & công trình
+#máy đếm điện phân
+@Lĩnh vực: điện
+#máy đo điện phân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công tơ điện phân
+@Lĩnh vực: cơ khí & công trình
+#máy đếm điện phân
+@Lĩnh vực: điện
+#máy đo điện phân

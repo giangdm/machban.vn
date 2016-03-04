@@ -1,0 +1,32 @@
+﻿@built-in /'bilt'in/
+*tính từ
+#gắn liền (vào máy chính, vào tường...)
+@Chuyên ngành kỹ thuật
+#bên trong
+#chèn
+#có sẵn
+#đưa vào
+#được cài đặt sẵn
+#được định nghĩa trước
+#được gắn vào
+#gắn liền
+#hợp nhất
+#lắp (bên) trong
+#lắp vào
+#lắp vào trong
+#tích hợp
+@Lĩnh vực: xây dựng
+#bao lấy
+#gắn liền (vào tường)
+#xây thêm vào
+#xây vào
+@Lĩnh vực: toán & tin
+#cài đặt sẵn
+#đã lắp vào
+#định nghĩa trước
+#đưa cài sẵn
+#dựng sẵn
+#được lập sẵn
+@Lĩnh vực: cơ khí & công trình
+#được ghép liền
+#được lắp cùng

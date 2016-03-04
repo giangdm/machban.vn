@@ -1,0 +1,6 @@
+﻿@Call money
+#(Econ) Khoản vay không kỳ hạn.
+: Các khoản tiền mà các NGÂN HÀNG CHIẾT KHẤU vay từ các ngân hàng thanh toán bù trừ và ngân hàng khác ở London và chúng đựơc sử dụng để giữ các danh mục đầu tư tài sản. Rất nhiều khoản tiền gửi của các đồng tiền Châu Âu cũng ở dạng này.
+@Chuyên ngành kinh tế
+#khoản vay không kỳ hạn
+#tiền mua quyền chọn

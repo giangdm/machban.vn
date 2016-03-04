@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thông tin (đầu) vào
+#thông tin ban đầu
+@Lĩnh vực: toán & tin
+#thông tin cơ sở
+#thông tin nguồn

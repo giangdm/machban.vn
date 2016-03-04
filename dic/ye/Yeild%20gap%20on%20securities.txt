@@ -1,0 +1,3 @@
+﻿@Yeild gap on securities
+#(Econ) Chênh lệch lợi tức chứng khoán.
+: Xem

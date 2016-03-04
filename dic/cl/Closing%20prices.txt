@@ -1,0 +1,3 @@
+﻿@Closing prices
+#(Econ) Giá lúc đóng cửa.
+: Được sử dụng phổ biến cùng với THỊ TRƯỜNG CHỨNG KHOÁN để chỉ giá CHỨNG KHOÁN và CỔ PHIẾU … tại thời điểm kết thúc buôn bán của một ngày.

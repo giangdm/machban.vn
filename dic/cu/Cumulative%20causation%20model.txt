@@ -1,0 +1,3 @@
+﻿@Cumulative causation model
+#(Econ) Mô hình nhân quả tích luỹ
+: Một phương pháp phân tích tăng trưởng kinh tế khu vực do G.MYRDAL đưa ra. Mô hình này cho rằng các lực lượng thị trường có khuynh hướng làm tăng bất bình đẳng về kinh tế giữa các khu vực của một nền kinh tế. Nó cũng cho rằng nếu một khu vực có tỷ lệ tăng trưởng cao hơn các khu vực khác sẽ khiến cho các yếu tố sản xuất trong khu vực tăng tưởng chậm chảy sang khu vực tăng trưởng nhanh.

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tỷ lệ giữa mại vụ một tổ chức kinh doanh và số vốn được dùng
+#vòng quay vốn

@@ -1,0 +1,31 @@
+﻿@Median
+#(Econ) Trung vị.
+: Một số đo xu hướng tập trung.
+<!-- more -->
+@median /'mi:djən/
+*tính từ
+#ở giữa, qua điểm giữa
+=the median point: điểm giữa
+*danh từ
+#(y học) động mạch giữa dây thần kinh
+#(toán học) trung tuyến
+@Chuyên ngành kinh tế
+#số giữa
+#số trung bình (thống kê)
+#trung vị
+@Chuyên ngành kỹ thuật
+#dải cách ly
+#đường trung bình
+#số giữa
+#số trung bình
+#trung bình
+#trung tâm
+@Lĩnh vực: điện lạnh
+#số trung vị
+@Lĩnh vực: y học
+#thuộc điểm giữa
+<!-- more -->
+@median
+#(hình học) trung tuyến; (thống kê) međian; trung bình; trung tâm
+#m. of a trapezoid đường trung bình của hình thang
+#m. of a truangle trung tuyến của tam giác

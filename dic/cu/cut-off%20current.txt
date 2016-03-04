@@ -1,0 +1,5 @@
+﻿@cut-off current
+#(Tech) dòng cắt/tắt, dòng giới hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dòng điện cắt (máy)

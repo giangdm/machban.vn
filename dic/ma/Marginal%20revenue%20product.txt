@@ -1,0 +1,6 @@
+﻿@Marginal revenue product
+#(Econ) Sản phẩm doanh thu cận biên.
+: Là sản phẩm vật chất biên nhân với doanh thu biên từ việc bán thêm một đơn vị sản phẩm nhờ việc sử dụng thêm một đơn vị đầu vào.
+@Chuyên ngành kinh tế
+#sản phẩm doanh thu biên
+#sản phẩm thu nhập biên tế

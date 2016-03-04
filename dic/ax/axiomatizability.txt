@@ -1,0 +1,6 @@
+﻿@axiomatizability
+#tính tiên đề hoá
+#finite a. tính tiên đề hoá hữu hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính tiên đề hóa

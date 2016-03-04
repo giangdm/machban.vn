@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#thư bảo đảm
+#thư đảm bảo, thư khai giá
+#thư khai giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thư bảo đảm
+@Lĩnh vực: xây dựng
+#thư đảm bảo

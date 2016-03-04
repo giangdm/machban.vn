@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#phép toán hai ngôi
+#phép toán nhị phân
+@Lĩnh vực: toán & tin
+#phép toán nhị nguyên
+@Lĩnh vực: xây dựng
+#vận hành nhị phân

@@ -1,0 +1,2 @@
+﻿@Factor substitution effect
+#(Econ) Tác động thay thế yếu tố sản xuất.

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực lỗ rỗng
+#áp lực nước kẽ rỗng
+@Lĩnh vực: xây dựng
+#áp lực bên trong lỗ rỗng
+#khe rỗng
+@Lĩnh vực: giao thông & vận tải
+#áp lực nước lỗ rỗng
+@Lĩnh vực: hóa học & vật liệu
+#áp suất nước lỗ hổng

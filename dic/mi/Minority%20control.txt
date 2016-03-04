@@ -1,0 +1,5 @@
+﻿@Minority control
+#(Econ) Quyền kiểm soát tối thiểu.
+: Là khả nưng của một cá nhân hoặc một tổ chức nắm được quyền kiểm soát một công ty, mặc dù sở hữu ít hơn 51% số cổ phiếu thông thường được quyền bỏ phiếu của công ty.
+@Chuyên ngành kinh tế
+#sự kiểm soát của thiểu số

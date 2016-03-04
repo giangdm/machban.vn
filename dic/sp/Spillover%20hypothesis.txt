@@ -1,0 +1,3 @@
+﻿@Spillover hypothesis
+#(Econ) Giả thuyết về hiệu ứng lan toả.
+: Giả thuyết cho rằng các khoản thanh toán lương quan trọng sẽ tạo ra một hình mẫu cho các khoản thanh toán sau đó noi theo, hoặc chí ít có ảnh hưởng đến chúng.

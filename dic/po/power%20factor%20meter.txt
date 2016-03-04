@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo hệ số công suất
+@Lĩnh vực: điện lạnh
+#cosphi kế
+@Lĩnh vực: điện
+#coxphi kế

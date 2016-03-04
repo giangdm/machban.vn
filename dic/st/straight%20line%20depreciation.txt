@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khấu hao theo đường thẳng
+#khấu hao tuyến tính

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất khí quyển tiêu chuẩn
+@Lĩnh vực: cơ khí & công trình
+#áp lực khí quyển tiêu chuẩn
+@Lĩnh vực: xây dựng
+#áp lực khí trời tiêu chuẩn
+#áp lực không khí tiêu chuẩn
+@Lĩnh vực: điện lạnh
+#áp suất atmosphe (khí quyển) tiêu chuẩn

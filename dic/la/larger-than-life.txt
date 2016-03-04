@@ -1,0 +1,8 @@
+﻿@larger-than-life
+#thành ngữ large
+#larger-than-life
+#huênh hoang, khoác lác
+=a larger-than-life driver:anh tài xế khoác lác
+#thành ngữ large
+=larger-than-life:huênh hoang, khoác lác
+=a larger-than-life driver:anh tài xế khoác lác

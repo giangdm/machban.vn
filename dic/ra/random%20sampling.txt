@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#lấy mẫu tùy cơ may rủi
+#sự lấy mẫu ngẫu nhiên
+@Chuyên ngành kỹ thuật
+#lấy mẫu ngẫu nhiên
+#lấy mẫu tùy ý
+#sự kiểm tra vết
+#sự lấy mẫu ngẫu nhiên
+@Lĩnh vực: điện
+#cách lấy mẫu tùy ý

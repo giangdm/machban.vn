@@ -1,0 +1,6 @@
+﻿@Labour market
+#(Econ) Thị trường lao động.
+: Một thị trường lao động bao gồm các hoạt động thuê và cung ứng lao động nhất định để thực hiện những công việc nhất định, và là quá trình xác định sẽ trả bao nhiêu cho người làm việc.
+@Chuyên ngành kinh tế
+#thị trường lao động
+#thị trường sức lao động

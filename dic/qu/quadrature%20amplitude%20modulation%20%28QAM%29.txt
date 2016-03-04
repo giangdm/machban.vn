@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều biến biên độ vuông góc
+@Lĩnh vực: toán & tin
+#sự điều chế biên độ vuông góc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#điều chế biên độ cầu phương

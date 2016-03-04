@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ngưỡng phân giải
+@Lĩnh vực: toán & tin
+#ngưỡng giải

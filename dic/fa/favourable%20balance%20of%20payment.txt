@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cán cân thanh toán dư thừa
+#thuận sai mậu dịch
+#xuất siêu

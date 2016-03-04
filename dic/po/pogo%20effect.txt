@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu ứng pogo (tàu vũ trụ)
+@Lĩnh vực: điện tử & viễn thông
+#hiệu ứng đường kinh tuyến (dao động kinh tuyến)

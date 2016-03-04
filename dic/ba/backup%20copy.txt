@@ -1,0 +1,9 @@
+﻿@backup copy
+#(Tech) bản sao dự phòng
+@Chuyên ngành kinh tế
+#bản lưu
+#bản sao dự phòng
+@Chuyên ngành kỹ thuật
+#bản sao dự trữ
+@Lĩnh vực: toán & tin
+#bản sao dự phòng

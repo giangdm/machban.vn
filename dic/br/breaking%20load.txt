@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#lượng chở nhất định
+@Chuyên ngành kỹ thuật
+#tải trọng phá hoại
+#tải trọng phá hủy
+@Lĩnh vực: điện lạnh
+#tải gãy vỡ
+@Lĩnh vực: hóa học & vật liệu
+#tải phá hỏng

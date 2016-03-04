@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cuộn dây bước ngắn
+#dây quấn bước ngắn
+@Lĩnh vực: điện
+#kiểu quấn bước ngắn

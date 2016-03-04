@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kích thước đã cắt biên (giấy)
+#kích thước sau xén
+@Lĩnh vực: toán & tin
+#kích thước sau khi xén

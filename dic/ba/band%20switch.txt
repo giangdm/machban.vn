@@ -1,0 +1,10 @@
+﻿@band switch
+#(Tech) cái chuyển băng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ chọn dải
+#chuyển mạch chọn dải
+@Lĩnh vực: xây dựng
+#nút đổi băng tần
+@Lĩnh vực: điện
+#sự chuyển đổi băng tần

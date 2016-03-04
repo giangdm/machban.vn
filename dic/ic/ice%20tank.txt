@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thùng tạo đá
+@Chuyên ngành kỹ thuật
+#tăng chứa đá
+#thùng chứa (nước) đá
+#thùng máy làm (nước) đá
+#thùng máy làm đá

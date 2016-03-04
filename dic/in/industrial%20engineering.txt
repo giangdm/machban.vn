@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#công trình (học) quản lý công nghiệp
+#tổ chức công việc theo khoa học
+@Chuyên ngành kỹ thuật
+#kỹ thuật công nghiệp

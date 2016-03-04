@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#số tấn trọng lượng không tải
+#trọng tải dãn nước ròng
+#trọng tải giãn nước ròng

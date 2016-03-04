@@ -1,0 +1,8 @@
+﻿@error diagnostics
+#(Tech) chẩn đoán sai lầm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ chẩn đoán lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ chẩn đoán lỗi

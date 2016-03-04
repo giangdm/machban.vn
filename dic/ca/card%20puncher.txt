@@ -1,0 +1,7 @@
+﻿@card puncher
+#(Tech) máy xuyên phiếu
+@Chuyên ngành kỹ thuật
+#người đục phiếu
+@Lĩnh vực: toán & tin
+#máy đục lỗ bìa
+#máy đục lỗ thẻ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm ủ
+@Lĩnh vực: điện lạnh
+#nhiệt độ 13
+@Lĩnh vực: cơ khí & công trình
+#nhiệt độ ủ

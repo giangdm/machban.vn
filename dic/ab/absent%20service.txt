@@ -1,0 +1,2 @@
+﻿@absent service
+#(Tech) dịch vụ (truyền đạt lúc) vắng mặt

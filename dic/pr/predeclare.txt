@@ -1,0 +1,3 @@
+﻿@predeclare
+*ngoại động từ
+#khai báo trước, công bố trước

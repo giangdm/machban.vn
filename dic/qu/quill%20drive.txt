@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điều khiển trục quay rỗng
+@Lĩnh vực: điện lạnh
+#truyền động trục rỗng

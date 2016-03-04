@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đạo hàm hướng cực đại
+#đạo hàm theo hướng cực đại

@@ -1,0 +1,2 @@
+﻿@averaging rectifier
+#(Tech) bộ chỉnh lưu trung bình

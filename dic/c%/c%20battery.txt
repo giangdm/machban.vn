@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ nguồn lưới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#ắcqui C
+@Lĩnh vực: điện lạnh
+#bộ nguồn C

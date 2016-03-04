@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thời gian truyền đi về
+#thời gian truyền khứ hồi
+#thời gian truyền trọn vòng
+#thời gian truyền vòng quanh

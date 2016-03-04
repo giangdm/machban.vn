@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất
+#hộp đo áp lực
+#luồng áp lực (máy nén ba trục)
+@Lĩnh vực: xây dựng
+#đatsic áp suất

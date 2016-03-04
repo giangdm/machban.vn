@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#năng suất khử nước
+@Lĩnh vực: điện lạnh
+#năng suất hút nước

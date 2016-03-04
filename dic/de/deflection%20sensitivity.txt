@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ nhạy làm lệch
+@Lĩnh vực: điện tử & viễn thông
+#độ nhạy lái tia
+@Lĩnh vực: điện
+#độ nhạy lệch

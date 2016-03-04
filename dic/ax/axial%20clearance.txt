@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khe hở chiều trục
+#khe hở hướng trục
+@Lĩnh vực: điện lạnh
+#dung sai trục
+#khe hở trục

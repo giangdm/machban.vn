@@ -1,0 +1,2 @@
+﻿@bmp
+#Trong Microsoft Windows, đây là đuôi mở rộng để chỉ rõ tệp đó có chứa một đồ hình án xạ bit tương hợp với Windows

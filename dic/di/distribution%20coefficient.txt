@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hệ số phân phối
+@Chuyên ngành kỹ thuật
+#hệ số phân bố

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#diện tích rò nước
+#khu vực thấm
+@Lĩnh vực: xây dựng
+#diện tích thấm nước

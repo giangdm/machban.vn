@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đáy chứa môi chất lạnh
+#đáy dưới môi chất lạnh
+#hố lắng môi chất lạnh

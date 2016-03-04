@@ -1,0 +1,2 @@
+﻿@isoperimetric(al)
+#đẳng chu

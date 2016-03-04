@@ -1,0 +1,5 @@
+﻿@Mode of production
+#(Econ) Phương thức sản xuất.
+: Là cụm thuật ngữ mà C.Mác dùng để chỉ cơ sở kinh tế của xã hội, là yếu tố mà ông cho rằng có ảnh hưởng lớn nhất trong việc quyết định cơ cấu xã hội.
+@Chuyên ngành kinh tế
+#phương thức sản xuất

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#than để thấm cacbon
+@Lĩnh vực: điện
+#cacbon tẩm
+@Lĩnh vực: điện lạnh
+#cực than tẩm

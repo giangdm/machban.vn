@@ -1,0 +1,14 @@
+﻿@Black market
+#(Econ) Chợ đen
+: Bất cứ thị trường bất hợp pháp nào được thành lập trong một hoàn cảnh mà thường được chính phủ cố định giá ở mức tối đa hoặc tối thiểu.
+<!-- more -->
+@black market /'blæk,m:kit/
+*danh từ
+#chợ đen
+@Chuyên ngành kinh tế
+#chợ đen
+#Chợ đen (Thị trường hàng lậu và dịch vụ bất hợp pháp)
+#thị trường đen
+#thị trường song hành
+@Chuyên ngành kỹ thuật
+#chợ đen

@@ -1,0 +1,8 @@
+﻿@client area
+#(Tech) khu vực khách (người dùng đánh thông tin và chọn)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khu vực khách hàng
+#vùng khách hàng
+@Lĩnh vực: xây dựng
+#khu vực thân chủ

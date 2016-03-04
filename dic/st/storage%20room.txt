@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#buồng bảo quản
+#chỗ cất giữ ngoại hối
+#kho
+#nhà kho
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng bảo quản
+#phòng (buồng) bảo quản
+@Lĩnh vực: xây dựng
+#buồng kho
+@Lĩnh vực: thtp
+#phòng bảo quản

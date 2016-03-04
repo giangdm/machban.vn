@@ -1,0 +1,6 @@
+﻿@Average cost pricing
+#(Econ) Định giá theo chi phí bình quân.
+: Quy tắc định giá công nhận rằng các hãng cộng chi phí khả biến vào chi phí trung bình để trang trải tổng chi phí trung bình của nó.
+@Chuyên ngành kinh tế
+#nguyên tắc định giá chi phí trung bình
+#phương pháp định giá phí tổn bình quân

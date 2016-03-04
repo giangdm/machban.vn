@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tiền chi vặt
+#tiền hiện có
+#tiền hiện có (trong tay, trong quỹ)
+#tiền mặt tồn quỹ
+#tiền tồn quỹ
+#tồn quỹ

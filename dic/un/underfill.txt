@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự chưa đầy
+#sự chưa đủ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự nạp dưới mức

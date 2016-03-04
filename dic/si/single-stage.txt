@@ -1,0 +1,12 @@
+﻿@single-stage
+#một bước, một giai đoạn
+@Chuyên ngành kỹ thuật
+#một bậc
+#một tầng
+@Lĩnh vực: toán & tin
+#một bước
+#một giai đoạn
+@Lĩnh vực: xây dựng
+#một buồng
+@Lĩnh vực: cơ khí & công trình
+#một ngăn

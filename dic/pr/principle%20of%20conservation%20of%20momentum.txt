@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#định luật bảo toàn mômen
+@Lĩnh vực: vật lý
+#nguyên lý bảo toàn động lượng
+#nguyên lý bảo toàn xung lượng

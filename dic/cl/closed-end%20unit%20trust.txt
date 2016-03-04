@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#quỹ đầu tư có vốn cố định
+#quỹ đầu tư đóng
+#quỹ đầu tư khép kín

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#phím chức năng chương trình
+@Lĩnh vực: toán & tin
+#khóa mềm
+#khóa mềm (có thể thay đổi được)
+@Lĩnh vực: điện tử & viễn thông
+#khóa phần mềm
+@Lĩnh vực: điện
+#phím êm

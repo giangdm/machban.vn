@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bệnh dịch gia súc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#bệnh phải khai báo

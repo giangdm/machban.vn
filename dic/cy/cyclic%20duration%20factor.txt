@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số sử dụng
+@Lĩnh vực: điện lạnh
+#hệ số thời gian làm việc

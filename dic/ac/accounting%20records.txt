@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chứng từ kế toán
+#ghi chép kế toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hồ sơ kế toán

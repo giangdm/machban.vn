@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ giải đồng bộ
+#bộ tạo sin-cosin
+@Lĩnh vực: điện lạnh
+#bộ giải góc rôto
+#bộ xác định góc rôto

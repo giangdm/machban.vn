@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ngày (bắt đầu) chở đi
+#ngày bốc (hàng xuống tàu)
+#ngày bốc hàng

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#diện tích làm lạnh
+@Chuyên ngành kỹ thuật
+#bề mặt được làm lạnh

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phiếu lưu kho cảng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#biên lai hải quan
+@Lĩnh vực: giao thông & vận tải
+#phiếu lưu kho cảng

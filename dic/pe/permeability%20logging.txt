@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#carota độ thấm
+@Lĩnh vực: đo lường & điều khiển
+#log độ thấm (kỹ thuật đo lỗ khoan)

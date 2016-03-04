@@ -1,0 +1,2 @@
+﻿@guard-ring capacitor
+#(Tech) bộ điện dung vòng bảo vệ

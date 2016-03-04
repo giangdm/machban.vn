@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#các tọa độ vuông góc
+#các tọa trực chuẩn
+@Lĩnh vực: toán & tin
+#tọa độ pháp tuyến

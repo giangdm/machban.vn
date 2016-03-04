@@ -1,0 +1,6 @@
+﻿@Goodness of fit
+#(Econ) Mức độ phù hợp.
+: Một cụm thuật ngữ chung mô tả mức độ phù hợp số liệu của một phương trình kinh tế lượng đựơc ứơc lượng.
+@Chuyên ngành kinh tế
+#sự phù hợp (của mô hình hồi quy)
+#sự thích hợp của mô hình hồi quy

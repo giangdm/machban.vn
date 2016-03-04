@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#ký phát lố (chi phiếu)
+#rút quá số tiền gửi (ngân hàng)

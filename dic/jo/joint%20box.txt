@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#chỗ nối
+#hộp đấu dây
+#hộp đầu dây
+#hộp nối
+#mối nối
+#tủ nối cáp
+@Lĩnh vực: điện
+#hộp nhân phối
+#tủ phân phối

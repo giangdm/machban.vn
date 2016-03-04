@@ -1,0 +1,2 @@
+﻿@antimode
+#(Tech) đối mốt, đối kiểu, đối loại, mốt ngược

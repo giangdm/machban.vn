@@ -1,0 +1,2 @@
+﻿@gate electrode
+#(Tech) điện cực cổng (đèn tinh thể trường)

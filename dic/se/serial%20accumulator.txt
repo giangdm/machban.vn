@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ cộng nối tiếp
+#bộ cộng tuần tự
+#bộ tích lũy nối tiếp

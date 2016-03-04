@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chất lỏng
+#dòng dịch thể
+#luồng chất lưu
+#lưu lượng chất lỏng
+#lưu lượng dịch thể
+@Lĩnh vực: điện lạnh
+#dòng chất lưu
+@Chuyên ngành kỹ thuật
+#dòng chất lỏng
+#dòng dịch thể
+#luồng chất lưu
+#lưu lượng chất lỏng
+#lưu lượng dịch thể
+@Lĩnh vực: điện lạnh
+#dòng chất lưu

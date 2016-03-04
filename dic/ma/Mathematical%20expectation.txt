@@ -1,0 +1,7 @@
+﻿@Mathematical expectation
+#(Econ) Kỳ vọng toán học.
+: Xem EXPECTED VALUE.
+@Chuyên ngành kỹ thuật
+#kỳ vọng toán học
+@Lĩnh vực: toán & tin
+#kỳ vọng toán

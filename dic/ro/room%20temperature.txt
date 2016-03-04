@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ trong phòng
+@Lĩnh vực: điện lạnh
+#nhiệt độ (trong) phòng
+#nhiệt độ phòng
+@Lĩnh vực: điện tử & viễn thông
+#nhiệt độ buồng máy

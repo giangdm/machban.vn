@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chu trình hấp thụ máy lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#làm lạnh hấp thụ

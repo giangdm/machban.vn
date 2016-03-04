@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#điểm gốc
+#điểm khởi đầu (tọa độ)
+#điểm không
+@Chuyên ngành kỹ thuật
+#điểm không
+#không điểm
+@Lĩnh vực: cơ khí & công trình
+#điểm 0
+@Lĩnh vực: y học
+#điểm zêro

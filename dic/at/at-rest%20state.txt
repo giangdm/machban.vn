@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#trạng thái nghỉ
+@Lĩnh vực: xây dựng
+#trạng thái yên tĩnh

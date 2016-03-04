@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#màu cơ bản
+@Lĩnh vực: toán & tin
+#nền màu
+#phông màu

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng lặp
+@Lĩnh vực: điện
+#tải gián đoạn
+@Lĩnh vực: xây dựng
+#tải trọng gián đoạn

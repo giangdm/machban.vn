@@ -1,0 +1,2 @@
+﻿@multiprocessor
+#bộ đa xử lí

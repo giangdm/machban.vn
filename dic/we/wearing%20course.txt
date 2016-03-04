@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp cọ xát
+#lớp lăn bánh
+#lớp mòn (do xe đi lại trên mặt đường)
+#lớp phủ
+#lớp trên
+#sự lát mặt
+@Lĩnh vực: xây dựng
+#lớp (mài) mòn
+#lớp cọ xát (đường)
+#lớp phủ bề mặt đường
+#nền nhà (chống mòn)
+#sự ốp bề mặt

@@ -1,0 +1,9 @@
+﻿@safety lamp ['seifti'læmp]
+*danh từ
+# đèn an toàn (của thợ mỏ tránh những khí đốt nguy hiểm)
+@Chuyên ngành kỹ thuật
+#đèn an toàn
+@Lĩnh vực: điện
+#đèn bảo hiểm
+@Lĩnh vực: điện lạnh
+#đèn Davy

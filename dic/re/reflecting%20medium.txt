@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#môi trường khúc xạ
+@Lĩnh vực: điện tử & viễn thông
+#môi trường phản chiếu

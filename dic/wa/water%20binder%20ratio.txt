@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#tỉ lệ nước-chất dính kết
+@Lĩnh vực: xây dựng
+#tỷ số nước trên đất dính

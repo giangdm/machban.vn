@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#áp suất dư
+@Chuyên ngành kỹ thuật
+#áp suất áp kế
+#áp suất dư
+@Lĩnh vực: xây dựng
+#áp suất (theo) áp kế
+@Lĩnh vực: cơ khí & công trình
+#áp suất kế
+@Lĩnh vực: điện lạnh
+#áp suất quy chuẩn

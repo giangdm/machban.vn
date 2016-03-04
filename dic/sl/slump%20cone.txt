@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#nón lún (thử nghiệm bê tông tươi)
+#nón thử độ sụt
+#mất độ sụt (của hỗn hớp bêtông)

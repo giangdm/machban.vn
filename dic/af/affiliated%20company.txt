@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#công ty con
+#công ty liên doanh
+#công ty phụ thuộc

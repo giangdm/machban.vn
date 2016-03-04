@@ -1,0 +1,2 @@
+﻿@computer voice
+#(Tech) tiếng nói máy điện toán

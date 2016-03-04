@@ -1,0 +1,3 @@
+﻿@Endowment effect
+#(Econ) Hiệu ứng hàng đã có.
+: Các cá nhân đòi hỏi nhiều hơn để có thể lôi kéo họ từ bỏ một hàng hoá mà họ đã có so với số tiền mà họ sẵn lòng trả để có được hàng hóa tương tự.

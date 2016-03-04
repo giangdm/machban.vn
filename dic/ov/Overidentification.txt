@@ -1,0 +1,6 @@
+﻿@Overidentification
+#(Econ) Sự đồng nhất hoá quá mức.
+: Xem IDENTIFICATION PROBLEM.
+<!-- more -->
+@overidentification
+#(thống kê) sự xác định lại

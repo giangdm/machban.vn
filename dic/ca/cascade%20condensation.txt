@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ngưng tụ ghép tầng
+#sự ngưng tụ (ghép) tầng

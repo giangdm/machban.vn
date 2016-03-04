@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#sự làm lạnh trực tiếp bằng bay hơi
+@Chuyên ngành kỹ thuật
+#làm lạnh bằng bay hơi
+#làm mát bằng hơi
+@Lĩnh vực: điện lạnh
+#làm mát bằng bay hơi
+@Chuyên ngành kỹ thuật
+#làm lạnh bằng bay hơi
+#làm mát bằng hơi
+@Lĩnh vực: điện lạnh
+#làm mát bằng bay hơi

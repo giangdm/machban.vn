@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ hấp thụ âm thanh
+#thiết bị tiêu âm
+#vật liệu hút âm
+@Lĩnh vực: điện lạnh
+#bộ hấp thụ tiếng động
+#thiết bị hấp thụ tiếng ồn (âm thanh, tiếng động)
+@Lĩnh vực: toán & tin
+#vật hấp thu âm thanh

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số bức xạ
+@Lĩnh vực: điện lạnh
+#hệ số hồi phục

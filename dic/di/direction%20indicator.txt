@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đèn báo rẽ
+#đèn hướng quẹo
+#kim chỉ hướng
+@Lĩnh vực: cơ khí & công trình
+#đèn báo quẹo
+#đèn chỉ thị hướng
+@Lĩnh vực: ô tô
+#đồng hồ chỉ hướng

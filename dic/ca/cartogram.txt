@@ -1,0 +1,10 @@
+﻿@cartogram
+*danh từ
+#biểu đồ diện tích
+@Chuyên ngành kinh tế
+#bản đồ địa hình
+#bản đồ thống kê
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản vẽ diện tích
+#biểu đồ diện tích

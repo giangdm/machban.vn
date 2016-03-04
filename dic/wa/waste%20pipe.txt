@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#đường ống thoát nước
+#ống thải
+#ống tháo
+#ống thoát
+@Lĩnh vực: xây dựng
+#đường ống nước thải
+#ống xả nước thải
+@Lĩnh vực: hóa học & vật liệu
+#ống thoát, ống tháo
+@Lĩnh vực: cơ khí & công trình
+#ống tràn (bình giảm nhiệt)

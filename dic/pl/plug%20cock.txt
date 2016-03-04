@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#van bít
+#van đòn
+#van hút
+#van nút
+@Lĩnh vực: xây dựng
+#vòi có khóa vặn
+#vòi khí
+@Lĩnh vực: cơ khí & công trình
+#vòi nút

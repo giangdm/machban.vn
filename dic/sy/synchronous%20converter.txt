@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ biến đổi điện
+#bộ biến đổi quay
+#bộ chuyển đổi đồng bộ
+#bộ đổi điện
+#bộ đổi điện đồng bộ
+#máy chỉnh lưu đồng bộ
+@Lĩnh vực: điện
+#máy đổi điện đồng bộ

@@ -1,0 +1,3 @@
+﻿@small-screen
+*danh từ
+#màn ảnh nhỏ; vô tuyến

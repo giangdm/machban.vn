@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bên thuê chịu (phí) sửa chữa
+#bên thuê chịu phí sửa chữa
+#hợp đồng (người) thuê tự chịu phí sửa chữa
+#thợ sửa chữa (về bất động sản...)

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#gia nhiệt cảm ứng
+#hơi nóng cảm ứng
+@Lĩnh vực: vật lý
+#nung cảm ứng
+@Lĩnh vực: điện
+#sự sinh nhiệt cảm ứng

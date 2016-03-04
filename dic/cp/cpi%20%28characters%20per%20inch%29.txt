@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#số ký tự trên mỗi inch
+@Lĩnh vực: toán & tin
+#số ký tự mỗi inh-sơ

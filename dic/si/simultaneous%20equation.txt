@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ phương trình
+@Lĩnh vực: xây dựng
+#phương trình chập
+@Lĩnh vực: toán & tin
+#phương trình trập

@@ -1,0 +1,23 @@
+﻿@control panel
+#(Tech) bảng điều khiển
+@Chuyên ngành kinh tế
+#bảng kiểm soát (đặt hàng)
+@Chuyên ngành kỹ thuật
+#bàn điều khiển
+#bảng điều khiển
+#bảng kiểm tra
+#buồng điều khiển
+#đèn điều khiển
+#trạm điều khiển
+#trung tâm điều khiển
+@Lĩnh vực: xây dựng
+#bảng (treo) dụng cụ
+#bảng kiểm soát
+#đài điều khiển
+#khiểu điều khiển
+#phên khiển
+#trung tâm điều độ
+@Lĩnh vực: hóa học & vật liệu
+#bảng treo dụng cụ
+@Lĩnh vực: toán & tin
+#panen điều khiển

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#Giả thiết Markov
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi Markov

@@ -1,0 +1,7 @@
+﻿@Boolean
+#(Tech) thuộc Boole, luận lý
+@Chuyên ngành kỹ thuật
+#luận lý
+<!-- more -->
+@boolean
+#logic

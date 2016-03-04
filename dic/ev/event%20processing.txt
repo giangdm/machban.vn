@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý biến cố
+#sự xử lý sự kiện
+#xử lý sự kiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý biến cố
+#sự xử lý sự kiện
+#xử lý sự kiện

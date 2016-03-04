@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#giàn chạy
+#thiết bị lặn
+@Chuyên ngành kỹ thuật
+#bãi đậu xe
+#bãi đỗ xe
+@Lĩnh vực: giao thông & vận tải
+#đầu máy toa xe
+@Lĩnh vực: hóa học & vật liệu
+#nguyên liệu lưu chuyển
+@Lĩnh vực: xây dựng
+#thành phần biến đổi
+#thành phần di động

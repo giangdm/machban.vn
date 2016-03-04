@@ -1,0 +1,7 @@
+﻿@access method
+#(Tech) phương pháp truy cập
+@Chuyên ngành kỹ thuật
+#phương pháp truy nhập
+@Lĩnh vực: toán & tin
+#phương pháp truy cập
+#phương thức truy xuất

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#phương pháp lấy mẫu nhiều mặt
+@Chuyên ngành kỹ thuật
+#lấy mẫu nhiều pha

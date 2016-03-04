@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#đầu đọc/ghi
+@Lĩnh vực: toán & tin
+#đầu đọc-ghi

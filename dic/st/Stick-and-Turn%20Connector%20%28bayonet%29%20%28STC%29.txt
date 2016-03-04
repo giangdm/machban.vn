@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đầu nối STC-một kiểu đầu cắm của cáp sợi quang [bayonet]

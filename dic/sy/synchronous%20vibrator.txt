@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ rung đồng bộ
+@Lĩnh vực: điện lạnh
+#bộ dao động đồng bộ
+@Lĩnh vực: điện
+#mạch rung đồng bộ
+@Lĩnh vực: xây dựng
+#máy chấn động đồng kỳ

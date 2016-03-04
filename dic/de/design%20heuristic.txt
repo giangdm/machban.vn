@@ -1,0 +1,2 @@
+﻿@design heuristic
+#(Tech) phỏng đoán thiết kế

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số dịch vụ
+#hệ số làm việc
+#hệ số tính toán (của điều kiện làm việc)
+@Lĩnh vực: cơ khí & công trình
+#hệ số (tính toán) điều khiển làm việc

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực đầu vào
+#áp suất hút
+#áp suất hút vào
+@Lĩnh vực: cơ khí & công trình
+#áp lực tại cửa vào
+#áp suất nạp vào
+@Lĩnh vực: điện lạnh
+#áp suất (lối) vào
+#áp suất ở cửa vào
+@Lĩnh vực: điện
+#áp suất hơi vào

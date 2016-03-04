@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bù trừ song biên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự thanh toán hai bên

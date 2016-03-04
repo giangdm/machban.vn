@@ -1,0 +1,15 @@
+﻿@digital computer
+#(Tech) máy điện toán số tự
+@Chuyên ngành kinh tế
+#máy tính (theo) số
+#máy tính kỹ thuật số
+#máy tính số
+@Chuyên ngành kỹ thuật
+#máy tính chữ số
+#máy tính số
+@Lĩnh vực: xây dựng
+#máy tính bằng số
+@Lĩnh vực: toán & tin
+#máy tính digital
+@Lĩnh vực: điện
+#máy tính theo số

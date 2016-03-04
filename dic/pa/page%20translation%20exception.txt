@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngoại lệ dịch trang
+#ngoại lệ trong dịch trang

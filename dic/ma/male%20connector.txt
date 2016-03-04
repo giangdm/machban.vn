@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ ghép
+#bộ nối
+#phích cắm
+@Lĩnh vực: điện
+#bộ nối có chốt cắm
+@Lĩnh vực: toán & tin
+#đầu nối đực
+#phích cắm đực
+#rắc cắm đực

@@ -1,0 +1,3 @@
+﻿@Location quotient
+#(Econ) Thương số vị trí.
+: Thước đo thống kê về mức chênh lệch mà một loạt hoạt động kinh tế cụ thể được đánh giá trong một vùng của nền kinh tế so với toàn bộ nền kinh tế nói chung.

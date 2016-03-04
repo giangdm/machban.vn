@@ -1,0 +1,10 @@
+﻿@Aggregate demand
+#(Econ) Cầu gộp; Tổng cầu
+@Chuyên ngành kinh tế
+#tổng cầu
+#tổng mức cầu
+#tổng nhu cầu
+@Chuyên ngành kỹ thuật
+#nhu cầu tổng hợp
+@Lĩnh vực: xây dựng
+#yêu cầu kết trộn

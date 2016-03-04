@@ -1,0 +1,7 @@
+﻿@average density
+#(Tech) mật độ trung bình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#dung trọng trung bình
+@Lĩnh vực: toán & tin
+#mật độ trung bình

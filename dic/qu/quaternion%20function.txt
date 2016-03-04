@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hàm quarternion
+#hàm quaternion
+@Lĩnh vực: điện tử & viễn thông
+#hàm Quatenion

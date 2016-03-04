@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#sự kiểm tra tĩnh, phép thử tĩnh
+#sự thí nghiệm (tải trọng) tĩnh
+@Lĩnh vực: cơ khí & công trình
+#sự thử (tải trọng) tĩnh
+#thử tĩnh lực
+#trắc nghiệm tĩnh lực
+@Lĩnh vực: xây dựng
+#thí nghiệm tĩnh học
+@Lĩnh vực: hóa học & vật liệu
+#thử tĩnh

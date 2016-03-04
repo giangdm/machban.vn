@@ -1,0 +1,4 @@
+﻿@analog signal
+#(Tech) tín hiệu tương tự, tín hiệu dạng sóng
+@Chuyên ngành kinh tế
+#tín hiệu tương tự (máy tính)

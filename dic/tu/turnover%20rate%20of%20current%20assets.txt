@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự chu chuyển vốn lưu động
+#tốc độ vòng quay vốn lưu động

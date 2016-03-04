@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#khu vực bay hơi
+@Lĩnh vực: điện lạnh
+#phần bay hơi
+@Chuyên ngành kỹ thuật
+#khu vực bay hơi
+@Lĩnh vực: điện lạnh
+#phần bay hơi

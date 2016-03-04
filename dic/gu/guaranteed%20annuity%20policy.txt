@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#đơn bảo đảm
+#đơn bảo hiểm
+#niên kim có đảm bảo
+#niên kim được bảo đảm

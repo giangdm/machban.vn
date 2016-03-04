@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#độ bền chống ôxit hóa
+@Lĩnh vực: hóa học & vật liệu
+#độ bền ôxi hóa
+#tính bền oxi hóa
+@Lĩnh vực: điện lạnh
+#độ ổn định ôxi hóa

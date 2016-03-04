@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#luật phân phối
+@Lĩnh vực: toán & tin
+#định luật phân phối

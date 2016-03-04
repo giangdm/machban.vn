@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ đếm giờ
+@Lĩnh vực: cơ khí & công trình
+#đồng hồ giờ

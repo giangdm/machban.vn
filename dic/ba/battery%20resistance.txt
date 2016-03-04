@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#điện trở
+@Lĩnh vực: điện
+#nội trở bình điện

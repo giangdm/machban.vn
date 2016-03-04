@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#bộ lưu trữ thông tin
+@Lĩnh vực: toán & tin
+#bộ nhớ thông tin
+#sự bảo quản thông tin
+#sự lưu trữ thông tin

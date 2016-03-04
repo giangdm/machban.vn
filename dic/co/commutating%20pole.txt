@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cực đổi chiều
+@Lĩnh vực: điện
+#cực chuyển mạch
+#cực đổi nối
+#cực giao hoán
+@Lĩnh vực: điện lạnh
+#cực phụ

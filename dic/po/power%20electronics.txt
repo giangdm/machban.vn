@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện tử công suất
+#điện tử học công suất (lớn)
+@Lĩnh vực: điện lạnh
+#điện tử học công suất

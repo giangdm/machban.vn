@@ -1,0 +1,21 @@
+﻿@Standard deviation
+#(Econ) Độ lệch chuẩn.
+@Chuyên ngành kinh tế
+#độ lệch chuẩn
+#độ lệch sai chuẩn
+#mức sai lệch tiêu chuẩn (trong thống kê)
+#mức sai sót tiêu chuẩn
+@Chuyên ngành kỹ thuật
+#độ lệch chuẩn
+#độ lệch tiêu chuẩn
+@Lĩnh vực: y học
+#độ lệch chuẩn (trong thống kê học)
+@Lĩnh vực: điện lạnh
+#độ lệch quân phương
+#sai số chuẩn
+@Lĩnh vực: toán & tin
+#độ lệnh chuẩn
+@Lĩnh vực: cơ khí & công trình
+#sự lệch chuẩn
+@Lĩnh vực: điện tử & viễn thông
+#sự sai lệch tiêu chuẩn

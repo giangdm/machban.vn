@@ -1,0 +1,5 @@
+﻿@combinator
+#(Tech) bộ tổ hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tổ hợp máy

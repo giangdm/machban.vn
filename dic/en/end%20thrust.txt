@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực hướng trục
+#lực xô ở biên
+@Lĩnh vực: hóa học & vật liệu
+#sức đẩy dọc
+#sức đẩy theo trục
+@Lĩnh vực: cơ khí & công trình
+#sức ép dọc trục
+@Chuyên ngành kỹ thuật
+#áp lực hướng trục
+#lực xô ở biên
+@Lĩnh vực: hóa học & vật liệu
+#sức đẩy dọc
+#sức đẩy theo trục
+@Lĩnh vực: cơ khí & công trình
+#sức ép dọc trục

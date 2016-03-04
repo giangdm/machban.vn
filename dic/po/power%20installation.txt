@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhà máy điện
+@Lĩnh vực: xây dựng
+#trạm động lực
+@Lĩnh vực: cơ khí & công trình
+#trạm năng lượng

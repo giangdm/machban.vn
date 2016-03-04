@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ cứng
+#hệ số cứng
+#hệ số độ cứng
+@Lĩnh vực: toán & tin
+#hệ số vững chắc

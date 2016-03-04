@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#lượng biến đổi ngẫu nhiên
+#lượng biến đổi phức tạp
+@Chuyên ngành kỹ thuật
+#biến ngẫu nhiên

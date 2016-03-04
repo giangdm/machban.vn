@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hàm lượng cabonic
+#hàm lượng CO2
+#máy nén cacbonic [CO2]

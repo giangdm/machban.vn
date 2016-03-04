@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số trọng số tạp nhiễu thực (vô tuyến vũ trụ)
+@Lĩnh vực: điện tử & viễn thông
+#hệ số gia trọng của (tạp thoại kế)

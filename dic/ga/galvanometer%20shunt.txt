@@ -1,0 +1,6 @@
+﻿@galvanometer shunt
+#(Tech) bộ phân lưu điện kế
+@Chuyên ngành kỹ thuật
+#sun điện kế
+@Lĩnh vực: điện
+#mạch sun điện kế

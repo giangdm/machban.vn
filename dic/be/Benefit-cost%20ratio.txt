@@ -1,0 +1,5 @@
+﻿@Benefit-cost ratio
+#(Econ) Tỷ số chi phí-lợi ích.
+: Xem COST-BENEFIT ANALYSIS.
+@Chuyên ngành kinh tế
+#tỉ suất phí tổn-lợi ích

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hàn nối đầu
+#mối hàn mí
+@Lĩnh vực: xây dựng
+#hàn đối đầu
+@Lĩnh vực: cơ khí & công trình
+#mối hàn đầu tiếp đầu
+#mối hàn đối
+#mối hàn đối đầu
+#mối hàn giáp

@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kinh tế
+#bảo vệ môi trường (thiên nhiên)
+#sự kiểm soát môi trường
+@Chuyên ngành kỹ thuật
+#điều chỉnh môi trường
+@Lĩnh vực: xây dựng
+#kiểm soát môi trường
+#sự kiểm tra môi trường
+@Lĩnh vực: toán & tin
+#sự điều khiển môi trường
+@Chuyên ngành kỹ thuật
+#điều chỉnh môi trường
+@Lĩnh vực: xây dựng
+#kiểm soát môi trường
+#sự kiểm tra môi trường
+@Lĩnh vực: toán & tin
+#sự điều khiển môi trường

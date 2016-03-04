@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#áp lực ngưng tụ
+@Lĩnh vực: điện lạnh
+#áp suất ngưng tụ

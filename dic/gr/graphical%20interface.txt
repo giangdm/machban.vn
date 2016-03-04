@@ -1,0 +1,4 @@
+﻿@graphical interface
+#(Tech) giao diện đồ họa (giữa người và máy điện toán)
+@Chuyên ngành kỹ thuật
+#giao diện đồ họa

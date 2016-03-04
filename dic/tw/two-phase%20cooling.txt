@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#làm lạnh hai pha
+#sự làm lạnh hai pha
+@Lĩnh vực: vật lý
+#sự làm nguội hai pha

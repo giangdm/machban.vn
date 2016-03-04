@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#được làm lạnh bằng (nước) đá khô
+#được làm lạnh bằng cacbon đioxit rắn
+#được làm lạnh bằng CO2 rắn
+#được làm lạnh bằng đá khô

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cánh chung
+@Lĩnh vực: toán & tin
+#kiểu chung
+@Lĩnh vực: xây dựng
+#phương thức chung

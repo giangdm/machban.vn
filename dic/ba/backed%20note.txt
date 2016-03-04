@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giấy bảo lãnh
+#phiếu cất hàng (lên tàu)
+#phiếu tải hóa (của người trung gian cho thuê tàu)

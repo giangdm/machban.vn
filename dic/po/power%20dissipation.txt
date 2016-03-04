@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phát tán công suất
+@Lĩnh vực: điện lạnh
+#công suất tiêu tán
+@Lĩnh vực: cơ khí & công trình
+#mức tiêu tán công suất
+@Lĩnh vực: điện tử & viễn thông
+#sự tiêu tán năng lượng

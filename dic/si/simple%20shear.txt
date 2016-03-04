@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#cắt thuần túy
+#lực cắt đơn
+@Lĩnh vực: toán & tin
+#sự cắt đơn
+#sự trượt đơn
+@Lĩnh vực: xây dựng
+#sự cắt đơn giản
+#sự trượt đơn giản
+#sự trượt thuần túy

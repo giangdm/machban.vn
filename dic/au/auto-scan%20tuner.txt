@@ -1,0 +1,2 @@
+﻿@auto-scan tuner
+#(Tech) bộ điều hưởng tự quét

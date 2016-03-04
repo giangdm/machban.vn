@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#tấm neo
+@Lĩnh vực: điện
+#bản cực neo
+@Lĩnh vực: xây dựng
+#bản neo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản của mấu neo/bản neo

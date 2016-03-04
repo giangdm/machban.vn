@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chất lạ
+@Chuyên ngành kỹ thuật
+#chất lẫn
+#chất tạp
+@Lĩnh vực: điện lạnh
+#chất lạ

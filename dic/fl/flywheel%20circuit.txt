@@ -1,0 +1,5 @@
+﻿@flywheel circuit
+#(Tech) mạch bánh đà
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mạch có quán tính

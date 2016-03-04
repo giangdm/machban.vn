@@ -1,0 +1,3 @@
+﻿@International Standard Industrial Classification
+#(Econ) (ISIC)-Phân loại Ngành Công nghiệp theo C1683Tiêu chuẩn Quốc tế.
+: Sự phân loại công nghiệp về các hoạt động kinh tế được đề ra nhằm tăng cường khả năng so sánh quốc tế của các số liệu thống kê do Liên hợp quốc tập hợp và xuất bản.

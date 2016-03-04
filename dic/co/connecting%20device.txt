@@ -1,0 +1,2 @@
+﻿@connecting device
+#(Tech) thiết bị nối

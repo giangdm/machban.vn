@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giấy ủy quyền mua bán
+@Lĩnh vực: ttck
+#ủy quyền mua bán, thẩm quyền mua bán

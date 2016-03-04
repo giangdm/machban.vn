@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hầm lạnh
+#khoang lạnh
+#thùng chứa lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bình bảo quản (được làm) lạnh
+#bình chứa được làm lạnh

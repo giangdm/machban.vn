@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#gạch một rưỡi (chiều rộng tiêu chuẩn)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy kinh vĩ có du xích (đọc số)
+@Lĩnh vực: xây dựng
+#máy kính vĩ có du xích (đọc số)

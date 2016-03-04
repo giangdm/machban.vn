@@ -1,0 +1,8 @@
+﻿@Price mechanism
+#(Econ) Cơ chế giá.
+: Được dùng liên quan đến hệ thống thị trường tự do và cách thức mà giá hành động như những tín hiệu tự động phối hợp hành động của các đơn vị ra quyết định.
+@Chuyên ngành kinh tế
+#cơ chế giá
+#cơ chế giá cả
+#kết cấu giá cả
+#quy luật giá cả

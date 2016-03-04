@@ -1,0 +1,6 @@
+﻿@Wage restraint
+#(Econ) Hạn chế tiền công.
+: Xem INCOMES POLICY.
+@Chuyên ngành kinh tế
+#kìm hãm lương tăng
+#sự hạn chế tiền lương

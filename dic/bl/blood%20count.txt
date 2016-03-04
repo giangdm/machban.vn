@@ -1,0 +1,5 @@
+﻿@blood count
+#sự đếm huyết cầu trong máu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#đếm máu

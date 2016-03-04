@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ tan lẫn trên
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt độ hòa tan tới hạn trên
+@Lĩnh vực: điện lạnh
+#nhiệt độ tan lẫn tới hạn trên

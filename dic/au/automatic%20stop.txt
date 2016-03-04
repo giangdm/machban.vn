@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#dừng tự động
+#phanh tự động
+@Lĩnh vực: xây dựng
+#bộ hãm tự động
+@Lĩnh vực: cơ khí & công trình
+#cữ chặn ngắt tự động
+@Lĩnh vực: toán & tin
+#sự dừng tự động

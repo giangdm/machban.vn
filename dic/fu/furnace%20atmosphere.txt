@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#không khí trong lò
+@Lĩnh vực: hóa học & vật liệu
+#môi trường lò

@@ -1,0 +1,9 @@
+﻿@Credit card
+#(Econ) Thẻ tín dụng.
+: Là một thẻ do một ngân hàng, một nhóm các ngân hàng, hay một tổ chức phát hành tài chính phát hành cho khách hàng của nó mà người này có thể sử dụng TÍN DỤNG trực tiếp để chịu tiền mua hàng ở một người bán lẻ, chịu tiền ở khách sạn…
+<!-- more -->
+@credit card
+#(Tech) thẻ tín dụng
+@Chuyên ngành kinh tế
+#thẻ mua chịu
+#thẻ tín dụng

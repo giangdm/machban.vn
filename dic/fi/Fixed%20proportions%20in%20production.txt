@@ -1,0 +1,3 @@
+﻿@Fixed proportions in production
+#(Econ) Tỷ lệ cố định trong sản xuất.
+: Phản ánh quá trình trong đó, tỷ số VỐN/ LAO ĐỘNG là cố định, nghĩa là chúng chỉ có thể được sử dụng theo những tỷ lệ cố định.

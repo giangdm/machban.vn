@@ -1,0 +1,3 @@
+﻿@psv
+*(viết tắt)
+#phương tiện vận tải công cộng (public service vehicle)

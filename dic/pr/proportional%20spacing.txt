@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự để cách ký tự theo tỉ lệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giãn cách theo tỉ lệ

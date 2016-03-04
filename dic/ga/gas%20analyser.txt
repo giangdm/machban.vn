@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phân tích khí
+@Lĩnh vực: xây dựng
+#bộ phân tích khí
+#thiết bị phân tích khí

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#cầu cống
+#cầu đường
+#công trình học kết cấu
+#kiều lộ
+#kỹ thuật xây dựng
+@Chuyên ngành kỹ thuật
+#kết cấu
+#kỹ thuật xây dựng
+@Lĩnh vực: xây dựng
+#kỹ thuật công trình

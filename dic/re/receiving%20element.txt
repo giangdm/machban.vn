@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#phần thử nhận (thiết bị đo lường)
+#phần tử thu

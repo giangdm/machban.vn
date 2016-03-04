@@ -1,0 +1,5 @@
+﻿@additive white Gaussian noise (AWGN)
+#(Tech) nhiễu âm cộng dạng Gauss, nhiễu âm cộng có phân bố đều
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Tạp âm Gausse trắng cộng sinh

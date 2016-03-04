@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ độ sáng
+#nhiệt độ vật đen
+@Lĩnh vực: điện lạnh
+#nhiệt độ chói

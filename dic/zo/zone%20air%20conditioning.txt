@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điều hòa không khí cục bộ
+@Lĩnh vực: điện lạnh
+#điều hòa không khí theo vùng
+#sự điều hòa không khí theo vùng (cục bộ)

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#thời gian chiết (bớt) giá
+#thời gian chiết khấu (bớt giá)

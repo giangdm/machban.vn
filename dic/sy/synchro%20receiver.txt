@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ sensyn
+#máy thu sensyn
+#sensyn thu
+@Lĩnh vực: điện
+#máy đồng bộ thu

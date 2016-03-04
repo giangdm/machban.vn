@@ -1,0 +1,22 @@
+﻿@Inflation
+#(Econ) Lạm phát.
+: Sự gia tăng đáng kể trong mức giá chung hay tỉ lệ tăng của mức giá chung trên một đơn vị thời gian.
+<!-- more -->
+@inflation /in'fleiʃn/
+*danh từ
+#sự bơm phồng, sự thổi phồng; tình trạng được bơm phồng, tình trạng được thổi phồng
+#sự lạm phát
+#sự tăng giá giả tạo
+@Chuyên ngành kinh tế
+#lạm phát
+#sự phồng (fomat, đồ hộp)
+@Chuyên ngành kỹ thuật
+#lạm phát
+#sự bơm phồng
+@Lĩnh vực: môi trường
+#sự bơm nạp
+@Lĩnh vực: xây dựng
+#sự bơm phình
+#thổi phình
+@Lĩnh vực: toán & tin
+#sự thổi phồng

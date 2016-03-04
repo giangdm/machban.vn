@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cách quấn gợn sóng
+@Lĩnh vực: toán & tin
+#cách quấn dợn sóng
+@Lĩnh vực: điện
+#cuộn dây nối tiếp
+#cuộn nối tiếp (trong biến áp tự ngẫu)
+#sự quấn dây nối tiếp

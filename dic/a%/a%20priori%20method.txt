@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lý thuyết hình thức
+@Lĩnh vực: toán & tin
+#phương pháp cấu trúc

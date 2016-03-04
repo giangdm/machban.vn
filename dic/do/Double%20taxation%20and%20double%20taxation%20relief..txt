@@ -1,0 +1,3 @@
+﻿@Double taxation and double taxation relief.
+#(Econ) Đánh thuế hai lần và tránh đánh thuế hai lần.
+: Một cá nhân hay tổ chức có thu nhập ở nước ngoài có thể phải chịu THUẾ thu nhập đó ở cả nước ngoài và nước bản địa.

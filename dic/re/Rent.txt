@@ -1,0 +1,59 @@
+﻿@Rent
+#(Econ) Tô, lợi, tiền thuê.
+: Xem ECONOMIC RENT.
+<!-- more -->
+@rent /rent/
+*danh từ
+#chỗ rách (ở quần áo); kẽ hở (ở đám mây); khe lá
+#chỗ nẻ, kẽ nứt (ở mặt đất), khe núi
+#(nghĩa bóng) sự phân ly, sự chia rẽ (trong một đảng...)
+*danh từ
+#tiền thuê (nhà, đất); tô
+=rent in kind: tô bằng hiện vật
+#(từ Mỹ,nghĩa Mỹ) sự thuê
+#(từ lóng) sự cướp bóc, sự cướp đoạt
+*ngoại động từ
+#cho thuê (nhà, đất); cho cấy thu tô (ruộng đất)
+=to rent a house to someone: cho ai thuê nhà
+#thuê (nhà, đất); cày nộp tô (ruộng đất)
+=lost of poor peasant had to rent land: nhiều nông dân nghèo trước đây phải cày ruộng nộp tô
+#bắt giả tiền thuế, bắt nộp tô
+=to rent one's tenant high: bắt người thuê giá tiền thuê cao
+#(từ Mỹ,nghĩa Mỹ) cho thuê (cái gì)
+*nội động từ
+#(được) cho thuê
+=this building rents at 1,000d a year: toà nhà này cho thuê với giá 1 000 đồng một năm
+*thời quá khứ & động tính từ quá khứ của rend
+@Chuyên ngành kinh tế
+#địa tô
+#lợi thu được
+#lợi tức cho thuê
+#mướn
+#mướn được
+#sự mướn
+#sự thuê
+#thuê được
+#tiền mướn
+#tiền mướn đất
+#tiền thuê
+#tiền thuê đất
+#tiền tô
+#tô kim
+#tô tức
+@Chuyên ngành kỹ thuật
+#đường nứt
+#khe núi
+#khe nứt
+#lãi suất
+#sự đứt gãy
+#thuế
+@Lĩnh vực: xây dựng
+#cho thuê
+#khe mặt cắt
+#tiền thuê nhà
+@Lĩnh vực: hóa học & vật liệu
+#sự thuê (nhà, đất)
+<!-- more -->
+@rent
+#(thống kê) tô
+#land r. (toán kinh tế) địa tô

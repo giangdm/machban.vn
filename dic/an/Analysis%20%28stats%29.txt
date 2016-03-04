@@ -1,0 +1,3 @@
+﻿@Analysis (stats)
+#(Econ) Phân tích.
+: Risk analysis: phân tích rủi ro. Scenario analysis:Phân tích kịch bản. Sensitivity analysis: Phân tích độ nhạy.

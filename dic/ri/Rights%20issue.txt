@@ -1,0 +1,6 @@
+﻿@Rights issue
+#(Econ) Phát hành quyền mua cổ phiếu.
+: Trong một đợt phát hành cổ phiếu mới của một công ty, các cổ động hiện tại có quyền mua cổ phiếu mơi theo tỷ lệ góp vốn của từng cổ đông, là với những điều kiện ưu đãi.
+@Chuyên ngành kinh tế
+#phát hành các quyền (mua cổ phiếu mới)
+#phát hành giấy chứng quyền nhận cổ phần

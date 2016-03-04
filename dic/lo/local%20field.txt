@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#miền địa phương
+@Lĩnh vực: điện tử & viễn thông
+#trường cục bộ
+@Lĩnh vực: điện lạnh
+#trường tại chỗ
+<!-- more -->
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#miền địa phương
+@Lĩnh vực: điện tử & viễn thông
+#trường cục bộ
+@Lĩnh vực: điện lạnh
+#trường tại chỗ

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép tính logic
+#phép tính luận lý
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép tính Boole

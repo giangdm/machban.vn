@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lý thuyết số c
+#lý thuyết trường cổ điển
+@Lĩnh vực: điện lạnh
+#cơ học continum
+#vật lý continum

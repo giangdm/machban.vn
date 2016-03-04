@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#chất đống
+#chở dưới dạng hàng rời
+#đổ xá
+#không bao bì
+@Chuyên ngành kỹ thuật
+#dạng không bao bì
+#dạng rời
+#không bọc
+#rời

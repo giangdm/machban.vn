@@ -1,0 +1,5 @@
+﻿@composite external symbol dictionary (CESD)
+#(Tech) từ điển ký hiệu đa hợp ngoại vi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#từ điển ký hiệu ngoài phức hợp

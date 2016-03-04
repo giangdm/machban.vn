@@ -1,0 +1,2 @@
+﻿@computer-supported graphical plotting
+#(Tech) vẽ đồ họa bằng máy điện toán

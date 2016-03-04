@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch đo
+@Lĩnh vực: toán & tin
+#mạch đo, mạch đếm
+@Lĩnh vực: điện lạnh
+#sơ đồ đo

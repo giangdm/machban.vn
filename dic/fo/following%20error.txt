@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sai số theo sau
+@Lĩnh vực: đo lường & điều khiển
+#sai số tiếp

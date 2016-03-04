@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chủ nhiệm kế toán
+#kế toán trưởng
+#viên tổng kế toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kế toán trưởng

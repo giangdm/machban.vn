@@ -1,0 +1,2 @@
+﻿@Import substitution industrialization
+#(Econ) Công nghiệp hoá bằng thay thế hàng nhập khẩu.

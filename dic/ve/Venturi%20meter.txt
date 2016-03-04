@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#lưu lượng kế (dùng ống) Ventury
+@Chuyên ngành kỹ thuật
+#lưu lượng kế
+@Lĩnh vực: đo lường & điều khiển
+#lưu lượng kế venturi

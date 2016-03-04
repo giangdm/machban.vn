@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng kiểm tra
+#bảng thử
+@Lĩnh vực: điện
+#bảng đo
+#tấm kiểm tra
+#tấm mạch thử nghiệm

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất phân phối
+@Lĩnh vực: cơ khí & công trình
+#áp lực thoát
+@Lĩnh vực: điện lạnh
+#áp suất cấp
+@Lĩnh vực: điện tử & viễn thông
+#áp suất của sung

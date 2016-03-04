@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#sự sụt giá của kho hàng
+#sự sụt giá hàng trong kho

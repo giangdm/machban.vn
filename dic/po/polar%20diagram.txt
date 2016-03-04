@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#giản đồ cực
+@Lĩnh vực: hóa học & vật liệu
+#đồ thị (tọa độ) cực
+@Lĩnh vực: điện tử & viễn thông
+#đồ thị cực

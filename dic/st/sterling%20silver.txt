@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bạc ròng tiêu chuẩn (có chuẩn độ 92, 5%)
+@Chuyên ngành kỹ thuật
+#hợp kim bạc

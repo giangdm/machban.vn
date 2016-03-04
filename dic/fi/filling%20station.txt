@@ -1,0 +1,21 @@
+﻿@filling station /'filiɳ'steiʃn/
+*danh từ
+#cột ét xăng, chỗ bán xăng dầu cho ô tô
+@Chuyên ngành kỹ thuật
+#trạm bán xăng dầu
+#trạm thủy văn
+@Lĩnh vực: xây dựng
+#cột bơm xăng
+@Lĩnh vực: hóa học & vật liệu
+#trạm cấp xăng
+@Lĩnh vực: giao thông & vận tải
+#trạm tiếp nhiên liệu, nước
+@Chuyên ngành kỹ thuật
+#trạm bán xăng dầu
+#trạm thủy văn
+@Lĩnh vực: xây dựng
+#cột bơm xăng
+@Lĩnh vực: hóa học & vật liệu
+#trạm cấp xăng
+@Lĩnh vực: giao thông & vận tải
+#trạm tiếp nhiên liệu, nước

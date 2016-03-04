@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giao hàng chia kỳ
+#giao hàng từng đợt
+#sự giao hàng từng phần

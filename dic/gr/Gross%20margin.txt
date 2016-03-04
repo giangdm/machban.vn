@@ -1,0 +1,6 @@
+﻿@Gross margin
+#(Econ) Mức chênh giá gộp.
+: Mức chênh lệch giữa giá trả cho người bán buôn cung cấp và giá nhận được của người bán lẻ.
+@Chuyên ngành kinh tế
+#tổng lợi nhuận bán hàng
+#tổng số tiếp nhận (bảo hiểm)

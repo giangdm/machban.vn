@@ -1,0 +1,6 @@
+﻿@Scientific tariff
+#(Econ) Thuế khoa học.
+: Thuế hay cấu trúc thuế để đạt được mục tiêu chính sách, thường là phi kinh tế như độc lập quốc gia hay sự sẵn sàng về quân sự, với chi phí tối thiểu cho xã hội.
+@Chuyên ngành kinh tế
+#thuế khoa học
+#thuế quan có tính khoa học

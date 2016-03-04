@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chuyển mạch lưỡng kim
+#công tắc lưỡng kim

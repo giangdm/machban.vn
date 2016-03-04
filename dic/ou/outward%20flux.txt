@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng ra
+#luồng ra
+@Lĩnh vực: vật lý
+#phóng lưu
+#thông lượng ra

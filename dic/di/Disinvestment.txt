@@ -1,0 +1,11 @@
+﻿@Disinvestment
+#(Econ) Giảm đầu tư.
+: Việc cố ý giảm một phần DUNG LƯỢNG VỐN hay sự thất bại có dự định hoặc không dự đinh về đầu tư thay thế để trang trải khấu hao.
+<!-- more -->
+@disinvestment /,disin'vestmənt/
+*danh từ
+#sự thôi đầu tư (vốn)
+@Chuyên ngành kinh tế
+#giải tư
+#sự giảm đầu tư
+#sự rút vốn giảm đầu tư

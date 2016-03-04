@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#kiểu dàn hàng
+@Chuyên ngành kỹ thuật
+#nối tiếp nhau
+#nội tuyến
+@Lĩnh vực: toán & tin
+#nội dòng

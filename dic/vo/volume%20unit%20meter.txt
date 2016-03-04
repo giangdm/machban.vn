@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo mức âm thanh
+@Lĩnh vực: đo lường & điều khiển
+#máy đo đơn vị âm lượng

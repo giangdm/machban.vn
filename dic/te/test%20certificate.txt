@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#giấy chứng thử nghiệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giấy chứng nhận thử nghiệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#biên bản thử nghiệm
+#giấy chứng nhận thí nghiệm
+#sự chứng thực
+#sự xác nhận thử nghiệm

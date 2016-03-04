@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biểu đồ tiệm cận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biểu đồ Bode

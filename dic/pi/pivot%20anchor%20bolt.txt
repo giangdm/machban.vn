@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bulông giữ trụ
+@Lĩnh vực: toán & tin
+#bù-lông giữa trục

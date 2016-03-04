@@ -1,0 +1,5 @@
+﻿@stall-holder
+*danh từ
+#người thuê, người sở hữu, người điều hành một quầy bán hàng ở chợ
+@Chuyên ngành kinh tế
+#người chủ quầy (trong chợ)

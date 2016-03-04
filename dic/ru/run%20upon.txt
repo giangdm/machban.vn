@@ -1,0 +1,35 @@
+﻿@run upon
+#nghĩ xoay quanh, nghĩ miên man (vấn đề gì...)
+#bất chợt gặp; ngẫu nhiên gặp
+#to run errands
+#chạy việc vặt
+#to run like a lamplighter (like a deer, like a rabbit)
+#chạy cuống cuồng, chạy bán sống bán chết
+#to try to run before one can walk
+#chưa đủ lông đủ cánh đã đòi bay bổng
+#to run counter to something
+#đi ngược lại cái gì, làm ngược lại với cái gì
+#to run foul of
+#(xem) foul
+#to run in one's head (mind)
+#xoay lộn trong đầu óc; ám ảnh, vương vấn trong óc
+#to run high
+#lên cao (giá cả, thuỷ triều); động mạnh (biển); nổi lên đùng đùng (cơn giận)
+#to run in the blood
+#di truyền
+#to run it close (fine)
+#còn vừa đủ, còn vừa đúng (tiền...)
+#to run somebody close (hard)
+#bám sát ai, đuổi sát ai
+#là đối thủ đáng gờm của ai
+#to run low [of]
+#hết, cạn
+#to run riot
+#(xem) riot
+#to run straight
+#ngay thẳng, thẳng thắn, chính trực
+#to run the streets
+#sống cầu bơ cầu bấc, sống lang thang đầu đường xó chợ
+#to run wild
+#mọc bừa bâi, mọc lung tung (cây, cỏ...)
+#sống lêu lổng; lớn lên không dạy dỗ trông nom

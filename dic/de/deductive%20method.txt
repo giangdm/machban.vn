@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#phương pháp diễn dịch
+@Chuyên ngành kỹ thuật
+#phương pháp suy diễn

@@ -1,0 +1,3 @@
+﻿@Index number problem
+#(Econ) Vấn đề chỉ số.
+: Vấn đề chỉ số có thể nảy sinh khi muốn so sánh hai tập hợp biến số tại hai thời điểm khác nhau nhưng sử dụng một chỉ số thôi vì có nhiều cách khác nhau để tổng hợp các biến số vào cùng một số đo.

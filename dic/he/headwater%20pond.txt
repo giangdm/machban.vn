@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hồ chứa nước phía trên
+@Lĩnh vực: cơ khí & công trình
+#hồ thượng lưu

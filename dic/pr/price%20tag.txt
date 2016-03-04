@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nhãn ghi giá (=giá)
+#nhãn giá
+@Chuyên ngành kỹ thuật
+#nhãn giá, thẻ giá
+#sự nhãn ghi giá

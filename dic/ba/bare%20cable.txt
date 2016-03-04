@@ -1,0 +1,6 @@
+﻿@bare cable
+#(Tech) cáp trần
+@Chuyên ngành kỹ thuật
+#cáp trần
+@Lĩnh vực: điện
+#cáp không bọc cáp trần

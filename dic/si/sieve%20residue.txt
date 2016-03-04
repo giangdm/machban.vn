@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phần không lọt sàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#cặn dây
+@Lĩnh vực: xây dựng
+#phần còn lại trên sàng
+#phần không lọt qua sàng

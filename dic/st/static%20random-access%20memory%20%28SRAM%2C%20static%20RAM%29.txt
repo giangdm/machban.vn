@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#RAM tĩnh
+@Lĩnh vực: điện lạnh
+#bộ nhớ truy nhập ngẫu nhiên tĩnh

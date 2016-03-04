@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#độ chênh
+#nhiệt độ trung bình
+@Lĩnh vực: xây dựng
+#chênh lệch nhiệt độ trung bình
+@Lĩnh vực: điện lạnh
+#độ chênh nhiệt độ trung bình
+#hiệu nhiệt độ trung bình
+@Lĩnh vực: hóa học & vật liệu
+#sự khác nhau về nhiệt độ trung bình

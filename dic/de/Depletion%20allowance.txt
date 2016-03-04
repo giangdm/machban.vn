@@ -1,0 +1,8 @@
+﻿@Depletion allowance
+#(Econ) Ưu đãi tài nguyên
+: Một ưu đãi về thuế cho phép người chủ sở hữu các nguồn tài nguyên thiên nhiên được trừ khỏi tổng thu nhập khoản giá trị bị suy giảm của một tài sản không tái sinh như quạng, dầu mỏ, khí đốt…
+@Chuyên ngành kinh tế
+#dự trữ hao hụt tài nguyên
+#khấu trừ cạn kiệt
+#sự miễn thuế để tái tạo các mỏ
+#trợ cấp phòng chống hao hụt

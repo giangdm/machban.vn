@@ -1,0 +1,5 @@
+﻿@grid suppressor
+#(Tech) bộ triệt lưới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ triệt lưới

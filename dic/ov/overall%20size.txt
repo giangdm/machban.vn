@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#kích thước khuôn khổ
+@Lĩnh vực: điện lạnh
+#khổ bao trùm
+#kích thước bao trùm
+@Lĩnh vực: xây dựng
+#kích thước chung
+@Lĩnh vực: cơ khí & công trình
+#kích thước toàn phần
+#kích thước tổng cộng
+@Lĩnh vực: hóa học & vật liệu
+#tổng kích thước

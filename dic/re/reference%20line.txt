@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#đường chuẩn
+#đường cơ sở
+#đường dẫn
+@Lĩnh vực: toán & tin
+#dòng tham chiếu
+#đường quy chiếu
+#tuyến cơ sở
+@Lĩnh vực: cơ khí & công trình
+#đường gốc (trong hệ dung sai lắp ghép)
+#đường không
+#đường qui chiếu
+@Lĩnh vực: xây dựng
+#đường môđun
+#đường nối tiếp

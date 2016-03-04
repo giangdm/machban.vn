@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điều khiển vòng đóng
+#điều khiển vòng kín
+@Lĩnh vực: toán & tin
+#sự điều khiển vòng kín

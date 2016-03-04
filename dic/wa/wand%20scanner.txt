@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ quét dùng bút thử
+#bộ quét kiểu bút thử

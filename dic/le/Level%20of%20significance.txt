@@ -1,0 +1,5 @@
+﻿@Level of significance
+#(Econ) Mức ý nghĩa.
+: Một khái niệm sử dụng trong kiểm định giả thuyết để xác định các giá trị tới hạn nhằm so sánh thống kê kiểm định với chúng.
+@Chuyên ngành kinh tế
+#mức ý nghĩa

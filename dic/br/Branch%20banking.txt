@@ -1,0 +1,7 @@
+﻿@Branch banking
+#(Econ) Nhiệp vụ ngân hàng chi nhánh
+: Việc cung cấp các dịch vụ ngân hàng thông qua mạng lưới ngân hàng chi nhánh sở hữu bởi một công ty ngân hàng.
+@Chuyên ngành kinh tế
+#chế độ ngân hàng đặt nhiều chi nhánh
+#hệ thống ngân hàng mạng lưới của Anh
+#ngân hàng mạng lưới

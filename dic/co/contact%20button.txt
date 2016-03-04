@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#núm công tắc
+#núm tiếp điểm
+#núm tiếp xúc

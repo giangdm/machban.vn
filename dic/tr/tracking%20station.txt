@@ -1,0 +1,6 @@
+﻿@tracking station
+*danh từ
+#trạm theo dõi hoạt động của vệ tinh, tên lửa  bằng rađa hoặc rađiô
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đài theo dõi

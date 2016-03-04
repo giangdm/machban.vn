@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#quĩ tích nghiệm
+#quỹ đạo các nghiệm
+@Lĩnh vực: điện lạnh
+#quỹ tích các nghiệm
+@Lĩnh vực: toán & tin
+#tốc độ nghiệm

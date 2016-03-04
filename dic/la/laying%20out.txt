@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#sự định vị
+#sự vạch tuyến
+#sự vạch tuyến đường
+@Lĩnh vực: xây dựng
+#dấu sự lấy dấu
+#dấu sự vạch dấu
+#sự đánh dấu tuyến đường
+@Chuyên ngành kỹ thuật
+#sự định vị
+#sự vạch tuyến
+#sự vạch tuyến đường
+@Lĩnh vực: xây dựng
+#dấu sự lấy dấu
+#dấu sự vạch dấu
+#sự đánh dấu tuyến đường

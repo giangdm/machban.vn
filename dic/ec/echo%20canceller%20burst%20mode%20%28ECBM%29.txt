@@ -1,0 +1,2 @@
+﻿@echo canceller burst mode (ECBM)
+#(Tech) bộ triệt tiếng nổ dội

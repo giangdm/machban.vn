@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#cọc bình
+#đầu ắcqui
+#đầu nối ra của ắcqui
+@Lĩnh vực: điện
+#cọc bình điện
+@Lĩnh vực: vật lý
+#cực pin
+#đầu nối pin
+#tiếp điểm pin
+@Lĩnh vực: cơ khí & công trình
+#điện cực của bình

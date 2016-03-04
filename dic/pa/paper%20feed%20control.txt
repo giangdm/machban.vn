@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự điều khiển đẩy giấy
+#sự điều khiển nạp giấy

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#định luật Paschen
+@Lĩnh vực: vật lý
+#định luật Paschen (sự phóng điện khí)

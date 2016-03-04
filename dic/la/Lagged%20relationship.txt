@@ -1,0 +1,3 @@
+﻿@Lagged relationship
+#(Econ) Quan hệ trễ.
+: Mối quan hệ giữa các biến mà trong đó giá trị hiện tại của BIẾN PHỤ THUỘC có quan hệ với các giá trị trước của một hay nhiều BIẾN ĐỘC LẬP.

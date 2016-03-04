@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#trung tâm công nghiệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#trung tâm công nghiệp

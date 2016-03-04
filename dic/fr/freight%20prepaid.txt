@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#vận phí đã trả lúc gởi hàng
+#vận phí đã trả tại cảng bốc
+#vận phí đã trả trước

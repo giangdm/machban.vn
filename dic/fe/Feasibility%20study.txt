@@ -1,0 +1,18 @@
+﻿@Feasibility study
+#(Econ) Nghiên cứu khả thi.
+@Chuyên ngành kinh tế
+#nghiên cứu khả thi
+#nghiên cứu khả thi (luận chứng kinh tế kỹ thuật)
+#nghiên cứu tính khả thi (của dự án đầu tư)
+@Chuyên ngành kỹ thuật
+#nghiên cứu khả thi
+#nghiên cứu về tính khả thi
+#sự nghiên cứu khả thi
+@Lĩnh vực: xây dựng
+#khảo cứu khả thi
+@Chuyên ngành kỹ thuật
+#nghiên cứu khả thi
+#nghiên cứu về tính khả thi
+#sự nghiên cứu khả thi
+@Lĩnh vực: xây dựng
+#khảo cứu khả thi

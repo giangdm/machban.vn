@@ -1,0 +1,14 @@
+﻿@external storage
+#(Tech) bộ trữ ngoài
+@Chuyên ngành kỹ thuật
+#bộ lưu trữ ngoài
+#bộ lưu trữ phụ
+#bộ nhớ ngoài
+@Lĩnh vực: toán & tin
+#bộ lưu trữ hỗ trợ
+@Chuyên ngành kỹ thuật
+#bộ lưu trữ ngoài
+#bộ lưu trữ phụ
+#bộ nhớ ngoài
+@Lĩnh vực: toán & tin
+#bộ lưu trữ hỗ trợ

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#quản lý thông tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quản lý thông tin
+@Lĩnh vực: toán & tin
+#sự quản lý thông tin

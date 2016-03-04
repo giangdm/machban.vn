@@ -1,0 +1,2 @@
+﻿@dynamic storage = dynamic memory
+#(Tech) bộ nhớ động

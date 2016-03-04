@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hiệp hội các công ty kinh doanh
+#hiệp hội đồng nghiệp, đồng ngành
+#hiệp hội mua bán
+#hiệp hội, đồng nghiệp, đồng ngành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hiệp hội thương mại

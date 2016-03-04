@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cách chuyển không đồng bộ
+@Lĩnh vực: điện lạnh
+#phương thức truyền không đồng bộ

@@ -1,0 +1,2 @@
+﻿@Path of government spending
+#(Econ) Mô hình cách thức chi tiêu của chính phủ.

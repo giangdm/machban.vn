@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+#giá búp sợi
+#giá trục móc sợi dọc
+#giá xơ thô

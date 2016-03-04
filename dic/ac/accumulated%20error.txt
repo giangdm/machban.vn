@@ -1,0 +1,8 @@
+﻿@accumulated error
+#(Tech) sai số tích lũy
+@Chuyên ngành kỹ thuật
+#sai số tích lũy
+@Lĩnh vực: đo lường & điều khiển
+#sai số tổng
+@Lĩnh vực: cơ khí & công trình
+#tổng sai số

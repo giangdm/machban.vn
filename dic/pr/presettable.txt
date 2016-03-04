@@ -1,0 +1,3 @@
+﻿@presettable
+*tính từ
+#có thể preset

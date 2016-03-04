@@ -1,0 +1,5 @@
+﻿@Balanced budget
+#(Econ) Ngân sách cân đối.
+: Thu nhập hiện tại đúng bằng chi tiêu hiện tại của CHÍNH PHỦ.
+@Chuyên ngành kinh tế
+#ngân sách cân bằng

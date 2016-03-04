@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chuyến bay quốc nội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#chuyến bay nội địa

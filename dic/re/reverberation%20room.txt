@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#buồng vang
+#phòng vang
+@Lĩnh vực: xây dựng
+#buồng (tạo) âm vang
+@Lĩnh vực: điện lạnh
+#phòng âm thanh dội lại
+@Lĩnh vực: điện tử & viễn thông
+#phòng phản hồi âm
+@Lĩnh vực: vật lý
+#phòng tạo tiếng
+#phòng vọng

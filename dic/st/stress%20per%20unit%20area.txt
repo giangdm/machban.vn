@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cường độ ứng suất (ứng suất trên đơn vị diện tích)

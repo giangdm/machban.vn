@@ -1,0 +1,6 @@
+﻿@answer mode
+#(Tech) kiểu trả lời
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ đáp
+#chế độ trả lời

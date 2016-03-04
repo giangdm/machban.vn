@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự phóng của tụ điện
+#sự phóng điện của tụ

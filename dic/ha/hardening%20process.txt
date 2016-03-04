@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#phương pháp tôi cứng
+#quá trình tôi cứng
+@Lĩnh vực: cơ khí & công trình
+#quá trình hóa cứng
+@Lĩnh vực: xây dựng
+#quá trình khô cứng

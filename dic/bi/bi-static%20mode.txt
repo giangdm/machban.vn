@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kiểu hai trạng thái
+@Lĩnh vực: vật lý
+#phương thức hai trạng thái

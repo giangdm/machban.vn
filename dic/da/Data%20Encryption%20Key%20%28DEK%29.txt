@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khóa mật hóa dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khóa mã hóa dữ liệu

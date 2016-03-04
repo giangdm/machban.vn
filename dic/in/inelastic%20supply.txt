@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cung không co giãn
+#mức cung không co giãn
+#số cung bất biến

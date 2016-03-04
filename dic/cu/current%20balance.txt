@@ -1,0 +1,9 @@
+﻿@current balance
+#(Tech) cân bằng dòng điện
+@Chuyên ngành kinh tế
+#cán cân vãng lai
+#cán cân vãng lai (trong thanh toán quốc tế)
+@Chuyên ngành kỹ thuật
+#cân dòng điện
+@Lĩnh vực: điện lạnh
+#cân ampe

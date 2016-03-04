@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#máy lạnh
+@Chuyên ngành kỹ thuật
+#máy làm lạnh
+#máy lạnh
+@Lĩnh vực: cơ khí & công trình
+#máy (làm) lạnh
+#máy sinh hàn

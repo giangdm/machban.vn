@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#kìm cắt
+@Lĩnh vực: xây dựng
+#dụng cụ cắt dây thép
+@Lĩnh vực: cơ khí & công trình
+#kềm cắt dây kim loại
+#kìm cắt dây
+@Lĩnh vực: hóa học & vật liệu
+#kéo cắt dây

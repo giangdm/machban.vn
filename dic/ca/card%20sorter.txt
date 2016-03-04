@@ -1,0 +1,7 @@
+﻿@card sorter
+#(Tech) máy lựa phiếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ sắp xếp phiếu
+#máy xếp thẻ
+#thiết bị sắp thẻ

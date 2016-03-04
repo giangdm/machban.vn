@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ô tô lạnh dưới 0 độ F (-17, 8 độ C)
+#ô tô lạnh dưới 00F (-17, 8oC)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phân tích vận trù
+@Chuyên ngành kỹ thuật
+#phân tích hoạt động
+@Lĩnh vực: toán & tin
+#phân tích vận hành

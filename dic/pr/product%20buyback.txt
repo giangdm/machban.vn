@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bán trở lại sản phẩm (của mậu dịch bù trừ)
+#mua lại sản phẩm
+#việc bán trở lại sản phẩm (của mậu dịch bù trừ)
+#việc mua lại sản phẩm

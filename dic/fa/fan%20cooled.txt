@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#đã làm lạnh bằng quạt
+@Lĩnh vực: điện lạnh
+#được làm mát bằng quạt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#đã làm lạnh bằng quạt
+@Lĩnh vực: điện lạnh
+#được làm mát bằng quạt

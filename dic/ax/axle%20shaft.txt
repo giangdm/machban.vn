@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nửa trục
+@Lĩnh vực: ô tô
+#bán trục cầu xe
+@Lĩnh vực: cơ khí & công trình
+#trục cầu xe

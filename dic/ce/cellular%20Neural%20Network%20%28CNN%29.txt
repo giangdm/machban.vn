@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạng CNN
+#mạng thần kinh tế bào
+#mạng trí tuệ tế bào

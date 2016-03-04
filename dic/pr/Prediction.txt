@@ -1,0 +1,19 @@
+﻿@Prediction
+#(Econ) Dự báo.
+: Xem FORECASTING.
+<!-- more -->
+@prediction /pri'dikʃn/
+*danh từ
+#sự nói trước; sự đoán trước, sự dự đoán
+#lời nói trước; lời đoán trước, lời dự đoán, lời tiên tri
+@Chuyên ngành kỹ thuật
+#dự báo
+#sự dự báo
+#sự dự đoán
+@Lĩnh vực: toán & tin
+#sự tiên đoán
+@Lĩnh vực: điện lạnh
+#sự tiên đoán (trong điều biến mã xung vi sai)
+<!-- more -->
+@prediction
+#sự dự đoán, dự báo

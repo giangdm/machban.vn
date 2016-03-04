@@ -1,0 +1,7 @@
+﻿@periodogram
+#(thống kê) chu kỳ đồ; (vật lí) đồ thị của hàm số
+@Chuyên ngành kinh tế
+#đồ biểu chu kỳ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chu kỳ đồ

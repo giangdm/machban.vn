@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ cấp gió trung tâm
+#hệ cấp không khí trung tâm
+#hệ thống cấp gió trung tâm

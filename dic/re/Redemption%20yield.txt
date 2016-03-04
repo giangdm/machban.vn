@@ -1,0 +1,6 @@
+﻿@Redemption yield
+#(Econ) Tổng lợi tức đáo hạn.
+: Nếu một nhà đầu tư mua một cổ phiếu có kỳ hạn với giá thấp hơn giá danh nghĩa của nó mà giữ cổ phần đó đến khi đáo hạn thì sẽ được hưởng một khoản lợi tức ngoài tiền lãi hàng năm trả cho cổ phần đó.
+@Chuyên ngành kinh tế
+#lợi suất, mức lời mua lại
+#suất thu nhập đến hạn chuộc lại

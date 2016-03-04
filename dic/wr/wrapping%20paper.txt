@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giấy bao bì
+#giấy bao gói
+#giấy gói hàng
+@Chuyên ngành kỹ thuật
+#giấy bao bì
+#giấy bao gói
+#giấy bọc
+#giấy gói

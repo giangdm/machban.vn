@@ -1,0 +1,2 @@
+﻿@dc (direct-current) transmission
+#(Tech) truyền điện một chiều

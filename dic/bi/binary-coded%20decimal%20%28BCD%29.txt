@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#số thập phân mã hóa nhị phân
+@Lĩnh vực: toán & tin
+#số BCD

@@ -1,0 +1,3 @@
+﻿@Commodity Credit Corporation
+#(Econ) Công ty tín dụng hàng hoá; Công ty tín dụng vật phẩm
+: Một công ty của Mỹ được thành lập năm 1933 nhằm tạo ra một thị trường có trật tự và ổn định hơn cho hàng hoá nông sản. (Xem PARTY PRICE SYSTEM)

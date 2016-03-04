@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tiết diện ngang
+@Lĩnh vực: xây dựng
+#mặt cắt thẳng góc

@@ -1,0 +1,2 @@
+﻿@component part
+#(Tech) bộ phận, phụ tùng, phụ kiện; linh kiện; chi tiết

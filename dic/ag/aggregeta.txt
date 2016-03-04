@@ -1,0 +1,8 @@
+﻿@aggregeta
+#tập hợp; bộ
+#bounded a.tập hợp bị chặn
+#closed a. tập hợp đóng
+#comparable a. tạp hợp so sánh được
+#countable a. tập hợp đếm được
+#denumrable a. tập hợp đếm được
+#equivatent a. tập hợp tương đương

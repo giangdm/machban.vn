@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#xe cẩu
+#xe chuyển hàng
+#xe nâng
+#xe nâng hàng
+@Chuyên ngành kỹ thuật
+#máy nâng hàng
+#xe nâng hàng
+@Lĩnh vực: xây dựng
+#xe xếp dỡ

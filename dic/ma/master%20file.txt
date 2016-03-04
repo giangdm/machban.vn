@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#tệp tin chính
+@Chuyên ngành kỹ thuật
+#tập tin chính
+#tệp chính
+@Lĩnh vực: toán & tin
+#tập tin gốc
+#tệp chính, tệp chủ
+#tệp gốc

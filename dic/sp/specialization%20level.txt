@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mức độ chuyên môn hóa
+#trình độ chuyên môn hóa

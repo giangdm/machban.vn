@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bút toán giảm
+#ghi bớt xuống
+#ghi bớt xuống (giá trị trên sổ sách của...)
+#giảm bớt xuống

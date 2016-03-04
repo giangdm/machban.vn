@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giá đỡ sàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#giá đỡ màn chắn

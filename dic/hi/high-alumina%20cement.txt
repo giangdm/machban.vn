@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#xi măng cao aluminat
+#xi măng cao nhôm
+#xi măng cao ôxit nhôm
+#xi măng oxit nhôm
+@Lĩnh vực: hóa học & vật liệu
+#xi măng giàu alumina

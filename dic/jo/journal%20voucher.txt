@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chứng từ chuyển khoản
+#chứng từ sổ nhật ký
+#sổ cái nhật ký

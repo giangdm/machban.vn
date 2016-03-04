@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giảm thân nhiệt nhân tạo
+#rút nhiệt nhân tạo
+@Lĩnh vực: hóa học & vật liệu
+#nước đá nhân tạo

@@ -1,0 +1,8 @@
+﻿@plane-table
+*danh từ
+#trắc địa kế (gồm có một bàn tròn có thiết bị ngắm xoay quanh một trục của các nhà trắc địa dùng để vẽ sơ đồ tại thực địa)
+@Chuyên ngành kỹ thuật
+#bàn đạc
+#bản vẽ
+@Lĩnh vực: xây dựng
+#đo bằng bàn đạc

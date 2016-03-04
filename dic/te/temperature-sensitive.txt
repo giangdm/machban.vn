@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhạy cảm nhiệt độ
+@Lĩnh vực: điện lạnh
+#cảm biến nhiệt độ
+@Lĩnh vực: y học
+#nhạy (cảm) nhiệt độ

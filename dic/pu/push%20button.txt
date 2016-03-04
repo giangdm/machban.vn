@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#núm ấn
+#núm bấm
+#nút điều khiển
+#phím bấm
+@Lĩnh vực: toán & tin
+#nút bấm đẩy

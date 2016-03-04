@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giá đầu ngày
+#giá khai trương (chứng khoán)
+#giá mở cửa
+#giá mở hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá mở cửa

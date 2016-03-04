@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#rơle hơi
+@Lĩnh vực: điện lạnh
+#rơle khí
+@Chuyên ngành kỹ thuật
+#rơle Buchholz

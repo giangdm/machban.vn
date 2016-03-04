@@ -1,0 +1,2 @@
+﻿@Basic Outcome
+#(Econ) Kết cục, kết quả cơ sở.

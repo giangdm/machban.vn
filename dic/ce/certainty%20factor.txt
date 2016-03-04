@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nhân tố có tính xác định
+@Chuyên ngành kỹ thuật
+#hệ số chắc chắn
+@Lĩnh vực: toán & tin
+#hệ số xác định

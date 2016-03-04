@@ -1,0 +1,3 @@
+﻿@punctator
+*danh từ
+#người dùng những chấm để làm ký hiệu

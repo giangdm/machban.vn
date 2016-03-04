@@ -1,0 +1,11 @@
+﻿@Financial statement
+#(Econ) Báo cáo tài chính.
+@Chuyên ngành kinh tế
+#bảng quyết toán tài chính
+#báo cáo tài chính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tình trạng tài chính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tình trạng tài chính

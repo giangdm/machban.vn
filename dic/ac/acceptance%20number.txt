@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mức thu nhận
+#số chấp nhận được
+@Lĩnh vực: toán & tin
+#số lượng chấp nhận

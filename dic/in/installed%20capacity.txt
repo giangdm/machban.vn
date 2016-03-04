@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#năng suất thiết đặt
+@Chuyên ngành kỹ thuật
+#công suất đặt
+#công suất lắp đặt
+@Lĩnh vực: cơ khí & công trình
+#công suất quy định

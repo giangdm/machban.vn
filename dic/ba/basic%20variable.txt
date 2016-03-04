@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#lương cơ bản
+@Chuyên ngành kỹ thuật
+#biến cơ sở

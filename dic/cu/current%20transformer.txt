@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#máy biến áp công suất
+#máy biến áp đo lường
+#máy biến dòng
+@Lĩnh vực: điện
+#biến dòng
+#bộ biến áp dòng
+#may biến áp lực
+#máy biến áp lưới điện
+#máy biến cường độ
+@Lĩnh vực: xây dựng
+#máy biến dòng (điện)

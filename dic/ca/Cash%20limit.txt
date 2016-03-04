@@ -1,0 +1,5 @@
+﻿@Cash limit
+#(Econ) Hạn mức chi tiêu, hạn mức tiền mặt.
+: Một dạng kiểm soát CHI TIÊU CÔNG CỘNG thực hiện ở Anh.
+@Chuyên ngành kinh tế
+#hạn mức chi tiêu

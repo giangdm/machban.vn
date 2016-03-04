@@ -1,0 +1,9 @@
+﻿@check box
+#(Tech) hộp kiểm
+@Chuyên ngành kỹ thuật
+#hộp kiểm tra
+@Lĩnh vực: toán & tin
+#hộp chọn
+#ô kiểm tra
+@Lĩnh vực: xây dựng
+#hộp kiểm soát

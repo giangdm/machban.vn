@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sự hàn nguội
+@Lĩnh vực: hóa học & vật liệu
+#sự hàn dính
+#sự hàn định vị
+@Lĩnh vực: vật lý
+#sự hàn đính
+@Lĩnh vực: xây dựng
+#sự hàn nhiệt độ thấp

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường bao ký tự
+#đường biên ký tự
+#ý nghĩa ký tự

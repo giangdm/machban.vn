@@ -1,0 +1,6 @@
+﻿@Kalman filtering
+#(Econ) Phép lọc Kalman.
+: Đây là phương pháp tối ưu để dự đoán CÁC BIẾN SỐ NỘI SINH và cập nhật những THÔNG SỐ ƯỚC LƯỢNG trong các phương trình dự đoán.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự lọc Kalman

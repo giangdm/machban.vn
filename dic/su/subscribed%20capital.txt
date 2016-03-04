@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#vốn cổ phần nhận mua
+#vốn góp bằng tiền
+#vốn nhận góp

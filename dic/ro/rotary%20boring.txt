@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khoan xoay
+@Lĩnh vực: xây dựng
+#sự khoan kiểu xoay

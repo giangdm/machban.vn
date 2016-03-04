@@ -1,0 +1,7 @@
+﻿@contrast control
+#(Tech) điều chỉnh (độ) tương phản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#biến dạng co
+@Lĩnh vực: toán & tin
+#sự điều khiển tương phản

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#ngay giao dịch
+#ngày giao dịch (ở sở giao dịch)

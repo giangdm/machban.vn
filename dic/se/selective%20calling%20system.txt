@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống gọi chọn lọc
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống gọi có chọn lọc

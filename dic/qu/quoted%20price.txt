@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giá báo
+#giá chính thức của chứng khoán hoặc hàng
+#giá công bố
+#giá công bố (đăng thường xuyên trên mặt báo)
+#giá đã báo
+#giá yết (sở giao dịch)

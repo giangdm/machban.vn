@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị tách dầu
+@Chuyên ngành kỹ thuật
+#dụng cụ khử dầu mỡ
+#dụng cụ tách dầu
+#thiết bị khử dầu
+@Lĩnh vực: điện lạnh
+#bình tách dầu
+@Lĩnh vực: xây dựng
+#bộ phận chận dầu
+@Lĩnh vực: toán & tin
+#bộ phận chặn dầu
+@Lĩnh vực: ô tô
+#thiết bị tách dầu (nhớt)

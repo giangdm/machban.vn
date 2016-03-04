@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự tính dần từng bước
+#thiết kế từng bước một
+@Lĩnh vực: toán & tin
+#sự tính dẫn từng bước

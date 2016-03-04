@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phân định ranh giới, đồng chỉnh và phát hiện lỗi (phát)

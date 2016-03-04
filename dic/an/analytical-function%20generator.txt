@@ -1,0 +1,2 @@
+﻿@analytical-function generator
+#(Tech) bộ tạo hàm giải tích

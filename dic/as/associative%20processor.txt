@@ -1,0 +1,4 @@
+﻿@associative processor
+#(Tech) bộ xử lý liên kết
+@Chuyên ngành kỹ thuật
+#bộ xử lý kết hợp

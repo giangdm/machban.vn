@@ -1,0 +1,7 @@
+﻿@Inland bill
+#(Econ) Hối phiếu nội địa.
+: Một hối phiếu được rút nhằm tài trợ cho sản xuất và buôn bán trong nước.
+@Chuyên ngành kinh tế
+#hối phiếu nội địa
+#hối phiếu trong nước
+#thuộc trong nước

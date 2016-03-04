@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#ban giám đốc
+#ban quản trị
+#hội đồng quản trị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#ban giám đốc

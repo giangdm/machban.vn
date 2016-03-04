@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#ống xoắn lạnh
+@Lĩnh vực: điện lạnh
+#giàn xoắn lạnh
+#giàn xoắn ngưng tụ
+#ống xoắn dàn ngưng
+#ống xoắn giàn ngưng
+@Lĩnh vực: xây dựng
+#ống xoắn ngưng tụ

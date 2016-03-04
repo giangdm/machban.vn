@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phát tín hiệu mạng
+@Lĩnh vực: toán & tin
+#sự báo hiệu sóng mang

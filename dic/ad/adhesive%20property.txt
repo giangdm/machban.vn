@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#khả năng kết dính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#đặc tính liên kết
+@Lĩnh vực: xây dựng
+#tính chất dính kết

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#cường độ mưa
+@Lĩnh vực: điện tử & viễn thông
+#chỉ số mưa rơi
+#mức mưa rơi

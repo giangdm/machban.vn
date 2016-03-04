@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị lọc không khí
+@Chuyên ngành kỹ thuật
+#bộ lọc hạt lơ lửng
+#bộ lọc khí
+#bộ lọc không khí
+#lọc gió
+#thiết bị lọc không khí
+@Lĩnh vực: điện lạnh
+#phin lọc không khí

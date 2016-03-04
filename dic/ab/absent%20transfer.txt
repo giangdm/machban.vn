@@ -1,0 +1,2 @@
+﻿@absent transfer
+#(Tech) truyền đạt vắng mặt

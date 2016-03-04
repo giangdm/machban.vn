@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hoạt động nối tiếp
+#hoạt động tuần tự
+#sự hoạt động tuần tự
+#sự thao tác tuần tự
+#thao tác liên tục
+#thao tác nối tiếp
+#thao tác tuần tự

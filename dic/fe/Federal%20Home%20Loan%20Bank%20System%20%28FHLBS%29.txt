@@ -1,0 +1,3 @@
+﻿@Federal Home Loan Bank System (FHLBS)
+#(Econ) Hệ thống ngân hàng cho vay nội bộ của liên bang.
+: Cơ quan của chính phủ Mỹ sử dụng quyền lực của mình trên thị trường tiền tệ để cung cấp các khoản thanh khoản cho Hiệp hội tiết kiệm và cho vay.

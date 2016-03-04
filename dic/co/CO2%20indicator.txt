@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ chỉ thị CO2
+#bộ chỉ thị khí cacbonic

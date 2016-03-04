@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nguồn cấp điện
+#sự cấp điện
+@Lĩnh vực: cơ khí & công trình
+#sự chạy dao tự động
+#sự dẫn tiến tự dộng

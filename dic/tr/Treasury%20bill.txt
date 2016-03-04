@@ -1,0 +1,12 @@
+﻿@Treasury bill
+#(Econ) Tín phiếu bộ tài chính.
+: Một phương tiện vay ngắn hạn của chính phủ Anh được đưa vào năm 1877 và vào thời gian đó là mô hình theo hối phiếu thương mại. Ở mỹ cũng có công cụ tương ứng. Tín phiếu bộ tài chính Mỹ do bộ tài chính phát hành có thời hạn ba, sáu, chín và mười hai tháng. Các chứng khoán này là sự đầu tư không có rủi ro, nhưng vẫn có rủi ro trên thị trường thứ cấp trước khi đáo hạn, bởi vì giá biến động với thay đổi trong lãi xuất thị trường.
+@Chuyên ngành kinh tế
+#tin phiếu kho bạc
+#trái phiếu kho bạc
+#trái phiếu kho bạc, công khố phiếu ngắn hạn
+<!-- more -->
+@treasury bill
+*danh từ
+#trái phiếu kho bạc (hối phiếu do chính phủ phát hành để thu tiền mặt cho những nhu cầu nhất thời)
+#<Mỹ> vốn đầu tư của chính phủ (có hiệu lực tới một năm và không lấy lãi)

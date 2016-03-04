@@ -1,0 +1,3 @@
+﻿@Input - output
+#(Econ) Đầu vào - đầu ra (I-O), bảng cân đối liên ngành.
+: Một phương pháp phân tích trong đó nền kinh tế được thể hiện bằng một tập hợp các HÀM SẢN XUẤT TUYẾN TÍNH mô tả mối quan hệ tương tác giữa các ngành.

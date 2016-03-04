@@ -1,0 +1,13 @@
+﻿@card reader
+#(Tech) máy đọc phiếu
+@Chuyên ngành kinh tế
+#bộ đọc thẻ (thiết bị đọc dữ kiện được xử lý bằng máy tính)
+@Chuyên ngành kỹ thuật
+#bộ đọc bìa đục lỗ
+@Lĩnh vực: điện tử & viễn thông
+#bộ đọc thẻ
+@Lĩnh vực: xây dựng
+#máy đọc phiếu (máy 2501)
+@Lĩnh vực: toán & tin
+#thiết bị đọc cạc
+#thiết bị đọc thẻ

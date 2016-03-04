@@ -1,0 +1,5 @@
+﻿@tourist class
+*danh từ
+#ghế hạng hai (trên máy bay, trên tàu biển)
+@Chuyên ngành kinh tế
+#ghế hạng hai (tàu, máy bay)

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cấu kiện
+@Lĩnh vực: xây dựng
+#bộ phận công trình
+@Lĩnh vực: toán & tin
+#cấu kiện, bộ phận
+#phần tử cấu trúc

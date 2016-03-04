@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhiễu ngẫu nhiên
+#tiếng ồn sai số
+@Lĩnh vực: điện lạnh
+#tạp nhiễu nhẫu nhiên

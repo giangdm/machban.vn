@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#kiểu mẫu tiêu chuẩn (xe hơi)
+#kiểu mẫu tiêu chuẩn (xe hơi...)
+@Chuyên ngành kỹ thuật
+#mô hình chuẩn

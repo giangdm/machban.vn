@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mẫu (sơ đồ) xếp chồng hàng
+#mẫu xếp chồng hàng hóa

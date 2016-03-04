@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sai số bước chia
+#sai số do độ dốc
+#sai số do khe hở cạnh
+@Chuyên ngành kỹ thuật
+#sai số bước chia
+#sai số do độ dốc
+#sai số do khe hở cạnh

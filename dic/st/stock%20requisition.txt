@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#phiếu (xin) nhận hàng
+#phiếu lãnh vật liệu
+#phiếu xuất kho

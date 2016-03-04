@@ -1,0 +1,6 @@
+﻿@Real balance effect
+#(Econ) Hiệu ứng số dư tiền.
+: Cụm thuật ngữ này thường được sử dụng để mô tả trường hợp khi cầu đối với hàng hoá thay đổi do có sự thay đổi số dư tiền thực tế.
+@Chuyên ngành kinh tế
+#hiệu ứng của số dư thực tế
+#tác động của số dư tiền thực tế

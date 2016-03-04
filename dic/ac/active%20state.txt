@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#trạng thái hoạt động
+@Lĩnh vực: toán & tin
+#trạng thái chủ động

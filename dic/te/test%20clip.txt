@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#kẹp nối điện
+@Lĩnh vực: điện lạnh
+#kẹp thử

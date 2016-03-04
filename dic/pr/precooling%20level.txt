@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mức (nhiệt độ) làm lạnh sơ bộ
+#mức làm lạnh sơ bộ

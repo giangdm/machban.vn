@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng điện ngược
+#dòng ngược
+#dòng ngược chiều
+@Lĩnh vực: cơ khí & công trình
+#dòng điện ngược chiều
+@Lĩnh vực: điện
+#dòng ngược (máy phát điện)

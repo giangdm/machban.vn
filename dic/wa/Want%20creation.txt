@@ -1,0 +1,6 @@
+﻿@Want creation
+#(Econ) Tạo ra mong muốn tiêu dùng.
+: Việc các công ty xác định ra những nhu cầu của người tiêu dùng còn tiềm tàng và việc biến nó thành mong muốn tiêu dùng có ý thức bằng việc tiếp thị mạnh mẽ các sản phẩm được chế tạo nhằm đáp ứng những nhu cầu tiềm ẩn của người tiêu dùng.
+@Chuyên ngành kinh tế
+#sự tạo ra nhu cầu
+#việc tạo thêm ham muốn

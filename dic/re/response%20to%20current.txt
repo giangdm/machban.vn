@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#hệ số truyền điện
+@Lĩnh vực: điện
+#mức đáp ứng với dòng điện

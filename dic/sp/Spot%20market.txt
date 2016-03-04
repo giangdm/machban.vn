@@ -1,0 +1,10 @@
+﻿@Spot market
+#(Econ) Thị trường giao ngay.
+: Một thị trường trong đó, hàng hóa và tiền tệ được buôn bán giao ngay khác với thị trường tương lai hoặc thị trường kù hạn.
+@Chuyên ngành kinh tế
+#thị trường (mua bán) giao (hàng và trả tiền) ngay
+#thị trường giao ngay
+#thị trường trực tiếp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thị trường tự do

@@ -1,0 +1,2 @@
+﻿@data definition language (ĐL)
+#(Tech) ngôn ngữ định nghĩa dữ liệu

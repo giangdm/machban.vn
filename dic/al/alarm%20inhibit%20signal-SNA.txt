@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu ngăn cản báo động
+#tín hiệu trung hòa báo động

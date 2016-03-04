@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#công nhân phân xưởng
+#công nhân tuyến một
+#nhân viên tại hiện trường

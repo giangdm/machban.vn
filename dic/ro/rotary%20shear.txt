@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy cắt kiểu đĩa
+#máy cắt kiểu xoay
+#máy cắt quay

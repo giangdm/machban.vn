@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đầu ra kiểu phích cắm
+#phích cắm đầu ra

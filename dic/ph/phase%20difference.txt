@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#độ chênh lệch pha
+#góc lệch pha
+#hiệu (số) pha
+#lệch pha
+@Lĩnh vực: toán & tin
+#hiệu pha
+@Lĩnh vực: hóa học & vật liệu
+#hiêu số pha
+@Lĩnh vực: điện
+#hiệu số pha

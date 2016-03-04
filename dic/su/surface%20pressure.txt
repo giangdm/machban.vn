@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực bề mặt
+#áp suất bề mặt
+@Lĩnh vực: cơ khí & công trình
+#áp lực mặt
+#áp lực mặt ngoài
+@Lĩnh vực: xây dựng
+#áp lực trên bề mặt

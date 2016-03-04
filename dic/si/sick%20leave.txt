@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nghỉ ốm
+#phép nghỉ bệnh
+#sự nghỉ bệnh
+@Chuyên ngành kỹ thuật
+#nghỉ phép vì bệnh

@@ -1,0 +1,10 @@
+﻿@colour scheme
+*danh từ
+#cách phối trí màu sắc trong một căn phòng
+@Chuyên ngành kinh tế
+#thiết kế màu
+@Chuyên ngành kỹ thuật
+#thang màu
+@Lĩnh vực: xây dựng
+#bậc màu
+#mẫu màu (để so màu)

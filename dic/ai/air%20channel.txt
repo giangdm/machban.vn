@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#ống hút
+#ống quạt gió
+@Chuyên ngành kỹ thuật
+#đường thông gió
+#đường thông khí
+#hộp thông gió
+#kênh dẫn không khí
+#ống dẫn không khí
+#ống thông gió
+#ống thông khí
+@Lĩnh vực: xây dựng
+#đường (ống) thông gió
+#thiết bi dẫn gió

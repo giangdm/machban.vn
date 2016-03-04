@@ -1,0 +1,10 @@
+﻿@Regressive tax
+#(Econ) Thuế luỹ thoái.
+: Là trường hợp thuế suất trung bình giảm khi thu nhập tăng lên.
+@Chuyên ngành kinh tế
+#thuế lũy giảm
+#thuế lũy thoái
+#thuế tích lũy, thuế lũy thoái
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thuế lũy giảm

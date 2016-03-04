@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biến thiên độ ẩm tương đối
+#sự biến thiên (biến đổi) của độ ẩm tương đối

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#sự bốc dỡ (hàng) thành đơn vị (công-ten-nơ)
+#vận chuyển hàng hóa bằng container

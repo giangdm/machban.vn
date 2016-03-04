@@ -1,0 +1,2 @@
+﻿@access-denial time
+#(Tech) thời gian từ khước truy cập

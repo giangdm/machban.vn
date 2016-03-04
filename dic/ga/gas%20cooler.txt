@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ làm mát bằng khí
+@Lĩnh vực: điện lạnh
+#dàn lạnh khí
+#giàn lạnh khí
+@Lĩnh vực: hóa học & vật liệu
+#máy làm lạnh khí

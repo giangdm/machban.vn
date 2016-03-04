@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng giữ
+#vòng neo
+@Lĩnh vực: xây dựng
+#vòng buộc tàu

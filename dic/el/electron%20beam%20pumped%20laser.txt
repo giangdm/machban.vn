@@ -1,0 +1,2 @@
+﻿@electron beam pumped laser
+#(Tech) bộ kích quang được bơm bằng tia điện tử

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự đun nóng cách điện
+@Chuyên ngành kỹ thuật
+#sự nung điện môi
+@Lĩnh vực: hóa học & vật liệu
+#sự sấy điện môi
+@Lĩnh vực: điện lạnh
+#tăng nhiệt điện môi

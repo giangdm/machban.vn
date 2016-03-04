@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#công trình học thông tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kỹ thuật thông tin

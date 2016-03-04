@@ -1,0 +1,2 @@
+﻿@Market premium rate
+#(Econ) Tỷ lệ chênh lệch giá.

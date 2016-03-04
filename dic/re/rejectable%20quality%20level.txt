@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#mức phẩm chất có thể từ chối không nhận
+@Chuyên ngành kỹ thuật
+#mức chất lượng giới hạn

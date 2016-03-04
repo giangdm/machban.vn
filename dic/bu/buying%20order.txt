@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#đơn đặt hàng
+#lệnh mua (hàng hóa, chướng khóan...)

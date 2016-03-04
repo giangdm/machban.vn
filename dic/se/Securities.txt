@@ -1,0 +1,11 @@
+﻿@Securities
+#(Econ) Chứng khoán.
+: Một thuật ngữ dùng để chỉ một loạt các tài sản tài chính, ví các cổ phiếu viền vàng, cổ phần, và trái khoán.
+@Chuyên ngành kinh tế
+#chứng khoán
+#chứng khoán có giá
+#trái khoán được đảm bảo
+#trái phiếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chứng khoán

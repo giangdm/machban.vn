@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lôgic phun tích hợp
+@Lĩnh vực: toán & tin
+#mạch logic phun tích hợp

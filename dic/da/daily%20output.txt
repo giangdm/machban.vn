@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sản lượng ngày
+@Chuyên ngành kỹ thuật
+#sản lượng hàng ngày
+@Lĩnh vực: cơ khí & công trình
+#điện lượng ngày
+@Lĩnh vực: hóa học & vật liệu
+#sản lượng ngày

@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#xử lý tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý tệp
+#xử lý file
+#xử lý tập tin
+@Lĩnh vực: điện tử & viễn thông
+#xử lý tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý tệp
+#xử lý file
+#xử lý tập tin
+@Lĩnh vực: điện tử & viễn thông
+#xử lý tệp

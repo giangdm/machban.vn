@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#van áp suất không đổi
+#van ổn áp
+@Lĩnh vực: xây dựng
+#van điều chỉn áp lực
+@Lĩnh vực: hóa học & vật liệu
+#van điều chỉnh áp suất
+@Lĩnh vực: ô tô
+#van điều tiết áp suất

@@ -1,0 +1,5 @@
+﻿@Ceteris paribus
+#(Econ) Điều kiện khác giữ nguyên
+: Một cụm thuật ngữ la tinh nghĩa là mọi thứ khác không đổi. Phân tích kinh tế thường tiến hành bằng cách xem xét ảnh hưởng của một vài biến độc lập trong khi đó các yếu tố khác không đổi.
+@Chuyên ngành kinh tế
+#mọi cái khác không đổi

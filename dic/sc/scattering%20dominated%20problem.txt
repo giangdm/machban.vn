@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bài toán chi phối tán xạ
+#bài toán tán xạ chủ yếu

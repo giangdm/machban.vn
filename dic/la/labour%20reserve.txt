@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#đội hậu bị lao động
+#dự trữ sức lao dộng
+#dự trữ sức lao động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tiềm năng lao động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tiềm năng lao động

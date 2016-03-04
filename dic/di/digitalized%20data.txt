@@ -1,0 +1,2 @@
+﻿@digitalized data
+#(Tech) dữ liệu dạng số tự hóa

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giao diện mở của kết nối số liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao diện liên kết dữ liệu mở

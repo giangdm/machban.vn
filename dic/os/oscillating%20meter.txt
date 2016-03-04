@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công tơ dao động
+@Lĩnh vực: cơ khí & công trình
+#máy đếm rung

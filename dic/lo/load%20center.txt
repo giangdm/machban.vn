@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tâm phụ tải
+@Lĩnh vực: hóa học & vật liệu
+#tâm tải trọng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tâm phụ tải
+@Lĩnh vực: hóa học & vật liệu
+#tâm tải trọng

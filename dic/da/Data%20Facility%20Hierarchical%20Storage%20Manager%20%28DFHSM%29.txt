@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phần tử quản lý bộ nhớ phân cấp thiết bị dữ liệu

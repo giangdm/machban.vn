@@ -1,0 +1,4 @@
+﻿@conventional sign
+#(Tech) dấu quy ước
+@Chuyên ngành kỹ thuật
+#ký hiệu quy ước

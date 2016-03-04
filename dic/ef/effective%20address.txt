@@ -1,0 +1,8 @@
+﻿@effective address
+#(Tech) địa chỉ hữu hiệu, địa chỉ thực
+@Chuyên ngành kỹ thuật
+#địa chỉ thực
+@Lĩnh vực: toán & tin
+#địa chỉ hiệu dụng
+@Lĩnh vực: xây dựng
+#địa chỉ hiệu nghiệm

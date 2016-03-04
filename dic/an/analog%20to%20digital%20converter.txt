@@ -1,0 +1,2 @@
+﻿@analog to digital converter
+#(Tech) bộ đổi tương tự ra số tự

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp đất bề mặt
+@Lĩnh vực: xây dựng
+#đất mặt
+#lớp đất trên bề mặt

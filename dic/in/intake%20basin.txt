@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bể áp lực
+@Lĩnh vực: xây dựng
+#bể lấy nước vào
+@Lĩnh vực: điện
+#bể nhận
+#bồn áp lực

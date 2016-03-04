@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#sự tiêu thụ nhiên liệu
+@Lĩnh vực: ô tô
+#lượng năng lượng tiêu hoa
+@Lĩnh vực: hóa học & vật liệu
+#nhiên liệu tiêu hao
+#tiêu thụ nhiên liệu
+@Lĩnh vực: điện
+#sự tiêu hao nhiên liệu
+@Lĩnh vực: xây dựng
+#sự tiêu thụ chất đốt
+@Lĩnh vực: giao thông & vận tải
+#tiêu hao nhiên liệu

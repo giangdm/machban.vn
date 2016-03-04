@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi có thể phục hồi
+#lỗi khắc phục được
+@Lĩnh vực: toán & tin
+#lỗi khôi phục được

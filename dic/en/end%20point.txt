@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#điểm cuối
+#điểm kết thúc
+@Chuyên ngành kỹ thuật
+#điểm cuối
+#điểm sôi cuối
+@Chuyên ngành kỹ thuật
+#điểm cuối
+#điểm sôi cuối

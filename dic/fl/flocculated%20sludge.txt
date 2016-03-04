@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#cặn kết bông
+#cặn kết nhóm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bùn kết thành khối
+#bùn xốp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bùn kết thành khối
+#bùn xốp

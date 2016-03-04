@@ -1,0 +1,2 @@
+﻿@arc transmitter
+#(Tech) máy phát hồ quang điện (cung lửa)

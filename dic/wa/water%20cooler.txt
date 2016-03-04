@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ (thống) máy sản suất nước lạnh
+#máy làm lạnh nước
+@Lĩnh vực: điện lạnh
+#bộ làm lạnh nước

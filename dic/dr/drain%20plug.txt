@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nút tháo cạn
+#nút tháo khô
+#nút xả
+#nút xả cặn
+@Lĩnh vực: ô tô
+#nút tháo

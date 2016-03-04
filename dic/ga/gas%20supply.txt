@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cung cấp chất khí
+#cung cấp khí
+@Lĩnh vực: điện
+#hệ cấp khí đốt
+#việc cấp khí (đốt)
+@Lĩnh vực: xây dựng
+#sự cấp ga
+#sự cấp khí
+#sự cung cấp khí

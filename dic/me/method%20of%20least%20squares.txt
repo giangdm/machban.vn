@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#nghiên cứu phương pháp
+#phép bình phương nhỏ nhất
+@Chuyên ngành kỹ thuật
+#phương pháp bình phương nhỏ nhất
+@Lĩnh vực: vật lý
+#phương pháp bình phương bé nhất

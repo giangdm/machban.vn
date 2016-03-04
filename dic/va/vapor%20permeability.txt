@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tính thấm hơi nước
+@Lĩnh vực: vật lý
+#độ thấm hơi
+#tính thấm hơi
+@Lĩnh vực: hóa học & vật liệu
+#độ thấm hơi (nước)

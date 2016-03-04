@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức truy cập thư tín tương tác
+@Lĩnh vực: điện tử & viễn thông
+#giao thức truy nhập thư tín tương tác

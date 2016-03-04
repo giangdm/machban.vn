@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp bọc cách ly
+#lớp dây quấn cách ly

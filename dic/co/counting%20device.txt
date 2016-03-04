@@ -1,0 +1,4 @@
+﻿@counting device
+#(Tech) bộ đếm
+@Chuyên ngành kỹ thuật
+#dụng cụ đếm

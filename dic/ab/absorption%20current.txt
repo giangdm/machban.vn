@@ -1,0 +1,6 @@
+﻿@absorption current
+#(Tech) dòng hấp thu
+@Chuyên ngành kỹ thuật
+#dòng hấp thụ
+@Lĩnh vực: điện
+#dòng điện hấp thụ

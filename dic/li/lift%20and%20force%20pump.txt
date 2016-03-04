@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#máy bơm tăng áp
+@Lĩnh vực: hóa học & vật liệu
+#bơm lên cao và tăng áp
+@Lĩnh vực: xây dựng
+#bơm vừa hút vừa đẩy
+@Chuyên ngành kỹ thuật
+#máy bơm tăng áp
+@Lĩnh vực: hóa học & vật liệu
+#bơm lên cao và tăng áp
+@Lĩnh vực: xây dựng
+#bơm vừa hút vừa đẩy

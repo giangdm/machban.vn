@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm bằng số
+#hàm số
+@Lĩnh vực: toán & tin
+#hàm hằng số

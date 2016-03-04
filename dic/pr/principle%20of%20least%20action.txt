@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nguyên lý tác dụng tối thiểu
+@Lĩnh vực: vật lý
+#nguyên lý tác dụng cực tiểu

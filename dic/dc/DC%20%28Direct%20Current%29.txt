@@ -1,0 +1,4 @@
+﻿@DC (Direct Current)
+#(Tech) dòng điện một chiều
+@Chuyên ngành kỹ thuật
+#dòng điện một chiều

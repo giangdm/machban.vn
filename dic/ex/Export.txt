@@ -1,0 +1,31 @@
+﻿@Export
+#(Econ) Xuất khẩu, hàng xuất khẩu.
+: Một hàng hoá hoặc dịch vụ sản xuất tại một nước được bán và tiêu dùng ở nước khác. Xuất khẩu hữu hình là xuất khẩu hàng hoá, còn xuất khẩu vô hình là xuất khẩu dịch vụ cho người ở nước khác mua.
+<!-- more -->
+@export /'ekspɔ:t/
+*danh từ
+#hàng xuất khẩu; (số nhiều) khối lượng hàng xuất khẩu
+#sự xuất khẩu
+#(định ngữ) xuất khẩu
+=export duty: thuế xuất khẩu
+@Chuyên ngành kinh tế
+#bán ra nước ngoài
+#sự xuất khẩu
+#xuất khẩu
+@Chuyên ngành kỹ thuật
+#sự xuất khẩu
+#xuất khẩu
+@Lĩnh vực: xây dựng
+#hàng xuất khẩu
+@Lĩnh vực: toán & tin
+#xuất cảng
+@Chuyên ngành kỹ thuật
+#sự xuất khẩu
+#xuất khẩu
+@Lĩnh vực: xây dựng
+#hàng xuất khẩu
+@Lĩnh vực: toán & tin
+#xuất cảng
+<!-- more -->
+@export
+#(toán kinh tế) xuất cảng

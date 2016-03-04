@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#chi phí bảo dưỡng
+#điện tích duy trì
+#luồng điện bị hãm
+@Lĩnh vực: điện
+#điện tích bù
+#đóng nạp duy trì
+#phụ nạp (cho acquy)
+#sự nạp điện dòng nhỏ
+#sự nạp nhỏ giọt
+#sự phụ nạp
+@Lĩnh vực: ô tô
+#nạp ắc quy từ từ

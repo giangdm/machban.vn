@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sự làm nguội bằng cách phun
+@Chuyên ngành kỹ thuật
+#làm lạnh phun
+#sự làm lạnh bằng phun
+#sự làm mát bằng phun
+@Lĩnh vực: điện lạnh
+#sự làm lạnh phun
+@Lĩnh vực: cơ khí & công trình
+#sự làm nguội bằng phun (tưới)

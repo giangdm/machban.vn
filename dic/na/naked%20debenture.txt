@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khoán không có bảo đảm
+#trái khoán không có bảo đảm
+#trái khoán không có đảm bảo
+#trái khoán trần

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy đọc nhãn (hiệu)
+#máy đọc nhãn hiệu
+@Chuyên ngành kỹ thuật
+#thiết bị đọc nhãn
+@Lĩnh vực: toán & tin
+#máy đọc nhãn

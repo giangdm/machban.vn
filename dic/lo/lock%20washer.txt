@@ -1,0 +1,31 @@
+﻿@Chuyên ngành kỹ thuật
+#long đen hãm chặn
+#vòng đệm hãm
+#vòng đệm khóa
+#vòng đệm lò xo
+#vòng đệm vênh
+@Lĩnh vực: xây dựng
+#đĩa lò xo
+#đĩa vênh
+@Lĩnh vực: cơ khí & công trình
+#long đen hãm
+#vòng lót hãm
+@Lĩnh vực: hóa học & vật liệu
+#vòng đệm làm chặt
+#vòng đệm xiết chốt
+<!-- more -->
+@Chuyên ngành kỹ thuật
+#long đen hãm chặn
+#vòng đệm hãm
+#vòng đệm khóa
+#vòng đệm lò xo
+#vòng đệm vênh
+@Lĩnh vực: xây dựng
+#đĩa lò xo
+#đĩa vênh
+@Lĩnh vực: cơ khí & công trình
+#long đen hãm
+#vòng lót hãm
+@Lĩnh vực: hóa học & vật liệu
+#vòng đệm làm chặt
+#vòng đệm xiết chốt

@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#thiên áp
+@Lĩnh vực: toán & tin
+#điện thế lưới phân cực
+#phân cực lưới
+#sự chuyển dịch lưới
+#sự dịch chuyển lưới
+@Lĩnh vực: điện
+#điện thế phân cực lưới
+#phân cực bằng dòng lưới
+#sự phân cực lưới
+@Lĩnh vực: điện lạnh
+#thế (hiệu) dịch lưới

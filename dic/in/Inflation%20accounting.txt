@@ -1,0 +1,6 @@
+﻿@Inflation accounting
+#(Econ) Hạch toán lạm phát.
+: Chỉ các kỹ thuật xác định tác động của lạm phát đến các tài khoản và các thủ tục hạch toán.
+@Chuyên ngành kinh tế
+#kế toán theo lạm phát
+#kế toán theo mức lạm phát

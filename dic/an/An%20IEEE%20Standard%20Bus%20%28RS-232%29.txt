@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Giao diện lớp vật lý thông dụng (một buýt tiêu chuẩn của IEEE, còn gọi là EIA (TIA-232)

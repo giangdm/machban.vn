@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ quy đổi
+@Lĩnh vực: điện lạnh
+#nhiệt độ bị giảm
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt độ rút gọn

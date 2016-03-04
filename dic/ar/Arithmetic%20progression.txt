@@ -1,0 +1,6 @@
+﻿@Arithmetic progression
+#(Econ) Cấp số cộng.
+: Một dãy số hay những biểu thức đại sổ trong đó mỗi thàn phần mang một mối liên hệ cộng thêm đối với mỗi thành phần đứng trước và sau nó.
+<!-- more -->
+@arithmetic progression
+#(Tech) cấp số cộng

@@ -1,0 +1,5 @@
+﻿@risc
+#một loại đơn vị xử lý trung tâm (CPU), trong đó số lượng lệnh mà bộ xử lý phải thực hiện, được giảm đến cực tiểu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy tính dùng tập lệnh rút gọn ( RISC)

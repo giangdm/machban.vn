@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu lượng ngẫu nhiên
+@Lĩnh vực: điện tử & viễn thông
+#lưu lượng tình cờ

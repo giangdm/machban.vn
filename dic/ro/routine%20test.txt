@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#sự nghiên cứu trong sản xuất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự thử nghiệm thường xuyên
+@Lĩnh vực: hóa học & vật liệu
+#sự thử thường lệ
+@Lĩnh vực: điện lạnh
+#thử định kỳ
+#thử nghiệm đơn chiếc
+#thử thường lệ
+@Lĩnh vực: điện
+#thử nghiệm thông lệ
+#thử nghiệm thông thường

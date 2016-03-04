@@ -1,0 +1,9 @@
+﻿@receiver-transmitter
+*danh từ
+#máy thu phát
+@Chuyên ngành kỹ thuật
+#máy thu-phát
+@Lĩnh vực: điện tử & viễn thông
+#bộ thu phát
+@Lĩnh vực: toán & tin
+#bộ thu-phát

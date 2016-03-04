@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hoạt động ổn định
+#vận hành ổn định
+@Lĩnh vực: toán & tin
+#thao tác ổn định

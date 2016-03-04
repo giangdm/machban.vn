@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khu vực có hiệu suất
+#khu vực được phục vụ
+#khu vực làm việc

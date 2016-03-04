@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khối phổ kế
+@Lĩnh vực: điện
+#khối phổ ký

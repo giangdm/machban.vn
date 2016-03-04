@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thị trường chặt chẽ
+#thị trường cung bất ứng cầu
+#thị trường cung không đủ cầu
+#thị trường khan hiếm

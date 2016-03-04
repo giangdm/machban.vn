@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ đen
+#mật độ quang
+#mật độ quang học

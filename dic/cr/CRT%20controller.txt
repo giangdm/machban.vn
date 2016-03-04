@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều khiển CRT
+@Lĩnh vực: xây dựng
+#khiển viên CRT

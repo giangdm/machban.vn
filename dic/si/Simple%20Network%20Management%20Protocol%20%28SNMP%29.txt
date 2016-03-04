@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giao thức quản lý mạng đơn giản
+@Lĩnh vực: toán & tin
+#giao thức quản trị mạng đơn giản

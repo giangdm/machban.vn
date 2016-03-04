@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng nước tưới
+#lượng sử dụng

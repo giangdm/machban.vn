@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểm tra cáp
+#kiểm tra dây dẫn
+@Lĩnh vực: điện tử & viễn thông
+#kiểm tra đường cáp

@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm đặt tải trọng
+#điểm nạp
+@Lĩnh vực: cơ khí & công trình
+#điểm đặt tải
+@Lĩnh vực: toán & tin
+#điểm ghi
+#điểm tải, điểm nạp
+@Chuyên ngành kỹ thuật
+#điểm đặt tải trọng
+#điểm nạp
+@Lĩnh vực: cơ khí & công trình
+#điểm đặt tải
+@Lĩnh vực: toán & tin
+#điểm ghi
+#điểm tải, điểm nạp

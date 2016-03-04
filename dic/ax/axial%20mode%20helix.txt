@@ -1,0 +1,2 @@
+﻿@axial mode helix
+#(Tech) đường xoắn ốc kiểu dọc trục

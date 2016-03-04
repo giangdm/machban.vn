@@ -1,0 +1,2 @@
+﻿@amplitude-frequency distortion
+#(Tech) biến dạng biên (độ)-tần (số)

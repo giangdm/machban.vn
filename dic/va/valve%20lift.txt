@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#độ mở (chiều cao mở) của van
+#độ nâng (của) van
+#độ nâng của van
+@Lĩnh vực: điện lạnh
+#độ nâng của tấm van
+#độ nâng tấm van
+@Lĩnh vực: ô tô
+#khoảng đội xú páp
+@Lĩnh vực: hóa học & vật liệu
+#khoảng nâng xuppap

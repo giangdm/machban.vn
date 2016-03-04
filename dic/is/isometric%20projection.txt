@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đẳng giác
+#phép chiếu đẳng cự
+@Lĩnh vực: toán & tin
+#phép chiếu đẳng metric
+@Lĩnh vực: xây dựng
+#phép chiếu đều đặn
+#sự chiếu đẳng cự

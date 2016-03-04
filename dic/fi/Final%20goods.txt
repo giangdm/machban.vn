@@ -1,0 +1,6 @@
+﻿@Final goods
+#(Econ) Hàng hoá cuối cùng.
+: Những hàng hoá được sử dụng cho mục đích tiêu dùng chứ không dùng như là ĐẦU VÀO trong quá trình sản xuất ở các công ty. Do đó hàng hoá cuối cùng khác với SẢN PHẨM TRUNG GIAN.
+@Chuyên ngành kinh tế
+#thành phẩm
+#thành phẩm, hàng hóa cuối cùng

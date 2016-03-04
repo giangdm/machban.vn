@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ngôn ngữ tượng trưng
+@Lĩnh vực: toán & tin
+#ngôn ngữ ký hiệu

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự tích nhiệt
+#trữ nhiệt
+@Lĩnh vực: điện lạnh
+#sự trữ nhiệt
+#tích nhiệt

@@ -1,0 +1,13 @@
+﻿@Capital account
+#(Econ) Tài khoản vốn.
+: Xem BALANCE OF PAYMENT.
+@Chuyên ngành kinh tế
+#khoản chi ngân sách cho các công trình quan trọng
+#khoản mục vốn
+#sổ ghi chi phí về tư liệu sản xuất
+#tài khoản đầu tư
+#tài khoản tài sản kinh doanh
+#tài khoản vốn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tài khoản vốn

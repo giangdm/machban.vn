@@ -1,0 +1,7 @@
+﻿@OPEC
+#(Econ) Tổ chức các nước xuất khẩu dầu mỏ.
+<!-- more -->
+@opec
+*danh từ
+#vt của Organization of Petroleum Exporting Countries
+#Tổ chức các nước xuất khẩu dầu lửa

@@ -1,0 +1,3 @@
+﻿@Tax credit scheme
+#(Econ) Cơ chế ghi có thuế.
+: Một chương trình DUY TRÌ THU NHẬP, trong đó mọi người được bảo đảm một khoản thu nhập tối thiểu trong khi thu nhập trên mức đó sẽ bị đánh thuế.

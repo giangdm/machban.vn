@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#các giao dịch được bảo vệ
+#giao dịch được bảo vệ khi có sự cố

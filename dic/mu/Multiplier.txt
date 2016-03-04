@@ -1,0 +1,40 @@
+﻿@Multiplier
+#(Econ) Số nhân.
+: Là tỷ số thay đổi trong thu nhập với thay đổi ban đầu trong chi tiêu mà tạo ra thay đổi thu nhập nói trên.
+<!-- more -->
+@multiplier /'mʌltiplaiə/
+*danh từ
+#(toán học) số nhân
+#(điện học) máy nhân, điện kế nhân
+#người làm cho bội (tăng) lên
+@Chuyên ngành kinh tế
+#bội số
+#nhân tử
+#số
+#số nhân
+#thừa
+#thừa số
+@Chuyên ngành kỹ thuật
+#bộ nhân
+#làm phép nhân
+#nhân tử
+#số nhân
+@Lĩnh vực: toán & tin
+#máy nhân
+@Lĩnh vực: điện
+#phần nhân
+#phần tăng bội
+#số bội
+<!-- more -->
+@multiplier
+#số nhân, nhân tử; hệ số; (máy tính) thiết bị nhân, mấy nhân, bộ nhân
+#m. of a group nhân tử của một nhóm
+#analogue m. thiết bị nhân tương tự, số nhân tương tự
+#finite m. (thống kê) hệ số hiệu chỉnh đo tính hữu hạn của dãy số
+#frequency m. máy nhân tần số
+#function m. máy nhân hàm
+#last m. nhân tử cuối
+#logarithmic m. (máy tính) bộ nhân lôga
+#paired m. bộ nhân cặp
+#parallel m. bộ nhân song song
+#undetermined m. nhân tử bất định

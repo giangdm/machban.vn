@@ -1,0 +1,5 @@
+﻿@Unvalidated inflation
+#(Econ) Lạm phát không cho phép.
+: Tỷ lệ lạm phát mà không đi kèm theo với một tỷ lệ gia tăng tương tự trong cung tiền.
+@Chuyên ngành kinh tế
+#lạm phát không được xác chứng

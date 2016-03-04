@@ -1,0 +1,9 @@
+﻿@Uniqueness
+#(Econ) Tính độc nhất.
+: Nói chung được dùng trong thuyết cân bằng tổng quát để chỉ sự tồn tại của một bộ giá cân bằng thị trường độc nhất.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính đơn trị
+<!-- more -->
+@uniqueness
+#xem unique

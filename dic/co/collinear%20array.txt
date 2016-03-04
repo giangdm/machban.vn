@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#giàn ăng ten cộng tuyến
+@Lĩnh vực: điện lạnh
+#giàn ăng ten tuyến tính

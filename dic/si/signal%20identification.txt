@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự nhận dạng tín hiệu
+#sự nhận ra ký hiệu
+#sự nhận ra tín hiệu

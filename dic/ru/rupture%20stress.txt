@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất phá hoại
+#ứng suất phá hủy
+@Lĩnh vực: cơ khí & công trình
+#ứng suất đứt
+@Lĩnh vực: điện lạnh
+#ứng suất gãy

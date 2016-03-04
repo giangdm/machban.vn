@@ -1,0 +1,5 @@
+﻿@Dynamic model
+#(Econ) Mô hình kinh tế động.
+: Xem Dynamic economic.
+@Chuyên ngành kỹ thuật
+#mẫu vật động lực học

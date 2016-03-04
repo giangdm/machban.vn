@@ -1,0 +1,6 @@
+﻿@Regressor
+#(Econ) Ước tính hồi quy.
+: Là một BIẾN ĐỘC LẬP trong một phép phân tích hồi quy.
+<!-- more -->
+@regressor
+#(thống kê) biến hồi quy độc lập

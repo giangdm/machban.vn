@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#cặp hồ sơ
+@Lĩnh vực: xây dựng
+#phiếu catalo
+@Lĩnh vực: thực phẩm
+#phiếu danh mục
+@Chuyên ngành kỹ thuật
+#cặp hồ sơ
+@Lĩnh vực: xây dựng
+#phiếu catalo
+@Lĩnh vực: thực phẩm
+#phiếu danh mục

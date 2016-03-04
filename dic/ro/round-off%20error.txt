@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sai số (đo) quy tròn
+@Lĩnh vực: điện lạnh
+#sai số (vì) lấy tròn

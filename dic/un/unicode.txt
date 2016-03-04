@@ -1,0 +1,9 @@
+﻿@unicode
+*danh từ
+#bộ mã tiêu chuẩn quốc tế đa ngôn ngữ (tiêu chuẩn mã hoá ký tự 16 bit (do Unicode Consortium phát triển trong thời gian từ 1988 đến 1991) Do dùng hai byte thể hiện từng ký tự,  Unicode cho phép thể hiện hầu hết mọi ngôn ngữ viết trên thế giới bằng một tập ký tự đơn nhất)
+@Chuyên ngành kinh tế
+#đơn lệ
+#lệ duy nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mã thống nhất

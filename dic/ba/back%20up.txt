@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#đảo ngược chiều
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#de xe
+#lùi xe
+@Lĩnh vực: xây dựng
+#xây chèn
+#xây lấp

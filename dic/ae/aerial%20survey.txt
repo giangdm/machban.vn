@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#việc lập bản đồ bằng máy bay
+@Chuyên ngành kỹ thuật
+#khảo sát trên không
+#sự chụp ảnh hàng không
+#trắc lượng hàng không
+@Lĩnh vực: xây dựng
+#khảo sát hàng không
+@Lĩnh vực: hóa học & vật liệu
+#sự chụp ảnh hành không
+@Lĩnh vực: giao thông & vận tải
+#sự trắc địa hàng không

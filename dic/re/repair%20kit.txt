@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bì đồ nghề sửa chữa
+#túi dụng cụ
+@Chuyên ngành kỹ thuật
+#bộ đồ sửa chữa
+@Lĩnh vực: cơ khí & công trình
+#bộ đồ nghề sửa chữa

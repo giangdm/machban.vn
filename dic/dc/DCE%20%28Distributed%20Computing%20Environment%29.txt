@@ -1,0 +1,7 @@
+﻿@DCE (Distributed Computing Environment)
+#(Tech) môi trường vi tính phân bố
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#DCE
+#môi trường tín toán phân tán
+#Môi trường Tính toán Phân tán

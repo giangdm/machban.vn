@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đổ chuông tự động của đường dây dùng riêng (cơ chế đổ chuông tự động của mạch thoại cho thuê)

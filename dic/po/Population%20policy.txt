@@ -1,0 +1,5 @@
+﻿@Population policy
+#(Econ) Chính sách dân số.
+: Một chính phủ có thể đặt ra một chính sách cụ thể liên quan đến mức dân số do chính phủ cai quản.
+@Chuyên ngành kinh tế
+#chính sách dân số

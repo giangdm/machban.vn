@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ điều chỉnh trục máy
+@Lĩnh vực: toán & tin
+#bộ điều khiển trục máy

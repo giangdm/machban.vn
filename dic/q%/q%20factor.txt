@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số chất lượng
+#hệ số phẩm chất
+#hệ số Q

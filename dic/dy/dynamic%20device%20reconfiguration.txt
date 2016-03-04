@@ -1,0 +1,2 @@
+﻿@dynamic device reconfiguration
+#(Tech) tái cấu hình thiết bị động

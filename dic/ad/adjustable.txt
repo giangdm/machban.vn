@@ -1,0 +1,13 @@
+﻿@adjustable /ə'dʤʌstəbl/
+*tính từ
+#có thể điều chỉnh được
+#có thể làm cho thích hợp
+#có thể hoà giải được, có thể giàn xếp được (mối bất hoà, cuộc phân tranh...)
+@Chuyên ngành kỹ thuật
+#điều chỉnh được
+#khả được
+@Lĩnh vực: ô tô
+#có thể điều chỉnh
+<!-- more -->
+@adjustable
+#(Tech) điều chỉnh được

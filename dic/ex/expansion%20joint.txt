@@ -1,0 +1,48 @@
+﻿@Chuyên ngành kỹ thuật
+#khe biến dạng
+#khe co giãn
+#khe co ngót
+#khe giãn
+#khe nhiệt
+#khe nhiệt độ
+#mối nối bù giãn nở
+#mối nối giãn nở
+#vòng bù
+#vòng giãn nở
+@Lĩnh vực: hóa học & vật liệu
+#khớp co giãn
+#mối chừa (co giãn)
+@Lĩnh vực: toán & tin
+#mối chữa (co giãn)
+@Lĩnh vực: xây dựng
+#mối chửa (co giãn)
+#mối chừa co giãn
+#mối nối chừa co giãn
+@Lĩnh vực: giao thông & vận tải
+#mối nối bù
+@Lĩnh vực: cơ khí & công trình
+#mối nối dãn nở
+@Chuyên ngành kỹ thuật
+#khe biến dạng
+#khe co giãn
+#khe co ngót
+#khe giãn
+#khe nhiệt
+#khe nhiệt độ
+#mối nối bù giãn nở
+#mối nối giãn nở
+#vòng bù
+#vòng giãn nở
+@Lĩnh vực: hóa học & vật liệu
+#khớp co giãn
+#mối chừa (co giãn)
+@Lĩnh vực: toán & tin
+#mối chữa (co giãn)
+@Lĩnh vực: xây dựng
+#mối chửa (co giãn)
+#mối chừa co giãn
+#mối nối chừa co giãn
+@Lĩnh vực: giao thông & vận tải
+#mối nối bù
+@Lĩnh vực: cơ khí & công trình
+#mối nối dãn nở

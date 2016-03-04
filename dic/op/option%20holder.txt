@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#người nắm giữ quyền chọn
+@Lĩnh vực: ttck
+#người còn giữ option, sở hữu chủ hợp đồng option

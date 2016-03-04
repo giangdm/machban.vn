@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khử khí
+#loại bỏ khí
+@Lĩnh vực: vật lý
+#không có khí

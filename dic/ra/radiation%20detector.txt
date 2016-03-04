@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ phát hiện bức xạ
+@Lĩnh vực: điện lạnh
+#bộ dò bức xạ
+@Lĩnh vực: điện
+#máy dò phóng xạ

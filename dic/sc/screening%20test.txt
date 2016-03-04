@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#phần lọt sàng
+#sản phẩm dưới sàng
+#sự kiểm tra bằng sàng
+#sự kiểm tra sàng lọc
+#sự thử bằng sàng
+#vật lọt sàng
+@Lĩnh vực: y học
+#thử nghiệm sàng lọc

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phụ tải điện dung
+@Lĩnh vực: điện lạnh
+#tải điện dung

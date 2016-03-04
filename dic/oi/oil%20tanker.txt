@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tàu dầu
+@Chuyên ngành kỹ thuật
+#tàu chở dầu

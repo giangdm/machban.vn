@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#đồng tiền lẻ
+#phụ tệ (tiền các, tiền xu...)
+#phụ tệ (tiền cắc, tiền xu...)

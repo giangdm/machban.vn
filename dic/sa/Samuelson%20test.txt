@@ -1,0 +1,3 @@
+﻿@Samuelson test
+#(Econ) Kiểm định Samuelson.
+: Theo kiểm định này thì một trạng thái có khả năng có phúc lợi tốt hơn một trạng thái khác nếu đối với mọi sự phân phối giỏ hàng hoá trong tình trạng thứ nhất có tồn tại một sự phân bổ giỏ hàng hoá thứ hai, trong đó ít nhất có một phúc lợi tăng lên mà không có người nào bị giảm phúc lợi.

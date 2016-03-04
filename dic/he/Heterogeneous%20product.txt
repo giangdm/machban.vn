@@ -1,0 +1,3 @@
+﻿@Heterogeneous product
+#(Econ) Sản phẩm không đồng nhất.
+: Các hàng hoá hay dịch vụ do các đơi vị kinh tế đưa ra trên một thị trường nhất định mà có tổ hợp thuộc tính không giống nhau dưới con mắt của người mua sản phẩm đó.

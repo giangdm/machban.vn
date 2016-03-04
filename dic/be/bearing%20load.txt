@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#áp lực lên nền
+#sự nén lên mặt đất
+#tải trọng mang
+@Lĩnh vực: cơ khí & công trình
+#áp lực trên ổ (trục)
+#tải trọng trên ổ (trục)

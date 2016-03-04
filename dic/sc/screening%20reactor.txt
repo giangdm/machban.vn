@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ điện kháng chặn
+#cuộn điện kháng đường dây
+@Lĩnh vực: điện
+#cuộn cảm được che chắn

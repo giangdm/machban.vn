@@ -1,0 +1,4 @@
+﻿@accumulator cell
+#(Tech) bình trữ điện; bộ tích
+@Chuyên ngành kỹ thuật
+#bộ pin

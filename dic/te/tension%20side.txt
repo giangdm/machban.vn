@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phần bị kéo
+@Lĩnh vực: xây dựng
+#phía chịu kéo
+@Lĩnh vực: cơ khí & công trình
+#phía chịu kéo (dầm bị uốn)

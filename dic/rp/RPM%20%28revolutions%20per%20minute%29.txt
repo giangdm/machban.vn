@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#số vòng mỗi phút
+#số vòng quay trong một phút
+#số vòng trên phút

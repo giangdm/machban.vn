@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#PROM
+@Lĩnh vực: điện lạnh
+#ROM lập trình được

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phí tổn bảo trì sửa chữa
+#phí tổn duy tu
+@Chuyên ngành kỹ thuật
+#chi phí bảo quản

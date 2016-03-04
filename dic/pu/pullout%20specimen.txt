@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mẫu thử thí nghiệm kéo (thép ra khỏi bêtông)

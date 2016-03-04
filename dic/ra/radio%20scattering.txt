@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự tán xạ
+@Lĩnh vực: điện lạnh
+#sự tán xạ sóng vô tuyến (ở tầng điện ly)

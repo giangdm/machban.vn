@@ -1,0 +1,13 @@
+﻿@execution cycle
+#(Tech) chu kỳ thi hành
+@Chuyên ngành kinh tế
+#chu kỳ hoàn thành
+#chu kỳ thực hiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chu kỳ thực hiện
+#vòng thực hiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chu kỳ thực hiện
+#vòng thực hiện

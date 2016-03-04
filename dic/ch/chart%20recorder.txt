@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy ghi biểu đồ
+@Lĩnh vực: toán & tin
+#bộ ghi biểu đồ
+@Lĩnh vực: điện tử & viễn thông
+#máy ghi băng bằng giấy

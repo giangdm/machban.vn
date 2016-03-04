@@ -1,0 +1,3 @@
+﻿@Plant bargaining
+#(Econ) Sự thương lượng ở một nhà máy.
+: THƯƠNG LƯỢNG TẬP THỂ giữa người chủ của một nhà máy với các đại diện của công nhân viên để thiết lập các mức lương và điều kiện làm việc ở nhà máy đó.

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng thấm
+@Lĩnh vực: xây dựng
+#dòng chảy thấm qua
+@Lĩnh vực: cơ khí & công trình
+#dòng ngấm

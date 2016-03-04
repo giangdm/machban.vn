@@ -1,0 +1,2 @@
+﻿@grid-plate capacitance
+#(Tech) điện dung lưới-phiến

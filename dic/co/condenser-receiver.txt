@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bình chứa cao áp
+@Lĩnh vực: điện lạnh
+#bình chứa ngưng tụ
+#bình ngưng dự trữ

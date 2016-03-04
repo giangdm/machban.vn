@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#phòng lắng
+#phòng lắng cặn
+@Chuyên ngành kỹ thuật
+#bể lắng
+#khoang lắng
+@Lĩnh vực: xây dựng
+#buồng lắng
+#buồng lắng bụi

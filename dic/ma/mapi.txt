@@ -1,0 +1,2 @@
+﻿@mapi
+#Sự bộ sung của Microsoft về một giao diện chương trình ứng dụng để thâm nhập vào các dịch vụ báo tin cho những người lập trình MAPI phiên bản 3 2 cung cấp các tiền năng cho những người lập trình đối với việc đưa tin cross-platform (từ nền máy này sang nền máy khác), không phụ thuộc vào hệ điều hành và phần cứng cơ sở, đồng thời làm cho các trình ứng dụng nhận biết được thư tín MAPI có thể trao đổi tin tức thông báo với các chương trình VIM

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bulông định vị
+#vít định vị điều chỉnh
+#vít kẹp chặt
+#vít không đầu

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#lấy hợp đồng (chính thức) làm chuẩn
+#tùy thuộc vào hợp đồng (chính thức)
+#tùy thuộc vào hợp đồng chính thức

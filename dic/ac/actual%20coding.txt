@@ -1,0 +1,2 @@
+﻿@actual coding
+#(Tech) biên mã thực, biên mã ngôn ngữ máy

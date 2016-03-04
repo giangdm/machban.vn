@@ -1,0 +1,7 @@
+﻿@application package
+#(Tech) bộ chương trình ứng dụng (tiền chế)
+@Chuyên ngành kỹ thuật
+#bó trình ứng dụng
+@Lĩnh vực: toán & tin
+#bộ chương trình ứng dụng
+#gói ứng dụng

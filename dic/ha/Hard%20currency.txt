@@ -1,0 +1,21 @@
+﻿@Hard currency
+#(Econ) Tiền mạnh.
+: Một loại tiền tệ có mức cầu cao liên tục so với cung trên trên thị trường hối đoái.
+@Chuyên ngành kinh tế
+#đồng tiền cứng
+#đồng tiền mạnh
+#ngoại tệ mạnh
+#ngoại tệ mạnh (dễ chuyển đổi qua các loại đồng tiền khác)
+@Chuyên ngành kỹ thuật
+#đồng tiền mạnh
+#lưu hành cứng
+@Lĩnh vực: điện tử & viễn thông
+#chứng khoán mạnh
+#thương phiếu mạnh
+#tiền tệ mạnh
+@Lĩnh vực: điện
+#tiền tệ (ngoại tệ) mạnh
+<!-- more -->
+@hard currency
+*danh từ
+#đồng tiền khó bị biến động vật giá chi phối, đồng tiền mạnh

@@ -1,0 +1,6 @@
+﻿@complete carry
+#(Tech) số nhớ toàn phần, số nhớ kết thúc; kết thúc nhớ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số nhớ hoàn toàn
+#sự nhớ đầy đủ

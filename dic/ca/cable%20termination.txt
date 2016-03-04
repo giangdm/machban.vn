@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu cáp
+#sự truyền qua cáp
+@Lĩnh vực: điện tử & viễn thông
+#đầu cuối dây cáp

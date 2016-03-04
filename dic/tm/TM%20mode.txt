@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểu (dao động) E
+#kiểu (dao động) TM
+#kiểu (dao động) từ ngang
+#kiểu E
+@Lĩnh vực: điện lạnh
+#kiều TM

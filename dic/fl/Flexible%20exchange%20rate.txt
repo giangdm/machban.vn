@@ -1,0 +1,6 @@
+﻿@Flexible exchange rate
+#(Econ) Tỷ giá hối đoái linh hoạt.
+: Xem EXCHANGE RATE.
+@Chuyên ngành kinh tế
+#hối suất mềm dẻo
+#tỷ giá linh hoạt

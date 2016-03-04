@@ -1,0 +1,11 @@
+﻿@stower
+*danh từ
+#thợ (máy) chèn lắp
+@Chuyên ngành kinh tế
+#công nhân xếp
+#công nhân xếp hàng (trên tàu)
+#người chất xếp hàng hóa lên tàu, xe
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#máy lấp đất đá
+#máy xếp hàng hóa

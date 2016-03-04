@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#đồ điện
+#đồ dùng điện
+#dụng cụ điện
+@Lĩnh vực: điện
+#điện cụ
+@Lĩnh vực: toán & tin
+#điện tụ
+@Lĩnh vực: điện tử & viễn thông
+#sự trang bị điện
+@Chuyên ngành kỹ thuật
+#đồ điện
+#đồ dùng điện
+#dụng cụ điện
+@Lĩnh vực: điện
+#điện cụ
+@Lĩnh vực: toán & tin
+#điện tụ
+@Lĩnh vực: điện tử & viễn thông
+#sự trang bị điện

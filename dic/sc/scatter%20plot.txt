@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu đồ phân tán
+#biểu đồ rải rác
+#biểu đồ từng điểm

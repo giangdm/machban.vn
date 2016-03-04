@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự tạo hình bằng mảng dẻo
+#sự tạo hình bằng túi dẻo

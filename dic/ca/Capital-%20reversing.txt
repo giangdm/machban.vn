@@ -1,0 +1,3 @@
+﻿@Capital- reversing
+#(Econ) Thay đổi kỹ thuật sản xuất
+: Việc áp dụng một phương pháp sản xuất khi giá trị của lượng vốn liên quan và tỷ suất lợi nhuận cùng tăng lên.

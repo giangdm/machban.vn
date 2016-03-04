@@ -1,0 +1,6 @@
+﻿@Income differentials
+#(Econ) Sự khác biệt về thu nhập.
+: Sự khác nhau về mức thu nhập giữa những người khác nhau. Sự khác nhau này thường là do các loại công việc như sự khác biệt về kỹ năng làm việc, về vị trí địa lý trong đó một số vùng có thể có mức tiền công cao hơn vùng khác, hay có thể có sự khác nhau giữa mức tiền công ở thành thị và nông thôn.
+@Chuyên ngành kinh tế
+#mức chênh lệch của thu nhập
+#những mức thu nhập (lương) khác nhau

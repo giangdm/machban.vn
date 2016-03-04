@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#điện trở (phụ) tải
+@Lĩnh vực: cơ khí & công trình
+#trở kháng tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#điện trở (phụ) tải
+@Lĩnh vực: cơ khí & công trình
+#trở kháng tải

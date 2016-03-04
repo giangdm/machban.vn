@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khu vực (có) bóng mát
+#miền chịu ảnh hưởng nhiệt
+#vùng (chịu) ảnh hưởng nhiệt
+#vùng râm mát
+@Lĩnh vực: vật lý
+#vùng bị tác động nhiệt

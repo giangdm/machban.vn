@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#xưởng phân loại phế liệu
+#xưởng phân loại thép vụn

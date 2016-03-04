@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#môi trường lạnh sơ cấp
+@Lĩnh vực: điện lạnh
+#môi trường lỏng

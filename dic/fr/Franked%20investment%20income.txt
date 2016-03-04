@@ -1,0 +1,6 @@
+﻿@Franked investment income
+#(Econ) Thu nhập đầu tư được miễn thuế.
+: Nhìn chung là để chỉ thu nhập đã chịu thuế công ty và vì vậy không là đối tượng để tính thuế công ty nữa, thu nhập này là thuộc về công ty nhận nó.
+@Chuyên ngành kinh tế
+#thu nhập đầu tư đã nộp thuế
+#thu nhập đầu tư được miễn thuế

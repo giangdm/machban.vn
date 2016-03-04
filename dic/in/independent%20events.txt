@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#những sự kiện độc lập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến cố độc lập

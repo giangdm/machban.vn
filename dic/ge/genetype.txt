@@ -1,0 +1,6 @@
+﻿@genetype
+*danh từ
+#kiểu gen, kiểu di truyền
+#cấu trúc di truyền
+#kiểu giống
+#kiểu sinh học

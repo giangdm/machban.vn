@@ -1,0 +1,3 @@
+﻿@Intermediate areas
+#(Econ) Các vùng trung gian.
+: Xem HUNT REPORT, ASSISTED AREAS.

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tiếp điểm chạy
+#tiếp điểm quét
+#tiếp điểm trượt
+#tiếp điểm tự làm sạch
+@Lĩnh vực: điện
+#tiếp xúc gạt

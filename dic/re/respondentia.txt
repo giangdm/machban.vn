@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khoản vay cầm hàng
+#khoản vay thế chấp hàng chờ
+#khoản vay thế chấp hàng chở
+#vay cầm hàng (chuyên chở)

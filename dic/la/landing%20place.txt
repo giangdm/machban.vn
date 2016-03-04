@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#sân bay
+#sự cập bến
+@Lĩnh vực: giao thông & vận tải
+#chỗ cập bến
+#vị trí cập bến
+@Chuyên ngành kỹ thuật
+#sân bay
+#sự cập bến
+@Lĩnh vực: giao thông & vận tải
+#chỗ cập bến
+#vị trí cập bến

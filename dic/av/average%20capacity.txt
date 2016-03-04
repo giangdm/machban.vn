@@ -1,0 +1,5 @@
+﻿@average capacity
+#(Tech) dung lượng trung bình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dung lượng trung bình

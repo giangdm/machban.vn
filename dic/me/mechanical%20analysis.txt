@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#phân tích cơ học
+#sự phân tích cơ học
+@Lĩnh vực: cơ khí & công trình
+#phân tích thành phần hạt
+@Lĩnh vực: xây dựng
+#sự dùng máy phân tích

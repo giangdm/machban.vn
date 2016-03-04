@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#thuế tính trước (trên sổ sách kế toán)
+#thuế tính trước thuế phải tính (trên sổ sách kế toán)

@@ -1,0 +1,3 @@
+﻿@America selling price
+#(Econ) Giá bán kiểu Mỹ.
+: Đây là một hệ thống trong đó thuế quan của Mỹ đối với một số mặt hàng nhập khẩu được tính trên cơ sở giá trị của mặt hàng thay thế trong nước so với giá trị của hàng nhập khẩu. (Xem GENERAL AGREEMENT ON TARIFFS AND TRADE).

@@ -1,0 +1,2 @@
+﻿@calibration capacitor
+#(Tech) bộ điện dung chuẩn

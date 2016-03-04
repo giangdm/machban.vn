@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đoạn kết đông nhúng chìm
+#tầng kết đông nhúng chìm
+#trạm kết đông nhúng chìm

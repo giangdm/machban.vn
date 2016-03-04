@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phương tiện điều khiển truy nhập tài nguyên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình điều khiển truy cập tài nguyên

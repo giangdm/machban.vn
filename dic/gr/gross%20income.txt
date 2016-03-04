@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thu nhập có thể bị đánh thuế
+#thu nhập gộp (cước khi trừ thuế)
+#tổng thu nhập
+@Chuyên ngành kỹ thuật
+#lợi tức tổng quát

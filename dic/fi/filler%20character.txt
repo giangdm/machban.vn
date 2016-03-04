@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điền đầy
+#ký tự đệm
+#ký tự điền đầy
+@Lĩnh vực: điện tử & viễn thông
+#ký tự điền vào
+@Lĩnh vực: toán & tin
+#ký tự thêm vào
+@Chuyên ngành kỹ thuật
+#bộ điền đầy
+#ký tự đệm
+#ký tự điền đầy
+@Lĩnh vực: điện tử & viễn thông
+#ký tự điền vào
+@Lĩnh vực: toán & tin
+#ký tự thêm vào

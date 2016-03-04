@@ -1,0 +1,2 @@
+﻿@clutter noise
+#(Tech) tiếng ồn sóng dội tạp, tiếng ồn nhiễu

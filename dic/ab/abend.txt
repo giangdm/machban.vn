@@ -1,0 +1,6 @@
+﻿@abend (abnormal ending)
+#(Tech) kết thúc/chấm dứt bất thường. Viết tắt của " abnormal end" , việc kết thúc sớm một chương trình do lỗi hệ thống hoặc lỗi chương trình nào đó gây ra. Thuật ngữ này xuất xứ từ hệ máy tính lớn và ít khi được dùng trong ngành vi tính.
+#Xem thêm abort
+@Chuyên ngành kỹ thuật
+#hủy bỏ
+#kết thúc bất thường

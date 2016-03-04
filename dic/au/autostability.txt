@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự tự ổn định
+#tính tự ổn định
+@Lĩnh vực: đo lường & điều khiển
+#tự cân bằng

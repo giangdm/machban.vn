@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ hấp thụ nhiệt
+#giàn hấp thụ nhiệt
+#tổ [dàn] hấp thụ nhiệt

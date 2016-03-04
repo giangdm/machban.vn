@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#ôtô xitec
+#toa xitec
+@Chuyên ngành kỹ thuật
+#toa xitéc
+#xe xi-téc
+@Lĩnh vực: xây dựng
+#toa két (chở chất lỏng)
+#xe chở nguyên liệu lỏng (nước, dầu)
+#xe chở xi-téc
+@Lĩnh vực: ô tô
+#toa thùng
+#xe dầu
+@Lĩnh vực: cơ khí & công trình
+#xe bồn

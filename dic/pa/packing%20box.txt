@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hộp bao bì
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#hộp ép kín (giới hạn rò rỉ)
+@Lĩnh vực: hóa học & vật liệu
+#vật chêm
+#vật nêm

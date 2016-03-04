@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ánh quang
+@Lĩnh vực: điện tử & viễn thông
+#ảnh quang
+@Lĩnh vực: điện lạnh
+#ảnh quang (học)
+@Lĩnh vực: y học
+#ảnh quang học

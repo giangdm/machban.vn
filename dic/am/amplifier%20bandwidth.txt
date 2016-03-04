@@ -1,0 +1,8 @@
+﻿@amplifier bandwidth
+#(Tech) dải thông khuếch đại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#băng thông khuếch đại
+#dải thông khuếch đại
+@Lĩnh vực: điện tử & viễn thông
+#dải không khuếch đại

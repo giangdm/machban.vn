@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chất dẻo rắn nhiệt
+@Lĩnh vực: điện lạnh
+#nhựa nhiệt cứng
+#nhựa phản ứng nhiệt

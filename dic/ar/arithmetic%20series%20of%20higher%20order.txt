@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cấp số cộng cao
+#cấp số cộng cấp cao
+#chuỗi số học cao
+#chuỗi số học cấp cao

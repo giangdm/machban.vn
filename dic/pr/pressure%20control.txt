@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều khiển áp suất
+#sự điều chỉnh áp lực
+@Lĩnh vực: hóa học & vật liệu
+#điều chỉnh áp lực
+@Lĩnh vực: điện lạnh
+#sự điều chỉnh áp suất

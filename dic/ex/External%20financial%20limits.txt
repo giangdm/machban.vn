@@ -1,0 +1,6 @@
+﻿@External financial limits
+#(Econ) Mức giới hạn nguồn tài chính từ bên ngoài.
+: Chính phủ Anh đặt giới hạn đối với các NGUÒN TÀI CHÍNH TỪ BÊN NGOÀI mà các công ty quốc doanh có thể huy động trong nước.
+@Chuyên ngành kinh tế
+#giới hạn tài trợ bên ngoài
+#những giới hạn tài trợ từ bên ngoài

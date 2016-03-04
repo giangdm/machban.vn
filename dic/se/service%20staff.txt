@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nhân viên phục vụ
+@Chuyên ngành kỹ thuật
+#nhân sự phục vụ
+@Lĩnh vực: vật lý
+#biên chế phục vụ

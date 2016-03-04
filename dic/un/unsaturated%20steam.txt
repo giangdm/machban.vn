@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hơi (nước) chưa bão hòa
+@Lĩnh vực: xây dựng
+#hơi chưa bão hòa
+@Lĩnh vực: vật lý
+#hơi nước chưa bão hòa

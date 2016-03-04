@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi lúc có lúc không
+#lỗi ngẫu nhiên
+#lỗi thất thường

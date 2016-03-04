@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số nợ trên sổ sách
+#tổng số nợ trên sổ sách

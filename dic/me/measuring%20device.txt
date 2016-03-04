@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ đo
+#dụng cụ đo lường
+#hệ thống đo
+#khí cụ đo
+#máy đo
+@Lĩnh vực: điện
+#khí cụ đo lường

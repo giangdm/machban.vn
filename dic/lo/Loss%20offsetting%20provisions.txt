@@ -1,0 +1,3 @@
+﻿@Loss offsetting provisions
+#(Econ) Các điều khoản bù lỗ.
+: Thường nói đến thoả thuận, theo đó các khoản lỗ của một dự án có thể được bù lại bởi thu nhập từ các nguồn khác.

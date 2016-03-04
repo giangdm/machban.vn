@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bất biến chuẩn
+#bất biến cỡ
+@Lĩnh vực: vật lý
+#tính bất biến chuẩn cỡ
+#tính bất biến građien

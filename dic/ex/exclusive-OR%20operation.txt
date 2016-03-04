@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép toán loại trừ OR
+@Chuyên ngành kỹ thuật
+#phép toán XOR
+#phép XOR
+@Lĩnh vực: toán & tin
+#phép EXCLUSIVE-OR
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép toán loại trừ OR
+@Chuyên ngành kỹ thuật
+#phép toán XOR
+#phép XOR
+@Lĩnh vực: toán & tin
+#phép EXCLUSIVE-OR

@@ -1,0 +1,3 @@
+﻿@Vertical Phillips curve
+#(Econ) Đường Phillips thẳng đứng.
+: Giả thiết cho rằng trong dài hạn, không có sự đánh đổi giữa tỷ lệ thay đổi mức tiền công và mức thất nghiệp như đường Phillips ban đầu gợi ý.

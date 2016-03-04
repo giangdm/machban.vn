@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#công việc một phần thời gian
+#việc làm không trọn ngày
+#việc làm nửa ngày
+@Chuyên ngành kỹ thuật
+#làm ít giờ
+@Lĩnh vực: điện tử & viễn thông
+#việc làm không thường xuyên

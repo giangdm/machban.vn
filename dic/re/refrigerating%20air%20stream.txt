@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng gió lạnh
+#dòng khí lạnh
+@Lĩnh vực: điện lạnh
+#luồng gió lạnh

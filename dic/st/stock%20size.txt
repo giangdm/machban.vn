@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#cỡ bình thường
+#cỡ thường
+#cỡ tiêu chuẩn
+#khổ người bình thường
+#kích cỡ hàng
+@Chuyên ngành kỹ thuật
+#kích thước vật liệu

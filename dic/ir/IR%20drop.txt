@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sự giảm điện thế
+@Lĩnh vực: điện lạnh
+#điện áp rơi IR
+#điện áp rơi thuần trở
+#sụt thế IR
+@Lĩnh vực: điện
+#giảm thế

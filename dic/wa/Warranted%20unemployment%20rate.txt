@@ -1,0 +1,6 @@
+﻿@Warranted unemployment rate
+#(Econ) Tỷ lệ thất nghiệp đảm bảo.
+: Xem NATURAL RATE OF UNEMPLOYMENT.
+@Chuyên ngành kinh tế
+#tỷ lệ thất nghiệp được biện minh, xác đáng
+#tỷ lệ thất nghiệp xác đáng

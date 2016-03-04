@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#van chặn về
+#van một chiều
+@Lĩnh vực: điện lạnh
+#clapê tự đóng
+#van điều tiết tự đóng
+@Lĩnh vực: xây dựng
+#van đóng tự động

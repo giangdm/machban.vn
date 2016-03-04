@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ISDN
+#mạng dịch vụ số tích hợp (ISDN)
+#mạng dịch vụ tích hợp số
+@Lĩnh vực: điện tử & viễn thông
+#Mạng số liên kết đa dịch vụ, Mạng số tổng hợp các dịch vụ

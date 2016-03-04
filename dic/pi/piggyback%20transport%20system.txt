@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống chuyển tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) vận chuyển kiểu cõng thêm
+#hệ (thống) vận chuyển kiểu địu thêm
+#hệ thống vận chuyển piggyback

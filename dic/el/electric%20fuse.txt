@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#cầu chì
+#dây chảy
+#kíp điện
+@Lĩnh vực: điện lạnh
+#thiết bị tự ngắt mạch
+@Chuyên ngành kỹ thuật
+#cầu chì
+#dây chảy
+#kíp điện
+@Lĩnh vực: điện lạnh
+#thiết bị tự ngắt mạch

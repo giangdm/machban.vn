@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều khiển liên kết dữ liệu đồng bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều khiển liên kết đồng bộ dữ liệu (SDLC)
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển tuyến số liệu đồng bộ

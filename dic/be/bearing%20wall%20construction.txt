@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kết cấu tường chịu lực
+@Lĩnh vực: xây dựng
+#kết cấu tường chịu lửa

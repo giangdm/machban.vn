@@ -1,0 +1,5 @@
+﻿@computing procedure
+#(Tech) thủ tục tính toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#phương pháp tính toán

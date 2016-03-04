@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền ma sát
+#lực cản do ma sát
+@Lĩnh vực: toán & tin
+#độ bền do ma sát
+@Lĩnh vực: đo lường & điều khiển
+#lực do ma sát

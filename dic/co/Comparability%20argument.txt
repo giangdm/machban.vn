@@ -1,0 +1,3 @@
+﻿@Comparability argument
+#(Econ) Luận điểm về tính có thể so sánh.
+: Một sự tin tưởng rằng các cá nhân làm cùng công việc và sản xuất cùng lượng sản phẩm nên được trả cùng một mức lương.

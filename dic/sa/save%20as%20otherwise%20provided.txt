@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giữ lại theo điều kiện
+#trừ những điều khoản ngược lại

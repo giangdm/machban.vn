@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khu vực nguy hiểm
+@Chuyên ngành kỹ thuật
+#khu vực nguy hiểm
+#vùng nguy hiểm

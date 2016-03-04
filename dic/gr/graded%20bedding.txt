@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#phân lớp theo bậc
+@Lĩnh vực: xây dựng
+#thớ lớp theo độ hạt

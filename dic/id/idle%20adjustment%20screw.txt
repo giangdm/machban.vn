@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#vít chỉnh chạy rốt đa
+#vít điều chỉnh chạy không tải
+@Lĩnh vực: cơ khí & công trình
+#vít điều chỉnh cầm chừng

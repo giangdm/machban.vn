@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch sau khi có giá
+#thị trường sau khi bán

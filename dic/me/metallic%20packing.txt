@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#vành lót bằng kim loại
+#vòng bít bằng kim loại
+#vòng đệm kín kim loại
+@Lĩnh vực: hóa học & vật liệu
+#vật liệu độn kim loại

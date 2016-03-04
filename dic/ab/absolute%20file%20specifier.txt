@@ -1,0 +1,2 @@
+﻿@absolute file specifier
+#(Tech) tên gọi tuyệt đối của tập tin

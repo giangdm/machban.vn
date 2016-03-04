@@ -1,0 +1,8 @@
+﻿@Excludable
+#(Econ) Có thể loại trừ.
+: Xem EXCLUSSION PRINCIPLE.
+@Chuyên ngành kinh tế
+#có thể loại trừ
+<!-- more -->
+@excludable
+#xem exclude

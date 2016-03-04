@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ biến áp trung tần
+#bộ biến đổi tần số trung gian

@@ -1,0 +1,30 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ hao năng lượng
+#độ tiêu tán năng lượng
+#sự hao năng lượng
+#sự tiêu tán năng lượng
+@Lĩnh vực: toán & tin
+#hao mất năng lượng
+#sự mất năng lượng
+@Lĩnh vực: xây dựng
+#sự tổn hao năng lượng
+@Lĩnh vực: điện
+#tổn thất điện năng
+@Lĩnh vực: điện tử & viễn thông
+#tổn thất năng lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ hao năng lượng
+#độ tiêu tán năng lượng
+#sự hao năng lượng
+#sự tiêu tán năng lượng
+@Lĩnh vực: toán & tin
+#hao mất năng lượng
+#sự mất năng lượng
+@Lĩnh vực: xây dựng
+#sự tổn hao năng lượng
+@Lĩnh vực: điện
+#tổn thất điện năng
+@Lĩnh vực: điện tử & viễn thông
+#tổn thất năng lượng

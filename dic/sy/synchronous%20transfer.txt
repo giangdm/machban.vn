@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự truyền đồng bộ
+@Lĩnh vực: toán & tin
+#sự chuyển dịch đồng bộ

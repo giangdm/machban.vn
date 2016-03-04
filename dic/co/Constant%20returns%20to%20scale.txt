@@ -1,0 +1,3 @@
+﻿@Constant returns to scale
+#(Econ) Sinh lợi không đổi theo qui mô; Lợi tức cố định theo quy mô
+: Xem ECONOMIES OF SCALE, RETURNS TO SCALE

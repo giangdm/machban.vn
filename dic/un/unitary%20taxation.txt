@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chế độ thuế đơn nhất, thống nhất
+#chế độ thuế hợp nhất
+#đánh thuế toàn bộ

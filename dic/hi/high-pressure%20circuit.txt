@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sơ đồ cao áp
+#vòng tuần hoàn cao áp

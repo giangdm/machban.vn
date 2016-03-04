@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ chuyển mạch đường dây
+@Lĩnh vực: toán & tin
+#công tắc đường dây
+#thiết bị chuyển mạch đường truyền
+@Lĩnh vực: điện tử & viễn thông
+#đảo mạch dòng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ chuyển mạch đường dây
+@Lĩnh vực: toán & tin
+#công tắc đường dây
+#thiết bị chuyển mạch đường truyền
+@Lĩnh vực: điện tử & viễn thông
+#đảo mạch dòng

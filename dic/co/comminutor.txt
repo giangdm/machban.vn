@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị nghiền nhỏ
+@Chuyên ngành kỹ thuật
+#máy nghiền

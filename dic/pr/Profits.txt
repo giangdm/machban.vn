@@ -1,0 +1,3 @@
+﻿@Profits
+#(Econ) Lợi nhuận.
+: Chênh lệch giữa doanh thu từ việc bán hàng sản xuất ra và tất cả các chi phí cơ hội của các yếu tố được sử dụng để tạo ra sản lượng đó.

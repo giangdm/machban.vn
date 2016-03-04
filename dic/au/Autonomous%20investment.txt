@@ -1,0 +1,8 @@
+﻿@Autonomous investment
+#(Econ) Đầu tư tự định.
+@Chuyên ngành kinh tế
+#đầu tư tự định
+#đầu tư tự định (không thay đổi theo mức thu nhập)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đầu tư tự sinh

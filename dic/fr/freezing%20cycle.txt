@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chu kỳ làm lạnh đông
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu trình kết đông
+#chu trình làm đông lạnh

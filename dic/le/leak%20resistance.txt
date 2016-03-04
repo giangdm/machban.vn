@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#điện trở rò
+#sức kháng rò
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sức cản rò rỉ
+#sức chống rò rỉ
+#trở kháng rò rỉ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sức cản rò rỉ
+#sức chống rò rỉ
+#trở kháng rò rỉ

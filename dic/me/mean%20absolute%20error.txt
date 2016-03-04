@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sai sót bình quân tuyệt đối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ sai tuyệt đối trung bình

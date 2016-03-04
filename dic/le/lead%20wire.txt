@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#dây chì
+@Lĩnh vực: điện
+#dây dẫn vào
+@Lĩnh vực: xây dựng
+#dây tín hiệu
+@Chuyên ngành kỹ thuật
+#dây chì
+@Lĩnh vực: điện
+#dây dẫn vào
+@Lĩnh vực: xây dựng
+#dây tín hiệu

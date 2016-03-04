@@ -1,0 +1,2 @@
+﻿@absorption index
+#(Tech) chỉ số hấp thu

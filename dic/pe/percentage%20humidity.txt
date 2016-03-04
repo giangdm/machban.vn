@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ (bão hòa) ẩm (theo %)
+#độ bão hòa ẩm (theo %)

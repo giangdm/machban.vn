@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kinh tế
+#điểm kiểm soát
+#điểm quy chiếu
+#điểm tham khảo
+@Chuyên ngành kỹ thuật
+#căn nguyên
+#điểm chuẩn
+#điểm định hướng
+#điểm kiểm tra
+#điểm mốc
+#điểm quy chiếu
+#đối chiếu
+#nguồn gốc
+#mốc chuẩn
+@Lĩnh vực: xây dựng
+#cột đất (chừa lại khi đào đất)
+@Lĩnh vực: điện tử & viễn thông
+#điểm tham chiếu
+@Lĩnh vực: toán & tin
+#điểm tiêu chuẩn

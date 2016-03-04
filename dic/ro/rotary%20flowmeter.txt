@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#lưu lượng kế kiểu quay
+#lưu lượng kế kiểu tuabin

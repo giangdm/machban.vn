@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#có bồi thường tổn thất riêng
+#có tổn thất riêng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#kể cả tổn thất riêng

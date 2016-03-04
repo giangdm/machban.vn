@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thí nghiệm mô hình
+@Lĩnh vực: cơ khí & công trình
+#sự thử điển hình
+#sự thử trên mô hình
+@Lĩnh vực: giao thông & vận tải
+#sự thử mẫu (đóng tàu)
+@Lĩnh vực: toán & tin
+#thực nghiệm trên mô hình

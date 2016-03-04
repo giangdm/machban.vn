@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng chuẩn
+#tải trọng danh định
+#tải trọng tiêu chuẩn
+@Lĩnh vực: điện
+#dòng ngắt cho phép
+#dòng ngắt danh định

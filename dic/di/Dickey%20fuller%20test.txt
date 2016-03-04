@@ -1,0 +1,3 @@
+﻿@Dickey fuller test
+#(Econ) Các kiểm định Dickey Fuller.
+: Một tập hợp các kiểm định sự tồn tại của đơn vị gốc trong chuỗi thời gian.

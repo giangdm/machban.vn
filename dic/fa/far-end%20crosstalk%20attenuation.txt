@@ -1,0 +1,2 @@
+﻿@far-end crosstalk attenuation
+#(Tech) suy giảm xuyên âm đầu xa

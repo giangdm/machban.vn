@@ -1,0 +1,3 @@
+﻿@Stabilization function
+#(Econ) Chức năng ổn định hoá.
+: Vai trò của chính phủ trong việc sử dụng các CHÍNH SÁCH TÀI KHOÁ VÀ CHÍNH SÁCH TIỀN TỆ nhằm duy trì một mức hoạt động kinh tế cao và đều đặn.

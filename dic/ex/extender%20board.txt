@@ -1,0 +1,6 @@
+﻿@extender board
+#(Tech) bảng bộ sao
+@Chuyên ngành kỹ thuật
+#bảng mạch mở rộng
+@Chuyên ngành kỹ thuật
+#bảng mạch mở rộng

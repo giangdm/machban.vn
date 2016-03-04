@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đặc tuyến dòng-điện áp
+@Lĩnh vực: điện lạnh
+#đặc tuyến von-ampe
+#đường đặc trưng điện áp-dòng
+#đường đặc trưng von-ampe

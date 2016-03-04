@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhiệt độ âm điện tử
+@Lĩnh vực: vật lý
+#nhiệt độ electron
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhiệt độ âm điện tử
+@Lĩnh vực: vật lý
+#nhiệt độ electron

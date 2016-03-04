@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cấu kiện chịu lực
+#điểm tựa
+@Lĩnh vực: xây dựng
+#cấu kiện mang lực
+@Lĩnh vực: toán & tin
+#cấu kiện năng lực

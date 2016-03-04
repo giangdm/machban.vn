@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ chỉ thị mức dầu
+@Lĩnh vực: ô tô
+#đồng hồ báo mực dầu
+@Lĩnh vực: đo lường & điều khiển
+#mức dầu kế

@@ -1,0 +1,4 @@
+﻿@abstract symbol
+#(Tech) ký hiệu trừu tượng
+@Chuyên ngành kỹ thuật
+#ký hiệu trừu tượng

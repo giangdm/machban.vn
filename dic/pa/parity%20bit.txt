@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bit chẵn lẻ
+#bit kiểm tra
+@Lĩnh vực: toán & tin
+#bit bậc

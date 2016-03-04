@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống truyền
+@Lĩnh vực: xây dựng
+#hệ thống chuyển tiếp
+@Lĩnh vực: toán & tin
+#hệ thống phát

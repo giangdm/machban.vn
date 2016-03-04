@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mục đích chạy thử
+#mục đích kiểm thử
+#mục đích kiểm tra

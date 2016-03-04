@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giấy báo cự tuyệt thanh toán
+#giấy báo từ chối thanh toán

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy thu quang
+@Lĩnh vực: điện tử & viễn thông
+#bộ nhận quang học
+@Lĩnh vực: toán & tin
+#bộ thu quang
+#thiết bị nhận dạng quang
+@Lĩnh vực: xây dựng
+#máy thu quang học

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tàu vận tải chứa metan (được làm) lạnh
+#tàu vận tải chứa metan (được) làm lạnh
+#téc vận tải chứa mêtan (được làm) lạnh
+#téc vận tải chứa metan (được) làm lạnh

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#lực đặt ở đầu mút (rầm)
+@Lĩnh vực: toán & tin
+#tải đầu cuối
+#tải trọng đầu nút

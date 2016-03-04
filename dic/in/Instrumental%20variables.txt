@@ -1,0 +1,3 @@
+﻿@Instrumental variables
+#(Econ) Các biến công cụ (IV).
+: Biến số thay thế BIẾN GIẢI THÍCH THỰC TẾ để làm trọng số trong phân tích hồi quy.

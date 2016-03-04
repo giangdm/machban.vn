@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tủ lạnh để sản phẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ngăn lạnh có khóa

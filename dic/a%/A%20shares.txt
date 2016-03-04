@@ -1,0 +1,5 @@
+﻿@A shares
+#(Econ) Cổ phiếu A.(Cổ phiếu hưởng lãi sau).
+: Xem FINANCIAL CAPITAL.
+@Chuyên ngành kinh tế
+#cổ Phiếu A

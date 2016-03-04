@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hoạt động kép
+#hoạt động song song
+#phép toán đối ngẫu

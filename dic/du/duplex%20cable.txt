@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dây đôi
+@Lĩnh vực: điện
+#cáp dôi
+#cáp đôi
+@Lĩnh vực: toán & tin
+#cáp hai chiều

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phím lập bảng thẳng đứng
+#phím tạo bảng dọc (trên máy đáng chữ)

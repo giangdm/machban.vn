@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#ống camera
+#ống quay hình
+#ống vidicon
+@Lĩnh vực: y học
+#ống chụp lấy hình
+@Lĩnh vực: điện tử & viễn thông
+#ống quay lấy hình

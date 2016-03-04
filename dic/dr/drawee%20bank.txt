@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ngân hàng nhận hối phiếu
+#ngân hàng nhận trả
+#ngân hàng trả tiền (hối phiếu)

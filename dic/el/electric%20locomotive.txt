@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu máy điện
+#loco điện
+@Lĩnh vực: ô tô
+#đầu máy chạy bằng điện
+@Lĩnh vực: điện
+#đầu máy chạy điện
+#đầu tàu chạy điện
+#đầu tàu điện
+@Chuyên ngành kỹ thuật
+#đầu máy điện
+#loco điện
+@Lĩnh vực: ô tô
+#đầu máy chạy bằng điện
+@Lĩnh vực: điện
+#đầu máy chạy điện
+#đầu tàu chạy điện
+#đầu tàu điện

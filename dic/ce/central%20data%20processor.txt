@@ -1,0 +1,2 @@
+﻿@central data processor
+#(Tech) bộ xử lý dữ kiện trung ương

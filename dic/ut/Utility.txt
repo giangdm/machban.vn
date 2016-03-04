@@ -1,0 +1,39 @@
+﻿@Utility
+#(Econ) Độ thoả dụng.
+: Được hiểu rộng rãi trong kinh tế học như là đồng nghĩa với phúc lợi, PHÚC LỢI KINH TẾ ,sự thoả mãn và đôi khi là hạnh phúc.
+<!-- more -->
+@utility /ju:'tiliti/
+*danh từ
+#sự có ích; tính có ích
+#vật có ích, vật dùng được
+=utility clothes: quần áo để mặc dầu d i
+=utility furniture: đồ đạc loại thiết thực
+#thuyết vị lợi
+#(số nhiều) những ngành phục vụ công cộng ((cũng) public utilities)
+#(sân khấu) vai phụ ((cũng) utility-man)
+@Chuyên ngành kinh tế
+#công dụng
+#hiệu dụng
+#sự thỏa dụng
+#tính hữu dụng
+#tính thực dụng
+@Chuyên ngành kỹ thuật
+#đa dụng
+#đa năng
+#dịch vụ
+#ích lợi
+#nhiều công dụng
+#sự có ích
+#thường trình
+#vạn năng
+@Lĩnh vực: xây dựng
+#công việc dịch vụ
+@Lĩnh vực: toán & tin
+#sự hữu ích
+@Lĩnh vực: cơ khí & công trình
+#sự ích lợi
+@Lĩnh vực: điện
+#tính hữu ích
+<!-- more -->
+@utility
+#ích lợi

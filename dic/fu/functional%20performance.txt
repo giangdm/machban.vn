@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự thực hiện chức năng
+@Lĩnh vực: hóa học & vật liệu
+#tính năng hoạt động

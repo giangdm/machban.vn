@@ -1,0 +1,2 @@
+﻿@coin-box vault door
+#(Tech) cửa hộc đựng tiền (cắc)

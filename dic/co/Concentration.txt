@@ -1,0 +1,32 @@
+﻿@Concentration
+#(Econ) Sự tập trung.
+: 1).Một cụm thuật ngữ chỉ tình trạng  các điều kiện cạnh tranh phổ biến trong một ngành. 2).Một khái niệm sử dụng khi nói tới PHÂN PHỐI QUY MÔ CỦA HÃNG trong một ngành của nền kinh tế, hoặc liên quan đến vị trí của ngành công nghiệp.
+<!-- more -->
+@concentration /,kɔnsen'treiʃn/
+*danh từ
+#sự tập trung; nơi tập trung
+=power of concentration: năng lực tập trung trong tư tưởng
+=concentration camp: trại tập trung
+#(hoá học) sự cô
+=concentration by evaporation: sự cô cạn
+@Chuyên ngành kinh tế
+#nồng độ
+#sự cô
+#sự làm đông tụ
+#sự tập trung
+#tình trạng tập trung
+@Chuyên ngành kỹ thuật
+#chìm
+#độ đậm đặc
+#nồng độ
+#sự cô đặc
+#sự làm giàu
+#sự ngưng kết
+#sự tập hợp
+#sự tập trung
+#sự tuyển khoáng
+#tập trung
+<!-- more -->
+@concentration
+#sự tập trung, sự cô đặc
+#stress c. sự tập trung ứng lực

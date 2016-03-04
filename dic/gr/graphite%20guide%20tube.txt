@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#ống chỉ dẫn bằng graphit
+#ống chỉ dẫn bằng than chì

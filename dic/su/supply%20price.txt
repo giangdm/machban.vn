@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giá cung ứng
+#giá cung ứng (giá thấp nhất được nhà cung ứng chấp nhận)
+#giá cung ứng (giá thấp nhất được nhà cung ứng chấp thuận)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khoản cho vay không đòi được
+#khoản vay đến hạn không trả
+#khoản vay không trả được

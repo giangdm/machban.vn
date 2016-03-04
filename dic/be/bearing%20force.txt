@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khả năng chịu lực
+#lực chống
+#sức chịu tải
+#sức mang tải

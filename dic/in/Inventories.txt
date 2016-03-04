@@ -1,0 +1,5 @@
+﻿@Inventories
+#(Econ) Hang tồn kho, dữ trữ.
+: Dự trữ hay mức duy trì hành hoá của các doanh nghiệp để đáp ứng những dao động thất thường tạm thời trong sản xuất hay kinh doanh.
+@Chuyên ngành kinh tế
+#các kho (hàng)

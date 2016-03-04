@@ -1,0 +1,6 @@
+﻿@Gross barter terms of trade
+#(Econ) Tổng tỷ lệ hàng đổi hàng.
+: Xem TERMS OF TRADE.
+@Chuyên ngành kinh tế
+#điều khoản tổng mậu dịch của mậu dịch hàng đổi hàng
+#tỷ lệ mộc trao đổi sản phẩm

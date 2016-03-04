@@ -1,0 +1,2 @@
+﻿@clipper limiter
+#(Tech) bộ hạn chế trên dưới

@@ -1,0 +1,4 @@
+﻿@decision table
+#(Tech) bảng để quyết định
+@Chuyên ngành kỹ thuật
+#bảng quyết định

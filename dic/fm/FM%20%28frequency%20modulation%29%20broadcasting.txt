@@ -1,0 +1,2 @@
+﻿@FM (frequency modulation) broadcasting
+#(Tech) phát thanh biến điệu tần số

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thời gian thi công thực tế
+#thời gian xây dựng thực tế

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#khúc tuyến xác suất
+@Chuyên ngành kỹ thuật
+#đường cong xác suất
+@Lĩnh vực: toán & tin
+#đường xác suất

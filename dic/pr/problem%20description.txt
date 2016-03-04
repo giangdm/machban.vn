@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đề tả
+#mô tả bài toán
+@Lĩnh vực: toán & tin
+#sự mô tả bài toán
+#sự mô tả vấn đề
+#xác định vấn đề

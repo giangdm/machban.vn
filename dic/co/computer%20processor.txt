@@ -1,0 +1,2 @@
+﻿@computer processor
+#(Tech) bộ xử lý máy điện toán

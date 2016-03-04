@@ -1,0 +1,8 @@
+﻿@rocker switch
+*danh từ
+#nút mở tắt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#công tắc bật
+#công tắc đảo điện
+#công tắc lắc

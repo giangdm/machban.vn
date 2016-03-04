@@ -1,0 +1,7 @@
+﻿@Long rate
+#(Econ) Lãi suất dài hạn.
+: Một loạt các lãi suất có thể thu được từ các chứng khoán dài hạn, và do đó có thể trả cho các khoản vay dài hạn mới.
+@Chuyên ngành kinh tế
+#hối suất phiếu dài hạn
+#lãi suất trái khoán dài hạn
+#mức chiết khấu kỳ phiếu

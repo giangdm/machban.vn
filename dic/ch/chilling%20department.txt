@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phân xưởng chế biến lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phân xưởng (xử lý) lạnh

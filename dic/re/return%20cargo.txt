@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chuyến hàng về
+#hàng (chở) chuyến về
+@Chuyên ngành kỹ thuật
+#hàng chuyển về
+@Lĩnh vực: giao thông & vận tải
+#hàng trở về

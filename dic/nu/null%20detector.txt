@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ điều chỉnh mức không
+#dụng cụ chỉ không
+#dụng cụ dò mức không
+@Lĩnh vực: điện
+#cái chỉ báo mức không
+#máy phát hiện mức không

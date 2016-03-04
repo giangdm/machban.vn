@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#ký hiệu
+#nhãn hiệu tập thể
+#phù hiệu
+@Chuyên ngành kỹ thuật
+#nhãn chung

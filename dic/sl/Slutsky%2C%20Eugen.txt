@@ -1,0 +1,3 @@
+﻿@Slutsky, Eugen
+#(Econ) (1880-1948).
+: Nhà kinh tế học người Nga và là nhà nhà toán học kinh tế, là giáo sư tại trường đại học Kiev và Viện toán học thuộc Học viện hàn lâm khoa học Liên Xô, danh tiếng được biết qua lý thuyết về cầu nổi tiếng của ông. Ông cho rằng lý thuyết cầu có thể dựa trên khái niệm độ thoả dụng theo số thứ tự. Về sau được Hicks phát triển thêm, là sự thừa kế và phát triển học thuyết Marshall, nhưng bỏ qua giả thiết mang tính hạn chế về độ thoả dụng có thể lượng hoá được. Slutsky đã có những đóng góp quan trong vào lý thuyết kinh tế lượng, đặc biệt là việc biểu hiện những dao động mang tính chu kỳ trong những số bình quân di động của một chuỗi thời gian rút ra từ những con sô ngẫu nhiên.

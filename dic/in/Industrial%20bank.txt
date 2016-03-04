@@ -1,0 +1,5 @@
+﻿@Industrial bank
+#(Econ) Ngân hàng công nghiệp.
+: Một tên gọi khác của một CÔNG TY TÀI CHÍNH, chẳng hạn như một tổ chức tạo tín dụng THUÊ MUA.
+@Chuyên ngành kinh tế
+#ngân hàng công nghiệp

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#dao động riêng
+@Lĩnh vực: toán & tin
+#chế độ thông thường
+@Lĩnh vực: điện lạnh
+#chế độ tự nhiên
+#kiểu (dao động bình thường)
+@Lĩnh vực: xây dựng
+#kiểu chuẩn tắc

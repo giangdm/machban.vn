@@ -1,0 +1,3 @@
+﻿@Demand - deficient unemployment
+#(Econ) Thất nghiệp do thiếu cầu.
+: Trường hợp trong đó tổng cầu quá thấp không đủ để tạo việc làm cho tất cả những ai muốn làm việc tại mức lương thực tế hiện hành bất kể trình độ đào tạo hoặc bố trí như thế nào đi nữa.

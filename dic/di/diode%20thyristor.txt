@@ -1,0 +1,7 @@
+﻿@diode thyristor
+#(Tech) bộ công tắc chất bán dẫn đèn hai cực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thyrixto điôt
+@Lĩnh vực: điện tử & viễn thông
+#tyristo điot

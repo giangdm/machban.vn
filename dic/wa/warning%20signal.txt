@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#dấu hiệu, tín hiệu báo động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tín hiệu báo trước

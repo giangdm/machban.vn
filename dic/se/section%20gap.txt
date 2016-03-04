@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khe phân đoạn
+@Lĩnh vực: điện
+#khoảng hở (khe hở) từng đoạn

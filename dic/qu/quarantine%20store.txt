@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kho bảo quản
+#kho cách ly
+#kho vật liệu tái sinh

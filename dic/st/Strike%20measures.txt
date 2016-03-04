@@ -1,0 +1,3 @@
+﻿@Strike measures
+#(Econ) Các thước đo về đình công.
+: Có 4 thước đo về mức độ và sự nghiêm trọng của đình công: Số công nhân tham gia đình công; số cuộc đình công; số ngày công mất đi do đình công; và tỷ lệ giờ làm việc mất đi trong đình công.

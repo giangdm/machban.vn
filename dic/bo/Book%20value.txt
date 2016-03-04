@@ -1,0 +1,12 @@
+﻿@Book value
+#(Econ) Giá trị trên sổ sách
+: Cụm thuật ngữ này dùng trong kế toán. Để xác định giá trị trên sổ sách của một cổ phiếu, tất cả tqài sản của công ty được cộng lại, tất cả công nợ và nợ được trừ đi, bao gồm giá phát mại của cổ phiếu ưu đãi
+@Chuyên ngành kinh tế
+#giá kế toán
+#giá trị ghi trên sổ sách
+#giá trị theo sổ sách
+@Chuyên ngành kỹ thuật
+#giá trị kế toán
+@Lĩnh vực: giao thông & vận tải
+#giá trị hạch toán
+#giá trị theo sổ sách

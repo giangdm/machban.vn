@@ -1,0 +1,7 @@
+﻿@forward reference
+#(Tech) tham khảo trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự tham chiếu trước
+#tham chiếu tiến
+#tham chiếu trước

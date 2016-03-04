@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mức độ ồn của âm nền
+@Lĩnh vực: toán & tin
+#mức nhiễu nền

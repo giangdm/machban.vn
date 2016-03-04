@@ -1,0 +1,5 @@
+﻿@compatible thin film circuit
+#(Tech) mạch màng mỏng kết hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạch hàng mỏng tương thích

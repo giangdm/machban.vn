@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dự án thủy lợi
+@Lĩnh vực: xây dựng
+#thiết kế thủy lực
+@Lĩnh vực: cơ khí & công trình
+#tính toán thủy lực

@@ -1,0 +1,6 @@
+﻿@Decreasing cost industry
+#(Econ) Ngành có chi phí giảm dần
+: Một ngành mà đường cung dài hạn dốc xuống. Điều này xảy ra nếu có những yếu tố tạo hiệu quả kinh tế nằm ngoài hãng mà lại nằm trong ngành.
+@Chuyên ngành kinh tế
+#công nghiệp phí tổn giảm dần
+#ngành kinh doanh chi phí giảm dần

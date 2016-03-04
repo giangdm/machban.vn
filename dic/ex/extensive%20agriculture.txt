@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#nông nghiệp có phạm vi rộng
+#nông nghiệp khoáng diện
+#nông nghiệp quảng canh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+#quảng canh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+#quảng canh

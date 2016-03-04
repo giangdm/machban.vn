@@ -1,0 +1,2 @@
+﻿@approach signal
+#(Tech) tín hiệu tiếp cận

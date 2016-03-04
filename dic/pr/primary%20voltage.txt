@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp sơ cấp
+@Lĩnh vực: cơ khí & công trình
+#điện áp cuộn sơ cấp
+@Lĩnh vực: điện lạnh
+#điện áp sơ cấp (ở biến áp)

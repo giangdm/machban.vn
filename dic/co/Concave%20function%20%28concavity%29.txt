@@ -1,0 +1,3 @@
+﻿@Concave function (concavity)
+#(Econ) Hàm lõm (tính lõm).
+: Một hàm lõm về vị trs gốc, vì vậy ĐẠO HÀM BÂC 2 của nó là âm. một hàm như vậy cũng có thể lồi từ gốc toạ độ.

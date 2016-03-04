@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#phản lực
+#phản tác dụng
+@Lĩnh vực: toán & tin
+#tác động ngược
+@Lĩnh vực: điện lạnh
+#tác dụng phản hồi

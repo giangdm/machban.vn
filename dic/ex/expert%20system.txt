@@ -1,0 +1,10 @@
+﻿@expert system
+#(Tech) hệ thống chuyên gia [máy điện toán]
+@Chuyên ngành kinh tế
+#hệ chuyên gia
+@Chuyên ngành kỹ thuật
+#chuộc tội
+#hệ chuyên gia
+@Chuyên ngành kỹ thuật
+#chuộc tội
+#hệ chuyên gia

@@ -1,0 +1,7 @@
+﻿@local time ['loukəl,taim]
+*danh từ
+# hệ thống thời gian đạngđươc dùng trong một vùng cụ thể trên thế giới; giờ địa phương
+@Chuyên ngành kinh tế
+#giờ địa phương
+@Chuyên ngành kỹ thuật
+#giờ địa phương

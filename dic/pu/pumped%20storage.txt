@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bể tích trên cao
+@Lĩnh vực: điện lạnh
+#hồ dự trữ nước bơm (lúc nhu cầu thấp)
+@Lĩnh vực: điện
+#sự tích trữ bằng bơm (bơm tích năng)

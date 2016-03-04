@@ -1,0 +1,3 @@
+﻿@Balance principle
+#(Econ) Nguyên lý cân đối.
+: Một phương pháp cơ bản của kế hoạch Xô Viết đó là kế toán sổ kép bằng giá cả hay vật chất.Mục đích của cân đối là đảm bảo sự đồng bộ trong các kế hoạch. Các cân đối này ít phức tạp hơn trong bảng cân đối LIÊN NGÀNH thực hiện vai trò tương tự trong lập kế kế hoạch. Về nghĩa riêng xem MATERIALS BALANCE PRINCIPLE.

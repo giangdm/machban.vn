@@ -1,0 +1,14 @@
+﻿@executable statement
+#(Tech) câu lệnh khả thi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#câu lệnh khả thi
+#câu lệnh thi hành được
+#câu lệnh thực hiện được
+#lệnh chạy được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#câu lệnh khả thi
+#câu lệnh thi hành được
+#câu lệnh thực hiện được
+#lệnh chạy được

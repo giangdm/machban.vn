@@ -1,0 +1,3 @@
+﻿@Satisficing behaviour
+#(Econ) Hành vi thoả mãn.
+: Hành vi hướng tới việc đạt được những mức khát vọng trong các mục tiêu ra quyết định và hành vi đó không nhất thiết phải liên quan tới việc tối đa hoá bất kỳ một yếu tố nào.

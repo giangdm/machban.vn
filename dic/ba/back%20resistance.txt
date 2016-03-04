@@ -1,0 +1,5 @@
+﻿@back resistance
+#(Tech) điện trở ngược
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện trở ngược

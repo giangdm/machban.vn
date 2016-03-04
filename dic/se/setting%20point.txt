@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#điểm đông tụ
+#độ axit đông tụ (sữa)
+@Chuyên ngành kỹ thuật
+#điểm đông cứng

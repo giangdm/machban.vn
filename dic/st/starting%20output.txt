@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#công suất khởi động
+@Lĩnh vực: cơ khí & công trình
+#công suất khởi công
+@Lĩnh vực: hóa học & vật liệu
+#sản lượng khởi đầu

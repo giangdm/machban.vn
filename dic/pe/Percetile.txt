@@ -1,0 +1,3 @@
+﻿@Percetile
+#(Econ) Phân vị.
+: Một cách đo tính vị trí các dữ liệu mẫu hoặc các phân phối.

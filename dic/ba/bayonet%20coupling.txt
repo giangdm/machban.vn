@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ghép nối kiểu chốt dài
+@Lĩnh vực: điện
+#khớp nối có ngạnh

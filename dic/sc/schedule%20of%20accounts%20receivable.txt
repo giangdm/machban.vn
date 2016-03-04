@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#bảng kê kế toán phải thu
+#bảng liệt kê nợ phải thu

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu trình Carnot lý tưởng
+#chu trình lý tưởng Carnot
+@Lĩnh vực: hóa học & vật liệu
+#nguyên lý Carnot lý tưởng

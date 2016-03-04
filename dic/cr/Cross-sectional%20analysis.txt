@@ -1,0 +1,3 @@
+﻿@Cross-sectional analysis
+#(Econ) Phân tích chéo
+: Là việc phân tích một loạt các số liệu của những quan sát có liên quan xảy ra tại một thời điểm (Xem TIME SERIES).

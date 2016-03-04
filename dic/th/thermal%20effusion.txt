@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phóng lưu do nhiệt
+@Lĩnh vực: điện lạnh
+#thoát hơi do nhiệt

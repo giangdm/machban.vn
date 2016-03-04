@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự điều khiển tuyến tính
+@Lĩnh vực: xây dựng
+#sự quản lý đường dây
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự điều khiển tuyến tính
+@Lĩnh vực: xây dựng
+#sự quản lý đường dây

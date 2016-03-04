@@ -1,0 +1,5 @@
+﻿@device driver
+#(Tech) chương trình điều khiển thiết bị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#driver thiết bị

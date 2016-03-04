@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#lực kéo dọc trục
+#sự kéo dọc trục
+@Lĩnh vực: xây dựng
+#kéo dọc trục
+#sự kéo đúng tâm
+@Lĩnh vực: cơ khí & công trình
+#sự kéo chiều trục
+#ứng suất khi kéo

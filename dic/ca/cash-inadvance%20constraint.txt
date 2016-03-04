@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kinh tế
+#ràng buộc về tiền mặt phải có (trước khi giao dịch hàng hóa)

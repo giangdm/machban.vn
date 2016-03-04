@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#hàng trữ kho đang chế tạo
+#hàng trữ kho đang chế tạo, công việc đang tiến hành

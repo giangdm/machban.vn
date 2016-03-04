@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mã tự chữa
+#mã tự hiệu chỉnh
+#mã tự hiệu chỉnh lỗi
+#mã tự sửa
+#mã tự sửa lỗi
+#mã tự sửa sai

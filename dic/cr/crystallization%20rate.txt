@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tốc độ kết tinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tốc độ kết tinh
+#tỷ lệ kết tinh thể

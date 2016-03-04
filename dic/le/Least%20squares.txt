@@ -1,0 +1,3 @@
+﻿@Least squares
+#(Econ) Phương pháp bình phương nhỏ nhất.
+: Một cụm thuật ngữ chung miêu tả cơ sở của một nhóm các kỹ thuật ước lượng kinh tế lượng.

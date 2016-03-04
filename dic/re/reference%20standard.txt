@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn vị đo lường
+#mẫu chuẩn
+@Lĩnh vực: điện lạnh
+#chuẩn quy chiếu

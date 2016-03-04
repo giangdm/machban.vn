@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thiết bị chống nhiễu tần số vô tuyến
+#thiết bị triệt nhiễu RF

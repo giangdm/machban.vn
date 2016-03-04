@@ -1,0 +1,2 @@
+﻿@byte-addressable
+#(Tech) định vị bai được

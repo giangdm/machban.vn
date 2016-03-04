@@ -1,0 +1,3 @@
+﻿@Biological interest rate
+#(Econ) Lãi suất sinh học.
+: Một giá trị cho lãi suất trong thuyết tăng trưởng, trong đó giữa tất cả đường TĂNG TRƯỞNG CÂN ĐỐI, thì TIÊU DÙNG theo đầu người cáo nhất đạt được và duy trì được bằng một đường trên đó năng suất vốn biên (bằng TỶ LỆ LỢI NHUẬN trong CẠNH TRANH HOÀN HẢO) bằng tỷ lệ tăng trưởng không đổi của lực lượng lao động được xác định bằng cách ngoại sinh. Xem GOLDEN RULE OF ACCUMULATION.

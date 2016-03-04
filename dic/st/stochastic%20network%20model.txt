@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ngẫu nhiên
+@Lĩnh vực: xây dựng
+#mô hình mạng rối

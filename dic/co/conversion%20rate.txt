@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#tỉ giá hối đoái
+#tỉ lệ quy đổi
+#tỷ giá chuyển đổi
+@Chuyên ngành kỹ thuật
+#hệ số biến đổi
+@Lĩnh vực: cơ khí & công trình
+#bộ công cụ biến đổi
+#bộ dụng cụ cơ khí
+@Lĩnh vực: ô tô
+#tốc độ hóa khử
+@Lĩnh vực: toán & tin
+#tỷ lệ chuyển đổi

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hầm giám sát
+#hầm kiểm tra
+@Lĩnh vực: cơ khí & công trình
+#hành lang kiểm tra

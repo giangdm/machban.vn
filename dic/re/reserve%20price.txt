@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#đấu giá thấp nhất
+#giá khởi đầu thấp nhất
+#giá khởi điểm
+#giá thấp nhất có thể chấp nhận được

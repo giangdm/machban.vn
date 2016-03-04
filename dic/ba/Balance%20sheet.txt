@@ -1,0 +1,19 @@
+﻿@Balance sheet
+#(Econ) Bảng cân đối tài sản.
+: Một bảng báo cáo tài sản của một thương nhân hoặc một công ty vào một ngày nhất định.
+@Chuyên ngành kinh tế
+#bảng cân đối kế toán
+#bảng cân đối tài sản
+#bảng đối chiếu tài sản và nợ
+#bảng quyết toán
+#bảng tổng kết tài sản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảng cân bằng thu chi
+@Lĩnh vực: hóa học & vật liệu
+#bảng cân đối (thu chi, tài sản)
+@Lĩnh vực: giao thông & vận tải
+#bảng tổng kết tài sản
+<!-- more -->
+@balance sheet
+#bảng tổng kết tài sản

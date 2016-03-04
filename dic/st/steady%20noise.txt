@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tạp âm ổn định
+#tạp nhiễu ổn định
+#tiếng ồn ổn dịnh
+@Lĩnh vực: điện tử & viễn thông
+#tiếng ồn đều đặn
+@Lĩnh vực: vật lý
+#tiếng ồn ổn định

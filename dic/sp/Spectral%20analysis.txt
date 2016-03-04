@@ -1,0 +1,9 @@
+﻿@Spectral analysis
+#(Econ) PHân tích quang phổ.
+: Một kỹ thuật trong đó các đặc tính tuần hoàn của một biến số có thể được thiết lập từ số liệu chuỗi thời gian.
+@Chuyên ngành kinh tế
+#phân tích phổ
+@Chuyên ngành kỹ thuật
+#sự phân tích phổ
+@Lĩnh vực: điện lạnh
+#phân tích phổ

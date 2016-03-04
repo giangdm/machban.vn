@@ -1,0 +1,5 @@
+﻿@cataloged data set
+#(Tech) bộ dữ kiện được biên mục
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập dữ liệu được liệt kê

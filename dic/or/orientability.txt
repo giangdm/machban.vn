@@ -1,0 +1,5 @@
+﻿@orientability
+#(tô pô) tính định hướng được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính định hướng được

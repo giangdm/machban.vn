@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phương pháp đơn hình
+@Chuyên ngành kỹ thuật
+#phương pháp đơn công
+#phương pháp đơn hình
+@Lĩnh vực: toán & tin
+#phương pháp truyền đơn công
+#phương pháp truyền một chiều

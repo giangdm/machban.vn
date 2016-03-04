@@ -1,0 +1,21 @@
+﻿@fire station /'faiə'steiʃn/ (fire_house) /'faiə'houz/
+*danh từ
+#trạm chữa cháy, trạm cứu hoả
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#đội phòng cháy chữa cháy
+#trạm chữa cháy
+@Lĩnh vực: hóa học & vật liệu
+#trạm chứa cháy
+@Lĩnh vực: xây dựng
+#trạm cứu hỏa
+#trạm xe chữa cháy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#đội phòng cháy chữa cháy
+#trạm chữa cháy
+@Lĩnh vực: hóa học & vật liệu
+#trạm chứa cháy
+@Lĩnh vực: xây dựng
+#trạm cứu hỏa
+#trạm xe chữa cháy

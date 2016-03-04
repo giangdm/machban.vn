@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chuẩn chi viên
+#người chuẩn chi
+#người phê chuẩn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cán bộ điều khiển

@@ -1,0 +1,10 @@
+﻿@batch operation
+#(Tech) vận hành theo lô
+@Chuyên ngành kỹ thuật
+#sự vận hành từng mẻ
+@Lĩnh vực: điện lạnh
+#hoạt động từng mẻ
+#sự hoạt động từng mẻ
+#vận hành từng mẻ
+@Lĩnh vực: toán & tin
+#thao tác bó

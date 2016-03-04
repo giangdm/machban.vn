@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#khổ giấy ngang
+@Chuyên ngành kỹ thuật
+#khuôn in ngang giấy
+#khuôn ngang giấy
+@Lĩnh vực: toán & tin
+#dạng in ngang giấy
+@Chuyên ngành kỹ thuật
+#khuôn in ngang giấy
+#khuôn ngang giấy
+@Lĩnh vực: toán & tin
+#dạng in ngang giấy

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#xưởng cán kim loại
+@Chuyên ngành kỹ thuật
+#máy cán
+#máy cán thép hình
+#máy dát
+@Lĩnh vực: xây dựng
+#bộ trục cán
+#nhà máy cán thép
+#xưởng dát
+@Lĩnh vực: cơ khí & công trình
+#xưởng cán
+@Lĩnh vực: toán & tin
+#xưởng dát, máy dát

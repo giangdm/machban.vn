@@ -1,0 +1,10 @@
+﻿@Non-linear
+#(Econ) Phi tuyến.
+: Là thuật ngữ thường được gắn với một hàm số mà đồ thị của nó không phải là một đường thẳng.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#không tuyến tính
+#phi tuyến
+#phi tuyến tính
+@Lĩnh vực: điện
+#phi tuyến (tính)

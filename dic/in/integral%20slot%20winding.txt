@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dây quấn số rãnh nguyên
+@Lĩnh vực: điện
+#kiểu quấn số rãnh nguyên

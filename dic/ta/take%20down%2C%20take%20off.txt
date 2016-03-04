@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tháo ra
+@Lĩnh vực: toán & tin
+#tháo gỡ, tháo ra
+@Lĩnh vực: xây dựng
+#tháo rỡ

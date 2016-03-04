@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#dải loại bỏ
+@Lĩnh vực: điện lạnh
+#dải chặn
+#dải dừng
+@Lĩnh vực: điện
+#dải loại
+@Lĩnh vực: điện tử & viễn thông
+#dải loại bỏ (bộ lọc)

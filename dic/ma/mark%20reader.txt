@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đọc tài liệu
+#thiết bị đọc nhãn
+@Lĩnh vực: toán & tin
+#bộ đọc dấu
+#bộ đọc dấu hiệu
+#máy đọc nhãn

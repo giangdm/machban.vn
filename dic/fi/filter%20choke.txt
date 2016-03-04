@@ -1,0 +1,16 @@
+﻿@filter choke
+#(Tech) cuộn cản lọc
+@Chuyên ngành kỹ thuật
+#cuộn cản lọc
+@Lĩnh vực: ô tô
+#bộ cản lọc
+@Lĩnh vực: hóa học & vật liệu
+#bobin lọc
+#cuộn dây lọc
+@Chuyên ngành kỹ thuật
+#cuộn cản lọc
+@Lĩnh vực: ô tô
+#bộ cản lọc
+@Lĩnh vực: hóa học & vật liệu
+#bobin lọc
+#cuộn dây lọc

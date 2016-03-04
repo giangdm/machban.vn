@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#trạng thái bão hòa
+@Lĩnh vực: điện lạnh
+#điều kiện bão hòa

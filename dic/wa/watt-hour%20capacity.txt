@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#công suất oát/giờ
+@Lĩnh vực: điện lạnh
+#dung lượng theo oát giờ (của ắcqui)

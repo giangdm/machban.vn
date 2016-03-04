@@ -1,0 +1,3 @@
+﻿@Quotient rule
+#(Econ) Quy tắc thương số.
+: Một quy tắc để xác định đạo hàm của một hàm số theo một biến số, trong đó hàm số bao gồm thương (nghĩa là tỷ lệ) giữa hai hàm số riêng rẽ của biến số.

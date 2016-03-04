@@ -1,0 +1,12 @@
+﻿@emulsion laser storage
+#(Tech) bộ trữ kích quang nhũ tương, bộ nhớ lade nhũ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ lưu trữ laze nhũ
+#bộ nhớ chiếu laze
+#bộ nhớ tác động bằng laze
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ lưu trữ laze nhũ
+#bộ nhớ chiếu laze
+#bộ nhớ tác động bằng laze

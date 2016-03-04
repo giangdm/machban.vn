@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#giếng kiểm tra
+#giếng quan sát
+#giếng thăm
+#hố cầu khám xe
+@Lĩnh vực: ô tô
+#hầm kiểm tra gầm xe
+@Lĩnh vực: hóa học & vật liệu
+#hố kiểm tra

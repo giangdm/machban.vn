@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#giá trị sau cùng
+@Chuyên ngành kỹ thuật
+#kết quả cuối cùng
+@Lĩnh vực: toán & tin
+#giá trị cuối cùng
+#giới hạn cuối cùng
+@Chuyên ngành kỹ thuật
+#kết quả cuối cùng
+@Lĩnh vực: toán & tin
+#giá trị cuối cùng
+#giới hạn cuối cùng

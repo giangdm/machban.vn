@@ -1,0 +1,5 @@
+﻿@full-scale deflection
+#(Tech) làm lệch tối đa thang độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#độ lệch toàn thang đo

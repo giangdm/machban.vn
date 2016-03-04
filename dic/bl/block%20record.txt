@@ -1,0 +1,2 @@
+﻿@block record
+#(Tech) bản ghi khối

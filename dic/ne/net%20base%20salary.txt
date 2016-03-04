@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#lương căn bản tịnh
+@Chuyên ngành kỹ thuật
+#lương cơ bản có bảo hiểm

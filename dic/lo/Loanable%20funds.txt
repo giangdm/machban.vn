@@ -1,0 +1,5 @@
+﻿@Loanable funds
+#(Econ) Các quỹ có thể cho vay.
+: Cụm thuật ngữ này có ý nghĩa là các khoản tiền sẵn có để cho vay trên thị trường tài chính, nhưng thường nó nảy sinh trong văn cảnh lý thuyết lãi suất.
+@Chuyên ngành kinh tế
+#vốn có thể cho vay

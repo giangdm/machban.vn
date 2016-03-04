@@ -1,0 +1,2 @@
+﻿@sigma-function &#963;
+#- hàm

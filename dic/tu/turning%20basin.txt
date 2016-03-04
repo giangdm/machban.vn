@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bể đổi hướng
+#bể xoay tròn
+@Lĩnh vực: giao thông & vận tải
+#vùng để quay tàu (ở cảng)

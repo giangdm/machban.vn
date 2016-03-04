@@ -1,0 +1,9 @@
+﻿@foot-candle
+*danh từ
+#phút nến (đơn vị chiếu sáng bằng 20, 764 lux)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ-nến
+#fút-nến
+@Lĩnh vực: đo lường & điều khiển
+#fut nến

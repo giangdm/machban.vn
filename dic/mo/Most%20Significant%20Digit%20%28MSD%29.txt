@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#số có trọng số lớn nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chữ số có ý nghĩa nhất
+#chữ số ở cực trái
+#chữ số ở hàng cao nhất
+#chữ số quan trọng nhất

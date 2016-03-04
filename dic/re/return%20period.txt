@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#tần suất
+@Lĩnh vực: xây dựng
+#chu kỳ lặp lại
+#chu kỳ tần suất
+#thời kỳ tái diễn
+@Lĩnh vực: điện tử & viễn thông
+#chu kỳ phục hồi
+@Lĩnh vực: toán & tin
+#chu kỳ quay trở lại (của chuỗI thời gian)
+@Lĩnh vực: cơ khí & công trình
+#khoảng lặp

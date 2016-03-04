@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ẩm kế
+@Lĩnh vực: xây dựng
+#máy đo ẩm
+@Lĩnh vực: toán & tin
+#máy đo ẩn

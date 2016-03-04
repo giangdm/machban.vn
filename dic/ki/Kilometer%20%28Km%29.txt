@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#kilometre
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bằng 1000 met
+#kilômet
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bằng 1000 met
+#kilômet

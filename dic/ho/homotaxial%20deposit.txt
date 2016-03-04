@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#trầm tích cùng loại
+@Lĩnh vực: hóa học & vật liệu
+#trầm tích khác loại

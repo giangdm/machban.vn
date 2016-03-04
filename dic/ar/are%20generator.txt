@@ -1,0 +1,2 @@
+﻿@are generator
+#(Tech) bộ dao động loại tia lửa

@@ -1,0 +1,7 @@
+﻿@Elasticity of demand
+#(Econ) Độ co giãn của cầu.
+: Thường dùng để chỉ ĐỘ CO GIÃN CỦA CẦU THEO GIÁ, nhưng cần phải xác định rõ độ ca giãn của cầu nào đang được đề cập đến.
+@Chuyên ngành kinh tế
+#độ co giãn của cầu
+#tính co dãn của mức cầu
+#tính co giãn của mức cầu

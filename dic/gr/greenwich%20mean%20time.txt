@@ -1,0 +1,11 @@
+﻿@greenwich mean time
+*danh từ, viết tắt là gmt
+#giờ chuẩn căn cứ theo kinh tuyến Greenwich, giờ GMT
+@Chuyên ngành kinh tế
+#giờ tiêu chuẩn Anh quốc
+#giờ tiêu chuẩn Greenwich
+@Chuyên ngành kinh tế
+#giờ chuẩn Greenwich
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#giờ trung bình Greenwich

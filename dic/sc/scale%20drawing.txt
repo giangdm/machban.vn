@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bản vẽ theo tỷ lệ
+#vẽ đối xứng
+#vẽ theo tỉ lệ
+#vẽ theo tỷ lệ
+@Lĩnh vực: xây dựng
+#sự vẽ theo tỉ lệ
+@Lĩnh vực: cơ khí & công trình
+#vẽ theo tỷ lệ xích

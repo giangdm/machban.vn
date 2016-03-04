@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tường có lỗ
+#tường xuyên lỗ (để lọt ánh sáng và thông gió)
+@Lĩnh vực: toán & tin
+#tường hoa

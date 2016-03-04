@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự làm lạnh trực tiếp bằng bay hơi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#làm sạch bằng bay hơi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#làm sạch bằng bay hơi

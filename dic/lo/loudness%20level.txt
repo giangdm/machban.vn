@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#âm lượng
+#cường độ âm
+#mức âm lượng
+@Lĩnh vực: điện tử & viễn thông
+#mức âm thanh
+@Lĩnh vực: xây dựng
+#mức độ ồn

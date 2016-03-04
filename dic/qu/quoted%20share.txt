@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cổ phiếu được ghi vào bảng giá chính thức (của Sở giao dịch)
+#cổ phiếu được mua bán trên thị trường chứng khoán
+#cổ phiếu được yết giá

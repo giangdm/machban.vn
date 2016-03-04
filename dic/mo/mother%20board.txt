@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng mẹ
+@Lĩnh vực: toán & tin
+#bản mạch in chính
+#bảng chính
+#board mẹ

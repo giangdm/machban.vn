@@ -1,0 +1,2 @@
+﻿@differential discriminator
+#(Tech) bộ phân biệt vi sai

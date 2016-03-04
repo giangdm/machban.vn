@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#khoảng thời gian tồn trữ được (của thực phẩm, trước khi bán)
+@Chuyên ngành kỹ thuật
+#thời hạn sử dụng
+#tuổi thọ
+@Lĩnh vực: điện lạnh
+#khả năng bảo quản
+@Lĩnh vực: thực phẩm
+#tuổi bền

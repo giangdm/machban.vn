@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi thứ tự thi hành
+#dãy thứ tự thi hành
+#thứ tự thực hiện
+#trình tự thực hiện
+@Lĩnh vực: điện tử & viễn thông
+#dãy thực hiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi thứ tự thi hành
+#dãy thứ tự thi hành
+#thứ tự thực hiện
+#trình tự thực hiện
+@Lĩnh vực: điện tử & viễn thông
+#dãy thực hiện

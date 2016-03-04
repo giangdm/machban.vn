@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt cắt ghép
+@Lĩnh vực: xây dựng
+#mặt cắt liên hợp
+#mặt cắt phức tạp
+#mặt cắt tổ hợp
+@Lĩnh vực: hóa học & vật liệu
+#mặt cắt phức hợp

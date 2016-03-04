@@ -1,0 +1,2 @@
+﻿@aural warning
+#(Tech) báo hiệu bằng âm thanh

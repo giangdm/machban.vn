@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#chỗ hỏng
+#chỗ sụt lở
+#điểm tới hạn
+#giới hạn bền
+@Lĩnh vực: xây dựng
+#điểm phá hỏng

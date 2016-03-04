@@ -1,0 +1,6 @@
+﻿@Commodity terms of trade
+#(Econ) Tỷ giá trao đổi hàng hoá; Tỷ giá hàng hoá.
+: Xem TERM OF TRADE.
+@Chuyên ngành kinh tế
+#tỉ lệ trao đổi sản phẩm
+#tỷ lệ trao đổi sản phẩm

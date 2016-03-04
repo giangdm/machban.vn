@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khả năng thanh khoản hối đoái
+#tính lỏng hối đoái
+#tính lưu động hối đoái

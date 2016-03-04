@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều khiển chia sẻ
+#bộ diều khiển dùng chung
+@Lĩnh vực: điện lạnh
+#thiết bị điều khiển dùng chung

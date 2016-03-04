@@ -1,0 +1,5 @@
+﻿@Robinson-Patman Act
+#(Econ) Đạo luật Robinson-Patman.
+: Là đạo luật ra đời năm 1936 để sửa đổi mục 2 của Đạo luật Clayton của Hoa Kỳ. Nội dung chủ yếu của nó là việc cấm đặt các mức giá khác nhau cho các khách hàng khác nhau đối với những hàng hoá mà cơ bản giống nhau về chủng loại và chất lượng, trong trường hợp đó tác động sẽ là việc giảm đáng kể mức độ cạnh tranh hoặc có xu hướng độc quyền.
+@Chuyên ngành kinh tế
+#điều luật Ribinson-Patman

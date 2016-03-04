@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#máy cao đạc
+#máy thủy chuẩn
+#ống thủy
+#ống thủy chuẩn
+@Lĩnh vực: xây dựng
+#cái đo mức (chất lỏng)
+@Lĩnh vực: đo lường & điều khiển
+#đexiben kế
+#máy đo mức tín
+@Chuyên ngành kỹ thuật
+#máy cao đạc
+#máy thủy chuẩn
+#ống thủy
+#ống thủy chuẩn
+@Lĩnh vực: xây dựng
+#cái đo mức (chất lỏng)
+@Lĩnh vực: đo lường & điều khiển
+#đexiben kế
+#máy đo mức tín

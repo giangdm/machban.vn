@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Tính cước nhắn tin tự động/Ghi chi tiết cuộc gọi

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bitum cứng
+@Lĩnh vực: xây dựng
+#bitum rắn

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bức xạ beta
+@Lĩnh vực: vật lý
+#vật phát xạ beta

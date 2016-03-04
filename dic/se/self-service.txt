@@ -1,0 +1,12 @@
+﻿@self-service /'self'sə:vis/
+*danh từ
+#sự tự phục vụ
+#(định ngữ) tự phục vụ (quán ăn...)
+=self-service restaurant: quán ăn tự phục vụ
+@Chuyên ngành kinh tế
+#tự phục vụ
+@Chuyên ngành kỹ thuật
+#sự tự bảo dưỡng
+#sự tự phục vụ
+@Lĩnh vực: xây dựng
+#tự phục vụ

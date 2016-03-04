@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khu vục nguy hiểm
+#vùng nguy hiểm
+#vùng rủi ro cao

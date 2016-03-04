@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra giới hạn
+#sự kiểm tra giới hạn
+@Lĩnh vực: điện tử & viễn thông
+#kiểm tra biên
+@Lĩnh vực: toán & tin
+#kiểm tra lề
+#sự thử giới hạn
+#sự thử lề
+#thử giới hạn

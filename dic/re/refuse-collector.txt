@@ -1,0 +1,3 @@
+﻿@refuse-collector
+*danh từ
+#như garbage-collector

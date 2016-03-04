@@ -1,0 +1,3 @@
+﻿@Strongly stationary
+#(Econ) Rất tĩnh tại.
+: Xem  stationarity.

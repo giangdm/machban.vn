@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#Chế Độ Trả Lời Không Đồng Bộ
+#chế độ truyền không đồng bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ đáp ứng không đồng bộ
+#chế độ hồi đáp không đồng bộ

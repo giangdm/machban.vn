@@ -1,0 +1,3 @@
+﻿@Non-nested hypotheses
+#(Econ) Các giả thiết không bị lồng nhau.
+: Trong mô hình hồi quy, hai giả thiết được cói là không lồng trong nhau nếu các biến số giải thích trong một giả thiết không phải là một tập hợp con của các biến số giải thích trong giả thiết kia.

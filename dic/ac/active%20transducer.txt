@@ -1,0 +1,5 @@
+﻿@active transducer
+#(Tech) bộ biến hoán/hoán năng có nguồn [ĐL]
+@Chuyên ngành kỹ thuật
+#bộ chuyển đổi chủ động
+#bộ chuyển đổi tích cực

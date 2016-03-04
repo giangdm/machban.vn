@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng điều chỉnh ký tự
+@Lĩnh vực: điện tử & viễn thông
+#bảng sắp xếp ký tự

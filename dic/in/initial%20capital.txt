@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#vốn (đầu tư) ban đầu
+#vốn góp đầu tiên
+#vốn thành lập cơ sở
+@Chuyên ngành kỹ thuật
+#vốn ban đầu
+@Lĩnh vực: hóa học & vật liệu
+#vốn khởi thủy

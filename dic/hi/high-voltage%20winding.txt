@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn cao áp
+#cuộn dây điện áp cao
+@Lĩnh vực: điện lạnh
+#dây quấn cao áp

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cửa sổ chớp
+#cửa sổ ngoài (chắn mưa gió)

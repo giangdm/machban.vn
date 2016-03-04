@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giấy chứng trọng tải (để tính phí cảng và phí kênh)
+#trọng tải đăng ký ròng

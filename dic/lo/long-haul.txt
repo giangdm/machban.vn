@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#vận tải đường dài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#khoảng cách dài
+@Lĩnh vực: toán & tin
+#tầm xa

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#trình biên dịch
+@Lĩnh vực: toán & tin
+#chương trình diễn dịch
+#chương trình thông dịch
+#trình thông dịch

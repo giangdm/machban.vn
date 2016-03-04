@@ -1,0 +1,2 @@
+﻿@computer satellite
+#(Tech) vệ tinh của máy điện toán, máy phụ trong hệ thống máy điện toán

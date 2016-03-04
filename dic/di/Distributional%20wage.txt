@@ -1,0 +1,3 @@
+﻿@Distributional wage
+#(Econ) Trọng số phân phối
+: Một hệ số bằng số áp dụng đối với những thay đổi trong thu nhập của các cá nhân hay nhóm cá nhân và bao gồm sự BIỆN MINH PHÂN PHỐI nào đó với mục đích đánh giá hiệu quả đóng góp của một chính sách hay dự án.

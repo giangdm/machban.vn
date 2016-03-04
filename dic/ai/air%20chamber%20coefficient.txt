@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bội số tuần hoàn
+#hệ số thông gió
+@Lĩnh vực: điện lạnh
+#hệ số thay đổi không khí

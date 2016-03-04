@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giấy chứng ra cảng của hải quan
+#giấy chứng thông quan
+#sự thông quan
+#thủ tục khai hải quan
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#làm thủ tục hải quan
+#thông quan

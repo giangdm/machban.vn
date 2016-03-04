@@ -1,0 +1,19 @@
+﻿@run-out
+*danh từ
+#sự chuyển động theo quán tính
+#sự đảo; sự chạy lệch tâm
+#sự mòn lệch
+#sự xả, sự tháo
+#sự bay lấy đà; đường bay lấy đà
+@Chuyên ngành kỹ thuật
+#độ lệch tâm
+#hết hạn
+#sự giật mạnh
+#sự lệch hướng
+#sự mất cân bằng
+#sự thải
+#sự trệch hướng (của mũi khoan)
+#sự xả
+@Lĩnh vực: cơ khí & công trình
+#sự chạy theo đà
+#sự lấy đà

@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sức cháy
+#tải lửa
+#tải trọng cháy
+#tải trọng máy
+@Lĩnh vực: vật lý
+#tổng lượng chất cháy được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sức cháy
+#tải lửa
+#tải trọng cháy
+#tải trọng máy
+@Lĩnh vực: vật lý
+#tổng lượng chất cháy được

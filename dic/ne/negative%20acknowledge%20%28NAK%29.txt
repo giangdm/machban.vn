@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hồi báo âm
+#NAK
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#báo nhận phủ định

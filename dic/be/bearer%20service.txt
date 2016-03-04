@@ -1,0 +1,7 @@
+﻿@bearer service
+#(Tech) dịch vụ bộ truyền tin
+@Chuyên ngành kỹ thuật
+#dịch vụ mạng
+@Lĩnh vực: điện tử & viễn thông
+#dịch vụ mang chuyển
+#dịch vụ mạng chuyển

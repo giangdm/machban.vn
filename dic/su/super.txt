@@ -1,0 +1,27 @@
+﻿@super /'sju:pə/
+*tính từ
+#(thông tục) thượng hảo hạng
+#vuông, (đo) diện tích (đơn vị đo) (không phải đo bề dài hay đo thể tích) ((cũng) superficial)
+#(từ lóng) cừ, chiến
+*danh từ
+#(thông tục) kép phụ
+#người thừa, người không quan trọng
+#người giám thị, người quản lý
+#phim chính
+#hàng hoá thượng hảo hạng
+#vải lót hồ cứng (đóng sách)
+@Chuyên ngành kinh tế
+#cảnh sát trưởng
+#cỡ cực lớn
+#đốc công
+#hàng cỡ cực lớn
+#hàng cực tốt
+#hàng siêu hạng
+#người giám sát
+#người quản lý (khu nhà ở hoặc cao ốc văn phòng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tuyệt vời
+<!-- more -->
+@super
+#siêu

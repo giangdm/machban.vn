@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy ghi thủy nhiệt
+@Lĩnh vực: điện lạnh
+#thủy nhiệt tự ghi

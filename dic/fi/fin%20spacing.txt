@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khoảng cách cánh tản nhiệt
+#khoảng cách giữa các cánh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khoảng cách cánh tản nhiệt
+#khoảng cách giữa các cánh

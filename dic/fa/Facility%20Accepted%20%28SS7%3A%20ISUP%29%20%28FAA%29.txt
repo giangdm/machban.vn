@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Chấp nhận phương tiện (SS7: trong ISUP)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Chấp nhận phương tiện (SS7: trong ISUP)

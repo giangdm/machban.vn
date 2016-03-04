@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khối lượng rút gọn
+@Lĩnh vực: xây dựng
+#khối lượng quy đổi
+@Lĩnh vực: hóa học & vật liệu
+#khối lượng thu gọn

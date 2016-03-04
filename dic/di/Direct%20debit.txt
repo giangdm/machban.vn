@@ -1,0 +1,10 @@
+﻿@Direct debit
+#(Econ) Ghi nợ trực tiếp.
+: Một hệ thống phát triển mới đây về thanh toán qua hệ thóng ngân hàng. Theo đó ngân hàng của một người giao dịch sắp nhận một khoản thanh toán sẽ đưa ra khiếu nợ cầu trực tiếp đối với ngân hàng của bên phải trả nợ để thanh toán, đến lượt mình ngân hàng của bên nợ sẽ ghi nợ vào tài khoản người trả.
+@Chuyên ngành kinh tế
+#ghi nợ trực tiếp
+#lệnh ghi nợ trực tiếp
+<!-- more -->
+@direct debit
+*danh từ
+#<ngân hàng> giấy ủy nhiệm chi

@@ -1,0 +1,3 @@
+﻿@National Insurance Fund
+#(Econ) Quỹ bảo hiểm quốc gia.
+: Là một quỹ tiếp nhận các khoản đóng góp bảo hiểm quốc gia và thực hiện thanh toán trợ cấp bảo hiểm xã hội.

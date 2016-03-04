@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bất động sản
+#tài sản lâu bền
+#tài sản vĩnh cửu
+@Chuyên ngành kỹ thuật
+#tài sản cố định

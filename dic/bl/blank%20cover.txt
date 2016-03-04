@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp phủ kín
+@Lĩnh vực: hóa học & vật liệu
+#phủ kín

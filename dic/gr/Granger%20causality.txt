@@ -1,0 +1,5 @@
+﻿@Granger causality
+#(Econ) Tính nhân qủa Granger.
+: Xem CAUSALITY.
+@Chuyên ngành kinh tế
+#thuyết nhân quả của Graner

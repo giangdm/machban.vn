@@ -1,0 +1,2 @@
+﻿@direct-access inquiry
+#(Tech) hỏi truy cập trực tiếp

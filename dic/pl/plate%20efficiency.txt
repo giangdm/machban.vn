@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hệ số tác dụng có ích của các đĩa (cột cất)
+@Lĩnh vực: toán & tin
+#hiệu suất anode
+@Lĩnh vực: điện
+#hiệu suất dương cực

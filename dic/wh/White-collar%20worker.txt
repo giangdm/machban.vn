@@ -1,0 +1,8 @@
+﻿@White-collar worker
+#(Econ) Công nhân cổ trắng, bàn giấy.
+: Người lao động và người sử dụng lao đông không tham gia vào lao động chân tay và những người thực hiện những công việc mang chức năng lãnh đạo.
+@Chuyên ngành kinh tế
+#công nhân cổ trắng
+#nhân viên văn phòng
+@Chuyên ngành kỹ thuật
+#nhân viên văn phòng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khí CO2
+@Lĩnh vực: điện lạnh
+#khí cabonic
+#khí cacbonic [CO2]

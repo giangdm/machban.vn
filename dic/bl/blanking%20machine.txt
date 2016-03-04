@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#máy cắt thuốc lá
+@Chuyên ngành kỹ thuật
+#máy đột

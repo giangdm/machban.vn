@@ -1,0 +1,12 @@
+﻿@cooling system
+#(Tech) hệ thống làm nguội/mát
+@Chuyên ngành kỹ thuật
+#hệ thống làm lạnh
+#hệ thống làm mát
+#máy lạnh
+@Lĩnh vực: toán & tin
+#hệ thống giảm nhiệt
+@Lĩnh vực: xây dựng
+#hệ thống giảm nhiệt độ
+@Lĩnh vực: cơ khí & công trình
+#hệ thống làm nguội

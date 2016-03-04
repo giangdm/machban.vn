@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đường tắt ga nóng
+@Lĩnh vực: điện lạnh
+#đường nối tắt hơi nóng
+#đường vòng gas nóng

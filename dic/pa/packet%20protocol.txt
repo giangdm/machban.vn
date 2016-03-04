@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức truyền bó
+@Lĩnh vực: điện tử & viễn thông
+#giao thức truyền gói

@@ -1,0 +1,5 @@
+﻿@Undervalue currency
+#(Econ) Đồng tiền định giá thấp.
+: Trong một hệ thống tỷ giá hối đoái cố định, một đồng tiền có sức mua ngang giá tạo ra thặng dư cán cân thanh toán dai dẳng.
+@Chuyên ngành kinh tế
+#đồng tiền bị định giá thấp

@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#số hiệu dòng
+@Lĩnh vực: toán & tin
+#số chỉ dòng
+#số dòng
+#vị trí dòng
+@Lĩnh vực: xây dựng
+#số đường
+@Chuyên ngành kỹ thuật
+#số hiệu dòng
+@Lĩnh vực: toán & tin
+#số chỉ dòng
+#số dòng
+#vị trí dòng
+@Lĩnh vực: xây dựng
+#số đường

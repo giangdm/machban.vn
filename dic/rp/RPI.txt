@@ -1,0 +1,7 @@
+﻿@RPI
+#(Econ) Chỉ số giá bán lẻ.
+: Xem RETAIL PRICE INDEX.
+<!-- more -->
+@rpi
+*(viết tắt)
+#bản giá bán lẻ (retail  price  index)

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian truyền
+#tốc độ truyền
+@Lĩnh vực: toán & tin
+#tốc độ bit
+#tốc độ chuyển
+#tốc độ dòng
+#tốc độ dữ liệu
+#tốc độ gửi
+#tốc độ phát

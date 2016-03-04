@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#loại cách điện
+#lớp cách điện
+@Lĩnh vực: điện
+#cấp cách điện
+@Lĩnh vực: điện lạnh
+#cấp cách nhiệt

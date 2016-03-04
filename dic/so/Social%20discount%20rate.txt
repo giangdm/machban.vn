@@ -1,0 +1,5 @@
+﻿@Social discount rate
+#(Econ) Tỷ suất chiết khấu xã hội.
+: Đây là tỷ suất dùng để chiết khấu những khoản đầu tư công cộng hoặc tập thể.
+@Chuyên ngành kinh tế
+#mức chiết khấu xã hội

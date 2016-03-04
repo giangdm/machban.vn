@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#nứt thành tấm mỏng
+#tách thành lát mỏng

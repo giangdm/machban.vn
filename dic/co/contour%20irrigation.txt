@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#tưới theo đường đồng mức
+#tưới theo ruộng bậc thang

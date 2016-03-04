@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#pin dung dịch ẩm
+#pin ướt
+@Lĩnh vực: điện
+#pin ẩm
+@Lĩnh vực: hóa học & vật liệu
+#pin loại có dung dịch

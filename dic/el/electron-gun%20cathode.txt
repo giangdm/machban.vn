@@ -1,0 +1,2 @@
+﻿@electron-gun cathode
+#(Tech) âm cực súng điện tử

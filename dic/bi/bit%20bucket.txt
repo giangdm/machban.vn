@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vùng chứa bit
+@Lĩnh vực: xây dựng
+#xô bít

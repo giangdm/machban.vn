@@ -1,0 +1,2 @@
+﻿@automatic brightness control
+#(Tech) điều chỉnh độ chói tự động

@@ -1,0 +1,3 @@
+﻿@Asymptotic distribution
+#(Econ) Phân phối tiệm cận.
+: PHÂN PHÔI XÁC XUẤT mà một biến THỐNG KÊ hướng tới khi kích thước của mẫu tiến tới vô cùng. Khái niệm rất hữu ích trong đánh giá các đặc thù của chọn mẫu trong kinh tế lượng.

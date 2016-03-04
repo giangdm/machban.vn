@@ -1,0 +1,7 @@
+﻿@Decision theory
+#(Econ) Lý thuyết ra quyết định
+: Lý thuyết liên quan đến việc hình thành các quá trình hành động thích hợp nhằm đạt được các mục tiêu trong các hoàn cảnh cụ thể có thể không ổn định.
+@Chuyên ngành kinh tế
+#lý thuyết ra quyết định
+@Chuyên ngành kỹ thuật
+#lý thuyết quyết định

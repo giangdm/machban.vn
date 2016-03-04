@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sức nhiệt điện động
+@Lĩnh vực: vật lý
+#lực nhiệt điện động
+@Lĩnh vực: điện lạnh
+#suất nhiệt điện động
+@Lĩnh vực: điện
+#thế nhiệt điện động

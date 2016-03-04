@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#khuôn in
+@Lĩnh vực: toán & tin
+#dạng in, khổ in
+#khuôn dạng in
+@Lĩnh vực: xây dựng
+#kiểu dạng bản in

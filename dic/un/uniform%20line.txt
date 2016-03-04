@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đường dây đồng nhất
+#đường dây đồng tính
+@Lĩnh vực: điện
+#đường truyền đều

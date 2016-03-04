@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp đúng dần
+#phương pháp thử
+#phương pháp thử dần
+@Lĩnh vực: xây dựng
+#phương pháp thử lại
+@Lĩnh vực: toán & tin
+#phương pháp tử-và-sai

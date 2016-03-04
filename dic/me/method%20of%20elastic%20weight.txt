@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp tải trọng đàn hồi
+@Lĩnh vực: toán & tin
+#phương pháp đồ toán
+@Lĩnh vực: xây dựng
+#phương pháp rầm giả

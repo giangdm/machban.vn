@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tin học
+@Chuyên ngành kỹ thuật
+#sự xử lý thông tin
+#xử lý thông tin
+@Lĩnh vực: điện tử & viễn thông
+#xử lý tin

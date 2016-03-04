@@ -1,0 +1,5 @@
+﻿@Operating profit
+#(Econ) Lợi nhuận kinh doanh.
+: Là khoản lợi nhuận mà doanh nghiệp sẽ kiếm được nếu không có nguồn lực nào dành cho việc mở rộng doanh nghiệp trong tương lai.
+@Chuyên ngành kinh tế
+#lợi nhuận kinh doanh

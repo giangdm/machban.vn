@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#đường cong phí tổn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường cong chi phí
+#đường cong giá cả

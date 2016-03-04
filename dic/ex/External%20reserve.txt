@@ -1,0 +1,3 @@
+﻿@External reserve
+#(Econ) Dự trữ ngoại hối.
+: Thường để chỉ mức nắm giữ các phương tiện thanh toán của một nước được quốc tế chấp nhận, với mục đích trang trải làm thâm hụt ngắn hạn và trung hạn của CÁN CÂN THANH TOÁN VỚI BÊN NGOÀI, đồng thời nhằm mục đích kiểm soát sự thay đổi TỶ GIÁ HỐI ĐOÁI đồng tiền của nước này.

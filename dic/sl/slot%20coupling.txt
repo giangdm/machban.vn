@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ghép qua khe (giữa cáp đồng trục và ống dẫn sóng)
+@Lĩnh vực: toán & tin
+#sự nối ghép khe

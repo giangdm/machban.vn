@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#giao thông con thoi
+@Lĩnh vực: xây dựng
+#chuyển động con thoi
+#giao thông kiểu con thoi
+@Lĩnh vực: giao thông & vận tải
+#dịch vụ con thoi

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hồi tiếp dương
+@Lĩnh vực: điện lạnh
+#phản hồi dương
+@Lĩnh vực: đo lường & điều khiển
+#phản hồi tích cực
+@Lĩnh vực: điện tử & viễn thông
+#sự hồi tiếp dương
+@Lĩnh vực: điện
+#sự phản hồi dương

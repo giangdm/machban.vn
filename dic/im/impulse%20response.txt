@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đáp ứng xung
+@Lĩnh vực: xây dựng
+#đường đặc trưng xung lực
+@Lĩnh vực: đo lường & điều khiển
+#phản ứng xung lực

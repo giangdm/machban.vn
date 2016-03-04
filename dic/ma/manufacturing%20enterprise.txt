@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#xí nghiệp sản xuất
+@Chuyên ngành kỹ thuật
+#xí nghiệp chế tạo
+#xí nghiệp sản xuất

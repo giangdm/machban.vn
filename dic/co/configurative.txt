@@ -1,0 +1,6 @@
+﻿@configurative
+#xem configuration
+@Chuyên ngành kỹ thuật
+#cấu hình
+#hình dạng
+#hình thể

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mạch định thời
+@Lĩnh vực: toán & tin
+#mạch định thời gian
+#sơ đồ định thời gian

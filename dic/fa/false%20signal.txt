@@ -1,0 +1,8 @@
+﻿@false signal
+#(Tech) tín hiệu sai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu giả
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu giả

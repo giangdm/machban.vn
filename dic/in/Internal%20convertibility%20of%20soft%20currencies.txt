@@ -1,0 +1,3 @@
+﻿@Internal convertibility of soft currencies
+#(Econ) Khả năng chuyển đổi trong nước của tiền yếu.
+: Điều kiện dễ dàng cho công dân một nước muốn đổi nội tệ với khối lượng tiền không hạn chế lấy ngoại tệ theo một tỷ giá do ngân hàng trung ương quy định ở những nơi về việc sử dụng ngoại tệ được hạn chế trong các giao dịch thuộc TÀI KHOẢN VÃNG LAI.

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự đo thể tích
+@Lĩnh vực: đo lường & điều khiển
+#số đo thể tích
+@Lĩnh vực: cơ khí & công trình
+#sự đo dung tích

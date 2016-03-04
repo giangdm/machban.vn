@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bậc lẻ
+#kiểm tra theo (số) lẻ
+#kiểm tra tính lẻ

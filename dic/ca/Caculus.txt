@@ -1,0 +1,3 @@
+﻿@Caculus
+#(Econ) Giải tích.
+: Một phép tính của nghành toán học liên quan đến việc tính toán các đạo hàm hay tích phân.

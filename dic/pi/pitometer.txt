@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu tốc kế
+@Lĩnh vực: điện lạnh
+#máy đo lưu tốc
+@Lĩnh vực: đo lường & điều khiển
+#ống đo pitô

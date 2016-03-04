@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#báo cáo kế toán sản xuất
+#kế toán chế tạo
+#kế toán công nghiệp

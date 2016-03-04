@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ngày ký gởi đi (hộ chiếu...)
+#ngày mở (thư tín dụng)
+#ngày phát hành

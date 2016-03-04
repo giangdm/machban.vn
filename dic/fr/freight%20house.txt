@@ -1,0 +1,8 @@
+﻿@freight house /'freithaus/
+*danh từ
+#kho để hàng hoá chuyên chở
+@Chuyên ngành kỹ thuật
+#kho hàng
+#nhà kho chứa hàng
+@Lĩnh vực: xây dựng
+#nhà chứa hàng hóa

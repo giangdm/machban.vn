@@ -1,0 +1,5 @@
+﻿@automatic restart
+#(Tech) tái khởi động tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khởi động lại tự động

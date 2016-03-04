@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mục tiêu của nhóm kiểm thử
+#mục tiêu của nhóm kiểm tra

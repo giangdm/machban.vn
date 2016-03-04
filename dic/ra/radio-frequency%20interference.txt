@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nguồn gốc phóng xạ
+#nhiễu tần số vô tuyến
+#sinh ra do phóng xạ

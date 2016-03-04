@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#máy bơm quay
+@Lĩnh vực: hóa học & vật liệu
+#bơm quay
+@Lĩnh vực: ô tô
+#bơm quay tròn
+@Lĩnh vực: xây dựng
+#máy bơm hồi chuyển
+#máy bơm kiểu xoay
+#máy bơm xoay

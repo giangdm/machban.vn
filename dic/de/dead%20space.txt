@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khoảng trống có hại
+#không gian chết
+#vùng chết
+@Lĩnh vực: toán & tin
+#vùng không bắt

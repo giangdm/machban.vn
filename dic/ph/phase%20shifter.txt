@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ dịch chuyển pha
+#bộ dịch pha
+#bộ đổi pha
+#bộ tạo pha
+#bộ thay đổi pha
+@Lĩnh vực: xây dựng
+#bộ phận dịch (chuyển) pha
+#máy điều pha
+@Lĩnh vực: điện
+#bộ tạo côxphi
+#bộ tạo góc pha

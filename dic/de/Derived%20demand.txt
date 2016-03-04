@@ -1,0 +1,6 @@
+﻿@Derived demand
+#(Econ) Cầu phái sinh, cầu dẫn xuất, cầu thứ phát.
+: Cầu đối với một yếu tố sản xuất. Diều này có ý nghĩa là cầu đó phát sinh từ nhu cầu đối với hàng hoá cuối cùng mà yếu tố đó góp phần để sản xuất ra.
+@Chuyên ngành kinh tế
+#cầu gián tiếp
+#cầu phát sinh

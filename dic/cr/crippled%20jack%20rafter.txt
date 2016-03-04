@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thanh kèo do (bị) biến dạng
+#thanh kèo đỡ (bị) biến dạng
+#thanh kèo đỡ bị biến dạng

@@ -1,0 +1,7 @@
+﻿@alternative hypothesis
+#(Tech) giả thuyết đối lập [NB]
+@Chuyên ngành kinh tế
+#giả thiết đối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đối giả thiết

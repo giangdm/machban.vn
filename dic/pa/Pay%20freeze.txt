@@ -1,0 +1,6 @@
+﻿@Pay freeze
+#(Econ) Cố định tiền lương.
+: Xem INCOMES POLICYM.
+@Chuyên ngành kinh tế
+#hãm tăng lương
+#sự đông kết tiền lương

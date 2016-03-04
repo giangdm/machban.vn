@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đường dẫn khói
+#khí ống khói
+#ống khói
+#vòm lò
+@Lĩnh vực: điện lạnh
+#khí ống lò
+@Lĩnh vực: điện
+#vòm khói

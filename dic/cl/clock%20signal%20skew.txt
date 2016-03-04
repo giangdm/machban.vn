@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đô lệch tín hiệu định thời
+#độ lệch tín hiệu đồng hồ

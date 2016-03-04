@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống thông tin quản lý
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống thông tin quản trị

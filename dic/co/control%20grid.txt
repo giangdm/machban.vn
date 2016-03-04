@@ -1,0 +1,6 @@
+﻿@control grid
+#(Tech) lưới điều khiển
+@Chuyên ngành kỹ thuật
+#buồng điều khiển
+#dòng điều khiển
+#lưới điều khiển

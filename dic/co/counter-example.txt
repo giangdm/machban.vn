@@ -1,0 +1,7 @@
+﻿@counter-example
+*danh từ
+#ví dụ được đưa ra để bác lại một định lý; phản ví dụ
+@Chuyên ngành kỹ thuật
+#bộ đếm
+@Lĩnh vực: toán & tin
+#phản thí dụ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hiển thị bàn giao tiếp
+@Lĩnh vực: đo lường & điều khiển
+#màn hình điều khiển

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ngưỡng dải giảm nhạy
+#ngưỡng dải mất nhạy

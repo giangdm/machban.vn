@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thống kê thương nghiệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thống kê thương mại
+#thống kê thương nghiệp

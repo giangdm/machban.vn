@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#ê tô
+#hàm kẹp
+#kẹp kiểu vít
+@Lĩnh vực: cơ khí & công trình
+#cái kẹp kiểu vít
+#kẹp chữ C
+@Lĩnh vực: hóa học & vật liệu
+#kẹp đinh ốc
+#kẹp đinh vít

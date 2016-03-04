@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giao thông đường không
+@Chuyên ngành kỹ thuật
+#giao thông trên không
+@Lĩnh vực: giao thông & vận tải
+#không lưu
+@Lĩnh vực: cơ khí & công trình
+#sự lưu thông không khí

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#trạm mặt đất có kích thước nhỏ
+@Lĩnh vực: điện lạnh
+#VSAT (dùng với vệ tinh địa đồng bộ)

@@ -1,0 +1,6 @@
+﻿@analog machine
+#(Tech) máy tương tự
+@Chuyên ngành kỹ thuật
+#thiết bị tương tự
+@Lĩnh vực: toán & tin
+#thiết bị mô hình

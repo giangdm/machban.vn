@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền chống va đập
+#độ bền va chạm
+#độ bền va đập
+#độ dai
+#độ dai va đập
+#sức bền va
+#sức bền va chạm
+#sức bền va đập

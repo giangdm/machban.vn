@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phụ tùng "gin"
+#phụ tùng chính hiệu
+@Chuyên ngành kỹ thuật
+#phụ tùng chính hiệu
+@Lĩnh vực: điện
+#phụ tùng "zin"

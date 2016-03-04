@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tốc độ truyền dữ liễu thực
+@Lĩnh vực: điện tử & viễn thông
+#tốc độ truyền dữ liệu thực

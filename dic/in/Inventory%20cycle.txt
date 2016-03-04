@@ -1,0 +1,6 @@
+﻿@Inventory cycle
+#(Econ) Chu kỳ hàng tồn kho.
+: Những dao động của mức sản lượng do những thay đổi của LƯỢNG TỒN KHO.
+@Chuyên ngành kinh tế
+#chu kỳ đầu tư hàng tồn trữ
+#chu kỳ trữ kho

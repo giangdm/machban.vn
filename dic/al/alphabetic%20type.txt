@@ -1,0 +1,2 @@
+﻿@alphabetic type
+#(Tech) loại chữ cái

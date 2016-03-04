@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#giấy can
+@Lĩnh vực: xây dựng
+#giấy sao
+@Lĩnh vực: hóa học & vật liệu
+#giấy sao chụp

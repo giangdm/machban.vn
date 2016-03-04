@@ -1,0 +1,12 @@
+﻿@expansion slot
+#(Tech) ổ cắm mở rộng
+@Chuyên ngành kỹ thuật
+#khe cắm mở rộng
+#khe mở rộng
+@Lĩnh vực: xây dựng
+#khe khai triển
+@Chuyên ngành kỹ thuật
+#khe cắm mở rộng
+#khe mở rộng
+@Lĩnh vực: xây dựng
+#khe khai triển

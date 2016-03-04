@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#trạm chuyển tiếp địa hình
+@Lĩnh vực: điện lạnh
+#trạm chuyển tiếp địa tĩnh

@@ -1,0 +1,12 @@
+﻿@file size
+#(Tech) kích cỡ tập tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cỡ tệp
+#kích thước tệp
+#kích thước tệp tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cỡ tệp
+#kích thước tệp
+#kích thước tệp tin

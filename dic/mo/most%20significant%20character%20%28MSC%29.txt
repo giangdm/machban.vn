@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ký tự có nghĩa nhất
+@Lĩnh vực: toán & tin
+#ký tự có giá trị cao nhất
+#ký tự ở cực trái

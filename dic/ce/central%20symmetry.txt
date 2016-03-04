@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép đối xứng qua tâm
+#tính đối xứng qua tâm

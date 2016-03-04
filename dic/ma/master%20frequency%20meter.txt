@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tần kế chính
+@Lĩnh vực: điện lạnh
+#tần số kế chủ

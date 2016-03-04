@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ma trận liên hợp Hermit
+@Lĩnh vực: toán & tin
+#ma trận liên hợp Hecmit

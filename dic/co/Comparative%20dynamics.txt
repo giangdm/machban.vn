@@ -1,0 +1,3 @@
+﻿@Comparative dynamics
+#(Econ) Phương pháp so sánh động.
+: Một phương pháp sử dụng trong KINH TẾ HỌC ĐỘNG với nét đặc biệt là mức độ thay đổi về giá trị của các THAM SỐ và về giá trị cân bằng của các biến là không đổi.

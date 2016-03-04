@@ -1,0 +1,2 @@
+﻿@automatic black level control
+#(Tech) điều chỉnh tự động mức đen

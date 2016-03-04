@@ -1,0 +1,3 @@
+﻿@Homogeneous product functión
+#(Econ) Các hàm sản xuất đồng nhất.
+: Xem PRODUCTION FUNCTION.

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phiếu có mức hạn định
+#chi phiếu có mức hạn định (ngoại tệ)
+#séc hữu hạn

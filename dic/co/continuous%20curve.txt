@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đường biểu diễn liên tục
+@Lĩnh vực: giao thông & vận tải
+#trạm tính đếm liên tục

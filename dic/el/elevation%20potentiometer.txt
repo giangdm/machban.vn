@@ -1,0 +1,2 @@
+﻿@elevation potentiometer
+#(Tech) bộ phân áp độ cao

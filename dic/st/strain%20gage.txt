@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dưỡng đo biến dạng
+#máy đo biến dạng
+@Lĩnh vực: điện
+#cảm biến sức căng
+@Lĩnh vực: hóa học & vật liệu
+#máy đo độ biến dạng

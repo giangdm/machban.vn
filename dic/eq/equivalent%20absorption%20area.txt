@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#diện hấp thụ tương đương
+@Lĩnh vực: điện lạnh
+#diện tích hấp thụ tương đương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#diện hấp thụ tương đương
+@Lĩnh vực: điện lạnh
+#diện tích hấp thụ tương đương

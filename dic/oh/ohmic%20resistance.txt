@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điện trở thuần
+@Lĩnh vực: điện
+#điện trở DC
+#điện trở ôm

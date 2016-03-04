@@ -1,0 +1,2 @@
+﻿@computer-driven diagnostic unit
+#(Tech) bộ phận chẩn đoán bằng điện toán

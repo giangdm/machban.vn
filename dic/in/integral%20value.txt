@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#số nguyên
+@Lĩnh vực: điện lạnh
+#giá trị nguyên
+#giá trị tích phân
+#giá trị toàn phần

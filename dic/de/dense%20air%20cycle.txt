@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu kỳ khí cao áp
+#chu trình khí cao áp
+#chu trình khí kín

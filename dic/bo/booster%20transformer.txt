@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#máy tăng áp
+@Lĩnh vực: điện
+#biến áp tăng
+#biến áp tăng cường
+#máy biến áp tăng áp
+@Lĩnh vực: điện lạnh
+#biến áp tăng áp
+#máy biến áp bù
+@Lĩnh vực: xây dựng
+#máy biến áp tăng thế

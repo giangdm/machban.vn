@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khống chế áp suất hút
+#khống chế đối áp
+#sự khống chế áp suất hút
+#sự khống chế đối áp

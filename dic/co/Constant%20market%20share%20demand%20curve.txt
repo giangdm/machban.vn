@@ -1,0 +1,3 @@
+﻿@Constant market share demand curve
+#(Econ) Đường cầu với thị phần bất biến.
+: Mối quan hệ giữa lượng bán và giá mà hãng phải đối mặt nếu tất cả các đối thủ cạnh tranh của nó thích ứng với bất cứ sự thay đổi về giá nào do hãng này đưa ra.(Xem ELASTICITY)

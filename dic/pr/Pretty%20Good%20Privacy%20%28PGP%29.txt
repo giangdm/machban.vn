@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Chương trình PGP-một chương trình chuyên biệt để mật hóa các tệp và thư điện tử

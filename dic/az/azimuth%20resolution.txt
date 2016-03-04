@@ -1,0 +1,5 @@
+﻿@azimuth resolution
+#(Tech) độ phân giải phương vị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ phân giải phương vị

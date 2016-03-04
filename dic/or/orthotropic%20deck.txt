@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#nền thẳng đứng
+#mặt cầu bản trực hướng

@@ -1,0 +1,6 @@
+﻿@firing voltage
+#(Tech) diện áp bắt đầu phóng điện, điện áp mồi lửa
+@Chuyên ngành kỹ thuật
+#điện áp đánh lửa
+@Chuyên ngành kỹ thuật
+#điện áp đánh lửa

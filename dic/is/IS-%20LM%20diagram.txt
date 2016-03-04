@@ -1,0 +1,3 @@
+﻿@IS- LM diagram
+#(Econ) Lược đồ IS - LM.
+: Lược đồ mô tả việc xác định đông thờicác giá trị cân bằng của lãi suất và mức thu nhập quốc dân do kết quả thực hiện các điều kiện trong thị trường hàng hoá và tiền tệ.

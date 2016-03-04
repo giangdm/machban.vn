@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#trọng lượng đã dỡ hàng
+@Lĩnh vực: cơ khí & công trình
+#trọng lượng xe không

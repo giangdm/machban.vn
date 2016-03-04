@@ -1,0 +1,2 @@
+﻿@mpc
+#Tiêu chuẩn đối với phần cứng và phần mềm đa phương tiện do MPC Consortium cùng hợp tác xây dựng

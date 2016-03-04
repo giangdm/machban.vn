@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nông nghiệp thâm canh
+#thâm canh
+@Chuyên ngành kỹ thuật
+#thâm canh

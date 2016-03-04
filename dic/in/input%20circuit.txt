@@ -1,0 +1,5 @@
+﻿@input circuit
+*danh từ
+#mạch điện kiểm tra việc nhập liệu
+@Chuyên ngành kỹ thuật
+#mạch vào

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bulông máy
+#ốc bắt kim khí
+#vít máy
+@Lĩnh vực: ô tô
+#vít bắt vào kim loại
+@Lĩnh vực: xây dựng
+#vít dùng cho máy
+#vít dùng trong các máy

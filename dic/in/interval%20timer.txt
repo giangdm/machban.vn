@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đếm thời gian
+#bộ định thời khoảng
+#đồng hồ hẹn giờ
+@Lĩnh vực: toán & tin
+#bộ đếm khoảng thời gian
+@Lĩnh vực: xây dựng
+#bộ đo khoảng thời gian

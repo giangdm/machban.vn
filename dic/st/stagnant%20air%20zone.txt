@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#vùng không khí đình trệ
+#vùng không khí không chuyển động

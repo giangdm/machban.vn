@@ -1,0 +1,3 @@
+﻿@Job dublication
+#(Econ) Việc làm kép.
+: Điều này diễn ra khi một cá nhân đồng thời có hơn một việc làm và do vậy không phụ thuộc vào một nguồn thu nhập duy nhất.

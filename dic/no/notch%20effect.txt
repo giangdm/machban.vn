@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#ảnh hưởng vết cắt
+@Lĩnh vực: xây dựng
+#ảnh hưởng do rãnh cắt
+@Lĩnh vực: toán & tin
+#ảnh hưởng rãnh cắt
+@Lĩnh vực: hóa học & vật liệu
+#hiệu quả của rãnh cắt
+@Lĩnh vực: cơ khí & công trình
+#hiệu ứng rãnh khía

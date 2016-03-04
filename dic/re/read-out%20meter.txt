@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị hiển thị
+@Lĩnh vực: đo lường & điều khiển
+#đồng hồ chỉ báo
+#máy đọc ra

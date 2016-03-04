@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phương pháp định mức
+#phương pháp giá thành tiêu chuẩn
+#phương pháp tính giá thành theo định mức
+#phương thức giá thành tiêu chuẩn

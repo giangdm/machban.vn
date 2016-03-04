@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giấy (cho phép chất) chở hàng hóa
+#giấy khai hải quan tên và quy cách hàng tái xuất khẩu
+#giấy khai tái hóa xuất
+#giấy khai tái xuất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#giấy khai tái xuất

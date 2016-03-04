@@ -1,0 +1,12 @@
+﻿@alias /'eiliæs/
+*danh từ
+#bí danh, tên hiệu, biệt hiệu
+=he went under many aliases: nó có nhiều bí danh
+*phó từ
+#tức là; bí danh là; biệt hiệu là
+=Smith alias John: Xmít tức Giôn
+@Chuyên ngành kỹ thuật
+#bí danh
+<!-- more -->
+@alias
+#(Tech) biệt hiệu, biệt danh

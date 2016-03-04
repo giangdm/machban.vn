@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vành ma trận đầy đủ
+#vành toàn thể các ma trận

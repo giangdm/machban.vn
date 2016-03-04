@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy xúc một gàu
+@Lĩnh vực: toán & tin
+#máy xúc dây
+@Lĩnh vực: xây dựng
+#xẻng máy

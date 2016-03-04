@@ -1,0 +1,13 @@
+﻿@Ethernet
+#(Tech) mạng Ethernet (itơnet)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuẩn Ethernet
+#Ethernet
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuẩn Ethernet
+#Ethernet
+<!-- more -->
+@ethernet
+#Phần cứng, định ước, tiêu chuẩn ghép nối của một loại mạng cục bộ, do hãng Xerox Corporation đưa ra đầu tiên, có khả năng liên kết đến 1024 nút trong một mạng bus

@@ -1,0 +1,8 @@
+﻿@average rate
+#(Tech) suất trung bình
+@Chuyên ngành kinh tế
+#mức phí thu trung bình
+#suất phí bảo hiểm bình quân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tỉ lệ trung bình

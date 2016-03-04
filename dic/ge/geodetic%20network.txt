@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#lưới trắc địa
+@Lĩnh vực: điện tử & viễn thông
+#mạng trắc địa

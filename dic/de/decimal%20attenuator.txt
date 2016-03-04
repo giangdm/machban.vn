@@ -1,0 +1,2 @@
+﻿@decimal attenuator
+#(Tech) bộ suy giảm thập phân

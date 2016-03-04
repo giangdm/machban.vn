@@ -1,0 +1,2 @@
+﻿@comsat = communications satellite
+#(Tech) vệ tinh truyền thông

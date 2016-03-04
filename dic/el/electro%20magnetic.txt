@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thuộc về điện từ
+@Lĩnh vực: toán & tin
+#thuộc về điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thuộc về điện từ
+@Lĩnh vực: toán & tin
+#thuộc về điện tử

@@ -1,0 +1,16 @@
+﻿@flat cable
+#(Tech) cáp dẹt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp băng
+#cáp đai
+#cáp lõi dẹt
+@Lĩnh vực: toán & tin
+#cáp phẳng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp băng
+#cáp đai
+#cáp lõi dẹt
+@Lĩnh vực: toán & tin
+#cáp phẳng

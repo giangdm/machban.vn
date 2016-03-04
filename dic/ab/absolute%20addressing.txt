@@ -1,0 +1,2 @@
+﻿@absolute addressing
+#(Tech) phương pháp định địa chỉ tuyệt đối

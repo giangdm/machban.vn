@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#chốt định vị
+#móc an toàn
+#vấu an toàn
+@Lĩnh vực: vật lý
+#cấu hãm bảo hiểm
+@Lĩnh vực: ô tô
+#chốt an toàn của ca-pô xe (chống mở)
+@Lĩnh vực: xây dựng
+#hãm bảo hiểm

@@ -1,0 +1,2 @@
+﻿@average delay time
+#(Tech) thời gian chậm trễ trung bình

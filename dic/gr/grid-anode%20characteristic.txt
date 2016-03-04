@@ -1,0 +1,2 @@
+﻿@grid-anode characteristic
+#(Tech) đặc tính lưới dương cực

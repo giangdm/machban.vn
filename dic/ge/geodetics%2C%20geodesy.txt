@@ -1,0 +1,2 @@
+﻿@geodetics, geodesy
+#(Tech) trắc địa học, phép trắc địa

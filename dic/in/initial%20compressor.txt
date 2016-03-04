@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy nén ban đầu
+#máy nén giai đoạn đầu
+#máy nén sơ bộ
+#sự nén sơ bộ

@@ -1,0 +1,2 @@
+﻿@automatic telephony
+#(Tech) điện thoại tự động

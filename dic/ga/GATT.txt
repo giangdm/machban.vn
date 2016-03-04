@@ -1,0 +1,6 @@
+﻿@GATT
+#(Econ) Xem GENERAL AGREEMENT ON TARIFFS AND TRADE.
+<!-- more -->
+@gatt
+*(viết tắt)
+#Hiệp định chung về thuế quan và mậu dịch (General Agreement on Tariffs and Trade)

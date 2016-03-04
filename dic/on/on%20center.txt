@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đúng tâm
+@Lĩnh vực: cơ khí & công trình
+#chính tâm
+@Lĩnh vực: vật lý
+#phóng tâm
+@Lĩnh vực: toán & tin
+#phóng tâm, đúng tâm

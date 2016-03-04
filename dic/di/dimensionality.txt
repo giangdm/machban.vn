@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bậc
+#hạng
+#thứ nguyên
+@Lĩnh vực: toán & tin
+#hạng bậc

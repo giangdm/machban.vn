@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#yêu cầu trả số lương còn lại
+@Chuyên ngành kỹ thuật
+#sai số dư
+@Lĩnh vực: toán & tin
+#sai số thặng dư
+@Lĩnh vực: hóa học & vật liệu
+#sai sót số

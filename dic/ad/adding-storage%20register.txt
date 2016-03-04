@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thanh ghi tổng
+@Lĩnh vực: toán & tin
+#thanh ghi (bộ nhớ) tổng

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#trọng tải dự kiến, quy định
+@Chuyên ngành kỹ thuật
+#tải trọng chuẩn
+#tải trọng tiêu chuẩn
+#tải trọng tính toán
+@Lĩnh vực: xây dựng
+#tải trọng quy ước

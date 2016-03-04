@@ -1,0 +1,5 @@
+﻿@data communication equipment
+#(Tech) thiết bị truyền thông dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết bị truyền dữ liệu

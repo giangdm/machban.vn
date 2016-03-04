@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#điều kiện lao động
+#điều kiện lao động, môi trường công tác
+#môi trường công tác
+@Chuyên ngành kỹ thuật
+#điều kiện làm việc
+@Lĩnh vực: xây dựng
+#điều kiện lao động

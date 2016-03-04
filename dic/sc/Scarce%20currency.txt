@@ -1,0 +1,5 @@
+﻿@Scarce currency
+#(Econ) Đồng tiền hiếm.
+: Một tên gọi khác của đồng tiền mạnh.
+@Chuyên ngành kinh tế
+#đồng tiền khan hiếm

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đĩa ly hợp
+@Lĩnh vực: ô tô
+#đĩa li hợp
+@Lĩnh vực: toán & tin
+#đĩa ly kết

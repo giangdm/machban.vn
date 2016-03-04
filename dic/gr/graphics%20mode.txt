@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chế độ vẽ
+@Lĩnh vực: xây dựng
+#cách đồ họa
+@Lĩnh vực: toán & tin
+#chế độ đồ họa

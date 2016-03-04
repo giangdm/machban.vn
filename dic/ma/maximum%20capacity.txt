@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#năng lực (sản xuất) tối đa
+#năng suất tối đa
+@Chuyên ngành kỹ thuật
+#công suất ra cực đại
+#năng suất cực đại
+#sản lượng cực đại
+@Lĩnh vực: xây dựng
+#công suất giới hạn
+@Lĩnh vực: hóa học & vật liệu
+#dung tích cực đại

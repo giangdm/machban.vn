@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bit chỉ báo
+#bit chỉ thị
+#bit dấu hiệu
+#bit nhãn

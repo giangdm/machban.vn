@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#khu vực hạn chế tốc độ
+#khu vực hạn chế tốc độ (xe...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khu vực cấm

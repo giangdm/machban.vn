@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#van không khí
+#van xả khí
+#vòi không khí
+@Lĩnh vực: cơ khí & công trình
+#ống xả không khí
+@Lĩnh vực: hóa học & vật liệu
+#vòi phun khí

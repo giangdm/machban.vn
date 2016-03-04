@@ -1,0 +1,8 @@
+﻿@sales slip
+*danh từ
+#<Mỹ> biên lai (giấy ghi nhận việc bán một món hàng)
+@Chuyên ngành kinh tế
+#phiếu bán hàng
+#phiếu thu ngân
+@Chuyên ngành kỹ thuật
+#biên lai

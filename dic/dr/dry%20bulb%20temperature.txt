@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bầu khô
+#nhiệt độ bầu khô
+#nhiệt độ khô

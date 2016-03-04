@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#hàng gạch ngang
+#lớp đáy
+#lớp gạch đặt ngang
+#lớp nền
+@Lĩnh vực: xây dựng
+#hàng gạch xây ngang
+#lớp bên dưới
+#lớp gạch, đá đặt ngang

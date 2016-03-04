@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#vòng đệm cách điện
+@Lĩnh vực: xây dựng
+#vòng đệm cách ly

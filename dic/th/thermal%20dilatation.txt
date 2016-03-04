@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#giãn nhiệt
+@Lĩnh vực: điện lạnh
+#giãn nở do nhiệt
+#sự dãn nở (do) nhiệt
+@Lĩnh vực: xây dựng
+#sự giãn nở do nhiệt
+#sự nở nhiệt

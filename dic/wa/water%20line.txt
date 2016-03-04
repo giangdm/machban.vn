@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#đường ngấn nước
+@Chuyên ngành kỹ thuật
+#đường ống cấp nước
+#đường ống dẫn nước
+#đường ống nước
+#ngấn nước
+#ống dẫn nước
+@Lĩnh vực: cơ khí & công trình
+#đường dẫn nước giảm nhiệt
+@Lĩnh vực: giao thông & vận tải
+#đường mớn nước (đóng tàu)

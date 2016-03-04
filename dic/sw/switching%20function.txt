@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm chuyển mạch
+#hàm logic
+@Lĩnh vực: toán & tin
+#hàm số chuyển

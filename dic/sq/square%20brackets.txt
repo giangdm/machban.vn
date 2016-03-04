@@ -1,0 +1,8 @@
+﻿@square brackets
+*danh từ
+#dấu móc vuông, dấu ngoặc vuông
+@Chuyên ngành kỹ thuật
+#dấu ngoặc vuông
+#ngoặc vuông
+@Lĩnh vực: điện lạnh
+#dấu vuông

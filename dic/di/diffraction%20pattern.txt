@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#ảnh nhiễu xạ
+@Lĩnh vực: điện tử & viễn thông
+#đồ thị khúc xạ
+@Lĩnh vực: y học
+#hình nhiễu xạ

@@ -1,0 +1,2 @@
+﻿@asymmetric(al)
+#không đối xứng

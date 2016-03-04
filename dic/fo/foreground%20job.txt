@@ -1,0 +1,9 @@
+﻿@foreground job
+#(Tech) công việc tiền cảnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#công việc khẩn
+#công việc ưu tiên
+#công việc ưu tiên cao
+#nhiệm vụ nền trước
+#nhiệm vụ nổi

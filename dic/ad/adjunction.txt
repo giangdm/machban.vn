@@ -1,0 +1,9 @@
+﻿@adjunction /ə'dʤʌɳkʃn/
+*danh từ
+#sự thêm vào, sự phụ vào
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự phụ thêm
+<!-- more -->
+@adjunction
+#(Tech) phụ thêm, phụ gia [NB]

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phế liệu thuốc lá
+#tạp chất
+@Chuyên ngành kỹ thuật
+#tạp chất
+@Lĩnh vực: hóa học & vật liệu
+#vật lạ
+#vật ngoại lai

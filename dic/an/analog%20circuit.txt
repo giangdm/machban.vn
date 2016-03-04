@@ -1,0 +1,6 @@
+﻿@analog circuit
+#(Tech) mạch tương tự
+@Chuyên ngành kỹ thuật
+#mạch tương tự
+@Lĩnh vực: điện tử & viễn thông
+#mạch analog

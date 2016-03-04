@@ -1,0 +1,6 @@
+﻿@counter-clockwise /'kauntə'klɔkwaiz/
+*phó từ
+#ngược chiều kim đồng hồ
+<!-- more -->
+@counter-clockwise
+#ngược chiều kim đồng hồ

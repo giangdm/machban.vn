@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sóng cắt
+#sóng ngang
+#sóng quay
+#sóng trượt
+@Lĩnh vực: hóa học & vật liệu
+#sóng biến dạng

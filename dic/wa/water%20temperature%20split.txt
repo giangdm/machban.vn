@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu nhiệt độ
+@Lĩnh vực: điện lạnh
+#độ chênh lệch nước
+#độ chênh nhiệt độ nước
+#hiệu nhiệt độ nước

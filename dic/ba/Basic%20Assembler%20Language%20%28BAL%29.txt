@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Hợp ngữ cơ sở, ngôn ngữ Assembler cơ sở

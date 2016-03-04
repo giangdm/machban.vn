@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#rôto cuộn cảm ứng
+#rôto cuốn dây
+#rôto quấn dây
+@Lĩnh vực: điện lạnh
+#rôto dây quấn

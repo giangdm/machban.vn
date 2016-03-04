@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bị giới hạn bởi không gian
+#gắn với không gian
+#liên kết không gian

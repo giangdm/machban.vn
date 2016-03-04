@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tổng trở hỗ cảm
+#trở kháng hỗ cảm
+@Lĩnh vực: xây dựng
+#tống trở hỗ tương

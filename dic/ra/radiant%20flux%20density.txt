@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng bức xạ
+#mật độ thông lượng bức xạ
+@Lĩnh vực: điện lạnh
+#độ rọi năng lượng
+@Lĩnh vực: vật lý
+#mật độ năng lượng bức xạ

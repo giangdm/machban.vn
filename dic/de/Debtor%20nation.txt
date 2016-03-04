@@ -1,0 +1,5 @@
+﻿@Debtor nation
+#(Econ) Nước mắc nợ.
+: Nước vay ròng từ các nước khác hoặc nhận đầu tư tè các doanh nghiệp nước ngoài và do đó tăng số lượng nợ ròng và các nghĩa vụ khác đối với nước này.
+@Chuyên ngành kinh tế
+#nước mắc nợ

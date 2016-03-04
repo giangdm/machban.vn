@@ -1,0 +1,6 @@
+﻿@Constant capital
+#(Econ) Tư bản bất biến.
+: Theo học thuyết của C.Mác, tư bản bất biến là một phần của TƯ BẢN được thể hiện bằng phương tiên sản xuất, nguyên liệu thô và công cụ lao động. Xem VARIABLE CAPITAL.
+@Chuyên ngành kinh tế
+#tư bản bất biến
+#vốn bất biến

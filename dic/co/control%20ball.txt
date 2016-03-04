@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bóng điều khiển
+#bóng xoay
+@Lĩnh vực: toán & tin
+#bi điều khiển
+#cầu chuột
+#cầu tròn điều khiển
+#quả cầu đánh dấu

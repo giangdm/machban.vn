@@ -1,0 +1,7 @@
+﻿@additive error
+#(Tech) sai số cộng
+@Chuyên ngành kinh tế
+#sai số cộng tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sai số cộng tính

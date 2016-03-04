@@ -1,0 +1,2 @@
+﻿@atmospheric waveguide
+#(Tech) ống dẫn sóng khí quyển

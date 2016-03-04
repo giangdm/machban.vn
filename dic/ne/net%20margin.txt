@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#biên ròng
+#lãi ròng
+#lợi nhuận ròng
+#số dư lời ròng
+#suất lợi nhuận

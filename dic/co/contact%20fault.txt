@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sai hỏng tiếp xúc
+@Lĩnh vực: điện
+#sự cố tiếp xúc
+#sự hỏng tiếp điểm

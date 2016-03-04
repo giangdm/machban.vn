@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự điều khiển liên kết logic định tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển tuyến nối lôgic có chọn lọc

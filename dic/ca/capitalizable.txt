@@ -1,0 +1,5 @@
+﻿@capitalizable
+#xem capitalize
+@Chuyên ngành kinh tế
+#có thể chuyển thành vốn
+#có thể tư bản hóa

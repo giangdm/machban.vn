@@ -1,0 +1,7 @@
+﻿@terabyte
+#Một đơn vị để đo lường dung lượng bộ nhớ, xấp xỉ bằng một nghìn tỷ byte (thực ra là 1 099 511 627 776 byte)  Một terabyte bằng 1000 GB hoặc 1 triệu megabyte
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#Tb
+@Chuyên ngành kỹ thuật
+#nghìn tỷ byte

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giảm bớt hàng trữ kho
+#giảm bớt trữ lượng
+#thôi giữ hàng trong kho

@@ -1,0 +1,6 @@
+﻿@gmt
+*(viết tắt)
+#giờ chuẩn căn cứ theo kinh tuyến Greenwich (Greenwich Mean Time)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#giờ GMT

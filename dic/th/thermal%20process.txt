@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#quá trình xử lý nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#quy trình nhiệt

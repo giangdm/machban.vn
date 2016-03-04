@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp số
+@Lĩnh vực: toán & tin
+#phương pháp tính bằng số
+#phương pháp trị số

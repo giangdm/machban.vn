@@ -1,0 +1,2 @@
+﻿@graphic bit image
+#(Tech) ảnh đồ họa bằng bít

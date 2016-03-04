@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số truyền nhiệt
+@Lĩnh vực: điện
+#hệ số trao đổi nhiệt

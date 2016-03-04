@@ -1,0 +1,9 @@
+﻿@adjustable capacitor
+#(Tech) bộ điện dung chỉnh được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tụ điện chỉnh được
+@Lĩnh vực: điện lạnh
+#tụ điện điều chỉnh được
+@Lĩnh vực: điện
+#tụ điều chỉnh được

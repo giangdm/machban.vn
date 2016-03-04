@@ -1,0 +1,10 @@
+﻿@Allocative efficiency
+#(Econ) Hiệu quả phân bổ.
+: Việ sản xuất ra tổ hợp sản phẩm tốt nhất hay tối ưu các sản phẩm bằng các kết hợp hiệu qủa nhất các đầu vào.
+@Chuyên ngành kinh tế
+#hiệu quả phân bổ
+#hiệu quả phân bố tài nguyên
+#hiệu quả phân phối (các tài nguyên khan hiếm...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hiệu suất cấp phát

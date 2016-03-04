@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#trọng tải tịnh, ròng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thương mại loại tàu thủy
+@Lĩnh vực: giao thông & vận tải
+#trọng tải đăng ký tịnh

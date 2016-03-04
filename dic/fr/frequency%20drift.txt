@@ -1,0 +1,11 @@
+﻿@frequency drift
+#(Tech) sự chuyển dời tần số
+@Chuyên ngành kỹ thuật
+#sự dịch tần
+#sự trôi tần số
+@Lĩnh vực: điện lạnh
+#độ trôi tần số
+#trôi tần số
+@Lĩnh vực: toán & tin
+#khoảng dịch tần
+#sự mất tần số

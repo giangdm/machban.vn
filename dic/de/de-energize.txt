@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#khử kích thích
+#ngắt
+#ngắt điện
+#tách
+#tắt
+@Lĩnh vực: điện
+#cắt điện
+#khử kích hoạt
+@Lĩnh vực: xây dựng
+#giảm năng
+#xuống năng lượng

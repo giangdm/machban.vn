@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#lỗ do quy đổi ngoại tệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự tịnh tiến các trục
+#tổn thất tịnh tiến

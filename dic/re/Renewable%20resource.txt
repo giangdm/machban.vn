@@ -1,0 +1,8 @@
+﻿@Renewable resource
+#(Econ) Tài nguyên tái tạo được.
+: Là bất cứ tài nguyên nào có khả năng tái tạo lại, một phần hoặc toàn bộ, một cách tự nhiên.
+@Chuyên ngành kinh tế
+#tài nguyên có thể hồi sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nguồn nhiên liệu có thể tái chế

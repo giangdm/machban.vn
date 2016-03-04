@@ -1,0 +1,7 @@
+﻿@Feudalism
+#(Econ) Chủ nghĩa phong kiến.
+: Một dạng hệ thống chính trị và kinh tế thống trị ở Châu Âu thời kỳ trung cổ. Chủ nghĩa phong kiến được đặc trưng bởi một tháp xã hội bắt đầu từ người nông dân lệ thuộc thông qua các chúa đất và tước hầu ở thái ấp lên đến tận nhà vua.
+<!-- more -->
+@feudalism /'fju:dəlizm/
+*danh từ
+#chế độ phong kiến

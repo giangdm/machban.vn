@@ -1,0 +1,6 @@
+﻿@approximate value
+#(Tech) trị gần đúng
+@Chuyên ngành kỹ thuật
+#giá trị gần đúng
+@Lĩnh vực: toán & tin
+#giá trị xấp xỉ

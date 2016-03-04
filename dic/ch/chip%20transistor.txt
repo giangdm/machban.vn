@@ -1,0 +1,2 @@
+﻿@chip transistor
+#(Tech) đèn tinh thể dạng phiến, trăngsito chíp

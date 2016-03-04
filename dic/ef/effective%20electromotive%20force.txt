@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điện thế tác dụng
+#sức điện động hiệu dụng
+@Lĩnh vực: điện
+#điện áp hữu công
+#lực điện động hiệu dụng

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhận dạng tiếng nói liên thông
+#nhận dạng tiếng nói liên tục

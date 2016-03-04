@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#số thống kê chủ yếu
+#tổng cộng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tổng chính

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chu kỳ làm lạnh
+#giai đoạn làm nguội
+@Chuyên ngành kỹ thuật
+#chu kỳ làm lạnh

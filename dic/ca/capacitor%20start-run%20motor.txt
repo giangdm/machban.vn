@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ PSC
+@Lĩnh vực: điện
+#động cơ khởi động-chạy dùng tụ
+@Lĩnh vực: điện lạnh
+#động cơ tụ khởi động-chạy
+#động cơ tụ tách vĩnh viễn

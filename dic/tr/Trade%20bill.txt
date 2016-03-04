@@ -1,0 +1,6 @@
+﻿@Trade bill
+#(Econ) Hối phiếu thương mại.
+: Trên thị trường chiết khấu Lodon, một hối phiếu phát hành để tài trựo một giao dịch thương mại thực sư như để trang trải cho giai đoạn vận tải hàng, và mà vẫn chưa được một ngân hàng chấp nhận , khi đó được gọi là HỐI PHIẾU NGÂN HÀNG.
+@Chuyên ngành kinh tế
+#hối phiếu dùng chi trả cho hàng hóa mua vào
+#hối phiếu thương mại

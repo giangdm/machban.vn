@@ -1,0 +1,29 @@
+﻿@run out
+#chạy ra
+#chảy ra, tuôn ra, trào ra
+#hết (thời gian...), kiệt cạn (đồ dự trữ...)
+=our lease has run out: hạn thuê của chúng ta đã hết
+=my patience is running out: tôi không thể kiên nhẫn được nữa
+=to run out of provisions: cạn hết đồ dự trữ
+#ló ra, nhô ra (cầu tàu, mũi đất...)
+#được thả ra, được kéo xuống thẳng ra (dây thừng, chão...)
+#hoàn thành cuộc thi đấu, hoàn thành chạy đua (được xếp thứ mấy, được bao nhiêu điểm...)
+=to run oneself out: chạy đến kiệt sức
+#(thể dục,thể thao) phạt việt vị (một đấu thủ crickê trong khi đang chạy)
+#đưa (pháo) vào trận địa (để chuẩn bị bắn)
+@Chuyên ngành kinh tế
+#đáo hạn
+#được dùng hết
+#hết hạn
+#mãn hạn
+#sắp hết
+#trôi qua
+@Chuyên ngành kỹ thuật
+#biến dạng
+#đào
+#đảo
+#sự chạy lệch tâm
+#sự đảo
+#xả nước
+@Lĩnh vực: ô tô
+#sự mòn lệch

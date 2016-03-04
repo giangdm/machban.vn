@@ -1,0 +1,2 @@
+﻿@additive polarity
+#(Tech) phân cực cộng tính

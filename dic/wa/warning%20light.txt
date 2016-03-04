@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#đèn báo
+@Chuyên ngành kỹ thuật
+#ánh sáng cảnh báo
+#đèn cảnh báo
+@Lĩnh vực: điện
+#đèn báo hiệu nguy hiểm

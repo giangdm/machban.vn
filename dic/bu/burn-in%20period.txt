@@ -1,0 +1,6 @@
+﻿@burn-in period
+#(Tech) thời gian chạy thử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giai đoạn kiểm tra
+#thời gian thử nóng

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ giảm tiếng ồn
+#bộ tiêu âm
+#bộ triệt âm
+#bộ triệt nhiễu
+#bộ triệt tiếng ồn
+@Lĩnh vực: toán & tin
+#bộ khử tiếng ồn
+@Lĩnh vực: điện
+#mạch triệt nhiễu âm

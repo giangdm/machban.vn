@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khung cốt thép chống
+#khung cốt thép mố trụ
+#khung cốt thép trụ

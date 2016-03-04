@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#bảo dưỡng phòng ngừa (trước khi hỏng hóc xảy ra)
+@Chuyên ngành kỹ thuật
+#bảo dưỡng dự phòng
+#bảo dưỡng thường xuyên
+#bảo trì phòng ngừa
+#sự bảo dưỡng phòng ngừa
+#sự bảo trì
+@Lĩnh vực: toán & tin
+#sự bảo trì phòng ngừa
+@Lĩnh vực: hóa học & vật liệu
+#sự bảo vệ ngăn ngừa
+#sự phòng vệ

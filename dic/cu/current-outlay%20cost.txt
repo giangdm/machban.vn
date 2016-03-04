@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#phí tổn chi ra trong kỳ
+#phí tổn trả bằng tiền mặt

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cốt thép bên trên (của mặt cắt)
+#cốt thép phía trên cùng (trong tiết diện bê tông)

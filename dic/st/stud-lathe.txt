@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy tiện nhanh
+@Lĩnh vực: toán & tin
+#máy tiện thanh

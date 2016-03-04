@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#yếu tố làm tắc (ống)
+@Lĩnh vực: điện lạnh
+#độ nhiễm bẩn
+#hệ số nhiễm bẩn
+#mức nhiễm bẩn

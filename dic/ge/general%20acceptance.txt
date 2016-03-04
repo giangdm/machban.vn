@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chấp nhận không bảo lưu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#chấp nhận vô điều kiện

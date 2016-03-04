@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy nén khí
+@Lĩnh vực: điện
+#máy nén gas

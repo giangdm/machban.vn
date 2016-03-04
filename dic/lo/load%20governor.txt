@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều chỉnh tải trọng
+@Lĩnh vực: cơ khí & công trình
+#bộ điều chỉnh phụ tải
+#phụ tải điều chỉnh
+@Lĩnh vực: giao thông & vận tải
+#bộ điều tiết tải trọng
+@Chuyên ngành kỹ thuật
+#bộ điều chỉnh tải trọng
+@Lĩnh vực: cơ khí & công trình
+#bộ điều chỉnh phụ tải
+#phụ tải điều chỉnh
+@Lĩnh vực: giao thông & vận tải
+#bộ điều tiết tải trọng

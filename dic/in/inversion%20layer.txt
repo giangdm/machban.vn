@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp đảo
+#lớp nghịch nhiệt
+@Lĩnh vực: môi trường
+#lớp đảo trong khí quyển

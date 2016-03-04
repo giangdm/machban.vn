@@ -1,0 +1,6 @@
+﻿- (tin học) Cơ chế truy xuất. Là các thành phần ổ đĩa định vị (các) đầu đọc/ghi trên các rãnh của đĩa quang hay đĩa từ. Nghĩa chung hơn, cơ chế truy xuất được dùng để chỉ bất kỳ bo mạch hoặc vi mạch ( IC) nào cho phép một bộ phận của hệ máy tính gửi các tín hiệu đến một bộ phận khác. Chẳng hạn bộ xử lý trung tâm ( CPU) không thể trực tiếp truy xuất ổ đĩa cứng; CPU sẽ gửi tín hiệu đến con điều khiển đĩa, là cơ chế truy xuất của ổ đĩa đó. Trong lĩnh vực phần mềm hay lập trình, là từ đồng nghĩa với "phương pháp truy xuất" , một biện pháp qua đó một ứng dụng có thể ghi vào hay đọc ra từ một tài nguyên. Ví dụ, hệ điều hành đưa ra một cơ chế nào đó mà thông qua nó, một ứng dụng có thể truy xuất dữ liệu trên một đĩa cứng.
+@Chuyên ngành kỹ thuật
+#cơ cấu phát động
+@Lĩnh vực: toán & tin
+#cơ chế truy cập
+#cơ chế truy xuất

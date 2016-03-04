@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ tước bỏ kiểu (dao động)
+@Lĩnh vực: vật lý
+#bộ tước kiểu

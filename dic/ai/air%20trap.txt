@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bẫy khí
+#bộ tách khí
+@Lĩnh vực: xây dựng
+#nồi ngưng

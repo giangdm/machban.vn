@@ -1,0 +1,7 @@
+﻿@on tap
+*thành ngữ tap
+@Chuyên ngành kinh tế
+#có sẵn
+#có thể sẵn sàng có được
+#có thể sẵn sàng mua được
+#sẵn sàng để dùng ngay

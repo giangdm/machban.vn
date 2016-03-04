@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mỏ dừng (trong công tơ)
+#mỏ hít

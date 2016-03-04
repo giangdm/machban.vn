@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#trạng thái chạy
+#trạng thái chạy (bình thường của máy móc)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thư tự làm việc
+#thứ tự làm việc
+@Lĩnh vực: cơ khí & công trình
+#tình trạng tốt (động cơ)

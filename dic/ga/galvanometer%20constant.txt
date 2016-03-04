@@ -1,0 +1,5 @@
+﻿@galvanometer constant
+#(Tech) hằng số điện kế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hằng số điện kế

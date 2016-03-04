@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#danh sách (những người) chờ bổ nhiệm
+#danh sách đợi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#danh sách chờ
+@Lĩnh vực: y học
+#danh sách chờ đợi

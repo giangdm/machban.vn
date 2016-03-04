@@ -1,0 +1,5 @@
+﻿@nutationnumer
+#(cơ học) chương động
+#n. of angle chương động góc
+#n. of vertical chương động của đường thẳng đứng
+#O

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#cần trục kiểu bánh xích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cẩu bánh xích
+#máy trục trên bánh xích

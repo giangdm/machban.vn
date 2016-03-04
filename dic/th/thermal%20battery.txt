@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ pin nhiệt
+@Lĩnh vực: vật lý
+#pin nhiệt

@@ -1,0 +1,7 @@
+﻿@Future value
+#(Econ) Giá trị tương lai.
+@Chuyên ngành kinh tế
+#giá trị tương lai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị tương lai

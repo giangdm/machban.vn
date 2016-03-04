@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khoản nợ dự trữ
+#khoản nợ tồn trữ
+#trách nhiệm bảo lưu

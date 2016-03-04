@@ -1,0 +1,3 @@
+﻿@Cochrane-Orcutt
+#(Econ) Cochrane-Orcutt
+: Tên dùng phổ biến cho thủ tục được thiết kế để ước tính các thông số của một phương trình mà số dư của nó tuân theo TƯƠNG QUAN CHUỖI. Xem PRAIS-WINSTEN.

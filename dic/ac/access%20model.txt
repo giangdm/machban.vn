@@ -1,0 +1,2 @@
+﻿@access model
+#(Tech) mô hình truy cập

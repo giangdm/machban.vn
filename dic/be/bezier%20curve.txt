@@ -1,0 +1,5 @@
+﻿@bezier curve
+#đường cong Bézier
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường cong Bezier

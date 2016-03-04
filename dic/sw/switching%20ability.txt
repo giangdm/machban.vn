@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dung lượng chuyển mạch
+@Lĩnh vực: toán & tin
+#khả năng chuyển mạch

@@ -1,0 +1,3 @@
+﻿@Pre-emption rights
+#(Econ) Các quyền ưu tiên mua cổ phiếu.
+: Các quyền dành cho người có cổ phiếu thường mua các đợt phát hành mới dựa trên cơ sở theo tỷ lệ.

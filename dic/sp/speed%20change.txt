@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#đổi tốc độ (của các động cơ nhiệt)
+@Lĩnh vực: cơ khí & công trình
+#sự biến tốc

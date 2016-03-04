@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chế độ hoạt động
+#chế độ vận hành
+@Lĩnh vực: toán & tin
+#chế độ tính toán
+#chế tạo thao tác

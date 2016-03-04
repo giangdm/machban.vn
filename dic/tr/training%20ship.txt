@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#tàu huấn luyện
+#tàu huấn luyện (cho thủy thủ)
+@Chuyên ngành kỹ thuật
+#tàu huấn luyện
+@Lĩnh vực: giao thông & vận tải
+#tàu tập lái (thủy quân)
+#tàu thủy huấn luyện

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bình thủy tinh trọng kế
+@Chuyên ngành kỹ thuật
+#tỷ trọng kế
+@Lĩnh vực: xây dựng
+#bình đo tỷ trọng
+@Lĩnh vực: vật lý
+#chai đo tỷ trọng

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bằng hiện vật
+#trả bằng hiện vật
+#trả lương bằng hiện vật

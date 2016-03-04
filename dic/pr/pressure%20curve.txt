@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#biểu đồ nén
+#đường cong áp suất
+@Lĩnh vực: hóa học & vật liệu
+#đường áp suất
+@Lĩnh vực: xây dựng
+#đường cong áp lực

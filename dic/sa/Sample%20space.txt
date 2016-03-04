@@ -1,0 +1,6 @@
+﻿@Sample space
+#(Econ) Không gian mẫu.
+@Chuyên ngành kinh tế
+#không gian mẫu
+@Chuyên ngành kỹ thuật
+#không gian mẫu

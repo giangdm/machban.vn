@@ -1,0 +1,7 @@
+﻿@clamping circuit
+#(Tech) mạch kẹp
+@Chuyên ngành kỹ thuật
+#mạch ghim (sơ đồ điện)
+@Lĩnh vực: điện
+#mạch ghim
+#mạch kẹp

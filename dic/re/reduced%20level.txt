@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cao trình sau khi đào (lấy theo cao trình chuẩn)
+#độ cao giảm

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ ghi
+#máy đo ghi
+#máy ghi
+#thiết bị ghi
+@Lĩnh vực: điện tử & viễn thông
+#bộ phận ghi
+@Lĩnh vực: điện lạnh
+#khí cụ ghi

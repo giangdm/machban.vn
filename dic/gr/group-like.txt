@@ -1,0 +1,6 @@
+﻿@group-like
+#tựa nhóm, giống nhóm |
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giống nhóm
+#tựa nhóm

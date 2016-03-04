@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ sai thống kê
+#sai số thống kê
+@Lĩnh vực: cơ khí & công trình
+#sai số thiết kế

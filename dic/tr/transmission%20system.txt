@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ truyền động
+@Lĩnh vực: cơ khí & công trình
+#hệ thống dẫn động
+#hệ thống truyền động
+@Lĩnh vực: điện
+#hệ thống truyền tải
+#hệ truyền dẫn
+@Lĩnh vực: hóa học & vật liệu
+#hệ truyền

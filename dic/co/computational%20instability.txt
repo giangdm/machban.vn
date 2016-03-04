@@ -1,0 +1,2 @@
+﻿@computational instability
+#(Tech) tính bất ổn định tính toán

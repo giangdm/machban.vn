@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khí nén
+#không khí nén
+@Lĩnh vực: điện lạnh
+#không khí áp lực cao

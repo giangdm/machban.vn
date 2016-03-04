@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đổi pha
+#máy biến đổi pha
+@Lĩnh vực: điện lạnh
+#bộ biến đổi pha
+@Lĩnh vực: toán & tin
+#bộ chuyển đổi pha

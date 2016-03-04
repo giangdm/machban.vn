@@ -1,0 +1,26 @@
+﻿@Chuyên ngành kỹ thuật
+#hộp lọc
+#khâu lọc
+#lõi lọc
+#ống lọc
+#phần tử lọc
+#ruột bộ phận lọc
+@Lĩnh vực: điện lạnh
+#bộ phận phin lọc
+#chi tiết bộ lọc
+#chi tiết của phin
+@Lĩnh vực: cơ khí & công trình
+#ruột bộ lọc
+@Chuyên ngành kỹ thuật
+#hộp lọc
+#khâu lọc
+#lõi lọc
+#ống lọc
+#phần tử lọc
+#ruột bộ phận lọc
+@Lĩnh vực: điện lạnh
+#bộ phận phin lọc
+#chi tiết bộ lọc
+#chi tiết của phin
+@Lĩnh vực: cơ khí & công trình
+#ruột bộ lọc

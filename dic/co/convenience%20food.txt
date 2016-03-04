@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#ăn liền
+#thức ăn chuẩn bị sẵn
+#thực phẩm ăn liền
+#thực phẩm tiện dụng
+@Chuyên ngành kỹ thuật
+#đối lưu

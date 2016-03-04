@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dây chảy
+@Lĩnh vực: điện
+#bộ nối cầu chì
+#giá gắn dây chì
+#liên kết cầu chì
+@Lĩnh vực: điện lạnh
+#dây cháy (của cầu chì)

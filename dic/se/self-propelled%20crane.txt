@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#cần trục tự đẩy
+@Lĩnh vực: xây dựng
+#máy trục tự hành

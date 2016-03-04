@@ -1,0 +1,2 @@
+﻿@electronic processor
+#(Tech) bộ xử lý điện tử

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#cân bằng vật chất
+@Lĩnh vực: xây dựng
+#cân đối vật liệu

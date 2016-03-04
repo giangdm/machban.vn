@@ -1,0 +1,5 @@
+﻿@actual state
+#(Tech) trạng thái thực tế, thực trạng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thực trạng

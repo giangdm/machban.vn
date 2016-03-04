@@ -1,0 +1,8 @@
+﻿@control card
+#(Tech) phiếu điều khiển
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bìa điều khiển
+@Lĩnh vực: toán & tin
+#phiếu điều khiển
+#thẻ điều khiển

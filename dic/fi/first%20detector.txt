@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ tách sóng đầu tiên
+@Lĩnh vực: điện tử & viễn thông
+#bộ tách sóng thứ nhất
+@Lĩnh vực: điện
+#tầng tách sóng thứ nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ tách sóng đầu tiên
+@Lĩnh vực: điện tử & viễn thông
+#bộ tách sóng thứ nhất
+@Lĩnh vực: điện
+#tầng tách sóng thứ nhất

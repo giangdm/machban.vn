@@ -1,0 +1,2 @@
+﻿@automatic flight control
+#(Tech) điều khiển bay tự động

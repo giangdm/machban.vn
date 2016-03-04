@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#số Prandtl
+#tiêu chuẩn Prandtl
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#số prandl

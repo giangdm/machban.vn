@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng thao tác cơ bản
+@Lĩnh vực: xây dựng
+#panen vận hành cơ bản

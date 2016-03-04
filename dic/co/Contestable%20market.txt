@@ -1,0 +1,5 @@
+﻿@Contestable market
+#(Econ) Thị trường có thể cạnh tranh được.
+@Chuyên ngành kinh tế
+#thị trường có thể cạnh tranh
+#thị trường có thể cạnh tranh được

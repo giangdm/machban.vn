@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt dung riêng
+@Lĩnh vực: cơ khí & công trình
+#công suất riêng
+#sản lượng riêng
+@Lĩnh vực: hóa học & vật liệu
+#dung lượng riêng

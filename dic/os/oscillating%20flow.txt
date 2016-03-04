@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng bất định
+@Lĩnh vực: điện lạnh
+#dòng dao động
+#dòng xung động

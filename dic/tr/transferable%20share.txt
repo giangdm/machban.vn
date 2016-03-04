@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cổ phiếu có thể chuyển nhượng được
+@Chuyên ngành kỹ thuật
+#cổ phần chuyển nhượng được

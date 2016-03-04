@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cấu hình (tiếp đất) Wenner
+@Lĩnh vực: điện
+#cấu hình Wenner

@@ -1,0 +1,9 @@
+﻿@Axiom of continuity
+#(Econ) Tiên đề về tính liên tục.
+: Xem AXIOMS OF PREFERENCE.
+@Chuyên ngành kinh tế
+#giả thiết về tính liên tục
+#tiền đề về tính liên tục
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tiên đề liên tục

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#biên độ ứng suất
+@Lĩnh vực: xây dựng
+#miền ứng suất

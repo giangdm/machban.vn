@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hạt có góc cạnh
+@Lĩnh vực: toán & tin
+#hạt tương đối

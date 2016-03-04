@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nhập trước, xuất trước
+@Chuyên ngành kỹ thuật
+#vào trước ra trước
+@Chuyên ngành kỹ thuật
+#vào trước ra trước

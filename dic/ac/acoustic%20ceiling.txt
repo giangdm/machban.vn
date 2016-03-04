@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#trần cách âm
+#trần phản xạ âm
+#trần trang âm

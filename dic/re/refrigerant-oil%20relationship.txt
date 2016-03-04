@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#quan hệ môi chất lạnh-dầu
+#tỷ lệ môi chất lạnh-dầu

@@ -1,0 +1,19 @@
+﻿@Bankruptcy
+#(Econ) Sự phá sản.
+: Một thủ tục pháp lý trong đó tài sản của con nợ không trả được nợ bị tịch thu vì lợi ích của các chủ nợ nói chung.
+<!-- more -->
+@bankruptcy /'bæɳkrəptsi/
+*danh từ
+#sự vỡ nợ, sự phá sản
+#sự mất hoàn toàn (danh sự, tiếng tăm...)
+@Chuyên ngành kinh tế
+#đóng cửa vì khánh tận
+#khánh tận
+#phá sản
+#sự phá sản
+#sự vỡ nợ
+#vỡ nợ
+@Chuyên ngành kỹ thuật
+#sự phá sản
+@Lĩnh vực: xây dựng
+#phá sản

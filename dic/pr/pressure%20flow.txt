@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy có áp lực
+@Lĩnh vực: xây dựng
+#chuyển động có áp
+@Lĩnh vực: toán & tin
+#dòng áp
+@Lĩnh vực: hóa học & vật liệu
+#dòng áp lực
+@Lĩnh vực: cơ khí & công trình
+#dòng có áp

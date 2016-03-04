@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#tập trống
+@Lĩnh vực: toán & tin
+#tập (hợp) không
+#tập (hợp) rỗng
+#tập hợp rỗng
+#tập hợp trống
+#tập trắng

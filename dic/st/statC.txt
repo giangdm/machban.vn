@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#culông E
+#điện tích đơn vị
+@Lĩnh vực: điện lạnh
+#statC

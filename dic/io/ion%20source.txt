@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nguồn iôn
+@Lĩnh vực: vật lý
+#nguồn ion

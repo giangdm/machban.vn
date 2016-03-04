@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tường màn
+#tường xây trên rầm
+#tường xây trên sàn
+#vách bình phong
+@Lĩnh vực: toán & tin
+#tường xây trên dầm
+#vách bình phương

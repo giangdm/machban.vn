@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#sàng quay
+#sàng thùng quay
+@Chuyên ngành kỹ thuật
+#sàng quay
+#thùng sàng
+#trống sàng
+@Lĩnh vực: hóa học & vật liệu
+#sàng xoay

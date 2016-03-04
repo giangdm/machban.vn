@@ -1,0 +1,19 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt cảm xúc
+#nhiệt vật lý
+@Chuyên ngành kỹ thuật
+#động nhiệt
+#lượng chứa nhiệt
+#nhiệt cảm biến
+#nhiệt cảm thấy được
+#nhiệt hiện
+#nhiệt nhận rõ được
+#nhiệt nhạy cảm
+@Lĩnh vực: xây dựng
+#entapi của không khí
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt cảm
+@Lĩnh vực: điện lạnh
+#nhiệt cảm biến (làm thay đổi nhiệt độ)
+#nhiệt cảm biến được
+#nhiệt cảm nhận được

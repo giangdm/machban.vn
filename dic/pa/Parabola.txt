@@ -1,0 +1,21 @@
+﻿@Parabola
+#(Econ) Dạng Parabôn.
+: Thông thường trong kinh tế học (mặc dù không nhất thiết) là đồ thị hình chữ U hoặc chữ U ngược của một phương trình bậc hai.
+<!-- more -->
+@parabola /pə'ræbələ/
+*danh từ
+#(toán học) Parabôn
+@Chuyên ngành kỹ thuật
+#parabôn
+@Lĩnh vực: xây dựng
+#đường parabôn
+<!-- more -->
+@parabola
+#parabôn
+#p. of convergence parabôn hội tụ
+#p. of higher order parabôn bậc cao
+#cubic p. parabôn bậc ba
+#cubical p. parabôn bậc ba
+#focal p. parabôn tiêu
+#osculating p. parabôn mật tiếp
+#semi-cubical p. parabôn nửa bậc ba

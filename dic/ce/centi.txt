@@ -1,0 +1,2 @@
+﻿@centi
+#(Tech) phần trăm, centi

@@ -1,0 +1,6 @@
+﻿@Rational expectations
+#(Econ) Kỳ vọng duy lý.
+: Đó là sự áp dụng phần chủ yếu của hành vi duy lý tối đa hoá vào việc thu thập và xử lý thông tin cho mục đích tạo nên một quan điểm về tương lai.
+@Chuyên ngành kinh tế
+#dự đoán hợp lý
+#những dự tính (kỳ vọng) hợp lý

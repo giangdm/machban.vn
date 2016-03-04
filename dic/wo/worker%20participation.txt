@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự tham gia của người lao động
+#sự tham gia quản lý của công nhân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công nhân tham gia

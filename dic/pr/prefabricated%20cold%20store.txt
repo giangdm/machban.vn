@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kho lạnh được chế tạo sẵn
+#kho lạnh được lắp ghép (từ Panel)
+#kho lạnh được lắp ghép (từ panen)

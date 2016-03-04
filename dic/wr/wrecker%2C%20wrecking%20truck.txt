@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#xe cần trục kéo
+#xe cần trục kéo (để kéo xe hư)

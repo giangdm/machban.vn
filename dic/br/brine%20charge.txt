@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nạp nước muối
+@Lĩnh vực: điện lạnh
+#khối lượng nước muối nạp
+#mẻ nạp nước muối
+#sự nạp nước muối

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#môment ly tâm
+@Lĩnh vực: điện lạnh
+#tính quán tính

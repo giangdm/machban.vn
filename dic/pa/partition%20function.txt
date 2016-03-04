@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm phân bố
+#hàm phân hoạch
+@Lĩnh vực: hóa học & vật liệu
+#hàm số phân bố
+@Lĩnh vực: vật lý
+#hàm trạng thái

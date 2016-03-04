@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#các điều kiện (không khí) trong phòng
+#điều kiện (không khí) trong phòng

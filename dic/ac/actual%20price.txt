@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giá mua thực tế
+#giá thực tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giá thực tế

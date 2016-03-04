@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#số bit trong một giây, bit/s
+@Chuyên ngành kỹ thuật
+#bit trên giây
+@Lĩnh vực: xây dựng
+#bit mỗi giây

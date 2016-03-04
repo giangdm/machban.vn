@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nhiều điện tử
+@Lĩnh vực: vật lý
+#nhiều electron

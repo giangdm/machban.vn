@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tính chất nhiệt động (lực)
+#tính chất vĩ mô

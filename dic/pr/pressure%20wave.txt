@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sóng ép
+#sóng nén
+@Lĩnh vực: toán & tin
+#sóng áp
+@Lĩnh vực: điện tử & viễn thông
+#sóng tạo áp

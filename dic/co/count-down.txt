@@ -1,0 +1,6 @@
+﻿@count-down /'kauntdaun/
+*danh từ
+#sự đếm từ 10 đến 0 (để cho nổ, cho xuất phát, khi thử bom nguyên tử, khi phóng vệ tinh...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đếm ngược

@@ -1,0 +1,2 @@
+﻿@aural detector
+#(Tech) bộ kiểm sóng âm thanh

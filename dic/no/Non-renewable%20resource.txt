@@ -1,0 +1,5 @@
+﻿@Non-renewable resource
+#(Econ) Tài nguyên không tái tạo được.
+: Là bất kỳ nguồn tài nguyên nào tồn tại dưới một hình thức có hạn - hay nói cách khác là với một số lượng hạn chế mà không được bổ sung thêm ngoài cách tái chế.
+@Chuyên ngành kinh tế
+#tài nguyên không tái sinh được

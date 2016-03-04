@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn vào/ra
+@Lĩnh vực: toán & tin
+#vùng nhập/xuất

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đặc trưng tổng trở
+@Lĩnh vực: điện
+#đặc tuyến trở kháng

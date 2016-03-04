@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng cỡ dây
+#thước đo
+@Lĩnh vực: điện
+#cỡ dây
+@Lĩnh vực: toán & tin
+#thước đo, cỡ dây

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#lá
+#nút cuối
+@Lĩnh vực: toán & tin
+#nút đầu cuối (của cây)
+@Lĩnh vực: xây dựng
+#mấu hết
+@Chuyên ngành kỹ thuật
+#lá
+#nút cuối
+@Lĩnh vực: toán & tin
+#nút đầu cuối (của cây)
+@Lĩnh vực: xây dựng
+#mấu hết

@@ -1,0 +1,2 @@
+﻿@Geiger (Muller) counter
+#(Tech) đồng hồ Gêge Mule để đo độ phóng xạ

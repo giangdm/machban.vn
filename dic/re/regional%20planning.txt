@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#quy hoạch khu vực
+#sự quy hoạch vùng
+@Chuyên ngành kỹ thuật
+#quy hoạch vùng
+#sự lập quy hoạch vùng
+@Lĩnh vực: xây dựng
+#sự quy hoạch vùng

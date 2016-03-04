@@ -1,0 +1,12 @@
+﻿@emergency signal
+#(Tech) tín hiệu khẩn cấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tín hiệu dẫn đường
+@Lĩnh vực: toán & tin
+#tín hiệu hỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tín hiệu dẫn đường
+@Lĩnh vực: toán & tin
+#tín hiệu hỏng

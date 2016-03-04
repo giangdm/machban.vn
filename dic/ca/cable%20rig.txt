@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#máy khoan cáp
+#máy khoan va đập
+@Lĩnh vực: xây dựng
+#máy khoan dây cáp
+@Lĩnh vực: toán & tin
+#tháp khoan dây cáp
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị khoan cáp

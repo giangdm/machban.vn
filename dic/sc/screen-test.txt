@@ -1,0 +1,5 @@
+﻿@screen-test
+*danh từ
+#đoạn phim quay để kiểm tra khả năng đóng phim của diễn viên
+*ngoại động từ
+#quay một đoạn phim để kiểm tra khả năng đóng phim của diễn viên

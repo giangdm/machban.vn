@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đấu nối đẳng thế
+#kết nối đẳng thế
+@Lĩnh vực: toán & tin
+#sự liên kết đẳng thế
+@Lĩnh vực: xây dựng
+#sự mắc nối đẳng thế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đấu nối đẳng thế
+#kết nối đẳng thế
+@Lĩnh vực: toán & tin
+#sự liên kết đẳng thế
+@Lĩnh vực: xây dựng
+#sự mắc nối đẳng thế

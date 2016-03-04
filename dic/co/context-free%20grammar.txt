@@ -1,0 +1,6 @@
+﻿@context-free grammar
+#(Tech) văn phạm phi ngữ cảnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bất ngữ cảnh
+#phi ngữ cảnh

@@ -1,0 +1,3 @@
+﻿@hexehedron
+#khối sáu mặt
+#regular h. khối sáu mặt đều

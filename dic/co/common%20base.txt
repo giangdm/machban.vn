@@ -1,0 +1,5 @@
+﻿@common base
+#(Tech) cơ gốc chung
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cực gốc chung

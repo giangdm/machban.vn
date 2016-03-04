@@ -1,0 +1,3 @@
+﻿@Bank note
+#(Econ) Giấy bạc của ngân hàng.
+: Một dạng tiền tệ phát hành bởi một ngân hàng và về bản chất làm bằng chứng có thể thương lượng (nghĩa là có thể chuyển đổi đơn giản bằng cấp phát) về tình trạng nợ của ngân hàng đối với mệnh giá của giấy bạc. Giấy bạc của ngân hàng được phát triển từ HỐI PHIẾU,  và về nguyên tắc là hối phiếu có thể trả trực tiếp (theo yêu cầu) bằng phương tiện khác.

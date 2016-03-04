@@ -1,0 +1,6 @@
+﻿@Overhead costs
+#(Econ) Chi phí duy tu
+: Xem FIXED COSTS
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giá thành tổng quát

@@ -1,0 +1,2 @@
+﻿@generic procedure
+#(Tech) thủ tục chung; chương trình con cùng loại

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tập điều kiện đấu thầu
+@Chuyên ngành kỹ thuật
+#đặc tính kỹ thuật
+@Lĩnh vực: xây dựng
+#quy phạm kỹ thuật
+#yêu cầu kỹ thuật

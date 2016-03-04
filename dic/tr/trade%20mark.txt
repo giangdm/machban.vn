@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#nhãn hiệu cầu chứng
+#nhãn hiệu đã đăng ký về mặt pháp luật
+#nhãn hiệu thương mại (có cầu chứng)
+#nhãn thương nghiệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#nhãn hiệu của nhà máy

@@ -1,0 +1,3 @@
+﻿@Elasticity of input substitution
+#(Econ) Độ co giãn của sự thay thế đầu vào.
+: Một thước đo sự phản ứng của sự kết hợp lao động TỐI ƯU đối với thay đổi giá tương đối của hai đầu vào này (hoặc để chỉ hai yếu tố đầu vào bất kỳ).

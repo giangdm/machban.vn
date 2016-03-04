@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#quản lý phi tập trung (kinh doanh)
+#sự quản lý phân quyền

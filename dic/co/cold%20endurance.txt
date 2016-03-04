@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#tính chịu lạnh
+@Chuyên ngành kỹ thuật
+#tính bền lạnh
+#tính chịu lạnh
+@Lĩnh vực: xây dựng
+#khả năng chịu lạnh
+#khả năng chống lạnh
+@Lĩnh vực: cơ khí & công trình
+#sức chịu lạnh

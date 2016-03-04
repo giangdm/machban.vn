@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#công ty dịch vụ phần mềm
+#công ty dịch vụ và tư vấn tin học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#công ty phần mềm

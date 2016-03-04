@@ -1,0 +1,9 @@
+﻿@gain control
+#(Tech) điều chỉnh tăng ích, điều chỉnh khuếch đại
+@Chuyên ngành kỹ thuật
+#sự điều chỉnh khuếch đại
+@Lĩnh vực: toán & tin
+#điều chỉnh khuếch đại
+@Lĩnh vực: điện tử & viễn thông
+#sự điều khiển tăng tích
+#sự điều khiển thu nhập

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường tròn sinh
+@Lĩnh vực: cơ khí & công trình
+#vòng (tròn) sinh
+#vòng tâm tích

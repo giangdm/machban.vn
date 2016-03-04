@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phần mềm riêng cho người chế tạo
+#phần mềm riêng dành cho người chế tạo
+#phần mềm sử dụng riêng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần mềm riêng
+#phần mềm sở hữu

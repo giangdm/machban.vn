@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#mẫu thí nghiệm
+#mô hình thí nghiệm
+@Lĩnh vực: vật lý
+#mô hình thử nghiệm
+@Chuyên ngành kỹ thuật
+#mẫu thí nghiệm
+#mô hình thí nghiệm
+@Lĩnh vực: vật lý
+#mô hình thử nghiệm

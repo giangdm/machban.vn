@@ -1,0 +1,3 @@
+﻿@slot-machine /'slɔtmə,ʃi:n/
+*danh từ
+#máy bán hàng tự động (bỏ tiền vào khe thì đưa ra mặt hàng tương ứng)

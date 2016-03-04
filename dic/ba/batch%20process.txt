@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#quá trình gián đoạn
+@Chuyên ngành kỹ thuật
+#qui trình sản xuất theo đợt

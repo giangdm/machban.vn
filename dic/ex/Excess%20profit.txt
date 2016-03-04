@@ -1,0 +1,15 @@
+﻿@Excess profit
+#(Econ) Lãi vượt.
+@Chuyên ngành kinh tế
+#lợi nhuận siêu ngạch
+#siêu lợi nhuận
+@Chuyên ngành kỹ thuật
+#lãi thặng dư
+#lợi nhuận vượt mức
+@Lĩnh vực: hóa học & vật liệu
+#siêu lợi nhuận
+@Chuyên ngành kỹ thuật
+#lãi thặng dư
+#lợi nhuận vượt mức
+@Lĩnh vực: hóa học & vật liệu
+#siêu lợi nhuận

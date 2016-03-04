@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#điểm đục
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#điểm đục
+#điểm vẩn đục
+@Lĩnh vực: vật lý
+#điểm vân đục

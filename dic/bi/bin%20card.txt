@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thẻ kho
+@Lĩnh vực: toán & tin
+#thùng bìa

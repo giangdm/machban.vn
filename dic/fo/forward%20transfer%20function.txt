@@ -1,0 +1,5 @@
+﻿@forward transfer function
+#(Tech) hàm số chuyển thuận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#chức năng truyền ra

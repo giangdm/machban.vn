@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cách nhiệt kiểu panen lớp kẹt
+#cách nhiệt kiểu panen sanwich
+#cách nhiệt kiểu tấm lắp ghép

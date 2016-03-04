@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#áp suất trong thiết bị bốc hơi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#áp suất giàn bay hơi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#áp suất giàn bay hơi

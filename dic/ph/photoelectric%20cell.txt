@@ -1,0 +1,7 @@
+﻿@photoelectric cell
+*danh từ
+#tế bào quang điện
+@Chuyên ngành kỹ thuật
+#pin quang điện
+@Lĩnh vực: điện lạnh
+#bộ thụ cảm quang điện

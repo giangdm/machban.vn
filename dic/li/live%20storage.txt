@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#dung tích làm việc
+#lượng nước chứa làm việc
+@Lĩnh vực: xây dựng
+#dự trữ nước có ích
+@Lĩnh vực: cơ khí & công trình
+#kho tiêu thụ thường xuyên
+@Chuyên ngành kỹ thuật
+#dung tích làm việc
+#lượng nước chứa làm việc
+@Lĩnh vực: xây dựng
+#dự trữ nước có ích
+@Lĩnh vực: cơ khí & công trình
+#kho tiêu thụ thường xuyên

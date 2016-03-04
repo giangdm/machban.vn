@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#lựa thư
+#phân loại thư tín (để chuyển đi)
+#sự lựa thư
+#sự phân loại thư tín
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự sắp xếp thư

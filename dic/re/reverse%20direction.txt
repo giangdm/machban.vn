@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hướng ngược
+@Lĩnh vực: điện lạnh
+#chiều ngược
+@Lĩnh vực: điện
+#hướng đảo

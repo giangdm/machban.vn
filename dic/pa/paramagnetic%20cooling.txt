@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khử từ đoạn nhiệt
+#làm lạnh từ tính
+@Lĩnh vực: điện lạnh
+#làm lạnh thuận từ (để làm lạnh muối thuận từ)
+#phương pháp làm lạnh Giaque-Debye

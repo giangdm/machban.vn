@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hàm đa giác
+@Lĩnh vực: điện lạnh
+#phân tử đa nguyên tử

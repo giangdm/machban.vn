@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký hiệu định danh kênh ảo
+#số hiệu kênh ảo

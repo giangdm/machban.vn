@@ -1,0 +1,3 @@
+﻿@Prospect theory
+#(Econ) Lý thuyết viễn cảnh.
+: Một lý thuyết về việc ra quyết định trong tình trạng không chắc chắn. Lý thuyết này gắn với Kahneman và Tversky.

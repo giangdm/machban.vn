@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trường âm thanh dội lại
+#trường âm thanh phản hồi
+#trường âm vang

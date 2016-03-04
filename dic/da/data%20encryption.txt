@@ -1,0 +1,2 @@
+﻿@data encryption
+#(Tech) mã hóa dữ liệu

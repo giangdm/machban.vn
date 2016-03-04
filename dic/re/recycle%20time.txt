@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chu kỳ nhấp nháy
+#thời gian tái quay vòng (chớp sáng)

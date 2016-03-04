@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm xicnum
+@Lĩnh vực: điện tử & viễn thông
+#hàm dấu
+@Lĩnh vực: toán & tin
+#hàm dấu, hàm signum
+#hàn dấu

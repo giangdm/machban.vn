@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện dung biến đổi tuyến tính
+#điện dung đường thẳng
+#điện dung tỷ lệ

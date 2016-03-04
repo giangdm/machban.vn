@@ -1,0 +1,6 @@
+﻿@compiling routine
+#(Tech) thường trình biên dịch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình con biên dịch
+#thủ tục biên dịch

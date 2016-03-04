@@ -1,0 +1,5 @@
+﻿@Imperfect market
+#(Econ) Thị trường không hoàn hảo.
+: Là thị trường trong đó các điều kiện sau đây của một thị trường hoàn hảo không được thoả mãn: 1)Sản phẩm đồng nhất. 2)Một số lớn người mua và người bán. 3)Người mua và người bán có quyền tự do nhập và ra khỏi thị trường. 4)Tất cả người mua và người bán đều có thông tin hoàn hảo và thấy được trước tập hợp các mức giá hiện tại và tương lai. 5)Lượng mua và lượng bán của từng thành viên thị trường là không đáng kể so với tổng khối lượng giao dịch. 6)Không có sự kết cấu giữa người bán và người mua. 7)Người tiêu dùng cực đại hoá tổng ĐỘ THOẢ DỤNG và người bán cực đại hoá TỔNG LỢ NHUẬN. 8)Hàng hoá có khả năng chuyển nhượng.
+@Chuyên ngành kinh tế
+#thiị trường không hoàn hảo

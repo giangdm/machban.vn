@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#pin có hai chất lỏng
+@Lĩnh vực: hóa học & vật liệu
+#pin hai dung dịch

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi lệch
+@Lĩnh vực: đo lường & điều khiển
+#sai số chệch (đo lường)
+@Lĩnh vực: toán & tin
+#sai số dịch chuyển
+@Lĩnh vực: điện lạnh
+#sai số không tập trung

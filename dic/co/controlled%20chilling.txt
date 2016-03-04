@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự làm lạnh điều khiển
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#làm lạnh được điều chỉnh

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạch chỉ độ sai
+#mạch phát hiện sai
+@Lĩnh vực: điện tử & viễn thông
+#mạch chỉ lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạch chỉ độ sai
+#mạch phát hiện sai
+@Lĩnh vực: điện tử & viễn thông
+#mạch chỉ lỗi

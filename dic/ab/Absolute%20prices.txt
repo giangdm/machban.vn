@@ -1,0 +1,3 @@
+﻿@Absolute prices
+#(Econ) Giá tuyệt đối.
+: Giá đo bằng tiền ngược với với giá tương đối. Đó là giá của các hàng hoá, dịch vụ được biểu diễn trực tiếp dưới dạng số lượng của đơn vị tiền tệ. Xem Price

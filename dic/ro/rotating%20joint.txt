@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ ghép quay
+#bộ nối quay
+#khớp nối quay

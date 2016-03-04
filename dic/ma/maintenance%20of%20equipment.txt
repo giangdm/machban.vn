@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự bảo dưỡng phương tiện
+#sự khai thác phương tiện
+#sự khai thác thiết bị

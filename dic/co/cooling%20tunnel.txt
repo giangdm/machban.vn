@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hầm lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+#hầm lạnh

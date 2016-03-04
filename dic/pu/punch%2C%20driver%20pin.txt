@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đục chốt
+@Lĩnh vực: xây dựng
+#máy chạy kim
+@Lĩnh vực: dệt may
+#mũi chạy kim

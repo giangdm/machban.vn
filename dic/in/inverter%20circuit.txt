@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch đảo
+@Lĩnh vực: toán & tin
+#mạch nghịch đảo

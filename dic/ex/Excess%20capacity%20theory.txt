@@ -1,0 +1,3 @@
+﻿@Excess capacity theory
+#(Econ) Lý thuyết công suất dư/thừa; Thuyết thừa công suất.
+: Được dùng để miêu tả dự báo mô hình CẠNH TRANH ĐỘC QUYỀN, trong đó các hãng trong điều kiện cân bằng dài hạn sản xuất trên đoạn xuống dốc của ĐƯỜNG CHI PHÍ TRUG BÌNH dài hạn, do đó sản xuất ở mức chi phí cao hơn chi phí tối thiểu.

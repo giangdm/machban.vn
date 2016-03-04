@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#đích đo
+@Lĩnh vực: điện tử & viễn thông
+#đại lượng đã đo
+@Lĩnh vực: toán & tin
+#tín hiệu liên hệ
+@Lĩnh vực: điện lạnh
+#tín hiệu phản hồi
+@Chuyên ngành kỹ thuật
+#đích đo
+@Lĩnh vực: điện tử & viễn thông
+#đại lượng đã đo
+@Lĩnh vực: toán & tin
+#tín hiệu liên hệ
+@Lĩnh vực: điện lạnh
+#tín hiệu phản hồi

@@ -1,0 +1,2 @@
+﻿@call by result
+#(Tech) gọi bằng kết quả

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương trình Laplaxơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phương trình Laplace
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương trình Laplaxơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phương trình Laplace

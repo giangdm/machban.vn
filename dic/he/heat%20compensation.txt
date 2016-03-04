@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự bổ chính nhiệt
+#sự bù nhiệt
+#sự điều hòa nhiệt

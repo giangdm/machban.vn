@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đèn nóng sáng
+#đèn phóng điện phát sáng
+@Lĩnh vực: điện
+#đèn lớp sáng âm

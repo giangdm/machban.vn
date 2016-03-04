@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng không xoáy
+@Lĩnh vực: xây dựng
+#dòng chảy không xoắy
+@Lĩnh vực: điện lạnh
+#dòng không rota
+@Lĩnh vực: vật lý
+#sự chảy không rota

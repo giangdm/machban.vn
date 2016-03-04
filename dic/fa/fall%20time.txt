@@ -1,0 +1,8 @@
+﻿@fall time
+#(Tech) thời gian tụt hậu, thời gian giảm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#thời gian giảm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#thời gian giảm

@@ -1,0 +1,2 @@
+﻿@computer center
+#(Tech) trung tâm điện toán

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#di chuyển ẩm
+#dịch chuyển ẩm
+@Lĩnh vực: xây dựng
+#sự di chuyển độ ẩm

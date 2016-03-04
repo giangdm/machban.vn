@@ -1,0 +1,13 @@
+﻿@hard copy
+*danh từ
+#<tin> bản in ra giấy
+@Chuyên ngành kinh tế
+#bản cứng
+#bản in trên giấy
+@Chuyên ngành kỹ thuật
+#bản in ra
+#bản sao vĩnh viễn
+@Lĩnh vực: xây dựng
+#bản sao chép cứng
+@Lĩnh vực: toán & tin
+#bản sao cứng

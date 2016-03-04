@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#màu mặt trước
+#màu nổi
+@Lĩnh vực: xây dựng
+#màu tiền cảnh

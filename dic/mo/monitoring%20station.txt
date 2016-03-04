@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đài kiểm chính
+@Lĩnh vực: điện tử & viễn thông
+#đài kiểm soát
+@Lĩnh vực: xây dựng
+#đài kiểm thính

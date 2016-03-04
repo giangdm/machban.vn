@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng dọc
+@Lĩnh vực: toán & tin
+#biến dạng theo chiều dọc
+@Lĩnh vực: xây dựng
+#ứng suất dọc

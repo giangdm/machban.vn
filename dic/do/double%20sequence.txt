@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dãy kép
+@Lĩnh vực: toán & tin
+#dãy số kép

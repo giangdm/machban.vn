@@ -1,0 +1,7 @@
+﻿@backward search
+#(Tech) tìm ngược
+@Chuyên ngành kỹ thuật
+#sự lần tìm ngược
+#sự tìm kiếm ngược
+@Lĩnh vực: toán & tin
+#tìm kiếm ngược

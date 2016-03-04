@@ -1,0 +1,3 @@
+﻿@lease-purchase
+*danh từ
+#chế độ thuê mua rẻ (nếu mua thì trừ tiền thuê vào giá)

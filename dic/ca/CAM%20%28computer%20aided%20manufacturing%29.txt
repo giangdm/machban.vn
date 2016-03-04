@@ -1,0 +1,2 @@
+﻿@CAM (computer aided manufacturing)
+#(Tech) chế tạo nhờ máy điện toán

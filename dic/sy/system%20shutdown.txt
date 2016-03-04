@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ sập xuống
+@Lĩnh vực: toán & tin
+#sự ngừng hệ thống

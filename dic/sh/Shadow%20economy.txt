@@ -1,0 +1,6 @@
+﻿@Shadow economy
+#(Econ) Nền kinh tế bóng.
+: Một bộ phận của nền kinh tế mà sản lượng của nó không được tính vào con số thống kê về thu nhập quốc dân bởi vì nó được giấu đi để chính quyền không thấy được.
+@Chuyên ngành kinh tế
+#kinh tế ngầm
+#nền kinh tế ngầm

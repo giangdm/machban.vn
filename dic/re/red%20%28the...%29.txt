@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bên nợ
+#tình trạng lỗ
+#tình trạng thâm hụt

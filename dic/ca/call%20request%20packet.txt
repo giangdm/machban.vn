@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bó đòi hỏi gọi điện
+#gói đòi hỏi gọi điện
+@Lĩnh vực: toán & tin
+#gói yêu cầu cuộc gọi

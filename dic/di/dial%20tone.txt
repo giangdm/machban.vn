@@ -1,0 +1,8 @@
+﻿@dial tone
+#(Tech) âm hiệu quay số, âm hiệu điện thoại
+@Chuyên ngành kỹ thuật
+#âm quay số
+@Lĩnh vực: điện lạnh
+#âm chọn số
+@Lĩnh vực: toán & tin
+#tín hiệu quay số

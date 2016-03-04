@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số cứng
+#hệ số trượt
+#môđun cắt
+#môđun đàn hồi ngang
+#môđun trượt
+#suất trượt
+@Lĩnh vực: xây dựng
+#hệ số dịch (chuyển)
+#môđun chống cắt

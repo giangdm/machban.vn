@@ -1,0 +1,117 @@
+﻿@way /wei/
+*danh từ
+#đường, đường đi, lối đi
+=way in: lối vào
+=way out: lối ra
+=way through: lối đi qua
+=a public way: con đường công cộng
+=covered way: lối đi có mái che, nhà cầu
+=permanent way: nền đường sắt (đã làm xong)
+=to be on one's way to: trên đường đi tới
+=on the way: dọc đường
+=to be under way: đang đi, đang trên đường đi (nghĩa bóng) đang tiến hành
+=to lose one's: lạc đường
+=to find way home: tìm đường về nhà
+=to block (stop) the way: ngăn (chặn, chắn) đường
+=to clear the way: dọn đường; mở thông đường
+=to make the best of one's way: đi thật nhanh
+=to make way for: tránh đường cho, để cho qua
+=to pave the way for: mở đường cho, chuẩn bị cho
+=in the way: làm trở ngại, chặn lối, ngáng đường
+=to be in someone's way: làm trở ngại ai, ngáng trở ai
+=to get out of the way of someone: tránh khỏi đường đi của ai
+=to stand in the way of someone: chặn đường (tiến lên) của ai
+#đoạn đường, quãng đường, khoảng cách
+=it's a long way from Hanoi: cách Hà nội rất xa
+=to go a long way: đi xa
+=to be still a long way off perfection: còn xa mới hoàn mỹ được
+#phía, phương, hướng, chiều
+=the right way: phía phải; (nghĩa bóng) con đường ngay, con đường đúng
+=the wrong way: phía trái; (nghĩa bóng) con đường sai lầm
+=which way is the wind blowing?: gió thổi theo phương nào?
+=this way: hướng này
+=this way out: đường ra phía này
+#cách, phương pháp, phương kế, biện pháp
+=in no way: chẳng bằng cách nào
+=to go the right way to: chọn cách tốt để
+=to go one's own way: làm theo cách của mình
+=to see one's way to: có cách để
+=to find way to: tìm ra cách để
+=to have one's own way: làm theo ý muốn; muốn gì được nấy
+=where there is a will there is a way: có chí thì nên
+#cá tính, lề thói
+=in the way of business: theo thói thường, theo lề thói
+=English ways of living: lối sống Anh
+=in a friendly way: một cách thân mật
+=way of speaking: cách nói
+=it is his way: đó là cá tính của nó
+=it is the way of the world: lề thói chung là thế; mọi người cũng làm như thế cả
+=ways and customs: phong tục lề thói
+=to be ignorant of the ways of society: không biết phép xã giao
+#việc; phạm vi, thẩm quyền
+=it is not in my way; it does not lie (come, fall) in my way: không phải việc của tôi; không thuộc thẩm quyền của tôi
+#(thông tục) vùng ở gần
+=to live somewhere Hanoi way: ở đâu đó gần Hà nội
+#tình trạng, tình thế, tình hình; giả định, giả thuyết
+=to be in a bad way: ở vào tình trạng xấu
+=to be in a fair way of (to): ở trong tình thế thuận lợi để
+#mức độ, chừng mực
+=in a small way: ở mức thấp, tầm thường; nho nhỏ
+#loại
+=something in the way of stationery: cái gì đó thuộc loại đồ dùng văn phòng
+#mặt, phương diện
+=in many ways: về nhiều mặt
+=in no way: chẳng mặt nào, tuyệt nhiên không
+#sự tiến bộ, sự thịnh vượng
+=to make one's [own] way: làm ăn thịnh vượng
+=to make way: tiến, tiến bộ
+#quy mô; ngành kinh doanh; phạm vi hoạt động
+=way of business: ngành kinh doanh
+=to be in a large way of business: kinh doanh quy mô lớn
+#(hàng hải) sự chạy; tốc độ
+=to gather way: tăng tốc độ
+=to lose way: giảm tốc độ
+=to get under way: lên đường, khởi hành, nhổ neo; khởi công
+=to be under way; to have way on: đang chạy (tàu thuỷ)
+#(từ Mỹ,nghĩa Mỹ) đằng
+=way ahead (back, down, off, up): đằng trước (đằng sau, phía dưới, đằng xa, phía trên)
+=to know someone way back in 1950: quen biết người nào từ năm 1950
+#by the way
+#(xem) by
+#by way of
+#đi qua, bằng con đường
+=by way of Haiphong: bằng con đường Hải phòng, qua Hải phòng
+#như là, coi như là, như thể
+=by way of compliment: như là một lời khen
+#the farthest way about is the nearest way home
+#the longest way round is the shortest way home
+#(tục ngữ) đường chính lại gần, đường tắt hoá xa
+#to give way
+#(xem) give
+#to go out of one's way to be rude
+#hỗn xược một cách vô cớ
+#to go the way of all the earth
+#to go the way of all flesh
+#to go the way of nature
+#(xem) go
+#to lead the way
+#(xem) lead
+#parting of the ways
+#(xem) parting
+#to put oneself out of the way
+#chịu phiền chịu khó để giúp người khác
+@Chuyên ngành kỹ thuật
+#con đường
+#đường
+#đường đi
+#hầm lò
+#lộ trình
+#lối đi
+#phương pháp
+#phương tiện
+@Lĩnh vực: điện tử & viễn thông
+#lộ (cáp)
+<!-- more -->
+@way
+#con đường; phương pháp
+#w. of behavior (điều khiển học) phương pháp sử lý

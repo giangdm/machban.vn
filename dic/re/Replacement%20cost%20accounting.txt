@@ -1,0 +1,6 @@
+﻿@Replacement cost accounting
+#(Econ) Hạch toán chi phí thay thế.
+: Là một phương pháp kế toán có điều chỉnh theo những thay đổi về giá cả bằng cách tính lợi nhuận như là khoản chênh lệch giữa giá bán một mặt hàng và chi phí thay thế của nó tại thời điểm bán hàng.
+@Chuyên ngành kinh tế
+#kế toán chi phí thay thế
+#sự thanh toán chi phí thay thế

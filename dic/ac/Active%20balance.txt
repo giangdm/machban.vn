@@ -1,0 +1,6 @@
+﻿@Active balance
+#(Econ) Dư nghạch.
+: Trong lý thuyết tiền tệ, một vài mô hình giả thiết chia một cung ứng tiền tệ thành DƯ NGHẠCH, đó là tiền dự trữ được đưa vào quay vòng trong các thời kỳ được xác định bởi các khoảng thời gian giữa các kỳ thanh toán, và NGHẠCH NHÀN RỖI là tiền dự trữ không được sử dụng để thanh toán thường xuyên.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự cân bằng chủ động

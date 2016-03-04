@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#băng nhân tạo
+@Chuyên ngành kỹ thuật
+#sân trượt băng nhân tạo
+@Lĩnh vực: hóa học & vật liệu
+#nước đá nhân tạo

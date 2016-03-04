@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#xử lý thông tin
+@Chuyên ngành kỹ thuật
+#sự xử lý thông tin

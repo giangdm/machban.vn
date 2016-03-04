@@ -1,0 +1,2 @@
+﻿@electron beam etching
+#(Tech) khắc bằng tia điện tử

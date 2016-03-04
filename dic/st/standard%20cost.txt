@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí chuẩn
+#giá thành tiêu chuẩn
+#phí tổn tiêu chuẩn

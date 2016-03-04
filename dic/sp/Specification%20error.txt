@@ -1,0 +1,7 @@
+﻿@Specification error
+#(Econ) Sai sót kỹ thuật.
+: Một bài toán kinh tế lượng trong đó xác định sai hình thức liên kết cần ước lượng, hoặc do xác định sai dạng của hàm số (ví dụ như TUYẾN TÍNH thay vì PHI TUYẾN) hoặc do bỏ sót các biến số liên quan hay do thêm vào các biến số không liên quan.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sai đặc tính
+#sai số đặc tính

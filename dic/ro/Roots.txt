@@ -1,0 +1,3 @@
+﻿@Roots
+#(Econ) Các nghiệm, căn số.
+: Các nghiệm của một hàm là các giá trị của biến độc lập làm cho biến phụ thuộc bằng không.

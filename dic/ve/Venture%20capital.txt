@@ -1,0 +1,12 @@
+﻿@Venture capital
+#(Econ) Vốn mạo hiểm.
+: Xem RISK CAPITAL.
+@Chuyên ngành kinh tế
+#vốn (chịu) rủi ro
+#vốn chịu rủi ro
+#vốn đầu cơ
+#vốn mạo hiểm
+#vốn rủi ro
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#vốn không bảo đảm

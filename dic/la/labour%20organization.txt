@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#công đoàn
+#tổ chức lao động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tổ chức lao động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tổ chức lao động

@@ -1,0 +1,2 @@
+﻿@addressability
+#(Tech) khả năng định vị (địa chỉ)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#chưa tới tắt dần
+#được cản chịu non
+#được hoãn xung yếu
+#được tắt dần chậm

@@ -1,0 +1,2 @@
+﻿@double sideband suppressed carrier
+#(Tech) sóng chở dải biên kép bị lược

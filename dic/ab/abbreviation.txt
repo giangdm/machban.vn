@@ -1,0 +1,23 @@
+﻿@abbreviation /ə,bri:vi'eiʃn/
+*danh từ
+#sự tóm tắt, sự rút ngắn (cuộc đi thăm...)
+#bài tóm tắt
+#chữ viết tắt
+=Jan is the abbreviation January: Jan là chữ viết tắt của January
+#(toán học) sự ước lược, sự rút gọn
+@Chuyên ngành kinh tế
+#sự rút ngắn
+#viết tắt
+@Chuyên ngành kỹ thuật
+#chữ tắt
+#lược ký
+#lược tự
+#sự rút gọn
+#sự rút ngắn
+@Lĩnh vực: toán & tin
+#chữ viết tắt
+#sự viết gọn
+#sự viết tắt
+<!-- more -->
+@abbreviation
+#sự viết gọn, sự viết tắt

@@ -1,0 +1,9 @@
+﻿@source language ['sɔ:s'læηgwidʒ]
+*danh từ
+# ngôn ngữ gốc (phải dịch ra một ngôn ngữ khác)
+@Chuyên ngành kỹ thuật
+#ngôn ngữ nguồn
+@Lĩnh vực: toán & tin
+#ngôn ngữ (đưa) vào
+#ngôn ngữ gốc
+#ngôn ngữ nguồn (gốc)

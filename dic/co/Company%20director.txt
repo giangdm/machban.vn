@@ -1,0 +1,6 @@
+﻿@Company director
+#(Econ) Giám đốc công ty.
+: Người do các cổ đông bầu ra để tham gia cùng các giám đốc khác điều hành công ty.
+@Chuyên ngành kinh tế
+#giám đốc công ty
+#thủ trưởng xí nghiệp

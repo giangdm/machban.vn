@@ -1,0 +1,3 @@
+﻿@Financial Times Industrial Ordinary Index
+#(Econ) Chỉ số công nghiệp của báo Financial Times.
+: Trước khi xuất hiên chỉ số FT - SE 100 vào năm 1984, thì chỉ số này là chỉ số gái cổ phiếu được sử dụng phổ biến nhất với tư cách là chỉ tiêu tổng quát về tình hình của Thị trường chứng khoán của Anh.

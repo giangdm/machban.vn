@@ -1,0 +1,6 @@
+﻿@Crawling peg
+#(Econ) Chế độ neo tỷ giá hối đoái điều chỉnh dần.
+: Là phương pháp tỷ giá hối đoái. Đây là một cụm thuật ngữ chung áp dụng cho bất kỳ một đề nghị nào có đặc trưng NGANG GIÁ - tỷ giá hối đoái chính thức do quỹ tiền tệ quốc tế đưa ra - có thể điều chỉnh theo thời gian, mức thay đổi cần thiết đó có thể phân nhỏ và kéo dà trong suốt một thời kỳ nhất định. Xem DEVALUATION.
+@Chuyên ngành kinh tế
+#mức cố định có điều chỉnh
+#mức điều chình từ từ

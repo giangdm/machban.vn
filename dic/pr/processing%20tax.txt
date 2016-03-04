@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thuế gia công
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thuế chế biến
+#thuế sản xuất

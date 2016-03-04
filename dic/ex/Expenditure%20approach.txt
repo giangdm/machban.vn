@@ -1,0 +1,2 @@
+﻿@Expenditure approach
+#(Econ) Phương pháp dựa vào chi tiêu (để tính GDP).

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương pháp phân nhánh
+@Lĩnh vực: hóa học & vật liệu
+#phương pháp tách

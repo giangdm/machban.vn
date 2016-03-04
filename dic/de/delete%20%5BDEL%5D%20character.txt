@@ -1,0 +1,2 @@
+﻿@delete [DEL] character
+#(Tech) ký tự xóa = erase character

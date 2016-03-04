@@ -1,0 +1,2 @@
+﻿@ICOR
+#(Econ) Tỷ lệ biên tế giữa vốn và sản lượng.

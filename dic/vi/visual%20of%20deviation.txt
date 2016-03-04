@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#góc lệch (của kim)
+@Lĩnh vực: toán & tin
+#góc lệch (kim)

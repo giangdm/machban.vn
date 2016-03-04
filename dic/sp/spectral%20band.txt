@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dải phổ bước sóng
+#dải phổ độ dài sóng
+@Lĩnh vực: vật lý
+#dải quang phổ
+@Lĩnh vực: toán & tin
+#giải âm phổ
+#giải phổ
+#giải quang phổ

@@ -1,0 +1,10 @@
+﻿@cyclic redundancy check (CRC)
+#(Tech) kiểm tra tuần hoàn dư
+@Chuyên ngành kỹ thuật
+#sự kiểm tra dư thừa tuần hoàn
+@Lĩnh vực: toán & tin
+#kiểm dộ dư vòng-CRC
+#sự kiểm tra tính dư tuần hoàn
+#sự kiểm tra tính dư vòng
+@Lĩnh vực: xây dựng
+#kiểm soát dư thừa chu kỳ

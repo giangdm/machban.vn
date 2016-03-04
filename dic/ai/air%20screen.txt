@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bộ lọc không khí
+@Chuyên ngành kỹ thuật
+#màn gió (bảo vệ)
+@Lĩnh vực: điện lạnh
+#màn không khí

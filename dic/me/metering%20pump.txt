@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bơm định lượng
+#bơm theo liều lượng
+@Chuyên ngành kỹ thuật
+#bơm đo
+#máy bơm định lượng
+@Lĩnh vực: hóa học & vật liệu
+#bơm định lượng

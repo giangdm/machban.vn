@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#bình giãn nở
+@Lĩnh vực: điện lạnh
+#bình dãn nở
+@Lĩnh vực: xây dựng
+#bình nở kín
+@Chuyên ngành kỹ thuật
+#bình giãn nở
+@Lĩnh vực: điện lạnh
+#bình dãn nở
+@Lĩnh vực: xây dựng
+#bình nở kín

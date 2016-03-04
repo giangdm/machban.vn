@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hỏng do bị nén
+#sự phá hỏng do ép
+#sự phá hỏng do nén
+@Lĩnh vực: xây dựng
+#sự phá hoại do nén
+@Lĩnh vực: cơ khí & công trình
+#sự phá hỏng khí nén

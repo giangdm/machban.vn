@@ -1,0 +1,8 @@
+﻿@root-mean-square
+#bình phương trung bình, quân phương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#căn bậc hai trung bình
+@Lĩnh vực: toán & tin
+#phương trình trung bình
+#quân phương

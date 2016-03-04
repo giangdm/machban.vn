@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhãn đoạn
+@Lĩnh vực: toán & tin
+#nhãn đoạn, dấu đoạn

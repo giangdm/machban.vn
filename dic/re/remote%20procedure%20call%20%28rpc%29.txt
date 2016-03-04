@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#gọi thủ tục từ xa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cuộc gọi tiến hành thủ tục từ xa

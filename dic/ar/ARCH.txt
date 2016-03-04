@@ -1,0 +1,36 @@
+﻿@ARCH
+#(Econ) Kiểm nghiệm ARCH.
+: Để chỉ phương sai của sai số thay đổi điều kiện tự nhiên giảm, là một trắc nghiệm để phân biệt giữa tương quan chuỗi trong điều kiện xáo trộn và hiệu ứng nảy sinh từ sự biến đổi của xáo động được gọi là hiệu ứng ARCH.
+<!-- more -->
+@arch /ɑ:tʃ/
+*danh từ
+#khung tò vò, cửa tò vò
+#hình cung
+#vòm; nhịp cuốn (cầu...)
+*ngoại động từ
+#xây khung vòm ở trên (cửa...); xây cuốn vòng cung
+#uốn cong
+*nội động từ
+#cong lại, uốn vòng cung
+*tính từ
+#tinh nghịch, tinh quái, hóm, láu
+=an arch smile: nụ cười hóm hỉnh, nụ cười láu lỉnh
+@Chuyên ngành kỹ thuật
+#cửa cuốn
+#cuốn
+#độ vồng
+#hình cung
+#nếp lồi
+#nhịp cuốn
+#vòm cuốn
+@Lĩnh vực: xây dựng
+#nhịp cuốn ở cầu
+#vòm hình cung
+#vòm quấn
+<!-- more -->
+@arch
+#vòm; nhịp cuốn ở cầu
+#circularr a. nhịp tròn
+#hingeless a. nhịp không tiết hợp
+#hydrostatic a. nhịp thuỷ tĩnh
+#parabolic a. nhịp parabolic

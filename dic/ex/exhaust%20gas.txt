@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#hơi
+#khí cháy
+#khí ống khói
+#khí thải
+#khí thoát
+#khí xả
+@Lĩnh vực: toán & tin
+#hơi thoát
+@Lĩnh vực: ô tô
+#khí phát tán
+@Chuyên ngành kỹ thuật
+#hơi
+#khí cháy
+#khí ống khói
+#khí thải
+#khí thoát
+#khí xả
+@Lĩnh vực: toán & tin
+#hơi thoát
+@Lĩnh vực: ô tô
+#khí phát tán

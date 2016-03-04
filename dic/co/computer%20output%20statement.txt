@@ -1,0 +1,2 @@
+﻿@computer output statement
+#(Tech) câu lệnh tạo xuất phẩm máy điện toán

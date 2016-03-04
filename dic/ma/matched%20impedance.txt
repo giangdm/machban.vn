@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#trở kháng được phối hợp
+#trở kháng được thích ứng
+@Lĩnh vực: điện lạnh
+#trở kháng thích ứng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giá trị cho vay
+#giá trị cho vay, giá trị được cho vay
+#giá trị được vay
+#giá trị vay thế chấp
+#mức cho vay

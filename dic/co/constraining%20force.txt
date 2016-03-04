@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lực ràng buộc
+#phản lực liên kết
+@Lĩnh vực: vật lý
+#lực cưỡng bức

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt dư
+#nhiệt dự
+@Lĩnh vực: điện lạnh
+#lượng nhiệt sót lại
+#nhiệt lượng còn lại

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tỉ suất giữa thu nhập ròng và giá trị tự trả ròng
+#tỷ suất giữa thu nhập ròng và giá trị vốn ròng

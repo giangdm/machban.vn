@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#dụng cụ đo đạc
+#máy đo độ đặc
+@Chuyên ngành kỹ thuật
+#cái đo đậm đặc
+@Lĩnh vực: xây dựng
+#cái đo độ quánh
+#cái đo độ sệt
+@Lĩnh vực: hóa học & vật liệu
+#quánh kế

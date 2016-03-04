@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giàn đơn giản
+#giàn không liên tục
+#giàn rời

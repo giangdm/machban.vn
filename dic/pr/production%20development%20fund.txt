@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#quỹ phát triển sản xuất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#quỹ phát triển sản xuất
+#vốn phát triển sản xuất

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#vòng mạch (điều khiển theo) bước tăng (đinh ốc)

@@ -1,0 +1,2 @@
+﻿@database inquiry
+#(Tech) tra cứu kho dữ liệu

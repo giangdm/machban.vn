@@ -1,0 +1,2 @@
+﻿@computer synthesis
+#(Tech) phép tổng hợp bằng điện toán

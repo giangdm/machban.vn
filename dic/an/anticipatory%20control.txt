@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điều chỉnh trước
+@Lĩnh vực: điện lạnh
+#điều chỉnh trước kỳ hạn
+@Lĩnh vực: toán & tin
+#kiểm tra ngăn ngừa

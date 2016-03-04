@@ -1,0 +1,4 @@
+﻿@date-line
+*danh từ
+#đường sang ngày, đường đổi ngày, múi giờ
+#dòng đề ngày tháng  trên một tờ báo

@@ -1,0 +1,11 @@
+﻿@Per capita
+#(Econ) Theo đầu người.
+: Theo đầu người, chẳng hạn như THU NHẬP QUỐC DÂN tính theo đầu người.
+@Chuyên ngành kinh tế
+#mỗi người
+#tính bình quân trên đầu người
+#tính bình quân trên mỗi đầu người
+#tính theo đầu người
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tính theo đầu người

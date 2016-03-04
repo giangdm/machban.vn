@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ dự phòng
+@Lĩnh vực: toán & tin
+#bộ nhớ ngoại vi

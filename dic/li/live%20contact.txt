@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tiếp điểm có điện
+#tiếp điểm đóng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tiếp điểm có điện
+#tiếp điểm đóng

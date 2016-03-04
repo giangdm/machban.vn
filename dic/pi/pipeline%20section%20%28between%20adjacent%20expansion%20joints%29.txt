@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đoạn nối mở rộng của đường ống
+#phần nối đường ống (giữa hai phần mở rộng kề nhau)

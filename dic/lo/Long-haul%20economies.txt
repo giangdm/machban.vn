@@ -1,0 +1,3 @@
+﻿@Long-haul economies
+#(Econ) Tính kinh tế theo quãng đường.
+: Xu hướng chi phí vận tải tăng ít hơn về tỷ lệ so với quãng đường chuyên chở.

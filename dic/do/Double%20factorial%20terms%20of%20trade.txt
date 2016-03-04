@@ -1,0 +1,3 @@
+﻿@Double factorial terms of trade
+#(Econ) TỶ giá ngoại thương có tính đến giá của các yếu tố sản xuất của cả hai bên.
+: Xem TERMS OF TRADE.

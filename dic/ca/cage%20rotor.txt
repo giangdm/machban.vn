@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#rôto lồng sóc
+@Lĩnh vực: điện
+#rôto sóc (động cơ)

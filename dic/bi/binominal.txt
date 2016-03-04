@@ -1,0 +1,9 @@
+﻿@binominal /bai'nɔminl/
+*tính từ & danh từ
+#(toán học) nhị thức
+=binominal coefficient: hệ số nhị thức
+*tính từ
+#hai tên, tên kép
+=binominal system: (sinh vật học) hệ thống phân loại tên kép (theo tên giống và tên loài)
+@Chuyên ngành kỹ thuật
+#nhị thức

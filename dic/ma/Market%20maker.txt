@@ -1,0 +1,8 @@
+﻿@Market maker
+#(Econ) Hãng lập thị.
+: Là tên gọi xuất hiện tại SỞ GIAO DỊCH CHỨNG KHOÁN London kể từ năm 1986, đặt cho hãng tạo ra được một thị trương mua bán các loại chứng khoán khác nhau thông qua việc luôn sẵn sàng mua hoặc bán những loại chứng khoán này.
+@Chuyên ngành kinh tế
+#người kiến tạo thị trường
+#người kinh doanh chứng khoán
+#người nắm thị trường
+#người thao túng thị trường

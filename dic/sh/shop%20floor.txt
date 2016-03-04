@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#công nhân
+#công nhân thường
+#công trường sản xuất
+#công xưởng
+#công xưởng sản xuất
+#mặt bằng sản xuất
+#người lao động bình thường
+#phân xưởng
+#phân xưởng sản xuất

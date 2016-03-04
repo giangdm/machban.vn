@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bình điều nhiệt chất lỏng
+#rơle nhiệt độ chất lỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bình điều nhiệt chất lỏng
+#rơle nhiệt độ chất lỏng

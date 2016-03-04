@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#ren BSF
+#ren vít bước nhỏ theo tiêu chuẩn Anh

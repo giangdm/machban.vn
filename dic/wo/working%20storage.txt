@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ làm việc
+#dung lượng làm việc (của hồ chứa)

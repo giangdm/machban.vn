@@ -1,0 +1,5 @@
+﻿@design specification
+#(Tech) quy định thiết kế
+@Chuyên ngành kỹ thuật
+#quy phạm thiết kế
+#tiêu chuẩn thiết kế

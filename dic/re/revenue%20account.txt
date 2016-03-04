@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bảng kết toán doanh thu
+#các tài khoản phải thu
+#tài khoản thu nhập hàng năm (doanh nghiệp)
+#tài sản thu nhập hàng năm (doanh nghiệp)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trương mục (kết quả) lợi tức

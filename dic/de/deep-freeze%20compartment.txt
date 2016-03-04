@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng kết đông sâu
+#buồng kết lạnh sâu
+#ngăn kết đông sâu
+#ngăn kết lạnh sâu

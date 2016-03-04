@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#điểm cực trị
+@Chuyên ngành kỹ thuật
+#đểm cực trị
+@Lĩnh vực: toán & tin
+#điểm (cực biên, đầu mút)
+#điểm cực biên
+@Chuyên ngành kỹ thuật
+#đểm cực trị
+@Lĩnh vực: toán & tin
+#điểm (cực biên, đầu mút)
+#điểm cực biên

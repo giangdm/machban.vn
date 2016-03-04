@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự thử điểm bốc cháy
+@Lĩnh vực: điện lạnh
+#thử đánh thủng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự thử điểm bốc cháy
+@Lĩnh vực: điện lạnh
+#thử đánh thủng

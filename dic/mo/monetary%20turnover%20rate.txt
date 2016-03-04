@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#mức chu chuyển tiền tệ
+#tốc độ quay vòng của tiền tệ
+#tốc độ quay vòng tiền tệ

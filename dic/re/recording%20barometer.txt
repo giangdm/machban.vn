@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#khí áp kế ghi
+#khí áp ký
+@Lĩnh vực: toán & tin
+#phong vũ ký
+@Lĩnh vực: xây dựng
+#vũ kế ký

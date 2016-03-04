@@ -1,0 +1,2 @@
+﻿@action menu
+#(Tech) đơn chọn tác động

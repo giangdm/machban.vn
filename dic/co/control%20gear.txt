@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ cấu điều khiển
+#thiết bị điều khiển
+@Lĩnh vực: toán & tin
+#trường điều khiển
+#truyền động điều khiển

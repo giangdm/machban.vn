@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ chối của cọc
+@Lĩnh vực: xây dựng
+#độ chối đóng cọc

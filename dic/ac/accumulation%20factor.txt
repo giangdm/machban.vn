@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công thức tích lũy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ số tích lũy
+@Lĩnh vực: toán & tin
+#nhân tử tích lũy

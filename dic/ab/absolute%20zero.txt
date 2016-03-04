@@ -1,0 +1,17 @@
+﻿@absolute zero
+#(Tech) số không tuyệt đối
+@Chuyên ngành kinh tế
+#độ không tuyệt đối
+@Chuyên ngành kỹ thuật
+#điểm không tuyệt đối
+#điểm zero tuyệt đối
+#độ không tuyệt đối
+@Lĩnh vực: xây dựng
+#độ 0 tuyệt đối
+@Lĩnh vực: điện lạnh
+#không độ tuyệt đối
+#nhiệt độ không tuyệt đối
+@Lĩnh vực: điện tử & viễn thông
+#số không tuyệt đối
+@Lĩnh vực: y học
+#số không tuyệt đối, zê-rô tuyệt đối

@@ -1,0 +1,12 @@
+﻿@access time
+#(Tech) thời gian truy cập; thời gian thiết lập
+@Chuyên ngành kinh tế
+#thời gian đi (để đi tới một địa điểm...)
+#thời gian truy cập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thời gian ngưng chờ
+@Lĩnh vực: điện
+#thời gian nhập
+@Lĩnh vực: toán & tin
+#thời gian truy cập

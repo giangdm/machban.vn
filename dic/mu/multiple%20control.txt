@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều khiển bội
+#điều khiển phức tạp
+@Lĩnh vực: cơ khí & công trình
+#sự điều khiển nhiều mối
+#sự điều khiển phức hợp

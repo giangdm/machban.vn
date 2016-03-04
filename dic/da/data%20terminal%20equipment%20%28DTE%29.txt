@@ -1,0 +1,10 @@
+﻿@data terminal equipment (DTE)
+#(Tech) bộ máy ở đầu cuối dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#Thiết bị Đầu cuối Dữ liệu (DTE)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thiết bị đầu cuối dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị đầu cuối số liệu

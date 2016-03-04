@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy điện báo khởi ngừng
+@Lĩnh vực: toán & tin
+#thiết bị khởi ngừng

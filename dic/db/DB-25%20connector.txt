@@ -1,0 +1,2 @@
+﻿@DB-25 connector
+#(Tech) đầu nối DB-25

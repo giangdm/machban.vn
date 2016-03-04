@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị lạnh kiểu ống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dàn lạnh kiểu ống
+#giàn lạnh kiểu ống
+@Lĩnh vực: hóa học & vật liệu
+#ống sinh hàn

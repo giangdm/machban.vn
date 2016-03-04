@@ -1,0 +1,3 @@
+﻿@Fixed-price mdel
+#(Econ) Các mô hình mức giá cố định.
+: Các mô hình giả thiết rằng các giao dịch được thực hiện tại những mức giá không cân bằng và những mức giá này được giữ cố định.

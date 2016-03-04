@@ -1,0 +1,2 @@
+﻿@computer hardware description language (CHDL)
+#(Tech) ngôn ngữ diễn tả cương kiện máy điện toán

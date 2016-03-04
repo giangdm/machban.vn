@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy làm nhọn
+#máy tạo đỉnh
+@Lĩnh vực: điện
+#mạch làm nhọn
+@Lĩnh vực: toán & tin
+#mạch tạo đỉnh

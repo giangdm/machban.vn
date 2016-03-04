@@ -1,0 +1,3 @@
+﻿@pre-package
+*danh từ
+#hàng đóng gói sẵn

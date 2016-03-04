@@ -1,0 +1,12 @@
+﻿@collineation
+#phép cộng tuyến
+#opposite c. in space phép cộng tuyến phản hướng trong không gian
+#affine c. phép cộng tuyến afin
+#elliptic c. phép cộng tuyến eliptic
+#hyperbolic c. phép cộng tuyến hipebolic
+#non-singular c. phép cộng tuyến không kỳ dị
+#periodic c. phép cộng tuyến tuần hoàn
+#singular c. phép cộng tuyến kỳ dị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép cộng tuyến

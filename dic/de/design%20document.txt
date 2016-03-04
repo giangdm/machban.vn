@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hồ sơ thiết kế
+@Lĩnh vực: cơ khí & công trình
+#tài liệu thiết kế

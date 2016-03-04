@@ -1,0 +1,3 @@
+﻿@Transactions costs
+#(Econ) Các chi phí giao dịch.
+: Các chi phí không phải giá phát sinh trong khi trao đổi hàng hoá và dịch vụ.

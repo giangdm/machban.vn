@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nguồn ổn định
+@Lĩnh vực: điện
+#bộ nguồn được điều chỉnh
+#nguồn năng lượng được điều chỉnh
+@Lĩnh vực: điện lạnh
+#cung cấp nguồn ổn định

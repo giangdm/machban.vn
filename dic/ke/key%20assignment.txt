@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các qui định phím
+#gán các chức năng phím
+#sự gán (chức năng) phím
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các qui định phím
+#gán các chức năng phím
+#sự gán (chức năng) phím

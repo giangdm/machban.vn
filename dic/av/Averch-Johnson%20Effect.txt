@@ -1,0 +1,3 @@
+﻿@Averch-Johnson Effect
+#(Econ) Hiệu ứng Averch-Johnson.
+: Để chỉ sự phản ứng tối đa hoá lợi nhuận của các hãng bị kiểm soát, khi phải đạt được tỷ lệ lợi tức xác định về vốn có động lực để lựa chọn kết hợp đầu vào nặng về vốn hơn có thể không được sử dụng khi không phải đạt tỷ lệ lợi tức xác định đó.

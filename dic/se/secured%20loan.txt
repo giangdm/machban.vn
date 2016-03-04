@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#khoản cho vay có bảo đảm
+#khoản cho vay có thế chấp
+#khoản vay có bảo đảm
+#tiền cho vay được bảo đảm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự cho vay ký quỹ

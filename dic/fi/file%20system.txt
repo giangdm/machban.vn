@@ -1,0 +1,12 @@
+﻿@file system
+#(Tech) hệ thống quản lý tập tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống tập tin
+@Lĩnh vực: xây dựng
+#tệp hệ thống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống tập tin
+@Lĩnh vực: xây dựng
+#tệp hệ thống

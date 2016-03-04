@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chiết khấu hàng hóa kỳ hạn
+#chiết khấu kỳ phiếu
+#mức trừ giao sau
+#mức trừ kỳ hạn

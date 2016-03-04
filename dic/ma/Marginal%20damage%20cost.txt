@@ -1,0 +1,3 @@
+﻿@Marginal damage cost
+#(Econ) Chi phí thiệt hại cận biên.
+: Là chi phí tăng thêm cho một thiệt hại phát sinh, thường do ô nhiễm gây ra, từ một đơn vị tăng thêm của hoạt động gây hại.

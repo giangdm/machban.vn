@@ -1,0 +1,19 @@
+﻿@Specialization
+#(Econ) Chuyên môn hoá.
+: Tập trung hoạt động vào các dây chuyền sản xuất trong đó mỗi cá nhân hoặc hãng có được hay đạt được vài thế mạnh riêng.
+<!-- more -->
+@specialization /,speʃəlai'zeiʃn/
+*danh từ
+#sự chuyên môn hoá, sự chuyên khoa
+#(sinh vật học) sự chuyên hoá
+@Chuyên ngành kinh tế
+#chuyên môn hóa
+#chuyên nghiệp hóa
+#sự chuyên môn hóa
+@Chuyên ngành kỹ thuật
+#sự chuyên môn hóa
+@Lĩnh vực: toán & tin
+#sự đặc biệt hóa
+<!-- more -->
+@specialization
+#sự chuyên môn hoá

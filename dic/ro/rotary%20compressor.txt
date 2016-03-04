@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#máy nén rôto
+@Chuyên ngành kỹ thuật
+#máy đổi điện quay
+#máy ép hơi hồi chuyển
+#máy nén quay
+#máy nén roto
+@Lĩnh vực: xây dựng
+#máy nén khí xoay
+#máy nén kiểu xoay
+@Lĩnh vực: cơ khí & công trình
+#máy nén kiểu rôto

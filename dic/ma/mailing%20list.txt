@@ -1,0 +1,12 @@
+﻿@mailing list ['meiliη'list]
+*danh từ
+# danh sách những địa chỉ nhận thông tin thường xuyên
+@Chuyên ngành kinh tế
+#danh sách gởi bưu điện
+#danh sách gửi thư
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#danh sách địa chỉ
+#danh sách địa chỉ thư
+#danh sách gửi thư
+#danh sách thư từ

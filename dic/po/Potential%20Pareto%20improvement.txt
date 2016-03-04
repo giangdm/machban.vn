@@ -1,0 +1,3 @@
+﻿@Potential Pareto improvement
+#(Econ) Sự cải thiện Pareto tiềm năng.
+: Một sự cải thiện Pareto tiềm năng tồn tại khi những người kiếm được lợi do một sự thay đổi, thì với tính chất giả thiết có thể bù đắp cho người thua thiệt, và có thể không ai bị kém đi sau sự thay đổi hoặc sao cho ít nhất cũng  có một người được khá lên.

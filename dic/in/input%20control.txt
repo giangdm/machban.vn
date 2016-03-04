@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự điều khiển đầu vào
+#sự điều khiển nhập
+@Lĩnh vực: xây dựng
+#sự kiểm tra đầu vào

@@ -1,0 +1,3 @@
+﻿@Efficiency coefficient of investment
+#(Econ) Hệ số hiệu qủa đầu tư.
+: Một cụm thuật ngữ được các nhà kinh tế Đông ÂU sử dụng để chỉ TỶ SỐ SẢN LƯỢNG/ VỐN GIA TĂNG.

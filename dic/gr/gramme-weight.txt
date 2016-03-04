@@ -1,0 +1,4 @@
+﻿@gramme-weight
+*danh từ
+#cũng gram-weight
+#trọng lượng-gam

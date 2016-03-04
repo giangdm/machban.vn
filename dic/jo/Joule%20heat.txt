@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nhiệt lượng Joule
+@Chuyên ngành kỹ thuật
+#nhiệt năng sinh bởi joule
+@Lĩnh vực: điện lạnh
+#nhiệt đo hiệu ứng joule

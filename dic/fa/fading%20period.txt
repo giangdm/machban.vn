@@ -1,0 +1,2 @@
+﻿@fading period
+#(Tech) chu kỳ biến hiện mờ dần

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ăng ten góc sóng
+#ăng ten phân tử sóng
+#dây trời phân tử sóng

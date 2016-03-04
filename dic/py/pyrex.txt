@@ -1,0 +1,12 @@
+﻿@pyrex
+*danh từ
+#(Pyrex) loại thủy tinh chịu nhiệt tốt (dùng để nấu ăn, đựng thức ăn)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thủy tinh Pyrex
+@Chuyên ngành kỹ thuật
+#thủy tinh chịu nhiệt
+@Lĩnh vực: xây dựng
+#kính chịu nóng
+@Lĩnh vực: hóa học & vật liệu
+#pyrex

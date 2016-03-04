@@ -1,0 +1,2 @@
+﻿@device allocation
+#(Tech) cấp phát thiết bị

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Khuyến nghị G.729 về mã hóa tiếng nói tại 8 kbit/s sử dụng nén CELP

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nối kiểu Scott
+@Lĩnh vực: điện lạnh
+#sơ đồ nối Scott ba pha
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cách nối scott
+#sơ đồ nối scott

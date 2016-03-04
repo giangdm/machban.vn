@@ -1,0 +1,5 @@
+﻿@Pure profit
+#(Econ) Lợi nhuận thuần tuý.
+: Một số dư tiền được để lại khi doanh thu phát sinh từ một hoạt động nào đó đã được trừ cho tất cả các chi phí cơ hội của sản xuất có thể xảy ra, lợi nhuận thông thường cần thiết để duy trì sự kinh doanh của người sản xuất.
+@Chuyên ngành kinh tế
+#lợi nhuận thuần túy

@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#bể cân bằng
+#bể điều áp
+#bình tách lỏng
+#bộ điều áp
+#bồn điều áp
+#buồng điều áp
+@Lĩnh vực: xây dựng
+#buồng cân bằng
+#tháp buồng điều áp
+#tháp điều áp
+@Lĩnh vực: điện
+#buồng hoãn xung
+@Lĩnh vực: điện lạnh
+#tăng (bình) tách lỏng
+#thùng tách lỏng

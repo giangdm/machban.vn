@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy gia tốc Van de Graaff
+#máy phát Van de Graaff

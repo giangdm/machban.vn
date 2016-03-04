@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#tay máy chính-phụ
+#tay máy chủ động-thụ động
+#tay máy chủ-tớ

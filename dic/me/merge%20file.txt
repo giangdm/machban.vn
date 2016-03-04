@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin hợp nhất
+#tập tin trộn
+#tệp kết hợp
+@Lĩnh vực: điện tử & viễn thông
+#tệp trộn

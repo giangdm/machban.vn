@@ -1,0 +1,5 @@
+﻿@real number ['riəl,nʌmbə]
+*danh từ
+# (toán học) số thực
+@Chuyên ngành kỹ thuật
+#số thực

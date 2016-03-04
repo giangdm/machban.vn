@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#rác chưa phân loại
+#rác chưa xử lý
+#rác thô

@@ -1,0 +1,5 @@
+﻿@Supply of inflation
+#(Econ) Cung lạm phát.
+: Mặc dù tốc độ tăng trưởng của CUNG TIỀN được coi là yếu tố quyết định trực tiếp chính của LẠM PHÁT.
+@Chuyên ngành kinh tế
+#mức cung ứng (tiền tệ) lạm phát

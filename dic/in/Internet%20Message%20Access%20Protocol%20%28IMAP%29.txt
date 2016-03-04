@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức truy cập thông báo Internet
+@Lĩnh vực: điện tử & viễn thông
+#Giao thức truy nhập tin nhắn Internet

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#ca kíp
+#di chuyển
+#lớp
+#sự sang số
+#thay đổi
+@Lĩnh vực: cơ khí & công trình
+#độ dốc (khuôn)
+#gạt (đai, ly hợp)
+#khuyết tật (đúc)
+#sự thay đổi (tốc độ)

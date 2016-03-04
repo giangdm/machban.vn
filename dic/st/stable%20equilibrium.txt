@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sự cân bằng ổn định
+@Chuyên ngành kỹ thuật
+#sự cân bằng ổn định
+@Lĩnh vực: y học
+#cân bằng bền
+@Lĩnh vực: toán & tin
+#cân bằng ổn định
+@Lĩnh vực: vật lý
+#sự cân bằng bền

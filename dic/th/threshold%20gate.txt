@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cổng giới hạn
+#phần tử giới hạn
+#phần tử ngưỡng
+@Lĩnh vực: điện tử & viễn thông
+#cửa giới hạn
+#cửa ngưỡng

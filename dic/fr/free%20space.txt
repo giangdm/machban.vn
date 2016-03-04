@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#không gian tự do
+@Lĩnh vực: cơ khí & công trình
+#khoảng không gian tự do
+@Lĩnh vực: xây dựng
+#khu đất chưa xây dựng
+@Lĩnh vực: toán & tin
+#vùng tự do

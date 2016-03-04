@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bơm nhiệt độc lập
+#bơm nhiệt độc lập (trọn bộ)
+#bơm nhiệt trọn bộ

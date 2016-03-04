@@ -1,0 +1,14 @@
+﻿@semi-group
+#nửa nhóm
+#difference s. (đại số) nửa nhóm sai phân
+#equiresidual s. nửa nhóm đồng thặng dư
+#idempotent s. nửa nhóm luỹ đẳng
+#inverse s. (đại số) nửa nhóm con ngược
+#limitative s. (đại số) nửa nhóm giới hạn
+#non-potent s. (đại số) nửa nhóm không luỹ đẳng
+#pure s. (đại số) nửa nhóm thuần tuý
+#rectangular s. nửa nhóm chữ nhật
+#self-invariant s. nửa nhóm tự bất biến
+#stational s. (đại số) nửa nhóm dừng
+#strong s. nửa nhóm mạnh
+#strongly reversible s. nửa nhóm nghịch đảo mạnh

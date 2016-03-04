@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ đo nước
+@Lĩnh vực: điện lạnh
+#đồng hồ đo (lượng) nước
+@Lĩnh vực: toán & tin
+#máy đo lượng nước
+@Lĩnh vực: xây dựng
+#thiết bị đo nước

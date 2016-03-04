@@ -1,0 +1,71 @@
+﻿@Exchange
+#(Econ) Trao đổi
+: Xem TRADE.
+<!-- more -->
+@exchange /iks'tʃeindʤ/
+*danh từ
+#sự đổi, sự đổi chác, sự trao đổi; vật trao đổi
+=exchange of goods: sự trao đổi hàng hoá
+=exchange of prisoners of war: sự trao đổi tù binh
+=exchange of blows: cuộc ẩu đả, sự đấm đá lẫn nhau
+=exchange of words: cuộc cãi lộn, cuộc đấu khẩu
+#sự đổi tiền; nghề đổi tiền; sự hối đoái; cơ quan hối đoái
+=rate of exchange: giá hối đoái, tỷ giá hối đoái
+#sự thanh toán nợ bằng hối phiếu
+#tổng đài (dây nói)
+*ngoại động từ
+#đổi, đổi chác, trao đổi
+=to exchange goods: trao đổi hàng hoá
+=to exchange words: lời đi tiếng lại, đấu khẩu
+=to exchange blows: đấm đá nhau
+=to exchange glances: liếc nhau; lườm nhau
+*nội động từ
+#(: for) đổi ra được, ngang với (tiền)
+=a pound can exchange for more than two dollars: một đồng bảng có thể đổi ra được hơn hai đô la
+#(quân sự),  (hàng hải) chuyển (từ trung đoàn này sang trung đoàn khác, từ tàu này sang tàu khác); đối với một sĩ quan khác
+@Chuyên ngành kinh tế
+#buôn ban trao đổi
+#đổi
+#giao dịch
+#hoa hồng hối đoái
+#hối đoái
+#hối suất
+#ngoại hối
+#ngoại tệ
+#sở giao dịch
+#sự giao dịch
+#sự trao đổi
+#tổng đài (điện thoại)
+#trao đổi
+#tỷ giá hối đoái
+#việc đổi ngoại tệ
+#việc đổi tiền
+@Chuyên ngành kỹ thuật
+#chuyển đổi
+#đổi
+#sự thay đổi
+#sự trao đổi
+#thay chỗ
+#thay thế
+#trạm điện thoại
+@Lĩnh vực: hóa học & vật liệu
+#giao lưu
+@Lĩnh vực: điện
+#sự đổi tiền
+@Chuyên ngành kỹ thuật
+#chuyển đổi
+#đổi
+#sự thay đổi
+#sự trao đổi
+#thay chỗ
+#thay thế
+#trạm điện thoại
+@Lĩnh vực: hóa học & vật liệu
+#giao lưu
+@Lĩnh vực: điện
+#sự đổi tiền
+<!-- more -->
+@exchange
+#sự trao đổi, sự thay đổi
+#heat e. trao đổi nhiệt
+#stock e.(thống kê) phòng hối đoái

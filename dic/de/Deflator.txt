@@ -1,0 +1,14 @@
+﻿@Deflator
+#(Econ) Chỉ số giảm phát
+: Một CHỈ SỐ GIÁ CẢ rõ ràng hay hàm ý được sử dụng để phân biệt giữa những thay đổi trong giá trị bằng tiền của tổng sản phẩm quốc dân do có một thay đổi về giá và những thay đổi do một thay đổi của sản lượng vật chất.
+@Chuyên ngành kinh tế
+#chỉ số (giá cả) trừ bỏ yếu tố lạm phát
+#chỉ số giảm phát
+#hệ số giảm phát
+#nhân tố điều chỉnh giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ tháo hơi
+<!-- more -->
+@deflator
+#xem deflate

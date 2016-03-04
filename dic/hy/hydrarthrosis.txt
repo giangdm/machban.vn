@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#tràn dịch khớp (sưng khớp do có quá nhiều dịch màng hoạt dịch)

@@ -1,0 +1,6 @@
+﻿@Income determination
+#(Econ) Xác định thu nhập.
+: Xem INCOME - EXPENDITURE MODEL.
+@Chuyên ngành kinh tế
+#sự xác định thu nhập
+#xác định thu nhập

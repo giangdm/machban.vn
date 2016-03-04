@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#danh sách (người) bỏ thầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thông báo đấu thầu

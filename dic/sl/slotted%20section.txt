@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đoạn xẻ khe
+#đường truyền có khe
+#ống dẫn sóng có khe
+@Lĩnh vực: điện
+#phần xẻ rãnh

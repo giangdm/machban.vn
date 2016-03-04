@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hàng chờ bán
+#hàng có sẵn trong kho, đồ nghề
+#hàng hiện có
+#hàng trữ trong kho

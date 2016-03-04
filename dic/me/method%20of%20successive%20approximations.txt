@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp tính đúng dần
+@Lĩnh vực: toán & tin
+#phương pháp đúng dần
+#phương pháp xấp xỉ liên tiếp

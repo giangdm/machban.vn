@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ống dẫn đường xả
+@Lĩnh vực: điện lạnh
+#ống dẫn đường đẩy
+@Lĩnh vực: xây dựng
+#ống xả (khí nước)

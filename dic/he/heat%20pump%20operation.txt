@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hoạt động bơm nhiệt
+#hoạt động của bơm nhiệt

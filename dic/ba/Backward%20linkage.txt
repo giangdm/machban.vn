@@ -1,0 +1,5 @@
+﻿@Backward linkage
+#(Econ) Liên kết thượng nguồn.
+: Mối liên hệ giữa một nghành hay một hãng với những nhà cung cấp đầu vào của họ.
+@Chuyên ngành kinh tế
+#liên hệ ngược

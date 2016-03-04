@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực lỗ rỗng
+#áp suất ở lỗ hổng
+@Lĩnh vực: xây dựng
+#áp lực (trong) lỗ rỗng
+@Lĩnh vực: cơ khí & công trình
+#áp lực kẽ rỗng
+@Lĩnh vực: hóa học & vật liệu
+#áp suất lỗ hổng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#định luật Biot-Savart
+#định luật Laplace
+@Lĩnh vực: điện lạnh
+#định luật Biot-Fourier

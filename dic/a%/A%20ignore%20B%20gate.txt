@@ -1,0 +1,2 @@
+﻿@A ignore B gate
+#(Tech) cổng A không biết B

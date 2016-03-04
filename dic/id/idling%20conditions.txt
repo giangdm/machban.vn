@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#trạng thái không hoạt động
+@Lĩnh vực: điện lạnh
+#chế độ chạy không
+#chế độ để không

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cách xây gạch ngang
+#hàng gạch câu ngang
+#lớp liên kết ngang
+#sự xây ngang gạch

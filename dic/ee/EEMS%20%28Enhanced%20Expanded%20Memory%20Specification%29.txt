@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đặc tả bộ nhớ mở rộng cải tiến
+#đặc tả bộ nhớ mở rộng nâng cao

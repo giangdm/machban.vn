@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#lượng cầu an toàn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#tải trọng làm việc cho phép

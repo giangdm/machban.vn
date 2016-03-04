@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Khối dữ liệu giao thức (PDU) của tuyến kết nối logic
+<!-- more -->
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Khối dữ liệu giao thức (PDU) của tuyến kết nối logic

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mạng chữ T
+@Lĩnh vực: điện lạnh
+#mạng hình chữ T
+@Lĩnh vực: điện tử & viễn thông
+#mạng hình T

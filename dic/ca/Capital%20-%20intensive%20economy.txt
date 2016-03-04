@@ -1,0 +1,3 @@
+﻿@Capital - intensive economy
+#(Econ) Nền kinh tế dựa nhiều vào vốn.
+: Một nền kinh tế trong đó đa số  các kỹ thuật sản xuất là sử dụng NHIỀU VỐN.(Xem CAPITAL INTENSITY)

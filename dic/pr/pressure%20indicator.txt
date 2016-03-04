@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#áp kế
+@Lĩnh vực: đo lường & điều khiển
+#bộ chỉ báo áp suất

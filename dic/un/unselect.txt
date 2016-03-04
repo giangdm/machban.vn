@@ -1,0 +1,7 @@
+﻿@unselect /' nsi'lekt/
+*tính từ
+#không lựa chọn, không chọn lọc
+@Chuyên ngành kỹ thuật
+#lựa ngược
+@Lĩnh vực: toán & tin
+#thôi chọn

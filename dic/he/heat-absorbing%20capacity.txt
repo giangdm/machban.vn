@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#năng suất hấp thụ nhiệt
+@Lĩnh vực: điện lạnh
+#khả năng hấp thụ nhiệt

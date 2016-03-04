@@ -1,0 +1,5 @@
+﻿@National accounts
+#(Econ) Hệ thống tài khoản quốc gia.
+: Là việc soạn thảo các tài khoản nhằm đưa ra được những ước tính về THU NHẬP QUỐC DÂN.
+@Chuyên ngành kinh tế
+#các tài khoản quốc gia

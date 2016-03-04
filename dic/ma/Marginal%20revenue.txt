@@ -1,0 +1,9 @@
+﻿@Marginal revenue
+#(Econ) Doanh thu cận biên.
+: Là mức thay đổi trong tổng doanh thu phát sinh từ việc bán thêm một đơn vị sản lượng.
+@Chuyên ngành kinh tế
+#thu nhập biên
+#thu nhập biên tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#doanh thu trên lề

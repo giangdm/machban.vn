@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy tạo sóng vuông góc
+@Lĩnh vực: điện lạnh
+#máy phát sóng hình chữ nhật
+#máy phát sóng vuông góc
+@Lĩnh vực: xây dựng
+#máy phát sóng hình vuông
+@Lĩnh vực: toán & tin
+#máy phát sóng vuông

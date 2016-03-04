@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phòng điều hòa khí hậu
+#tủ điều hòa khí hậu
+@Chuyên ngành kỹ thuật
+#buồng điều hòa khí hậu
+@Lĩnh vực: điện lạnh
+#buồng điều hòa

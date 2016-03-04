@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#yêu cầu nhập/xuất
+#yêu cầu vào/ra tín hiệu

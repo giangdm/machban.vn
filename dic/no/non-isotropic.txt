@@ -1,0 +1,5 @@
+﻿@non-isotropic
+#không đẳng hướng
+@Chuyên ngành kỹ thuật
+#dị ứng
+#không đẳng hướng

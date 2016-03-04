@@ -1,0 +1,3 @@
+﻿@Long-dated securities
+#(Econ) Các chứng khoán dài hạn.
+: Các chứng khoán ở dạng nợ chứ không phải dạng cổ phần - ví dụ như chứng khoán viền vàng hay trái khán công ty - có ngày đáo hạn dài, thường là hơn 10 năm.

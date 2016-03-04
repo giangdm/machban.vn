@@ -1,0 +1,6 @@
+﻿@Tax base
+#(Econ) Cơ sở thuế.
+: Xem TAXABLE INCOME.
+@Chuyên ngành kinh tế
+#cơ sở tính thuế
+#cơ sở, căn cứ tính thuế

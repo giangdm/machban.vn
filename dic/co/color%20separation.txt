@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#lọc màu
+#sự tách
+@Chuyên ngành kỹ thuật
+#sự tách màu
+@Lĩnh vực: xây dựng
+#giữ rời màu

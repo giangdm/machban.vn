@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#truyền động bằng đai
+@Lĩnh vực: cơ khí & công trình
+#truyền công suất qua dẫn động đai
+#truyền động lực qua dẫn động đai

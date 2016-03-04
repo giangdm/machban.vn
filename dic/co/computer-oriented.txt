@@ -1,0 +1,2 @@
+﻿@computer-oriented
+#(Tech) thuộc hướng máy điện toán

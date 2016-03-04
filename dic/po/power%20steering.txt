@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#cấu lái có trợ động
+#cấu lái có trợ lực
+@Lĩnh vực: ô tô
+#sự điều khiển lực
+#tay lái trợ lực

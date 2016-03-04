@@ -1,0 +1,18 @@
+﻿@long ton
+*danh từ
+#đơn vị trọng lượng (2240 pounds)
+@Chuyên ngành kinh tế
+#tấn Anh
+#tấn dài
+#tấn già
+#tấn lớn
+@Chuyên ngành kỹ thuật
+#tấn
+#tấn dài
+#tấn thô
+@Lĩnh vực: xây dựng
+#tấn Anh (1.016kg)
+@Lĩnh vực: toán & tin
+#tấn Anh (1016 kg)
+@Lĩnh vực: hóa học & vật liệu
+#tấn Anh (1016, 06kg)

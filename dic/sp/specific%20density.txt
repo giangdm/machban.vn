@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#mật độ riêng phần
+#tỷ trọng riêng
+@Chuyên ngành kỹ thuật
+#trọng lượng riêng
+@Lĩnh vực: xây dựng
+#khối lượng riêng tỷ trọng
+@Lĩnh vực: điện
+#tỉ trọng
+@Lĩnh vực: toán & tin
+#tỷ trọng riêng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#Ai Cập (tên nước, thủ đô: Cairo)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#Ai Cập

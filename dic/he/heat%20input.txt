@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#lượng vào
+#sự chuyển vào
+@Chuyên ngành kỹ thuật
+#dòng nhiệt cấp
+#dòng nhiệt vào
+#luồng nhiệt
+#sự gia nhiệt
+@Lĩnh vực: điện lạnh
+#dòng nhiệt xâm nhập
+#lượng nhiệt vào
+#nhiệt cấp vào
+@Lĩnh vực: xây dựng
+#sự đưa nhiệt vào

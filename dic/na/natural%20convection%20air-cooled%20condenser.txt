@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dàn ngưng đối lưu tự nhiên
+#giàn ngưng (bằng) đối lưu tự nhiên

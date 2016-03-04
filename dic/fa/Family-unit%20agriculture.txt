@@ -1,0 +1,5 @@
+﻿@Family-unit agriculture
+#(Econ) (kinh tế) nông nghiệp theo hộ gia đình; Nông nghiệp theo đơn vị gia đình.
+: Hệ thống nông nghiệp phổ biến ở các vùng chậm phát triển dựa trên cơ sở gia đình.
+@Chuyên ngành kinh tế
+#nông nghiệp hộ gia đình

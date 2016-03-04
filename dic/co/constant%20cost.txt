@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí bất biến
+#phí tổn bất biến
+#phí tổn cố định

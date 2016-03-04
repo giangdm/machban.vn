@@ -1,0 +1,4 @@
+﻿@pack-cloths
+*danh từ
+#số nhiều
+#xem pack-cloth

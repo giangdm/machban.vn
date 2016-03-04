@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#sự cấp nước
+@Chuyên ngành kỹ thuật
+#hệ thống cấp nước
+#sự cấp nước
+#sự cung cấp nước
+#sự tiếp nước
+@Lĩnh vực: điện lạnh
+#cung cấp nước
+@Lĩnh vực: xây dựng
+#sự (cung) cấp nước
+@Lĩnh vực: cơ khí & công trình
+#sự cung cấp hơi
+#sự dự trữ nước
+@Lĩnh vực: điện
+#việc cấp nước

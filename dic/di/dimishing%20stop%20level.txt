@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn thu nhỏ
+#mức chặn thu nhỏ

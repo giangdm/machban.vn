@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu lượng dòng chảy
+#tốc độ dòng chảy
+@Lĩnh vực: cơ khí & công trình
+#môdun dòng chảy

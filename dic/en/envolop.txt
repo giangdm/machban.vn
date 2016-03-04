@@ -1,0 +1,16 @@
+﻿@envolop
+#bao hình, bao
+#e. of characteristics bao hình các đặc tuyến
+#e. of urves bao hình của các đường
+#e. of a family of curves bao hình của một họ đường cong
+#e. of holomorphy (giải tích) bao chỉnh hình
+#e. of a one-parameter family of curves bao hình của một họ tham số
+#của đường cong
+#e. of a one-parameter family of straight lines bao hình của một họ
+#tham số của đường thẳng
+#e. of a one-parameter family of surfaces bao hình của một họ tham số
+#của mặt
+#e. of surfaces bao hình của các mặt
+#modulation e. bao hình biến điệu
+#pulse e. bao hình xung
+#sinusoidal e. bao hình sin

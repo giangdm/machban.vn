@@ -1,0 +1,4 @@
+﻿@data chaining
+#(Tech) sự liên kết dữ liệu
+@Chuyên ngành kỹ thuật
+#chuỗi dữ liệu

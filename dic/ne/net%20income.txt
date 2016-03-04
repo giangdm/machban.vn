@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#lãi ròng
+#thu nhập quốc dân tịnh
+#thu nhập ròng
+#thu nhập thực
+#thu nhập tịnh
+#tổng sản phẩm quốc dân thuần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thu nhập thuần túy
+@Lĩnh vực: hóa học & vật liệu
+#thu thập tịnh

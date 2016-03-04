@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#lớp hồ ở ngoài
+#lớp vữa trát ngoài

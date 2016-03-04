@@ -1,0 +1,5 @@
+﻿@diffusion constant
+#(Tech) hằng số khuếch tán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hằng số khuếch tán

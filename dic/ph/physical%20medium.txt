@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#môi trường vật lý
+@Lĩnh vực: toán & tin
+#phương tiện vật lý

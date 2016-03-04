@@ -1,0 +1,7 @@
+﻿@cloud chamber
+*danh từ
+#thiết bị chứa hơi nước mà trong đó, hạt tích điện và tia X lẫn tia gamma được nhận dạng nhờ giọt hơi nước ngưng đọng
+@Chuyên ngành kỹ thuật
+#buồng sương
+@Lĩnh vực: điện lạnh
+#buồng Wilson

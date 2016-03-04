@@ -1,0 +1,2 @@
+﻿@call(ing) signal
+#(Tech) tín hiệu gọi

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sai số bù trừ
+@Chuyên ngành kỹ thuật
+#sai số bù
+@Lĩnh vực: toán & tin
+#sai số bổ chính

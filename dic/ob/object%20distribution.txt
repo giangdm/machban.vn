@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phân bố đối tượng
+@Lĩnh vực: toán & tin
+#sự phân bố đối tượng

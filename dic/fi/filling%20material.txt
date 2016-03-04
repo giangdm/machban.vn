@@ -1,0 +1,24 @@
+﻿@Chuyên ngành kỹ thuật
+#bít
+#đắp
+#độn
+#lấp
+@Lĩnh vực: vật lý
+#chất chèn lấp
+#chất làm nặng
+@Lĩnh vực: cơ khí & công trình
+#chất làm đầy
+@Lĩnh vực: xây dựng
+#vật liệu dùng để nhồi
+@Chuyên ngành kỹ thuật
+#bít
+#đắp
+#độn
+#lấp
+@Lĩnh vực: vật lý
+#chất chèn lấp
+#chất làm nặng
+@Lĩnh vực: cơ khí & công trình
+#chất làm đầy
+@Lĩnh vực: xây dựng
+#vật liệu dùng để nhồi

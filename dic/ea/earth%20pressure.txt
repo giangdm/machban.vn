@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực của đất
+#áp lực đất
+#địa áp
+@Lĩnh vực: xây dựng
+#áp lực đẩy của đất
+@Lĩnh vực: hóa học & vật liệu
+#sức đẩy của đất

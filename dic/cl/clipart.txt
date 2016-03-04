@@ -1,0 +1,5 @@
+﻿@clipart
+#hình rời (một tập hợp các hình đồ họa được lưu trữ trên đựa để sử dụng trong các chương trình dàn trang hoặc chương trình đồ họa giới thiệu)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mẫu họa

@@ -1,0 +1,7 @@
+﻿@Difference equation
+#(Econ) Phương trình vi phân
+: Một phương trình trong đó giá trị hiện tại của BIẾN PHỤ THUỘC được biểu diễn dưới dạng một hàm của các giá trị trước của nó.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương trình sai phân
+#phương trình vi sai

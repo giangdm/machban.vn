@@ -1,0 +1,2 @@
+﻿@DLE (data link escape)
+#(Tech) thoát liên kết dữ liệu

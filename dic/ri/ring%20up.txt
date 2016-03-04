@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#dây nói
+#ghi số tiền bán hàng (lên máy thu ngân)
+#gọi dây nói
+#gọi điện thoại
+#liên lạc bằng điện thoại (cho ai)
+@Chuyên ngành kỹ thuật
+#gọi (điện thoại)

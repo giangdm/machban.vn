@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#NRAM
+@Lĩnh vực: vật lý
+#RAM không khả biến dựa trên ống Nanô

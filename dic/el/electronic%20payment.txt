@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự trả tiền bằng điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự thanh toán điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự thanh toán điện tử

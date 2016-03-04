@@ -1,0 +1,6 @@
+﻿@unsolvability
+#(logic học) tính không giải được
+#recursive u. không giải được đệ quy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính không giải được

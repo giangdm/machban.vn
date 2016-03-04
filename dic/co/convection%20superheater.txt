@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lạnh đối lưu
+@Lĩnh vực: điện
+#bộ quá nhiệt đối lưu

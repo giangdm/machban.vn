@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ chính xác điều khiển
+@Lĩnh vực: xây dựng
+#độ chính xác kiểm tra
+@Lĩnh vực: đo lường & điều khiển
+#mức chính xác điều khiển

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tổng nhập lương
+#tổng nhập lượng
+#tổng số nguyên liệu nạp vào

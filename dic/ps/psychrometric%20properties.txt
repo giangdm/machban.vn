@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tính chất độ ẩm-nhiệt độ (không khí)
+#tính chất nhiệt ẩm

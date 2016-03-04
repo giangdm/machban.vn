@@ -1,0 +1,8 @@
+﻿@curly bracket
+#(Tech) dấu ngoặc xoắn
+@Chuyên ngành kinh tế
+#dấu ngoặc ôm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu ngoặc {}
+#dấu ngoặc cong

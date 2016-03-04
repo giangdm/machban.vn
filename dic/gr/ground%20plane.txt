@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hình chiếu phẳng
+#mặt bằng tầng trệt
+#mặt phẳng cơ sở
+#mặt phẳng nằm ngang
+@Lĩnh vực: điện lạnh
+#mặt phẳng tiếp đất

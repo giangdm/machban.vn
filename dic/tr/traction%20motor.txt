@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ kéo
+@Lĩnh vực: giao thông & vận tải
+#động cơ kéo tàu
+@Lĩnh vực: điện lạnh
+#động cơ xe điện

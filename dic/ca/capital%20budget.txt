@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#kế hoạch đầu tư tài sản cố định
+#ngân sách đầu tư
+#ngân sách thiết bị
+#ngân sách vốn
+#vốn ngân quỹ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dự toán đầu tư

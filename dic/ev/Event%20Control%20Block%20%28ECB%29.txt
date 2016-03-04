@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khối kiểm soát sự kiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khối điều khiển biến cố
+#khối điều khiển sự kiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khối kiểm soát sự kiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khối điều khiển biến cố
+#khối điều khiển sự kiện

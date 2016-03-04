@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tốc độ cắt
+#tốc độ chuyển dịch
+#tốc độ trượt

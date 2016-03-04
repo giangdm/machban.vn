@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#lỗi đường dây
+@Lĩnh vực: toán & tin
+#sai hỏng đường dây dẫn
+#sự cố dây dẫn

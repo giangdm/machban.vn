@@ -1,0 +1,2 @@
+﻿@detail diagram
+#(Tech) sơ đồ chi tiết

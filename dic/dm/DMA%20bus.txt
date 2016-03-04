@@ -1,0 +1,2 @@
+﻿@DMA bus
+#(Tech) mẫu tuyến DMA (truy cập bộ nhớ trực tiếp)

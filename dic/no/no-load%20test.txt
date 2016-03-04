@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thử không tải
+@Lĩnh vực: cơ khí & công trình
+#sự thử chạy không
+@Lĩnh vực: điện
+#thử không tải

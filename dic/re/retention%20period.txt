@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#thời kỳ giữ lại, bảo lưu
+@Chuyên ngành kỹ thuật
+#thời gian sử dụng
+@Lĩnh vực: toán & tin
+#chu kỳ lưu trữ
+#hạn lưu trữ
+#khoảng thời gian lưu trữ (dữ liệu)
+@Lĩnh vực: cơ khí & công trình
+#thời kỳ chờ lắng (bể nước thải)
+#thời kỳ chứa nước (vào hồ)

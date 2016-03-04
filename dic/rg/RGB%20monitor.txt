@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#màn hình đỏ-lục-lam
+@Lĩnh vực: toán & tin
+#màn hình RGB

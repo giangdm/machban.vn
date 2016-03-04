@@ -1,0 +1,2 @@
+﻿@emitter-coupled transistor logic
+#(Tech) mạch luận lý trănsito ghép cực phát

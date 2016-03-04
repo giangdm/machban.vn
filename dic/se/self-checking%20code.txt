@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mã phát hiện lỗi
+#mã sửa lỗi
+#mã tự kiểm tra
+@Lĩnh vực: toán & tin
+#mã tự kiểm

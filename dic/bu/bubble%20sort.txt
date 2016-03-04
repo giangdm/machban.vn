@@ -1,0 +1,7 @@
+﻿@bubble sort
+#(Tech) sắp xếp theo chuỗi bọt
+@Chuyên ngành kỹ thuật
+#xếp loại kiểu bọt
+@Lĩnh vực: toán & tin
+#sắp xếp kiểu sủi bọt
+#sự sắp xếp kiểu bọt

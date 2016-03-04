@@ -1,0 +1,2 @@
+﻿@gating circuit
+#(Tech) mạch chọn qua cổng

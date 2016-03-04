@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cuốn dạng cung tròn
+#vòm hình cung
+#vòm hướng tâm
+#vòm nhiều đốt
+@Lĩnh vực: cơ khí & công trình
+#vòm cung

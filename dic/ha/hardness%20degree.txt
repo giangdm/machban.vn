@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#mức độ nghiền
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ rắn cứng

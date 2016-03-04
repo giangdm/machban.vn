@@ -1,0 +1,2 @@
+﻿@access coupler
+#(Tech) bộ ghép truy cập

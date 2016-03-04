@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hải trình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chỗ đầu vào cửa biển
+#xuyên đầu vào cửa biển

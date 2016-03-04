@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#đầu tư cơ bản
+#đầu tư vốn
+@Chuyên ngành kỹ thuật
+#vốn đầu tư cơ bản
+@Lĩnh vực: xây dựng
+#đầu tư tư bản
+@Lĩnh vực: giao thông & vận tải
+#sự đầu tư vốn
+#tăng vốn

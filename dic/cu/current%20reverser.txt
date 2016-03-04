@@ -1,0 +1,5 @@
+﻿@current reverser
+#(Tech) bộ đảo dòng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ đảo chiều dòng điện

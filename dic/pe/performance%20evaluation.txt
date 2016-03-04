@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#đánh giá sự thực hiện
+#sự đánh giá hiệu suất
+#sự đánh giá thành quả
+#sự đánh giá thành tích
+@Chuyên ngành kỹ thuật
+#đánh giá hoạt động
+@Lĩnh vực: toán & tin
+#sự đánh giá hiệu suất

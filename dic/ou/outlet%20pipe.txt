@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#ống thải
+#ống tháo nước
+#ống xả
+@Lĩnh vực: hóa học & vật liệu
+#ống dẫn ra
+@Lĩnh vực: xây dựng
+#ống lấy nước
+@Lĩnh vực: cơ khí & công trình
+#ống ra
+@Lĩnh vực: ô tô
+#ống ra của bơm
+#ống xả, ống thải

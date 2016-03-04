@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khả năng lắp ghép
+#mức độ công xưởng hóa
+#mức độ lắp ghép

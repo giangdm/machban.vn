@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giải pháp cơ bản
+@Chuyên ngành kỹ thuật
+#nghiệm chính
+@Lĩnh vực: toán & tin
+#giải pháp cơ bản
+#nghiệm cơ sở

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự hợp vectơ
+@Lĩnh vực: điện lạnh
+#tổng hợp vectơ

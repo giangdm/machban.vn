@@ -1,0 +1,3 @@
+﻿@tone language
+*danh từ
+#<ngôn> ngôn ngữ thanh điệu (ngôn ngữ mà nghĩa của từ phụ thuộc vào độ cao, thấp của giọng khi phát ra từ đó; tiếng Trung Quốc )

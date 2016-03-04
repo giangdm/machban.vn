@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khối truyền dẫn cơ bản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đơn vị phát cơ bản
+#đơn vị truyền cơ bản

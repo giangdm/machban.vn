@@ -1,0 +1,7 @@
+﻿@vacuum flask /'vækjuəm'flɑ:sk/ (vacuum_bottle) /'vækjuəm'bɔtl/
+*danh từ
+#phích, bình tecmôt
+@Chuyên ngành kỹ thuật
+#bình Dewar
+@Lĩnh vực: hóa học & vật liệu
+#bình chân không

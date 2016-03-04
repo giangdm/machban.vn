@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng tăng
+@Lĩnh vực: toán & tin
+#cỡ gia số
+#kích thước gia số

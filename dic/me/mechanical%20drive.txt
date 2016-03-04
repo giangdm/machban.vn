@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#dẫn động cơ khí
+#sự truyền động cơ khí
+@Lĩnh vực: hóa học & vật liệu
+#điều khiển cơ học
+#truyền động cơ học
+@Lĩnh vực: xây dựng
+#sự kéo bằng máy

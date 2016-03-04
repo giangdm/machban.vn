@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#ống cấp nhiệt
+#ống gia nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#ống dẫn hơi nước vào
+@Lĩnh vực: vật lý
+#ống tỏa nhiệt

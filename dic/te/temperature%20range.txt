@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#dải nhiệt độ
+#phạm vi nhiệt độ
+@Chuyên ngành kỹ thuật
+#khoảng nhiệt độ
+@Lĩnh vực: điện lạnh
+#cấp nhiệt độ
+#gam nhiệt độ
+#phạm vi nhiệt độ
+@Lĩnh vực: hóa học & vật liệu
+#giới hạn nhiệt độ

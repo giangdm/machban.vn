@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bảng bố cáo
+#bảng niêm yết
+#bảng tố cáo
+#bảng yết thị
+@Chuyên ngành kỹ thuật
+#bảng thông báo
+@Lĩnh vực: toán & tin
+#bảng tin

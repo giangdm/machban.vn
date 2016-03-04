@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự giải quyết vấn đề
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự giải bài toán
+#sự giải quyết vấn đề
+#sự giải toán

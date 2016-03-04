@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ logic giải hoạt
+#đơn vị lôgic giải hoạt
+#thiết bị logic giải hoạt

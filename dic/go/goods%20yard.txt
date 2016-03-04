@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bãi hàng
+@Chuyên ngành kỹ thuật
+#ga hàng hóa
+@Lĩnh vực: xây dựng
+#bãi chứa hàng

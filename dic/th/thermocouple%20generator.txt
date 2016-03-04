@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ phát điện nhiệt ngẫu
+@Lĩnh vực: điện
+#máy phát kiểu nhiệt ngẫu

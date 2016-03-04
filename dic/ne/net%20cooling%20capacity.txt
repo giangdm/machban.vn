@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công suất lạnh thực
+#năng suất lạnh hiệu dụng

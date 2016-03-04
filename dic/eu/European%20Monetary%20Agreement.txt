@@ -1,0 +1,5 @@
+﻿@European Monetary Agreement
+#(Econ) Hiệp định tiền tệ Châu Âu.
+: Hiệp định được Hội đồng TỔ CHỨC HỢP TÁC KINH TẾ CHÂU ÂU thông qua năm 1955. Hiệp định là quyết định của các nước Châu Âu nhằm làm cho đồng tiền của các nước dần dần chuyển đổi được đối với đồng đôla, bằng cách đó thay thế LIÊN MINH THANH TOÁN CHÂU ÂU bằng một hệ thống thanh toán quốc tế mới, trong đó mọi giao dịch phải được tiến hành bằng vàng hoặc các đồng tiền có thể chuyển đổi.
+@Chuyên ngành kinh tế
+#Hiệp định tiền tệ Châu Âu

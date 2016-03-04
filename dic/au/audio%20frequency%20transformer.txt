@@ -1,0 +1,5 @@
+﻿@audio frequency transformer
+#(Tech) bộ biến âm tần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy biến đổi âm tần

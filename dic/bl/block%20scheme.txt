@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sơ đồ khối
+@Lĩnh vực: cơ khí & công trình
+#sơ đồ cấu trúc

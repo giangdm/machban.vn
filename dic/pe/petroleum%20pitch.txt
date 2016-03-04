@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhựa khoáng
+@Lĩnh vực: hóa học & vật liệu
+#nhựa dầu mỏ
+@Lĩnh vực: xây dựng
+#nhựa đường cứng

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#khoảng cách đường ray hẹp
+@Chuyên ngành kỹ thuật
+#khổ đường hẹp
+#khổ hẹp
+@Lĩnh vực: xây dựng
+#đường hẹp
+#khoảng ray hẹp

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất nhiệt
+@Lĩnh vực: xây dựng
+#ứng suất do nhiệt độ

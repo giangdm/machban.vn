@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#giai đoạn thí nghiệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#giai đoạn thí nghiệm
+@Lĩnh vực: cơ khí & công trình
+#giai đoạn thử
+#gian đoạn thực nghiệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#giai đoạn thí nghiệm
+@Lĩnh vực: cơ khí & công trình
+#giai đoạn thử
+#gian đoạn thực nghiệm

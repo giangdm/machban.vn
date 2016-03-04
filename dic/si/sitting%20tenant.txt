@@ -1,0 +1,5 @@
+﻿@sitting tenant
+*danh từ
+#người đang ở, người đang thuê, người hiện đang sống (trong một căn hộ )
+@Chuyên ngành kinh tế
+#người thuê chiếm hữu nhà cửa

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#quá trình chuyển hóa hóa học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quá trình chuyển đổi
+@Lĩnh vực: hóa học & vật liệu
+#quá trình chuyển hóa

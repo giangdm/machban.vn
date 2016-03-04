@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#mét vuông
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#met vuông
+#mét vuông
+@Lĩnh vực: xây dựng
+#mét vuông (m2)

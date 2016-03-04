@@ -1,0 +1,4 @@
+﻿@bifactorial
+#hai nhân tố
+@Chuyên ngành kỹ thuật
+#hai nhân tố

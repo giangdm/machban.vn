@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kỹ thuật
+#diện tích gối tựa
+#mặt chịu tải
+#mặt chuẩn
+#mặt đập
+#mặt tiếp xúc
+#mặt tựa
+#mặt tỳ
+@Lĩnh vực: hóa học & vật liệu
+#bề mặt chịu lực
+@Lĩnh vực: giao thông & vận tải
+#bề mặt chịu tải
+#bề mặt đỡ
+@Lĩnh vực: cơ khí & công trình
+#mặt dẫn hướng
+@Lĩnh vực: xây dựng
+#mặt gối tựa

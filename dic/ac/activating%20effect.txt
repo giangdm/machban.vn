@@ -1,0 +1,2 @@
+﻿@activating effect
+#(Tech) hiệu ứng hoạt hóa

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#có tính thấm không khí
+@Chuyên ngành kỹ thuật
+#lọt không khí
+@Lĩnh vực: xây dựng
+#thấm khí

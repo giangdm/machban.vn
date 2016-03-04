@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khoảng hệ thống
+@Lĩnh vực: toán & tin
+#khoảng thời gian hệ thống

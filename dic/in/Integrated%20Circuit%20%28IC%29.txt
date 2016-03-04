@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch tích hợp
+@Lĩnh vực: toán & tin
+#IC
+#vi mạch
+@Lĩnh vực: điện tử & viễn thông
+#vi mạch, mạch tích hợp

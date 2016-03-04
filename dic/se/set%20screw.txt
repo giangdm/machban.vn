@@ -1,0 +1,16 @@
+﻿@set screw /'set'skru:/
+*danh từ
+#(kỹ thuật) vít định kỳ
+@Chuyên ngành kỹ thuật
+#bulông chặn
+#bulông siết
+#vít đặt
+#vít điều chỉnh
+#vít định vị
+#vít định vị điều chỉnh
+#vít giữ
+#vít hãm
+#vít kẹp
+#vít siết
+@Lĩnh vực: cơ khí & công trình
+#đinh ốc hãm

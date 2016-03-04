@@ -1,0 +1,9 @@
+﻿@ampere-hour /'æmpeəauə/
+*danh từ,  số nhiều ampere-hours
+#Ampe giờ
+@Chuyên ngành kỹ thuật
+#ampe giờ
+@Lĩnh vực: điện lạnh
+#Ah
+@Lĩnh vực: điện
+#ampe-giờ

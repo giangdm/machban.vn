@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#áp kế cột chất lỏng
+#áp kế kiểu cột lỏng
+@Lĩnh vực: đo lường & điều khiển
+#áp kế (dùng) chất lỏng
+@Lĩnh vực: điện lạnh
+#manômet mức lỏng
+@Chuyên ngành kỹ thuật
+#áp kế cột chất lỏng
+#áp kế kiểu cột lỏng
+@Lĩnh vực: đo lường & điều khiển
+#áp kế (dùng) chất lỏng
+@Lĩnh vực: điện lạnh
+#manômet mức lỏng

@@ -1,0 +1,6 @@
+﻿@Financial instrument
+#(Econ) Công cụ tài chính.
+: Bất kỳ một loại giấy tờ nào được sử dụng với tư cách là bằng chứng nợ và việc bán và chuyển nhượng nó cho phép người bán có được một nguồn tài chính.
+@Chuyên ngành kinh tế
+#chứng khoán tài chính
+#công cụ tài chính

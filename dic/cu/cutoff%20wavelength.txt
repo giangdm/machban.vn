@@ -1,0 +1,9 @@
+﻿@cutoff wavelength
+#(Tech) độ dài sóng giới hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bước sóng cắt
+@Lĩnh vực: toán & tin
+#bước sóng giới hạn
+@Lĩnh vực: điện tử & viễn thông
+#bước sóng tới hạn

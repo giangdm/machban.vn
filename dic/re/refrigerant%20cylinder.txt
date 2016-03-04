@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bình chứa tác nhân lạnh
+@Chuyên ngành kỹ thuật
+#chai ga

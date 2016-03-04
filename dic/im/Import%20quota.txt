@@ -1,0 +1,6 @@
+﻿@Import quota
+#(Econ) Hạn ngạch nhập khẩu.
+: Xem QUOTA.
+@Chuyên ngành kinh tế
+#côta nhập khẩu
+#hạn ngạch nhập khẩu

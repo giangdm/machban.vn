@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#dung lượng thực tế
+#sản lượng thực tế
+@Chuyên ngành kỹ thuật
+#khối vật lý

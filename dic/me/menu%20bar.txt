@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#chính ngọ
+#kinh tuyến
+@Lĩnh vực: dệt may
+#thanh menu
+@Lĩnh vực: xây dựng
+#thanh thực đơn
+@Lĩnh vực: toán & tin
+#thanh trình đơn

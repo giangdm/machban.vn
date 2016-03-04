@@ -1,0 +1,5 @@
+﻿@time exposure
+*danh từ
+#sự phơi sáng ảnh (trong đó cửa trập được mở ra lâu hơn thời gian ngắn nhất, tức là hơn một, hai giây)
+@Chuyên ngành kỹ thuật
+#lộ sáng lâu

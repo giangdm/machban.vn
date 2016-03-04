@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cuộn dây mạch đơn
+@Lĩnh vực: điện
+#quấn dây đơn giản

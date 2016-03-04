@@ -1,0 +1,2 @@
+﻿@E-type constant
+#(Tech) hằng số loại E

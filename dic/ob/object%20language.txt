@@ -1,0 +1,8 @@
+﻿@object language ['ɔbdʒikt 'læηgwidʒ]
+*danh từ
+# (tin học) ngôn ngữ dịch
+@Chuyên ngành kỹ thuật
+#ngôn ngữ đối tượng
+#ngôn ngữ máy
+@Lĩnh vực: toán & tin
+#ngôn ngữ đích

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#vận tốc vòng
+@Lĩnh vực: điện lạnh
+#tốc độ chu vi
+#vận tốc cung
+#vận tốc ngoài rìa
+@Lĩnh vực: hóa học & vật liệu
+#tốc độ ở biên

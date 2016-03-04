@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cấu ra băng
+#đoạn đầu băng
+#tiền tố

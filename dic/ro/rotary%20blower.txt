@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy quạt gió quay
+@Lĩnh vực: hóa học & vật liệu
+#máy quạt gió xoay
+@Lĩnh vực: xây dựng
+#máy thổi kiểu xoay

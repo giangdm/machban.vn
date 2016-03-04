@@ -1,0 +1,6 @@
+﻿@Subsistence wage
+#(Econ) Tiền công đủ sống.
+: Xem IRON LAW OF WAGES.
+@Chuyên ngành kinh tế
+#mức lương (chi) vừa đủ sống
+#mức lương sinh tồn

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tình hình đóng hội phí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trạng thái đóng góp

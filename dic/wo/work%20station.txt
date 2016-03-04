@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#cương vị công tác
+#đầu cuối trí năng (máy điện toán)
+#trạm công tác
+@Chuyên ngành kỹ thuật
+#đầu cuối dữ liệu
+#vị trí làm việc
+#vị trí làm việc (của máy)

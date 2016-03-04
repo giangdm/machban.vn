@@ -1,0 +1,2 @@
+﻿@device control character
+#(Tech) ký tự điều khiển thiết bị

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#động cơ (đặc tính) song song cấp điện vào stato
+@Lĩnh vực: điện
+#động cơ song song nuôi stato

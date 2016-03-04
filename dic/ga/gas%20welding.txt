@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#hàn gió đá
+#hàn hơi
+#sự hàn hơi
+#sự hàn khí
+#sự hàn xì
+@Lĩnh vực: ô tô
+#kỹ thuật hàn gió đá
+@Lĩnh vực: hóa học & vật liệu
+#sự hàn (bằng) khí
+@Lĩnh vực: xây dựng
+#sự hàn bằng khí
+@Lĩnh vực: toán & tin
+#sự hàn gió

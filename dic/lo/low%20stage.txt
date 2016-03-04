@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cấp áp thấp
+#cấp hạ áp
+#tầng áp suất thấp

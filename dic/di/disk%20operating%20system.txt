@@ -1,0 +1,8 @@
+﻿@disk operating system
+*danh từ, viết tắt là DOS
+# (tin học) hệ điều hành máy tính
+@Chuyên ngành kỹ thuật
+#hệ điều hành đĩa
+#hệ điều hành đĩa (DOS)
+@Lĩnh vực: toán & tin
+#DOS

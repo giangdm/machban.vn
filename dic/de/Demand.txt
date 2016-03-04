@@ -1,0 +1,44 @@
+﻿@Demand
+#(Econ) Cầu
+: Lượng hàng hoá hoặc dịch vụ mà một cá nhân hay một nhóm người muốn có ở mức hiện hành.
+<!-- more -->
+@demand /di'mɑ:nd/
+*danh từ
+#sự đòi hỏi, sự yêu cầu; nhu cầu
+=on demand: khi yêu cầu, theo yêu cầu
+=in great demand: được nhiều người yêu cầu, được nhiều người chuộng
+=law of supply and demand: luật cung cầu
+#(số nhiều) những sự đòi hỏi cấp bách (đối với thì giờ, túi tiền... của ai)
+*ngoại động từ
+#đòi hỏi, yêu cầu; cần, cần phải
+=this problem demands careful treatment: vấn đề này đòi hỏi phải giải quyết thận trọng
+=this letter demands an immediate reply: lá thư này cần phải trả lời ngay tức khắc
+#hỏi, hỏi gặng
+=he demanded my business: anh ta gặng hỏi tôi cần những gì
+@Chuyên ngành kinh tế
+#đòi
+#đòi hỏi
+#giấy (đơn) yêu cầu
+#lượng cầu
+#mức cầu
+#nhu cầu
+#số cầu
+#sự đòi hỏi
+#yêu cầu
+#yêu sách
+@Chuyên ngành kỹ thuật
+#đòi hỏi
+#hệ số tải
+#lượng nhu cầu
+#nhu cầu
+#phụ tải
+#sự hỏi
+#sự truy vấn
+#sự vấn tin
+#sự yêu cầu
+#yêu cầu
+@Lĩnh vực: điện
+#nhu cầu điện
+<!-- more -->
+@demand
+#yêu cầu, nhu cầu

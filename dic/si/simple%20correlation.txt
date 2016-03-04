@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kinh tế
+#tương quan giản đơn (giữa hai biến số)

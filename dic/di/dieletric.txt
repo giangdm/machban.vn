@@ -1,0 +1,7 @@
+﻿@dieletric /,daii'lektrik/
+*danh từ
+#(điện học) chất điện môi
+=an anisotropic dieletric: chất điện môi không đẳng hướng
+=a perfect dieletric: chất điện môi lý tưởng
+*tính từ
+#(điện học) điện môi

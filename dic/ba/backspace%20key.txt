@@ -1,0 +1,9 @@
+﻿@backspace key
+#(Tech) phím lùi
+@Chuyên ngành kỹ thuật
+#phím lùi
+@Lĩnh vực: toán & tin
+#phím backspace
+#phím xóa lùi
+@Lĩnh vực: xây dựng
+#phím xóa ngược

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sự tiệt trùng băng không khí khô
+@Chuyên ngành kỹ thuật
+#sự khử trùng bằng khí nóng

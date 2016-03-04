@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#cầu cân đường sắt
+#con chạy
+#con trượt
+#đường dẫn trượt
+@Lĩnh vực: xây dựng
+#ray chịu lực
+@Lĩnh vực: giao thông & vận tải
+#ray phổ dụng
+#ray thường
+#ray trượt
+@Lĩnh vực: toán & tin
+#ray phổ thông

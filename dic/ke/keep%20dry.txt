@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giữ khô
+#tránh thấm nước
+@Chuyên ngành kỹ thuật
+#bảo quản khô
+@Chuyên ngành kỹ thuật
+#bảo quản khô

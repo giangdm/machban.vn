@@ -1,0 +1,3 @@
+﻿@double figures
+*danh từ
+#số hàng chục (từ 10 đến 99)

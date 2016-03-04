@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#nội âm
+@Lĩnh vực: điện
+#âm cạnh
+@Lĩnh vực: điện lạnh
+#âm phụ
+@Lĩnh vực: điện tử & viễn thông
+#âm phụ (điện thoại)
+#hiệu ứng nội âm

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phân bố biên
+@Lĩnh vực: toán & tin
+#phân phối biên duyên

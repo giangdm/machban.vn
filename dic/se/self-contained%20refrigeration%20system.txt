@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) lạnh độc lập
+#hệ thống lạnh độc lập

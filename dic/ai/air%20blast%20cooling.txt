@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự làm lạnh dòng không khí lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự làm lạnh bằng quạt gió
+#sự làm mát bằng quạt gió

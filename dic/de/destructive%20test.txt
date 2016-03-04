@@ -1,0 +1,5 @@
+﻿@destructive test
+#(Tech) thử xóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thí nghiệm phá hủy

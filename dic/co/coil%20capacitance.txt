@@ -1,0 +1,4 @@
+﻿@coil capacitance
+#(Tech) điện dung cuộn dây
+@Chuyên ngành kỹ thuật
+#điện dung cuộn dây

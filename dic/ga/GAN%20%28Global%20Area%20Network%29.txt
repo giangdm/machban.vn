@@ -1,0 +1,2 @@
+﻿@GAN (Global Area Network)
+#(Tech) mạng diện tổng thể, mạng toàn vùng, mạng toàn cầu

@@ -1,0 +1,2 @@
+﻿@Base year
+#(Econ) Năm gốc, năm cơ sở.

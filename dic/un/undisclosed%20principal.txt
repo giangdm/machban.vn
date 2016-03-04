@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#người mua, người chủ lý ẩn danh
+#người ủy thác giấu tên
+#người ủy thác không công khai
+#người ủy thác không lộ tên
+@Lĩnh vực: ttck
+#chủ thể không được tiết lộ, chủ thể ẩn danh

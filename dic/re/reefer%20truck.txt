@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#xe cơ khí làm lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ô tô lạnh kiểu cơ học

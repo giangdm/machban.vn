@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản chi phiếu
+#tài khoản tiền gửi không kỳ hạn
+#tài khoản vãng lai

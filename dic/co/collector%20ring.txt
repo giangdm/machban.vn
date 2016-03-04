@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#khâu góp điện
+#vành góp điện
+#vành trượt
+#vòng góp điện
+@Lĩnh vực: cơ khí & công trình
+#cổ góp điện
+@Lĩnh vực: điện
+#vành góp điện (lấy điện)
+#vòng tiếp điện
+@Lĩnh vực: điện lạnh
+#vành tiếp điện

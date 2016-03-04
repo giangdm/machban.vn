@@ -1,0 +1,15 @@
+﻿@Critical value
+#(Econ) Giá trị tới hạn
+: Giá trị tới hạn
+<!-- more -->
+@critical value
+#(Tech) trị tới hạn
+@Chuyên ngành kinh tế
+#giá trị tới hạn
+@Chuyên ngành kỹ thuật
+#giá trị tới hạn
+#giá trị trung bình
+@Lĩnh vực: toán & tin
+#giá trị cực độ
+@Lĩnh vực: cơ khí & công trình
+#trị số tới hạn

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Bộ xử lý định tuyến đa dịch vụ (Bộ định tuyến cho phép mang lưu lượng thoại qua một mạng IP)

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình chủ
+#chương trình điều hành
+#chương trình thi hành
+@Lĩnh vực: điện tử & viễn thông
+#chương trình khai thác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình chủ
+#chương trình điều hành
+#chương trình thi hành
+@Lĩnh vực: điện tử & viễn thông
+#chương trình khai thác

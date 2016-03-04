@@ -1,0 +1,2 @@
+﻿@computed address
+#(Tech) địa chỉ tính toán

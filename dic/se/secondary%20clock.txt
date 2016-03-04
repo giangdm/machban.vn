@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đồng hồ thứ cấp
+#xung nhịp phụ
+#xung nhịp thứ cấp

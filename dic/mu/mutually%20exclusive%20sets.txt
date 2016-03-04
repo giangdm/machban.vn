@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các tập (hợp) loại trừ nhau
+#các tập hợp loại trừ nhau

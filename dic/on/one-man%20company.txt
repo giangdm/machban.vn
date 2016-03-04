@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#công ty (kinh doanh) một người
+#công ty độc tư cá nhân
+#công ty một người

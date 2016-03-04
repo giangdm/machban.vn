@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều chỉnh tốc độ
+#sự điều khiển vận tốc
+@Lĩnh vực: điện lạnh
+#điều khiển tốc độ
+@Lĩnh vực: giao thông & vận tải
+#kiểm soát tốc độ
+@Lĩnh vực: toán & tin
+#sự điều khiển tốc độ

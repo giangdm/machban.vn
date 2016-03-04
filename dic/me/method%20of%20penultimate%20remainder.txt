@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương pháp số dư áp chót
+#phương pháp số dư giáp cuối

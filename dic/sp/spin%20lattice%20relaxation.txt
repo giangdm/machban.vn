@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hồi phục mạng spin
+@Lĩnh vực: điện tử & viễn thông
+#quá trình hồi phục mạng spin

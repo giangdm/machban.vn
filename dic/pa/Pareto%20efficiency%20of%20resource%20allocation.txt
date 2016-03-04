@@ -1,0 +1,2 @@
+﻿@Pareto efficiency of resource allocation
+#(Econ) Tính hiệu quả Pareto của phân bổ nguồn lực.

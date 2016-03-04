@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#hợp kim (tỉ lệ) cao
+@Lĩnh vực: xây dựng
+#hợp kim cao

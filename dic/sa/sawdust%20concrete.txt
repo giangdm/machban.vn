@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bê tông hạt cưa
+#bê tông trộn mạt cưa
+@Lĩnh vực: toán & tin
+#bê tông mạt cưa
+@Lĩnh vực: cơ khí & công trình
+#bê tông mùn cưa

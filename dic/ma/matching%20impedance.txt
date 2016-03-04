@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tổng trở tương đương
+@Lĩnh vực: điện lạnh
+#trở kháng làm thích ứng
+@Lĩnh vực: điện tử & viễn thông
+#trở kháng phối hợp
+#trở kháng thích ứng
+@Lĩnh vực: toán & tin
+#trở kháng phù hợp

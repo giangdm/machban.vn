@@ -1,0 +1,6 @@
+﻿@predesigned
+#cho trước, thiết lập trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cho trước
+#thiết lập trước

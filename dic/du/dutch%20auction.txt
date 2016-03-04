@@ -1,0 +1,4 @@
+﻿@dutch auction
+#kiểu bán đấu giá HALAN (giảm dần cho đến khi có người mua)
+@Chuyên ngành kinh tế
+#đấu giá kiểu Hà Lan

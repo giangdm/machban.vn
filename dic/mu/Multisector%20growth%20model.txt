@@ -1,0 +1,3 @@
+﻿@Multisector growth model
+#(Econ) Mô hình tăng trưởng đa ngành.
+: Là mô hình được sử dụng trong lý thuyết tăng trưởng theo đó cho phép sản xuất nhiều loại hàng hoá.

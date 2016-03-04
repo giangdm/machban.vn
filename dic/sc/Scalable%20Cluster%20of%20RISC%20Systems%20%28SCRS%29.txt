@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Cụm bit có thể mở rộng quy mô của các hệ thống RISC

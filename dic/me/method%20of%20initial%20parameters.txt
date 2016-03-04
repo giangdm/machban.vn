@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#phương pháp các thông số ban đầu
+@Lĩnh vực: toán & tin
+#phương pháp thông số ban đầu

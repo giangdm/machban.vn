@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#liên kết bản giằng
+@Lĩnh vực: xây dựng
+#liên kết kiểu khung (dầm:cột)

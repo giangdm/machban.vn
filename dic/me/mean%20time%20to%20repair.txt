@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian sửa chữa trung bình
+@Lĩnh vực: xây dựng
+#thời gian bình quân để sửa chữa

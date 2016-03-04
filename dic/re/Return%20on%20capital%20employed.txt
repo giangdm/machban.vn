@@ -1,0 +1,5 @@
+﻿@Return on capital employed
+#(Econ) Lợi tức từ vốn được sử dụng.
+: Xem RATE OF RETURN.
+@Chuyên ngành kinh tế
+#thu lợi trên vốn sử dụng

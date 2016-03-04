@@ -1,0 +1,6 @@
+﻿@Bargaining tariff
+#(Econ) Thuế quan mặc cả; Thuế quan thương lượng.
+: Thuế được áp đặt bởi một nước để củng cố vị trí của nó trong đàm phán thương mại với các nước khác, khi các nước này sử dụng lời hứa chiết khấu thuế để đạt được sự nhượng bộ trong thương mại.
+@Chuyên ngành kinh tế
+#thuế biểu thương lượng
+#thuế đàm phán

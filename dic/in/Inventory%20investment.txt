@@ -1,0 +1,7 @@
+﻿@Inventory investment
+#(Econ) Đầu tư tồn kho
+: Sự tích luỹ hàng tồn kho khi sản xuất vượt quá sản lượng bán thực tế.
+@Chuyên ngành kinh tế
+#đầu tư dẫn dụ
+#đầu tư được kích thích
+#đầu tư kho hàng

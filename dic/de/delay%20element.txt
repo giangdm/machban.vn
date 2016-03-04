@@ -1,0 +1,7 @@
+﻿@delay element
+#(Tech) phần tử trễ
+@Chuyên ngành kỹ thuật
+#phần tử trễ
+#thành phần trễ
+@Lĩnh vực: xây dựng
+#yếu tố vi sai

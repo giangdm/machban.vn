@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đặc trưng các phối hạt
+@Lĩnh vực: toán & tin
+#đặc trưng cấp phối hạt

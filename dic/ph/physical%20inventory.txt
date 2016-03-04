@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hàng tồn kho vật lý
+#kiểm kê hàng trong kho
+#kiểm kê thực địa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#kiểm kê thực tế

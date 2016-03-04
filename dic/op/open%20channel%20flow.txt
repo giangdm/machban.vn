@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy hở
+@Lĩnh vực: vật lý
+#dòng chảy ở kênh hở
+@Lĩnh vực: xây dựng
+#dòng chảy trên mặt tự do

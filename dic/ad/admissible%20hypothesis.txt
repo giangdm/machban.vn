@@ -1,0 +1,7 @@
+﻿@admissible hypothesis
+#(Tech) giả thuyết chấp nhận được
+@Chuyên ngành kinh tế
+#giả thiết có thể chấp nhận được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giả thiết chấp nhận được

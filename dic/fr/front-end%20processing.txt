@@ -1,0 +1,6 @@
+﻿@front-end processing
+#(Tech) xử lý tiếp ngoại vi
+@Chuyên ngành kỹ thuật
+#xử lý trước
+@Lĩnh vực: toán & tin
+#xử lý ngoại vi

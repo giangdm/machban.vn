@@ -1,0 +1,6 @@
+﻿@box-office /'bɔks'ɔfis/
+*danh từ
+#chỗ bán vé (ở rạp hát)
+@Chuyên ngành kinh tế
+#nơi bán vé trong một rạp hát
+#tổng số tiền bán vé đã thu được ở nơi đó

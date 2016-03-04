@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy tính vệ tinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy tính bổ trợ
+#máy tính phụ thuộc
+#máy tính vệ tinh

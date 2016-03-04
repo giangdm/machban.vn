@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy bào trường
+@Lĩnh vực: toán & tin
+#máy bào tường

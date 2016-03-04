@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự méo tần số
+@Lĩnh vực: điện lạnh
+#méo mó tần số
+@Lĩnh vực: toán & tin
+#sự biến dạng tần số

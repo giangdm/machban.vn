@@ -1,0 +1,3 @@
+﻿@Marginal efficiency of capital schedule
+#(Econ) Biểu đồ hiệu suất biên của vốn.
+: Là biểu đồ trình bày chi tiết mối quan hệ cân bằng dài hạn giữa số vốn cần có và lãi suất.

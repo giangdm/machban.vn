@@ -1,0 +1,5 @@
+﻿@data retrieval system
+#(Tech) hệ thống thu dụng dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ truy hồi dữ liệu

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo kết hợp
+@Lĩnh vực: điện
+#máy đo (kiểu tích phân)
+#máy đo (kiểu) tích phân
+#máy đo tích hợp
+@Lĩnh vực: điện lạnh
+#máy đo kiểu cộng dồn
+#máy đo kiểu tích phân

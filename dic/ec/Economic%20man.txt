@@ -1,0 +1,6 @@
+﻿@Economic man
+#(Econ) Con người kinh tế.
+: Tên đặt cho vật đựoc được sáng tạo trong kinh tế học, bằng cách đó, các cá nhân được giả định là cư sử như thể họ tối đa hoá độ thoả dụng, chịu chi phối bởi những ràng buộc, trong đó hiển nhiên nhất là thu nhập.
+@Chuyên ngành kinh tế
+#con người kinh tế
+#con người, mẫu người kinh tế

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dùng lại được
+#tái lập được
+#tái sử dụng lại được
+@Lĩnh vực: môi trường
+#tái chế được
+#tái sử dụng được

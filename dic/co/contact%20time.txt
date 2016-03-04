@@ -1,0 +1,4 @@
+﻿@contact time
+#(Tech) thời gian tiếp xúc
+@Chuyên ngành kinh tế
+#thời gian dừng xe để bốc dỡ (trong vận tải xe hơi)

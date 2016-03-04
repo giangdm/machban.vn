@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cổng chuyển mạch
+@Lĩnh vực: đo lường & điều khiển
+#cửa chuyển mạch

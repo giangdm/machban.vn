@@ -1,0 +1,8 @@
+﻿@character string
+#(Tech) chuỗi ký tự
+@Chuyên ngành kinh tế
+#chuỗi ký tự (máy tính)
+@Chuyên ngành kỹ thuật
+#xâu ký tự
+@Lĩnh vực: toán & tin
+#dây kí tự

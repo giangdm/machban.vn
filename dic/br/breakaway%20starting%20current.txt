@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dòng điện khởi động ngắt
+#dòng mở máy ban đầu

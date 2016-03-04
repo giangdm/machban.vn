@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#vận tốc chạy không
+@Lĩnh vực: cơ khí & công trình
+#số vòng quay chạy không
+#tốc độ không tải

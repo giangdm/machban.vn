@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#luận lý mạng cứng
+@Lĩnh vực: toán & tin
+#lôgic nối cứng

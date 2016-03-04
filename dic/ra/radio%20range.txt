@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ định tầm vô tuyến
+#mốc vô tuyến
+#pha vô tuyến
+@Lĩnh vực: giao thông & vận tải
+#bộ báo tầm vô tuyến
+@Lĩnh vực: điện
+#không vô tuyến

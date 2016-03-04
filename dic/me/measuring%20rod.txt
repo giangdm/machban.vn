@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cần đo
+#thang đo
+#thanh đo
+#thước đo
+#thước tỷ lệ

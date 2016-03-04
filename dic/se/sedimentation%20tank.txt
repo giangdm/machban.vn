@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#thùng làm trong
+#thùng lắng
+@Chuyên ngành kỹ thuật
+#bể lắng
+#bể lắng đọng
+#bể lắng gạn
+#bồn lắng
+#thiết bị lắng
+#thùng lắng
+@Lĩnh vực: hóa học & vật liệu
+#thùng kết tủa

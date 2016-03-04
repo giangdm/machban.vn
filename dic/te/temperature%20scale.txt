@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nhiệt giai
+@Lĩnh vực: y học
+#thang nhiệt

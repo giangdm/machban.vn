@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#góc độ cao
+#góc dốc lên
+#góc đứng
+#góc nâng
+#góc tà
+@Lĩnh vực: điện lạnh
+#góc ngẩng
+@Lĩnh vực: xây dựng
+#góc vượt
+@Chuyên ngành kỹ thuật
+#góc độ cao
+#góc dốc lên
+#góc đứng
+#góc nâng
+#góc tà
+@Lĩnh vực: điện lạnh
+#góc ngẩng
+@Lĩnh vực: xây dựng
+#góc vượt

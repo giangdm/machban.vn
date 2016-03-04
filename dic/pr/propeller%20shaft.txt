@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#trục bộ cánh quạt
+#trục dẫn động (trục các-đăng)
+#trục truyền động (trục láp)
+@Lĩnh vực: hóa học & vật liệu
+#trục cánh đẩy
+#trục chân vịt
+@Lĩnh vực: giao thông & vận tải
+#trục cánh quạt
+#trục chân vịt (đóng tàu)
+#trục chong chóng (máy bay)

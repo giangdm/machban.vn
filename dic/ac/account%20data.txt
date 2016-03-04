@@ -1,0 +1,2 @@
+﻿@account data
+#(Tech) dữ kiện kế toán, số liệu kế toán

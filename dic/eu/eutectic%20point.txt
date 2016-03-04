@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điểm cùng tinh
+#điểm ơtecti
+@Lĩnh vực: hóa học & vật liệu
+#điểm eutecti
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điểm cùng tinh
+#điểm ơtecti
+@Lĩnh vực: hóa học & vật liệu
+#điểm eutecti

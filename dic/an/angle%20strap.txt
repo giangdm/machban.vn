@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tấm nối góc
+#tấm ốp góc
+#thanh đệm chữ L
+#thanh nẹp chữ L
+#thanh ốp chữ L

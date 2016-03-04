@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#IC tốc độ rất cao
+#mạng tích hợp tốc độ rất cao

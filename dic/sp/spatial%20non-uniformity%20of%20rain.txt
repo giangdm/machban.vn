@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tính không đồng đều của mưa
+#tính không đồng nhất của mưa

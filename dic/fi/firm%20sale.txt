@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bán đứt
+#bán theo giá cố định
+#bán theo giá thỏa thuận

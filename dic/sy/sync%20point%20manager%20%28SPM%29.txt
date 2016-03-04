@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ quản lý điểm đồng bộ
+#chương trình quản lý điểm đồng bộ

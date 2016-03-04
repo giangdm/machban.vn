@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#số liên tục (số loạt hàng, số thứ tự các chứng từ)
+@Chuyên ngành kỹ thuật
+#dãy số
+#số seri
+#số theo thứ tự
+#số thứ tự
+@Lĩnh vực: điện
+#số chế tạo
+@Lĩnh vực: toán & tin
+#số nối tiếp
+#số sản xuất

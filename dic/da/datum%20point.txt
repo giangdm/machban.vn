@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kỹ thuật
+#căn nguyên
+#điểm chuẩn
+#điểm cơ sở
+#điểm kiểm tra
+#điểm mốc
+#điểm quy chiếu
+#điểm thủy chuẩn
+#điểm tựa
+#nguồn gốc
+#mốc chuẩn
+@Lĩnh vực: hóa học & vật liệu
+#điểm đã cho
+@Lĩnh vực: cơ khí & công trình
+#điểm đối chiếu
+@Lĩnh vực: điện tử & viễn thông
+#điểm gốc quy chiếu

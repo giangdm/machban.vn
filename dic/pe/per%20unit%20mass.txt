@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#mỗi đơn vị khối lượng
+@Lĩnh vực: vật lý
+#trên đơn vị khối luợng
+#trên khối lượng đơn vị

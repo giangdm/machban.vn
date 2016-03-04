@@ -1,0 +1,6 @@
+﻿@assembly drawing
+#(Tech) bản vẽ lắp ráp
+@Chuyên ngành kỹ thuật
+#bài vẽ ráp
+#bản vẽ lắp ráp
+#bản vẽ tổng thể

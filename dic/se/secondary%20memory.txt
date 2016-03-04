@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lưu trữ phụ
+#bộ nhớ phụ
+#bộ nhớ thứ cấp
+@Lĩnh vực: toán & tin
+#bộ nhớ bổ sung

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle tác dụng chậm
+#rơle trễ thời gian
+#rơle trì hoãn

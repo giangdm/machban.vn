@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#vốn cố định
+@Chuyên ngành kỹ thuật
+#vốn cố định
+@Lĩnh vực: hóa học & vật liệu
+#tư bản cố định
+@Chuyên ngành kỹ thuật
+#vốn cố định
+@Lĩnh vực: hóa học & vật liệu
+#tư bản cố định

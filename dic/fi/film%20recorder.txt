@@ -1,0 +1,10 @@
+﻿@film recorder
+#(Tech) máy ghi phim
+@Chuyên ngành kỹ thuật
+#bộ ghi phim
+@Lĩnh vực: toán & tin
+#máy ghi phim
+@Chuyên ngành kỹ thuật
+#bộ ghi phim
+@Lĩnh vực: toán & tin
+#máy ghi phim

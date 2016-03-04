@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu khởi động dải băng
+#tín hiệu lập lại dải băng
+#tín hiệu tái lập dải băng

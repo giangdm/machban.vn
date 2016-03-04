@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu kỳ hạ lạnh
+#chu kỳ hạ nhiệt độ

@@ -1,0 +1,11 @@
+﻿@guard band
+#(Tech) dải bảo vệ
+@Chuyên ngành kỹ thuật
+#dải bảo vệ
+#dải tần an toàn
+#dải tần bảo vệ
+@Lĩnh vực: điện
+#dải an toàn
+#khoảng cách tần số
+@Lĩnh vực: điện tử & viễn thông
+#dải giữ

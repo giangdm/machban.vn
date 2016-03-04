@@ -1,0 +1,2 @@
+﻿@autoindex
+#(Tech) chỉ số tự động

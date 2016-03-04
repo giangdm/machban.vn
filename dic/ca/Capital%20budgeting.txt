@@ -1,0 +1,6 @@
+﻿@Capital budgeting
+#(Econ) Phân bổ vốn ngân sách.
+: Quá trình phân bổ vốn có thể đầu tư cho các vốn dự án.
+@Chuyên ngành kinh tế
+#lập kế hoạch vốn
+#sự lập ngân sách vốn

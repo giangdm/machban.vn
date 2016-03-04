@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#gốc hao
+@Lĩnh vực: điện lạnh
+#góc tổn hao
+@Lĩnh vực: điện
+#góc tổn thất

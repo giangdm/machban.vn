@@ -1,0 +1,2 @@
+﻿@telenet
+#Một mạng máy tính diện rộng có hàng ngàn địa chỉ gọi địa phương Telenet cung cấp các dịch vụ đăng nhập vào nhiều dịch vụ máy tính trực tuyến khác nhau, như Dialog Information Services và CompuServe chẳng hạn

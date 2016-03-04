@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sự khử khả năng keo tụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#sự thử keo tụ
+#sự thử kết bông
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#sự thử keo tụ
+#sự thử kết bông

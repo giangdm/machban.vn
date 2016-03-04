@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản đối
+#tài khoản đối tiêu
+#tài khoản đối trừ
+#tài khoản đối ứng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tổng trọng lượng
+#tổng trọng lượng hàng chở
+#trọng lượng chở đầy
+#trọng lượng có tải

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#nhà lạnh
+#phòng lạnh
+@Chuyên ngành kỹ thuật
+#buồng lạnh
+#buồng ướp lạnh
+#phòng lạnh
+@Lĩnh vực: điện lạnh
+#nhà ướp lạnh

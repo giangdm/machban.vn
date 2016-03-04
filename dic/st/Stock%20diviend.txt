@@ -1,0 +1,3 @@
+﻿@Stock diviend
+#(Econ) Cổ tức bằng cổ phần.
+: Một phương pháp trả cổ tức bằng việc phát hành thêm các cổ phiếu thay cho việc trả bằng tiền mặt.

@@ -1,0 +1,13 @@
+﻿@light pen
+*danh từ
+#bút quang điện có khả năng giao tiếp với máy điện toán, đánh dấu trên màn hình hoặc đọc mẫu vạch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ đánh dấu ngân quang
+@Lĩnh vực: xây dựng
+#bút sáng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ đánh dấu ngân quang
+@Lĩnh vực: xây dựng
+#bút sáng

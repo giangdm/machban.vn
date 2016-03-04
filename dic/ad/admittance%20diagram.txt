@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biểu đồ dẫn nạp
+#biểu đồ tổng dẫn

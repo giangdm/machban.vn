@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bán lạnh đông
+#làm lạnh nửa vời
+@Chuyên ngành kỹ thuật
+#bán đông lạnh
+#nửa kết đông

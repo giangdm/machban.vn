@@ -1,0 +1,4 @@
+﻿@acceleration voltage
+#(Tech) điện thế gia tốc
+@Chuyên ngành kỹ thuật
+#điện áp gia tốc

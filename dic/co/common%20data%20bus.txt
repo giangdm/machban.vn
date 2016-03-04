@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#buýt dữ liệu chung
+#đường truyền dẫn dữ liệu chung

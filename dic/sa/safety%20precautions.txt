@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#các biện pháp an toàn
+@Lĩnh vực: y học
+#các biện pháp phòng ngừa

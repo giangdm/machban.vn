@@ -1,0 +1,5 @@
+﻿@Certainty equivalence
+#(Econ) Mức qui đổi về tất định.
+: Trong những bối cảnh RỦI RO hay không chắc chắn, các biến số sẽ mang các giá trị với ít nhất 2 đặc tính:
+@Chuyên ngành kinh tế
+#sự tương đương chắc chắn

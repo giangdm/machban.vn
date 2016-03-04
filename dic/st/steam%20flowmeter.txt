@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ đo hơi nước
+#lưu lượng kế hơi nước
+@Lĩnh vực: đo lường & điều khiển
+#lưu lượng kế (đo) hơi nước

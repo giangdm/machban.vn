@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ống trung gian để dẫn tác nhân lạnh từ tháp ngưng ra ngoài
+@Chuyên ngành kỹ thuật
+#ống nhánh

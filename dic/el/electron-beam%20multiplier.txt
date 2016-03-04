@@ -1,0 +1,2 @@
+﻿@electron-beam multiplier
+#(Tech) bộ bội nhân tia điện tử

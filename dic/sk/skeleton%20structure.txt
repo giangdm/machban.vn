@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#kết cấu khung
+#kết cấu sườn
+@Lĩnh vực: xây dựng
+#kết cấu kiểu sườn (dầm:cột)
+@Lĩnh vực: hóa học & vật liệu
+#kiến trúc khung

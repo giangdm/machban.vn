@@ -1,0 +1,17 @@
+﻿@Demography
+#(Econ) Nhân khẩu học.
+: Nghiên cứu đặc điểm của dân số.
+<!-- more -->
+@demography /di:'mɔgrəfi/
+*danh từ
+#nhân khẩu học
+@Chuyên ngành kinh tế
+#dân số học
+#nhân khẩu học
+@Chuyên ngành kỹ thuật
+#dân số học
+@Lĩnh vực: y học
+#nhân khẩu học
+<!-- more -->
+@demography
+#(thống kê) khoa điều tra dân số

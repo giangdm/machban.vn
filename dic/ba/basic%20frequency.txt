@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tần số cơ bản
+@Chuyên ngành kỹ thuật
+#tần số cơ bản

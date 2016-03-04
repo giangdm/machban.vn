@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đường dồn tàu
+#ga dồn tàu
+#sân ga chọn tàu
+#trạm chuyển
+#trạm dồn tàu
+@Lĩnh vực: xây dựng
+#ga giải lập tàu

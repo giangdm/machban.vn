@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mạng lưới trên không
+@Lĩnh vực: điện lạnh
+#ống dẫn trên trần

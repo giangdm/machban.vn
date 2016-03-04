@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khoảng cách đầu lấy điện
+@Lĩnh vực: điện
+#khoảng phân nhánh

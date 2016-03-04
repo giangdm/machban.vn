@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#chứng chỉ thầy thuốc
+#chứng chỉ y tế
+#giấy chứng chỉ của y sĩ
+#giấy chứng của y sĩ
+#giấy chứng nhận sức khỏe
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#giấy chứng nhận y khoa

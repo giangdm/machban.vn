@@ -1,0 +1,3 @@
+﻿@Law of variable proprerties
+#(Econ) Quy luật về các đặc tính biến đổi.
+: Xem Law of diminishing returns.

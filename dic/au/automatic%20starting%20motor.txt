@@ -1,0 +1,5 @@
+﻿@automatic starting motor
+#(Tech) động cơ khởi động tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#động cơ khởi động tự động

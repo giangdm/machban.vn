@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bảng liệt kê linh kiện
+@Chuyên ngành kỹ thuật
+#bản kê phụ tùng
+#danh sách các chi tiết
+#danh sách các linh kiện
+@Lĩnh vực: cơ khí & công trình
+#bản kê chi tiết

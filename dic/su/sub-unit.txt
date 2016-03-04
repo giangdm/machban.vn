@@ -1,0 +1,3 @@
+﻿@sub-unit
+*danh từ
+#cấu trúc dưới (siêu) phân tử

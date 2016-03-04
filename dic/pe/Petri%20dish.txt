@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hộp Petri
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#đĩa petri

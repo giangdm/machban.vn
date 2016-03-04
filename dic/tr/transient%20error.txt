@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi mềm
+#lối nhất thời
+#lỗi nhất thời
+#lỗi tạm
+#lỗi tạm thời
+@Lĩnh vực: toán & tin
+#sai số trung gian

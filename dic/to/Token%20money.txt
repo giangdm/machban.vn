@@ -1,0 +1,8 @@
+﻿@Token money
+#(Econ) Tiền quy ước.
+: Mọi loại tiền nào mà giá trị của nó với tư cách làm phương tiện thanh toán dựa vào các quy định của pháp luật, ví dụ, một đồng tiền pháp định, hay dựa vào sự chấp nhận truyền thống, và giá trị của nó không có quan hệ gì với giá trị vật làm ra tiền.
+@Chuyên ngành kinh tế
+#đồng tiền dấu hiệu
+#tiền danh nghĩa
+#tiền dấu hiệu
+#tiền quy ước

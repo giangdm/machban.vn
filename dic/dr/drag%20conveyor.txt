@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#băng tải cào
+@Chuyên ngành kỹ thuật
+#băng cào
+#băng tải gạt
+@Lĩnh vực: cơ khí & công trình
+#mảng cào

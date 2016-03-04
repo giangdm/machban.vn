@@ -1,0 +1,8 @@
+﻿@electromagnetic pick-up
+#(Tech) đầu đọc điện từ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đầu đọc điện từ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đầu đọc điện từ

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số nhân đơn
+#số nhân, bội số, thừa số giản đơn

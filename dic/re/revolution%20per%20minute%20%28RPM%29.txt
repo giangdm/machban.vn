@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số vòng quay một phút
+@Chuyên ngành kỹ thuật
+#số vòng quay mỗi phút

@@ -1,0 +1,5 @@
+﻿@automatic switchboard
+#(Tech) tổng đài tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng chuyển mạch tự động

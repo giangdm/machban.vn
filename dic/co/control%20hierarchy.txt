@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều khiển
+#cấp quản lý
+#cấu điều khiển
+#điện trở đệm
+#hệ điều khiển
+@Lĩnh vực: đo lường & điều khiển
+#cấp độ điều khiển
+@Lĩnh vực: vật lý
+#cấu kiểm soát
+@Lĩnh vực: toán & tin
+#phân cấp điều khiển

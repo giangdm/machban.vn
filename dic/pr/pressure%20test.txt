@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thí nghiệm ép
+#sự thí nghiệm nén
+@Lĩnh vực: xây dựng
+#sự thử áp lực
+@Lĩnh vực: cơ khí & công trình
+#sự thử áp suất
+#sự thử chịu áp suất

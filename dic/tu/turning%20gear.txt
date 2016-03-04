@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bánh xoay
+@Lĩnh vực: vật lý
+#cấu quay (động cơ)

@@ -1,0 +1,2 @@
+﻿@Marginal income tax rate
+#(Econ) Mức thuế suất cận biên đánh vào thu nhập.

@@ -1,0 +1,2 @@
+﻿@creeping display
+#(Tech) chạy ngang trên màn hình

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểu dao động
+@Lĩnh vực: toán & tin
+#dạng chấn động
+@Lĩnh vực: vật lý
+#dạng dao động
+@Lĩnh vực: xây dựng
+#dạng thức dao động

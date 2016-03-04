@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#trưởng ban lập trình
+#trưởng phòng lập trình
+#trưởng phòng, trưởng ban lập trình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#người quản lý lập trình

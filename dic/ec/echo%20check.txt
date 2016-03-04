@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểm tra bằng phản hồi
+#kiểm tra hồi âm
+#kiểm tra kiểu phản hồi
+#sự kiểm tra tiếng dội

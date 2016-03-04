@@ -1,0 +1,2 @@
+﻿@extension subscriber
+#(Tech) người thuê bao đường dây

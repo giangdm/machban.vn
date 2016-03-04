@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#băng nước muối
+#hệ làm nguội
+@Lĩnh vực: điện lạnh
+#hệ thống lạnh nước muối

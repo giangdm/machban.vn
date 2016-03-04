@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự tiệt trùng bằng hóa học
+@Chuyên ngành kỹ thuật
+#sự diệt khuẩn hóa học
+@Lĩnh vực: y học
+#khử khuẩn bằng hóa học

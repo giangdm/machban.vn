@@ -1,0 +1,14 @@
+﻿@harmonic analysis [ha:'mɔnikə'næləsis]
+*danh từ
+# (toán học) sự phân tích hàm điều hoà
+@Chuyên ngành kỹ thuật
+#giải tích điều hòa
+#giải tích Fourier
+#phân tích điều hòa
+@Lĩnh vực: điện
+#phân tích ra sóng
+@Lĩnh vực: điện lạnh
+#phân tích sóng hài
+@Lĩnh vực: điện tử & viễn thông
+#sự phân tích điều hòa
+#sự phân tích hài hòa

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#ngăn làm lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giá đựng được làm lạnh

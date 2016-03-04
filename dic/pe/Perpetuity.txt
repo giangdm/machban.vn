@@ -1,0 +1,18 @@
+﻿@Perpetuity
+#(Econ) Khoản chi trả vĩnh cửu.
+: Xem ANNUITY.
+<!-- more -->
+@perpetuity /,pə:pi'tju:iti/
+*danh từ
+#tính chất vĩnh viễn
+=in (to, for) perpetuity: mãi mãi, vĩnh viễn
+#vật sở hữu vĩnh viễn; địa vị vĩnh viễn
+#lợi tức hưởng suốt đời
+@Chuyên ngành kinh tế
+#lợi tức hưởng suốt đời
+#niên kim vĩnh cửu
+#niên kim vĩnh viễn
+#tài sản vĩnh viễn
+<!-- more -->
+@perpetuity
+#(toán kinh tế) quyền sở hữu liên tục

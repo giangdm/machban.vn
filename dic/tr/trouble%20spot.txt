@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chỗ dễ bị hỏng hóc
+#chỗ dễ bị trục trặc (của máy móc)
+#chỗ dễ hỏng hóc trục trặc

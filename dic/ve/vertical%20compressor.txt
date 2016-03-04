@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#máy nén đứng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy nén đứng

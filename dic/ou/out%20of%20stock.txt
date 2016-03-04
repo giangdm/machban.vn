@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hàng đã bán hết
+#hết tồn kho
+#không còn hàng

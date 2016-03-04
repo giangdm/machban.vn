@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp đọng muối
+@Lĩnh vực: điện
+#mảnh bám thể muối (trên mặt bầu cách điện)
+@Lĩnh vực: cơ khí & công trình
+#mỏ muối
+@Lĩnh vực: hóa học & vật liệu
+#tầng muối

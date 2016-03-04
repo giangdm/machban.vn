@@ -1,0 +1,6 @@
+﻿@Extraneous information
+#(Econ) Thông tin không liên quan
+: Những thông tin ban đầu (có thể là ước lưọng về tham số trước đó) được kết hợp với thông tin mẫu  với mục đích suy luận thống kê hay ước tính tham số trong phân tích hồi quy thường để cải thiện dự báo hay khắc phục những vấn đề như ĐA CỘNG TUYẾN TÍNH.
+@Chuyên ngành kinh tế
+#thông tin không liên quan
+#thông tin không liên quan (để dự đoán tốt hơn...)

@@ -1,0 +1,2 @@
+﻿@database processor
+#(Tech) bộ xử lý kho dữ liệu

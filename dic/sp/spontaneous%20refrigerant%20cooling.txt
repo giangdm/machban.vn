@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#làm lạnh môi chất (do giãn nở) tự phát
+#sự làm lạnh môi chất (do dãn nở) tự phát

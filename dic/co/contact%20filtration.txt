@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#lọc qua lớp hấp thụ
+#lọc tiếp xúc
+@Lĩnh vực: xây dựng
+#sự lọc kiểu tiếp xúc

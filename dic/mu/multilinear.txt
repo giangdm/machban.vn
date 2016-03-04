@@ -1,0 +1,5 @@
+﻿@multilinear
+#(đại số) đa tuyến tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đa tuyến tính

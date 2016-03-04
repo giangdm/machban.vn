@@ -1,0 +1,8 @@
+﻿@disk drive
+#(Tech) bộ quay đĩa (từ), ổ đĩa
+@Chuyên ngành kinh tế
+#ổ đĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ổ đĩa
+#ổ đĩa từ

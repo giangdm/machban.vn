@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hàng loạt
+#sự phân phối đại quy mô
+@Chuyên ngành kỹ thuật
+#sự phân bố khối lượng
+@Lĩnh vực: vật lý
+#khối lượng phân bố

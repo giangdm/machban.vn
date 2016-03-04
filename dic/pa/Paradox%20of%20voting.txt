@@ -1,0 +1,3 @@
+﻿@Paradox of voting
+#(Econ) Nghịch lý về bỏ phiếu.
+: Khả năng hệ thống quy tắc đa số đơn giản có thể không đưa ra một sự lựa chọn rõ ràng giữa nhiều giải pháp.

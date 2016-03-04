@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#công tắc ngắt
+@Lĩnh vực: toán & tin
+#công tắc đóng thường
+@Lĩnh vực: điện
+#tiếp xúc để ngắt
+#tiếp xúc đóng bình thường
+#tiếp xúc nghỉ

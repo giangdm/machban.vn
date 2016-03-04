@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#khí nhiệt độ thấp hóa lỏng
+@Lĩnh vực: điện lạnh
+#khí cryo lỏng
+@Chuyên ngành kỹ thuật
+#khí nhiệt độ thấp hóa lỏng
+@Lĩnh vực: điện lạnh
+#khí cryo lỏng

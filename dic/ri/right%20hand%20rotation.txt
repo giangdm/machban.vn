@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#chiều quay bên phải (theo chiều kim đồng hồ)
+#hướng quay phải

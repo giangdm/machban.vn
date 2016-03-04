@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#định ước về sửa đổi
+#giao thức chữa lỗi
+#giao thức sửa lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#định ước về sửa đổi
+#giao thức chữa lỗi
+#giao thức sửa lỗi

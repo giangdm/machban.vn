@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#ống thông gió
+#ống thông hơi
+#ống thông khí
+@Lĩnh vực: xây dựng
+#ống đứng thông gió phụ
+#ống thông hơi chính

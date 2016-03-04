@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giá đỡ thử nghiệm
+@Lĩnh vực: điện
+#giá thử (công tơ, rơle...)
+#giá thử nghiệm (thiết bị)

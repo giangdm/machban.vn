@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chất hàng phân nhóm
+#đơn vị lượng tải
+#sự chất hàng hóa thành đơn vị tiêu chuẩn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tải trọng riêng

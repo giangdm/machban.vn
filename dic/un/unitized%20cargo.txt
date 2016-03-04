@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hàng chở đơn vị hóa
+#hàng chở gom thành đơn vị tiêu chuẩn
+#hàng được quy cách hóa

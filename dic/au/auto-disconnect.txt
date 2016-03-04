@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ngắt tự động
+@Lĩnh vực: điện
+#ngắt mạch tự động

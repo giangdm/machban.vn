@@ -1,0 +1,2 @@
+﻿@ctrl
+#(vt của control) điều khiển

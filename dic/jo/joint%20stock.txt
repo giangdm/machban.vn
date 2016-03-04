@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#cổ phần liên hợp
+#vốn chung
+#vốn của hội
+#vốn hợp tư
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#vốn của công ty
+#vốn góp chung

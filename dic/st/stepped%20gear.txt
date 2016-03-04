@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bánh răng bậc tháp
+@Lĩnh vực: hóa học & vật liệu
+#bánh răng phân tầng
+@Lĩnh vực: cơ khí & công trình
+#khối bánh răng bậc tháp

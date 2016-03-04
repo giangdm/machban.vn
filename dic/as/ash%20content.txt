@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#độ tro
+#hàm lượng tro
+#lượng chứa tro
+@Chuyên ngành kỹ thuật
+#độ tro
+#hàm lượng tro
+#lượng chứa tro

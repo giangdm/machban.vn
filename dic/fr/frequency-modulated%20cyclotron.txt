@@ -1,0 +1,2 @@
+﻿@frequency-modulated cyclotron
+#(Tech) bộ gia tốc quay tròn biến điệu tần số

@@ -1,0 +1,3 @@
+﻿@Implementation lag
+#(Econ) Độ trễ thực hiện.
+: Thời gian cần có để thực thi CHÍNH SÁCH TIỀN TỆ, và còn được gọi là độ trễ bên trong.

@@ -1,0 +1,2 @@
+﻿@chained access
+#(Tech) truy cập nối kết

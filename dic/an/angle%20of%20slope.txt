@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dốc
+#góc bờ dốc
+#góc dốc
+#góc mái dốc
+#góc nghiêng
+@Lĩnh vực: giao thông & vận tải
+#góc nghiêng mặt dốc
+@Lĩnh vực: xây dựng
+#góc ta luy
+#góc taluy

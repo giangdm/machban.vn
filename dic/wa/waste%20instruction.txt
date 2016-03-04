@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lệnh trống
+@Lĩnh vực: toán & tin
+#lệnh bỏ qua

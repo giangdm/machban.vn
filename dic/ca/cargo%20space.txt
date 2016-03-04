@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dung tích hàng hóa
+#khoang hàng hóa
+@Lĩnh vực: ô tô
+#khoang chở hàng
+@Lĩnh vực: giao thông & vận tải
+#khoang hàng (xe tải)

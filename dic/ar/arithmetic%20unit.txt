@@ -1,0 +1,9 @@
+﻿@arithmetic unit
+#(Tech) bộ phận số học
+@Chuyên ngành kinh tế
+#đơn vị số học
+@Chuyên ngành kỹ thuật
+#bộ số học
+@Lĩnh vực: toán & tin
+#đơn vị số học
+#khối số học

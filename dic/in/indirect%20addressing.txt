@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lập địa chỉ gián tiếp
+#lập địa chỉ tạm hoãn
+@Lĩnh vực: xây dựng
+#đánh địa chỉ gián tiếp

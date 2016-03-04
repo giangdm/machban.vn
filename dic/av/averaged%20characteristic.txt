@@ -1,0 +1,2 @@
+﻿@averaged characteristic
+#(Tech) đặc tính trung bình

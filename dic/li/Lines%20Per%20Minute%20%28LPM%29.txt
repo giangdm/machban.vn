@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#số dòng trong một phút
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dòng/ phút
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#số dòng trong một phút
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dòng/ phút

@@ -1,0 +1,5 @@
+﻿@Working capital ratio
+#(Econ) Tỷ số vốn lưu động.
+: Được tính bằng cách chia nợ ngắn hạn ch tài sản ngắn hạn.
+@Chuyên ngành kinh tế
+#tỉ suất vốn lưu động

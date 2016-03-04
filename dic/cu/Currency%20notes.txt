@@ -1,0 +1,6 @@
+﻿@Currency notes
+#(Econ) Tiền giấy
+: Về mặt lịch sử, tiền giấy là giấy bạc 1 bảng và 10 shilling do Bộ Tài chính Anh phát hành sau khi xảy ra cuộc chiến tranh vaod năm 1914 để bảo tồn số vàng trong kho và để đáp ứng nhu cầu về đồng tiền vàng hay mạ vàng của công chúng trong cơn hoảng loạn ban đầu.
+@Chuyên ngành kinh tế
+#giấy bạc tài chính
+#tiền tài chính

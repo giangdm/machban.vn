@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#máy dòng ngang
+#máy luồng ngang
+#máy thông lượng ngang

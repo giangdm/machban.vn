@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#mức, tỉ lệ, tốc độ, số lần chu chuyển (hàng tồn trữ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tỷ lệ quay vòng

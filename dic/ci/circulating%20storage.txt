@@ -1,0 +1,7 @@
+﻿@circulating storage
+#(Tech) bộ trữ xoay tròn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ chuyển dịch vòng
+#bộ nhớ luân chuyển
+#bộ nhớ xoay vòng

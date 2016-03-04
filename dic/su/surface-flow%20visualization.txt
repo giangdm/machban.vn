@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kỹ thuật hiển thị dòng chảy trên mặt (chất rắn)

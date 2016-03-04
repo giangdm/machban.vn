@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sợi chỉ số bậc thang
+#sợi chiết suất bậc thang
+#sợi quang chiết suất giảm dần
+#sợi quang chiết suất phân cấp
+@Lĩnh vực: điện tử & viễn thông
+#sợi quang chỉ số bước

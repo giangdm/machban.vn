@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#miền thời gian
+@Lĩnh vực: điện tử & viễn thông
+#miền thời gian (giải tích Fourier)

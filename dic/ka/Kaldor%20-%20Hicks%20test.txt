@@ -1,0 +1,3 @@
+﻿@Kaldor - Hicks test
+#(Econ) Kiểm định Kaldor - Hicks.
+: Kiểm định này được Kaldor và Hicks đưa ra trong các bài báo được in ở Tạp chí Kinh tế năm 1939. Xem COMPENSATION TESTS.

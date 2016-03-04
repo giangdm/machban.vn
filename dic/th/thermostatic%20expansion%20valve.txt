@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#van điều nhiệt
+#van giãn nở nhiệt
+#van phun sương
+#van tiết lưu nhiệt
+@Lĩnh vực: điện lạnh
+#van dãn nở nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#van phân phối tĩnh nhiệt

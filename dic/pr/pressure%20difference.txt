@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ chênh áp suất
+#sự chênh lệch áp suất
+@Lĩnh vực: điện
+#hiệu áp suất
+@Lĩnh vực: hóa học & vật liệu
+#hiệu số áp suất

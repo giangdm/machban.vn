@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phòng thực nghiệm tính toán
+#phòng trực nghiệm tính toán

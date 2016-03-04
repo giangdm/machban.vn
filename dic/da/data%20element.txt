@@ -1,0 +1,6 @@
+﻿@data element
+#(Tech) phần tử dữ liệu
+@Chuyên ngành kỹ thuật
+#mục dữ liệu
+#phần tử dữ liệu
+#yếu tố dữ liệu

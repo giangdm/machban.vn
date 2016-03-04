@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kho dụng cụ
+@Lĩnh vực: xây dựng
+#nhà chứa dụng cụ

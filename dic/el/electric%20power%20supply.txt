@@ -1,0 +1,16 @@
+﻿@electric power supply
+#(Tech) nguồn cung cấp điện lực
+@Chuyên ngành kỹ thuật
+#nguồn cấp điện
+#sự cung cấp điện
+@Lĩnh vực: toán & tin
+#sự cung cấp điện lực
+@Lĩnh vực: điện
+#việc cung cấp điện năng
+@Chuyên ngành kỹ thuật
+#nguồn cấp điện
+#sự cung cấp điện
+@Lĩnh vực: toán & tin
+#sự cung cấp điện lực
+@Lĩnh vực: điện
+#việc cung cấp điện năng

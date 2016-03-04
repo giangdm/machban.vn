@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#lượng nhiệt tổn thất
+@Lĩnh vực: điện
+#nhiệt thất thoát

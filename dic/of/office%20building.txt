@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#cao ốc văn phòng
+#tòa nhà văn phòng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cao ốc văn phòng
+@Lĩnh vực: xây dựng
+#nhà công sở
+#nhà văn phòng

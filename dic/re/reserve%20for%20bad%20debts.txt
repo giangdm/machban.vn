@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#dự trữ cho nợ khê
+#dự trữ cho nợ khó đòi
+#khoản dự trữ cho những khoản vay khó đòi

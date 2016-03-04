@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều chỉnh lưu lượng
+#van điều chỉnh dòng chảy
+#van điều chỉnh lưu lượng
+@Lĩnh vực: điện lạnh
+#van điều chỉnh dòng
+@Lĩnh vực: hóa học & vật liệu
+#van điểu khiển lưu lượng
+@Chuyên ngành kỹ thuật
+#bộ điều chỉnh lưu lượng
+#van điều chỉnh dòng chảy
+#van điều chỉnh lưu lượng
+@Lĩnh vực: điện lạnh
+#van điều chỉnh dòng
+@Lĩnh vực: hóa học & vật liệu
+#van điểu khiển lưu lượng

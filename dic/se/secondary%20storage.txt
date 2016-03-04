@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lưu trữ phụ
+#bộ nhớ phụ
+#bộ nhớ thứ cấp
+@Lĩnh vực: điện tử & viễn thông
+#bộ lưu trữ cấp hai
+@Lĩnh vực: toán & tin
+#bộ lưu trữ thứ cấp

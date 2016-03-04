@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#xí nghiệp thương mại
+@Chuyên ngành kỹ thuật
+#xí nghiệp kinh doanh

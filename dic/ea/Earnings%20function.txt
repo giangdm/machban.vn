@@ -1,0 +1,3 @@
+﻿@Earnings function
+#(Econ) Hàm thu nhập.
+: Mối quan hệ hàm số  giữa các mức thu nhập và các yếu tố quyết định chúng.

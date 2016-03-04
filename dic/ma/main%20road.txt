@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#đường giao thông chính
+@Chuyên ngành kỹ thuật
+#đường chính
+#đường huyết mạch
+#đường trục
+#đường trục chính
+@Lĩnh vực: giao thông & vận tải
+#đường bộ chính
+#đường ưu tiên

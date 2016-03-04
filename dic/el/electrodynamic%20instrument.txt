@@ -1,0 +1,10 @@
+﻿@electrodynamic instrument
+#(Tech) máy đo điện động lực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dụng cụ đo điện động
+#khí cụ đo điện động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dụng cụ đo điện động
+#khí cụ đo điện động

@@ -1,0 +1,24 @@
+﻿@Income
+#(Econ) Thu nhập
+: Số lượng tiền, hàng hoá hoặc dịch vụ do một cá nhân, hay công ty hay một nền kinh tế nhận được trong một khoảng thời gian nhất định.
+<!-- more -->
+@income /'inkəm/
+*danh từ
+#thu nhập, doanh thu, lợi tức
+=national income: thu nhập quốc dân
+=to live within one's income: sống trong phạm vi số tiền thu nhập
+=to live beyond one's income: sống quá phạm vi số tiền thu nhập, vung tay quá trán
+@Chuyên ngành kinh tế
+#lợi tức
+#thu nhập
+@Chuyên ngành kỹ thuật
+#doanh thu
+#lợi tức
+#lượng nước đến
+#lượng nước vào
+#thu nhập
+<!-- more -->
+@income
+#(toán kinh tế) thu nhập
+#annual i. thu nhập hàng năm
+#national i. thu nhập quốc dân

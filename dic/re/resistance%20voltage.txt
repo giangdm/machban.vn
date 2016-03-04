@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điện trở thuần
+@Lĩnh vực: điện lạnh
+#điện áp (trên) điện trở
+@Lĩnh vực: điện
+#điện áp điện trở

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ giới hạn tốc độ
+#bộ theo dõi tốc độ

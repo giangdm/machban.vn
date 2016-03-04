@@ -1,0 +1,9 @@
+﻿@Fourier analysis
+#(Tech) giải tích Fourier (Fuariê)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phân tích Fourier
+@Chuyên ngành kỹ thuật
+#phân tích điều hòa
+@Lĩnh vực: điện
+#sự phân tích fourier

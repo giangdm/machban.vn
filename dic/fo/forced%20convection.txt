@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự đối lưu cưỡng bức
+@Chuyên ngành kỹ thuật
+#đối lưu cưỡng bức
+#sự đối lưu cưỡng bức
+@Lĩnh vực: điện lạnh
+#đối lưu bắt buộc

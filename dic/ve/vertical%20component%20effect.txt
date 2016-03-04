@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu ứng ăng ten
+#sai số tĩnh điện
+@Lĩnh vực: điện lạnh
+#hiệu ứng thành phần thẳng đứng

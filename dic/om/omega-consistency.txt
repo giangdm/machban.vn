@@ -1,0 +1,2 @@
+﻿@omega-consistency
+#(logic học) tính Ω-phi mâu thuẫn

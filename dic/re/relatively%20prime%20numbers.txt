@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#số nguyên tố cùng nhau
+@Lĩnh vực: toán & tin
+#các số nguyên tố cùng nhau

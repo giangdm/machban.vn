@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bàn giao tiếp dự trữ
+#bàn giao tiếp giữ trước

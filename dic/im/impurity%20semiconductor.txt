@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bán dẫn tạp
+@Lĩnh vực: điện lạnh
+#chất bán dẫn tạp
+@Lĩnh vực: toán & tin
+#chất bán dẫn tạp chất

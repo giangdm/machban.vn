@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#bộ điều chỉnh (kiểu) khí nén
+@Lĩnh vực: điện lạnh
+#bộ điều khiển khí nén

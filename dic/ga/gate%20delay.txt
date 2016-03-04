@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#độ trễ do lan truyền
+#độ trễ qua cửa

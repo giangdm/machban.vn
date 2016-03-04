@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#băng chuyền đánh bóng
+#máy đánh bóng liên tục
+@Lĩnh vực: điện
+#sự vận hành không đổi
+#tín hiệu ra liên tục

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#họng gió
+#kênh quạt gió
+#kênh quạt gío

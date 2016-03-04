@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#độ bền lạnh
+#độ chịu lạnh
+@Chuyên ngành kỹ thuật
+#tính bền lạnh
+#tính chịu lạnh
+@Lĩnh vực: hóa học & vật liệu
+#chịu lạnh
+@Lĩnh vực: điện
+#điện trở nguội
+@Lĩnh vực: cơ khí & công trình
+#sức chịu lạnh

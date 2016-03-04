@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công suất phản kháng
+@Lĩnh vực: điện
+#công suất vô công

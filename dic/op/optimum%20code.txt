@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#mã số thích hợp nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mã tối ưu

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp lót đệm kín (khoan)
+@Lĩnh vực: điện lạnh
+#bộ chèn kín cổ trục
+@Lĩnh vực: hóa học & vật liệu
+#miếng đệm kín

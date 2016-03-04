@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự thao tác máy
+#sự vận hành của máy
+#thao tác máy

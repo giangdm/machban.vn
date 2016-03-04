@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giếng tròn
+@Lĩnh vực: toán & tin
+#trục tiết diện tròn

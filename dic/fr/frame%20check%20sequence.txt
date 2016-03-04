@@ -1,0 +1,5 @@
+﻿@frame check sequence
+#(Tech) trình tự kiểm mành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi kiểm tra khung

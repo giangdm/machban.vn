@@ -1,0 +1,5 @@
+﻿@Gold exchange standard
+#(Econ) Bản vị trao đổi bằng vàng.
+: Một dạng BẢN VỊ VÀNG, theo đó một nước neo giá trị đồng tiền của mình theo giá trị đồng tiền của một nước trung tâm.
+@Chuyên ngành kinh tế
+#chế độ bản vị hối đoái vàng

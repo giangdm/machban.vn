@@ -1,0 +1,7 @@
+﻿@frequency modulator
+#(Tech) bộ biến điệu tần số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ biến điệu tần số
+@Lĩnh vực: toán & tin
+#bộ điều chế tần số

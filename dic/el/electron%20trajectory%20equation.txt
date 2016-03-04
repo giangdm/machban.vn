@@ -1,0 +1,2 @@
+﻿@electron trajectory equation
+#(Tech) phương trình quỹ đạo điện tử

@@ -1,0 +1,2 @@
+﻿@answer tone
+#(Tech) báo âm, âm hiệu trả lời

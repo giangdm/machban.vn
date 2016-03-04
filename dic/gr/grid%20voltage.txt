@@ -1,0 +1,7 @@
+﻿@grid voltage
+#(Tech) điện thế lưới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện áp lưới
+@Lĩnh vực: điện
+#điện thế lưới

@@ -1,0 +1,18 @@
+﻿@feedback control
+#(Tech) điều khiển hồi tiếp
+@Chuyên ngành kỹ thuật
+#điều khiển hồi tiếp
+@Lĩnh vực: điện lạnh
+#điều khiển có phản hồi
+#điều khiển liên hệ ngược
+#điều kiển vòng kín
+@Lĩnh vực: toán & tin
+#sự điều khiển hồi tiếp
+@Chuyên ngành kỹ thuật
+#điều khiển hồi tiếp
+@Lĩnh vực: điện lạnh
+#điều khiển có phản hồi
+#điều khiển liên hệ ngược
+#điều kiển vòng kín
+@Lĩnh vực: toán & tin
+#sự điều khiển hồi tiếp

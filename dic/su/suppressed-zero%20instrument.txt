@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dụng cụ đo định cữ
+@Lĩnh vực: điện
+#dụng cụ nén không

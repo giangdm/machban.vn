@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ô nhiễm nhiệt
+@Chuyên ngành kỹ thuật
+#sự ô nhiễm nhiệt

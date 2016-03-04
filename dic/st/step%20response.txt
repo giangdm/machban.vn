@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đáp ứng bước nhảy
+#đáp ứng đơn vị
+#đáp ứng từng bước
+@Lĩnh vực: đo lường & điều khiển
+#phản hồi bước

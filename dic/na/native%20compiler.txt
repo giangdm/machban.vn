@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ biên dịch riêng
+#chương trình biên dịch riêng
+#trình biên dịch gốc

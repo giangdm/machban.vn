@@ -1,0 +1,3 @@
+﻿@Trigonometric functions
+#(Econ) Các hàm lượng giác.
+: Các hàm được định nghĩa bởi các tính chất trong một tam giác vuông bao gồm sin, cosin và tang.

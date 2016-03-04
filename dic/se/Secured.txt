@@ -1,0 +1,8 @@
+﻿@Secured
+#(Econ) Những khoản vay có bảo lãnh.
+: Xem FINANCE CAPITAL.
+@Chuyên ngành kỹ thuật
+#cố định
+#gia cố
+#kẹp chặt
+#tăng cường

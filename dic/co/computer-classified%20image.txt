@@ -1,0 +1,2 @@
+﻿@computer-classified image
+#(Tech) hình ảnh phân loại bằng máy điện toán

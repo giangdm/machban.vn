@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#sự giảm
+@Lĩnh vực: xây dựng
+#bớt (tốc độ)
+@Lĩnh vực: toán & tin
+#sự giảm, bớt (tốc độ)
+@Chuyên ngành kỹ thuật
+#sự giảm
+@Lĩnh vực: xây dựng
+#bớt (tốc độ)
+@Lĩnh vực: toán & tin
+#sự giảm, bớt (tốc độ)

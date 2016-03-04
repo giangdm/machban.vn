@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#bình đo độ dẫn điện
+@Lĩnh vực: điện
+#ngăn dẫn điện
+@Lĩnh vực: vật lý
+#pin đo độ dẫn điện

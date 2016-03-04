@@ -1,0 +1,2 @@
+﻿@Endogeneous consumption
+#(Econ) Tiêu dùng nội sinh.

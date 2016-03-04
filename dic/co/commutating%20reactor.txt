@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ điện kháng đảo chiều
+#bộ điện kháng đổi chiều

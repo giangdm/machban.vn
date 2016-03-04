@@ -1,0 +1,2 @@
+﻿@Subsistence agriculture
+#(Econ) Nông nghiệp tự cung cấp tư liệu.

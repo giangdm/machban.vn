@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa giảm tải
+@Lĩnh vực: vật lý
+#lỗ giảm tải
+#lỗ khoan giảm trọng lượng
+@Chuyên ngành kỹ thuật
+#cửa giảm tải
+@Lĩnh vực: vật lý
+#lỗ giảm tải
+#lỗ khoan giảm trọng lượng

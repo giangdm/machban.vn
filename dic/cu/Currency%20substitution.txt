@@ -1,0 +1,3 @@
+﻿@Currency substitution
+#(Econ) Sự thay thế tiền tệ
+: Là hình thức thay đổi các đồng tiền có thể chuyển đổi trong các đồng tiền tệ quốc tế với mục đích sinh lợi hay tránh sự tổn thất trong việc thay đổi giá trị TIỀN TỆ.

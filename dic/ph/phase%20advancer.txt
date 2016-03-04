@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ bù pha
+@Lĩnh vực: điện lạnh
+#máy bù pha
+@Lĩnh vực: điện
+#máy làm sớm pha

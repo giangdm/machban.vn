@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số phẩm chất
+@Lĩnh vực: điện lạnh
+#hệ số quá điện áp

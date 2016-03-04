@@ -1,0 +1,2 @@
+﻿@Alt (alternate) key
+#(Tech) phím đổi; phím lệnh thay đổi (thường dùng chung với phím khác và tùy qui định)

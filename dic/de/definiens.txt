@@ -1,0 +1,2 @@
+﻿@definiens
+#(logic học) biểu thức định nghĩa

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#cầu dao hai ngả
+@Lĩnh vực: điện
+#công tắc bật qua lại
+#công tắc hai tiếp điểm

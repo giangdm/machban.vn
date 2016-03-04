@@ -1,0 +1,4 @@
+﻿@data communications
+#(Tech) ngành truyền thông dữ liệu
+@Chuyên ngành kỹ thuật
+#kết nối dữ liệu

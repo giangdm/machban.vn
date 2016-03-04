@@ -1,0 +1,3 @@
+﻿@Lerner case
+#(Econ) Tình huống Lerner.
+: Tình huống do Lerner phân tích trong thuyết về thuế quan trong đó việc áp dụng một loại thuế quan vào một mặt hàng nhập khẩu có nhu cầu trong nước không co giãn theo giá thì kết quả sẽ dẫn tới cán cân thương mại tồi tệ hơn vì cầu đối với sản phẩm đó tăng lên.

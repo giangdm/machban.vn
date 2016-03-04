@@ -1,0 +1,8 @@
+﻿@floating-point number
+#(Tech) số với điểm phù động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số dấu chấm động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số dấu chấm động

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phủ chờm nhiệt độ
+#sự phủ chờm nhiệt độ

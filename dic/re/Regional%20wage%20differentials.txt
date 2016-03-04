@@ -1,0 +1,3 @@
+﻿@Regional wage differentials
+#(Econ) Những chênh lệch tiền lương giữa các khu vực.
+: Là những chênh lệch về mức lương trung bình của các nhóm công nhân được phân loại theo khu vực mà họ đang làm việc tại đó.

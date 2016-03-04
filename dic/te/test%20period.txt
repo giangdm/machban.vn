@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#chu kì thử
+#giai đoạn thử nghiệm
+#quy trình kiểm thử
+@Lĩnh vực: điện lạnh
+#chu kỳ thử nghiệm
+@Lĩnh vực: xây dựng
+#giai đoạn thử

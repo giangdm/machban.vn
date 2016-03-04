@@ -1,0 +1,8 @@
+﻿@Lorenz curve
+#(Econ) Đường Lorenz
+: Một đồ thị dùng để tính mức độ bất bình đẳng.
+@Chuyên ngành kinh tế
+#đường cong Lorenz
+#khúc tuyến Lorez
+@Chuyên ngành kinh tế
+#đường cong

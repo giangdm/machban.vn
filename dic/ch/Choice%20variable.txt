@@ -1,0 +1,5 @@
+﻿@Choice variable
+#(Econ) Biến lựa chọn.
+: Một biến trong bài toán tối ưu mà giá trị của biến được chọn để tối ưu hoá giá trị của HÀM MỤC TIÊU. Các biến lựa chọn thường là biến độc lập của hàm mục tiêu.
+@Chuyên ngành kinh tế
+#biến lựa chọn

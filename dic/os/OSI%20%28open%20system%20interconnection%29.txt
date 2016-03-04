@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hợp mạng các hệ thống mở
+#kết nối hệ thống mở OSI
+#liên thông hệ mở
+#nối kết hệ mở

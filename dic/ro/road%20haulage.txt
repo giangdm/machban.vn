@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#vận tải bằng xe hàng
+#vận tải đường bộ
+#xe cam nhông
+@Chuyên ngành kỹ thuật
+#chuyên chở đường bộ
+#vận tải đường bộ

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phép biến đổi Fourier
+@Lĩnh vực: điện tử & viễn thông
+#biến quả Fourier

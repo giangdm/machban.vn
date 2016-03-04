@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sự tiêu nước
+@Lĩnh vực: xây dựng
+#sự thoát nước bề mặt
+#sự thoát nước trên mặt
+#tháo nước trên bề mặt
+@Lĩnh vực: cơ khí & công trình
+#sự tiêu nước mặt

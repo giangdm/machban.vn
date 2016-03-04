@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ đọc băng
+#bộ đọc băng đục lỗ
+#thiết bị đọc băng (đục lỗ)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống điện lực
+#nguồn cung cấp cao thế
+@Lĩnh vực: điện
+#mạng truyền thông điện lực

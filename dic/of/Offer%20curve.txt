@@ -1,0 +1,5 @@
+﻿@Offer curve
+#(Econ) Đường chào hàng.
+: Là một kỹ thuật đồ thị do EDGEWORTH tạo ra nhằm minh hoạ cho những tác nhân của cầu tương hỗ.
+@Chuyên ngành kinh tế
+#khúc tuyến báo giá

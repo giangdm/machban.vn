@@ -1,0 +1,4 @@
+﻿@cassette deck
+#(Tech) máy cátxét
+@Chuyên ngành kỹ thuật
+#ngăn chứa radio cassette

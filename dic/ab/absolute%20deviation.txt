@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ lệch tuyệt đối
+@Lĩnh vực: toán & tin
+#sự lệch tuyệt đối

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy quang phổ
+@Lĩnh vực: vật lý
+#quang phổ ký

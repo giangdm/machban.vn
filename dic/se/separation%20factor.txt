@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hệ số phân ly
+@Lĩnh vực: điện lạnh
+#thừa số tách

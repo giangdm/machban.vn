@@ -1,0 +1,5 @@
+﻿@algebraic expression
+#(Tech) biểu thức đại số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu thức đại số

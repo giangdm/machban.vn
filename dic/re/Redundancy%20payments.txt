@@ -1,0 +1,3 @@
+﻿@Redundancy payments
+#(Econ) Trợ cấp thôi việc.
+: Xem SEVERANCE PAY.

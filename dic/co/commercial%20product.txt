@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sản phẩm công nghiệp
+#sản phẩm hàng hóa
+#sản phẩm thương mại

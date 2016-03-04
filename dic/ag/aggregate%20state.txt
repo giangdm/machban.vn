@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#trạng thái hợp thể
+#trạng thái kết tụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trạng thái vật thể

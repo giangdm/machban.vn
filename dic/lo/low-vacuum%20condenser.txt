@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị ngưng chân không thấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bình ngưng chân không cao

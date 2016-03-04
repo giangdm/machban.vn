@@ -1,0 +1,2 @@
+﻿@amplitude clipper
+#(Tech) bộ hạn biên

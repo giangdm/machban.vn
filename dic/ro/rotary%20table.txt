@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bàn quay
+#bàn xoay
+#bể xoay
+#mâm quay
+#mâm xoay
+@Lĩnh vực: hóa học & vật liệu
+#bàn quay (khoan)
+#bàn quay (kỹ thuật khoan)
+#bàn rôto

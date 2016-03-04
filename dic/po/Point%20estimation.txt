@@ -1,0 +1,8 @@
+﻿@Point estimation
+#(Econ) Ước lượng điểm.
+: Sự ước lượng của giá trị thực tế của một thông số, khác biệt với ƯỚC LƯỢNG KHOẢNG CÁCH, nó bao gồm việc tính toán các khoảng tin cậy (thông thường) đối với giá trị thực của thông số.
+@Chuyên ngành kinh tế
+#ước lượng điểm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự ước lượng điểm

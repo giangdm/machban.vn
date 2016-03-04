@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thời gian chu kỳ nhớ
+#thời gian chu trình lưu trữ

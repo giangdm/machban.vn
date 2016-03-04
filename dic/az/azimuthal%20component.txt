@@ -1,0 +1,2 @@
+﻿@azimuthal component
+#(Tech) thành phần phương vị

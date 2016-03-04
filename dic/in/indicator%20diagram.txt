@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#biểu đồ chỉ đạo
+#biểu đồ chỉ thị
+#biểu đồ thi công
+#đèn báo rẽ
+#đồ thị chỉ thị
+@Lĩnh vực: toán & tin
+#chỉ đồ
+@Lĩnh vực: cơ khí & công trình
+#đồ thị thi công
+@Lĩnh vực: vật lý
+#giản đồ chỉ dẫn
+@Lĩnh vực: điện tử & viễn thông
+#sơ đồ chỉ dẫn
+@Lĩnh vực: điện lạnh
+#sơ đồ chỉ thị

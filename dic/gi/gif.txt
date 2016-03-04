@@ -1,0 +1,2 @@
+﻿@gif
+#Một khuôn thức tệp đồ họa màu ánh xạ bit dùng cho máy tính loại tương thích-IBM

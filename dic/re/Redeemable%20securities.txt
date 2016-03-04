@@ -1,0 +1,6 @@
+﻿@Redeemable securities
+#(Econ) Chứng khoán có thể hoàn trả.
+: Có thể là chứng khoán mà sẽ được trả lại - thanh toán - vào một ngày nhất định, hoặc có thể là chứng khoán mà có thể được trả lại tuỳ theo hợp đồng của người vay tiền.
+@Chuyên ngành kinh tế
+#chứng khoán được hoàn trả
+#chứng khoán hoàn trả

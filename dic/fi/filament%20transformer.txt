@@ -1,0 +1,8 @@
+﻿@filament transformer
+#(Tech) bộ biến áp sợi nung
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biến áp sợi đốt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biến áp sợi đốt

@@ -1,0 +1,8 @@
+﻿@Stabilization policy
+#(Econ) Chính sách ổn định hoá .
+@Chuyên ngành kinh tế
+#chính sách bình ổn
+#chính sách bình ổn vật giá
+#chính sách ổn định
+@Chuyên ngành kỹ thuật
+#chính sách ổn định

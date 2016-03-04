@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lệnh đa địa chỉ
+#mã đa địa chỉ
+@Lĩnh vực: điện tử & viễn thông
+#mã nhiều địa chỉ

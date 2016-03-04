@@ -1,0 +1,2 @@
+﻿@DMA interface
+#(Tech) giao diện DMA

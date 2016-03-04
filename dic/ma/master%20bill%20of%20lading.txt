@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tổng vận đơn (của công ty tàu biển)
+#tổng vận đơn của Công ty tàu biển
+#vận đơn tập hợp

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nguồn ắcqui
+#bộ pin
+@Lĩnh vực: vật lý
+#bộ nguồn pin (đèn chớp)

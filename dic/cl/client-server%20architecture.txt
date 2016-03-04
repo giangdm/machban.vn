@@ -1,0 +1,7 @@
+﻿@client-server architecture
+#(Tech) cấu trúc khách-chủ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cấu trúc máy khách-máy chủ
+#kiến trúc khách-chủ
+#kiến trúc khách-phục vụ

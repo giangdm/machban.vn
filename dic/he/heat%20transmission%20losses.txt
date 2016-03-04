@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tổn thất (khi) truyền nhiệt
+#tổn thất khi truyền nhiệt

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phễu thu
+@Lĩnh vực: hóa học & vật liệu
+#phễu tiếp nhận
+#phễu vào liệu

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số giãn nở do nhiệt
+#hệ số giãn nở nhiệt
+#hệ số giãn nở vì nhiệt

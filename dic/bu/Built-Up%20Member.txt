@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cấu kiện tổ hợp
+@Chuyên ngành kỹ thuật
+#cấu kiện lắp ghép
+@Lĩnh vực: xây dựng
+#bộ phận lắp ghép, cấu kiện lắp ghép

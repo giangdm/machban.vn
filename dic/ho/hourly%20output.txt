@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu lượng giờ
+#năng suất (trong một) giờ
+#năng suất giờ
+@Lĩnh vực: cơ khí & công trình
+#sản lượng giờ
+@Lĩnh vực: xây dựng
+#sự sản xuất theo giờ

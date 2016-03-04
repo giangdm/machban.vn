@@ -1,0 +1,3 @@
+﻿@Investment grants
+#(Econ) Trợ cấp đầu tư.
+: Các khoản tiền do chính phủ hay các tổ chức khác cung cấp nhằm mục đích khuyến khích các doanh nghiệp chi tiêu mua VÔND vật chất.

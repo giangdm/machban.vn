@@ -1,0 +1,10 @@
+﻿@Poverty trap
+#(Econ) Bẫy nghèo khổ.
+: Việc tồn tại của nhiều lợi ích KIỂM ĐỊNH BẰNG BIỆN PHÁP nói lên rằng người được trả lương thấp có thể đối đầu với một tỷ lệ thuế biên hiệu lực - tức là mức thuế đối với một đơn vị thu nhập thêm - vượt xa tỷ lệ 34% của thuế thu nhập và sự đóng góp bảo hiểm quốc gia đối với phần lớn người làm công ăn lương.
+@Chuyên ngành kinh tế
+#bẫy nghèo khó
+#cạm bẫy của cảnh nghèo khó
+<!-- more -->
+@poverty trap
+*danh từ
+#hoàn cảnh khó nâng cao được thu nhập, tình trạng không cải thiện được thu nhập (do bị phụ thuộc vào trợ cấp của nhà nước mà trợ cấp này lại giảm xuống khi tiền lương tăng lên)

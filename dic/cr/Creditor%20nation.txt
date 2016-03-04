@@ -1,0 +1,6 @@
+﻿@Creditor nation
+#(Econ) Nước chủ nợ.
+: Một nước được coi như một đơn vị, là chủ cho vay ròng hoặc nhà đầu tư ròng vào các nước khác bằng cách đó tích luỹ số khiếu nợ đối với các nước này.
+@Chuyên ngành kinh tế
+#nước cho vay
+#nước chủ nợ

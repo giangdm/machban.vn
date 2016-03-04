@@ -1,0 +1,3 @@
+﻿@Fiscal federalism
+#(Econ) Chế độ tài khoá theo mô hình liên bang.
+: Một hệ thống thuế và chi tiêu công cộng trong đó những khi khả năng thu nhập tăng và quyền kiểm soát chi tiêu được giao cho các cấp khác nhau trong một quốc gia, từ chính phủ đến các đơn vị nhỏ nhất ở chính quyền địa phương.

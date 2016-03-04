@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình điều khiển mạng từ xa
+@Lĩnh vực: điện tử & viễn thông
+#chương trình kiểm soát mạng từ xa

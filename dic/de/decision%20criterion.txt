@@ -1,0 +1,7 @@
+﻿@decision criterion
+#(Tech) chuẩn cứ để quyết định
+@Chuyên ngành kinh tế
+#tiêu chuẩn quyết định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tiêu chuẩn quyết định

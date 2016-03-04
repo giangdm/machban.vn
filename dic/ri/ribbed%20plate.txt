@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản có gờ
+#bản có sườn
+#tấm có gờ
+#thép bản có gân
+@Lĩnh vực: hóa học & vật liệu
+#tấm (kim loại) có gân tăng cứng

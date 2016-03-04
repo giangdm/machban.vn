@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#âm cực
+#catốt
+#đầu nối âm
+@Lĩnh vực: ô tô
+#cọc âm
+#đầu kẹp âm
+@Lĩnh vực: cơ khí & công trình
+#cọc âm cực
+@Lĩnh vực: toán & tin
+#cực âm
+@Lĩnh vực: điện lạnh
+#đầu âm
+@Lĩnh vực: xây dựng
+#mốc âm cực

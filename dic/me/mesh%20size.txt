@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#kích thước lỗ sàng
+#số hiệu sàng
+@Lĩnh vực: toán & tin
+#bước lưới
+#bước lưới, cỡ ô
+#cỡ ô
+@Lĩnh vực: cơ khí & công trình
+#kích cỡ của mắt lưới sàng

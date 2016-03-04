@@ -1,0 +1,8 @@
+﻿@access port
+#(Tech) bến truy cập
+@Chuyên ngành kỹ thuật
+#cổng tiếp cận
+#cổng truy nhập
+#lỗ nạp
+@Lĩnh vực: điện tử & viễn thông
+#cổng dữ liệu

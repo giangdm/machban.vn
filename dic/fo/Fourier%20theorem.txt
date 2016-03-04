@@ -1,0 +1,5 @@
+﻿@Fourier theorem
+#(Tech) định lý Fourier
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#định lý Fourier

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phương pháp thông gió
+#phương pháp thông khí
+#phương pháp xả khí

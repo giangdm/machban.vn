@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chất lấy ra từ thiết bị ngưng tụ
+#lượng nhiệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tải nhiệt bình ngưng

@@ -1,0 +1,5 @@
+﻿@Money price
+#(Econ) Giá của tiền.
+: Xem PRICE.
+@Chuyên ngành kinh tế
+#giá bằng tiền

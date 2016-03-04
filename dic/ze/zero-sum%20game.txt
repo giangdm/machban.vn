@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#trò chơi được mất ngang nhau
+#trò chơi tổng bằng không
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trò chơi (có) tổng không

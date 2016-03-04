@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thí nghiệm cắt
+#sự thí nghiệm trượt
+@Lĩnh vực: xây dựng
+#phép kiểm tra độ biến dạng
+#thí nghiệm cắt

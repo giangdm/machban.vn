@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#căn nguyên
+#điểm bắt đầu
+#điểm gốc
+#điểm mốc
+#điểm xuất phát
+#gốc
+#khởi điểm
+@Lĩnh vực: toán & tin
+#điểm khởi đầu
+#xuất phát điểm

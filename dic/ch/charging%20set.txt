@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nạp điện
+#nạp điện
+@Lĩnh vực: xây dựng
+#bộ máy
+@Lĩnh vực: toán & tin
+#bộ máy nạp điện

@@ -1,0 +1,10 @@
+﻿@access mode
+#(Tech) kiểu truy cập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ truy cập
+#chế độ truy xuất
+#phương thức truy cập
+#phương thức truy xuất
+@Lĩnh vực: điện tử & viễn thông
+#chế độ truy nhập

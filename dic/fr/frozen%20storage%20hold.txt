@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#khoang chứa các sản phẩm đông lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng bảo quản (lạnh) đông
+#kho bảo quản (lạnh) đông
+#kho bảo quản đông

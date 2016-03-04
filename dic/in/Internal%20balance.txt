@@ -1,0 +1,4 @@
+﻿@Internal balance
+#(Econ) Cân bằng bên trong
+@Chuyên ngành kinh tế
+#sự cân bằng đối nội

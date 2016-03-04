@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo áp suất
+@Lĩnh vực: đo lường & điều khiển
+#áp kế quá áp

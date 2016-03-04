@@ -1,0 +1,5 @@
+﻿@context-sensitive help
+#(Tech) giúp đỡ giải thích bén nhạy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trợ giúp theo ngữ cảnh

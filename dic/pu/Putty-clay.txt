@@ -1,0 +1,5 @@
+﻿@Putty-clay
+#(Econ) Mô hình putty-clay; Mô hình mát tít - đất sét.
+: Một hình thái của HÀN SẢN XUẤT cho phép thay vốn bằng lao động và ngược lại trước khi đầu tư thức tế được thực hiện, nhưng một khi máy móc đã được lắp đặt thì tỷ số Vốn/ lao động không thể thay đổi được.
+@Chuyên ngành kinh tế
+#thay đổi tỷ lệ vốn-lao động

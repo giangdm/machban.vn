@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tỉ suất hàng bán
+#tỉ suất hàng trữ

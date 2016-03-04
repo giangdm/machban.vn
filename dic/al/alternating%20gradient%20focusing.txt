@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hội tụ kiểu građien thay đổi
+#tụ điện kiểu građien xoay chiều

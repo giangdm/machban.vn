@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện trở cảm biến
+#mạch sun dụng cụ đo

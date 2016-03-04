@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ đo
+@Lĩnh vực: đo lường & điều khiển
+#bộ chỉ báo mặt số

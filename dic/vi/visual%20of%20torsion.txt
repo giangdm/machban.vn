@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#góc xoắn
+@Lĩnh vực: xây dựng
+#góc vặn
+@Lĩnh vực: toán & tin
+#góc xoắn, góc vặn

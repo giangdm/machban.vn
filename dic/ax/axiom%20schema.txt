@@ -1,0 +1,5 @@
+﻿@axiom schema
+#(Tech) sơ đồ tiên đề/công lý [ĐL]
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sơ đồ tiên đề

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#xe tải hạng nhẹ
+@Lĩnh vực: ô tô
+#xe tải nhẻ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#xe tải hạng nhẹ
+@Lĩnh vực: ô tô
+#xe tải nhẻ

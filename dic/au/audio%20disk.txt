@@ -1,0 +1,2 @@
+﻿@audio disk
+#(Tech) đĩa âm thanh

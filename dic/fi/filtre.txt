@@ -1,0 +1,3 @@
+﻿@filtre
+*danh từ
+#bộ lọc; cái lọc

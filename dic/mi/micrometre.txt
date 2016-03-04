@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#micromet
+@Lĩnh vực: y học
+#micromet (một phần triệu mét)

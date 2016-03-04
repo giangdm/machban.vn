@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ biến điệu quang học
+#bộ điều biến quang
+@Lĩnh vực: toán & tin
+#bộ điều chế quang

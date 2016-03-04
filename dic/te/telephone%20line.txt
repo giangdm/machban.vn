@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đường dây điện thoại
+#đường điện thoại
+@Lĩnh vực: điện
+#cáp điện thoại
+@Lĩnh vực: điện lạnh
+#đuờng dây điện thoại

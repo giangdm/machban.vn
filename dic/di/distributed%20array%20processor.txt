@@ -1,0 +1,2 @@
+﻿@distributed array processor
+#(Tech) bộ xử lý mảng phân bố

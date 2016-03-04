@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#công tắc cố định
+#tiếp điểm tĩnh
+@Lĩnh vực: ô tô
+#vít đe
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#công tắc cố định
+#tiếp điểm tĩnh
+@Lĩnh vực: ô tô
+#vít đe

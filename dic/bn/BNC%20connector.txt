@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ nối NBC
+#bộ nối Neil-Concelman có ngạnh
+@Lĩnh vực: toán & tin
+#đầu nối BNC

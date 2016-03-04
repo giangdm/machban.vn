@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#định nghĩa xử lý liên kết ẩn
+#liên kết ẩn (định nghĩa tiến trình)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phản ứng có điều khiển
+@Lĩnh vực: điện tử & viễn thông
+#phản ứng điều khiển được

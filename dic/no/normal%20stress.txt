@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất pháp tuyến
+@Lĩnh vực: toán & tin
+#ứng suất chuẩn
+@Lĩnh vực: xây dựng
+#ứng suất pháp
+@Lĩnh vực: cơ khí & công trình
+#ứng suất pháp (tuyến)

@@ -1,0 +1,2 @@
+﻿@electron population
+#(Tech) quần thể điện tử

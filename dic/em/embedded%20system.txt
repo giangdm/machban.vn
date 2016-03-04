@@ -1,0 +1,12 @@
+﻿@embedded system
+#(Tech) hệ thống gài trong
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ lồng trong
+#hệ thống nhúng
+#máy tính nhúng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ lồng trong
+#hệ thống nhúng
+#máy tính nhúng

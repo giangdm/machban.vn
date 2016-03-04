@@ -1,0 +1,6 @@
+﻿@Credit control
+#(Econ) Kiểm soát tín dụng.
+: Là một cụm thuật ngữ chung chỉ một loạt các biện pháp do các tổ chức tiền tệ sử dụng để kiểm soát số lượng tiền do một nhóm hoặc do các tổ chức tài chính cho vay.
+@Chuyên ngành kinh tế
+#kiểm soát tín dụng
+#sự kiểm soát tín dụng

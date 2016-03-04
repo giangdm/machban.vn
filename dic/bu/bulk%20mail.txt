@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bưu phẩm vào kiện
+#sự gửi số nhiều (bưu phẩm qua đường bưu điện)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thư tín hàng loạt

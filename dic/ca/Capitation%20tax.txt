@@ -1,0 +1,5 @@
+﻿@Capitation tax
+#(Econ) Thuế thân
+: Xem POOL TAX.
+@Chuyên ngành kinh tế
+#thuế thân

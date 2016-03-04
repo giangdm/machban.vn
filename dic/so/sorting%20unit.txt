@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phân loại
+#thiết bị phân loại
+@Lĩnh vực: xây dựng
+#cấu kiện chọn
+#cấu kiện phân loại
+#đơn vị phân loại

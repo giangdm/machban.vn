@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị in đầu cuối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy in đầu cuối

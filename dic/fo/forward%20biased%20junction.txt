@@ -1,0 +1,2 @@
+﻿@forward biased junction
+#(Tech) tiếp giáp có thiên áp thuận

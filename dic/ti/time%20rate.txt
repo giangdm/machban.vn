@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tiền công theo thời gian (chứ không theo sản phẩm)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#định mức thời gian
+@Lĩnh vực: hóa học & vật liệu
+#hệ số thời gian

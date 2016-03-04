@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#đương lượng
+#trọng lượng tương đương
+@Chuyên ngành kỹ thuật
+#đương lượng
+@Lĩnh vực: xây dựng
+#trọng lượng tương đương
+@Chuyên ngành kỹ thuật
+#đương lượng
+@Lĩnh vực: xây dựng
+#trọng lượng tương đương

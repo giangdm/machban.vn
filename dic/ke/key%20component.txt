@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#thành phần chính
+@Lĩnh vực: toán & tin
+#thân phần khóa
+@Chuyên ngành kỹ thuật
+#thành phần chính
+@Lĩnh vực: toán & tin
+#thân phần khóa

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#doanh số ngoại thương
+#khối lượng ngoại thương
+#kim ngạch ngoại thương

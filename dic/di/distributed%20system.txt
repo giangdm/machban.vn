@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ phân tán
+#phân hệ
+@Lĩnh vực: toán & tin
+#hệ phân bố
+#hệ thống điều phối
+#hệ thống phân tán

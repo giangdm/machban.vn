@@ -1,0 +1,8 @@
+﻿@Development area
+#(Econ) Vùng cần phát triển.
+: Các vùng ở Anh có nhiều hình thức hỗ trợ của chính phủ đối với công nghiệp.
+@Chuyên ngành kinh tế
+#khu (khuyến khích) phát triển
+#khu dãn dân
+@Chuyên ngành kỹ thuật
+#diện tích xây dựng

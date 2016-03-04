@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#áp suất chỉ ở manômet
+#áp suất dương
+@Chuyên ngành kỹ thuật
+#áp suất dư
+@Lĩnh vực: vật lý
+#áp lực dư
+@Chuyên ngành kỹ thuật
+#áp suất dư
+@Lĩnh vực: vật lý
+#áp lực dư

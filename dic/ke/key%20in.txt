@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#bấm phím
+#đánh máy
+#nhấn phím
+@Lĩnh vực: điện tử & viễn thông
+#bấm phím (số hiệu)
+@Lĩnh vực: toán & tin
+#nhập dữ liệu bằng phím
+#nhập liệu
+#nhập thông tin
+@Chuyên ngành kỹ thuật
+#bấm phím
+#đánh máy
+#nhấn phím
+@Lĩnh vực: điện tử & viễn thông
+#bấm phím (số hiệu)
+@Lĩnh vực: toán & tin
+#nhập dữ liệu bằng phím
+#nhập liệu
+#nhập thông tin

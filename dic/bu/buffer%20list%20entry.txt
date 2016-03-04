@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khoản mục danh sách bộ đệm
+#mục nhập danh sách bộ đệm
+@Lĩnh vực: điện tử & viễn thông
+#mục danh sách bộ đệm

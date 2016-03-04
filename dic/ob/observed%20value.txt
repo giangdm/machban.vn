@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#đích đo
+#đo hạng
+#giá trị đo
+#giá trị quan sát
+#giá trị thử nghiệm
+@Lĩnh vực: toán & tin
+#giá trị được quan sát
+@Lĩnh vực: cơ khí & công trình
+#giá trị quan trắc

@@ -1,0 +1,46 @@
+﻿@Conversion
+#(Econ) Sự chuyển đổi
+: Tập quán phát hành CHỨNG KHOÁN và CỔ PHIẾU mới để thay thế cái cũ.
+<!-- more -->
+@conversion
+#(Tech) đổi, chuyển hoán/đổi, biến đổi
+@Chuyên ngành kinh tế
+#hoán đổi
+#hối đoái
+#quy đổi
+#sự chuyển đổi
+#sự chuyển vị
+#sự đảo
+#sự đường hóa
+#sự hoán vị
+#sự lạm chuyển
+#sự thủy phân
+#sự trao đổi
+@Chuyên ngành kỹ thuật
+#biến đổi
+#chương trình chuyển đổi
+#chuyển hóa
+#sự biến đổi
+#sự chuyển
+#sự chuyển đổi
+@Lĩnh vực: hóa học & vật liệu
+#chuyển đổi
+#chuyển hoán
+#dầu chuyển đổi
+#dầu chuyển hóa
+@Lĩnh vực: toán & tin
+#hoán chuyển
+#phép chuyển hóa
+@Lĩnh vực: y học
+#sự chuyển dạng
+@Lĩnh vực: cơ khí & công trình
+#sự chuyển hóa
+#sự quy đổi
+@Lĩnh vực: vật lý
+#thiết bị biến hoán
+<!-- more -->
+@conversion
+#sự biến đổi; sự chuyển; phép chuyển hoá
+#code ự biển đổi mã
+#data c. sự biển đổi các số liệu
+#digital c. sự biển đổi chữ số

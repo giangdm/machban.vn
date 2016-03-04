@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phòng ổn định nhiệt
+@Lĩnh vực: điện lạnh
+#phòng giữ nhiệt

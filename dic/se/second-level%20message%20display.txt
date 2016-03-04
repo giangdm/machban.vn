@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hiển thị thông báo cấp hai
+#màn hình thông báo cấp hai

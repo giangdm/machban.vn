@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#công nghệ xử lý tiếng nói
+#kỹ thuật xử lý tiếng nói

@@ -1,0 +1,3 @@
+﻿@Cost - effectiveness analysis
+#(Econ) Phân tích chi phí - hiệu quả
+: Gần giống như Phân tích chi phí - lợi ích nhưng khác ở chỗ nó đòi hỏi một yêu cầu khác. Đó là, nếu xét về một mục tiêu, làm cách nào để đạt được mục tiêu đó ở mức chi phí thấp nhất.

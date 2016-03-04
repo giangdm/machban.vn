@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tỷ lệ lỗi còn lại (sau khi đã sửa lỗi)
+#tỷ lệ lỗi dư

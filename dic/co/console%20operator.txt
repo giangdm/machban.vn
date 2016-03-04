@@ -1,0 +1,2 @@
+﻿@console operator
+#(Tech) điều hành viên bàn kiểm soát

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp định danh
+#điện áp làm việc
+@Lĩnh vực: điện lạnh
+#định mức điện áp

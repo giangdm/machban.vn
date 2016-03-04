@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#cảng đăng ký
+#cảng đăng ký (cảng nơi tàu đăng ký)
+@Chuyên ngành kỹ thuật
+#cảng đăng ký
+@Lĩnh vực: giao thông & vận tải
+#cảng đăng kiểm

@@ -1,0 +1,2 @@
+﻿@definition of image
+#(Tech) độ phân tích của hình

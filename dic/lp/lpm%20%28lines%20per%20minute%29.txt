@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số dòng trong một phút
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dòng trên phút
+#dòng/phút

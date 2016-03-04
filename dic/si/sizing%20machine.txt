@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#máy định cỡ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+#máy hồ sợi

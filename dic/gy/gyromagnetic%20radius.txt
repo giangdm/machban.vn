@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bán kính từ hồi chuyển
+@Lĩnh vực: điện lạnh
+#bán kính Larmor

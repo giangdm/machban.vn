@@ -1,0 +1,9 @@
+﻿@submodule
+#môđun con
+#superirreducible s. (đại số) môđun con hoàn toàn không khả quy
+@Chuyên ngành kỹ thuật
+#môđun con
+@Lĩnh vực: xây dựng
+#môđun phụ
+@Lĩnh vực: toán & tin
+#môđun ước số

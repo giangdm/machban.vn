@@ -1,0 +1,6 @@
+﻿@active channel
+#(Tech) kênh có nguồn, kênh hoạt động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đường kênh động năng
+#đường kênh hoạt

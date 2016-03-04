@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#ống cấp
+#ống cấp liệu
+#ống dẫn vào
+#ống dẫn xăng
+@Lĩnh vực: hóa học & vật liệu
+#ống nạp liệu
+#ống tiếp liệu
+@Lĩnh vực: xây dựng
+#ống tiếp
+@Chuyên ngành kỹ thuật
+#ống cấp
+#ống cấp liệu
+#ống dẫn vào
+#ống dẫn xăng
+@Lĩnh vực: hóa học & vật liệu
+#ống nạp liệu
+#ống tiếp liệu
+@Lĩnh vực: xây dựng
+#ống tiếp

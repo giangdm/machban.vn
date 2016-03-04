@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#biến tố còn lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương sai thặng dư

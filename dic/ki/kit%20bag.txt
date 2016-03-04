@@ -1,0 +1,9 @@
+﻿@kit bag
+*danh từ
+#túi quân trang, ba lô (của bộ đội)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#túi dụng cụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#túi dụng cụ

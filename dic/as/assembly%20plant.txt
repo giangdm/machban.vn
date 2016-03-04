@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#xưởng lắp ráp
+@Chuyên ngành kỹ thuật
+#xưởng ráp máy

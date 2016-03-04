@@ -1,0 +1,3 @@
+﻿@Factor proportion
+#(Econ) Tỷ lệ các yếu tố sản xuất.
+: Tỷ lệ để kết hợp các YẾU TỐ CỦA SẢN XUẤT.

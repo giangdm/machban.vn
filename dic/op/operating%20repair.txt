@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự sửa chữa thường kì
+@Lĩnh vực: toán & tin
+#sự sửa chữa thường kỳ
+@Lĩnh vực: cơ khí & công trình
+#sửa chữa thường kỳ

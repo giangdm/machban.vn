@@ -1,0 +1,5 @@
+﻿@Debt management
+#(Econ) Quản lý nợ.
+: Cụm thuật ngữ này được sử dụng thường liên quan đến công nợ, để chỉ các hoạt động của cơ quan cho vay nợ của NGÂN HÀNG  trung ương, thay mặt cho cơ quan vay nợ, để điều chỉnh quy mô và cơ cấu các khoản nợ chưa trả.
+@Chuyên ngành kinh tế
+#sự quản lý nợ

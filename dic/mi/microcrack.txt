@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nứt tế vi
+@Lĩnh vực: xây dựng
+#nứt nhỏ
+@Lĩnh vực: vật lý
+#vết vi nứt

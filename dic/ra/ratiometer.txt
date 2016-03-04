@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thước tỉ lệ
+@Lĩnh vực: điện
+#máy đo tỷ số
+@Lĩnh vực: xây dựng
+#thiết bị điện dùng để đo tỷ số (nước-xi măng)
+#thước lôga

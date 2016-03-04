@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt kế tự ghi nhiều điểm
+#máy ghi nhiệt độ nhiều điểm

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm đóng băng
+#điểm tan băng
+#nhiệt độ tan (nước) đá
+#nhiệt độ tan băng
+@Lĩnh vực: điện lạnh
+#điểm (tan) băng
+#điểm tan (nước) đá
+@Lĩnh vực: hóa học & vật liệu
+#điểm băng

@@ -1,0 +1,6 @@
+﻿@diode switch
+#(Tech) cái chuyển mạch bằng đèn hai cực
+@Chuyên ngành kỹ thuật
+#bộ chuyển mạch đi-ốt
+@Lĩnh vực: toán & tin
+#chuyển mạch diode

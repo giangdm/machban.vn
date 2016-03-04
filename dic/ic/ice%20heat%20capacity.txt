@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#năng suất nhiệt của (nước) đá
+#năng suất nhiệt của nước đá
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt dung của (nước) đá
+#nhiệt dung của đá

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy thăm dò nhiệt độ khí quyển
+#máy thám trắc nhiệt độ khí quyển

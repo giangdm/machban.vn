@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng phân phối chính
+#khung chính
+@Lĩnh vực: điện lạnh
+#bảng chuyển mạch chính

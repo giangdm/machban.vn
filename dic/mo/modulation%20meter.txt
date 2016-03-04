@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ đo điều biến của sóng
+@Lĩnh vực: toán & tin
+#máy đo điều chế
+@Lĩnh vực: điện lạnh
+#máy đo độ điều biến

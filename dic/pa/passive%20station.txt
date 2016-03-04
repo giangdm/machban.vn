@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đài thụ động
+@Lĩnh vực: toán & tin
+#trạm thụ động

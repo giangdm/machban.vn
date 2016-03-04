@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hướng vận tốc
+@Lĩnh vực: vật lý
+#phương vận tốc

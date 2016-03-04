@@ -1,0 +1,5 @@
+﻿@Currency control
+#(Econ) Kiểm soát tiền tệ
+: Là những kiểm soát về quyền hạn của NGÂN HÀNG TRUNG ƯƠNG hay cơ quan phát hành tiền tệ trong việc phát hành tiền (Xem CASH BASE).
+@Chuyên ngành kinh tế
+#sự kiểm soát tiền tệ

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#hệ số thử nghiệm khả năng thanh toán
+#tỉ lệ trắc nghiệm acid

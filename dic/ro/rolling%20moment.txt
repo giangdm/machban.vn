@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mômen nghiêng
+@Lĩnh vực: vật lý
+#mômen xoay

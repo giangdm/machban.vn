@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#CBR Hệ số chịu tải California
+@Lĩnh vực: xây dựng
+#tỷ lệ chịu tải Califoria

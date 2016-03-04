@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#giá dao
+#giá đỡ dao
+#ổ dao
+#trục gá dao
+@Lĩnh vực: xây dựng
+#giá kẹp dao diện
+@Lĩnh vực: toán & tin
+#giá kẹp dao tiện
+@Lĩnh vực: cơ khí & công trình
+#giá lắp dao

@@ -1,0 +1,10 @@
+﻿@petrol station
+*danh từ
+#trạm xăng dầu (bán xăng và các hàng hoá khác)
+@Chuyên ngành kinh tế
+#trạm xăng
+@Chuyên ngành kỹ thuật
+#trạm bán xăng dầu
+#trạm xăng dầu
+@Lĩnh vực: xây dựng
+#cột bơm xăng

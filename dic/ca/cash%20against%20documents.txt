@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giao giấy trả tiền (mặt)
+#sự thanh toán (bằng tiền mặt) khi nhận chứng từ
+#trả tiền mặt khi giao chứng từ

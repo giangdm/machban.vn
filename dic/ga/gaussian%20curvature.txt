@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ cong toàn phần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ cong Gauss
+#độ cong Gauxơ

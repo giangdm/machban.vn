@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chỉ số nghe rõ
+#chỉ số rành mạch

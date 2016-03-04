@@ -1,0 +1,3 @@
+﻿@awacs
+*(viết tắt)
+#hệ thống báo và điều khiển trên không (Airborne Warning and Control System)

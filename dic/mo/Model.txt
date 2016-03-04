@@ -1,0 +1,59 @@
+﻿@Model
+#(Econ) Mô hình
+: LA một khuông mẫu chính quy hoặc không chính quy của phép phân tích nhằm rút ra tù những hiện tượng phức tạp của thế giới thực tại những đặc điểm của một hệ thống kinh tế có ý nghĩa quan trọng trong việc giúp nắm giữ được những mối quan hệ về hành vi, thể chế và kỹ thuật là nền tẳng của hệ thống đó.'
+<!-- more -->
+@model /moud/
+*danh từ
+#kiểu, mẫu, mô hình
+=working model: mô hình máy chạy được
+#(nghĩa bóng) người làm gương, người gương mẫu
+=a model of industry: một người gương mẫu về đức tính cần cù
+#(thông tục) người giống hệt; vật giống hệt
+=a peefect model of someone: người giống hệt ai
+#người làm kiểu, vật làm kiểu (để vẽ, nặn tượng)
+#người đàn bà mặc quần áo mẫu (cho khách xem); quần áo mặc làm mẫu
+#vật mẫu
+*tính từ
+#mẫu mực, gương mẫu
+=a model wife: người vợ mẫu mực
+*động từ
+#làm mẫu, nặn kiểu, vẽ kiểu, làm mô hình, đắp khuôn
+=to model a man's head in clay: làm mô hình đầu người bằng đất sét
+#(: after,  on,  upon) làm theo, làm gương, bắt chước
+=to model oneself on sowmone: làm theo ai, theo gương ai, bắt chước ai
+#làm nghề mặc quần áo làm nẫu; mặc làm mẫu
+@Chuyên ngành kinh tế
+#kiểu
+#kiểu (chế phẩm máy móc)
+#mô hình
+#mô hình thiết kế
+#mô hình thu nhỏ
+#mô thức
+#người mẫu quảng cáo
+#người mẫu thời trang
+@Chuyên ngành kỹ thuật
+#bản mẫu
+#cách thức
+#chế độ
+#dưỡng
+#hình mẫu
+#khuôn mẫu
+#kiểu
+#kiểu mẫu
+#mẫu
+#mô hình
+#môđen
+#vật làm mẫu
+<!-- more -->
+@model
+#mô hình; hình mẫu
+#m. of calculation sơ đồ tính
+#m. of economy mô hình kinh tế
+#deformable m. mô hình biến dạng được
+#experomental m. (máy tính) mẫu thí nghiệm
+#geometric(al) m. (máy tính) mô hình hình học
+#iconic m. mô hình lặp lại đúng đối tượng
+#pilot m. mô hình thí nghiệm
+#production m. (toán kinh tế) mô hình sản xuất
+#table m. (máy tính) mô hình để bàn
+#urn m. (thống kê) mô hình bình

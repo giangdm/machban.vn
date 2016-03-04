@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm tới hạn
+#giới hạn chảy
+#giới hạn chảy quy ước
+#giới hạn đàn hồi
+#giới hạn rão
+#ứng suất chảy
+@Lĩnh vực: xây dựng
+#cường độ chảy

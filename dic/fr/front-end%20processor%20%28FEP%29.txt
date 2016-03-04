@@ -1,0 +1,8 @@
+﻿@front-end processor (FEP)
+#(Tech) bộ xử lý đầu trước; chương trình xử lý đầu trước, chương trình tiền xử lý
+@Chuyên ngành kỹ thuật
+#máy tính phụ trợ
+@Lĩnh vực: toán & tin
+#bộ xử lý trung gian
+@Chuyên ngành kỹ thuật
+#bộ xử lý phía trước

@@ -1,0 +1,5 @@
+﻿@cyrix
+#Tên một hãng sản xuất các chip máy tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hãng Cyrix

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chi phí du lịch
+#công tác phí
+#phí di chuyển
+#phí đi công tác
+#phí tàu xe (đi đường)
+@Chuyên ngành kỹ thuật
+#chi phí đi lại

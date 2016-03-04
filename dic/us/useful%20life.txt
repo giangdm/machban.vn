@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#niên hạn hữu dụng
+#tuổi thọ có ích
+@Chuyên ngành kỹ thuật
+#thời hạn sử dụng
+#tuổi thọ
+@Lĩnh vực: hóa học & vật liệu
+#tuổi thọ có ích

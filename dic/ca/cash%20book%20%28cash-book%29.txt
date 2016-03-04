@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sổ quỹ
+#sổ thu chi tiền mặt
+#sổ tiền mặt

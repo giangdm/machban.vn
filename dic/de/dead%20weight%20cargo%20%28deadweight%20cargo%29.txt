@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#hàng hóa tính theo trọng lượng (như sắt, thép, quặng...)
+#hàng nặng

@@ -1,0 +1,6 @@
+﻿@Agglomeration economies
+#(Econ) Tính kinh tế nhờ kết khối.
+: Các khoản tiết kiệm chi phí trong một hoạt động kinh tế do các xí nghiệp hay các hoạt động gần vị trí của nhau.
+@Chuyên ngành kinh tế
+#lợi thế kinh tế (kết thành) cụm
+#lợi thế kinh tế của khu sản xuất tập trung

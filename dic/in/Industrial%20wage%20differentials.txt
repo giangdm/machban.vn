@@ -1,0 +1,3 @@
+﻿@Industrial wage differentials
+#(Econ) Chênh lệch về tiền công giữa các ngành.
+: Các chênh lệch về mức trả công trung bình của các nhóm công nhân được phân loại theo ngành mà họ làm việc.

@@ -1,0 +1,2 @@
+﻿@dynamic data exchange (ĐE)
+#(Tech) sự hoán đổi dữ liệu năng động

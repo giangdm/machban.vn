@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#giếng kiểm tra
+@Lĩnh vực: xây dựng
+#giếng khoan quan sát
+#giếng khoan quan trắc

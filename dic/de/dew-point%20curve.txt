@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#đường cong điểm sương
+@Lĩnh vực: xây dựng
+#đường phân nhiệt độ ngưng

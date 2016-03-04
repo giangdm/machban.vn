@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp bộ nhớ
+@Lĩnh vực: toán & tin
+#lớp lưu trữ

@@ -1,0 +1,7 @@
+﻿@Retail banking
+#(Econ) Nghiệp vụ ngân hàng bán lẻ.
+: Thuật ngữ này được áp dụng cho các nghiệp vụ ngân hàng chuyền thống do các NGÂN HÀNG THANH TOÁN BÙ TRỪ và ngày càng nhiều các ngân hàng khác tiến hành, thông qua hệ thống chi nhánh của họ tới mọi đối tượng.
+@Chuyên ngành kinh tế
+#hoạt động ngân hàng mạng lưới
+#nghiệp vụ ngân hàng mạng lưới
+#nghiệp vụ ngân hàng quy mô nhỏ

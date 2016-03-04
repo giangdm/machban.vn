@@ -1,0 +1,5 @@
+﻿@assignment operator
+#(Tech) toán tử gán, toán tử chỉ định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#toán tử gán

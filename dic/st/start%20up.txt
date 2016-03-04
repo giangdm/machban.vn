@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bắt đầu khởi động
+#khởi động xuất phát
+#mở máy

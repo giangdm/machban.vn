@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khối dầu
+#khối lượng dầu
+#khối tích dầu

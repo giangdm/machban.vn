@@ -1,0 +1,6 @@
+﻿@Non-wage labour costs
+#(Econ) Các chi phí lao động phi tiền lương.
+: Là những chi phí lao động mà doanh nghiệp phải trả ngoài mức thu nhập tính theo giờ.
+@Chuyên ngành kinh tế
+#chi phí lao động không phải lương
+#phí tổn lao động không thuộc tiền lương

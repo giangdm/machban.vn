@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra vật liệu về mặt vật lý
+@Lĩnh vực: xây dựng
+#thí nghiệm trên vật thực

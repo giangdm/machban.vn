@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#máy chuyển tròn
+#máy có bàn quay tròn
+#máy khoan quay
+#máy nén roto
+#máy nén rôto
+#máy uốn sóng
+@Lĩnh vực: cơ khí & công trình
+#máy cuốn mép
+#máy tạo hình quay (nhiều con lăn)
+@Lĩnh vực: điện lạnh
+#máy roto
+#máy rôto

@@ -1,0 +1,2 @@
+﻿@bulk delay
+#(Tech) trễ khối, đình trệ chung

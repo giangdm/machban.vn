@@ -1,0 +1,12 @@
+﻿@public property
+*thành ngữ public
+@Chuyên ngành kinh tế
+#công sản
+#của công
+#điều được mọi người biết
+#tài sản công
+#tài sản công cộng
+#tài sản công hữu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tài sản công cộng

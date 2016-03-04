@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tỷ lệ bán khống của thành viên
+#tỷ số bán non của hãng thành viên

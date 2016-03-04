@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tầng đệm
+@Lĩnh vực: điện tử & viễn thông
+#tầng điện phân ly
+@Lĩnh vực: điện lạnh
+#tầng khuếch đại đệm

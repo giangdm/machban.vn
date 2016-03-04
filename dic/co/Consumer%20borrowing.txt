@@ -1,0 +1,4 @@
+﻿@Consumer borrowing
+#(Econ) Khoản vay cho người tiêu dùng; Vay để tiêu dùng.
+@Chuyên ngành kinh tế
+#sự vay nợ của khách hàng

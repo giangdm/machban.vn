@@ -1,0 +1,12 @@
+﻿@weighbridge
+*danh từ
+#cân cầu đường (máy để cân có bệ gắn vào lòng đường, các xe cộ qua lại đỗ trên bệ đó để cân trọng lượng)
+@Chuyên ngành kinh tế
+#cần cẩu
+#cầu cân xe
+@Chuyên ngành kỹ thuật
+#cân ô tô
+@Lĩnh vực: ô tô
+#cầu cân xe
+@Lĩnh vực: hóa học & vật liệu
+#cầu thăng bằng

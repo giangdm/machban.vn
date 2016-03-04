@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chỉ số thứ nguyên
+@Lĩnh vực: xây dựng
+#số kích thước

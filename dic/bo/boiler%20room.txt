@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#phòng bán qua điện thoại
+@Chuyên ngành kỹ thuật
+#buồng đốt
+#gian nồi hơi
+#phân xưởng nồi hơi
+@Lĩnh vực: xây dựng
+#buồng nồi hơi
+@Lĩnh vực: điện lạnh
+#khoang nồi hơi
+#phòng nồi hơi

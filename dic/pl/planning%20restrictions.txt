@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giới hạn quy hoạch
+#phạm vi quy hoạch
+#ranh giới quy hoạch

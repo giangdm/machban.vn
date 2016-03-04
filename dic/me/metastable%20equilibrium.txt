@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cân bằng nửa bền
+@Lĩnh vực: vật lý
+#sự cân bằng nửa bền

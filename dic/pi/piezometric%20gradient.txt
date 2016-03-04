@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ dốc đo áp
+@Lĩnh vực: cơ khí & công trình
+#gradien đo áp

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#phẩm chất bình quân khá
+#phẩm chất thường
+#phẩm chất thương mại
+#phẩm chất trung bình khá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#chất lượng thông thường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#chất lượng thông thường

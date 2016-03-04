@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: môi trường
+#băng có lỗ
+#băng rây
+#băng sàng

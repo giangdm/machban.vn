@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đường bao mặt cắt ngang
+#đường viền mặt cắt ngang

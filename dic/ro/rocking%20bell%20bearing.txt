@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#gối tựa khớp cầu lắc
+#gối tựa kiểu khớp cầu lắc

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#làm ẩm
+@Lĩnh vực: xây dựng
+#khả năng làm ướt
+@Lĩnh vực: hóa học & vật liệu
+#khả năng thấm ướt

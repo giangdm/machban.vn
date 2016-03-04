@@ -1,0 +1,2 @@
+﻿@access rate = access speed
+#(Tech) tốc độ truy cập

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kênh thiên nhiên
+#kênh tự nhiên
+@Lĩnh vực: toán & tin
+#thiên nhiên

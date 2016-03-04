@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#phản lực điểm tựa
+#phản lực gối tựa
+#phản lực nền
+@Lĩnh vực: xây dựng
+#áp lực ở trục
+@Lĩnh vực: toán & tin
+#áp lực trục

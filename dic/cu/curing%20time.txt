@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian bảo dưỡng
+@Lĩnh vực: hóa học & vật liệu
+#thời gian đông cứng
+#thời gian lưu hóa
+@Lĩnh vực: ô tô
+#thời gian làm cứng

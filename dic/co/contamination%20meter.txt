@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo độ ô nhiễm
+#ống đếm Geiger
+@Lĩnh vực: hóa học & vật liệu
+#máy đo độ nhiễm xạ

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#phi cơ vận tải bay theo chuyến định kỳ
+#tàu hàng định kỳ
+#tàu hàng hỗn hợp

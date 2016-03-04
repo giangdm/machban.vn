@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều chỉnh tốc độ
+@Lĩnh vực: điện lạnh
+#bộ ổn định tốc độ
+@Lĩnh vực: xây dựng
+#máy điều tốc

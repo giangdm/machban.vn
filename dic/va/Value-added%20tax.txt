@@ -1,0 +1,5 @@
+﻿@Value-added tax
+#(Econ) Thuế Giá trị gia tăng.
+: Về mặt khái nịêm đây là loại thuế dựa trên giá trị gia tăng trong một quốc gia.
+@Chuyên ngành kinh tế
+#thuế giá trị gia tăng

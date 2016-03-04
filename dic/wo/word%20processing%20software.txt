@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần mềm xử lý từ
+#phần mềm xử lý văn bản

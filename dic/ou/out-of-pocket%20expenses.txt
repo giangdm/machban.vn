@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#các khoản nhỏ chi bằng tiền mặt
+#chi phí lặt vặt
+#chi phí thực trả

@@ -1,0 +1,6 @@
+﻿@Ratchet effect
+#(Econ) Hiệu ứng bánh cóc.
+: Xem RELATIVE INCOME HYPOTHESIS.
+@Chuyên ngành kinh tế
+#hiệu ứng chốt hãm ngược
+#tác động không bị đảo ngược

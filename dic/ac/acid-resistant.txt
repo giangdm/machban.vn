@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chịu axit
+@Chuyên ngành kỹ thuật
+#chịu axit
+#kháng axit
+@Lĩnh vực: điện
+#chịu được acid

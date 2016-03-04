@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đường liên kết nhiều điểm
+#đường truyền nhiều điểm
+@Lĩnh vực: toán & tin
+#kết nối đa điểm
+#kết nối phân nhánh
+#sự nối kết đa điểm
+@Lĩnh vực: điện tử & viễn thông
+#sự nối nhiều điểm

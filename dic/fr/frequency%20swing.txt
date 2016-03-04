@@ -1,0 +1,4 @@
+﻿@frequency swing
+#(Tech) dao động tần số
+@Chuyên ngành kỹ thuật
+#độ lệch tần số

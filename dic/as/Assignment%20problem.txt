@@ -1,0 +1,7 @@
+﻿@Assignment problem
+#(Econ) Bài toán kết nối.
+: Tên được đặt cho câu hỏi liệu việc kết nối một biến chính sách, ví dụ CHÍNH SÁCH TIỀN TỆ một cách duy nhất để đạt được một mục tiêu chính sách, ví dụ cán cân thanh toán quốc tế dưới các chế độ về tỷ giá HỐI ĐOÁI có thể được hay không. Kết luận là không thể làm được như vậy.
+@Chuyên ngành kỹ thuật
+#bài toán phân công
+@Lĩnh vực: toán & tin
+#bài toán gán

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#áp suất trong thiết bị ngưng tụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#áp suất bình ngưng

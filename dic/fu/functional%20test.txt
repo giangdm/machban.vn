@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thử chức năng
+@Lĩnh vực: điện tử & viễn thông
+#kiểm tra chức năng
+@Lĩnh vực: toán & tin
+#sự kiểm tra chức năng
+@Lĩnh vực: hóa học & vật liệu
+#sự thử nghiệm vận hành
+@Lĩnh vực: điện
+#thử nghiệm chức năng

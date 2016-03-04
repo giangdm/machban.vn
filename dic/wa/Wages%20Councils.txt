@@ -1,0 +1,3 @@
+﻿@Wages Councils
+#(Econ) Các hội đồng tiền công.
+: Các cơ quan pháp quy được chính phủ giao nhiệm vụ đề xuất về lương và số giờ lao động trong một số ngành ở nước Anh.

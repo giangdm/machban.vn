@@ -1,0 +1,3 @@
+﻿@Dynamic economics
+#(Econ) Kinh tế học động.
+: Phân tích liên thời gian về hệ thống kinh tế. Nền kinh tế có thể đi từ một điểm cân bằng này sang điểm cân bằng khác (tức là hai điểm CÂN BẰNG TĨNH SO SÁNH) hoặc có thể liên tục không đạt đến điểm cân bằng tĩnh nào.

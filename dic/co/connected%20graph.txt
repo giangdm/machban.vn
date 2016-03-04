@@ -1,0 +1,6 @@
+﻿@connected graph
+#(Tech) đồ thị nối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giản đồ kết nối
+#giản đồ liên thông

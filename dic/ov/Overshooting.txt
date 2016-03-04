@@ -1,0 +1,8 @@
+﻿@Overshooting
+#(Econ) Tăng quá cao (tỷ giá hối đoái).
+: Dưới chế độ TỶ GIÁ HỐI ĐOÁI LINH HOẠT, đó là hiện tượng được thấy thường xuyên để phản ứng lại một cơn sốc của giá trị thực tế của tỷ giá hối đoái vượt quá giá trị cân bằng mới khi mà giá trị này được xác định dựa vào các nguyên tắc cơ bản chẳng hạn như sự ngang bằng sức mua.
+@Chuyên ngành kinh tế
+#tình trạng tăng giá trị tài sản một cách đột ngột
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#thực thể bay

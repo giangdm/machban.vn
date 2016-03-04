@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#phiến chôn dưới đất
+@Lĩnh vực: xây dựng
+#bản điện cực tiếp đất
+#bộ phận tiếp đất
+@Lĩnh vực: vật lý
+#bản tiếp đất
+#tấm nối đất
+@Lĩnh vực: hóa học & vật liệu
+#tấm tiếp đất

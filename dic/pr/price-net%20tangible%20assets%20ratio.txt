@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tỷ lệ giá/tài sản hữu hình thuần
+#tỷ số giá cả-tài sản hữu hình

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#phản ứng thuận nghịch
+@Chuyên ngành kỹ thuật
+#phản ứng thuận nghịch

@@ -1,0 +1,8 @@
+﻿@echo chamber
+#(Tech) phòng ngăn tiếng dội
+@Chuyên ngành kỹ thuật
+#buồng dội
+#buồng vang
+#hộp dội
+#phòng vang
+#phòng vọng

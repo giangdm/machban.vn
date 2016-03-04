@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#ảnh đã phóng to
+@Lĩnh vực: xây dựng
+#ảnh phóng đại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#ảnh đã phóng to
+@Lĩnh vực: xây dựng
+#ảnh phóng đại

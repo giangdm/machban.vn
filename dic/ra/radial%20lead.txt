@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dây nối xuyên tâm
+@Lĩnh vực: điện lạnh
+#dây ra theo tia

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đáp ứng tần số
+#độ nhạy tần số
+#sự đáp ứng tần
+#sự đáp ứng tần số
+@Lĩnh vực: điện
+#đáp tuyến tần số

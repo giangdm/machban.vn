@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện áp hở mạch
+@Lĩnh vực: điện
+#điện áp mạch hở
+@Lĩnh vực: điện tử & viễn thông
+#điện áp trong mạch mở

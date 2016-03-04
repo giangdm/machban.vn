@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ kiểm tra
+#máy kiểm tra
+#máy thử nghiệm
+@Lĩnh vực: xây dựng
+#máy thí nghiệm
+@Lĩnh vực: cơ khí & công trình
+#máy thử vật liệu

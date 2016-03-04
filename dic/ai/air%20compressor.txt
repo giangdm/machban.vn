@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy nén không khí
+@Chuyên ngành kỹ thuật
+#máy nén khí
+#máy nén không khí
+@Lĩnh vực: điện lạnh
+#máy nén (không) khí

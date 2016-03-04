@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#độ cứng tạm thời
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ cứng tạm thời

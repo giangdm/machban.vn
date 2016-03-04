@@ -1,0 +1,7 @@
+﻿@Price taker
+#(Econ) Người chấp nhận giá.
+: Một đơn vị kinh tế có quy mô hoạt động không đáng kể so với quy mô của thị trường cho nên hoạt động của đơn vị ấy không gây ảnh hưởng gì đến giá thị trường thịnh hành.
+@Chuyên ngành kinh tế
+#người chấp nhận giá
+#người tiếp nhận giá
+#người tiếp thụ giá cả

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp rơi
+#độ sụt áp
+#sự sụt điện thế
+@Lĩnh vực: xây dựng
+#sự giảm điện thế
+@Lĩnh vực: cơ khí & công trình
+#sự giảm điện thế (sụt áp)
+@Lĩnh vực: điện
+#sự giảm thế
+#sự sụt áp
+@Lĩnh vực: toán & tin
+#sự rơi áp
+#sự sụt điện áp

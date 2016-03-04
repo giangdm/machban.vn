@@ -1,0 +1,6 @@
+﻿@Short-dated securities
+#(Econ) Các chứng khoán ngắn hạn.
+: Các chứng khoán nợ, ví dụ như trái khoán công ty hay chứng khoán viền vàng mà thời gian đến ngày thanh toán ngắn, thườg không quá 5 năm.
+@Chuyên ngành kinh tế
+#chứng khoán ngắn hạn
+#chứng khoán, trái khoán ngắn hạn

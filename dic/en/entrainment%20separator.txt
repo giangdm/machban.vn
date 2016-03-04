@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bộ phận thu hồi
+#thiết bị tách giọt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị tách cuối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị tách cuối

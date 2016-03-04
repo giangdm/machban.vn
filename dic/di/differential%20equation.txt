@@ -1,0 +1,8 @@
+﻿@differential equation
+#phương trình vi phân
+@Chuyên ngành kinh tế
+#phương trình vi phân
+@Chuyên ngành kỹ thuật
+#phương trình vi phân
+@Lĩnh vực: điện tử & viễn thông
+#hướng tính vi phân

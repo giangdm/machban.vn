@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp dẫn
+#cáp truyền
+@Lĩnh vực: điện tử & viễn thông
+#đường dây dẫn (điện)

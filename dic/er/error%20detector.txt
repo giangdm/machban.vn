@@ -1,0 +1,10 @@
+﻿@error detector
+#(Tech) bộ phát hiện sai số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ dò sai hỏng
+#bộ phát hiện lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ dò sai hỏng
+#bộ phát hiện lỗi

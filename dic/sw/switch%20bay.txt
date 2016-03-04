@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khoang cầu dao
+@Lĩnh vực: điện
+#khoang đặt cầu dao

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện trở gia tăng
+@Lĩnh vực: điện lạnh
+#điện trở tăng
+#số gia điện trở

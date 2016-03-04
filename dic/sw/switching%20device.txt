@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chuyển mạch
+@Lĩnh vực: điện tử & viễn thông
+#bộ phận chuyển mạch
+@Lĩnh vực: điện
+#cơ cấu đóng ngắt
+@Lĩnh vực: điện lạnh
+#cơ cấu đóng ngắt mạch
+#dụng cụ đóng ngắt mạch

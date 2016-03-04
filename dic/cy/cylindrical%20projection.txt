@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phép chiếu hình trụ
+@Lĩnh vực: toán & tin
+#phép chiếu nón

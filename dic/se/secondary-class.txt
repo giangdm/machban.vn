@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#cấp hai
+#hạng hai
+#loại hai
+#phẩm chất loại thường

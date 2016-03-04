@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bể điện
+#bể điện phân
+#thùng điện phân
+@Lĩnh vực: điện lạnh
+#thùng phân tích dòng chảy thế

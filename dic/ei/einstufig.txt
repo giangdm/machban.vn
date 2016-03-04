@@ -1,0 +1,6 @@
+﻿@einstufig
+#(đại số) một bậc, một cấp
+@Chuyên ngành kỹ thuật
+#một bậc
+@Lĩnh vực: toán & tin
+#một cấp

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#đường (cong) nạp
+#đường cung cấp
+@Lĩnh vực: điện lạnh
+#đường dây nuôi
+@Lĩnh vực: điện
+#mạng điện thành phố
+@Lĩnh vực: hóa học & vật liệu
+#tuyến cấp (nước)
+@Lĩnh vực: điện tử & viễn thông
+#tuyến cấp liệu

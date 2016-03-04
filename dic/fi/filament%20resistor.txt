@@ -1,0 +1,10 @@
+﻿@filament resistor
+#(Tech) cái điện trở sợi nung
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện trở sợi đốt
+#điện trở sợi nung
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện trở sợi đốt
+#điện trở sợi nung

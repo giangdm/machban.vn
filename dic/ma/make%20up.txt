@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#bổ sung
+#bổ sung (cho đủ số)
+#bổ túc
+#lấp (chỗ thâm thủng)
+@Chuyên ngành kỹ thuật
+#đặt trang
+#làm kẹt ống khoan
+#lên khuôn in
+#vặn
+#xiết
+@Lĩnh vực: hóa học & vật liệu
+#liên kết bằng ren
+#nối bằng vít

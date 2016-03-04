@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#chế độ hội thoại
+#chế độ tương tác
+@Lĩnh vực: toán & tin
+#chế độ đối thoại
+#chế độ giao tiếp
+@Lĩnh vực: điện tử & viễn thông
+#kiểu đàm thoại
+#phương thức đàm thoại

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ dẫn điện loại n
+@Lĩnh vực: điện
+#sự dẫn điện loại n

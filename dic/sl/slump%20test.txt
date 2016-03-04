@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự kiểm tra độ đặc của bê tông// sự kiểm tra độ lún của bê tông
+@Lĩnh vực: xây dựng
+#thử độ sụt hình nón

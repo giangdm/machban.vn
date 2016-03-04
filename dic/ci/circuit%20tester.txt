@@ -1,0 +1,7 @@
+﻿@circuit tester
+#(Tech) bộ thử bản điện
+@Chuyên ngành kỹ thuật
+#bút thử thông mạch
+#vít thử điện
+@Lĩnh vực: điện
+#máy thử thông mạch

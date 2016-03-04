@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#culông E
+#điện tích đơn vị
+@Lĩnh vực: điện lạnh
+#franklin
+#statC (đơn vị điện trong hệ CGS tĩnh điện)

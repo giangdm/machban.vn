@@ -1,0 +1,6 @@
+﻿@donor atom
+#(Tech) nguyên tử cho
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#nguyên tử cho
+#nguyên tử đono

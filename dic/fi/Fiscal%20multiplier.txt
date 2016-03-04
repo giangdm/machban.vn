@@ -1,0 +1,6 @@
+﻿@Fiscal multiplier
+#(Econ) Nhân tử thuế khoá.
+: Hệ số cho biết một mức gia tăng của chi tiêu tài chính tác động đến mức thu nhập cân bằng như thế nào.
+@Chuyên ngành kinh tế
+#số nhân tài chính
+#số nhân thuế

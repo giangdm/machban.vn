@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#mật độ nhiệt
+@Lĩnh vực: xây dựng
+#mật độ nhiệt lượng
+@Lĩnh vực: hóa học & vật liệu
+#tỏa nhiệt suất

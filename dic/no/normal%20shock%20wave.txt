@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sóng xung kích pháp tuyến
+#sóng xung kích vuông góc

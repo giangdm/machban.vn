@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số công việc
+#nhân tố hoạt động
+@Lĩnh vực: toán & tin
+#thừa số công việc

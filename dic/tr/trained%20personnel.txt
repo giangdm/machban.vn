@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nhân viên lành nghề, được đào tạo nghiệp vụ
+@Chuyên ngành kỹ thuật
+#nhân viên được đào tạo
+#nhân viên được huấn luyện

@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kiểm tra tải
+@Lĩnh vực: hóa học & vật liệu
+#sự thí nghiệm tải trọng
+#sự thử nghiệm có tải
+@Lĩnh vực: xây dựng
+#sự thử bằng tải trọng
+#thí nghiệm chất tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kiểm tra tải
+@Lĩnh vực: hóa học & vật liệu
+#sự thí nghiệm tải trọng
+#sự thử nghiệm có tải
+@Lĩnh vực: xây dựng
+#sự thử bằng tải trọng
+#thí nghiệm chất tải

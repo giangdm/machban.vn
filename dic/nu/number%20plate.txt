@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng số xe
+@Lĩnh vực: hóa học & vật liệu
+#tấm ghi số

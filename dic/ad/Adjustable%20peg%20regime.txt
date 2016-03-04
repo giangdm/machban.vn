@@ -1,0 +1,2 @@
+﻿@Adjustable peg regime
+#(Econ) Chế độ điều chỉnh hạn chế.

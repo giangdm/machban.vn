@@ -1,0 +1,2 @@
+﻿@guard tone
+#(Tech) âm hiệu bảo vệ

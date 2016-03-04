@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ ngưng tụ lắp sẵn
+#bộ ngưng tụ tích hợp
+#tổ ngưng tụ lắp sẵn

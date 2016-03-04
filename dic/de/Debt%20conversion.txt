@@ -1,0 +1,6 @@
+﻿@Debt conversion
+#(Econ) Hoán nợ; Đổi nợ.
+: Xem CONVERSION
+@Chuyên ngành kinh tế
+#đổi nợ
+#sự đổi nợ

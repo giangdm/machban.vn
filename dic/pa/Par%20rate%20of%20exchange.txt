@@ -1,0 +1,5 @@
+﻿@Par rate of exchange
+#(Econ) Tỷ giá hối đoái tương đương.
+: Việc thể hiện các tỷ giá hối đoái bằng vàng hoặc đồng Mỹ.
+@Chuyên ngành kinh tế
+#ngang giá hối đoái

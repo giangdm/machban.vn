@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu trình đẩy
+#chu trình xả
+#quá trình đẩy [xả]

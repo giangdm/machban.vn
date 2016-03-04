@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm xả khí
+@Lĩnh vực: vật lý
+#bơm hút (bụi)
+#bơm thông khí
+#bơm xả
+#máy bơm thải ra
+@Lĩnh vực: hóa học & vật liệu
+#bơm thải khí
+@Chuyên ngành kỹ thuật
+#bơm xả khí
+@Lĩnh vực: vật lý
+#bơm hút (bụi)
+#bơm thông khí
+#bơm xả
+#máy bơm thải ra
+@Lĩnh vực: hóa học & vật liệu
+#bơm thải khí

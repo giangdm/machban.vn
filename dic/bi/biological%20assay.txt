@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phương pháp thí nghiệm sinh học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#xét nghiệm sinh học

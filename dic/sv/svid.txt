@@ -1,0 +1,2 @@
+﻿@svid
+#Một loại tiêu chuẩn đối với các hệ điều hành UNIX, do AT & T Bell Laboratories xây dựng theo đặt hàng của tập thể các khách mua, dựa trên cơ sở UNIX Version 5

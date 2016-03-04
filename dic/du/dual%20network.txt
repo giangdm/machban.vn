@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mạch đối ngẫu
+@Lĩnh vực: điện tử & viễn thông
+#mạng đối ngẫu
+#mạng kép

@@ -1,0 +1,7 @@
+﻿@column separator
+#(Tech) dấu tách cột
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dấu tách cột
+@Lĩnh vực: toán & tin
+#ký hiệu phân cách cột

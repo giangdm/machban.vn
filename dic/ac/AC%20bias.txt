@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự định thiên xoay chiều
+#thiên áp AC
+#thiên áp xoay chiều

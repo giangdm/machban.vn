@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dãy tham số
+@Lĩnh vực: điện lạnh
+#dãy thu phát tham số

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bán ra thị trường
+#đưa ra bán
+@Chuyên ngành kỹ thuật
+#đang bán
+#để bán

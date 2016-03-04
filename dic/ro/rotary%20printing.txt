@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự in quay
+@Lĩnh vực: xây dựng
+#sự in trục quay

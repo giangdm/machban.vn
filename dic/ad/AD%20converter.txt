@@ -1,0 +1,4 @@
+﻿@AD converter
+#(Tech) bộ đổi sóng-số
+@Chuyên ngành kỹ thuật
+#bộ chuyển đổi AD

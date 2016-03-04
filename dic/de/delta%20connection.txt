@@ -1,0 +1,18 @@
+﻿@delta connection
+#(Tech) sự/mạch nối tam giác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#các nối tam giác
+#nối dây tam giác
+@Lĩnh vực: điện lạnh
+#cách đấu tam giác
+#cách mắc đa giác
+#cách mắc tam giác
+@Lĩnh vực: hóa học & vật liệu
+#nối tam giác
+@Lĩnh vực: xây dựng
+#mối nối tam giác
+@Lĩnh vực: toán & tin
+#sự kết nối delta
+#sự nối delta
+#sự nối tam giác

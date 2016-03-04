@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phụ tải thiết kế
+#tải trọng tính toán
+@Lĩnh vực: điện lạnh
+#tải thiết kế
+#tải tính toán

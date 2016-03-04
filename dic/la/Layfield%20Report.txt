@@ -1,0 +1,3 @@
+﻿@Layfield Report
+#(Econ) Báo cáo Layfield.
+: Một bản báo cáo của chính phủ Anh về thuế và chi tiêuu của các chính phủ địa phương ở Anh xuất bản năm 1976 (HMSO, Tài chiính chính quyền địa phương, báo cáo theo yêu cầu  Uỷ ban điều tra, London, 1976).

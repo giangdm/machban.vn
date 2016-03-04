@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#lớp Malpighi, lớp nền (một trong các lớp của biểu bì)

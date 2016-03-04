@@ -1,0 +1,2 @@
+﻿@Accelerator effect
+#(Econ) Hiệu ứng gia tốc.

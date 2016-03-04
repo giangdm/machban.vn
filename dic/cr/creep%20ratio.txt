@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#hệ số đường thấm
+#tốc độ rão
+@Lĩnh vực: xây dựng
+#hệ số rão

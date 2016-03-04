@@ -1,0 +1,3 @@
+﻿@Normative costs of production
+#(Econ) Các chi phí sản suất chuẩn tắc.
+: Là những chi phí ước tính, dẫn suất từ những cơ sở công nghiệp đơn lẻ được các nhà kế hoạnh hoá tập trung ở các nước Xã hội chủ nghĩa (trước đây) sử dụng làm cơ sở cho việc ấn định mức lợi nhuận và mức thuế của doanh nghiệp trong việc hoàn thành kế hoạch.

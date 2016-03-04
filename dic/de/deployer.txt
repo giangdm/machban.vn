@@ -1,0 +1,2 @@
+﻿@deployer
+#xem deploy

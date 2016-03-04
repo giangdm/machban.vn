@@ -1,0 +1,11 @@
+﻿@word processor
+*danh từ
+#(viết tắt:  WP) máy xử lý văn bản, trình xử lý văn bản
+@Chuyên ngành kinh tế
+#bộ xử lý từ
+#bộ xử lý văn bản
+#bộ xử lý văn bản (của máy vi tính)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ xử lý từ
+#bộ xử lý văn bản

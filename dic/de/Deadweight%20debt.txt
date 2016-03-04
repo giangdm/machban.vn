@@ -1,0 +1,6 @@
+﻿@Deadweight debt
+#(Econ) Nợ trắng.
+: Là khoản nợ không được bảo lãnh bằng một tài sản thực nào cả, nợ này được dùng để trả cho các chi tiêu thường xuyên.
+@Chuyên ngành kinh tế
+#nợ không có hạn hoàn trả
+#nợ tích đọng

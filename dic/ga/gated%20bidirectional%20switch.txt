@@ -1,0 +1,2 @@
+﻿@gated bidirectional switch
+#(Tech) công tắc song hướng chọn qua/tuyển thông [ĐL]

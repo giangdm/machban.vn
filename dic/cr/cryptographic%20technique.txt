@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kỹ thuật mã hóa
+@Lĩnh vực: toán & tin
+#công nghệ mã hóa

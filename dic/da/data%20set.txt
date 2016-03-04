@@ -1,0 +1,11 @@
+﻿@data set
+#(Tech) tập hợp dữ liệu
+@Chuyên ngành kinh tế
+#tập hợp số liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ dữ liệu
+#tập (hợp) dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#máy dữ liệu
+#thiết bị dữ liệu

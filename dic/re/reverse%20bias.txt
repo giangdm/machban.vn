@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ chệch nghịch
+#thiên áp ngược
+@Lĩnh vực: điện
+#phân cực ngược
+#thiên áp ngược (tranzito)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#điều kiện ban đầu
+@Lĩnh vực: cơ khí & công trình
+#điều kiện (ban) đầu

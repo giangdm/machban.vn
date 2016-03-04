@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#građien thế
+@Lĩnh vực: điện
+#građen điện áp
+#građen thế
+#gradient điện thế
+@Lĩnh vực: điện lạnh
+#građien điện thế
+@Lĩnh vực: cơ khí & công trình
+#gradien thế

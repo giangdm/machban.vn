@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bulông đầu biên
+@Lĩnh vực: ô tô
+#chốt (ắc) pittông
+@Lĩnh vực: toán & tin
+#trục ngang pit-tông
+@Lĩnh vực: xây dựng
+#trục ngang pít-tông

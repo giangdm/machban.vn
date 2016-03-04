@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hệ số chứa đầy
+@Chuyên ngành kỹ thuật
+#hệ số nạp
+#hiệu suất nạp
+#hiệu suất thể tích
+@Lĩnh vực: điện lạnh
+#hiệu suất cấp

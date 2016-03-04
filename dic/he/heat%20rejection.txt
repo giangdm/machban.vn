@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thải nhiệt
+#thải nhiệt
+@Lĩnh vực: điện tử & viễn thông
+#sự giải tỏa nhiệt lượng
+#sự giải tỏa sức phóng
+@Lĩnh vực: điện lạnh
+#sự loại bỏ nhiệt
+@Lĩnh vực: xây dựng
+#sự mất mát nhiệt

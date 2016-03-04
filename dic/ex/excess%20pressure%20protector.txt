@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#rơle bảo vệ áp suất thừa
+#rơle bảo vệ quá áp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#rơle bảo vệ áp suất thừa
+#rơle bảo vệ quá áp

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cấu trúc hạt nhân
+@Lĩnh vực: điện lạnh
+#cấu trúc nguyên tử

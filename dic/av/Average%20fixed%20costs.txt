@@ -1,0 +1,3 @@
+﻿@Average fixed costs
+#(Econ) Chi phí cố định bình quân.
+: Chi phí cố định trên mỗi đơn vị sản lượng.

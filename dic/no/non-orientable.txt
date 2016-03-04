@@ -1,0 +1,2 @@
+﻿@non-orientable
+#không định hướng được

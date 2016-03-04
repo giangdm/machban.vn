@@ -1,0 +1,7 @@
+﻿@collect call
+#(Tech) gọi người nhận trả tiền
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cuộc gọi tính cước ngược
+@Lĩnh vực: toán & tin
+#thu thập lời gọi

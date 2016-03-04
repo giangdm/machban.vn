@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mức nhiễu được phép (vô tuyến vũ trụ)
+@Lĩnh vực: điện tử & viễn thông
+#mức nhiễu chấp nhận được

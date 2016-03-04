@@ -1,0 +1,3 @@
+﻿@Energy intensity
+#(Econ) Cường độ sử dụng năng lượng.
+: Một chỉ báo về tính hiệu quả trong việc sử dụng năng lượng cơ bản trong sản xuất một đơn vị tổng sản phẩm quốc nội.

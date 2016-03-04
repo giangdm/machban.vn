@@ -1,0 +1,9 @@
+﻿@round angle ['raund ,æηgl]
+*danh từ
+# góc 360 độ
+@Chuyên ngành kỹ thuật
+#góc đầy
+@Lĩnh vực: toán & tin
+#góc 3600
+@Lĩnh vực: điện tử & viễn thông
+#góc đầy 360 độ

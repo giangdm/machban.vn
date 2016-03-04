@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#technician
+@Chuyên ngành kỹ thuật
+#chuyên viên kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#kỹ thuật viên

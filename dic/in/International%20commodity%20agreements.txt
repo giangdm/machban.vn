@@ -1,0 +1,3 @@
+﻿@International commodity agreements
+#(Econ) Các hiệp định hàng hoá quốc tế.
+: Các hiệp định giữa các nước sản xuất và tiêu dùng, nhưng đôi khi chỉ là hiệp định của các bên sản xuất, nhằm bảo đảm ổn định giá cả các hàng hóa sơ chế.

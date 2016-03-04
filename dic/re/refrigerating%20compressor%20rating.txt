@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#năng suất làm lạnh của máy nén
+@Chuyên ngành kỹ thuật
+#năng suất định mức máy nén

@@ -1,0 +1,8 @@
+﻿@own brand
+*danh từ
+#hàng dán nhãn hiệu
+@Chuyên ngành kinh tế
+#nhãn hiệu riêng
+#nhãn hiệu riêng của nhà buôn
+#nhãn hiệu riêng của nhà phân phối
+#nhãn hiệu tự định (không dùng hiệu của xưởng sản xuất)

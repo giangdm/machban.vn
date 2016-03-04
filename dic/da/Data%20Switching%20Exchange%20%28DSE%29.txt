@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tổng đài chuyển mạch số liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết bị trao đổi dữ liệu
+#tổng đài chuyển mạch dữ liệu

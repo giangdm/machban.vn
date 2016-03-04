@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#kiểm soát thống kê
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểm tra thống kê
+@Lĩnh vực: cơ khí & công trình
+#sự kiểm tra thống kê

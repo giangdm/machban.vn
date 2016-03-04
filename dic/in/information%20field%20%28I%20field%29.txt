@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng thông tin
+@Lĩnh vực: toán & tin
+#trường thông tin

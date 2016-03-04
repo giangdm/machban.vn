@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tiếng dội rung
+@Lĩnh vực: toán & tin
+#tiếng vang phách

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất trung bình
+@Lĩnh vực: cơ khí & công trình
+#áp lực trung bình

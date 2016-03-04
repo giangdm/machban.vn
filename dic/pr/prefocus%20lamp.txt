@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đèn điều tiêu sơ bộ (đèn có tiêu điểm sẵn trước)
+@Lĩnh vực: điện lạnh
+#đèn định tiêu (cự)

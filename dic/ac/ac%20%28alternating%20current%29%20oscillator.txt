@@ -1,0 +1,2 @@
+﻿@ac (alternating current) oscillator
+#(Tech) bộ dao động điện xoay chiều

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giá kilooat giờ (điện năng)
+#giá kWh
+@Lĩnh vực: điện
+#mức giá 1kWh điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giá kilooat giờ (điện năng)
+#giá kWh
+@Lĩnh vực: điện
+#mức giá 1kWh điện

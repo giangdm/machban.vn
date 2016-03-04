@@ -1,0 +1,3 @@
+﻿@Covariance stationary
+#(Econ) Tĩnh theo hiệp phương sai.
+: Xem STATIONARITY.

@@ -1,0 +1,7 @@
+﻿@Price discrimination
+#(Econ) Phân biệt đối xử theo giá.
+: Có hai hình thức chủ yếu về Phân biệt đối xử theo giá : Thứ nhất, việc các hãng tính giá khác nhau cho từng nhóm người mua khác nhau và thứ hai tính cho cùng loại người tiêu dùng các giá khác nhau đối với các lượng khác nhau của cùng một loại hàng.
+@Chuyên ngành kinh tế
+#kỳ thị giá cả
+#phân biệt đối xử giá cả
+#phân biệt giá cả

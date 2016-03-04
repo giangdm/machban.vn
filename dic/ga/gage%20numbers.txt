@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#cỡ mũi khoan
+#số hiệu cỡ mũi khoan
+#số hiệu dưỡng kiểm khoan

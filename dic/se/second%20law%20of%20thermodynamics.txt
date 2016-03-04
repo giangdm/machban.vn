@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#định luật nhiệt độ thứ hai
+@Lĩnh vực: vật lý
+#định luật nhiệt động lực thứ hai

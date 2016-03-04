@@ -1,0 +1,3 @@
+﻿@Neo-classical growth theory
+#(Econ) Học thuyết tăng trưởng tân cổ điển.
+: Là cụm thuật ngữ tổng hợp đề cập đến những mô hình tăng trưởng kinh tế được xây dựng trong khuôn khổ học thuyết tân cổ điển, trong đó chú trọng đến việc thúc đẩy khả năng thay thế giữa vốn và lao động trong hàm sản xuất để đảm bảo sự tăng trưởng đến trạng thái bền vững, cho nên tình trạng mất ổn định được phát hiện ra trong mô hình tăng trưởng HARROD - DOMAR do giả định về hệ số cố định giữa vốn và lao động gây ra.

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ vạn năng
+@Lĩnh vực: điện lạnh
+#động cơ AC/DC
+@Lĩnh vực: điện
+#động cơ đa năng
+#động cơ đa năng (chạy được cả hai loại điện)

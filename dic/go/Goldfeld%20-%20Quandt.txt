@@ -1,0 +1,3 @@
+﻿@Goldfeld - Quandt
+#(Econ) Kiểm định Goldfeld - Quandt.
+: Tên của một phép kiểm định được sử dụng để nhận dạng vấn đề Phương sai không thuần nhất trong Số dư của một phương trình Hồi quy.

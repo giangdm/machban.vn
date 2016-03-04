@@ -1,0 +1,2 @@
+﻿@functional description
+#(Tech) mô tả cơ năng

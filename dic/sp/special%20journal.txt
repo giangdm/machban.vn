@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sổ nhật ký chuyên biệt
+#sổ nhật ký loại đặc biệt
+#sổ nhật ký thu chi đặc biệt

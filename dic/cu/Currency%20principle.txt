@@ -1,0 +1,6 @@
+﻿@Currency principle
+#(Econ) Nguyên lý tiền tệ
+: Là học thuyết về tiền tệ thịnh hành giữa thế kỷ XIX do TRƯỜNG PHÁI TIỀN TỆ đề xướng, học thuyết cho rằng sự ổn định tiền tệ có được tốt nhất bằng việc kiểm soát số lượng tiền tệ, nhất là lượng tiền giấy, đang lưu thông bằng các biện pháp của các quy tắc tự động (nghĩa là không thể tuỳ ý).
+@Chuyên ngành kinh tế
+#nguyên lý lưu thông
+#nguyên tắc tiền tệ

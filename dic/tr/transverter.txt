@@ -1,0 +1,7 @@
+﻿@transverter
+*danh từ
+#bộ đổi điện; bộ biến đổi (điện xoay chiều thành điện một chiều)
+@Chuyên ngành kỹ thuật
+#máy đổi điện
+@Lĩnh vực: điện tử & viễn thông
+#bộ biến đổi ngang

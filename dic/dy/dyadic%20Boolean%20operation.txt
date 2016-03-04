@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phép toán hai ngôi
+@Lĩnh vực: toán & tin
+#phép toán Boole nhị nguyên

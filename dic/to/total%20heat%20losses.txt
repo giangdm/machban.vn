@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tổn thất nhiệt tổng
+#tổng tổn thất nhiệt

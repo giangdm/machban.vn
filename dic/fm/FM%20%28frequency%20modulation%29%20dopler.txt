@@ -1,0 +1,2 @@
+﻿@FM (frequency modulation) dopler
+#(Tech) đôple biến điệu tần số

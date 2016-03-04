@@ -1,0 +1,5 @@
+﻿@Welfare economics
+#(Econ) Kinh tế học phúc lợi.
+: Cụm thuật ngữ chung để chỉ khía cạnh chuẩn tắc của kinh tế học. Những giả định cơ bản của kinh tế phúc lợi là các đánh giá chủ quan mà bất kỳ một  nhà kinh tế học nào cũng có thể chấp nhận hoặc bác bỏ.
+@Chuyên ngành kinh tế
+#kinh tế học phúc lợi

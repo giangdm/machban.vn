@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#máy liên lạc vô tuyến
+#máy nhắn gọi vô tuyến
+#máy nhắn tin

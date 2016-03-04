@@ -1,0 +1,2 @@
+﻿@all solid-state
+#(Tech) mạch rắn toàn bộ

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#người bốc xếp hàng
+@Chuyên ngành kỹ thuật
+#đánh đống
+#máy chất đống
+@Lĩnh vực: xây dựng
+#máy đánh đống
+#máy xếp đống

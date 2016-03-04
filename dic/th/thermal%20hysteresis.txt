@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hiện tượng trễ nhiệt
+@Lĩnh vực: điện lạnh
+#trễ nhiệt

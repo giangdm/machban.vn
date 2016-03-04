@@ -1,0 +1,6 @@
+﻿@Gross trading profit
+#(Econ) Tổng lợi nhuận thương mại.
+: Lợi nhuận kiếm được từ những nghiệp vụ trước khi trừ đi KHẤU HAO và lãi đối với tài chính nợ và mức tăng giá cổ phần.
+@Chuyên ngành kinh tế
+#lãi gộp buôn bán
+#lãi gộp kinh doanh

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giá danh nghĩa
+#giá giả tưởng
+#giá lý thuyết
+#hư giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#giá danh định

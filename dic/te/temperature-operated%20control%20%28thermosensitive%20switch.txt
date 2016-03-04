@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle nhiệt độ
+@Lĩnh vực: điện lạnh
+#bộ khống chế (điều chỉnh) tác động theo nhiệt độ
+#công tắc cảm ứng nhiệt
+#công tắc hoạt động theo nhiệt độ

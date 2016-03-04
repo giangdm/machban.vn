@@ -1,0 +1,2 @@
+﻿@access denial
+#(Tech) chối bỏ/từ khước truy cập

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đường cong trái chiều
+@Lĩnh vực: xây dựng
+#đường cong đổi chiều
+#đường cong ngược lại

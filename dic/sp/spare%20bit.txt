@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bit để dành
+#bit để dự phòng
+#bit để dự trữ

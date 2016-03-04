@@ -1,0 +1,10 @@
+﻿@computer network
+#(Tech) mạng điện toán
+@Chuyên ngành kinh tế
+#mạng vi tính
+@Chuyên ngành kỹ thuật
+#mạng máy tính
+@Lĩnh vực: xây dựng
+#mạng lưới máy toán
+@Lĩnh vực: điện tử & viễn thông
+#mạnh máy tính

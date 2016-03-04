@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#nút chỉnh ôxy
+#nút điều chỉnh lượng ôxy

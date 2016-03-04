@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#giếng quan sát
+#ống đo áp
+@Lĩnh vực: đo lường & điều khiển
+#lỗ khoan kiểm tra

@@ -1,0 +1,2 @@
+﻿@grid-filament capacitance
+#(Tech) điện dung lưới-sợi nung

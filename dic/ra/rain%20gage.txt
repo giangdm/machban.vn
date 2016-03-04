@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bình đo lượng mưa
+#vũ lượng kế
+@Lĩnh vực: hóa học & vật liệu
+#máy đo lượng mưa

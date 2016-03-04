@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số tỏa nhiệt
+@Lĩnh vực: điện lạnh
+#hệ số truyền nhiệt bề mặt

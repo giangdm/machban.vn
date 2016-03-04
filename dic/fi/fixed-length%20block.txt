@@ -1,0 +1,8 @@
+﻿@fixed-length block
+#(Tech) khối (có) độ dài cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khối độ dài cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khối độ dài cố định

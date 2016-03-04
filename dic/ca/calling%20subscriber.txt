@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#người được mời mua cổ phần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thuê bao gọi

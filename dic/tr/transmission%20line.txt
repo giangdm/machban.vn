@@ -1,0 +1,29 @@
+﻿@Chuyên ngành kinh tế
+#dây cáp điện
+#dây điện thoại
+#dây thép
+#dùng chuyển tải thông tin giữa các vùng với nhau
+#đường dây chuyển tải (thông tin)
+#đường dây truyền tải (thông tin..)
+#tín hiệu phát thanh radio
+@Chuyên ngành kỹ thuật
+#đường chuyển tiếp
+#đường dẫn
+#đường dây
+#đường dây tải điện
+#đường ống
+#đường truyền
+#đường truyền (năng lượng)
+#đường truyền dẫn
+#đường truyền thông
+#trục truyền
+@Lĩnh vực: điện
+#dây dẫn điện sóng
+#đường dây truyền tải
+@Lĩnh vực: xây dựng
+#dây truyền sóng
+#đường truyền năng lượng
+@Lĩnh vực: điện lạnh
+#đường dây truyền tải (điện năng)
+@Lĩnh vực: giao thông & vận tải
+#đường truyền thông tin

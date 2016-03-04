@@ -1,0 +1,10 @@
+﻿@Utility function
+#(Econ) Hàm thoả dụng.
+: Một hàm cho rằng Độ thoả dụng của một cá nhân phụ thuộc vào hàng hoá và số lượng hàng hoá mà người đó tiêu.
+@Chuyên ngành kinh tế
+#hàm lợi ích
+#hàm số hiệu dụng
+@Chuyên ngành kỹ thuật
+#hàm lợi ích
+@Lĩnh vực: xây dựng
+#chức năng vật dụng

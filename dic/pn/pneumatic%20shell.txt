@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cột ống khí nén (của cầu)
+#vỏ bơm hơi
+#vỏ khí nén

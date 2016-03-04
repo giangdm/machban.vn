@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cường độ giới hạn
+@Lĩnh vực: toán & tin
+#độ bền giới hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cường độ giới hạn
+@Lĩnh vực: toán & tin
+#độ bền giới hạn

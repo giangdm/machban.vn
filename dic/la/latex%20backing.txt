@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp lót latec
+@Lĩnh vực: dệt may
+#lớp nền latec
+@Chuyên ngành kỹ thuật
+#lớp lót latec
+@Lĩnh vực: dệt may
+#lớp nền latec

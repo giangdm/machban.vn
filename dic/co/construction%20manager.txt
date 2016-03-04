@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thợ cả
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giám đốc công trường
+#người quản lý thi công
+#người quản lý xây dựng

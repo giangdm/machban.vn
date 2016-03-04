@@ -1,0 +1,37 @@
+﻿@Turnover
+#(Econ) Doanh thu, kim ngạch.
+: Xem TOTAL REVENUE.
+<!-- more -->
+@turnover /'tə:n,ouvə/
+*danh từ
+#sự đổ lật (xe)
+#doanh thu
+#sự luận chuyển vốn; vốn luân chuyển
+=a quick turnover: một sự luân chuyển vốn nhanh
+#số lượng công nhân thay thế (những người thôi việc trong một thời gian nhất định)
+#bài báo lấn sang trang
+#bánh xèo, bánh kẹp
+@Chuyên ngành kinh tế
+#điều chỉnh (nhân viên)
+#doanh số
+#doanh thu
+#lượng giao dịch
+#lưu động
+#mức chu chuyển (hàng tồn trữ)
+#mức tiêu thụ
+#vòng luân chuyển
+@Lĩnh vực: ttck
+#luân chuyển, doanh số, tốc độ thay thế công nhân
+@Chuyên ngành kỹ thuật
+#doanh thu
+#sự luân chuyển
+#vốn luân chuyển
+@Lĩnh vực: hóa học & vật liệu
+#sự lật đổ (xe) doanh thu
+#vốn luân chuyển (kinh doanh)
+@Lĩnh vực: xây dựng
+#sự lật ngược
+#sự luân chuyển vốn
+<!-- more -->
+@turnover
+#vòng quay, sự tròn xoay

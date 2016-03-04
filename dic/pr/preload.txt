@@ -1,0 +1,17 @@
+﻿@preload
+*danh từ
+#(kỹ thuật) tải trọng đặt trước
+@Chuyên ngành kỹ thuật
+#nạp trước, tải trước
+#sức căng ban đầu
+#ứng lực trước
+@Lĩnh vực: cơ khí & công trình
+#chất tải trước
+#đặt tải trước
+#tác dụng nén trước
+#tải đặt trước
+#tải trọng đặt trước
+@Lĩnh vực: xây dựng
+#sự gia tải trước
+#tải trọng đặt (tạm) trước
+#tải trọng nén trước

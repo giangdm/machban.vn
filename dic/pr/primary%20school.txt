@@ -1,0 +1,8 @@
+﻿@primary school
+*danh từ
+#trường sơ cấp, trường phổ thông cơ sở
+#trường cấp một, trường tiểu học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#trường cấp một
+#trường tiểu học

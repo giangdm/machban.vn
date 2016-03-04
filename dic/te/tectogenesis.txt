@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nguồn gốc kiến tạo (địa chất)
+@Lĩnh vực: xây dựng
+#nguồn gốc kiến tạo
+#vận động kiến tạo
+@Lĩnh vực: môi trường
+#quá trình kiến tạo

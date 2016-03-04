@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự cố hệ thống
+@Lĩnh vực: toán & tin
+#sai hỏng hệ thống

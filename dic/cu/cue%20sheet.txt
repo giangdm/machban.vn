@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bản hướng dẫn đạo diễn
+#bản kế hoạch điều khiển
+#bảng tín hiệu
+@Lĩnh vực: toán & tin
+#tấm tín hiệu

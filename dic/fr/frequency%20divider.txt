@@ -1,0 +1,8 @@
+﻿@frequency divider
+#(Tech) bộ phân tần số
+@Chuyên ngành kỹ thuật
+#bộ chia tần
+#bộ chia tần số
+#bộ phân tần
+@Lĩnh vực: toán & tin
+#bộ phân chia tần số

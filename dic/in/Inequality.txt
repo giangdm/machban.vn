@@ -1,0 +1,24 @@
+﻿@Inequality
+#(Econ) Bất đẳng thức.
+: Quan hệ nói lên một hàm số của một biến (hay một tập hợp các biến) lớn hơn hay nhỏ hơn một số nào đó.
+<!-- more -->
+@inequality /,ini:'kwɔliti/
+*danh từ
+#sự không bằng nhau; sự không bình đẳng
+#tính không đều
+#sự khác nhau
+#tính hay thay đổi
+#sự không công minh
+#(toán học) bất đẳng thức
+@Chuyên ngành kỹ thuật
+#sự thăng giáng
+<!-- more -->
+@inequality
+#bất đẳng thức
+#absolute i. bất đẳng thức tuyệt đối
+#conditinal i. bất đẳng thức có điều kiện
+#integral i. bất đẳng thức tích phân
+#isoperimetric (al) i. (hình học) bất đẳng thức chu
+#strric i. bất đẳng thức ngặt
+#triangle i. bất đẳng thức tam giác
+#unconditional i. bất đẳng thức vô điều kiện

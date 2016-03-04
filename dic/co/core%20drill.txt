@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#mũi khoan lấy mẫu
+#sự khoan lấy lõi
+@Lĩnh vực: hóa học & vật liệu
+#khoan địa chất
+#khoan mẫu lõi
+@Lĩnh vực: xây dựng
+#máy khoan có (ống)
+#máy khoan lấy lõi (mẫu)
+@Lĩnh vực: toán & tin
+#máy khoan có ống
+#máy khoan lấy lõi

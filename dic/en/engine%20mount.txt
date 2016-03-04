@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bệ máy
+#giá treo động cơ
+@Lĩnh vực: cơ khí & công trình
+#giá động cơ
+@Lĩnh vực: giao thông & vận tải
+#khung giá động cơ
+@Chuyên ngành kỹ thuật
+#bệ máy
+#giá treo động cơ
+@Lĩnh vực: cơ khí & công trình
+#giá động cơ
+@Lĩnh vực: giao thông & vận tải
+#khung giá động cơ

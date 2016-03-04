@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phần tử cơ bản
+@Lĩnh vực: toán & tin
+#thiết bị gốc
+#thiết bị sơ cấp

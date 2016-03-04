@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#người môi giới giao dịch hàng hóa (nông phẩm)
+#người môi giới giao dịch hàng hóa (nông sản phẩm)
+#người môi giới sản phẩm

@@ -1,0 +1,12 @@
+﻿@bistable
+#(Tech) trạng thái song ổn, ổn kép
+@Chuyên ngành kỹ thuật
+#lưỡng bền
+#lưỡng ổn
+#lưỡng ổn định
+@Lĩnh vực: toán & tin
+#hai trạng thái
+#ổn định kép
+#song ổn định
+@Lĩnh vực: điện lạnh
+#hai trạng thái bền

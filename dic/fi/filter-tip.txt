@@ -1,0 +1,3 @@
+﻿@filter-tip
+*danh từ
+#đầu lọc của điếu thuốc lá

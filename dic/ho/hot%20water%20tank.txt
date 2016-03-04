@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bể chứa nước
+@Lĩnh vực: xây dựng
+#bể chứa nước nóng

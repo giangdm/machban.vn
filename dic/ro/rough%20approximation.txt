@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phép gần đúng đại khái
+#phép gần đúng thô
+@Lĩnh vực: toán & tin
+#phép xấp xỉ thô

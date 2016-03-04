@@ -1,0 +1,7 @@
+﻿@auxiliary operation
+#(Tech) phép toán phụ; điều hành phụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hoạt động phụ
+#phép toán phụ trợ
+#thao tác phụ

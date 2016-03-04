@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đảo đầu nối mạch
+@Lĩnh vực: điện lạnh
+#bộ đổi giống
+#bộ phối hợp cáp
+@Lĩnh vực: toán & tin
+#bộ đổi giống (đực/cái)

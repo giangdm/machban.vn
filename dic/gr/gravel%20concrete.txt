@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bê tông cốt liệu sỏi
+#bê tông sợi
+@Lĩnh vực: xây dựng
+#bê tông cuội
+#bê tông sỏi
+@Lĩnh vực: cơ khí & công trình
+#bê tông cuội sỏi
+@Lĩnh vực: toán & tin
+#bê tông cuộn

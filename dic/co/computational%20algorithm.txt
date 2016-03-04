@@ -1,0 +1,2 @@
+﻿@computational algorithm
+#(Tech) thuật toán/giải tính toán

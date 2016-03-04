@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nối đất điện kháng thấp
+#tiếp đất điện kháng thấp

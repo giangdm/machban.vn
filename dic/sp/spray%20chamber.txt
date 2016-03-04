@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phòng phun mù
+#thiết bị điều hòa không khí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng phun (mưa)
+@Lĩnh vực: hóa học & vật liệu
+#phòng phun

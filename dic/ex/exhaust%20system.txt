@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống xả
+#hệ thống xả hơi
+@Lĩnh vực: xây dựng
+#hệ thống hút
+@Lĩnh vực: ô tô
+#hệ thống thải
+#hệ thống xả khí
+@Chuyên ngành kỹ thuật
+#hệ thống xả
+#hệ thống xả hơi
+@Lĩnh vực: xây dựng
+#hệ thống hút
+@Lĩnh vực: ô tô
+#hệ thống thải
+#hệ thống xả khí

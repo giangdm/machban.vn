@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#quá trình ngược
+@Chuyên ngành kỹ thuật
+#quá trình thuận nghịch
+@Lĩnh vực: toán & tin
+#quá trình khả nghịch

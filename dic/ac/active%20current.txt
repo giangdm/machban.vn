@@ -1,0 +1,7 @@
+﻿@active current
+#(Tech) dòng hoạt tính, dòng thực
+@Chuyên ngành kỹ thuật
+#dòng điện hiệu dụng
+#dòng điện thực
+@Lĩnh vực: điện lạnh
+#dòng điện hữu công

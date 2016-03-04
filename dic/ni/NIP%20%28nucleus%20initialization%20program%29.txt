@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chương trình khởi động
+@Lĩnh vực: toán & tin
+#chương trình khởi động nhân
+#chương trình khởi tạo trung tâm

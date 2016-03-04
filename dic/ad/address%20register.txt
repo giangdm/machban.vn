@@ -1,0 +1,5 @@
+﻿@address register
+#(Tech) bộ/thanh ghi địa chỉ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thang ghi địa chỉ

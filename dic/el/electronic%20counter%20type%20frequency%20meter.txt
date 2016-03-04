@@ -1,0 +1,2 @@
+﻿@electronic counter type frequency meter
+#(Tech) tần số kế loại đếm điện tử

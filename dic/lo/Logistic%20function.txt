@@ -1,0 +1,11 @@
+﻿@Logistic function
+#(Econ) Hàm Lôgistic
+: Đồ thị của hàm này có hình chữ S, và nó được sử dụng để biểu diễn mối quan hệ giữa giá trị của một biến số kinh tế và thời gian.
+@Chuyên ngành kỹ thuật
+#hàm logitic
+@Lĩnh vực: toán & tin
+#hàm logistic
+@Chuyên ngành kỹ thuật
+#hàm logitic
+@Lĩnh vực: toán & tin
+#hàm logistic

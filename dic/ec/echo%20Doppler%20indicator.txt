@@ -1,0 +1,2 @@
+﻿@echo Doppler indicator
+#(Tech) bộ chỉ báo xung dội Doppler

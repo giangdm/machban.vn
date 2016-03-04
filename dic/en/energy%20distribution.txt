@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#phân bố năng lượng
+@Chuyên ngành kỹ thuật
+#phổ năng lượng
+@Lĩnh vực: điện lạnh
+#phân bố năng lượng
+#phân phối năng lượng
+@Lĩnh vực: cơ khí & công trình
+#sự phân bố năng lượng
+@Chuyên ngành kỹ thuật
+#phổ năng lượng
+@Lĩnh vực: điện lạnh
+#phân bố năng lượng
+#phân phối năng lượng
+@Lĩnh vực: cơ khí & công trình
+#sự phân bố năng lượng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đường chính
+#đường trục
+@Lĩnh vực: cơ khí & công trình
+#tuyến đo vẽ cơ bản

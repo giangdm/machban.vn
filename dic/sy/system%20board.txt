@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng hệ thống
+@Lĩnh vực: toán & tin
+#bảng mạch hệ thống
+#bo mạch hệ thống

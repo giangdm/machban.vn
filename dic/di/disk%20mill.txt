@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy cán đĩa
+#máy nghiền đĩa
+#máy nghiền lăn
+@Lĩnh vực: cơ khí & công trình
+#máy cán bánh xe
+@Lĩnh vực: thực phẩm
+#máy xay kiểu đĩa

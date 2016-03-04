@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#quản lý ngoại lệ
+#sự quản lý theo nguyên tắc ngoại lệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự quản lý theo ngoại lệ

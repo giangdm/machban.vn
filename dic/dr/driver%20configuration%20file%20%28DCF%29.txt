@@ -1,0 +1,2 @@
+﻿@driver configuration file (DCF)
+#(Tech) tập tin cấu thành chương trình điều khiển

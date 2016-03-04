@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#đo hạng
+#giá trị đo
+#giá trị quan sát
+@Lĩnh vực: đo lường & điều khiển
+#đích do
+@Lĩnh vực: giao thông & vận tải
+#giá trị đo được
+@Lĩnh vực: điện
+#số đo được

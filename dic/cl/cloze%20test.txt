@@ -1,0 +1,3 @@
+﻿@cloze test
+*danh từ
+#sự kiểm tra bằng cách cho điền vào chỗ trống trong bài

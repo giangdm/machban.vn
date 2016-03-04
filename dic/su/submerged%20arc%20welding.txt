@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hàn điện hồ quang dưới nước
+@Lĩnh vực: điện lạnh
+#hàn điện xì
+@Lĩnh vực: điện
+#hàn hồ quang nhúng chìm
+@Lĩnh vực: hóa học & vật liệu
+#sự hàn hồ quang chìm

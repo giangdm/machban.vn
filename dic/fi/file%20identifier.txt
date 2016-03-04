@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký hiệu nhận dạng tệp
+#tên tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký hiệu nhận dạng tệp
+#tên tệp

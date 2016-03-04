@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm máy
+@Lĩnh vực: điện
+#bơm có động cơ
+@Lĩnh vực: môi trường
+#máy bơm có động cơ

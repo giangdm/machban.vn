@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#cổ góp hút
+#cụm ống hút
+#ống góp hơi nạp
+#ống hút
+#ống nạp
+@Lĩnh vực: ô tô
+#ống nạp (động cơ)
+@Lĩnh vực: hóa học & vật liệu
+#ống nhánh dẫn vào

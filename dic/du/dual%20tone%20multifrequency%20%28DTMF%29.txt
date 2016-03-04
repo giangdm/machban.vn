@@ -1,0 +1,2 @@
+﻿@dual tone multifrequency (DTMF)
+#(Tech) đa tần số song âm

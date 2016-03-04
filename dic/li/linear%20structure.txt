@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#cấu trúc kéo dài
+@Lĩnh vực: toán & tin
+#cấu trúc tuyến tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#cấu trúc kéo dài
+@Lĩnh vực: toán & tin
+#cấu trúc tuyến tính

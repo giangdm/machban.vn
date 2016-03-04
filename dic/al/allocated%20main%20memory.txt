@@ -1,0 +1,2 @@
+﻿@allocated main memory
+#(Tech) bộ nhớ chính dược phân định

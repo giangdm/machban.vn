@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cán cân chi thu vô hình
+#cán cân vô hình
+#mức chênh lệch mậu dịch vô hình

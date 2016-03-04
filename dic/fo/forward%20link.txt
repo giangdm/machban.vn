@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#liên kết hướng tới
+#liên kết về phía trước
+@Lĩnh vực: toán & tin
+#liên kết chuyển tiếp
+#liên kết nhảy tiếp

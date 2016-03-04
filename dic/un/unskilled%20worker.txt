@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công nhân lao động phổ thông
+#công nhân, thợ không lành nghề
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công nhân không lành nghề
+#thợ không chuyên

@@ -1,0 +1,2 @@
+﻿@backward signaling
+#(Tech) báo hiệu đằng sau

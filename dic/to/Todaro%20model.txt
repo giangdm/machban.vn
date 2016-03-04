@@ -1,0 +1,3 @@
+﻿@Todaro model
+#(Econ) Mô hình Todaro.
+: Mô hình kinh tế nổi tiếng nhất về di cư trong nước ở các nước đang phát triển. Tác giả là Michạe Todaro - nhà kinh tế học người Mỹ đã từng làm việc ở Châu Phi. Mô hình này giải thích hiện tượng di cư từ nông thôn ra thành thị cao ở hầu hết các nước đang phát triển là hợp lý xét từ quan điểm kinh tế. Điểm quan trọng là có mức chênh lệc lớn giữa thu nhập ở khu vực công nghiệp hiện đại và thu nhập ở nông thôn.Thường thường, thu nhập ở khu công nghiệp ở trên mức cân bằng thị trường vì một số lý do. Câu trả lời dài hạn cho các vấn đề đó là tạo ra các chính sách ở cả thành thị và nông thôn để giảm mức chênh lệch trong thu nhập thực tế giữa hai khu vực.

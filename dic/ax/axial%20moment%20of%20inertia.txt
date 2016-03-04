@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mômen quán tính trục
+@Lĩnh vực: xây dựng
+#mômen quán tính (đối với) trục

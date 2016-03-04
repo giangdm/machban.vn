@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sai số trung bình
+@Lĩnh vực: toán & tin
+#độ sai trung bình

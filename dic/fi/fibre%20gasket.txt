@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+#lớp đệm sợi
+@Lĩnh vực: vật lý
+#vòng đệm sợi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+#lớp đệm sợi
+@Lĩnh vực: vật lý
+#vòng đệm sợi

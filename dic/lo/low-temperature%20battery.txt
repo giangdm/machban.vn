@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#ắcqui nhiệt độ thấp
+@Lĩnh vực: điện lạnh
+#dàn ở nhiệt độ thấp

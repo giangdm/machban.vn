@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ (tính) khuếch tán hơi nước
+#độ khuếch tán hơi nước

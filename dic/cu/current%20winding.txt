@@ -1,0 +1,2 @@
+﻿@current winding
+#(Tech) cuộn dây dòng

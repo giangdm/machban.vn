@@ -1,0 +1,3 @@
+﻿@Aggregate concentration
+#(Econ) Sự tập trung gộp.
+: Biểu đồ chi tiết về SỐ LƯỢNG CỦA SẢN PHẨM QUỐC GIA RÒNG có thể được mua ở mỗi mức giá chung.

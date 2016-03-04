@@ -1,0 +1,2 @@
+﻿@absolute value function
+#(Tech) hàm số trị tuyệt đối

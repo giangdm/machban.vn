@@ -1,0 +1,41 @@
+﻿@Fixed / floating exchange rates
+#(Econ) Tỷ giá hối đoái cố định / thả nổi.
+<!-- more -->
+@fixed /fikst/
+*tính từ
+#đứng yên, bất động, cố định
+=a fixed star: định tinh
+=a fixed point: điểm cố định (của cảnh sát đứng thường trực)
+#được bố trí trước
+=a fixed fight: một cuộc đấu quyền Anh đã được bố trí trước (cho ai được)
+#everyone is well fixed
+#(từ Mỹ,nghĩa Mỹ) mọi người đã có đẻ cái cần thiết
+@Chuyên ngành kinh tế
+#yếu tố cố định
+@Chuyên ngành kỹ thuật
+#bất động
+#bền vững
+#chắc chắn
+#kẹp chặt
+#không đổi
+#ổn định
+@Lĩnh vực: điện lạnh
+#ấn định
+@Lĩnh vực: xây dựng
+#bị bắt chặt
+#tĩnh lại
+@Chuyên ngành kỹ thuật
+#bất động
+#bền vững
+#chắc chắn
+#kẹp chặt
+#không đổi
+#ổn định
+@Lĩnh vực: điện lạnh
+#ấn định
+@Lĩnh vực: xây dựng
+#bị bắt chặt
+#tĩnh lại
+<!-- more -->
+@fixed
+#cố định, ổn định; không đổi

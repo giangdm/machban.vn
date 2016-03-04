@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phòng lạnh sản xuất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ lạnh (dùng trong) quá trình (sản xuất)
+#bộ lạnh (dùng trong) quá trình sản xuất

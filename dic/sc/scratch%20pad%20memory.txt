@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ làm việc
+@Lĩnh vực: toán & tin
+#vùng bộ nhớ làm việc

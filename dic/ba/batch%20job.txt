@@ -1,0 +1,6 @@
+﻿@batch job
+#(Tech) công việc theo lô
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#công việc theo bó
+#đơn vị bó công việc

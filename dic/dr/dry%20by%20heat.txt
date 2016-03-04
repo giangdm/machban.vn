@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#làm khô bằng nhiệt
+#sấy khô bằng nhiệt

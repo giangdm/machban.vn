@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ gấp đôi điện áp
+@Lĩnh vực: điện
+#bộ nhân đôi điện áp
+#mạch nhân đôi điện thế
+#mạch tăng đôi điện áp
+#mạch tăng đôi điện thế
+@Lĩnh vực: điện lạnh
+#mạch bội áp

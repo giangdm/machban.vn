@@ -1,0 +1,2 @@
+﻿@GT-cut crystal
+#(Tech) tinh thể cắt kiểu GT

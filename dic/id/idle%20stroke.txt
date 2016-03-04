@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hành trình chạy không
+#hành trình ngược
+#khoảng chạy không
+#sự chạy không tải
+@Lĩnh vực: xây dựng
+#bước không tải
+@Lĩnh vực: hóa học & vật liệu
+#hành trình không tải
+#khoảng thời gian không tải

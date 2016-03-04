@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#quyết toán hết các khoản
+#sự thanh toán lần cuối
+#tất toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tổng lún
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ lún cuối cùng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tổng lún
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ lún cuối cùng

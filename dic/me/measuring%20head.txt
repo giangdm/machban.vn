@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cầu đo
+#đầu dò
+#đầu đo
+@Lĩnh vực: đo lường & điều khiển
+#đầu cảm biến

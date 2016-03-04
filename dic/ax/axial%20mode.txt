@@ -1,0 +1,2 @@
+﻿@axial mode
+#(Tech) kiểu dao động xuyên tâm

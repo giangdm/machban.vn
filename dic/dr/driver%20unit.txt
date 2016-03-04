@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị điều khiển
+@Lĩnh vực: toán & tin
+#bộ lái
+#đơn vị điều khiển

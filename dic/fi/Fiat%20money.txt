@@ -1,0 +1,14 @@
+﻿@Fiat money
+#(Econ) Tiền theo luật định
+: Tiền có vị thế được luật pháp quy định.
+<!-- more -->
+@fiat money /'faiæt'mʌni/
+*danh từ
+#(từ Mỹ,nghĩa Mỹ) tiền giấy (không đổi lấy vàng được)
+@Chuyên ngành kinh tế
+#bạc giấy
+#đồng tiền danh nghĩa
+#đồng tiền pháp định
+#tiền giấy không chuyển đổi (thành vàng, bạc)
+#tiền quy ước
+#tín tệ

@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#bảng tiến độ sản xuất
+#chương trình sản xuất
+#chương trình sản xuất, bảng tiến độ sản xuất
+@Chuyên ngành kỹ thuật
+#chương trình sản xuất
+#kế hoạch sản xuất
+#lịch biểu sản xuất
+@Lĩnh vực: hóa học & vật liệu
+#kế hoạch khai thác
+@Lĩnh vực: xây dựng
+#quy chế sản xuất
+#tiến độ sản xuất

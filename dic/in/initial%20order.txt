@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự đặt hàng lần đầu
+@Chuyên ngành kỹ thuật
+#lệnh khởi đầu
+@Lĩnh vực: toán & tin
+#lệnh ban đầu

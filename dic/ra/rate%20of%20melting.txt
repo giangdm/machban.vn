@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tốc độ tan
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tốc độ tan băng

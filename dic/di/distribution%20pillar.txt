@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cột phân phối điện
+@Lĩnh vực: điện
+#trụ phân phối

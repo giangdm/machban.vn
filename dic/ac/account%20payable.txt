@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#khoản mục phải trả người bán
+#khoản mục phải trả người lớn
+#nợ phải trả
+#tài khoản phải trả
+#trái khoản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trương mục cho vay

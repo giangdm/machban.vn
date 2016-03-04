@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#vách ngăn
+@Lĩnh vực: xây dựng
+#tường cách ngăn
+#vách ngăn giữa
+@Lĩnh vực: toán & tin
+#tường vách
+@Lĩnh vực: hóa học & vật liệu
+#vách phân bố

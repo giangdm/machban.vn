@@ -1,0 +1,2 @@
+﻿@diode clamping
+#(Tech) ghim bằng đèn hai cực

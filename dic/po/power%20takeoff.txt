@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#công suất ra
+#công suất trích ra
+@Lĩnh vực: giao thông & vận tải
+#sự cất cánh động lực
+#sự trích công suất

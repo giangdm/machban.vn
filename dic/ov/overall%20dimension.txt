@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#khổ tiếp cận
+#kích thước khuôn khổ
+#kích thước lớn nhất
+#kích thước ngoài
+@Lĩnh vực: điện lạnh
+#độ cồng kềnh
+#khổ ngoài
+@Lĩnh vực: xây dựng
+#khổ lắp ráp
+#kích thước bao ngoài
+#kích thước gabarit
+#kích thước tổng
+@Lĩnh vực: hóa học & vật liệu
+#kích thước tới hạn
+#tổng kích thước

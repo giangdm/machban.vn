@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#lô kiểm tra
+@Chuyên ngành kỹ thuật
+#lô kiểm tra
+#lô thử nghiệm
+#loạt kiểm tra
+@Lĩnh vực: toán & tin
+#lô (đưa vào) kiểm tra
+@Lĩnh vực: đo lường & điều khiển
+#lô kiểm tra (ngẫu nhiên)

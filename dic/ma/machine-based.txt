@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#cơ giới hóa
+#tự động hóa

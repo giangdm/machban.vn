@@ -1,0 +1,9 @@
+﻿@Partial derivative
+#(Econ) Đạo hàm riêng phần.
+: Trong các hàm số có hai biến số độc lập hay có nhiều hơn, đạo hàm này tính theo một trong những biến số này, trong khi coi các biến số độc lập khác là hằng số.
+@Chuyên ngành kinh tế
+#đạo hàm thiên vị
+@Chuyên ngành kỹ thuật
+#đạo hàm riêng
+@Lĩnh vực: toán & tin
+#đạo hàm từng phần

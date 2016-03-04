@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#dầu động cơ nhiệt độ thấp
+#dầu máy bay nhiệt độ thấp (dưới 53, 5)

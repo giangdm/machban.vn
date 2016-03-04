@@ -1,0 +1,5 @@
+﻿@cross assembler
+#(Tech) chương trình hợp giao hệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ hợp dịch chéo

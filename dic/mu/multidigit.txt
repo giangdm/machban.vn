@@ -1,0 +1,6 @@
+﻿@multidigit
+#nhiều chữ số, nhiều hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhiều chữ số
+#nhiều hàng

@@ -1,0 +1,5 @@
+﻿@compensated regulator
+#(Tech) bộ ổn định bù trừ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ ổn định bù

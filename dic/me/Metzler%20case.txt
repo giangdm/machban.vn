@@ -1,0 +1,3 @@
+﻿@Metzler case
+#(Econ) Tình huống Metzler.
+: Là tình huống trong học thuyết THUẾ QUAN được nhà kinh tế Metzler phân tích, theo đó việc đánh thuế vào mặt hàng nhập khẩu sẽ cải thiện tỷ giá thương mại theo hướng không chỉ tỷ giá trao đổi ngoài nước mà ngay cả tỷ giá trao đổi trong nước tính cả thuế quan cũng được cải thiện.

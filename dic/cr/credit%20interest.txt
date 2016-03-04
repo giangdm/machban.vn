@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#lãi mua chịu
+#lãi tiền gửi
+#lãi tiền vay
+#lãi tín dụng
+@Chuyên ngành kỹ thuật
+#lãi suất tín dụng

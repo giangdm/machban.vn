@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp điều hợp
+@Lĩnh vực: toán & tin
+#lớp giao tiếp

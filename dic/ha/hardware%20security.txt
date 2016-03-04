@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#an toàn phần cứng
+#sự bảo vệ phần cứng

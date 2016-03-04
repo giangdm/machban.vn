@@ -1,0 +1,6 @@
+﻿@angular deviation
+#(Tech) độ chênh góc
+@Chuyên ngành kỹ thuật
+#độ lệch góc
+@Lĩnh vực: điện tử & viễn thông
+#sự sai lệch góc

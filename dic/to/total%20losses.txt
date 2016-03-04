@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#sự hao hụt chung
+#tổng lượng hao hụt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tổn hao tổng
+@Lĩnh vực: điện
+#tổn thất toàn bộ
+#tổng tổn hao
+@Lĩnh vực: hóa học & vật liệu
+#tổng hao hụt

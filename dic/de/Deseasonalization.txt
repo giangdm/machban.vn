@@ -1,0 +1,5 @@
+﻿@Deseasonalization
+#(Econ) Xoá tính chất thời vụ.
+: Quá trình loại bỏ những ảnh hưởng của mùa vụ, những hiện tượng xảy ra thường xuyên theo mùa làm méo mó xu thế nổi bật khỏi các số liệu. Xem FILTER.
+@Chuyên ngành kinh tế
+#san bằng tính chất mùa vụ

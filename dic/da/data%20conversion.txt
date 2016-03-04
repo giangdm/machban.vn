@@ -1,0 +1,7 @@
+﻿@data conversion
+#(Tech) đổi dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#biến đổi dữ liệu
+@Lĩnh vực: toán & tin
+#chuyển đổi dữ liệu

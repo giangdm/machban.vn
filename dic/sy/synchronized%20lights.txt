@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#đèn giao thông định pha
+#đèn giao thông đồng bộ hóa (theo sơ đồ)

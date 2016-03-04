@@ -1,0 +1,3 @@
+﻿@Cost - benefit analysis
+#(Econ) Phân tích chi phí - lợi ích.
+: Khung khái niệm để đánh giá các dự án đầu tư trong khu vực chính phủ, mặc dù nó có thể được mở rộng sang bất cứ dự án khu vực tư nhân nào.

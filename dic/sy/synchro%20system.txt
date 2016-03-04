@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ sensyn
+#hệ tự đồng bộ
+@Lĩnh vực: điện
+#hệ thống (tự) đồng bộ
+@Lĩnh vực: toán & tin
+#hệ thống đồng bộ

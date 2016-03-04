@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dây dẫn đơn
+#đường dây đơn
+@Lĩnh vực: điện lạnh
+#đường dây đơn (dây kia là đất)
+#đường truyền một dây

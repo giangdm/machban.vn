@@ -1,0 +1,5 @@
+﻿@auto-restart
+#(Tech) tái khởi tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tự khởi động lại

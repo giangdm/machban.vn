@@ -1,0 +1,9 @@
+﻿@draft quality
+#(Tech) phẩm chất vẽ phác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chất lượng in thô
+@Lĩnh vực: toán & tin
+#chất lượng nháp
+#chất lượng phác thảo
+#chất lượng thô

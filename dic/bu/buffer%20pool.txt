@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#cơ cấu điều tiết
+#dự trữ đệm
+@Chuyên ngành kỹ thuật
+#vùng đệm
+@Lĩnh vực: toán & tin
+#nhóm bộ đệm
+@Lĩnh vực: điện tử & viễn thông
+#vũng đệm

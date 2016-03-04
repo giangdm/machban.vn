@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đường bao
+#đường đồng mức
+#đường khoanh
+#đường viền
+#gia công mặt định hình
+#phay chép hình

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: môi trường
+#lượng mưa tại bình đo
+#lượng mưa tại trạm đo

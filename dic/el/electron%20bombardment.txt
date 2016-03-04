@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bắn phá bằng electron
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bắn phá bằng electron

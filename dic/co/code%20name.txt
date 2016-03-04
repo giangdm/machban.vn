@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#biệt danh
+#mã số
+@Chuyên ngành kỹ thuật
+#ước danh
+@Lĩnh vực: toán & tin
+#tên mã

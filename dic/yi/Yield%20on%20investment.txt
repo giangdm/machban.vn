@@ -1,0 +1,4 @@
+﻿@Yield on investment
+#(Econ) Lợi nhuận từ đầu tư.
+@Chuyên ngành kinh tế
+#lãi đầu tư

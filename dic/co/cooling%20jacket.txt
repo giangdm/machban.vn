@@ -1,0 +1,11 @@
+﻿@cooling jacket
+#(Tech) áo làm nguội
+@Chuyên ngành kỹ thuật
+#vỏ làm lạnh
+@Lĩnh vực: điện lạnh
+#áo (được làm lạnh)
+#vỏ (được làm lạnh)
+@Lĩnh vực: hóa học & vật liệu
+#áo làm lạnh
+@Lĩnh vực: ô tô
+#áo nước

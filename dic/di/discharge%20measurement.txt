@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép đo (lượng) xả
+@Lĩnh vực: vật lý
+#phép đo phóng lượng

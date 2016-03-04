@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cân bằng nhiệt
+#sự cân bằng nhiệt
+@Lĩnh vực: điện lạnh
+#cân bằng đẳng nhiệt
+@Lĩnh vực: xây dựng
+#cán cân nhiệt

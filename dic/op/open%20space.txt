@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#chỗ trống trải
+#nơi thoáng đãng
+@Chuyên ngành kỹ thuật
+#không gian mở
+#không gian tự do
+@Lĩnh vực: xây dựng
+#không gian hở
+#không gian hở (lộ thiên)
+#khu không xây dựng
+#vùng đất đã khai thác

@@ -1,0 +1,7 @@
+﻿@back coupling
+#(Tech) ghép ngược
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ghép ngược
+@Lĩnh vực: xây dựng
+#sự liên kết ngược

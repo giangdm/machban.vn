@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cái bao lò xo
+@Lĩnh vực: xây dựng
+#cái bao của lò xo
+@Lĩnh vực: cơ khí & công trình
+#vỏ bọc lò xo

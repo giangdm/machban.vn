@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện áp Zener
+@Chuyên ngành kỹ thuật
+#điện áp đánh thủng
+@Lĩnh vực: điện
+#điện thế zener
+@Lĩnh vực: điện tử & viễn thông
+#sự đánh thủng zener

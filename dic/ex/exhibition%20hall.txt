@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#phòng triển lãm
+#phòng trưng bày
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phòng triển lãm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phòng triển lãm

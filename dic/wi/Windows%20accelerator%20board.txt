@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bo mạch tăng tốc cho Windows
+#mạch tăng tốc cho Windows

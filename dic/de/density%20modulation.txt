@@ -1,0 +1,2 @@
+﻿@density modulation
+#(Tech) sự biến điệu mật độ

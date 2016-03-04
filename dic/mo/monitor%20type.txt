@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#loại monito
+@Lĩnh vực: toán & tin
+#kiểu monito

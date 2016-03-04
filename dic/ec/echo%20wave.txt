@@ -1,0 +1,5 @@
+﻿@echo wave
+#(Tech) sóng dội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sóng dội

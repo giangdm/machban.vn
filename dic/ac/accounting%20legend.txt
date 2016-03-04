@@ -1,0 +1,2 @@
+﻿@accounting legend
+#(Tech) chú giải kế toán

@@ -1,0 +1,4 @@
+﻿@eigenfunction
+#(Tech) hàm số đặc trưng, hàm eigen
+@Chuyên ngành kỹ thuật
+#hàm riêng

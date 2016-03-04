@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số giãn nở do nhiệt
+#hệ số giãn nở nhiệt
+@Lĩnh vực: xây dựng
+#hệ số nở nhiệt

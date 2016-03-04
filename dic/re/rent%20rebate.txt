@@ -1,0 +1,5 @@
+﻿@rent rebate
+*danh từ
+#sự hạ giá tiền thuê (do chính quyền địa phương ban hành, áp dụng đối với những người thu nhập thấp, nhất là những người thuê nhà của nhà nước)
+@Chuyên ngành kinh tế
+#sự hoàn lại tiền thuê

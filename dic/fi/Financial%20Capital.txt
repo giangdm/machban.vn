@@ -1,0 +1,11 @@
+﻿@Financial Capital
+#(Econ) Vốn tài chính.
+: Tài sản có khả năng chuyển hoán khác với tài sản vật chất của một công ty.
+@Chuyên ngành kinh tế
+#vốn tài chính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tư bản tài chính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tư bản tài chính

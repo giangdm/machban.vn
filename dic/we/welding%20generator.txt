@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy điện hàn
+#máy hàn điện
+@Lĩnh vực: điện lạnh
+#máy phát điện hàn

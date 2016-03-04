@@ -1,0 +1,6 @@
+﻿@editor program
+#(Tech) chương trình biên soạn
+@Chuyên ngành kỹ thuật
+#chương trình soạn thảo
+@Lĩnh vực: toán & tin
+#chương trình biên tập

@@ -1,0 +1,4 @@
+﻿@compararison
+#sự so sánh
+#group c. so sánh nhóm
+#paired c. so sánh theo cặp

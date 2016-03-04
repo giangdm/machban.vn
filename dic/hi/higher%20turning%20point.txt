@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#điểm ngoặc lồi
+#điểm ngoặt lồi (trong đồ thị)

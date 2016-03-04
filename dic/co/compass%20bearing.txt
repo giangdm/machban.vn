@@ -1,0 +1,7 @@
+﻿@compass bearing
+#(Tech) góc phương vị la bàn
+@Chuyên ngành kỹ thuật
+#góc phương vị địa bàn
+#góc phương vị từ
+@Lĩnh vực: toán & tin
+#góc phương vị la bàn

@@ -1,0 +1,2 @@
+﻿@qemm
+#Một chương trình quản lý bộ nhớ của hãng Quaterdeck Office Systems

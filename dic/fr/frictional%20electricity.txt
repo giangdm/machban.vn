@@ -1,0 +1,8 @@
+﻿@frictional electricity
+#(Tech) điện ma sát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện ma sát
+@Lĩnh vực: điện lạnh
+#hiện tượng điện ma sát
+#tính điện ma sát

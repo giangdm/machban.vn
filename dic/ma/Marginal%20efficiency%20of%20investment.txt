@@ -1,0 +1,7 @@
+﻿@Marginal efficiency of investment
+#(Econ) Hiệu suất cận biên của đầu tư.
+: Còn gọi là tỷ súât lợi tức nội hoàn. Là tỷ lệ chiết khấu làm cho giá trị hiện tại của lợi tức ròng dự kiến từ một tài sản vốn bằng đúng giá cung cấp của nó trong trường hợp mức giá này được công nhận sẽ tăng lên trong ngắn hạn.
+@Chuyên ngành kinh tế
+#hiệu quả biên của đầu tư
+#hiệu suất biên tế cuả đầu tư
+#hiệu suất biên tế của đầu tư

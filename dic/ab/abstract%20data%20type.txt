@@ -1,0 +1,9 @@
+﻿- (y học) kiểu dữ liệu trừu tượng. Trong lĩnh vực lập trình, đây là một kiểu dữ liệu được mô tả dưới dạng thông tin mà nó có thể chứa các phép tính thi hành được với nó. Kiểu dữ liệu trừu tượng thường mang tính tổng quát hơn so với kiểu dữ liệu bị giới hạn bới các tính chất của các đối tượng mà nó chứa - chẳng hạn, kiểu dữ liệu "con vật nuôi" thường tổng quát hơn so với các kiểu dữ liệu "chó nuôi" , "chim nuôi" và "cá nuôi" . Ngăn xếp ( stack) là một ví dụ điển hình được dùng để minh hoạ kiểu dữ liệu trừu tượng. Nó là một phần nhỏ của bộ nhớ được dùng để lưu trữ thông tin, thường mang tính tạm thời. Với tư các là một kiểu dữ liệu trừu tượng, ngăn xếp chẳng qua là một cấu trúc nơi các giá trị có thể được thêm vào và lấy ra. Kiểu của giá trị như số nguyên chẳng hạn không liên quan gì đến phần định nghĩa.
+Cách thức mà chương trình thực hiện các phép tính trên các kiểu dữ liệu trừu tượng được gói riêng (hoặc được che giấu) tách hẳn với phần còn lại của chương trình. Việc gói riêng cho phép lập trình viên thay đổi phần định nghĩa của kiểu dữ liệu hoặc thay đổi các phép tính của nó, mà không gây lỗi cho mã chương trình hiện diện đang sử dụng kiểu dữ liệu trừu tượng. Kiểu dữ liệu trừu tượng biểu thị cho một bước trung gian giữa hệ lập trình truyền thống và lập trình hướng đối tượng.
+Xem thêm module,  object-oriented programming
+@Chuyên ngành kỹ thuật
+#kiểu dữ liệu trừu tượng
+@Lĩnh vực: xây dựng
+#ấn mẫu dữ liệu trừu tượng
+@Lĩnh vực: toán & tin
+#loại dữ liệu trừu tượng

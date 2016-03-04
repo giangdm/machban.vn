@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dây dẫn rỗng
+@Lĩnh vực: điện
+#ống dẫn rỗng
+#thanh dẫn rỗng

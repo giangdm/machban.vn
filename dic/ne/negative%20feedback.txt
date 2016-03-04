@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hồi tiếp âm
+#hồi tiếp ngược
+#liên hệ ngược âm
+#phản hồi âm
+#sự hồi tiếp âm
+@Lĩnh vực: đo lường & điều khiển
+#phản hồi tiêu cực

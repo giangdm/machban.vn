@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#trì hoãn mở phiên giao dịch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mở chậm

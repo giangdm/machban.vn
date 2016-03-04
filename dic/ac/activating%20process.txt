@@ -1,0 +1,2 @@
+﻿@activating process
+#(Tech) xử lý khởi động

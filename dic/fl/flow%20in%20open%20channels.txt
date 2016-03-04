@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#dòng chảy hở
+#dòng chảy ở kênh hở
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#dòng chảy hở
+#dòng chảy ở kênh hở

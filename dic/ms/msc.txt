@@ -1,0 +1,4 @@
+﻿@msc
+#thạc sĩ khoa học (Master of Science)
+=to have an MSc in mathematics:có bằng thạc sĩ toán học
+=to be an MSc in theoretical physics:là thạc sĩ vật lý lý thuyết

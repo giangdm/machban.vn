@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#vít tinh chỉnh
+@Lĩnh vực: vật lý
+#vít điều chỉnh chính xác
+#vít điều chỉnh tinh
+@Lĩnh vực: điện
+#vít hiệu chỉnh tinh
+@Chuyên ngành kỹ thuật
+#vít tinh chỉnh
+@Lĩnh vực: vật lý
+#vít điều chỉnh chính xác
+#vít điều chỉnh tinh
+@Lĩnh vực: điện
+#vít hiệu chỉnh tinh

@@ -1,0 +1,2 @@
+﻿@end-of-message (EOM)
+#(Tech) kết thúc thông báo, cuối thông báo

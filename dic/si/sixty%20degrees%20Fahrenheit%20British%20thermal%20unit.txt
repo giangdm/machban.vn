@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#Btu 60/61 (xấp xỉ 1, 055 kJ)
+#Btu sáu mươi độ Fahrenheit
+#đơn vị nhiệt Anh sáu mươi độ Fahrenheit

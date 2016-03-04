@@ -1,0 +1,2 @@
+﻿@gate-triggered thyristor
+#(Tech) bộ công tắc chất bán dẫn đóng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#bộ quét hồng ngoại
+@Lĩnh vực: toán & tin
+#máy quét hồng ngoại

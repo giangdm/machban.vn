@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Tóm lược tin báo (MD2, MD4, MD5) (IETF)

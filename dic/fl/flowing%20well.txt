@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#giếng tự chảy
+@Lĩnh vực: hóa học & vật liệu
+#giếng khoan tự phun
+@Lĩnh vực: xây dựng
+#giếng phun nước
+@Chuyên ngành kỹ thuật
+#giếng tự chảy
+@Lĩnh vực: hóa học & vật liệu
+#giếng khoan tự phun
+@Lĩnh vực: xây dựng
+#giếng phun nước

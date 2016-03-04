@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tường biên
+#tường ngăn
+@Lĩnh vực: toán & tin
+#bờ tường thành
+@Lĩnh vực: vật lý
+#vách biên

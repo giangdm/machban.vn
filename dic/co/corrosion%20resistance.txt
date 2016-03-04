@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#độ kháng ăn mòn
+@Chuyên ngành kỹ thuật
+#độ bền chống ăn mòn
+@Lĩnh vực: xây dựng
+#độ bền chống gỉ
+@Lĩnh vực: ô tô
+#khả năng chống ăn mòn

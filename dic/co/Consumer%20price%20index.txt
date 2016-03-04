@@ -1,0 +1,5 @@
+﻿@Consumer price index
+#(Econ) Chỉ số giá tiêu dùng
+: Xem RETAIL PRICE INDEX
+@Chuyên ngành kinh tế
+#chỉ số giá tiêu dùng

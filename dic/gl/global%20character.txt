@@ -1,0 +1,5 @@
+﻿@global character
+#(Tech) mẫu tự đại biểu, ký tự đại biểu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký tự tổng thể

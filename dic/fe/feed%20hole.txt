@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗ hổng
+#lỗ móc đẩy
+@Lĩnh vực: điện
+#lỗ cấp liệu
+@Lĩnh vực: xây dựng
+#lỗ dẫn
+@Lĩnh vực: toán & tin
+#ngăn tiếp giấy
+@Chuyên ngành kỹ thuật
+#lỗ hổng
+#lỗ móc đẩy
+@Lĩnh vực: điện
+#lỗ cấp liệu
+@Lĩnh vực: xây dựng
+#lỗ dẫn
+@Lĩnh vực: toán & tin
+#ngăn tiếp giấy

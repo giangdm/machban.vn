@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nguyên tố chuyển tiếp
+@Lĩnh vực: điện lạnh
+#phân tử chuyển tiếp (giữa các kiểu hệ truyền)

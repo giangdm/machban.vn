@@ -1,0 +1,4 @@
+﻿@decimal number system
+#(Tech) hệ thống số thập phân
+@Chuyên ngành kỹ thuật
+#hệ thống số thập phân

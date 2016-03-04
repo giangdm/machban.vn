@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#điều kiện làm việc
+#điều kiện sử dụng
+#điều kiện vận hành
+@Lĩnh vực: xây dựng
+#điều kiện hoạt động
+#điều kiện khai thác
+@Lĩnh vực: cơ khí & công trình
+#điều kiện phục vụ

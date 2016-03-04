@@ -1,0 +1,24 @@
+﻿@Chuyên ngành kỹ thuật
+#ống bù
+#ống nối hình cung
+#vòng bù
+#vòng giãn nở
+#vòng mở rộng
+@Lĩnh vực: điện lạnh
+#sơ đồ giãn nở
+#sơ đồ tiết lưu
+@Lĩnh vực: xây dựng
+#vòng dãn nở
+#vòng giãn
+@Chuyên ngành kỹ thuật
+#ống bù
+#ống nối hình cung
+#vòng bù
+#vòng giãn nở
+#vòng mở rộng
+@Lĩnh vực: điện lạnh
+#sơ đồ giãn nở
+#sơ đồ tiết lưu
+@Lĩnh vực: xây dựng
+#vòng dãn nở
+#vòng giãn

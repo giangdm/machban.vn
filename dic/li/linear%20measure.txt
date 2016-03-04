@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#đo đường dài
+#đơn vị đo đường dài
+#người thừa kế trực hệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#sự đo chiều dài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#sự đo chiều dài

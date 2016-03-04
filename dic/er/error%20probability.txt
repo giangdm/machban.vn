@@ -1,0 +1,8 @@
+﻿@error probability
+#(Tech) xác suất sai số
+@Chuyên ngành kỹ thuật
+#xác suất lỗi
+#xac suất sai hỏng
+@Chuyên ngành kỹ thuật
+#xác suất lỗi
+#xac suất sai hỏng

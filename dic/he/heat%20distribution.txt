@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phân bố nhiệt
+#sự phân bố nhiệt
+@Lĩnh vực: cơ khí & công trình
+#sự phân bố bố nhiệt
+@Lĩnh vực: xây dựng
+#sự phân phối nhiệt

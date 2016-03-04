@@ -1,0 +1,5 @@
+﻿@probit (probability unit)
+#đơn vị xác suất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đơn vị xác suất

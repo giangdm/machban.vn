@@ -1,0 +1,3 @@
+﻿@mass-seperator
+*danh từ
+#bộ tách đồng vị

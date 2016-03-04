@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chấu lấy điện
+#phích cắm điện
+@Lĩnh vực: điện
+#phích có ổ cắm

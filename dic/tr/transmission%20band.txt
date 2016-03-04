@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#băng tần phát
+#dải tần truyền
+@Lĩnh vực: điện lạnh
+#băng truyền (tần số)
+@Lĩnh vực: điện tử & viễn thông
+#dải truyền

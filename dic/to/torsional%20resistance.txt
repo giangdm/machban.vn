@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền vặn
+#độ bền xoắn
+@Lĩnh vực: xây dựng
+#nội lực chống xoắn
+#sức kháng xoắn
+@Lĩnh vực: cơ khí & công trình
+#sức chống xoắn

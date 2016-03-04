@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#electron thứ cấp
+@Lĩnh vực: điện lạnh
+#điện tử thứ cấp

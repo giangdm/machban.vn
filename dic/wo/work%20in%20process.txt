@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giá trị bán thành phẩm
+#hàng đang làm
+#hàng đang làm, sản phẩm đang chế tạo, giá trị bán thành phẩm
+#sản phẩm đang chế tạo

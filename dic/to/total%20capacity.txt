@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#tổng công suất
+#tổng sản lượng
+@Lĩnh vực: xây dựng
+#dung lượng toàn phần
+#dung tích toàn phần
+@Lĩnh vực: toán & tin
+#tổng dung lượng

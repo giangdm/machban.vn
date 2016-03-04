@@ -1,0 +1,3 @@
+﻿@Marshallian demand curve
+#(Econ) Đường cầu Marshall
+: Là đường cầu được sử dụng rộng rãi nhất trong đó phản ứng của lượng cầu đối với mức giá chịu ảnh hưởng của cả hiệu ứng thu nhập lẫn hiệu ứng thay thế.

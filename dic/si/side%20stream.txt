@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng bên
+@Lĩnh vực: toán & tin
+#dòng biên
+@Lĩnh vực: hóa học & vật liệu
+#dòng cạnh

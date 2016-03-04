@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tấm bảo vệ
+@Lĩnh vực: xây dựng
+#tấm bọc ngoài
+@Lĩnh vực: hóa học & vật liệu
+#tấm bọc thép

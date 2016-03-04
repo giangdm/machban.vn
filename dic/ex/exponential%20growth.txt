@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phát triển kiểu hàm mũ
+@Lĩnh vực: toán & tin
+#sự tăng theo số mũ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phát triển kiểu hàm mũ
+@Lĩnh vực: toán & tin
+#sự tăng theo số mũ

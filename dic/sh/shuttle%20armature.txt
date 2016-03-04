@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phần cứng kiểu con thoi
+#phần cứng lắc qua lại

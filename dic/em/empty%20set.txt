@@ -1,0 +1,16 @@
+﻿@empty set
+#(Tech) tập hợp rỗng
+@Chuyên ngành kỹ thuật
+#tập trống
+@Lĩnh vực: toán & tin
+#tập (hợp) rỗng
+#tập hợp rỗng
+#tập hợp trống
+#tập trắng
+@Chuyên ngành kỹ thuật
+#tập trống
+@Lĩnh vực: toán & tin
+#tập (hợp) rỗng
+#tập hợp rỗng
+#tập hợp trống
+#tập trắng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy nghe
+@Lĩnh vực: vật lý
+#dụng cụ trợ thính
+@Lĩnh vực: y học
+#máy trợ thính

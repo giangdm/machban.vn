@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#máy kéo (dùng để kéo xe móc hậu)
+@Lĩnh vực: xây dựng
+#máy kéo xe tải

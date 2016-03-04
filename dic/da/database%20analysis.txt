@@ -1,0 +1,2 @@
+﻿@database analysis
+#(Tech) su_. phân tích kho dữ liệu

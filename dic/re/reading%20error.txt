@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sai số tính toán
+@Lĩnh vực: xây dựng
+#sai số dọc
+#sai số đọc

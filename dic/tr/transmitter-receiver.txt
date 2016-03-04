@@ -1,0 +1,5 @@
+﻿@transmitter-receiver
+*danh từ
+#<vt>  transceiver máy thu phát vô tuyến
+@Chuyên ngành kỹ thuật
+#máy thu phát

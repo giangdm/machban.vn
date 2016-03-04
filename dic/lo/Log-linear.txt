@@ -1,0 +1,3 @@
+﻿@Log-linear
+#(Econ) Tuyến tính lôgarit
+: Một mối quan hệ toán học mà nếu biểu diễn bằng lôgarit thì là một hàm tuyến tính.

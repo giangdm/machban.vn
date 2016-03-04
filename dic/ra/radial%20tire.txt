@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lốp kiểu lớp tỏa tia
+@Lĩnh vực: ô tô
+#lốp có lớp bố ngang
+@Lĩnh vực: cơ khí & công trình
+#lốp xe có bố tỏa tròn

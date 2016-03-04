@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đếm xuôi-ngược
+@Lĩnh vực: đo lường & điều khiển
+#bộ đếm hai chiều
+#bộ đếm xuôi/ngược
+@Lĩnh vực: điện tử & viễn thông
+#bộ đếm tăng/giảm

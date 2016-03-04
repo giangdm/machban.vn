@@ -1,0 +1,2 @@
+﻿@Automatic fiscal policy
+#(Econ) Chính sách thu chi ngân sách tự động.

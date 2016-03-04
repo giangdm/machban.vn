@@ -1,0 +1,2 @@
+﻿@arl
+#Tên một phương pháp lưu trữ và truy tìm thông tin

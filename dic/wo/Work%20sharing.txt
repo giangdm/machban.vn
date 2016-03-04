@@ -1,0 +1,6 @@
+﻿@Work sharing
+#(Econ) Chia sẻ công việc.
+: Là vệc duy trì tỷ lệ có việc làm bằng cách cắt giảm giờ lao động của mỗi công nhân.
+@Chuyên ngành kinh tế
+#việc chia công tác
+#việc chia lượng công tác

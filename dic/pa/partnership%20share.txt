@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#cổ phần (hội viên)
+#hội phần
+@Chuyên ngành kỹ thuật
+#cổ phần lập công ty
+#cổ phần lập hội

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bớt đi phần lẻ cho tròn số
+#làm tròn số
+@Chuyên ngành kỹ thuật
+#làm tròn
+#làm tròn xuống

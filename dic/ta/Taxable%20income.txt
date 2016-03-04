@@ -1,0 +1,10 @@
+﻿@Taxable income
+#(Econ) Thu nhập chịu thuế.
+: Tổng thu nhập trừ đi các khoản trợ cấp và các khoản công tác phí .
+@Chuyên ngành kinh tế
+#lợi tức có thuế
+#thu nhập chịu thuế
+#thu nhập phải chịu thuế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#thu nhập chịu thuế

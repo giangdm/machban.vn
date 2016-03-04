@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kích thước lỗ sàng
+@Lĩnh vực: xây dựng
+#kích thước lỗ rây

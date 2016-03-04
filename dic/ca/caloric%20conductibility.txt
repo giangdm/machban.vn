@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dẫn nhiệt
+#độ khuếch tán nhiệt
+#tính dẫn nhiệt

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#chất điện phân bẩn
+@Lĩnh vực: điện lạnh
+#chất điện phân không sạch

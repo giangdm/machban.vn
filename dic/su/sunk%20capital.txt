@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#vốn bị sa sút
+#vốn đã đầu tư
+#vốn đã định
+#vốn lắng chìm

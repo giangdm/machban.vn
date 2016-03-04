@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trạm công tác chuyên ngành
+@Lĩnh vực: toán & tin
+#trạm máy chuyên dụng

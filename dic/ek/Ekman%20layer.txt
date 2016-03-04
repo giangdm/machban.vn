@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#lớp giới hạn Ekman
+@Lĩnh vực: điện tử & viễn thông
+#tầng giới hạn Ekman

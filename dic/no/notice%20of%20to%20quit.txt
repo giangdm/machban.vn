@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giấy báo bãi ước (thuê mướn)
+#giấy ra lệnh trục xuất
+#thông báo hết hạn cho thuê

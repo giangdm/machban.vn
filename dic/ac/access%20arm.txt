@@ -1,0 +1,10 @@
+﻿@access arm
+#(tin học) cần mang đầu từ, cần truy xuất, tay truy cập. Cần tải (các) đầu đọc/ghi trên bề mặt của đĩa trong ổ đĩa.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cần truy nhập
+#cần truy xuất
+#cơ cấu truy cập
+#tay truy xuất
+@Lĩnh vực: xây dựng
+#tay truy cập

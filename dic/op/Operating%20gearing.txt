@@ -1,0 +1,5 @@
+﻿@Operating gearing
+#(Econ) Tỷ phần chi phí nghiệp vụ cố định.
+: Là một số đo tỷ lệ phần trăm các nghiệp vụ của một doanh nghiệp cấu thành nên các chi phí cố định, phép phân tích điểm hoà vốn có thể được sử dụng để xác định tỷ số này.
+@Chuyên ngành kinh tế
+#tỷ phần nghiệp vụ

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#lượng hàng ra vào
+#năng lực bốc dỡ
+#năng lực xử lý

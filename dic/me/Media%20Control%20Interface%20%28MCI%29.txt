@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao diện điều khiển Media
+@Lĩnh vực: điện tử & viễn thông
+#giao diện điều khiển môi trường

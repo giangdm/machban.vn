@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bình (nước) đá lạnh
+#bình băng đá
+#bình đá lạnh (của thermostat)

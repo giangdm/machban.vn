@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất chu vi
+#ứng suất tiếp tuyến
+@Lĩnh vực: toán & tin
+#ứng suất vòm
+@Lĩnh vực: xây dựng
+#ứng suất vòng

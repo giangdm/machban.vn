@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ biến đổi ảnh
+@Lĩnh vực: toán & tin
+#bộ chuyển đổi ảnh
+@Lĩnh vực: điện lạnh
+#bộ đổi hình

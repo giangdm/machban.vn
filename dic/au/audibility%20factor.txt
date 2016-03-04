@@ -1,0 +1,2 @@
+﻿@audibility factor
+#(Tech) hệ số thính âm

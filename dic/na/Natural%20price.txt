@@ -1,0 +1,5 @@
+﻿@Natural price
+#(Econ) Giá tự nhiên.
+: Là một cụm thuật ngữ được Adam Smith dùng để mô tả giá trị của một loại hàng hoá mà các mức giá thị trường dao động xung quanh giá trị này.
+@Chuyên ngành kinh tế
+#giá cả tự nhiên

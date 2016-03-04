@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#băng thử
+@Lĩnh vực: vật lý
+#băng mẫu thử

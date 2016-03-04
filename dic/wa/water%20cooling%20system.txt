@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#hệ thống giảm nhiệt bằng nước
+@Lĩnh vực: ô tô
+#hệ thống làm mát bằng nước

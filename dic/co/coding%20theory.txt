@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lý thuyết mã
+@Lĩnh vực: toán & tin
+#lý thuyết mã hóa
+#lý thuyết viết mã

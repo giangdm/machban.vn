@@ -1,0 +1,9 @@
+﻿@data processing
+#(Tech) xử lý dữ liệu
+@Chuyên ngành kinh tế
+#xử lý dữ liệu
+#xử lý số liệu
+#xử lý thông tin
+#xử lý tư liệu
+@Chuyên ngành kỹ thuật
+#xử lý dữ liệu

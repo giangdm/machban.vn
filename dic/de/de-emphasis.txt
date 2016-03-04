@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự chỉnh giảm
+#sự giảm nhẹ
+#sự hậu giảm
+#sự san bằng
+@Lĩnh vực: điện
+#mạch giảm cường

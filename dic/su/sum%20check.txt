@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra tổng
+@Lĩnh vực: toán & tin
+#phép kiểm tra tổng
+#sự kiểm tra tổng

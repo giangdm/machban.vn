@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dầm (chịu tải trọng) gió
+#dầm chống gió
+#rầm chống gió

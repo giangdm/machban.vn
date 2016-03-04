@@ -1,0 +1,5 @@
+﻿@conceptual model
+#(Tech) mô hình khái niệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mô hình khái niệm

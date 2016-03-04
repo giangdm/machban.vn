@@ -1,0 +1,5 @@
+﻿@cold backup
+#(Tech) sao lưu nguội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dự phòng nguội

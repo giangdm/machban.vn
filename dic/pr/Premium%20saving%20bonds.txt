@@ -1,0 +1,3 @@
+﻿@Premium saving bonds
+#(Econ) Trái phiếu tiết kiệm có thưởng.
+: Một trái phiếu tiết kiệm của Anh, có thể mua ở bưu điện, lợi tức của nó là cơ hội trúng thưởng sổ xố hàng tháng.

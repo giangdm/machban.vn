@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#doanh số
+#doanh thu
+#doanh thu bán hàng
+#thu nhập bán hàng
+@Chuyên ngành kỹ thuật
+#doanh thu buôn bán

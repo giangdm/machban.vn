@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tầm dao động
+#tâm giao động
+@Lĩnh vực: vật lý
+#tâm rung

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#điện trở một chiều
+@Chuyên ngành kỹ thuật
+#điện trở thuần
+@Lĩnh vực: điện
+#điện trở DC
+#điện trở omic

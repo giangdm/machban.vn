@@ -1,0 +1,5 @@
+﻿@caps lock
+#(Tech) khóa phím chữ hoa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phím Caps Lock

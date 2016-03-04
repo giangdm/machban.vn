@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự xác định màu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#phép định đo màu
+#phép thử màu

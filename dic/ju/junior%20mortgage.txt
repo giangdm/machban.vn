@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#cấp hai
+#không ưu tiên
+#quyền thế chấp ưu tiên hạng hai
+#văn tự thế chấp thứ cấp

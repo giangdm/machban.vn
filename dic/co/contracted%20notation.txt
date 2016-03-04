@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký hiệu rút ngắn
+#ký hiệu tắt
+@Lĩnh vực: điện tử & viễn thông
+#ký pháp rút gọn

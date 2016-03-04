@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu khối
+#nhãn đầu ổ đĩa
+#tiều đề của ổ đĩa

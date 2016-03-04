@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#động lượng suy rộng
+#xung suy rộng
+@Lĩnh vực: xây dựng
+#xung lượng suy rộng

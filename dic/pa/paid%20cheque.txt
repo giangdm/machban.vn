@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phiếu đã rút tiền mặt
+#chi phiếu đã thanh toán
+#séc đã được trả tiền

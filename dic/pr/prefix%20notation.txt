@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#ký pháp Ba Lan
+#ký pháp Lukasiewicz
+#ký pháp tiền tố
+@Lĩnh vực: toán & tin
+#biểu diễn tiền tố
+#kí pháp tiền tô
+#ký hiệu tiền tố

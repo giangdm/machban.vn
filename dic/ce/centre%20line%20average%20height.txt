@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ cao CLA
+#độ cao trung bình cộng
+@Lĩnh vực: cơ khí & công trình
+#độ cao trung bình đường tâm

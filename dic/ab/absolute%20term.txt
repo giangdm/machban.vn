@@ -1,0 +1,4 @@
+﻿@absolute term
+#(Tech) số hạng tuyệt đối
+@Chuyên ngành kỹ thuật
+#số hạng tuyệt đối

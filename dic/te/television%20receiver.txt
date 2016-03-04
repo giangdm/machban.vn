@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy thu hình
+#máy thu truyền hình
+@Lĩnh vực: toán & tin
+#may vô tuyến thâu hình

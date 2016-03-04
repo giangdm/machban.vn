@@ -1,0 +1,3 @@
+﻿@Cash ratio
+#(Econ) Tỷ suất tiền mặt.
+: Tỷ số mà các ngân hàng duy trì giữa số tiền mặt và tổng số tiền gửi của chúng, và thỉnh thoảng được gọi là tỷ lệ dự trữ tiền mặt.

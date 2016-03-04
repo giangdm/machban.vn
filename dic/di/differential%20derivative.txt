@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đạo hàm
+#vi phân
+@Lĩnh vực: toán & tin
+#hệ số vi phân

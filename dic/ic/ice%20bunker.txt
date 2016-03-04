@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#thùng chứa đá
+@Chuyên ngành kỹ thuật
+#bunke (nước) đá
+#ngăn (nước) đá
+#ngăn đá
+#thùng (nước) đá
+#thùng đá
+@Lĩnh vực: điện lạnh
+#bunke đá

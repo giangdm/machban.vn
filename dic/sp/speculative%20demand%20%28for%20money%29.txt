@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#nhu cầu có tính đầu cơ (về tiền tệ)
+#nhu cầu không có thực

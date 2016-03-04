@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số bền
+@Lĩnh vực: xây dựng
+#hệ số tuổi thọ

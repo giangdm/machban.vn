@@ -1,0 +1,10 @@
+﻿@active file
+#(Tech) tập tin hoạt động, tập tin mở
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin hiện hành
+#tập tin hoạt động
+#tệp hiện hành
+#tệp hoạt động
+#tệp kích hoạt
+#tệp tích cực

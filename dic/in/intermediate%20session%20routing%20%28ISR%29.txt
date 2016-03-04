@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự dẫn đường giao tuyến trung gian
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#định tuyến phiên trung gian

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ chỉ nhiên liệu
+#lưu lượng đo nhiên liệu
+@Lĩnh vực: ô tô
+#đồng hồ mực xăng
+@Lĩnh vực: hóa học & vật liệu
+#nhiên liệu kế

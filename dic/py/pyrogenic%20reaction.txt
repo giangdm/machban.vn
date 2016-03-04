@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#phản ứng sinh nhiệt
+#phản ứng tỏa nhiệt

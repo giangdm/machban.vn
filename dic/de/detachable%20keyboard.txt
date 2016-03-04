@@ -1,0 +1,2 @@
+﻿@detachable keyboard
+#(Tech) bàn phím tách rời được, bàn phím khả phân

@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống phương trình tuyến tính thuần nhất

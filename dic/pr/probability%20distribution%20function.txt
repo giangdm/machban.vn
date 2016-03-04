@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hàm phân bố xác suất
+@Lĩnh vực: toán & tin
+#hàm phân phối xác suất

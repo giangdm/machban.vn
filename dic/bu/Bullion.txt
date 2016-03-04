@@ -1,0 +1,22 @@
+﻿@Bullion
+#(Econ) Thoi
+: Kim loại quý như vàng hoặc bạc được giữ với số lượng lớn dưới dạng thỏi hay thanh. Thoi vàng được dùng để giao dịch tiền tệ giữa các quốc tế giữa các ngân hàng và chính phủ.
+<!-- more -->
+@bullion /'buljən/
+*danh từ
+#nén, thoi (vàng, bạc)
+#kim tuyến (để thêu)
+*tính từ
+#bằng vàng nén, bằng bạc nén
+@Chuyên ngành kinh tế
+#nén
+#thoi (vàng bạc)
+#thoi (vàng, bạc)
+#vàng bạc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#phôi thỏi
+@Lĩnh vực: xây dựng
+#vàng nén
+@Lĩnh vực: hóa học & vật liệu
+#vàng sa khoáng

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bảng giá hai phần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biểu giá (điện) hai thành phần
+@Lĩnh vực: điện
+#biểu giá hai thành phần (giá nhị thức)

@@ -1,0 +1,2 @@
+﻿@autodecremental addressing
+#(Tech) định địa chỉ tự giảm dần

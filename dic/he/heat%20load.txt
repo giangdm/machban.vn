@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhu cầu về nhiệt
+#tải nhiệt
+#tải trọng nhiệt
+@Lĩnh vực: vật lý
+#suất tỏa nhiệt

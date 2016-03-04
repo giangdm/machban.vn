@@ -1,0 +1,8 @@
+﻿@piezometry
+#xem piezometer
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đo độ chịu nén
+@Lĩnh vực: cơ khí & công trình
+#phép đo áp
+#phép đo áp lực (của dòng mặt và dòng ngầm)

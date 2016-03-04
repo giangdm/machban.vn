@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#nước cất
+#nước cung cấp sinh hoạt
+@Lĩnh vực: hóa học & vật liệu
+#nước dung nạp
+@Chuyên ngành kỹ thuật
+#nước cất
+#nước cung cấp sinh hoạt
+@Lĩnh vực: hóa học & vật liệu
+#nước dung nạp

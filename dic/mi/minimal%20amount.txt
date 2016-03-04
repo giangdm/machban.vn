@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số lượng tối thiểu
+#số tiền tối thiểu

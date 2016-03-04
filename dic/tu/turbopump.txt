@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm kiểu tuabin
+@Lĩnh vực: điện lạnh
+#bơm tuabin
+@Lĩnh vực: xây dựng
+#máy bơm tuabin

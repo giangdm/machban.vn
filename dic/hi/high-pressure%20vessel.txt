@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bình cao áp
+@Lĩnh vực: điện lạnh
+#bình (chứa) áp suất cao

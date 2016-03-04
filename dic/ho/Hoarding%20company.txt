@@ -1,0 +1,3 @@
+﻿@Hoarding company
+#(Econ) Công ty nắm giữ.
+: Một công ty kiểm soát một số công ty khác thông qua sở hữu một tỷ lệ đủ trong vốn cổ phần chung của các công ty đó.

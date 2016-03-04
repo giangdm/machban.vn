@@ -1,0 +1,4 @@
+﻿@assigned frequency
+#(Tech) tần số chỉ định
+@Chuyên ngành kỹ thuật
+#tần số chỉ định

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#không có sai lệch
+#sai sót zero
+#sai sót zê-rô
+@Chuyên ngành kỹ thuật
+#lỗi số không
+@Lĩnh vực: toán & tin
+#lỗi zero
+#sai số không
+#sai số zero

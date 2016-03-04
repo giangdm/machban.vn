@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giải tích các nút
+@Lĩnh vực: điện lạnh
+#phân tích điểm nút mạch

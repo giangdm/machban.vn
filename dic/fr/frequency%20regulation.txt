@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều chỉnh tần số
+#sự điều khiển tần số
+#sự ổn định tần số

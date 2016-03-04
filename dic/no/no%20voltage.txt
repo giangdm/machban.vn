@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp bằng không
+#điện thế bằng không
+@Lĩnh vực: điện
+#sự không có điện áp

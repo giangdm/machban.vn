@@ -1,0 +1,6 @@
+﻿@algebraical /'ældʤibrə/ (algebraical) /'ældʤibrəl/
+*tính từ
+#đại số
+=algebraic equation: phương trình đại số
+=algebraic expression: biểu thức đại số
+=algebraic function: hàm đại số

@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công tác lát ngoài
+#công tác ốp ngoài
+#công việc trát ốp
+#lớp lát ngoài
+#lớp ốp ngoài
+@Lĩnh vực: hóa học & vật liệu
+#công việc trên mặt đất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công tác lát ngoài
+#công tác ốp ngoài
+#công việc trát ốp
+#lớp lát ngoài
+#lớp ốp ngoài
+@Lĩnh vực: hóa học & vật liệu
+#công việc trên mặt đất

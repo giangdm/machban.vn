@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp phủ chịu lửa
+#lớp phủ không cháy
+@Lĩnh vực: hóa học & vật liệu
+#lớp phủ chống cháy
+@Chuyên ngành kỹ thuật
+#lớp phủ chịu lửa
+#lớp phủ không cháy
+@Lĩnh vực: hóa học & vật liệu
+#lớp phủ chống cháy

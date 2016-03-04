@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#cấu trúc file
+@Lĩnh vực: toán & tin
+#bố cục tập tin
+#cách bố trí tập tin
+#sơ đồ file
+#sơ đồ tệp
+@Chuyên ngành kỹ thuật
+#cấu trúc file
+@Lĩnh vực: toán & tin
+#bố cục tập tin
+#cách bố trí tập tin
+#sơ đồ file
+#sơ đồ tệp

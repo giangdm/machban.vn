@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#nút lọc
+@Lĩnh vực: hóa học & vật liệu
+#nến lọc
+#nền lọc
+#nền rỗng để lọc
+@Chuyên ngành kỹ thuật
+#nút lọc
+@Lĩnh vực: hóa học & vật liệu
+#nến lọc
+#nền lọc
+#nền rỗng để lọc

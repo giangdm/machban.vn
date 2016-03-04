@@ -1,0 +1,18 @@
+﻿@remote control
+*danh từ
+#thiết bị điều khiển từ xa
+@Chuyên ngành kinh tế
+#điều khiển từ xa
+#sự kiểm soát từ xa
+@Chuyên ngành kỹ thuật
+#điều khiển từ xa
+@Lĩnh vực: điện tử & viễn thông
+#bộ điều khiển từ xa
+@Lĩnh vực: điện
+#điều khiển (kiểm soát) từ xa
+@Lĩnh vực: xây dựng
+#sự điều chỉnh từ xa
+@Lĩnh vực: cơ khí & công trình
+#sự điều khiển từ xa
+@Lĩnh vực: toán & tin
+#thao tác từ xa

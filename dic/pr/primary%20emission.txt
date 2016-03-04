@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#năng lượng sơ cấp
+@Lĩnh vực: điện tử & viễn thông
+#bức xạ sơ cấp (sự) phát xạ sơ cấp
+@Lĩnh vực: toán & tin
+#sự phát xạ sơ cấp

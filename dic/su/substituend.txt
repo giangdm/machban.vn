@@ -1,0 +1,17 @@
+﻿@substituend
+#(logic học) cái thế
+#address s. sự thay địa chỉ
+#binary linear s. phép thế tuyến tính nhị phân
+#cogradient s. phép thế hiệp bộ
+#event s. phép thế chẵn
+#fractional linear s. phép thế phân tuyến tính
+#free s. phép thế tự do
+#identical s. phép thế đồng nhất
+#inverse s. phép thế nghịch đảo
+#linear s. phép thế tuyến tính
+#loxodromic s. phép thế tà hành
+#odd s. phép thế lẻ
+#orthogonal s. phép thế trực giao
+#successive s. phép thế liên tiếp
+#synthetic(al) s. phép thế tổng hợp
+#triginometric(al) s. phép thế lượng giác

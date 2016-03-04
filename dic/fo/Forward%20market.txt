@@ -1,0 +1,7 @@
+﻿@Forward market
+#(Econ) Thị trường định trước; Thị trường kỳ hạn.
+: Bất kỳ một giao dịch nào có liên quan đến một hợp đồng mua hay bán hàng hoá, hoặc chứng khoán vào một ngày cố định theo mức giá được thoả thuận trong hợp đồng, là một bộ phận của thị trường kỳ hạn.
+@Chuyên ngành kinh tế
+#thị trường (hàng hóa) kỳ hạn
+#thị trường giao sau
+#thị trường kỳ hạn

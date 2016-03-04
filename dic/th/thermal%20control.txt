@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều khiển nhiệt
+@Lĩnh vực: điện tử & viễn thông
+#sự điều chỉnh nhiệt độ

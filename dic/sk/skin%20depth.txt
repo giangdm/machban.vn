@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bề dày bao vỏ
+@Lĩnh vực: toán & tin
+#độ sâu của lớp bề mặt (lớp ngoài)
+@Lĩnh vực: điện lạnh
+#độ sâu lớp mặt
+@Lĩnh vực: vật lý
+#độ sâu lớp mặt ngoài

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#xử lý dữ liệu tổng hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý dữ liệu tích hợp

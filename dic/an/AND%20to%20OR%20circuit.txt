@@ -1,0 +1,2 @@
+﻿@AND to OR circuit
+#(Tech) mạch VÀ-HOẶC

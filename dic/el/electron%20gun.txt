@@ -1,0 +1,16 @@
+﻿@electron gun
+#(Tech) súng điện tử
+@Chuyên ngành kỹ thuật
+#súng điện tử
+@Lĩnh vực: điện lạnh
+#súng phóng điện tử
+#súng phóng electron
+@Lĩnh vực: toán & tin
+#súng phóng tia điện tử
+@Chuyên ngành kỹ thuật
+#súng điện tử
+@Lĩnh vực: điện lạnh
+#súng phóng điện tử
+#súng phóng electron
+@Lĩnh vực: toán & tin
+#súng phóng tia điện tử

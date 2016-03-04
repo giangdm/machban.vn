@@ -1,0 +1,29 @@
+﻿@Independent/ induced consumption
+#(Econ) Tiêu dùng phụ thuộc / thay đổi.
+<!-- more -->
+@independent /,indi'pendənt/
+*tính từ
+#độc lập
+=an independent state: một quốc gia độc lập
+=independent research: sự nghiên cứu độc lập
+=independent clause: (ngôn ngữ học) mệnh đề đọc lập
+#không lệ thuộc, không phụ thuộc, không tuỳ thuộc
+=to be independent of something: không phụ thuộc vào cái gì
+#đủ sung túc, không cần phải làm ăn gì để kiếm sống
+=an independent income: tiền thu nhập đủ sung túc
+#tự nó đã có giá trị, tự nó đã hiệu nghiệm
+=independent proofs: những bằng chứng tự chúng đã có giá trị
+*danh từ
+#người không phụ thuộc; vật không phụ thuộc
+#(chính trị) người không đảng phái, người độc lập
+@Chuyên ngành kinh tế
+#cơ sở độc lập
+#nhà kinh doanh độc lập
+@Chuyên ngành kỹ thuật
+#độc lập
+#không phụ thuộc
+<!-- more -->
+@independent
+#độc lập
+#algebraically i. độc lập đại số
+#linearly i. độc lập tuyến tính

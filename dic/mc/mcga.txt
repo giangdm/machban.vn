@@ -1,0 +1,2 @@
+﻿@mcga
+#Chuẩn hiển thị video của máy tính IBM PS/ 2

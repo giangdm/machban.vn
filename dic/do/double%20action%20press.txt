@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#máy ép song động
+#máy nén hai bên
+#máy nén hai tác động

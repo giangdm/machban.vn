@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#hiệu ứng phụ, bên
+#tác dụng phụ
+@Chuyên ngành kỹ thuật
+#ảnh hưởng phụ
+#hiệu ứng biên
+#hiệu ứng phụ
+#phản ứng phụ
+@Lĩnh vực: toán & tin
+#hiệu ứng lề
+@Lĩnh vực: y học
+#tác động phụ

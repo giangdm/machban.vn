@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tuổi thọ trung bình
+@Lĩnh vực: toán & tin
+#thời gian trung bình xảy ra hỏng hóc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thời gian trung bình hỏng

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ cảm biến tiếp xúc
+@Lĩnh vực: đo lường & điều khiển
+#bộ cảm biến xúc giác

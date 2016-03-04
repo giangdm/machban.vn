@@ -1,0 +1,4 @@
+﻿@vag
+*danh từ
+#viết tắt của vagrant
+#viết tắt của vagabond

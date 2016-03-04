@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#máy sấy thùng quay
+#tang sấy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tang sấy khô
+@Lĩnh vực: hóa học & vật liệu
+#thùng làm khô
+#thùng sấy

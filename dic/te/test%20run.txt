@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#cho chạy thử (máy móc..)
+#sự cho chạy thử (máy móc)
+#sự vận hành thử
+#sự vận hành thử nghiệm
+@Chuyên ngành kỹ thuật
+#chạy thử
+#chạy thử (xe hơi)
+#sự chạy thử
+#sự thực hiện thử
+#sự vận hành thử
+@Lĩnh vực: cơ khí & công trình
+#chế độ chạy thử

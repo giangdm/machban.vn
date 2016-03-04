@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quang nhận dạng ký tự
+#sự nhận dạng ký tự quang

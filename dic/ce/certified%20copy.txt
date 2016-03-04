@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bản sao đã thị thực
+#bản sao xác thực
+#bản sao y (sao y nguyên bản)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản sao được bảo đảm

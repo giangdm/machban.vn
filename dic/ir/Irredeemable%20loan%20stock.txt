@@ -1,0 +1,3 @@
+﻿@Irredeemable loan stock
+#(Econ) Lượng cho vay không trả được.
+: Xem FINANCIAL CAPITAL

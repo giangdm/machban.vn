@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cuối mũi tên (tầm ngoài)
+@Lĩnh vực: xây dựng
+#cuốn nhọn
+#vòm dạng vòng cung nhọn

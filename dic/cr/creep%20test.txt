@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#phép thử rão
+#sự thử rão
+@Lĩnh vực: toán & tin
+#nghiệm từ biến
+@Lĩnh vực: hóa học & vật liệu
+#phép thử độ rão
+@Lĩnh vực: cơ khí & công trình
+#sự thử độ chảy
+#sự thử độ rão
+@Lĩnh vực: xây dựng
+#thí nghiệm từ biến

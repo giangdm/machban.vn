@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giảm bớt tồn trữ (hàng trong kho...)
+#sự bán ra

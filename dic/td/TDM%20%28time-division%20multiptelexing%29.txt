@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự dồn kênh phân thời
+#sự truyền đa công phân thời

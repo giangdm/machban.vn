@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#tốc độ của pittông
+#vận tốc của pittông
+@Lĩnh vực: ô tô
+#tốc độ piston
+@Lĩnh vực: xây dựng
+#vận tốc pittông

@@ -1,0 +1,5 @@
+﻿@Outside money
+#(Econ) Tiền bên ngoài.
+: Cụm thuật ngữ này nói đến tiền mà giá trị của nó dựa vào những tài sản không phái là tài sản nợ theo nghĩa là những tài sản đó không tạo ra một khiếu nợ đối với các cá nhân trong nền kinh tế.
+@Chuyên ngành kinh tế
+#tiền bên ngoài

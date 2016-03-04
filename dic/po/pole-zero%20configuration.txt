@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cấu hình điểm cực-điểm không
+#phân bố điểm cực-điểm không
+@Lĩnh vực: đo lường & điều khiển
+#cấu tạo điểm cực- zero

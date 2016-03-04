@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#cường độ chịu uốn
+#độ bền uốn
+#giới hạn bền uốn
+#sức bền uốn
+@Lĩnh vực: xây dựng
+#cường độ chống uốn
+@Lĩnh vực: toán & tin
+#giới hạn uốn
+@Chuyên ngành kỹ thuật
+#cường độ chịu uốn
+#độ bền uốn
+#giới hạn bền uốn
+#sức bền uốn
+@Lĩnh vực: xây dựng
+#cường độ chống uốn
+@Lĩnh vực: toán & tin
+#giới hạn uốn

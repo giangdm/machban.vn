@@ -1,0 +1,2 @@
+﻿@dynamic(al)
+#(thuộc) động lực

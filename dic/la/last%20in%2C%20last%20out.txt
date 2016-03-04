@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nhập trước xuất sau
+#phương pháp FIFO
+#phương thức vào sau, ra sau

@@ -1,0 +1,3 @@
+﻿@Statistical significance
+#(Econ) Ý nghĩa thống kê.
+: Một khái niệm sử dụng trong KIỂM ĐỊNH GIẢ THIẾT để chỉ mức độ mà các dữ liệu không thống nhất với GIẢ THIẾT KHÔNG.

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#các đơn vị cổ phiếu nhỏ không được cấp giấy chứng nhận
+#các đơn vị không có chứng chỉ
+#các đơn vị không được cấp giấy chứng nhận

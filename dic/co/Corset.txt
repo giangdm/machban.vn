@@ -1,0 +1,7 @@
+﻿@Corset
+#(Econ) Yêu cầu thắt chặt.
+: Một tên lóng thông thường trên thị trường để chỉ yêu cầu phải có các khoản TIỀN GỬI ĐẶC BIỆT BỔ SUNG, được áp dụng từ năm 1973 nhằm tăng cường kiểm soát của NGÂN HÀNG ANH đối với các khoản gửi ngân hàng. Xem COMPETITION AND CREDIT CONTROL.
+<!-- more -->
+@corset /'kɔ:sit/
+*danh từ
+#coocxê, áo nịt ngực (của đàn bà)

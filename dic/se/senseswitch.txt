@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#công tắc cảm biến
+@Lĩnh vực: toán & tin
+#thiết bị chuyển mạch cảm biến

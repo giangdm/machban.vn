@@ -1,0 +1,2 @@
+﻿@computer test unit
+#(Tech) bộ phận thử máy điện toán

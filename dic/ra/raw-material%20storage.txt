@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#kho chứa nguyên liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kho nguyên liệu

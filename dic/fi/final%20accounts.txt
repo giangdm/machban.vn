@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#báo cáo quyết toán
+#do công ty đưa ra vào cuối năm tài chính
+#quyết toán
+#quyết toán cuối năm
+#tài khoản quyết toán
+@Chuyên ngành kỹ thuật
+#quỹ cuối cùng
+@Chuyên ngành kỹ thuật
+#quỹ cuối cùng

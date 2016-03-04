@@ -1,0 +1,5 @@
+﻿@Operating income
+#(Econ) Thu nhập kinh doanh.
+: Là thu nhập phát sinh từ hoạt động kinh doanh bình thường của một doanh nghiệp.
+@Chuyên ngành kinh tế
+#thu nhập kinh doanh

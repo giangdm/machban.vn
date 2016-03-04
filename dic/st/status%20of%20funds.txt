@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tình trạng quỹ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tình trạng công quỹ
+#tình trạng ngân quỹ

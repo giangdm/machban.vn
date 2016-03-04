@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cấu trúc điều khiển môi trường
+@Lĩnh vực: toán & tin
+#kiến trúc điều khiển môi trường

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhiều bộ lưu trữ ảo
+@Lĩnh vực: toán & tin
+#nhiều bộ nhớ ảo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ điều hành MVS

@@ -1,0 +1,5 @@
+﻿@Wage theory
+#(Econ) Lý thuyết tiền công.
+: Lý thuyết tân cổ điển ngày nay là một mô hình khoa học chủ yếu trong phân tích xác định lương. Tuy nhiên, ưu thế của lý thuyết  tân cổ điển  về lao động tuyệt nhiên không liên tục và tự nó đã bị lý thuyết tân cổ điển đi trước.
+@Chuyên ngành kinh tế
+#lý thuyết tiền lương

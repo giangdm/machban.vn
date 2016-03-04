@@ -1,0 +1,4 @@
+﻿@compensation theorem
+#(Tech) định lý bù trừ
+@Chuyên ngành kỹ thuật
+#định lý bù

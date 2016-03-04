@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cán bộ, viên chức (lãnh đạo) cấp cao
+#quan chức cao cấp
+#quan chức cao cấp (trong một tổ chức kinh doanh)

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#mức tích tụ năng lượng
+@Lĩnh vực: xây dựng
+#độ tích tụ năng lượng
+@Lĩnh vực: vật lý
+#hàm lượng năng lượng
+@Chuyên ngành kỹ thuật
+#mức tích tụ năng lượng
+@Lĩnh vực: xây dựng
+#độ tích tụ năng lượng
+@Lĩnh vực: vật lý
+#hàm lượng năng lượng

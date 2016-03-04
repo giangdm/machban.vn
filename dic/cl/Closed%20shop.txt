@@ -1,0 +1,9 @@
+﻿@Closed shop
+#(Econ) Cửa hàng đóng;Công ty có tổ chức công đoàn.
+: Theo nghĩa sử dụng ở Mỹ, cụm thuật ngữ này chỉ một thoả thuận yêu cầu các công nhân trở thành thành viên của công đoàn trước khi được một hãng thuê làm việc. Ở Anh, mặt khác, cụm thuật ngữ này thường phân biệt giữa các hình thức của hàng đóng trước  khi vào làm và sau khi vào làm lại.
+@Chuyên ngành kinh tế
+#cửa hàng đóng kín
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cửa hàng đóng
+#trung tâm tính toán đóng

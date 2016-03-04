@@ -1,0 +1,2 @@
+﻿@deviation sensitivity
+#(Tech) độ nhạy lệch

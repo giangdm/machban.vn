@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#cháy không hoàn toàn
+@Lĩnh vực: điện
+#sự cháy một phần

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giá chi phí chung
+#giá tổng hợp (= giá căn bản : phụ phí)

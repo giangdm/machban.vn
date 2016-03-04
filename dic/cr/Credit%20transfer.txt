@@ -1,0 +1,11 @@
+﻿@Credit transfer
+#(Econ) Chuyển khoản
+: Là một hệ thống qua đó tiền được chuyển trực tiếp qua hệ thống ngân hàng tới một tài khoản cụ thể của người nhận (Xem CLEARING).
+@Chuyên ngành kinh tế
+#chuyển khoản
+@Chuyên ngành kỹ thuật
+#chuyển tín dụng
+<!-- more -->
+@credit transfer
+*danh từ
+#sự chuyển nhượng tín dụng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ học kết cấu
+@Lĩnh vực: xây dựng
+#lý thuyết công trình
+#lý thuyết kết cấu

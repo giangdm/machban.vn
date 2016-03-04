@@ -1,0 +1,5 @@
+﻿@accumulated deviation
+#(Tech) độ sai biệt tích lũy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ lệch tích lũy

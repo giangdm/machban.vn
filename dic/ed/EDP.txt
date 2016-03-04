@@ -1,0 +1,6 @@
+﻿@EDP
+#(Tech) (electronic data processing) xử lý dữ liệu điện tử
+<!-- more -->
+@edp
+*(viết tắt) (electronic data processing)
+#xử lý dữ liệu điện tử

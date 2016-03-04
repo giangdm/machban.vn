@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn đặt hàng
+@Lĩnh vực: hóa học & vật liệu
+#giấy yêu cầu (mua hàng)
+@Chuyên ngành kỹ thuật
+#đơn đặt hàng
+@Lĩnh vực: hóa học & vật liệu
+#giấy yêu cầu (mua hàng)

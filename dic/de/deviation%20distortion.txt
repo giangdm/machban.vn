@@ -1,0 +1,2 @@
+﻿@deviation distortion
+#(Tech) biến dạng sai lệch

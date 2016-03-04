@@ -1,0 +1,2 @@
+﻿@auxiliary storage devices
+#(Tech) thiết bị tồn trữ phụ

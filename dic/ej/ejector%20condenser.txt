@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bình ngưng dạng ejectơ
+#bình ngưng dạng phun
+#bình ngưng dạng phun [ejjectơ]

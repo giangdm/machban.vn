@@ -1,0 +1,6 @@
+﻿@Stocks
+#(Econ) Dự trữ.
+: Xem INVENTORIES.
+@Chuyên ngành kinh tế
+#cổ phần
+#giàn tàu

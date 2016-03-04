@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dữ liệu quan trọng của sản phẩm
+#số liệu quan trọng của thiết bị

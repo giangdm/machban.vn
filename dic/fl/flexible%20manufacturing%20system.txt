@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống sản xuất linh hoạt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ sản xuất linh hoạt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ sản xuất linh hoạt

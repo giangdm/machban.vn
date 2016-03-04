@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dây cấp điện song song
+#dây tải điện song song
+#phidơ song song

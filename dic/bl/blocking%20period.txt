@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chu kỳ chặn
+#thời gian chặn
+#thời gian khóa

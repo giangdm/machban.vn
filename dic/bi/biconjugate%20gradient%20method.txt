@@ -1,0 +1,2 @@
+﻿@biconjugate gradient method
+#(Tech) phương pháp thang độ liên hợp song đối

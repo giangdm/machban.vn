@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#kiểm danh khi rời sở (của công nhân trong các xưởng)
+#ký sổ khi tan sở
+@Chuyên ngành kỹ thuật
+#ngừng
+#phát đài hiệu để ngừng
+@Lĩnh vực: toán & tin
+#rời khỏi hệ thống

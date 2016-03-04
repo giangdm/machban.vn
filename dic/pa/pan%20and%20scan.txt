@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#xoay chuyển và quét
+@Lĩnh vực: điện
+#chuyển động quay và quét

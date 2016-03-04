@@ -1,0 +1,9 @@
+﻿@buried cable
+#(Tech) cáp chôn, cáp ngầm (dưới đất)
+@Chuyên ngành kỹ thuật
+#dây cáp ngầm
+@Lĩnh vực: toán & tin
+#cáp chôn
+#cáp được chôn
+@Lĩnh vực: xây dựng
+#cáp trộn

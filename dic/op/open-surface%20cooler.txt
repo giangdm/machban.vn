@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị làm nguội bề mặt
+#thiết bị làm nguội kiểu phun
+@Chuyên ngành kỹ thuật
+#giàn lạnh Baudelot
+#giàn lạnh tưới

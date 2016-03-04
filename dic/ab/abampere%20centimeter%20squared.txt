@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#aAcm2
+@Lĩnh vực: điện lạnh
+#abampe centimét vuông

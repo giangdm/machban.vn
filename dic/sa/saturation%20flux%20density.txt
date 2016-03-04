@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ cảm ứng từ bão hòa
+#mật độ từ thông bão hòa

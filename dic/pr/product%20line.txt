@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#dãy, loạt, nhóm sản phẩm
+#mặt hàng
+@Chuyên ngành kỹ thuật
+#dây chuyền sản xuất

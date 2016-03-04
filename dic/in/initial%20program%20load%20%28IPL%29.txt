@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự nạp chương trình khởi đầu
+#sự tải chương trình ban đầu

@@ -1,0 +1,12 @@
+﻿@embedded object
+#(Tech) đối tượng gài trong
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đối tượng nhúng
+@Lĩnh vực: xây dựng
+#vật thể bị vùi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đối tượng nhúng
+@Lĩnh vực: xây dựng
+#vật thể bị vùi

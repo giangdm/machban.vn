@@ -1,0 +1,7 @@
+﻿@time zone
+*danh từ
+#khu vực (nằm giữa hai kinh tuyến) có chung một giờ chuẩn
+@Chuyên ngành kinh tế
+#múi giờ
+@Chuyên ngành kỹ thuật
+#múi giờ

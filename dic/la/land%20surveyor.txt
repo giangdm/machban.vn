@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#địa chính viên
+@Lĩnh vực: đo lường & điều khiển
+#người đo vẽ địa hình
+#người khảo sát địa hình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#địa chính viên
+@Lĩnh vực: đo lường & điều khiển
+#người đo vẽ địa hình
+#người khảo sát địa hình

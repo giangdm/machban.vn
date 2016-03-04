@@ -1,0 +1,9 @@
+﻿@cyclotron frequency
+#(Tech) tần số bộ gia tốc quay tròn, tần số xiclôtron
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tần số cyclo-tron
+#tần số xiclotron
+@Lĩnh vực: điện lạnh
+#tần số gyro
+#tần số xyclotron

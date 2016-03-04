@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng ẩm thăng hoa
+@Lĩnh vực: điện lạnh
+#độ ẩm thăng hoa

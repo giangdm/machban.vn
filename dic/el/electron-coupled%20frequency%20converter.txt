@@ -1,0 +1,2 @@
+﻿@electron-coupled frequency converter
+#(Tech) bộ biến tần ghép điện tử [ĐL]

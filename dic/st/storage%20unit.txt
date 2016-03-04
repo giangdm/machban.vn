@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bộ lưu trữ
+#bộ nhớ
+#bộ nhớ (máy tính)
+@Chuyên ngành kỹ thuật
+#bộ nhớ
+@Lĩnh vực: toán & tin
+#đơn vị lưu trữ

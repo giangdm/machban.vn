@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp vữa ngoài
+#lớp vữa thứ hai
+@Lĩnh vực: xây dựng
+#lớp vữa (lót nền)

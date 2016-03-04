@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#máy cắt
+#máy thái
+@Chuyên ngành kỹ thuật
+#lưỡi cắt
+#máy cắt
+#máy cắt cốt thép
+#máy cắt đứt
+#máy cắt kim loại
+#máy đột
+@Lĩnh vực: cơ khí & công trình
+#máy cắt bằng hơi
+@Lĩnh vực: xây dựng
+#máy cắt gọt
+#máy đánh rạch
+#máy đẽo

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện tử công nghiệp
+@Lĩnh vực: điện
+#điện tử học công nghiệp

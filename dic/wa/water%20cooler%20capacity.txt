@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#năng suất làm lạnh nước
+#năng suất làm mát nước

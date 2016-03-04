@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phân tích đầu vào-đầu ra
+#phân tích xuất-nhập lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đầu vào-đầu ra
+#nhập xuất

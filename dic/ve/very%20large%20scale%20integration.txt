@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ tích hợp rất cao (VLSI)
+@Lĩnh vực: điện lạnh
+#tích hợp cỡ rất lớn

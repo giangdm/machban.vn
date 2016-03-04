@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#blốc ngưng tụ
+#khối [block] ngưng tụ
+#khối ngưng tụ

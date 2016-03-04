@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hối suất hai giá
+#hối suất kép
+#hối suất song trùng
+@Chuyên ngành kỹ thuật
+#mức hối suất đôi

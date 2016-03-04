@@ -1,0 +1,18 @@
+﻿@extension line
+#(Tech) dây nối dài
+@Chuyên ngành kỹ thuật
+#đường dây nối dài
+@Lĩnh vực: cơ khí & công trình
+#đường cong giãn nở
+#đường khai triển
+@Lĩnh vực: điện lạnh
+#đường dây mở rộng
+#đường dây trạm
+@Chuyên ngành kỹ thuật
+#đường dây nối dài
+@Lĩnh vực: cơ khí & công trình
+#đường cong giãn nở
+#đường khai triển
+@Lĩnh vực: điện lạnh
+#đường dây mở rộng
+#đường dây trạm

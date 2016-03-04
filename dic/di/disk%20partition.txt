@@ -1,0 +1,7 @@
+﻿@disk partition
+#(Tech) sự phân chia đĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần đĩa
+#phân khu đĩa
+#sự phân chia đĩa

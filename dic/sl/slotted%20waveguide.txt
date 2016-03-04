@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đoạn xẻ khe
+#đường truyền có khe
+#ống dẫn sóng có khe

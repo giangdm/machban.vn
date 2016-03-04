@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự cuộn có hai đường nối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#de dài móc mí
+@Lĩnh vực: toán & tin
+#nối kép

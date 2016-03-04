@@ -1,0 +1,3 @@
+﻿@Growth-stock paradox
+#(Econ) Nghịch lý cổ phần tăng trưởng.
+: Đề cập đến một tình huống trong đó do Tỷ lệ chiết khấu hiện hành nhỏ hơn tỷ lệ tăng trưởng của cổ tức hàng năm không đổi dự kiến của một hãng, giá trị cổ phần sẽ tiến đến vô hạn.

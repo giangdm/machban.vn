@@ -1,0 +1,4 @@
+﻿@data value
+#(Tech) trị số của dữ liệu
+@Chuyên ngành kỹ thuật
+#giá trị dữ liệu

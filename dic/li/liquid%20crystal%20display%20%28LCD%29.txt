@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#màn hình tinh thể lỏng
+@Lĩnh vực: toán & tin
+#hiển thị tinh thể lỏng (LCD)
+@Lĩnh vực: vật lý
+#sự hiển thị tinh thể lỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hiển thị bằng tinh thể lỏng
+@Chuyên ngành kỹ thuật
+#màn hình tinh thể lỏng
+@Lĩnh vực: toán & tin
+#hiển thị tinh thể lỏng (LCD)
+@Lĩnh vực: vật lý
+#sự hiển thị tinh thể lỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hiển thị bằng tinh thể lỏng

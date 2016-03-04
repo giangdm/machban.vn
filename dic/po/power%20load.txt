@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số công suất
+@Lĩnh vực: cơ khí & công trình
+#phụ tải điện (lực)

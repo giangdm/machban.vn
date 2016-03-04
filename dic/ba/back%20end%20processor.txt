@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy tính phụ trợ
+@Lĩnh vực: toán & tin
+#bộ xử lý phía sau

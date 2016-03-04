@@ -1,0 +1,3 @@
+﻿@Leakages
+#(Econ) Những khoản rò rỉ.
+: Xem Withdrawals.

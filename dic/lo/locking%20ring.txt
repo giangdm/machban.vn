@@ -1,0 +1,23 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng khóa
+@Lĩnh vực: xây dựng
+#khóa hãm
+#vòng khớp
+@Lĩnh vực: hóa học & vật liệu
+#vòng chốt
+@Lĩnh vực: cơ khí & công trình
+#vòng gài
+@Lĩnh vực: toán & tin
+#vòng khớp, khóa hãm
+<!-- more -->
+@Chuyên ngành kỹ thuật
+#vòng khóa
+@Lĩnh vực: xây dựng
+#khóa hãm
+#vòng khớp
+@Lĩnh vực: hóa học & vật liệu
+#vòng chốt
+@Lĩnh vực: cơ khí & công trình
+#vòng gài
+@Lĩnh vực: toán & tin
+#vòng khớp, khóa hãm

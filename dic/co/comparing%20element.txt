@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ so sánh
+#phần tử so sánh
+@Lĩnh vực: đo lường & điều khiển
+#bộ so sánh tín hiệu

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ giám sát nhiệt độ
+#bộ theo dõi nhiệt độ

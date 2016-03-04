@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bầu ..kV
+#cái cách điện...kV
+#sứ...kV

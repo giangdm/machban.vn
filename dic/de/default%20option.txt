@@ -1,0 +1,6 @@
+﻿@default option
+#(Tech) tùy chọn mặc định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chọn chuẩn
+#tùy chọn mặc định

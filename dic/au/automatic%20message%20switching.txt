@@ -1,0 +1,2 @@
+﻿@automatic message switching
+#(Tech) đảo mạch thông báo tự động

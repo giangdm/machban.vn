@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#lao động chuyên môn
+#lao động có kỹ thuật
+#lao động lành nghề
+@Chuyên ngành kỹ thuật
+#lao động lành nghề
+#lao động tay nghề

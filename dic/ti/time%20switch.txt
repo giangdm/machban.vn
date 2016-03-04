@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chuyển mạch định thời
+#bộ hẹn giờ
+#rơle định thời
+#rơle đồng hồ
+#rơle thời gian
+@Lĩnh vực: xây dựng
+#công tắc định thời gian

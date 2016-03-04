@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chi phí chung cho sản xuất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tổng chi phí sản xuất

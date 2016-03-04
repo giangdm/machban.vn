@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#tiêu dùng mong muốn
+#tiêu dùng trong nước
+@Chuyên ngành kỹ thuật
+#nhu cầu nội địa
+#nhu cầu tại chỗ
+@Lĩnh vực: cơ khí & công trình
+#lượng tiêu hao tại chỗ
+@Lĩnh vực: hóa học & vật liệu
+#tiêu thụ trong nước

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống (kinh tế) mở
+@Chuyên ngành kỹ thuật
+#hệ hở
+#hệ mở
+@Lĩnh vực: toán & tin
+#hệ thống mở

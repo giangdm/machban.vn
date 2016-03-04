@@ -1,0 +1,4 @@
+﻿@phragma
+*danh từ
+#số nhiều phragmata
+#(sinh vật học) vách ngăn; màng ngăn

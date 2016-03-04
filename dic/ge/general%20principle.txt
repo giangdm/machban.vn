@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#nguyên tắc chung, tổng quát
+@Chuyên ngành kỹ thuật
+#nguyên lý chung
+#nguyên tắc chung
+#nguyên tắc cơ bản
+@Lĩnh vực: toán & tin
+#nguyên lý cơ bản

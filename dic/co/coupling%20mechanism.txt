@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#cơ cấu ăn khớp
+#cơ cấu ly hợp
+@Lĩnh vực: toán & tin
+#cơ cấu ghép

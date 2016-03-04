@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cần cẩu chân nửa cao
+#cần cẩu chân vừa
+@Lĩnh vực: cơ khí & công trình
+#cổng trục xoay nửa vòng

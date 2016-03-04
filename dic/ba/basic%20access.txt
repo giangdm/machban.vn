@@ -1,0 +1,7 @@
+﻿@basic access
+#(Tech) truy cập cơ bản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#truy nhập cơ bản
+@Lĩnh vực: điện lạnh
+#truy nhập cơ sở

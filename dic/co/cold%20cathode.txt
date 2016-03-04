@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cathode nguội
+@Lĩnh vực: điện lạnh
+#catốt lạnh
+@Lĩnh vực: điện
+#catốt nguội

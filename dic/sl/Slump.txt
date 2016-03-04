@@ -1,0 +1,54 @@
+﻿@Slump
+#(Econ) (Giai đoạn) suy thoái; Khủng hoảng kinh tế.
+: Một giai đoạn đi xuống hoặc suy thoái trong chu kỳ kinh doanh.
+<!-- more -->
+@slump /slʌmp/
+*danh từ
+#sự hạ giá nhanh, sự sụt giá bất thình lình
+#sự ế ẩm, sự đình trệ (trong buôn bán)
+#sự khủng hoảng kinh tế
+#sự mất hứng thú
+*nội động từ
+#hạ nhanh, sụt thình lình (giá cả)
+#ế ẩm, đình trệ (việc buôn bán)
+#sụp xuống
+=to slump into a chair: ngồi sụp xuống ghế
+@Chuyên ngành kinh tế
+#buôn bán ế ẩm
+#đình trệ (của thị trường)
+#ế ẩm
+#khủng hoảng (kinh tế, tiền tệ...)
+#sự đình đốn
+#sự ế ẩm
+#sự khủng hoảng (kinh tế, tiền tệ...)
+#sự sụp đổ
+#sự sụt giá bất thình lình
+#sự sụt mạnh
+#sự sụt mạnh (giá cả, giá tiền tệ)
+#sự suy sụp
+#sự suy thoái
+#sụp đổ
+#sụt đột ngột (giá cả, giá tiền tệ...)
+#sụt mạnh
+#suy sụp
+#tiêu điều (của thị trường)
+#tình trạng suy sụp
+@Chuyên ngành kỹ thuật
+#độ lún
+#độ sụt
+#sự sụt
+#sự sụt đất
+#sự sụt lún
+#sự trượt đất
+@Lĩnh vực: xây dựng
+#độ sụt (của chùy hình nón trong hỗn hợp bê tông)
+#độ sụt hình nón (vữa bê tông)
+#sự lún của đất
+@Lĩnh vực: hóa học & vật liệu
+#sự ế ẩm (hàng hóa)
+#sự hạ giá nhanh
+@Lĩnh vực: toán & tin
+#xuống giá (hàng) nhanh
+<!-- more -->
+@slump
+#(toán kinh tế) xuống giá (hàng) nhanh; khủng hoảng

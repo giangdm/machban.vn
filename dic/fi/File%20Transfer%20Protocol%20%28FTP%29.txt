@@ -1,0 +1,10 @@
+﻿@File Transfer Protocol (FTP)
+#(Tech) Quy Ước Chuyển Tập Tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức truyền tập tin
+#giao thức truyền tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức truyền tập tin
+#giao thức truyền tệp

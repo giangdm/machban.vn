@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Biến đổi Furiê rời rạc
+@Lĩnh vực: toán & tin
+#Phép Biến Đổi Fourier Rời Rạc-DFT
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến đổi Fourier rời rạc

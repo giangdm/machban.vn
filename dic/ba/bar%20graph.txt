@@ -1,0 +1,9 @@
+﻿@bar graph
+#(Tech) đồ thị thanh, đồ thị dải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#biểu đồ dạng cột
+@Lĩnh vực: toán & tin
+#biểu đồ thanh
+#đồ thị thanh
+#giản đồ cột

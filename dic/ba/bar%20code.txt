@@ -1,0 +1,9 @@
+﻿@bar code
+#(Tech) mã thanh, mã dải
+@Chuyên ngành kinh tế
+#mã vạch
+@Chuyên ngành kỹ thuật
+#mã thanh
+@Lĩnh vực: điện tử & viễn thông
+#mã sọc
+#mã vạch

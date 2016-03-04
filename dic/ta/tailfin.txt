@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cách đuôi đứng (phi cơ)
+@Lĩnh vực: toán & tin
+#cánh đuôi đứng (phi cơ)

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cường độ chịu nén
+#độ bền nén
+#sức chịu nén
+#sức chống nén
+@Lĩnh vực: xây dựng
+#sức bền nén

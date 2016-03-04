@@ -1,0 +1,29 @@
+﻿@Chuyên ngành kinh tế
+#dung lượng bộ nhớ
+#dung lượng trữ kho
+#dung tích phòng bảo quản
+#năng lực tồn trữ
+#sức chứa
+#thể tích nhỏ
+@Chuyên ngành kỹ thuật
+#bể chứa
+#bình chứa
+#dung lượng
+#dung lượng (của) bộ nhớ(máy tính)
+#dung lượng bộ nhớ
+#dung lượng nhớ
+#dung tích
+#dung tích hồ chứa
+#sức chứa
+@Lĩnh vực: xây dựng
+#dung lượng của bộ nhớ
+#khả năng chứa nước
+@Lĩnh vực: toán & tin
+#dung lượng lưu trữ
+#khả năng lưu trữ
+@Lĩnh vực: điện lạnh
+#dung tích (năng suất) bảo quản
+#dung tích bảo quản
+#năng suất bảo quản
+@Lĩnh vực: điện
+#khả năng chứa

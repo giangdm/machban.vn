@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#bộ phận giá chuyển hướng
+@Lĩnh vực: vật lý
+#cấu chuyển động

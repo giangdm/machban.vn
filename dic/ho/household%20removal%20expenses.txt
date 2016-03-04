@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phí dọn nhà
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chi phí dọn nhà
+@Lĩnh vực: xây dựng
+#lệ phí dọn nhà

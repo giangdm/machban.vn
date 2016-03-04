@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự kiểm tra giới hạn
+@Lĩnh vực: toán & tin
+#sự thử giới hạn

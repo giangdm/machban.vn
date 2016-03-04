@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#hộp đầu cuối
+#hộp đấu dây
+#hộp đầu dây
+#hộp nối cáp
+#hộp nối dây
+#hộp phân cáp
+#hộp phân phối
+#tủ nối cáp
+@Lĩnh vực: điện
+#độ phân nhánh cáp
+#ngăn đầu boóc
+@Lĩnh vực: xây dựng
+#hộp đấu cáp
+@Lĩnh vực: điện lạnh
+#hộp đầu cực

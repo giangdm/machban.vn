@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#inch khối
+@Lĩnh vực: hóa học & vật liệu
+#insơ khối
+@Lĩnh vực: đo lường & điều khiển
+#insơ lập phương

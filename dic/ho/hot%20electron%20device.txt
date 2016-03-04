@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#linh kiện electron nóng
+@Lĩnh vực: điện lạnh
+#dụng cụ electron nóng

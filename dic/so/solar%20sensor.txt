@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ cảm biến mặt trời
+@Lĩnh vực: điện tử & viễn thông
+#bộ tách sóng mặt trời

@@ -1,0 +1,19 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng giảm lôga
+#lượng giảm lôgarit
+@Lĩnh vực: điện
+#độ suy giảm lôgarit
+@Lĩnh vực: vật lý
+#giảm lượng loga
+@Lĩnh vực: xây dựng
+#giảm lượng lôga
+<!-- more -->
+@Chuyên ngành kỹ thuật
+#lượng giảm lôga
+#lượng giảm lôgarit
+@Lĩnh vực: điện
+#độ suy giảm lôgarit
+@Lĩnh vực: vật lý
+#giảm lượng loga
+@Lĩnh vực: xây dựng
+#giảm lượng lôga

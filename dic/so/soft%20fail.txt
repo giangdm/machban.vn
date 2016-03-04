@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi nhẹ
+@Lĩnh vực: toán & tin
+#sự cố nhẹ
+#sự hỏng nhẹ

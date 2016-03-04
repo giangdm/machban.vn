@@ -1,0 +1,21 @@
+﻿@Diffusion
+#(Econ) Quá trình truyền bá; Sự phổ biến
+: Trong bối cảnh phổ biến kỹ thuật, cụm thuật ngữ này chỉ mức độ truyền bá các sáng chế sang các hãng.
+<!-- more -->
+@diffusion /di'fju:ʤn/
+*danh từ
+#sự truyền tin; sự truyền bá; sự phổ biến
+#sự khuếch tán (ánh sáng)
+#sự rườm rà, sự dài dòng (văn)
+@Chuyên ngành kinh tế
+#sự khuếch tán
+@Chuyên ngành kỹ thuật
+#khuếch tán
+#sự khuếch tán
+#sự lan rộng
+#sự tán xạ
+@Lĩnh vực: y học
+#sự tỏa lan
+<!-- more -->
+@diffusion
+#sự tán xạ, sự khuếch tán

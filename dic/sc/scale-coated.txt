@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#có vảy
+#đóng cặn
+#đóng cáu
+@Lĩnh vực: cơ khí & công trình
+#có vỏ cứng
+@Lĩnh vực: toán & tin
+#đóng cáu, đóng cặn
+@Lĩnh vực: hóa học & vật liệu
+#hình thành vảy

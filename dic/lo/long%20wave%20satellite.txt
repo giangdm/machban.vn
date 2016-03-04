@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#vạch kèm sóng dài
+#vạch tùy tùng sóng dài

@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kinh tế
+#sự lắp ráp sau cùng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#cụm thiết bị cuối cùng
+#sự lắp ráp cuối cùng
+@Lĩnh vực: xây dựng
+#khâu lắp chót
+#khâu lắp cuối cùng
+#sự lắp kết thúc
+@Lĩnh vực: cơ khí & công trình
+#sự lắp (ráp) kết thúc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#cụm thiết bị cuối cùng
+#sự lắp ráp cuối cùng
+@Lĩnh vực: xây dựng
+#khâu lắp chót
+#khâu lắp cuối cùng
+#sự lắp kết thúc
+@Lĩnh vực: cơ khí & công trình
+#sự lắp (ráp) kết thúc

@@ -1,0 +1,2 @@
+﻿@dual-in-line package (DIP)
+#(Tech) bọc hai dẫy chân cắm

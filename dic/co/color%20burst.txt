@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chớp màu
+@Lĩnh vực: toán & tin
+#chùm tín hiệu màu
+@Lĩnh vực: điện tử & viễn thông
+#lóe màu

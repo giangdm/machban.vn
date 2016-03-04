@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cường độ chịu nén
+#độ bền nén vỡ
+#giới hạn bền nén
+@Lĩnh vực: hóa học & vật liệu
+#độ bền khí nghiền vụ

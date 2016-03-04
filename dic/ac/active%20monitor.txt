@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ dẫn hoạt
+@Lĩnh vực: toán & tin
+#bộ kiểm tra hoạt động
+#màn hình hoạt động

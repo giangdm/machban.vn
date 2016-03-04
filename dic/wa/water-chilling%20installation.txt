@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#trạm làm lạnh nước
+@Lĩnh vực: điện lạnh
+#hệ (thống) làm lạnh nước

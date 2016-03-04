@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trao đổi nhiệt kết hợp
+#truyền nhiệt kết hợp

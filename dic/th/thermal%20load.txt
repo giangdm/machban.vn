@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự ô nhiễm nhiệt
+#tải trọng nhiệt
+@Lĩnh vực: điện
+#phụ tải nhiệt

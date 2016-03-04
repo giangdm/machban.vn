@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy kiểm soát sóng mang phụ
+#máy kiểm tra sóng mang phụ

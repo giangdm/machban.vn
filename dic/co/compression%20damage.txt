@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#sự biến dạng do nén
+#sự hư hỏng do nén

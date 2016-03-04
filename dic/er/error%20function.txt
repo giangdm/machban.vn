@@ -1,0 +1,10 @@
+﻿@error function
+#(Tech) hàm sai số
+@Chuyên ngành kỹ thuật
+#hàm sai số
+@Lĩnh vực: toán & tin
+#hàm độ sai
+@Chuyên ngành kỹ thuật
+#hàm sai số
+@Lĩnh vực: toán & tin
+#hàm độ sai

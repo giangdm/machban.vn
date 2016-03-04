@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#may xay tròn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#máy nghiên dùng bi

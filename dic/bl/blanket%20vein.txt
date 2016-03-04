@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch vỉa
+@Lĩnh vực: xây dựng
+#mạch dạng lớp
+#mạch tầng
+@Lĩnh vực: hóa học & vật liệu
+#mạch lớp phủ

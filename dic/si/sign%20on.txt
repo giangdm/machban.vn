@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#đăng ký thất nghiệp
+#điểm danh lúc đến sở làm (của công nhân trong các xưởng)
+#giao công việc
+#kiểm danh lúc đến sở làm (của công nhân trong các xưởng)
+#ký hợp đồng làm thuê
+#ký hợp đồng thuê (công nhân)
+#ký sổ khi đến làm việc
+#nhận làm việc
+#tuyển dụng
+@Chuyên ngành kỹ thuật
+#đăng nhập
+#khởi nhập
+@Lĩnh vực: toán & tin
+#kết nối với hệ thống
+#trình diện

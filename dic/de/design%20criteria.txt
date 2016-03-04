@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tiêu chuẩn thiết kế
+@Chuyên ngành kỹ thuật
+#chỉ tiêu thiết kế
+#tiêu chuẩn thiết kế
+@Lĩnh vực: xây dựng
+#chuẩn số thiết kế

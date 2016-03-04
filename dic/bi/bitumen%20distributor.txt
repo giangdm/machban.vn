@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy rải bitum
+@Lĩnh vực: xây dựng
+#bộ phận phân phối bitum
+#máy phân phối bitum

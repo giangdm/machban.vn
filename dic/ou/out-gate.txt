@@ -1,0 +1,5 @@
+﻿@out-gate
+#(máy tính) van ra
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#van ra

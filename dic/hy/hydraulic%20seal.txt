@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa van chắn nước
+#cửa van thủy lực
+@Lĩnh vực: toán & tin
+#sự chống dò nước
+@Lĩnh vực: xây dựng
+#sự chống rò nước
+@Lĩnh vực: hóa học & vật liệu
+#vòng đệm thủy lực

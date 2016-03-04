@@ -1,0 +1,2 @@
+﻿@double precision computation
+#(Tech) tính toán độ chính xác kép

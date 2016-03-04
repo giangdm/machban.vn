@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#các điện tích khí quyển
+@Lĩnh vực: điện lạnh
+#điện tích khí quyển

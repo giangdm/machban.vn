@@ -1,0 +1,3 @@
+﻿@pycnostyle
+*danh từ
+#(kiến trúc) hàng cột sít nhau

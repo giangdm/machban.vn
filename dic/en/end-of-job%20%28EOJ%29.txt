@@ -1,0 +1,2 @@
+﻿@end-of-job (EOJ)
+#(Tech) kết thúc công việc, đầu cuối công việc

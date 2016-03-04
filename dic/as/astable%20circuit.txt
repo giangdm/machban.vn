@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạch astable
+#mạch không bền
+#mạch không ổn định
+#mạch tự dao động

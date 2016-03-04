@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cuốn nhọn
+@Lĩnh vực: toán & tin
+#cuốn (hình) mũi tên nhọn
+@Lĩnh vực: xây dựng
+#hình mũi tên nhọn
+#vòm cuốn nhọn
+#vòm đỉnh nhọn

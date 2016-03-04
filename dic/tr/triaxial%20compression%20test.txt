@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thí nghiệm nén ba phương
+@Lĩnh vực: xây dựng
+#sự thử nghiệm nén ba trục
+#thí nghiệm nén 3 chiều

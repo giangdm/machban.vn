@@ -1,0 +1,6 @@
+﻿@Internal drain
+#(Econ) Sự xả tiền trong nước.
+: Sự vận động của tiền mặt, tức là một phương tiện lưu thông, từ các ngân hàng vào lưu thông trong nước.
+@Chuyên ngành kinh tế
+#luồng tiền chảy vào lưu thông
+#sự rút tiền vào lưu thông nội địa

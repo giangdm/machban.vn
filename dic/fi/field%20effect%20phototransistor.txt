@@ -1,0 +1,2 @@
+﻿@field effect phototransistor
+#(Tech) trăngsito quang hiệu trường

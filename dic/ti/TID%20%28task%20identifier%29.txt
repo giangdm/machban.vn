@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhận biết nhiệm vụ
+#ký hiệu nhận dạng tác vụ

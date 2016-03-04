@@ -1,0 +1,3 @@
+﻿@Microfoundations
+#(Econ) Các cơ sở vi mô.
+: Là nỗ lực tìm ra được những mối qun hệ về hành vi của kinh tế học vĩ mô từ những mô hình hành vi của các cá thể mà kinh tế học vi mô đã bàn đến.

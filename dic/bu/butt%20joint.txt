@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu ghép
+#liên kết đối đầu
+#mối ghép nối
+#mối hàn chồng
+#mối nối đầu tiếp đầu
+#mối nối đối đầu
+#mối nối thẳng
+@Lĩnh vực: hóa học & vật liệu
+#khớp nối đối đầu
+@Lĩnh vực: xây dựng
+#mộng nối chữ T

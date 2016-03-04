@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#tập hợp
+@Lĩnh vực: toán & tin
+#phạm trù các tập hợp
+#phạm trù tập hợp

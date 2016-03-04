@@ -1,0 +1,5 @@
+﻿@auto-cycle
+*danh từ
+#xe đạp tự động
+@Chuyên ngành kỹ thuật
+#xe gắn máy

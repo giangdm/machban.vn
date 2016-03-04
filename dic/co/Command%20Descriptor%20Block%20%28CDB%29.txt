@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khối mô tả lệnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khối bộ mô tả lệnh

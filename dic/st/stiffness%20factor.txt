@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ cứng
+#hệ số độ cứng
+@Lĩnh vực: điện lạnh
+#hệ số lực kéo về

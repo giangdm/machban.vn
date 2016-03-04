@@ -1,0 +1,6 @@
+﻿@conditional jump
+#(Tech) bước nhảy tùy điều kiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhảy có điều kiện
+#sự nhảy có điều kiện

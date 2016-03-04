@@ -1,0 +1,10 @@
+﻿@Pension fund
+#(Econ) Quỹ hưu.
+: Với sự tăng trưởng nhanh chóng của các cơ chế lương hưu của công nhân viên trong những thập kỷ gần đây, quỹ hưu của các cơ quan lớn ở các khu vực nhà nước và xí nghiệp khu vực tư nhân đã trở thành những thể chế tài chính quan trọng, đầu tư những khoản tiền lớn hàng năm.
+@Chuyên ngành kinh tế
+#quỹ hưu
+#quỹ hưu bổng
+#quỹ hưu trí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#quỹ hưu trí

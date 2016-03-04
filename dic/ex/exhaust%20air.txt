@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#khí xả
+#không khí thải
+@Lĩnh vực: xây dựng
+#không khí thải ra ngoài
+#không khí xả
+@Lĩnh vực: điện lạnh
+#không khí xả ra
+@Chuyên ngành kỹ thuật
+#khí xả
+#không khí thải
+@Lĩnh vực: xây dựng
+#không khí thải ra ngoài
+#không khí xả
+@Lĩnh vực: điện lạnh
+#không khí xả ra

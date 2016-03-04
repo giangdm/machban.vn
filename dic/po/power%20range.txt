@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#khoảng công suất
+@Lĩnh vực: cơ khí & công trình
+#biên độ công suất
+#khoảng năng suất
+@Lĩnh vực: điện
+#dải công suất

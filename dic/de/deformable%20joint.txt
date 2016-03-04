@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mối nối mềm
+@Lĩnh vực: xây dựng
+#mối nối biến dạng

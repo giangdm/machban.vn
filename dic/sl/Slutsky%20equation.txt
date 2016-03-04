@@ -1,0 +1,3 @@
+﻿@Slutsky equation
+#(Econ) Phương trình Slutsky.
+: Thường được xác định như sau: Hiệu ứng của giá = Hiệu ứng thu nhập : Hiệu ứng thay thế.

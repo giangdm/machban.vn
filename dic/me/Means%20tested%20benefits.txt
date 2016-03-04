@@ -1,0 +1,3 @@
+﻿@Means tested benefits
+#(Econ) Trợ cấp theo mức trung bình.
+: Là những trợ cấp mà chỉ có thể nhận được nếu như thu nhập của người xin được hưởng trợ cấp đó thấp hơn một giá trị nhất định.

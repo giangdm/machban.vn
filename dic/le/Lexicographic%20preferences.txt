@@ -1,0 +1,3 @@
+﻿@Lexicographic preferences
+#(Econ) Thị hiếu thiên lệch.
+: Sở thích của một cá nhân đối với một nhóm hàng hoá này so với một hàng hoá khác, nếu nó chứa nhiều hơn một hàng hoá cụ thể nào đó và bất kể số lượng của các hàng hoá khác trong nhóm đó như thế nào.

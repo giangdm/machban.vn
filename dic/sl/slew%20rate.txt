@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#tốc độ quét
+@Lĩnh vực: toán & tin
+#tốc độ xoay chuyển
+@Lĩnh vực: điện tử & viễn thông
+#tốc độ xoay vặn
+@Lĩnh vực: điện lạnh
+#tỷ số quét

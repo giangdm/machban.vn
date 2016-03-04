@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#động cơ có mômen lớn
+#động cơ mômen quay
+@Lĩnh vực: cơ khí & công trình
+#động cơ hãm
+#động cơ mômen (lớn)
+@Lĩnh vực: điện lạnh
+#động cơ mômen

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ sai bit
+@Lĩnh vực: giao thông & vận tải
+#hệ số lỗ bít

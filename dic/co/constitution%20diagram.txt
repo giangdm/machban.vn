@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đồ thị cân bằng pha
+#giản đồ pha
+@Lĩnh vực: hóa học & vật liệu
+#biểu đồ thành phần
+@Lĩnh vực: điện lạnh
+#giản đồ thành phần

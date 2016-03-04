@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#định nghĩa dạng thức bản ghi
+#sự xác định dạng mẩu tin

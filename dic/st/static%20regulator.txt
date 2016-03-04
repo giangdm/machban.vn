@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ điều chỉnh (điện áp) tĩnh
+#bộ ổn định tĩnh
+@Lĩnh vực: điện
+#bộ điều chỉnh tĩnh

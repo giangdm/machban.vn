@@ -1,0 +1,2 @@
+﻿@computer-operated universal test system
+#(Tech) hệ thống thử chung bằng máy điện toán

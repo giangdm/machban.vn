@@ -1,0 +1,6 @@
+﻿@additive noise
+#(Tech) tạp/nhiễu âm cộng thêm
+@Chuyên ngành kỹ thuật
+#nhiễu cộng
+@Lĩnh vực: điện tử & viễn thông
+#tiếng ồn cộng tính

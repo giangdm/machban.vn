@@ -1,0 +1,53 @@
+﻿@geomatry
+#hình học
+#g. of direction hình học phương hướng
+#g. of numbers hình học các số
+#g. of paths hình học các đường
+#g. of position hình học vị trí
+#g. of the circle hình học vòng tròn
+#g. of the sphere hình học mặt cầu
+#absolute g. hình học tuyệt đối
+#affine g. hình học afin
+#affine differential g. hình học vi phân afin
+#algebraic g. hình học đại số
+#analytic g. hình học giải tích
+#complex g. hình học phức
+#descriptive g. hoạ hinhd
+#differential g. hình học vi phân
+#double elliptic g. hình học song eliptic
+#elementary g. hình học sơ cấp
+#elliptic(al) g. hình học eliptic
+#elliptic parabolic g. hình học parabolic eliptic
+#equiaffine g. hình học đẳng afin
+#equiform g. hình học đẳng dạng
+#Euclidean g. hình học Ơclit
+#finite g. hình học hữu hạn
+#four dimensional g. hình học bốn chiều
+#high g. hình học cao cấp
+#hyperbolic g. hình học hipebolic
+#hyperbolic metric g. hình học metric hipebolic
+#infinitesimal g. hình học vi phân
+#inversion g. hình học nghịch đảo
+#line g. hình học tuyến
+#Lobachevskian g. hình học Lôgasepxki
+#metric g. hình học metric
+#metric differential g. hình học vi phân metric
+#Minkowskian g. hình học Minkôpxki
+#modern g. hình học hiện đại
+#network g. hình học lưới
+#non-Euclidean g. hình học phi Ơclit
+#parabolic metric g. hình học metric parabolic
+#perspective g. hình học phối cảnh
+#plane g. hình học phẳng
+#point g. hình học điểm
+#polymetric g. hình học đa metric
+#probabilistic g. hình học xác suất
+#projective g. hình học xạ ảnh
+#projective differential g. hình học vi phân xạ ảnh
+#quasi-elliptic g. hình học tựa eliptic
+#real g. hình học thực
+#Riemannian g. hình học Riman
+#solid g. hình học không gian, hình học nổi
+#spherical g. hình học cầu
+#symplectic g. hình học ngẫu đối
+#synthetic(al) g. hình học tổng hợp

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số hiệu thùng (của hàng trong kho)
+#số thùng (số hiệu thùng)

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đếm chọn trước
+#máy đếm lô
+#máy đếm xác định trước
+@Lĩnh vực: điện tử & viễn thông
+#bộ đếm lô
+@Lĩnh vực: toán & tin
+#máy đếm bó
+#máy đếm định liều lượng
+#máy đếm nhóm
+@Lĩnh vực: đo lường & điều khiển
+#máy đếm định lượng

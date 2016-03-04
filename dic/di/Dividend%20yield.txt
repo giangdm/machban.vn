@@ -1,0 +1,8 @@
+﻿@Dividend yield
+#(Econ) Lãi cổ tức.
+: Lãi cổ tức cho thấy tỷ lệ % lợi tức mà nhà đầu tư có thể thu tại mức giá hiện hành.
+@Chuyên ngành kinh tế
+#mức thu nhập cổ tức
+#suất thu lợi cổ tức
+#thu nhập gộp cổ tức
+#tỷ suất lợi tức cổ phần

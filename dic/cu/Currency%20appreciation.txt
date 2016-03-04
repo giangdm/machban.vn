@@ -1,0 +1,6 @@
+﻿@Currency appreciation
+#(Econ) Sự tăng giá trị của một đồng tiền
+: Sự tăng giá trị của một ĐỒNG TIỀN  này so với giá trị đồng tiền khác, có nghĩa là tăng TỶ GIÁ HỐI ĐOÁI  trong điều kiện TỶ GIÁ HỐI ĐOÁI THẢ NỔI. (Xem CURRENCY DEPRECIATION).
+@Chuyên ngành kinh tế
+#sự lên giá của một đồng tiền
+#sự tăng trị tiền đúc

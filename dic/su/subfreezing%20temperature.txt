@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nhiệt độ dưới điểm băng
+#nhiệt độ dưới điểm băng (dưới 00C)

@@ -1,0 +1,28 @@
+﻿@Quadrant
+#(Econ) Góc toạ độ/ góc phần tư.
+<!-- more -->
+@quadrant /'kwɔdrənt/
+*danh từ
+#(toán học) góc phần tư; cung phần tư
+@Chuyên ngành kinh tế
+#hình quạt
+#thước đo độ
+@Chuyên ngành kỹ thuật
+#bộ đầu ngựa
+#đoạn
+#góc
+#góc phần tư
+#kính đo góc
+@Lĩnh vực: xây dựng
+#4 hình tròn
+@Lĩnh vực: cơ khí & công trình
+#chạc bánh răng lớn
+@Lĩnh vực: y học
+#góc phần tư cung phần tư
+@Lĩnh vực: điện lạnh
+#henry quốc tế
+@Lĩnh vực: toán & tin
+#thước đo độ
+<!-- more -->
+@quadrant
+#gốc phần tư

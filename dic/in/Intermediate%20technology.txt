@@ -1,0 +1,7 @@
+﻿@Intermediate technology
+#(Econ) Công nghệ trung gian.
+: Tập hợp các kỹ thuật và quá trình công nghệ nằm ở giữa công nghệ DÙNG NHIỀU VỐN của thế giới phương Tây và các kỹ thuật nội sinh, thô sơ của các nước đang phát triển.
+@Chuyên ngành kinh tế
+#công nghệ trung gian
+#thuế giữa kỳ
+#thuế trung gian

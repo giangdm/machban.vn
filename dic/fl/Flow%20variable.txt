@@ -1,0 +1,2 @@
+﻿@Flow variable
+#(Econ) Biến số mang tính dòng chảy.

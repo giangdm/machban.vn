@@ -1,0 +1,13 @@
+﻿@Random sample
+#(Econ) Mẫu ngẫu nhiên.
+: Một mẫu mà tư cách của các thành viên được xác định bằng xác suất và là nơi một quan sát được thực hiện một cách độc lập đối với tất cả các quan sát khác ở mẫu này.
+@Chuyên ngành kinh tế
+#mẫu bất kỳ
+#mẫu chọn ngẫu nhiên
+#mẫu ngẫu nhiên
+@Chuyên ngành kỹ thuật
+#mẫu ngẫu nhiên
+@Lĩnh vực: y học
+#chọn ngẫu nhiên
+@Lĩnh vực: xây dựng
+#mẫu chọn ngẫu nhiên

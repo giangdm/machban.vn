@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khoảng thời gian chạy dịch (chuyển đổi)
+#thời gian dịch

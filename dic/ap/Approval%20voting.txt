@@ -1,0 +1,3 @@
+﻿@Approval voting
+#(Econ) Bỏ phiếu tán thành; bỏ phiếu phê chuẩn.
+: Một dạng ra quyết định trong đó mỗi cá nhân bỏ phiếu cho một nhóm phương án mà người đó tán thành. (Xem BORDA COUNT, CONDORCET CRITERION, SOCIAL DECISION RULE. SOCIAL WELFARE FUNCTION).

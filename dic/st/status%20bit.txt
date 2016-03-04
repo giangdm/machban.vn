@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bit trạng thái
+@Lĩnh vực: xây dựng
+#bit trang thái
+@Lĩnh vực: toán & tin
+#bít trạng thái

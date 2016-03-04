@@ -1,0 +1,2 @@
+﻿@FM (frequency modulation) wave
+#(Tech) sóng biến điệu tần số

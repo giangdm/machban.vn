@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thông tin chọn đường
+#thông tin định tuyến
+#thông tin tạo đường truyền
+@Lĩnh vực: điện tử & viễn thông
+#thông tin đường truyền

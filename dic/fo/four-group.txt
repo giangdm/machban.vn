@@ -1,0 +1,6 @@
+﻿@four-group
+#(đại số) nhóm bốn, nhóm Klein
+@Chuyên ngành kỹ thuật
+#nhóm bốn
+@Lĩnh vực: toán & tin
+#nhóm Klein

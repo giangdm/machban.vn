@@ -1,0 +1,2 @@
+﻿@dialog mode
+#(Tech) chế độ đối thoại

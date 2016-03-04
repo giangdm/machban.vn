@@ -1,0 +1,3 @@
+﻿@Excess wage tax
+#(Econ) Thuế chống lương vượt; Thuế chống tăng lương
+: Là thuế đưa ra để chống việc tăng lương quá cao nhằm làm giảm lạm phát.

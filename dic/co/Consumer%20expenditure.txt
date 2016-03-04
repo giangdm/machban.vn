@@ -1,0 +1,3 @@
+﻿@Consumer expenditure
+#(Econ) Chi tiêu của người tiêu dùng
+: Xem CONSUMPTION EXPENDITURE.

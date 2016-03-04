@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#cáp tải
+#dây đi
+@Lĩnh vực: toán & tin
+#cáp của bộ nạp giấy
+@Lĩnh vực: điện
+#cáp tiếp điện
+@Lĩnh vực: điện tử & viễn thông
+#cáp tiếp vòng
+@Chuyên ngành kỹ thuật
+#cáp tải
+#dây đi
+@Lĩnh vực: toán & tin
+#cáp của bộ nạp giấy
+@Lĩnh vực: điện
+#cáp tiếp điện
+@Lĩnh vực: điện tử & viễn thông
+#cáp tiếp vòng

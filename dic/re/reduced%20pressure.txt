@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#áp suất quy đổi
+@Chuyên ngành kỹ thuật
+#áp suất quy đổi
+#áp suất rút gọn
+@Lĩnh vực: cơ khí & công trình
+#áp lực quy đổi

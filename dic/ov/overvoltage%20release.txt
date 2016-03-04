@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ nhả quá điện áp
+@Lĩnh vực: điện
+#nhả khi quá điện áp

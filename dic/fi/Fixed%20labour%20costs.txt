@@ -1,0 +1,6 @@
+﻿@Fixed labour costs
+#(Econ) Chi phí lao động cố định.
+: Bao gồm các chi phí về việc làm và thay đổi theo tỷ lệ ít hơn so với số giờ làm việc.
+@Chuyên ngành kinh tế
+#chế độ khấu trừ cố định
+#chi phí lao động cố định

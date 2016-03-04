@@ -1,0 +1,5 @@
+﻿@absolute path
+#(Tech) đường dẫn tuyệt đối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường dẫn tuyệt đối

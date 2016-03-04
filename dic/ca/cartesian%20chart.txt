@@ -1,0 +1,2 @@
+﻿@cartesian chart
+#(Tech) biểu đồ Đêcáctơ (Descartes)

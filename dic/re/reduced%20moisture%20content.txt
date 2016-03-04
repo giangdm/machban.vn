@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ chứa ẩm bị giảm
+#dung lượng ẩm bị giảm
+#hàm lượng ẩm bị giảm
+#hàm lượng ẩm rút gọn

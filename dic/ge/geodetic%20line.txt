@@ -1,0 +1,4 @@
+﻿@geodetic line
+#(Tech) đường trắc địa, đường ngắn nhất trên mặt cong
+@Chuyên ngành kỹ thuật
+#đường trắc địa

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#không khí ra
+#không khí thải
+@Lĩnh vực: điện lạnh
+#không khí đi ra

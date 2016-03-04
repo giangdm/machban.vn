@@ -1,0 +1,10 @@
+﻿@available power
+#(Tech) công suất hữu hiệu, công suất khả dụng
+@Chuyên ngành kinh tế
+#công suất hữu hiệu
+@Chuyên ngành kỹ thuật
+#lực có ích
+@Lĩnh vực: điện tử & viễn thông
+#công suất có sẵn
+@Lĩnh vực: toán & tin
+#công suất khả dụng

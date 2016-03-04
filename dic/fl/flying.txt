@@ -1,0 +1,8 @@
+﻿@flying /flying/
+*danh từ
+#sự bay
+#chuyến bay
+*tính từ
+#bay
+#mau chóng, chớp nhoáng
+=a flying visit: cuộc đi thăm chớp nhoáng

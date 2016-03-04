@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ ổn nhiệt điểm không
+#máy điều nhiệt điểm không
+#tecmostat điểm không

@@ -1,0 +1,3 @@
+﻿@Valuation curve
+#(Econ) Đường đánh giá.
+: Xem GROWTH - VALUATION FUNCTION.

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy nén kiểu thể tích
+#máy nén pittông
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy nén kiểu (thay đổi) thể tích
+#máy nén loại dịch chuyển

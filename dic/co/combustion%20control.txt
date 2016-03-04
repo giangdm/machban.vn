@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh nhiên liệu
+@Lĩnh vực: hóa học & vật liệu
+#khống chế cháy
+@Lĩnh vực: giao thông & vận tải
+#sự điều khiển sự cháy

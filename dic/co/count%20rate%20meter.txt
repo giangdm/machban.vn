@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#máy đo tốc độ đếm
+@Lĩnh vực: toán & tin
+#máy đo tốc độ tính

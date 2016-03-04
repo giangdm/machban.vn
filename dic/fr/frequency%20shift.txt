@@ -1,0 +1,10 @@
+﻿@frequency shift
+#(Tech) dịch chuyển tần số
+@Chuyên ngành kỹ thuật
+#độ dịch tần
+#sự dịch tần
+#sự dịch tần số
+@Lĩnh vực: điện lạnh
+#chuyển dịch tần số
+@Lĩnh vực: toán & tin
+#sự trôi tần số

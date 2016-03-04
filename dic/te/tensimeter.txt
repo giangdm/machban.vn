@@ -1,0 +1,9 @@
+﻿@tensimeter /,tensi'ɔmitə/
+*danh từ
+#(vật lý) cái đo áp hơi
+@Chuyên ngành kỹ thuật
+#máy đo áp suất bề mặt chất lỏng
+@Lĩnh vực: đo lường & điều khiển
+#áp kế hơi (bão hòa) máy đo áp suất bão hòa
+@Lĩnh vực: hóa học & vật liệu
+#cái đo độ căng

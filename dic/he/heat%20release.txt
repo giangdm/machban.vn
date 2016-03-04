@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự giải phóng nhiệt
+#sự phát nhiệt
+#sự tỏa nhiệt
+@Lĩnh vực: xây dựng
+#sự thoát nhiệt

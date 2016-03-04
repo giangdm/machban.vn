@@ -1,0 +1,8 @@
+﻿@Blue-collar workers
+#(Econ) Công nhân cổ xanh
+: Người lao động tham gia vào công việc nào đó mà về bản chất là lao động chân tay, và cũng khác với công nhân cổ trắng.(Xem MANUAL WORKERS)
+@Chuyên ngành kinh tế
+#công nhân xưởng máy
+#những người lao động áo xanh
+@Chuyên ngành kỹ thuật
+#dân lao động

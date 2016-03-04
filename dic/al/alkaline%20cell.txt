@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#pin kiềm
+@Lĩnh vực: điện
+#phần tử acquy kiềm
+@Lĩnh vực: hóa học & vật liệu
+#pin mangan kiềm

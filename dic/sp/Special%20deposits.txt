@@ -1,0 +1,6 @@
+﻿@Special deposits
+#(Econ) Các khoản ký quỹ đặc biệt.
+: Là một biện pháp kiểm soát tín dụng do NGÂN HÀNG ANH đưa ra vào năm 1958 và sau đó được áp dụng tại các ngân hàng thanh toán bù trừ ở London và Scotland, sau đó vào năm 1971được nhân rộng ra cho tất cả các ngân hàng hoạt động tại Anh và một số các TỔ CHỨC TÀI CHÍNH lớn.
+@Chuyên ngành kinh tế
+#ký thác, tiền gởi đặc biệt, dự trữ pháp định
+#tiền ký gửi đặc biệt

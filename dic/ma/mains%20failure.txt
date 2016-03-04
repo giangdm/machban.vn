@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự hỏng khu phân phát
+#sự hỏng khu phân phát (điện, nước...)
+@Chuyên ngành kỹ thuật
+#sự hỏng điện
+@Lĩnh vực: điện tử & viễn thông
+#sự hư hỏng điện

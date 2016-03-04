@@ -1,0 +1,8 @@
+﻿@operations room
+*danh từ
+#phòng kế hoạch hành quân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phòng thao tác
+@Lĩnh vực: đo lường & điều khiển
+#phòng vận hành

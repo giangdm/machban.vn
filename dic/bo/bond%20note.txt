@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giấy chở hoãn thuế
+#giấy phép cho vận chuyển hàng hóa (từ kho hải quan)
+#giấy phép xuất kho hải quan
+#phiếu trái phiếu
+#phiếu xuất kho hải quan

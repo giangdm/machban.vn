@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bảo hiểm tai nạn
+@Chuyên ngành kỹ thuật
+#bảo hiểm tai nạn
+@Lĩnh vực: hóa học & vật liệu
+#bảo hiểm sự cố

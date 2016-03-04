@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#Texla (đơn vị đo mật độ từ thông, bằng 103 gauxơ)

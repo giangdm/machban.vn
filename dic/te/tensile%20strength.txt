@@ -1,0 +1,19 @@
+﻿@Chuyên ngành kinh tế
+#độ bền đứt
+@Chuyên ngành kỹ thuật
+#độ bền chống rách
+#độ bền đứt
+#độ bền đứt giới hạn
+#độ bền kéo
+#độ bền kéo giới hạn
+#giới hạn bền kéo
+#lực kéo
+#sức bền kéo
+#sức chịu kéo
+#ứng suất kéo
+@Lĩnh vực: xây dựng
+#cường độ chịu kéo
+#cường độ kéo
+#sức chịu đứt gãy
+@Lĩnh vực: toán & tin
+#độ bền kéo đứt

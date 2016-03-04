@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sự trao đổi thương phiếu giữa ngân hàng
+#việc thanh toán bù trừ của ngân hàng
+#việc thanh toán của ngân hàng

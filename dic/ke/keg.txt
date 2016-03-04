@@ -1,0 +1,5 @@
+﻿@keg /keg/
+*danh từ
+#thùng chứa (khoảng 40 lít)
+@Chuyên ngành kinh tế
+#thùng nhỏ

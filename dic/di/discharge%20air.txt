@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#không khí cấp
+@Lĩnh vực: điện lạnh
+#không khí đường đẩy
+@Lĩnh vực: hóa học & vật liệu
+#không khí thoát

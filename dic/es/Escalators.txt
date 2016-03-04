@@ -1,0 +1,3 @@
+﻿@Escalators
+#(Econ) Điều khoản di động giá.
+: Các điều khoản về phí sinh hoạt trong các ghi thoả thuận thương lượng tập thể. Các điều khoản là một cơ chế điều chỉnh định kỳ mức lương dựa trên những biến động của một chỉ số giá cả nhất định.

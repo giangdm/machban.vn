@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chu trình (kín)
+#vòng tuần hoàn kín
+@Lĩnh vực: điện lạnh
+#chu trình đóng (kín)

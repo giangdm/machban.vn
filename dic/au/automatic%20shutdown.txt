@@ -1,0 +1,5 @@
+﻿@automatic shutdown
+#(Tech) ngưng tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự ngừng (máy) tự động

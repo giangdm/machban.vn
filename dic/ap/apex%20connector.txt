@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ phận
+@Lĩnh vực: xây dựng
+#đầu nối, khớp nối ở đỉnh
+#khớp nối ở đỉnh

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lưới cột
+@Lĩnh vực: xây dựng
+#hệ thống cột
+#hệ thống trụ

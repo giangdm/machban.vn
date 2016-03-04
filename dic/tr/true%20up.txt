@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#điều chỉnh đúng
+#mài giũa
+#sửa
+#sửa chữa đúng
+@Lĩnh vực: ô tô
+#bào mặt
+@Lĩnh vực: xây dựng
+#điều chỉnh bộ phận (máy)
+@Lĩnh vực: toán & tin
+#điều chỉnh bộ phận máy
+@Lĩnh vực: cơ khí & công trình
+#hiệu chỉnh các bộ phận (một động cơ)

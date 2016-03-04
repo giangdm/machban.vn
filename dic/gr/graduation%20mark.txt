@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#dấu thang đo
+#vạch thang đo

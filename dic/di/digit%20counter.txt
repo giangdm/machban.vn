@@ -1,0 +1,7 @@
+﻿@digit counter
+#(Tech) máy đếm số tự/hiện số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ đếm chữ số
+@Lĩnh vực: toán & tin
+#máy đếm chữ số

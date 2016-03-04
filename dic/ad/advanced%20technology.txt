@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#kỹ thuật tiên tiến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#công nghệ cải tiến
+@Lĩnh vực: điện tử & viễn thông
+#công nghệ cao cấp

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#container cách nhiệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#côngtenơ cách nhiệt

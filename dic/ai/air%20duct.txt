@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#ống dẫn gió
+#ống dẫn khí
+#ống dẫn không khí
+#ống gió
+#ống thông gió
+#ống thông hơi
+@Lĩnh vực: xây dựng
+#ống không khí

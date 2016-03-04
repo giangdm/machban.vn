@@ -1,0 +1,21 @@
+﻿@life cycle
+*danh từ
+#chu kỳ cuộc sống
+@Chuyên ngành kỹ thuật
+#thời hạn phục vụ
+#vòng đời
+@Lĩnh vực: toán & tin
+#chu kì đời sống
+@Lĩnh vực: y học
+#chu kỳ sống
+@Lĩnh vực: xây dựng
+#vòng sống
+@Chuyên ngành kỹ thuật
+#thời hạn phục vụ
+#vòng đời
+@Lĩnh vực: toán & tin
+#chu kì đời sống
+@Lĩnh vực: y học
+#chu kỳ sống
+@Lĩnh vực: xây dựng
+#vòng sống

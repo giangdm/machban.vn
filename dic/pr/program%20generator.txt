@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ sinh chương trình
+#bộ tạo chương trình
+@Lĩnh vực: toán & tin
+#chương trình tạo chương trình

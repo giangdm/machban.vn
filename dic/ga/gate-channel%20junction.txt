@@ -1,0 +1,2 @@
+﻿@gate-channel junction
+#(Tech) tiếp giáp kênh-cổng

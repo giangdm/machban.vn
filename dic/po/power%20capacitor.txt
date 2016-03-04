@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#tụ bù
+@Lĩnh vực: điện
+#tụ điện công suất
+#tụ điện lực

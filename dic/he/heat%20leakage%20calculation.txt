@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự tính toán nhiệt rò rỉ
+#sự tính toán nhiệt thẩm thấu
+#tính toán nhiệt rò rỉ
+#tính toán nhiệt thẩm thấu

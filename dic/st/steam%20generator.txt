@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy sinh hơi
+@Chuyên ngành kỹ thuật
+#lò hơi
+#nồi hơi
+@Lĩnh vực: điện
+#bộ phát hơi

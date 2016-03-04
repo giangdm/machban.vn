@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#trợ cấp để cân bằng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bù nhiệt độ
+#làm cân bằng nhiệt độ

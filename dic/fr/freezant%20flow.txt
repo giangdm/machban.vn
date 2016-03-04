@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dòng môi chất kết đông
+#dòng tác nhân kết đông

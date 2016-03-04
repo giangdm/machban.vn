@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ lực cân bằng
+#hệ ở trạng thái cân bằng

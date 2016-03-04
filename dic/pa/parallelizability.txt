@@ -1,0 +1,2 @@
+﻿@parallelizability
+#tính song song hoá được

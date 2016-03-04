@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm ứng suất
+@Lĩnh vực: xây dựng
+#hàm Eri

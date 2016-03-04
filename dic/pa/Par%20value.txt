@@ -1,0 +1,15 @@
+﻿@Par value
+#(Econ) Giá trị danh nghĩa, mệnh giá.
+: Giá trị danh nghĩa, mệnh giá của một cổ phiếu hoặc chứng khoán.
+@Chuyên ngành kinh tế
+#bình giá
+#giá trị bề mặt
+#giá trị danh nghĩa
+#giá trị trên phiếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giá trị bình
+#giá trị giá chuẩn
+@Lĩnh vực: toán & tin
+#giá trị trên danh nghĩa
+#mệnh giá

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống làm lạnh
+#sơ đồ lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mạch lạnh

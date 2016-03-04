@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#bể làm lạnh
+@Lĩnh vực: điện lạnh
+#ao lạnh
+#ao ngưng tụ
+@Lĩnh vực: hóa học & vật liệu
+#bể chứa làm sạch
+#hồ làm nguội nước
+@Lĩnh vực: xây dựng
+#bể làm nguội
+#hồ làm nguội

@@ -1,0 +1,5 @@
+﻿@Effective rate of protection
+#(Econ) Tỷ lệ bảo hộ hữu dụng; Thuế bảo hộ hữu hiệu.
+: Được định nghĩa là phần giá trị gia tăng, do cơ cấu thuế quan mang lại, là một phần giá trị gia tăng của thương mại tự do.
+@Chuyên ngành kinh tế
+#tỷ suất bảo hộ thực tế

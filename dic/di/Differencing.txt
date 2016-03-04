@@ -1,0 +1,3 @@
+﻿@Differencing
+#(Econ) Phương pháp vi phân
+: Phương pháp dùng để nhận diện một phương trình vi phân tĩnh.

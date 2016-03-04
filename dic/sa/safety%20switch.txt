@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#ngắt điện an toàn
+@Lĩnh vực: điện lạnh
+#bộ ngắt an toàn
+@Lĩnh vực: cơ khí & công trình
+#cái ngắt mạch an toàn
+@Lĩnh vực: điện
+#công tắc bảo hiểm

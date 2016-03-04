@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#độ méo sóng
+@Lĩnh vực: toán & tin
+#méo dạng sóng
+#sự sái dạng tín hiệu

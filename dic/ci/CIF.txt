@@ -1,0 +1,6 @@
+﻿@CIF
+#(Econ) Giá, phí bảo hiểm, cước vận chuyển , hay giá đầy đủ của hàng hoá.
+<!-- more -->
+@cif
+*(viết tắt)
+#chi phí & bảo hiểm & cước phí (Cost & Insurance & Freight)

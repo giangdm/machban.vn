@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đèn nhiều lưới
+@Lĩnh vực: điện
+#đèn đa cực
+@Lĩnh vực: điện tử & viễn thông
+#đèn nhiều cực
+@Lĩnh vực: toán & tin
+#đèn nhiều điện cực

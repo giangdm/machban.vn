@@ -1,0 +1,3 @@
+﻿@Distribution, theories of
+#(Econ) Các lý thuyết phân phối.
+: Các lý thuyết liên quan đến cơ chế theo đó THU NHẬP quốc dân được phân phối giữa các cá nhân và các nhóm trong nền kinh tế.

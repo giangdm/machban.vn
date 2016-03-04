@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khoảng phủ sóng
+#vùng phủ sóng của đài
+#vùng phủ sóng của mạng
+@Lĩnh vực: toán & tin
+#lớp đối tượng mạng

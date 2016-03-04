@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#phép trung dung
+#phương pháp lấy số trung bình

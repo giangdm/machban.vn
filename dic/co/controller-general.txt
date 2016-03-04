@@ -1,0 +1,3 @@
+﻿@controller-general
+*danh từ
+#tổng giám đốc

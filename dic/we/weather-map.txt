@@ -1,0 +1,3 @@
+﻿@weather-map
+*danh từ
+#bản đồ thời tiết

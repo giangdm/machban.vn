@@ -1,0 +1,2 @@
+﻿@Autonomous investment demand
+#(Econ) Nhu cầu đầu tư tự định.

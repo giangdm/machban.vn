@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị nghiền đập
+@Chuyên ngành kỹ thuật
+#nhà máy nghiền đá
+@Lĩnh vực: xây dựng
+#trạm đập đá

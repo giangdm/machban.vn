@@ -1,0 +1,2 @@
+﻿@dedicated connection = dedicated line
+#(Tech) đường nối chuyên dụng

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#thu nhập bình quân đầu người
+#thu nhập của mỗi người (tiền lương)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chuyển qua trang sau
+#chuyển xuống
+#kết chuyển
+#sang sổ (trong một bảng tổng kết tài sản)

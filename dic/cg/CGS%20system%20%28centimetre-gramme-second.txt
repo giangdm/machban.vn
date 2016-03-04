@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ CGS
+@Lĩnh vực: đo lường & điều khiển
+#hệ xentimet-gam-giây

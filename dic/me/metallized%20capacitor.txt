@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tụ điện mạ kim loại
+@Lĩnh vực: điện lạnh
+#tụ mạ kim loại

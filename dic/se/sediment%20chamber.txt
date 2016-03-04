@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#phòng kết tủa
+@Chuyên ngành kỹ thuật
+#bể lắng bùn
+@Lĩnh vực: cơ khí & công trình
+#buồng lắng cặn
+@Lĩnh vực: ô tô
+#khoảng lắng cặn
+#phần lắng cặn (phần dưới của bình acquy)

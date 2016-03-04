@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#bánh khởi động
+#bánh xe cảm biến xung (ở xi lanh động cơ)
+#bánh xe khởi động
+#rôto cảm biến điện từ
+#rôto cảm biến hall

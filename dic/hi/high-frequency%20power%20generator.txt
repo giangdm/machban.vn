@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy phát điện tần số cao
+@Lĩnh vực: điện
+#máy phát năng lượng cao tần

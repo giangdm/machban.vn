@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#số bán hàng
+#số doanh thu
+#sổ doanh thu
+#tài khoản bán hàng

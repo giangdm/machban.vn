@@ -1,0 +1,8 @@
+﻿@uniselector
+#(máy tính) bộ tìm xoay tròn, bộ chọn đơn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ chọn đơn
+#bộ tìm xoay tròn
+@Lĩnh vực: điện
+#bộ chọn đơn (ngành điện thoại)

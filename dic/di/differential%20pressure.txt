@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực chênh
+#áp suất chênh
+#áp suất vi sai
+#độ chênh áp suất
+@Lĩnh vực: cơ khí & công trình
+#áp lực chệch
+#áp lực vi sai
+@Lĩnh vực: hóa học & vật liệu
+#áp suất phân dị
+@Lĩnh vực: xây dựng
+#chênh lệch áp lực

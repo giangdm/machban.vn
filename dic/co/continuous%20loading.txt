@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đường liền nét
+#đường liên tục
+@Lĩnh vực: điện tử & viễn thông
+#gánh liên tục của cáp
+@Lĩnh vực: điện lạnh
+#gia cảm liên tục
+@Lĩnh vực: toán & tin
+#sự tải liên tục

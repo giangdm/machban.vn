@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kinh tế
+#lộ quyền
+#lộ quyền (quyền qua đất, qua đường...của người khác)
+#quyền đi qua
+#quyền địa dịch
+#quyền thông hành
+#quyền ưu tiên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#chiều rộng lấn đất (của kênh)
+@Lĩnh vực: xây dựng
+#dải đất dành cho đường
+#đất không lưu
+#lộ giới
+#quyền có lối đi
+@Lĩnh vực: giao thông & vận tải
+#quyền bay trước (ở sân bay)
+#quyền đi qua
+#quyền đi trước
+#quyền ưu tiên qua đường

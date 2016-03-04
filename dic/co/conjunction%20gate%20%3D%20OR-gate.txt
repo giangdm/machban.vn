@@ -1,0 +1,2 @@
+﻿@conjunction gate = OR-gate
+#(Tech) cổng hội

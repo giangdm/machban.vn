@@ -1,0 +1,2 @@
+﻿@enhancement region
+#(Tech) vùng giàu, vùng tăng cường

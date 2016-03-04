@@ -1,0 +1,63 @@
+﻿@Integration
+#(Econ) Tích phân hoá.
+: Đây là quá trình ngược lại của vi phân. Xem DERIVATIVE.
+<!-- more -->
+@integration /,inti'greiʃn/
+*danh từ
+#sự hợp lại thành một hệ thống thống nhất, sự bổ sung thành một thể thống nhất, sự hợp nhất
+#sự hoà hợp với môi trường
+#(toán học) phép tích phân; sự tích phân
+#(từ Mỹ,nghĩa Mỹ) sự hợp lại thành một hệ thống thống nhất (những cái trước kia bị sự phân biệt chủng tộc tách ra)
+#(từ Mỹ,nghĩa Mỹ) sự mở rộng cho mọi người, sự mở rộng cho mọi chủng tộc
+#(từ Mỹ,nghĩa Mỹ) sự dành quyền bình đẳng cho (một chủng tộc...)
+@Chuyên ngành kinh tế
+#hòa nhập
+#liên kết
+#nhất thể hóa
+#phép tích phân
+#sát nhập
+#sự hợp nhất (công ty)
+#sự kết hợp
+#sự liên hợp
+#sự nhất thể hóa
+#sự sáp nhập
+#sự tích-phân
+#việc hợp nhất
+@Chuyên ngành kỹ thuật
+#phép tính tích phân
+#sự bố cục
+#sự kết hợp
+#sự tích hợp
+#sự tổ hợp
+#tích hợp
+@Lĩnh vực: điện tử & viễn thông
+#ghép tích phân
+#sự tích phân
+@Lĩnh vực: toán & tin
+#lấy tích phân
+#phép lấy tích nhân
+#phép lấy tích phân
+#phép nhất thể hóa
+#phép tích phân
+#sự lấy tích phân
+#sự tích hợp hóa
+@Lĩnh vực: xây dựng
+#sự ghép bộ
+<!-- more -->
+@integration
+#(giải tích) phép lấy tích phân i. by decomposition phép lấy tích
+#phân bằng phân tích; i. by partial fractions phép lấy tích phân bằng
+#phân thức đơn giản; i. by substitution phép lấy tích phân bằng phép thế;
+#i. in infinite terms phép lấy tích phân các số hạng hữu hạn
+#i. of sequences and series phép lấy tích phân chuỗi vô hạn
+#approximate i. phép lấy tích phân [xấp xỉ, gần đúng]
+#asymptotic i. phép lấy tích phân tiệm cận
+#complex i. phép lấy tích phân thức
+#formal i. phép lấy tích phân
+#graphic(al) i. phép lấy tích phân bằng đồ thị
+#group i. phép lấy tích phân theo nhóm
+#immediate i. phép lấy tích phân trực tiếp
+#machanical i. phép lấy tích phân cơ giới
+#numerical i. phép lấy tích phân bằng số
+#point by point i. phép lấy tích phân theo điểm
+#successive i. lấy tích phân liên tiếp

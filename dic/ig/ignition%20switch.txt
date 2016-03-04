@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#công tắc
+#núm công tắc
+@Lĩnh vực: ô tô
+#công tắc đánh lửa
+#công tắc khóa điện

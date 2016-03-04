@@ -1,0 +1,5 @@
+﻿@case change
+#(Tech) đổi thường-hoa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phím đảo

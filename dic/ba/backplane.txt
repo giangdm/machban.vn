@@ -1,0 +1,12 @@
+﻿@backplane
+#tấm lưng (một loại board mẹ trong máy tính cá nhân)
+@Chuyên ngành kỹ thuật
+#tấm đỡ
+#tấm nối
+@Lĩnh vực: toán & tin
+#bảng nối đa năng
+@Lĩnh vực: xây dựng
+#mặt phẳng hậu
+@Lĩnh vực: điện tử & viễn thông
+#mặt sau (máy tính)
+#tấm đế (cắm đèn)

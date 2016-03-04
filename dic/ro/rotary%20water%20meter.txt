@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đồng hồ đo nước bằng tuabin
+#đồng hồ đo nước kiểu quay

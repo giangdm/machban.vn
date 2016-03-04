@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đáy sàng
+#đĩa rây
+#khay rây

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sức sản xuất
+@Chuyên ngành kỹ thuật
+#năng lực sản xuất
+@Lĩnh vực: hóa học & vật liệu
+#khả năng sản xuất

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giấy báo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giấy báo chuyển khoản
+#thư báo chuyển khoản

@@ -1,0 +1,32 @@
+﻿@Revenue
+#(Econ) Doanh thu.
+<!-- more -->
+@revenue /'revinju:/
+*danh từ
+#thu nhập (quốc gia)
+#((thường) số nhiều) lợi tức, hoa lợi (của cá nhân)
+#ngân khố quốc gia; sở thu thuế
+#(định ngữ) (thuộc) hải quan
+=revenue cutter: tàu hải quan (ở bờ biển chuyên bắt hàng lậu)
+=revenue officer: nhân viên hải quan chuyên bắt hàng lậu
+@Chuyên ngành kinh tế
+#sở thuế của chính phủ Anh
+@Chuyên ngành kinh tế
+#cục thuế
+#cục thuế ngân khố quốc gia
+#hoa lợi
+#phòng thuế
+#sở thuế
+#thu nhập
+#thu nhập tài chánh
+#thu nhập thuế
+#tiền thu thuế
+@Chuyên ngành kỹ thuật
+#doanh thu
+#thu nhập
+@Lĩnh vực: toán & tin
+#thu nhập hàng năm (của nhà nước)
+<!-- more -->
+@revenue
+#(toán kinh tế) thu nhập hàng năm (của nhà nước); điều khoản thu nhập; sự
+#thu thuế

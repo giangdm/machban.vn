@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tính khả thi kinh tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#tính hiện thực kinh tế

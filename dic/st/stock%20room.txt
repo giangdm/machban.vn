@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#kho
+#nhà kho
+@Chuyên ngành kỹ thuật
+#phòng kho

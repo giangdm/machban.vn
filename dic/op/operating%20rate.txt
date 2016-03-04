@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tỉ suất máy chạy
+#tỉ suất sử dụng năng lực sản xuất của thiết bị

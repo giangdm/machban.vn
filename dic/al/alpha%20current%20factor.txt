@@ -1,0 +1,2 @@
+﻿@alpha current factor
+#(Tech) hệ số dòng anfa

@@ -1,0 +1,51 @@
+﻿@Stability
+#(Econ) Sự ổn định.
+: Thông thường được dùng trong ngữ cảnh hệ thống CÂN BẰNG TỔNG THỂ hay TỪNG PHẦN để chỉ mức độ mà giá hoặc bộ giá tại mức CÂN BẰNG sẽ được đảm bảo bất kể có cú sốc nào xảy ra đến đối với hệ thống mà tạm thời làm cho giá cả chuyển động ra xa mức cân bằng .
+<!-- more -->
+@stability /stə'biliti/
+*danh từ
+#sự vững vàng, sự vững chắc; sự ổn định (giá cả...)
+#sự kiên định, sự kiên quyết
+#(vật lý) tính ổn định, tính bền; độ ổn định, độ bền
+=frequency stability: độ ổn định tần
+=muclear stability: tính bền của hạt nhân
+@Chuyên ngành kinh tế
+#độ bền
+#độ ổn định
+#tính ổn định (của giá cả)
+#tính ổn định (của giá cả...)
+@Chuyên ngành kỹ thuật
+#độ bền
+#độ cứng vững
+#độ ổn định
+#trạng thái cân bằng
+@Lĩnh vực: điện lạnh
+#độ bền (vững)
+#tính bền (vững)
+@Lĩnh vực: cơ khí & công trình
+#độ bền lâu (máy)
+@Lĩnh vực: đo lường & điều khiển
+#sự ổn định
+@Lĩnh vực: xây dựng
+#tính bền vững
+@Lĩnh vực: toán & tin
+#trạnh thái cân bằng
+<!-- more -->
+@stability
+#[sự, tính] ổn định
+#s. of solution tính ổn định [của lời giải, của nghiệm]
+#asymptotic(al) s. tính ổn định tiệm cận
+#conditional s. tính ổn định có điều kiện
+#dynamic s. tính ổn định động lực
+#elastic s. tính ổn định đàn hồi
+#frequency s. tính ổn định tần số
+#hydraulic s. tính ổn định thuỷ lực
+#intrinsic s. (điều khiển học) tính ổn định trong
+#kinetic s. sự ổn định động
+#local s. (thống kê) sự ổn định địa phương
+#longitadinal s. (cơ học) sự ổn định dọc
+#orbital s. sự ổn định quỹ đạo
+#overall s. (điều khiển học) tính ổn định tổng quát
+#static(al) s. sự ổn định tĩnh
+#structural s. (giải tích) tính ổn định cấu trúc
+#unconditional s. sự ổn định [tuyệt đối, không điều kiện]

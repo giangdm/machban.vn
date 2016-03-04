@@ -1,0 +1,5 @@
+﻿@IS curve
+#(Econ) Đường IS
+: Xem IS - LM DIAGRAM
+@Chuyên ngành kinh tế
+#đường cong IS

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự thiếu nhà ở
+#tình trạng khủng hoảng nhà ở
+#tình trạng khủng khoảng nhà ở
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự thiếu nhà ở

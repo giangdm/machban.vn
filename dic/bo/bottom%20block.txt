@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khối đáy
+@Lĩnh vực: xây dựng
+#gạch đáy

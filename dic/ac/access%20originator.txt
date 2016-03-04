@@ -1,0 +1,2 @@
+﻿@access originator
+#(Tech) nguồn khởi truy cập

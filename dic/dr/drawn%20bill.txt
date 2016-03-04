@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hối phiếu đã ký phát
+#hối phiếu ký phát ở nước ngoài
+#hối phiếu kỳ phát ở nước ngoài

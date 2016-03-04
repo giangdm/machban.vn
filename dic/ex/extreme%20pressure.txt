@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#áp suất cực hạn
+@Lĩnh vực: hóa học & vật liệu
+#áp suất siêu cao
+@Lĩnh vực: giao thông & vận tải
+#áp suất tới hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#áp suất cực hạn
+@Lĩnh vực: hóa học & vật liệu
+#áp suất siêu cao
+@Lĩnh vực: giao thông & vận tải
+#áp suất tới hạn

@@ -1,0 +1,3 @@
+﻿@European Monetary System (EMS)
+#(Econ) Hệ thống tiền tệ châu Âu.
+: Được áp dụng vào tháng 3-1979, hệ thống này (EMS) là một nỗ lực nhằm tạo nên một khu vực ổn định về tỷ giá hối đoái giữa các nước thành viên, vì hầu hết các thành viên đều tiến hành việc hạn chế biến động tỷ giá hối đoái của mình ở mức (:) hoặc (-) 2,25% giá trung tâm, đã thống nhất cho đồng tiền của họ.

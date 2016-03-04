@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ số dự phòng
+@Lĩnh vực: điện
+#hệ số sẵn sàng

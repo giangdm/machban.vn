@@ -1,0 +1,6 @@
+﻿@Aggregate expenditure
+#(Econ) Chi tiêu gộp.
+: Là tổng số chi tiêu danh nghĩa cho hàng hoá và dịch vụ trong một nền kinh tế.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chỉ tiêu kết trộn

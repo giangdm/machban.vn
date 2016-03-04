@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt nạ chính
+@Lĩnh vực: toán & tin
+#màn chắn chính
+@Lĩnh vực: điện tử & viễn thông
+#mạng che chính

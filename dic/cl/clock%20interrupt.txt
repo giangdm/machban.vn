@@ -1,0 +1,2 @@
+﻿@clock interrupt
+#(Tech) ngắt theo đồng hồ

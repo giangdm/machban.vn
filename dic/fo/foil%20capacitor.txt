@@ -1,0 +1,2 @@
+﻿@foil capacitor
+#(Tech) bộ diện dung lá kim loại

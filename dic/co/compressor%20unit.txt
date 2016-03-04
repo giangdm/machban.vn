@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị nén
+@Chuyên ngành kỹ thuật
+#máy nén
+#tổ máy nén
+@Lĩnh vực: xây dựng
+#cụm máy nén khí
+#thiết bị nén khí
+#tổ máy nén khí
+#trạm máy nén khí

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#năng suất làm lạnh định mức
+#năng suất lạnh danh nghĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#năng suất lạnh định mức

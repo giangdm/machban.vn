@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#calip mẫu dây
+@Lĩnh vực: cơ khí & công trình
+#bảng cỡ dây
+#định kích cỡ của dây

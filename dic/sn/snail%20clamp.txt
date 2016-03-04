@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cái kẹp kiểu ốc sên
+@Lĩnh vực: điện lạnh
+#kẹp dây kiểu xoắn ốc

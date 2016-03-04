@@ -1,0 +1,6 @@
+﻿@Casual employment
+#(Econ) Công việc tạm thời.
+: Tình trạng có việc làm tạm thời mà không có giờ làm đều dặn hay hợp đồng lương.
+@Chuyên ngành kinh tế
+#công việc tạm thời
+#việc làm tạm thời

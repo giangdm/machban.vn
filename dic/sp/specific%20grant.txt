@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khoản cấp đặc định
+#khoản cấp riêng biệt
+#tiền trợ cấp chuyên dùng
+#trợ cấp đặc dụng

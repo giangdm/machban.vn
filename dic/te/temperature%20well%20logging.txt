@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#carota nhiệt giếng khoan
+#kỹ thuật carota nhiệt độ giếng khoan
+#kỹ thuật log nhiệt độ giếng khoan

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ dài bản ghi
+#độ dài mẩu tin
+#kích thước bản ghi

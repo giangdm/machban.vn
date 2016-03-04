@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cách quấn dây dạng sóng
+#kiểu quấn hình sóng
+@Lĩnh vực: điện lạnh
+#cuộn dây sóng
+#dây quấn sóng

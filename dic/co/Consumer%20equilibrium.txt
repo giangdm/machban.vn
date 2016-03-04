@@ -1,0 +1,6 @@
+﻿@Consumer equilibrium
+#(Econ) Cân bằng tiêu dùng
+: Tình huống mà người tiêu dùng tối đa hoá ĐỘ THOẢ DỤNG của mình theo RÀNG BUỘC NGÂN SÁCH.
+@Chuyên ngành kinh tế
+#cân bằng của người tiêu dùng
+#thăng bằng tiêu dùng

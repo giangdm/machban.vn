@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Mã nhận dạng kiểu tải tin (ATM X.25) (Bộ mô tả 3 bit trong mào đầu tế bào ATM để chỉ thị kiểu tải tin mà tế bào chứa)

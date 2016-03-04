@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#công việc theo mùa, từng vụ
+#việc làm theo thời vụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công việc theo mùa

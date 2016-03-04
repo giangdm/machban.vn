@@ -1,0 +1,2 @@
+﻿@burst signal
+#(Tech) tín hiệu chớp (mầu)

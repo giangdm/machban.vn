@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#cuộn kích thích
+@Lĩnh vực: điện
+#cuộn dây dẫn động
+#cuộn điều khiển

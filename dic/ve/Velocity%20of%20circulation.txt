@@ -1,0 +1,9 @@
+﻿@Velocity of circulation
+#(Econ) Tốc độ lưu thông.
+: Tốc độ mà tại đó một số tiền nào đó lưu thông thông trong nền kinh tế - nghĩa là số lần trung bình một đơn vị tiền tệ trao tay trong một thời kỳ xác định.
+@Chuyên ngành kinh tế
+#tốc độ lưu thông
+#vận tốc luân chuyển của đồng tiền
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vận tốc tuần hoàn

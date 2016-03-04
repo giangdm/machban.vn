@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hệ số tận dụng sực chứa phòng kho
+#yếu tố bảo quản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ số chất tải (của kho lạnh)
+@Lĩnh vực: hóa học & vật liệu
+#hệ số trữ

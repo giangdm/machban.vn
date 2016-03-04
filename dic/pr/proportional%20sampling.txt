@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#lấy mẫu theo tỉ lệ
+@Chuyên ngành kỹ thuật
+#lấy mẫu theo tỷ lệ

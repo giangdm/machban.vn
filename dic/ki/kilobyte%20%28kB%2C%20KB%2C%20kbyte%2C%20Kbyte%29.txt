@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kilôbyte bằng 210 (hoặc 1024) byte
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kilôbyte bằng 210 (hoặc 1024) byte

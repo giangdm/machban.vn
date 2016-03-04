@@ -1,0 +1,2 @@
+﻿@anchor strut
+#(Tech) cột chống cố định

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#bản thanh toán chi tiết từng mục
+#tài khoản chi tiết

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ định trước
+@Lĩnh vực: điện lạnh
+#nhiệt độ cần thiết

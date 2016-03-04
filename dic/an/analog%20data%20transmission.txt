@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự truyền dẫn dữ kiện analog
+#sự truyền dẫn dữ liệu analog

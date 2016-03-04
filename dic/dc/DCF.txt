@@ -1,0 +1,3 @@
+﻿@DCF
+#(Econ) Phương pháp phân tích chiết khấu luồng tiền.
+: Xem DISCOUNTED CASH FLOW ANALYSIS.

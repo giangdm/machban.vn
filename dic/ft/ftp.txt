@@ -1,0 +1,2 @@
+﻿@ftp
+#định ước truyền tệp, giao thức truyền tệp

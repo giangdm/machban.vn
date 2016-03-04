@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cân tỷ trọng
+@Lĩnh vực: đo lường & điều khiển
+#cân thủy tĩnh

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#kênh truy nhập
+@Lĩnh vực: điện tử & viễn thông
+#đường kênh đi vào
+@Lĩnh vực: điện lạnh
+#kênh vào

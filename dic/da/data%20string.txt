@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chuỗi dữ liệu
+@Lĩnh vực: toán & tin
+#xâu dữ liệu

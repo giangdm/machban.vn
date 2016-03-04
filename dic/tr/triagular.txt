@@ -1,0 +1,2 @@
+﻿@triagular
+#(thuộc) tam giác

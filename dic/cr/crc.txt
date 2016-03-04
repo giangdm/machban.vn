@@ -1,0 +1,2 @@
+﻿@crc
+#kiểm độ dư vòng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phun nước
+@Lĩnh vực: hóa học & vật liệu
+#bụi nước
+@Lĩnh vực: điện lạnh
+#phun (bụi) nước

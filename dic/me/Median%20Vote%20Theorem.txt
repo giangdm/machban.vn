@@ -1,0 +1,3 @@
+﻿@Median Vote Theorem
+#(Econ) Định lý cử tri trung dung.
+: Là một định lý liên quan đến sự LỰA CHỌN TẬP THỂ trong một xã hội dân chủ, nó dự đoán rằng các chính trị gia hầu hết đều sẽ đại diện cho quan điểm của những cử tri ở trung tâm của phổ chính trị hoặc xã hội đó.

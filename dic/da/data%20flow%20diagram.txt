@@ -1,0 +1,5 @@
+﻿@data flow diagram
+#(Tech) sơ đồ dòng dữ liệu
+@Chuyên ngành kỹ thuật
+#dòng
+#sơ đồ luồng dữ liệu

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hằng số từ
+@Lĩnh vực: vật lý
+#hàng số từ (tính)

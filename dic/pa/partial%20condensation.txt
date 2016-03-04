@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sự ngưng tụ bộ phận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ngưng tụ hồi lưu
+#sự ngưng tụ hồi lưu
+#sự ngưng tụ một phần
+@Lĩnh vực: hóa học & vật liệu
+#ngưng tụ không hoàn toàn
+#ngưng tụ một phần

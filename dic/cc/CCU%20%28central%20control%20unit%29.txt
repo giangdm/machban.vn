@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều khiển trung tâm
+@Lĩnh vực: toán & tin
+#đơn vị điều khiển chính

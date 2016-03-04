@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dịch chuyển pha
+#độ lệch pha
+#độ trễ pha
+#sự chậm pha
+#sự lệch pha
+#sự trễ pha

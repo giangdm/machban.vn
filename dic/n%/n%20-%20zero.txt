@@ -1,0 +1,2 @@
+﻿@n - zero
+#không cấp điểm n

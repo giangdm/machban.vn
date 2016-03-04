@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bút toán đối
+#bút toán đối tiêu (để triệt tiêu một khoản đã ghi trước đó)
+#bút toán đối ứng
+#khoản ghi số ngược lại

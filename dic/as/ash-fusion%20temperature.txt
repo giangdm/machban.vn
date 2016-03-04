@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ chảy của tro
+@Lĩnh vực: điện
+#nhiệt độ tro chảy

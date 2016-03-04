@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị ngưng tụ kiểu lưới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dàn ngưng tưới phun
+#dàn nhưng kiểu mưa

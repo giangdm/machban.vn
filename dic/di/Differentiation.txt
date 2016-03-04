@@ -1,0 +1,35 @@
+﻿@Differentiation
+#(Econ) Quá trình đa dạng hoá; Phép vi phân
+: 1) Xem PRODUCT DIFFERENTIATION. 2) Quá trình tính đạo hàm của một hàm.
+<!-- more -->
+@differentiation /,difərenʃi'eiʃn/
+*danh từ
+#sự phân biệt
+#(toán học) phép lấy vi phân
+@Chuyên ngành kinh tế
+#khu phân biệt sản phẩm
+#phép lấy đạo hàm
+#phép lấy vi phân
+#sự dị biệt hóa (sản phẩm)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#biệt hóa
+@Lĩnh vực: hóa học & vật liệu
+#phân dị
+#phân hóa
+@Lĩnh vực: cơ khí & công trình
+#sự phân dị
+#sự phân hóa
+<!-- more -->
+@differentiation
+#phép lấy vi phân, phép tìm đạo hàm
+#d. of an infinite seri lấy vi phân một chuỗi vô hạn
+#complex d. phép lấy vi phân thức
+#covariant d. phép lấy vi phân hiệp biến
+#implicit d. phép lấy vi phân tìm đạo hàm, một ẩn hàm
+#indirect d. (giải tích) phép lấy vi phân một hàm hợp
+#logarithmic d. phép lấy đạo hàm nhờ lấy lôga, phép lấy vi phân bằng
+#(phép) lấy lôga
+#numerical d. phép lấy vi phân bằng số
+#partial d. phép lấy vi phân riêng, phép lấy đạo hàm riêng
+#succesive d. phép lấy vi phân liên tiếp

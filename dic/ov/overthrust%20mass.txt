@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp phủ địa di
+#lớp phủ kiến tạo
+@Lĩnh vực: hóa học & vật liệu
+#khối phủ chờm

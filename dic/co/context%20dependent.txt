@@ -1,0 +1,5 @@
+﻿@context dependent
+#(Tech) phụ thuộc ngữ cảnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phụ thuộc ngữ cảnh

@@ -1,0 +1,2 @@
+﻿@automatic volume expansion
+#(Tech) giãn âm lượng tự động

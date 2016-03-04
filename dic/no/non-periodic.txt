@@ -1,0 +1,4 @@
+﻿@non-periodic
+#không tuần hoàn, không theo chu kỳ
+@Chuyên ngành kỹ thuật
+#không tuần hoàn

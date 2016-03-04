@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sơ đồ tính khối lượng
+@Lĩnh vực: cơ khí & công trình
+#đường tích lũy dòng chảy

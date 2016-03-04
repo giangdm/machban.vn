@@ -1,0 +1,3 @@
+﻿@Constestable market
+#(Econ) Thị trường có thể cạnh tranh được
+: Một THỊ TRƯỜNG trong đó có sự tự do nhập thị, sự gia nhập và rút lui không mất chi phí.

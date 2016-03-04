@@ -1,0 +1,2 @@
+﻿@pseudo-metrisable
+#giả mêtric hoá được

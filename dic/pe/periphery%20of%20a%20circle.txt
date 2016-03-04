@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đường tròn
+@Lĩnh vực: toán & tin
+#biên của đường tròn
+#chu vi của đường tròn

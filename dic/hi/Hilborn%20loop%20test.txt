@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thử mạch vòng Hilborn
+@Lĩnh vực: điện
+#thử nghiệm mạch vòng Hilbom

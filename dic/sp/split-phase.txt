@@ -1,0 +1,3 @@
+﻿@split-phase
+*danh từ
+#(điện) pha phụ; dòng lệch pha

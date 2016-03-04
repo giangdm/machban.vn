@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ tiếp nhận cạc
+#bộ tiếp nhận thẻ
+#hộc xếp phiếu thành chồng
+#hộp xếp thẻ thành chồng

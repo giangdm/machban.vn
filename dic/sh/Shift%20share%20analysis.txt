@@ -1,0 +1,3 @@
+﻿@Shift share analysis
+#(Econ) Phân tích các phần gây dịch chuyển.
+: Một kỹ thuật được sử dụng trong phân tích tăng trưởng kinh tế khu vực trong đó cố gằng tách một phần của sự tăng trưởng khu vực mà có thể giải thích bằng sự pha trộn các ngành trong khu vực (cấu trúc ngành) và phần có thể giải thích theo các anh hưởng khu vực cụ thể.

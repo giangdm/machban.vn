@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#buýt kép hàng đợi phân tán
+@Lĩnh vực: toán & tin
+#đường truyền kép đợi phân tán

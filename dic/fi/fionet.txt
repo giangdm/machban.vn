@@ -1,0 +1,2 @@
+﻿@fionet
+#Tên một tập các tiêu chuẩn và thủ tục chuyển đổi dữ liệu, cho phép các hệ thống bảng bulletin (BBS) máy tính hoạt động riêng có thể chuyển đổi dữ liệu, các tệp tin và thư điện tử trên toàn thế giới, bằng hệ thống điện thoại toàn cầu

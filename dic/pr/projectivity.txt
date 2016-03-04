@@ -1,0 +1,8 @@
+﻿@projectivity
+#phép xạ ảnh
+#direct p. phép xạ ảnh thuận
+#elliptic p. phép xạ ảnh eliptic
+#parabolic p. phép xạ ảnh parabolic
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép xạ ảnh

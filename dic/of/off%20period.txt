@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian ngắt
+@Lĩnh vực: điện
+#chu kỳ ngắt
+#chu kỳ tắt máy

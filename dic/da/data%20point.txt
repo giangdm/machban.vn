@@ -1,0 +1,5 @@
+﻿@data point
+#(Tech) điểm dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điểm dữ liệu

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chụp quạt chụp hút gió
+#cửa hút gió
+#nắp bảo vệ (quạt)
+@Lĩnh vực: ô tô
+#vỏ che quạt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chụp quạt chụp hút gió
+#cửa hút gió
+#nắp bảo vệ (quạt)
+@Lĩnh vực: ô tô
+#vỏ che quạt

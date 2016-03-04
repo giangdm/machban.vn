@@ -1,0 +1,3 @@
+﻿@codable
+*tính từ
+#có thể mã hoá

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm chuẩn
+#điểm khống chế
+#mốc định hướng
+#mốc độ cao
+#mốc khống chế
+@Lĩnh vực: xây dựng
+#cao trình điểm chuẩn
+@Lĩnh vực: điện
+#mốc rơpe

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#số thứ tự
+@Chuyên ngành kỹ thuật
+#số thứ tự
+@Lĩnh vực: toán & tin
+#tự số

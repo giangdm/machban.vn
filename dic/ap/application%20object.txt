@@ -1,0 +1,4 @@
+﻿@application object
+#(Tech) đối tượng ứng dụng
+@Chuyên ngành kỹ thuật
+#đối tượng ứng dụng

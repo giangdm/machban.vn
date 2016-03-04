@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đường dẫn thư mục
+#liên kết
+@Lĩnh vực: toán & tin
+#đường vào thư mục
+#nhập vào thư mục

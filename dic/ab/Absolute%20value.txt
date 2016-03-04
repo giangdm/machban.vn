@@ -1,0 +1,12 @@
+﻿@Absolute value
+#(Econ) Giá trị tuyệt đối.
+: Giá trị của một biến bỏ qua dấu của nó.
+<!-- more -->
+@absolute value
+#(Tech) trị số tuyệt đối
+@Chuyên ngành kinh tế
+#giá trị tuyệt đối
+@Chuyên ngành kỹ thuật
+#giá trị tuyệt đối
+@Lĩnh vực: toán & tin
+#trị số tuyệt đối

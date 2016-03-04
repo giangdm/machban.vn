@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sai sót về ghi chép (sổ sách kế toán)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sai sót do người ghi

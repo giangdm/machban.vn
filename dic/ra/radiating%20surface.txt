@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bề mặt bức xạ
+#mặt tỏa nhiệt
+@Lĩnh vực: cơ khí & công trình
+#diện tích tỏa nhiệt
+#mặt bức xạ

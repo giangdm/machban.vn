@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#lực lượng thực địa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#lực trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#lực trường

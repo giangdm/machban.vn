@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dòng khai báo tường minh
+#sự khai báo rõ ràng
+@Lĩnh vực: điện tử & viễn thông
+#khai báo rõ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dòng khai báo tường minh
+#sự khai báo rõ ràng
+@Lĩnh vực: điện tử & viễn thông
+#khai báo rõ

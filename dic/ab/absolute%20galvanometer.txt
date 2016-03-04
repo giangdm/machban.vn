@@ -1,0 +1,2 @@
+﻿@absolute galvanometer
+#(Tech) điện kế tuyệt đối

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khớp nối dữ dây Romex
+@Lĩnh vực: toán & tin
+#khớp nối giữ dây Romex

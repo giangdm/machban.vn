@@ -1,0 +1,2 @@
+﻿@block signal
+#(Tech) tín hiệu chặn

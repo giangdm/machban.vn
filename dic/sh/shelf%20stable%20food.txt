@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thức ăn bảo quản lâu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thực phẩm bảo quản (có chất lượng) ổn định

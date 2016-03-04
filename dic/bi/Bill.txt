@@ -1,0 +1,74 @@
+﻿@Bill
+#(Econ) Hối phiếu.
+: Công cụ ngắn hạn dưới dạng lệnh trả yêu cầu người bị ký
+<!-- more -->
+@bill /bil/
+*danh từ
+#cái kéo liềm (để tỉa cành cây trên cao)
+#(sử học) cái kích (một thứ vũ khí)
+*danh từ
+#mỏ (chim)
+#(hàng hải) đầu mũi neo
+#mũi biển hẹp
+*nội động từ
+#chụm mỏ vào nhau (chim bồ câu)
+#to bill and coo
+#(xem) coo
+*danh từ
+#tờ quảng cáo; yết thị
+=stick no bills: cấm dán quảng cáo
+=a theatre bill: quảng cáo rạp hát
+#hoá đơn
+#luật dự thảo, dự luật
+=to pass a bill: thông qua đạo luật dự thảo
+=to reject a bill: bác bỏ đạo luật dự thảo
+#(từ Mỹ,nghĩa Mỹ) giấy bạc
+#(thương nghiệp) hối phiếu ((cũng) bill of exchange)
+#(pháp lý) sự thưa kiện; đơn kiện
+#bill of fare
+#thực đơn
+#chương trình
+#bill of health
+#(hàng hải) giấy kiểm dịch
+#bill of lading
+#(hàng hải) hoá đơn vận chuyển
+#butcher's bill
+#(từ lóng) danh sách người chết trong chiến tranh
+#to fill the bill
+#(từ Mỹ,nghĩa Mỹ) đáp ứng mọi yêu cầu, làm tất cả những gì cần thiết
+#to find [a] true bill
+#đưa ra xử
+#to foot (meet) the bill
+#thanh toán hoá đơn
+#to ignore the bill
+#không xử, bác đơn
+*ngoại động từ
+#đăng lên quảng cáo; để vào chương trình
+=to be billed to appear: được quảng cáo sẽ ra mắt
+#dán quảng cáo, dán yết thị
+#(từ Mỹ,nghĩa Mỹ) làm hoá đơn
+#(từ Mỹ,nghĩa Mỹ) làm danh sách
+@Chuyên ngành kinh tế
+#dự án luật
+#dự luật
+#giấy bạc
+#gửi hóa đơn
+#hóa đơn
+#làm hóa đơn
+#lệnh trả tiền
+#tờ quảng cáo
+#yết thị
+@Chuyên ngành kỹ thuật
+#đạo luật
+#dư luận
+#hóa đơn
+#hối phiếu
+#sự thanh toán
+@Lĩnh vực: cơ khí & công trình
+#mũi biển hẹp
+@Lĩnh vực: hóa học & vật liệu
+#tờ quảng cáo
+<!-- more -->
+@bill
+#(toán kinh tế) ngân phiếu; hoá đơn
+#b. of exchange ngân phiếu trao đổi

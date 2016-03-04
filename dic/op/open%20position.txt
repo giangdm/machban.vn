@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chức vụ còn trống (chờ bổ khuyết)
+#vị thế mở
+#vị thế ngỏ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#vị trí mở

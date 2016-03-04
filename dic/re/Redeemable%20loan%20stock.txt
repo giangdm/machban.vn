@@ -1,0 +1,5 @@
+﻿@Redeemable loan stock
+#(Econ) Cổ phần vay có thể hoàn trả.
+: Xem FINANCIAL CAPITAL.
+@Chuyên ngành kinh tế
+#chứng khoán vay nợ có thể hoàn lại, có thể chuộc lại

@@ -1,0 +1,7 @@
+﻿@buffer memory
+#(Tech) bộ nhớ đệm, bộ nhớ trung gian
+@Chuyên ngành kỹ thuật
+#bộ đệm
+#bộ nhớ đệm
+@Lĩnh vực: điện tử & viễn thông
+#bộ nhớ đệm (trung gian)

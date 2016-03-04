@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#khoản phải thu
+#nợ phải thu
+#nợ tích sản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quỹ nợ

@@ -1,0 +1,2 @@
+﻿@alternate current signaling
+#(Tech) phương thức tín hiệu giao lưu [NB]

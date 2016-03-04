@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cơ cấu truyền động mềm
+@Lĩnh vực: vật lý
+#sự dẫn động trục mềm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cơ cấu truyền động mềm
+@Lĩnh vực: vật lý
+#sự dẫn động trục mềm

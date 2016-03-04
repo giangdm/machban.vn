@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#dao động của dây
+@Lĩnh vực: điện
+#sự rung của dây dẫn

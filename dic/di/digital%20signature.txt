@@ -1,0 +1,7 @@
+﻿@digital signature
+#(Tech) chữ kí dạng số tự
+@Chuyên ngành kỹ thuật
+#ký hiệu số
+@Lĩnh vực: toán & tin
+#chữ ký điện tử
+#chữ ký số

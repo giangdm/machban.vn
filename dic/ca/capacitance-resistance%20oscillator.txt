@@ -1,0 +1,2 @@
+﻿@capacitance-resistance oscillator
+#(Tech) bộ dao động dung-trở

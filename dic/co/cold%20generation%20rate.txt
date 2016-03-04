@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#suất sản xuất lạnh
+#tốc độ phát lạnh
+#tốc độ sinh lạnh
+#tỷ suất phát lạnh
+#tỷ suất sản xuất lạnh

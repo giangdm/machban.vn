@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống thiết kế
+@Lĩnh vực: xây dựng
+#hệ tính toán

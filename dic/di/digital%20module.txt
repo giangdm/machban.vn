@@ -1,0 +1,5 @@
+﻿@digital module
+#(Tech) môddun dạng số tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#môđun số

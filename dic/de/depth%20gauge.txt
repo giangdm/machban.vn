@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#máy đo độ sâu
+@Chuyên ngành kỹ thuật
+#máy đo độ sâu
+#thước đo mức nước
+@Lĩnh vực: điện lạnh
+#thâm kế
+@Lĩnh vực: ô tô
+#thước đo chiều sâu

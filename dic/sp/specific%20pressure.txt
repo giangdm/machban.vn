@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực thấm
+#áp suất
+@Lĩnh vực: cơ khí & công trình
+#áp lực đặc trưng
+#áp suất riêng
+@Lĩnh vực: xây dựng
+#áp lực riêng
+#tỷ áp
+@Lĩnh vực: toán & tin
+#áp lực riêng, tỷ áp

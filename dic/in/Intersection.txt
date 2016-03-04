@@ -1,0 +1,37 @@
+﻿@Intersection
+#(Econ) Giao
+<!-- more -->
+@intersection /,intə'sekʃn/
+*danh từ
+#sự giao nhau, sự cắt ngang
+#chỗ giao nhau, chỗ cắt ngang
+#(toán học) sự giao nhau; điểm giao, đường giao
+@Chuyên ngành kỹ thuật
+#chỗ giao nhau
+#đường giao
+#giao điểm
+#giao nhau
+#lát cắt
+#ngã ba đường
+#ngã tư
+#nút giao thông
+#phép giao hội
+#sự cắt
+#sự gặp nhau
+#sự giao nhau
+#sự tương giao
+#sự vượt qua
+@Lĩnh vực: xây dựng
+#điểm giao
+#giao hội thuận
+@Lĩnh vực: giao thông & vận tải
+#ngã ba
+#nút giao
+@Lĩnh vực: toán & tin
+#sự (tương) giao
+#tương giao
+<!-- more -->
+@intersection
+#(tương) giao
+#i. of events (xác suất) giao của các biến số
+#i. of sets giao của các tập hợp

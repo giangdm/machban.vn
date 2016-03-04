@@ -1,0 +1,5 @@
+﻿@Growth path
+#(Econ) Đường tăng trưởng.
+: Đây là một hình thái thay đổi của một biến theo thời gian.
+@Chuyên ngành kinh tế
+#con đường tăng trưởng

@@ -1,0 +1,2 @@
+﻿@FM (frequency modulation) receiver
+#(Tech) máy thu biến điệu tần số

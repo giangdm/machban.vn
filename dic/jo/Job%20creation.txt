@@ -1,0 +1,10 @@
+﻿@Job creation
+#(Econ) Tạo việc làm.
+: Hành động được hiểu theo nghĩa rộng nhất là giảm số người thất nghiệp trong thời kỳ suy thoái, hoặc bằng cách giảm tốc độ người bị sa thải do dư thừa hoặc bằng cách tăng tốc độ người thất nghiệp tìm kiếm được việc làm.
+@Chuyên ngành kinh tế
+#sự tạo việc làm mới
+#tạo việc làm
+<!-- more -->
+@job creation
+*danh từ
+#sự tạo ra công ăn việc làm

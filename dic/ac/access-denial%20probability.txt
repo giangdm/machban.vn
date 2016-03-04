@@ -1,0 +1,2 @@
+﻿@access-denial probability
+#(Tech) xác suất từ khước truy cập

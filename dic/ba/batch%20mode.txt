@@ -1,0 +1,13 @@
+﻿@batch mode
+#(Tech) chế độ theo lô
+@Chuyên ngành kinh tế
+#chế độ xử lý theo bó
+#khối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cách đợt
+@Lĩnh vực: toán & tin
+#chế độ (xử lý) lô
+#chế độ bó
+@Lĩnh vực: điện tử & viễn thông
+#chế độ lô

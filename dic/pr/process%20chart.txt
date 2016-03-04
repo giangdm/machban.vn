@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#biểu đồ qui trình
+#lược đồ xử lý
+#sơ đồ công nghệ
+@Lĩnh vực: cơ khí & công trình
+#biểu đồ công nghệ
+@Lĩnh vực: toán & tin
+#biểu đồ xử lý

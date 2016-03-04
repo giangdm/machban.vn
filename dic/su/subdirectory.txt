@@ -1,0 +1,8 @@
+﻿@subdirectory
+#thư mục phụ, thư mục con
+@Chuyên ngành kinh tế
+#danh mục phụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thư mục con
+#thư mục phụ

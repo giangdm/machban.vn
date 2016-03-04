@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#điện nhiệt kế so sánh
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt kế cặp nhiệt điện

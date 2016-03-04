@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bán hết
+#sự bán lại chứng khoán chưa tiền (bởi người mua)
+#sự bán lại những chứng khoán chưa trả tiền (bởi người mua)

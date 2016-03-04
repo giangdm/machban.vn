@@ -1,0 +1,9 @@
+﻿@conical projection
+#(Tech) chiếu (theo hình) nón
+@Chuyên ngành kỹ thuật
+#phép chiếu đẳng giác
+#phép chiếu xuyên tâm
+@Lĩnh vực: toán & tin
+#chiếu nón
+@Lĩnh vực: xây dựng
+#phép chiếu hinh nón

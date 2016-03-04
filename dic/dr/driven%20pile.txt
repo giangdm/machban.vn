@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#nền đất
+@Lĩnh vực: xây dựng
+#cọc đã đóng xong
+#cọc đã được đóng
+#cọc đóng
+#công tác làm đất
+@Lĩnh vực: cơ khí & công trình
+#cọc đóng (làm móng)

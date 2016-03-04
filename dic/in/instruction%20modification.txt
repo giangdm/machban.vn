@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự hiệu chỉnh lệnh
+#sự sửa đổi lệnh
+#sự sửa lệnh
+@Lĩnh vực: điện tử & viễn thông
+#sửa đổi lệnh

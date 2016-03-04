@@ -1,0 +1,10 @@
+﻿@exception condition
+#(Tech) điều kiện ngoại lệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều kiện ngoại lệ
+#trạng thái ngoại lệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều kiện ngoại lệ
+#trạng thái ngoại lệ

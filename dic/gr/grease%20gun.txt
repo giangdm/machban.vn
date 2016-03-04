@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm mỡ
+#ống bơm mỡ
+#súng bôi dầu mỡ
+#vòi tra mỡ
+@Lĩnh vực: ô tô
+#bình bơm mỡ (bóp tay)
+@Lĩnh vực: hóa học & vật liệu
+#súng phun dầu

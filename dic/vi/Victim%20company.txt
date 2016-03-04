@@ -1,0 +1,3 @@
+﻿@Victim company
+#(Econ) Công ty nạn nhân.
+: Một công ty là đối tượng của một đấu thầu thu mua.

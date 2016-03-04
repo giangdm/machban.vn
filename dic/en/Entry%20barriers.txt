@@ -1,0 +1,5 @@
+﻿@Entry barriers
+#(Econ) Rào cản nhập nghành.
+: Xem BARRIERS TO ENTRY.
+@Chuyên ngành kinh tế
+#các hàng rào cản nhập (vào thị trường mới...)

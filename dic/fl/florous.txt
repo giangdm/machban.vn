@@ -1,0 +1,5 @@
+﻿@florous
+#hình thái ghép có nghĩa: có hoa
+#uniflorous
+#có một hoa
+=noctiflorous:có hoa ban đêm

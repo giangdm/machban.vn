@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hơi chưa quá nhiệt
+#hơi nước chưa quá nhiệt

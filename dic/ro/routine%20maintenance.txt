@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#bảo dưỡng thông thường
+#theo lệ thường
+@Chuyên ngành kỹ thuật
+#bảo dưỡng
+#sự bảo dưỡng thường xuyên
+#sự sửa chữa thường xuyên
+@Lĩnh vực: xây dựng
+#duy tu thường xuyên
+#sự bảo quản thường xuyên
+@Lĩnh vực: cơ khí & công trình
+#kiểm tra định kỳ
+@Lĩnh vực: điện tử & viễn thông
+#sự bảo trì thường xuyên

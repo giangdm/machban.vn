@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị trao đổi nhiệt tái sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ trao đổi nhiệt tái sinh

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự mô hình hóa
+@Lĩnh vực: xây dựng
+#sự làm mô hình

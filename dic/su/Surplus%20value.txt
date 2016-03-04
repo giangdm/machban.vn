@@ -1,0 +1,12 @@
+﻿@Surplus value
+#(Econ) Giá trị thặng dư.
+: C.MÁC đã áp dụng THUYẾT GIÁ TRỊ LAO ĐỘNG đối với lao động với nghĩa là giá trị của toàn bộ lực lượng lao động bằng số lượng giờ làm việc cần để sản xuất ra số hàng hoá để duy trì sự nguyên vẹn của lực lượng lao đông.
+<!-- more -->
+@surplus value /'sə:pləs'vælju:/
+*danh từ
+#giá trị thặng dư
+@Chuyên ngành kinh tế
+#giá trị thặng dư
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị thặng dư

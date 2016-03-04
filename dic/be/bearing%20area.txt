@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#diện tích gối tựa
+#mặt đế
+#mặt tì
+#mặt tựa
+#mặt tỳ
+#vùng mang tải
+@Lĩnh vực: xây dựng
+#diện tích tựa (ép mặt)

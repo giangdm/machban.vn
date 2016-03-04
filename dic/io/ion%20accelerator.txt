@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy gia tốc ion
+@Lĩnh vực: vật lý
+#máy gia tốc iôn

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giá trị sản lượng quốc nội tịnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sản phẩm nội địa ròng

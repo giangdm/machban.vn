@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#côngtenơ chứa thực phẩm đông lạnh
+#côngtenơ chứa thực phẩm kết đông

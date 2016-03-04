@@ -1,0 +1,8 @@
+﻿@Bank bill
+#(Econ) Hối phiếu ngân hàng.
+: Theo truyền thống, trên thị trường hối phiếu London, một HỐI PHIẾU đã được chấp nhận bởi một NGÂN HÀNG NHẬN THANH TOÁN, MỘT NGÂN HÀNG THANH TOÁN BÙ TRỪ hay một nhóm các ngân hàng của Anh hoặc các ngân hàng Dominions hợp thành, thay mặt khách hàng đã mở tín dụng chấp nhận. Xem ACCEPTANCE, DISCOUNT HOUSE.
+@Chuyên ngành kinh tế
+#giấy bạc
+#hối phiếu ngân hàng
+#số dư ngân hàng
+#tiền giấy

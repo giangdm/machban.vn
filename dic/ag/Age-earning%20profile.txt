@@ -1,0 +1,5 @@
+﻿@Age-earning profile
+#(Econ) Biểu quan hệ thu nhập theo tuổi
+: Mối quan hệ giữa thu nhập và tuổi. Biểu diễn quá trình thu nhập theo tuổi đơn giản nhất là một đường nằm ngang đi từ số 0 đến độ tuổi rời trường học, khoảng cách của các bước được quyết định bởi trình độ học vấn.
+@Chuyên ngành kinh tế
+#thu nhập theo độ tuổi

@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#bọc lại
+#cụp
+#khóa
+#lợp lại
+#ngắt
+#mạ lại
+#tắt
+@Lĩnh vực: điện
+#khóa ga
+#khóa nước
+@Lĩnh vực: toán & tin
+#tắt, cúp, khóa

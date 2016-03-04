@@ -1,0 +1,2 @@
+﻿@auto mode
+#(Tech) kiểu tự động

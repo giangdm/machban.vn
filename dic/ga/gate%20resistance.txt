@@ -1,0 +1,2 @@
+﻿@gate resistance
+#(Tech) điện trở cực cổng

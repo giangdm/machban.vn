@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#đèn hai cực có lỗ
+#đi-ốt Esaki
+@Lĩnh vực: điện
+#đi-ốt (hiệu ứng) đường hầm
+#đi-ốt đường hầm
+@Lĩnh vực: điện lạnh
+#đi-ốt chui hầm
+#đi-ốt tunen
+#đi-ốt xuyên hầm

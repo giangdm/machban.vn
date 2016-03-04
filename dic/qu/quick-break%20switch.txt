@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chuyển mạch cắt nhanh
+@Lĩnh vực: toán & tin
+#công tắc ngắt mạch nhanh
+@Lĩnh vực: điện
+#công tắc ngắt nhanh

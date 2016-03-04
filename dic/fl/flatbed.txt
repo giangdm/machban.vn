@@ -1,0 +1,2 @@
+﻿@flatbed
+#hình phẳng (flatbed scanner: máy quét hình phẳng)

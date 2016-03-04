@@ -1,0 +1,14 @@
+﻿@electrolytic capacitor
+#(Tech) bộ điện dung bằng điện giải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tụ điện hóa
+#tụ hóa
+@Lĩnh vực: điện lạnh
+#tụ điện phân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tụ điện hóa
+#tụ hóa
+@Lĩnh vực: điện lạnh
+#tụ điện phân

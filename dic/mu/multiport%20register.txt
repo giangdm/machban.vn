@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thanh ghi đa cổng
+#thanh ghi nhiều cổng

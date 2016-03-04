@@ -1,0 +1,2 @@
+﻿@direct-coupled transistor logic circuit
+#(Tech) mạch luận lý đèn tinh thể ghép trực tiếp

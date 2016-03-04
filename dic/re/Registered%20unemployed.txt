@@ -1,0 +1,5 @@
+﻿@Registered unemployed
+#(Econ) Những người thất nghiệp có đăng ký.
+: Là tổng số người ở Anh đăng ký tại các Văn phòng thất nghiệp để được hưởng trợ cấp.
+@Chuyên ngành kinh tế
+#tên gọi thương mại đã đăng ký

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cản dịu do nhớt
+#chống rung nhớt
+#giảm rung nhớt
+@Lĩnh vực: vật lý
+#sự suy giảm do nhớt
+#sự tắt dần do nhớt

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng đệm ép
+@Lĩnh vực: hóa học & vật liệu
+#vòng chống đẩy
+#vòng đệm có vấu chặn
+@Lĩnh vực: ô tô
+#vòng đệm chặn
+@Lĩnh vực: cơ khí & công trình
+#vòng nêm chặn
+@Lĩnh vực: xây dựng
+#vòng nêm chống đỡ

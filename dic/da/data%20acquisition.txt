@@ -1,0 +1,5 @@
+﻿@data acquisition
+#(Tech) sự thủ đắc dữ kiện, ngành thu nạp dữ liệu
+@Chuyên ngành kỹ thuật
+#sự bắt dữ liệu
+#thu thập dữ liệu

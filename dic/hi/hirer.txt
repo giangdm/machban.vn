@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chủ thuê
+#người mua trả góp
+#người thuê

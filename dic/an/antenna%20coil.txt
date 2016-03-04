@@ -1,0 +1,5 @@
+﻿@antenna coil
+#(Tech) cuộn dây ăngten
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cuộn dây ăng ten

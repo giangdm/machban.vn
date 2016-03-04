@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công đoạn ướp muối
+#phòng fomat
+#xưởng ướp muối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#buồng bảo dưỡng bê tông

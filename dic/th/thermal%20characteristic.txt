@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đặc trưng nhiệt
+@Lĩnh vực: điện tử & viễn thông
+#đặc trưng nhiệt độ

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thiếu chứng khoán
+#thiếu chứng khoán (để giao sau khi bán khống)
+#thiếu chứng khoán (để giao)

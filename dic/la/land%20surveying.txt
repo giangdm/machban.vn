@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#trắc địa
+@Lĩnh vực: xây dựng
+#khảo sát đất
+#sự đo đạc đất
+#sự đo về địa hình
+@Lĩnh vực: đo lường & điều khiển
+#người đo vẽ địa hình
+@Lĩnh vực: hóa học & vật liệu
+#sự đo đạc địa hình
+#sự trắc đạc
+@Chuyên ngành kỹ thuật
+#trắc địa
+@Lĩnh vực: xây dựng
+#khảo sát đất
+#sự đo đạc đất
+#sự đo về địa hình
+@Lĩnh vực: đo lường & điều khiển
+#người đo vẽ địa hình
+@Lĩnh vực: hóa học & vật liệu
+#sự đo đạc địa hình
+#sự trắc đạc

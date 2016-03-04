@@ -1,0 +1,14 @@
+﻿@file manager
+#(Tech) chương trình quản lý tập tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ quản lý tệp
+@Lĩnh vực: toán & tin
+#bộ tập tin
+#trình quản lý tệp tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ quản lý tệp
+@Lĩnh vực: toán & tin
+#bộ tập tin
+#trình quản lý tệp tin

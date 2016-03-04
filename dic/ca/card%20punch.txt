@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đục bìa
+@Lĩnh vực: điện tử & viễn thông
+#đục bìa
+@Lĩnh vực: toán & tin
+#máy đục lỗ cạc
+#máy đục phiếu
+#thiết bị đục lỗ thẻ
+@Lĩnh vực: xây dựng
+#máy xuyên chiếu (máy 1442)

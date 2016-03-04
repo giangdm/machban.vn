@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đường nét đứt
+@Lĩnh vực: toán & tin
+#đường vạch
+@Lĩnh vực: xây dựng
+#đường vạch vạch (----)

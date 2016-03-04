@@ -1,0 +1,2 @@
+﻿@kinematic(al)
+#(thuộc) động học

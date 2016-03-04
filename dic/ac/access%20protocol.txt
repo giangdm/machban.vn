@@ -1,0 +1,5 @@
+﻿@access protocol
+#(Tech) nghi thức truy cập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức truy cập

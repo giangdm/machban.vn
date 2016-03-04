@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số học dấu chấm động
+#số học dấu phẩy động
+#số học số chấm động
+#tính toán dấu phẩy động
+@Lĩnh vực: xây dựng
+#số học số thực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số học dấu chấm động
+#số học dấu phẩy động
+#số học số chấm động
+#tính toán dấu phẩy động
+@Lĩnh vực: xây dựng
+#số học số thực

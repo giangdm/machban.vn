@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bám băng trên đường hút
+#bám tuyết trên đường hút
+#sự bám tuyết (băng) trên đường hút

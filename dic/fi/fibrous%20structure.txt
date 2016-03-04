@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#cấu trúc xơ
+@Chuyên ngành kỹ thuật
+#kết cấu dạng sợi
+@Lĩnh vực: hóa học & vật liệu
+#cấu trúc dạng sợi
+@Chuyên ngành kỹ thuật
+#kết cấu dạng sợi
+@Lĩnh vực: hóa học & vật liệu
+#cấu trúc dạng sợi

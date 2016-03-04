@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản ghi tạm
+#tài khoản tạm ghi
+#tài khoản tạm thời
+#tài khoản treo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trương mục giao thời

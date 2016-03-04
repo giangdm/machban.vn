@@ -1,0 +1,6 @@
+﻿@antireflection coating
+#(Tech) lớp sơn chống phản xạ
+@Chuyên ngành kỹ thuật
+#lớp phủ khử phản xạ
+#lớp phủ tiêu phản
+#sơn chống phản hồi

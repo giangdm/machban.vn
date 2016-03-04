@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#gian bình ngưng
+#khoang bình ngưng tụ
+#khu ngưng tụ

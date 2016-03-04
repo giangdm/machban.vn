@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#đường nước thấm
+@Lĩnh vực: xây dựng
+#sự tính toán về thấm

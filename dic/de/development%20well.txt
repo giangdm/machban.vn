@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#giếng mở rộng
+@Lĩnh vực: hóa học & vật liệu
+#giếng phát triển

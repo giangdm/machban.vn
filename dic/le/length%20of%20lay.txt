@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chiều dài bên cáp
+#chiều dài bên thừng
+@Lĩnh vực: điện
+#độ dài bước xoắn (bện cáp)
+@Lĩnh vực: cơ khí & công trình
+#độ dài của
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chiều dài bên cáp
+#chiều dài bên thừng
+@Lĩnh vực: điện
+#độ dài bước xoắn (bện cáp)
+@Lĩnh vực: cơ khí & công trình
+#độ dài của

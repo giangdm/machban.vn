@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dạng màn hình
+#khuôn màn hình
+#sự định dạng màn hình

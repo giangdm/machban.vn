@@ -1,0 +1,2 @@
+﻿@abnormal status
+#(Tech) trạng thái bất thường

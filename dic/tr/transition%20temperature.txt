@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ chuyển đổi
+#nhiệt độ chuyển tiếp
+@Lĩnh vực: điện lạnh
+#điểm chuyển (pha)
+#nhiệt độ chuyển (pha)

@@ -1,0 +1,19 @@
+﻿@building block
+#(Tech) khối hợp nhất, khối căn bản
+@Chuyên ngành kỹ thuật
+#đá đẽo
+#đơn thể
+#khối bê tông
+#khối hợp nhất
+#khối lắp ghép
+#khối tiêu chuẩn
+#khối tường
+#khối xây
+#khối xây dựng
+@Lĩnh vực: xây dựng
+#blốc xây dựng
+#gạch pananh
+@Lĩnh vực: toán & tin
+#khối hợp nhất (máy tính)
+#khối xây dựng (cơ)
+#môdun xây dựng

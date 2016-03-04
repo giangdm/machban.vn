@@ -1,0 +1,9 @@
+﻿@frequency indicator
+#(Tech) bộ chỉ báo tần số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ chỉ báo tần số
+@Lĩnh vực: điện
+#bộ chỉ thị tần số
+@Lĩnh vực: hóa học & vật liệu
+#tần số kế

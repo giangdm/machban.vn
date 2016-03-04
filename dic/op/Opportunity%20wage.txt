@@ -1,0 +1,5 @@
+﻿@Opportunity wage
+#(Econ) Mức lương cơ hội.
+: Là mức lương mà một cá nhân có thể kiếm được nếu anh ta chọn làm một công việc khác tốt nhất sau công việc đang làm; là mức lương cao nhất phải từ bỏ do vẫn ở lại làm công việc hiện tại.
+@Chuyên ngành kinh tế
+#tiền lương cơ hội

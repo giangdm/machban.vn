@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#độ uốn ngang
+#độ võng bên
+@Lĩnh vực: xây dựng
+#độ võng bên sườn
+#độ võng ngang
+#độ võng trên phương ngang
+@Chuyên ngành kỹ thuật
+#độ uốn ngang
+#độ võng bên
+@Lĩnh vực: xây dựng
+#độ võng bên sườn
+#độ võng ngang
+#độ võng trên phương ngang

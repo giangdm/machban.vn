@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#đèn dừng
+#đèn phanh
+@Lĩnh vực: ô tô
+#đèn đỏ (giao thông)
+@Lĩnh vực: xây dựng
+#đèn hiệu báo dừng xe
+#đèn thắng (khi xe ngừng)
+@Lĩnh vực: toán & tin
+#đèn thắng khi xe dừng

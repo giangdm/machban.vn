@@ -1,0 +1,10 @@
+﻿@brand name ['brænd,neim]
+*danh từ
+# tên nhãn hiệu
+@Chuyên ngành kinh tế
+#tên nhãn hàng
+#tên nhãn hiệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tên nhãn
+#tên nhãn hiệu

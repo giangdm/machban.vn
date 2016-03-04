@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bình đáy rộng
+#bình hình nón
+@Lĩnh vực: hóa học & vật liệu
+#bình nón
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bình cất Erlenmeyer
+@Lĩnh vực: vật lý
+#bình Erlenmyer
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bình đáy rộng
+#bình hình nón
+@Lĩnh vực: hóa học & vật liệu
+#bình nón
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bình cất Erlenmeyer
+@Lĩnh vực: vật lý
+#bình Erlenmyer

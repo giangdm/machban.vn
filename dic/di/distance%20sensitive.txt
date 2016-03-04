@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhạy khoảng cách
+@Lĩnh vực: đo lường & điều khiển
+#phụ thuộc khoảng cách

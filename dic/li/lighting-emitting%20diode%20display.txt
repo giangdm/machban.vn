@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#màn hình LED
+@Lĩnh vực: điện lạnh
+#màn hình điot phát quang
+@Chuyên ngành kỹ thuật
+#màn hình LED
+@Lĩnh vực: điện lạnh
+#màn hình điot phát quang

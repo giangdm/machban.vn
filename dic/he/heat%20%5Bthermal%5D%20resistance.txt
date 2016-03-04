@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt trở
+#nhiệt trở truyền nhiệt

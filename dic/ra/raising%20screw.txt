@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#độ nghiêng dọc
+#góc nghiêng dọc
+#góc trước (của dao)
+#kim ghi
+#kim khắc
+#mặt trước (dao)
+@Lĩnh vực: xây dựng
+#bút khắc
+@Lĩnh vực: giao thông & vận tải
+#sự nâng nghiêng

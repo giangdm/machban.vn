@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#đồng tiền bạc
+#đồng tiền có mệnh giá tương đương giá trị thực
+#đồng tiền đầy đủ giá trị
+#đồng tiền vàng

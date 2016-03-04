@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nội ứng suất
+#ứng suất bên trong
+#ứng suất nội tại
+#ứng suất trong
+@Lĩnh vực: điện lạnh
+#ứng suất nội

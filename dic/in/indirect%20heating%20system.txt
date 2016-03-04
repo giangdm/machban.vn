@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự đun nóng gián tiếp
+#sự gia nhiệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ thống cấp nhiệt gián tiếp

@@ -1,0 +1,5 @@
+﻿@fortran
+*(viết tắt)
+#<tin> ngôn ngữ FORTRAN (Formula Translation)
+@Chuyên ngành kỹ thuật
+#ngôn ngữ FORTRAN

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ biến đổi nhiệt
+@Lĩnh vực: điện
+#bộ biến đổi nhiệt điện

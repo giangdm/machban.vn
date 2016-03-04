@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#không khí (dẫn) qua bypas
+#không khí qua nhánh phụ

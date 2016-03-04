@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#buồng hút
+#buồng xả
+@Lĩnh vực: điện lạnh
+#buồng hút (không khí thải)
+@Chuyên ngành kỹ thuật
+#buồng hút
+#buồng xả
+@Lĩnh vực: điện lạnh
+#buồng hút (không khí thải)

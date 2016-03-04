@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sóng dừng
+#sóng đứng
+@Lĩnh vực: xây dựng
+#sóng đứng yên

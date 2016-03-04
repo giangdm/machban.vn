@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đường dẫn hồi lưu
+#đường hồi
+#đường trở về
+#đường về
+@Lĩnh vực: điện lạnh
+#ống hồi

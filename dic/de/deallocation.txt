@@ -1,0 +1,4 @@
+﻿@deallocation
+#(Tech) giải cấp phát, giải phóng
+@Chuyên ngành kỹ thuật
+#giải phóng

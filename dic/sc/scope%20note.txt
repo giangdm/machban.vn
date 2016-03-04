@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu ý về phạm vi
+@Lĩnh vực: toán & tin
+#chú ý về phạm vi
+#ghi chú về phạm vi

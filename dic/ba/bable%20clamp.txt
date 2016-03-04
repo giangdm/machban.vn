@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#kẹp cáp
+@Lĩnh vực: điện
+#cái móc cáp
+#vấu móc cáp
+@Lĩnh vực: vật lý
+#vấu kẹp cáp

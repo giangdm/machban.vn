@@ -1,0 +1,17 @@
+﻿@servo-system
+#hệ secvô, hệ tuỳ động
+#best s. hệ secvô tối ưu
+#computer s. hệ secvô máy tính
+#feed-back s. hệ secvô phản liên
+#multiloop s. hệ secvô đa chu tuyến
+#on-off s. hệ secvô rơle
+#predictor s. hệ secvô báo trước
+#pulse s. hệ secvô xung
+#relay s. hẹ secvô rơle
+#samping s. hệ secvô tác dụng đứt đoạn
+#two-input s. hệ secvô có lối vào
+#two-stage s. hệ secvô hai bước
+@Chuyên ngành kỹ thuật
+#hệ trợ động
+@Lĩnh vực: toán & tin
+#hệ tùy động

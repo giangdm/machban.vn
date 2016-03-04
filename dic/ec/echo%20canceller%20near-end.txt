@@ -1,0 +1,2 @@
+﻿@echo canceller near-end
+#(Tech) bộ triệt tiếng dội gần

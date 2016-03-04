@@ -1,0 +1,5 @@
+﻿@Capital coefficients
+#(Econ) Các hệ số vốn.
+: Xem CAPITAL - OUTPUT RATIO
+@Chuyên ngành kinh tế
+#hệ số vốn

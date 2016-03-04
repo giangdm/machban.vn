@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chi tiết cảm biến nạp khí
+#đầu cảm biến nạp khí

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giai đoạn tìm nạp
+#pha nạp
+#pha tìm nạp
+@Lĩnh vực: vật lý
+#pha tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giai đoạn tìm nạp
+#pha nạp
+#pha tìm nạp
+@Lĩnh vực: vật lý
+#pha tải

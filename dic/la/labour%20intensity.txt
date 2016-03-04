@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng lao động
+@Lĩnh vực: xây dựng
+#cường độ lao động
+@Chuyên ngành kỹ thuật
+#lượng lao động
+@Lĩnh vực: xây dựng
+#cường độ lao động

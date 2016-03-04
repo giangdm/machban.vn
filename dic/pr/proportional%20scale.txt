@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thước tỉ lệ
+#tỉ lệ xích (của một bản đồ)
+#trước tỉ lệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tỉ lệ cân đối

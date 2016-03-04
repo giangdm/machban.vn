@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần tử XOR
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân tử loại trừ OR
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần tử XOR
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân tử loại trừ OR

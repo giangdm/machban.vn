@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#luận lý chương trình
+@Lĩnh vực: toán & tin
+#lôgic chương trình

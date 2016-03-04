@@ -1,0 +1,10 @@
+﻿@planning permission
+*danh từ
+#giấy phép xây dựng
+@Chuyên ngành kinh tế
+#giấy phép xây dựng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giấy phép quy hoạch
+#giấy phép xây dựng
+#sự cho phép xây dựng

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nhu cầu (về) tiền giao dịch
+#nhu cầu tiền tệ của các giao dịch
+#nhu cầu về tiền giao dịch

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mạch dọc
+#mạch xây dọc
+#mối nối dọc
+@Lĩnh vực: cơ khí & công trình
+#mạch nối dọc

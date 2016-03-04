@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ giải mã màu
+@Lĩnh vực: điện
+#mạch giải mã màu

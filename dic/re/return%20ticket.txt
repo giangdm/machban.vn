@@ -1,0 +1,8 @@
+﻿@return ticket
+*danh từ
+#vé khứ hồi
+@Chuyên ngành kinh tế
+#vé khứ hồi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#vé khứ hồi

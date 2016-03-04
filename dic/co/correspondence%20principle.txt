@@ -1,0 +1,6 @@
+﻿@correspondence principle
+#(Tech) nguyên lý tương ứng
+@Chuyên ngành kinh tế
+#nguyên lý đối ứng
+@Chuyên ngành kỹ thuật
+#nguyên lý tương ứng

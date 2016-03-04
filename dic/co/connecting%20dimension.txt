@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#kích thước đối tiếp
+#kích thước lắp
+#kích thước lắp nối

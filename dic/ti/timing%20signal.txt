@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#tín hiệu đồng hồ
+#tín hiệu nhịp
+@Lĩnh vực: toán & tin
+#tín hiệu thời gian

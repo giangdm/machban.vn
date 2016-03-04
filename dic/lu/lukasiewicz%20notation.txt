@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ký pháp tiền tố
+@Chuyên ngành kỹ thuật
+#ký pháp Ba Lan
+#ký pháp Lukasiewicz

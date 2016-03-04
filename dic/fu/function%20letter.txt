@@ -1,0 +1,6 @@
+﻿@function letter
+#(Tech) chữ cơ năng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký hiệu hàm
+#mẫu tự chức năng

@@ -1,0 +1,30 @@
+﻿@Chuyên ngành kinh tế
+#chất dò hao hụt
+@Chuyên ngành kỹ thuật
+#bộ phận dò hơi thoát
+#bộ phát
+#bộ phát hiện chỗ rò
+#bộ phát hiện lỗ rò
+#máy dò sóng điện
+#máy phát hiện rò rỉ
+@Lĩnh vực: xây dựng
+#bộ dò hở
+#bộ máy rò hở
+#máy dò lọt
+#thiết bị dò lỗ rò
+@Lĩnh vực: điện
+#bộ thử hở
+@Chuyên ngành kỹ thuật
+#bộ phận dò hơi thoát
+#bộ phát
+#bộ phát hiện chỗ rò
+#bộ phát hiện lỗ rò
+#máy dò sóng điện
+#máy phát hiện rò rỉ
+@Lĩnh vực: xây dựng
+#bộ dò hở
+#bộ máy rò hở
+#máy dò lọt
+#thiết bị dò lỗ rò
+@Lĩnh vực: điện
+#bộ thử hở

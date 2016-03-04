@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#biểu đồ điện trường tự nhiên
+#carota thế tự nhiên (kỹ thuật đo)

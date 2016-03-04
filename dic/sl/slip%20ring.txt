@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#vành góp điện
+#vành trượt
+#vòng trượt
+@Lĩnh vực: điện tử & viễn thông
+#vành thu nhập
+#vòng thu nhập
+@Lĩnh vực: điện
+#vành tiếp điện
+#vòng tiếp điện
+@Lĩnh vực: ô tô
+#vòng tiếp điện (máy phát)

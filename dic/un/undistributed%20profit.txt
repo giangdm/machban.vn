@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#lợi nhuận không chia
+#lợi nhuận không phân phối, không chia
+@Chuyên ngành kỹ thuật
+#lãi không phân chia

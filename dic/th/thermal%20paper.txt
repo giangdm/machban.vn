@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giấy chịu nhiệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giấy nhạy nhiệt
+@Lĩnh vực: điện tử & viễn thông
+#giấy nhiệt

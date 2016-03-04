@@ -1,0 +1,2 @@
+﻿@DCE (Data Circuit-terminating Equipment)
+#(Tech) thiết bị đầu cuối mạch

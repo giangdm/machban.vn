@@ -1,0 +1,2 @@
+﻿@dc (direct-current) receiver
+#(Tech) máy thu chạy điện một chiều

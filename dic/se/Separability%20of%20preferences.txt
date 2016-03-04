@@ -1,0 +1,3 @@
+﻿@Separability of preferences
+#(Econ) Tính phân chia của sự ưa thích.
+: Trong lý thuyết tiêu dùng, việc chia hàng hoá cho nhiều nhóm khác nhau sao cho sở thích tiêu dùng của mỗi nhóm được xử lý độc lập với các nhóm còn lại.

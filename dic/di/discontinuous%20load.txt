@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng thay đổi
+@Lĩnh vực: toán & tin
+#tải gián đoạn
+#tải không liên tục
+@Lĩnh vực: cơ khí & công trình
+#tải trọng gián đoạn

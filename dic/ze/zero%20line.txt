@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đường trung hòa
+#đường trung tính
+@Lĩnh vực: cơ khí & công trình
+#đường không
+@Lĩnh vực: xây dựng
+#đường số không
+@Lĩnh vực: hóa học & vật liệu
+#vạch không

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự lọc sinh học
+@Chuyên ngành kỹ thuật
+#bể lọc sinh học
+#bộ lọc sinh học
+@Lĩnh vực: xây dựng
+#máy lọc vi sinh (bacteria bed)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#lý thuyết nhóm, quần thể (của hành vi học)
+@Chuyên ngành kỹ thuật
+#lý thuyết chùm
+#lý thuyết nhóm

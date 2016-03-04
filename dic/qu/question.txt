@@ -1,0 +1,47 @@
+﻿@question /'kwestʃn/
+*danh từ
+#câu hỏi
+=to put a question: đặt một câu hỏi
+=to answers a question: trả lời một câu hỏi
+#vấn đề; điều bàn đến, điều nói đến
+=a nice question: một vấn đề tế nhị
+=the question is...: vấn đề là...
+=that is not the question: vấn đề không phải là thế, vấn đề không phải ở đó
+=this is out of the question: không thành vấn đề, không phải là chuyện bàn đến nữa
+=the person in question: người đang được nói đến
+=the matter in question: việc đang được bàn đến
+=to come into question: được thảo luận bàn bạc; thành vấn đề thảo luận bàn bạc
+#question!
+#xin đi vào đề! (trong hội nghị, nhắc người phát biểu nói lan man ngoài đề); có vấn đề đấy! (tỏ ý nghi ngờ sự việc do ai đang nói)
+=to put the question: lấy biểu quyết
+#sự nghi ngờ
+=beyond all (out of, past without) question: không còn nghi ngờ gì nữa
+=to call in question: đặt thành vấn đề nghi ngờ
+=to make no question of...: không may may nghi ngờ gì về...
+#(từ cổ,nghĩa cổ) sự tra tấn để bắt cung khai
+=to be put to the question: bị tra tấn đề bắt cung khai
+#to beg the question
+#coi như vấn đề đưa ra là đã quyết định rồi (đã đúng rồi) chẳng cần phải thảo luận làm gì
+*ngoại động từ
+#hỏi, hỏi cung
+#nghi ngờ; đặt thành vấn đề
+=to question the honesty of somebody: nghi ngờ tính lương thiện (chân thật) của ai
+=it cannot be questioned but [that]: không thể còn nghi ngờ gì nữa là, chắc chắn là
+#điều tra, nghiên cứu, xem xét (sự việc, hiện tượng)
+@Chuyên ngành kinh tế
+#câu hỏi
+#chất vấn
+#đặt câu hỏi
+#hỏi
+#nghi vấn
+#sự hỏi
+#sự nghi ngờ
+#thẩm vấn
+#tuân vấn
+#vấn đề
+@Chuyên ngành kỹ thuật
+#vấn đề
+<!-- more -->
+@question
+#câu hỏi, vấn đề
+#open ended q. (thống kê) vấn đề có vô số giải đáp

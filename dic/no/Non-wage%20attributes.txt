@@ -1,0 +1,3 @@
+﻿@Non-wage attributes
+#(Econ) Các thuộc tính phi tiền lương.
+: Là các đặc điểm phi tiền tệ của một quan hệ hợp đồng lao động, chẳng hạn như các điều kiện làm việc, uy tín và cơ hội thăng tiến.

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#mẫu trung bình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#mẫu trung bình

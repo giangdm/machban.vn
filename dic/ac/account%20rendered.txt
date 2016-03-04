@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giải thích tài khoản
+#nợ sang sổ
+#số dư nợ tiếp theo
+#tài khoản nợ chuyển qua

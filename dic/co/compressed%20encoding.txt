@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giải mã nén
+@Lĩnh vực: toán & tin
+#sự mã hóa nén

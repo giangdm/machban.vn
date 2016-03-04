@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chu kỳ tạo núi
+@Lĩnh vực: toán & tin
+#chu kỳ tạo nút

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ biến đổi điện quay
+#bộ biến đổi điện quay đảo
+#bộ đảo điện quay

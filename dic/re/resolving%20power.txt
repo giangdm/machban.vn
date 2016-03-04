@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#độ nét
+#độ phân giải
+#năng suất phân giải
+@Lĩnh vực: cơ khí & công trình
+#công suất phân giải
+@Lĩnh vực: toán & tin
+#khả năng giải
+@Lĩnh vực: điện lạnh
+#khả năng phân giải
+@Lĩnh vực: điện tử & viễn thông
+#năng suất phân giải (ở màn hình rađa)

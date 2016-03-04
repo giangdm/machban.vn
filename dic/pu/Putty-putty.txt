@@ -1,0 +1,3 @@
+﻿@Putty-putty
+#(Econ) Mô hình putty-putty; Mô hình mát tít - mát tít.
+: Một khía cạnh của hàm sản xuất trong lý thuyết tăng trưởng cho phép vốn được liên tục đổi hình dạng cả trước và sau khi đầu tư đã thực hiện.

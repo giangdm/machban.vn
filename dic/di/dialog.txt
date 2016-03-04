@@ -1,0 +1,8 @@
+﻿@dialog
+#hội thoại
+@Chuyên ngành kỹ thuật
+#sự đối thoại
+#sự hội thoại
+#sự tương tác
+@Lĩnh vực: toán & tin
+#cuộc đối thoại

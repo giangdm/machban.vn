@@ -1,0 +1,14 @@
+﻿@Bank rate
+#(Econ) Tỷ lệ chiết khấu chính thức của ngân hàng ANH.
+: Xem COMPETITION AND CREDIT CONTROL, MONETARY POLICY.
+@Chuyên ngành kinh tế
+#mức chiết khấu chính thức của ngân hàng (trung ương)
+#tỷ suất chiết khấu ngăn hàng trung ương
+@Chuyên ngành kỹ thuật
+#lãi suất ngân hàng
+@Lĩnh vực: điện tử & viễn thông
+#mức chính thức tiền chiết
+<!-- more -->
+@bank rate
+*danh từ
+#lãi suất ngân hàng

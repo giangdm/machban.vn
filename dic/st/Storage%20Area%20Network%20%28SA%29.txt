@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Mạng vùng lưu trữ (Mạng truyền số liệu kiểu mới liên kết các server và các bộ nhớ với nhau tại các tốc độ Gigabaud)

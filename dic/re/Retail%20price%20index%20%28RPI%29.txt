@@ -1,0 +1,3 @@
+﻿@Retail price index (RPI)
+#(Econ) Chỉ số giá bán lẻ.
+: Là một chỉ số giá hàng hoá được đề cập đến như là chỉ số giá sinh hoạt. Chỉ số này đo lường những thay đổi tương đối trong các mức giá của một nhóm hàng tiêu dùng cụ thể mà một hộ gia đình trung bình mua một cách thường xuyên.

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự thử (phụ) tải
+@Lĩnh vực: cơ khí & công trình
+#sự thử có tải trọng
+@Lĩnh vực: điện lạnh
+#thử nghiệm chịu tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự thử (phụ) tải
+@Lĩnh vực: cơ khí & công trình
+#sự thử có tải trọng
+@Lĩnh vực: điện lạnh
+#thử nghiệm chịu tải

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#lôgic bão hòa
+@Lĩnh vực: toán & tin
+#mạch logic bão hòa

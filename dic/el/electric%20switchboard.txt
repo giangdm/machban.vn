@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng điều khiển
+#bảng phân phối điện
+@Lĩnh vực: điện lạnh
+#tủ cầu dao
+@Chuyên ngành kỹ thuật
+#bảng điều khiển
+#bảng phân phối điện
+@Lĩnh vực: điện lạnh
+#tủ cầu dao

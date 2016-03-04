@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm tăng áp
+#máy bơm dầu phụ
+#máy bơm tăng áp
+@Lĩnh vực: giao thông & vận tải
+#bơm kích áp
+@Lĩnh vực: cơ khí & công trình
+#bơm trợ lực
+#máy bơm tăng
+@Lĩnh vực: vật lý
+#máy bơm phụ trợ

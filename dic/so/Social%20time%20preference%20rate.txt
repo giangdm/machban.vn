@@ -1,0 +1,3 @@
+﻿@Social time preference rate
+#(Econ) Tỷ suất sở thích theo thời gian của xã hội.
+: Tỷ suất sở thích theo thời gian của xã hội biểu thị tỷ suất tại đó xã hội sẵn sàng chuyển đổi sự tiêu dùng giữa những khoảng thời gian khác nhau.

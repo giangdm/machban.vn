@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle nhiệt
+@Lĩnh vực: điện lạnh
+#bộ chuyển mạch dùng nhiệt
+#máy cắt nhiệt
+@Lĩnh vực: điện
+#cái cắt điện kiểu nhiệt

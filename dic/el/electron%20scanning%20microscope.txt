@@ -1,0 +1,2 @@
+﻿@electron scanning microscope
+#(Tech) kính hiển vi quét điện tử

@@ -1,0 +1,7 @@
+﻿@Decision lag
+#(Econ) Độ trễ của việc ra quyết định
+: Khoảng thời gian giữa việc nhận biết nhu cầu phải hành động để giải quyết một vấn đề kinh tế (Đặc biệt là kinh tế vĩ mô) với việc quyết định chính sách về vấn đề đó.
+@Chuyên ngành kinh tế
+#độ (chậm) trễ ra quyết định
+#độ trễ quyết định
+#sự trì hoãn quyết định

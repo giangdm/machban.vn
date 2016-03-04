@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#dấu thang đo
+#kim thang đo
+#vạch thang đo
+@Lĩnh vực: đo lường & điều khiển
+#dấu độ chia
+#đường mảnh thang đo
+#phần chia độ
+#sự chia độ thang đo
+#sự đánh dấu thang đo

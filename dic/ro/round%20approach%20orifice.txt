@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#ống dẫn vào tròn (điều khiển)
+#vòi phun khởi động về tròn (điều khiển)

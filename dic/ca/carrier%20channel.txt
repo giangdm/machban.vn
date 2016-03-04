@@ -1,0 +1,7 @@
+﻿@carrier channel
+#(Tech) kênh truyền sóng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kênh mang
+@Lĩnh vực: toán & tin
+#kênh sóng mang

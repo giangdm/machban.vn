@@ -1,0 +1,5 @@
+﻿@computer micrographics
+#(Tech) vi họa điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vi đồ họa máy tính

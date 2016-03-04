@@ -1,0 +1,6 @@
+﻿@Discrete variable
+#(Econ) Biến gián đoạn
+: Một biến chỉ nhận một số giá trị nhất định.
+@Chuyên ngành kinh tế
+#biến số riêng lẻ
+#biến số rời rạc

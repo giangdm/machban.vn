@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuyển động thẳng
+@Lĩnh vực: điện lạnh
+#chuyển động thuận (chiều)

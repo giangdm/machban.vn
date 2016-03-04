@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#số học đồng dư
+#số học mođulo

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#calorimet chất tải lạnh
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt lượng kế chất tải lạnh

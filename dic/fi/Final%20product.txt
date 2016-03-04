@@ -1,0 +1,17 @@
+﻿@Final product
+#(Econ) Sản phẩm cuối cùng.
+: (Còn được gọi là tổng sản phẩm quốc nội) Tất cả các loại hàng hoá và dịch vụ được người cuối cùng mua. Tổng sản lượng của một nền kinh tế sau khi trừ đi SẢN PHẨM TRUNG GIAN.
+@Chuyên ngành kinh tế
+#sản phẩm cuối
+#sản phẩm cuối cùng
+#thành phẩm cuối cùng
+@Chuyên ngành kỹ thuật
+#sản phẩm cuối
+@Lĩnh vực: xây dựng
+#sản phẩm cuối cùng
+#thành phẩm cuối cùng
+@Chuyên ngành kỹ thuật
+#sản phẩm cuối
+@Lĩnh vực: xây dựng
+#sản phẩm cuối cùng
+#thành phẩm cuối cùng

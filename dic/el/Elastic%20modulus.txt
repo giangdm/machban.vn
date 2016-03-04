@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#môđun đàn hồi E
+@Chuyên ngành kỹ thuật
+#môđun biến dạng
+#môđun đàn hồi
+@Lĩnh vực: cơ khí & công trình
+#môđun đàn hồi (loại một)
+@Lĩnh vực: điện lạnh
+#suất đàn hồi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#môđun đàn hồi E
+@Chuyên ngành kỹ thuật
+#môđun biến dạng
+#môđun đàn hồi
+@Lĩnh vực: cơ khí & công trình
+#môđun đàn hồi (loại một)
+@Lĩnh vực: điện lạnh
+#suất đàn hồi

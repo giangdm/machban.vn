@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phát
+#máy phát đồng bộ
+@Lĩnh vực: điện
+#máy đồng bộ phát
+@Lĩnh vực: điện lạnh
+#máy phát điện sensyn
+#máy phát sensyn
+#sensyn phát
+@Lĩnh vực: toán & tin
+#thiết bị phát đồng bộ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giao thông ra
+@Lĩnh vực: giao thông & vận tải
+#giao thông ra nước ngoài
+#vận tải luồng ra

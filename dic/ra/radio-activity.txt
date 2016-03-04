@@ -1,0 +1,4 @@
+﻿@radio-activity
+#(vật lí) tính phóng xạ
+@Chuyên ngành kỹ thuật
+#phóng xạ tính

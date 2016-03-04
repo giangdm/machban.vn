@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực tiếp xúc
+@Lĩnh vực: xây dựng
+#áp suất tiếp xúc

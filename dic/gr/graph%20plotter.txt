@@ -1,0 +1,8 @@
+﻿@graph plotter
+#(Tech) máy vẽ đồ thị
+@Chuyên ngành kỹ thuật
+#máy vẽ
+#máy vẽ đồ thị
+@Lĩnh vực: xây dựng
+#người lập đồ thị
+#mưu đồ viên đồ thị

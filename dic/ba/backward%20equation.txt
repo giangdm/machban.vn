@@ -1,0 +1,5 @@
+﻿@backward equation
+#(Tech) phương trình thức lùi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương trình lùi

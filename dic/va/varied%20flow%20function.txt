@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm đồng biến
+@Lĩnh vực: toán & tin
+#hàm dòng biến đổi

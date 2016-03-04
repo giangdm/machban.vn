@@ -1,0 +1,8 @@
+﻿@knowbot
+#Một chương trình dùng để tìm kiếm và để xác định vị trí của một thông tin cụ thể trong mạng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#rôbốt tri thức
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#rôbốt tri thức

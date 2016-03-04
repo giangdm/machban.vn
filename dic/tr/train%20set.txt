@@ -1,0 +1,6 @@
+﻿@train set
+*danh từ
+#đồ chơi (gồm có con tàu chạy trên đường ray)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#đoàn tàu hỏa

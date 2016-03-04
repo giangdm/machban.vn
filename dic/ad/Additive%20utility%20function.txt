@@ -1,0 +1,3 @@
+﻿@Additive utility function
+#(Econ) Hàm thoả dụng phụ trợ.
+: Một dạng hàm thoả dụng : U=Ua :Ub:Uc . Trong đó U là độ thoả dụng a,b,c ;a hàng hoá thay thế trong các hệ thống chi tiêu tuyến tính, các nhóm hàng hoá này không thể thay thế cho nhau.

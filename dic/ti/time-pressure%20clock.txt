@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đồng hộ thời gian-áp suất
+#rơle thời gian-áp suất

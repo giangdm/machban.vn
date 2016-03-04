@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#con lăn cấp liệu
+#trục cấp liệu
+@Lĩnh vực: thực phẩm
+#con lăn tiếp liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#con lăn cấp liệu
+#trục cấp liệu
+@Lĩnh vực: thực phẩm
+#con lăn tiếp liệu

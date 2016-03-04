@@ -1,0 +1,10 @@
+﻿@Confidence interval
+#(Econ) Khoảng tin cậy.
+: Khoảng tin cậy alpha của một tham số gồm 2 con số mà ở giữa chúng ta có độ tin cậy alpha%, nghĩa là giá trị thực của tham số nằm ở đó. Xem STATISTICAL INFERENCE, INTERVAL ESTIMATION.
+@Chuyên ngành kinh tế
+#khoảng tin cậy
+@Chuyên ngành kỹ thuật
+#khoảng tin cậy
+#miền tin cậy
+@Lĩnh vực: điện tử & viễn thông
+#khoảng cách tin cậy

@@ -1,0 +1,2 @@
+﻿@EBCDIC (Extended Binary Code Decimal Interchange Code)
+#(Tech) EBCDIC [épxiddích], Bộ Mã Hoán Chuyển Mã Thập Phân Và Nhị Phân Được Nối Dài, Bộ mã 5-bit của IBM

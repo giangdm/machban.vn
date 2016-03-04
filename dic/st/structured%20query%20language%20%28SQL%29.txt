@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ truy vấn cấu trúc
+#ngôn ngữ vấn tin có cấu trúc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ hỏi được cấu trúc
+@Lĩnh vực: điện tử & viễn thông
+#ngôn ngữ truy vấn theo cấu trúc

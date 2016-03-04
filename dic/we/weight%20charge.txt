@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phí vận chuyển tính theo trọng lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#phí cân toa xe

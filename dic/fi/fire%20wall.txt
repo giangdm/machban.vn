@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#tường phòng cháy
+#vách cách nhiệt
+#vách ngăn chống cháy
+@Lĩnh vực: xây dựng
+#tường ngăn cháy
+@Lĩnh vực: giao thông & vận tải
+#vách chịu lửa
+#vách ngăn cháy
+@Chuyên ngành kỹ thuật
+#tường phòng cháy
+#vách cách nhiệt
+#vách ngăn chống cháy
+@Lĩnh vực: xây dựng
+#tường ngăn cháy
+@Lĩnh vực: giao thông & vận tải
+#vách chịu lửa
+#vách ngăn cháy

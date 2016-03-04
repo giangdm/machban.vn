@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#chế độ truyền
+#kiểu truyền
+@Lĩnh vực: điện tử & viễn thông
+#chế độ truyền dẫn
+@Lĩnh vực: điện lạnh
+#kiểu truyền sóng (có dẫn hướng)

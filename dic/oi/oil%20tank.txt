@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bể chứa dầu
+#đường thủy
+@Lĩnh vực: giao thông & vận tải
+#tàu trở dầu
+#tàu trở dầu thô
+@Lĩnh vực: điện
+#thùng (chứa) dầu

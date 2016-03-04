@@ -1,0 +1,8 @@
+﻿@disk space
+#(Tech) dung lượng đĩa
+@Chuyên ngành kinh tế
+#dung lượng đĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khoảng nhớ ở đĩa
+#không gian đĩa

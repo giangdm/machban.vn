@@ -1,0 +1,5 @@
+﻿@Adjustment lag
+#(Econ) Độ trễ điều chỉnh.
+: Thời gian cần thiết để một biến, ví dụ như DUNG LƯỢNG VỐN, điều chỉnh theo những thay đổi trong các yếu tố quyết định của nó. (Xem PARTIAL ADJUSTMENT, CAPITAL STOCK ADJUSTMENT PRINCIPLE).
+@Chuyên ngành kinh tế
+#độ trễ điều chỉnh

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hệ số ngâm chiết
+#hệ số rửa
+@Lĩnh vực: cơ khí & công trình
+#hệ số rửa lũa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hệ số ngâm chiết
+#hệ số rửa
+@Lĩnh vực: cơ khí & công trình
+#hệ số rửa lũa

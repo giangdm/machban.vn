@@ -1,0 +1,6 @@
+﻿@Closed economy
+#(Econ) Nền kinh tế đóng
+: Khái niệm sử dụng chủ yếu trong các mô hình lý thuyết để chỉ một nền kinh tế không có quan hệ ngoại thương mà hoàn toàn tự túc và tách biệt với các tác nhân bên ngoài.
+@Chuyên ngành kinh tế
+#kinh tế khép kín
+#nền kinh tế đóng cửa

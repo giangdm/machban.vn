@@ -1,0 +1,3 @@
+﻿@Marginal propensity to save (MPS)
+#(Econ) Thiên hướng tiết kiệm cận biên.
+: Là mức thay đổi tiết kiệm do thay đổi một đơn vị thu nhập.

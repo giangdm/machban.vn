@@ -1,0 +1,6 @@
+﻿@Economic policy
+#(Econ) Chính sách kinh tế.
+: Sự điều hành của nhà nước đối với nền kinh tế của một quốc gia.
+@Chuyên ngành kinh tế
+#chính sách kinh tế
+#chính sách, quyết sách kinh tế

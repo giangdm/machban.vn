@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dây mềm đường dây
+#dây mềm nguồn
+#dây nguồn (một đầu gắn dụng cụ, đầu kia cắm nguồn)
+#dây xúp đường dây
+@Lĩnh vực: toán & tin
+#dây nối (máy tính) nguồn với dòng điện
+#dây nối nguồn điện

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phương pháp xử lý song song, đồng thời
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý đồng thời
+#sự xử lý song song
+#xử lý song song

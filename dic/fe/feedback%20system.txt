@@ -1,0 +1,20 @@
+﻿@feedback system
+#(Tech) hệ hồi tiếp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) có phản hồi
+#hệ (thống) vòng khép kín
+@Lĩnh vực: toán & tin
+#hệ có liên hệ ngược
+#hệ thống hồi tiếp
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống hồi dưỡng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) có phản hồi
+#hệ (thống) vòng khép kín
+@Lĩnh vực: toán & tin
+#hệ có liên hệ ngược
+#hệ thống hồi tiếp
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống hồi dưỡng

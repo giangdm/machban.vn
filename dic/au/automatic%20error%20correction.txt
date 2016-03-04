@@ -1,0 +1,6 @@
+﻿@automatic error correction
+#(Tech) hiệu chính sai số tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự hiệu chỉnh tự động
+#sự sửa lỗi tự động

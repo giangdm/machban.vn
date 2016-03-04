@@ -1,0 +1,16 @@
+﻿@Rationing
+#(Econ) Chia khẩu phần.
+: Bất cứ phương pháp nào phân bổ một sản phẩm hoặc dịch vụ khan hiếm khác với cách dùng của cơ chế giá.
+@Chuyên ngành kinh tế
+#chế độ phân phối
+#chế độ phân phối theo định mức
+#chia khẩu phần
+#định lượng theo kế hoạch
+#việc chia khẩu phần
+@Chuyên ngành kỹ thuật
+#sự phân phối
+<!-- more -->
+@rationing
+*danh từ
+#chế độ hạn chế và phân phối áo quần, thực phẩm... trong thời gian thiếu thốn; chế độ phân phối
+=The Government may have to introduce petrol rationing:có thể chính phủ sẽ phải đưa ra chế độ phân phối xăng

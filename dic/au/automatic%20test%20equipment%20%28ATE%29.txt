@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#trang bị trắc nghiệm tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị đo thử tự động

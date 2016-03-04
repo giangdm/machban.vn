@@ -1,0 +1,5 @@
+﻿@Raider firm
+#(Econ) Hãng thu mua.
+: Là một công ty có tiềm năng củng cố địa vị như sự thu mua đối với một công ty khác.
+@Chuyên ngành kinh tế
+#công ty thôn tính

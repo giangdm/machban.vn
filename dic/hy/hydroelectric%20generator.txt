@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phát thủy điện
+@Lĩnh vực: điện
+#máy phát điện thủy lực

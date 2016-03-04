@@ -1,0 +1,3 @@
+﻿@graphing
+#sự vẽ đồ thị, sự vẽ biểu đồ g. by composision vẽ đồ thị bằng
+#cách cộng (tung độ)

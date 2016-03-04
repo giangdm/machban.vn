@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#bộ dò quang điện
+#bộ phát hiện quang điện
+@Lĩnh vực: toán & tin
+#bộ tách sóng quang điện

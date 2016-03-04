@@ -1,0 +1,3 @@
+﻿@Life-cycle hypothesis
+#(Econ) Giả thuyết về vòng đời, thu nhập theo vòng đời / Chu kỳ tuổi thọ sản phẩm.
+: Giả thiết cho rằng cá nhân tiêu dùng một tỷ lệ cố định giá trị hiện tại của thu nhập của cả đời họ trong mỗi thời kỳ.

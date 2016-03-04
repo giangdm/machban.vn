@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ thấp
+#nhiệt độ thấp nhất
+@Lĩnh vực: điện lạnh
+#nhiệt độ tối thấp
+#nhiệt độ tối thiểu

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#khu vực trong bảng (các nước trong khu vực đồng bảng)
+#những lãnh thổ quy định

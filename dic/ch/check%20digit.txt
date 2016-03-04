@@ -1,0 +1,10 @@
+﻿@check digit
+#(Tech) số kiểm
+@Chuyên ngành kỹ thuật
+#ngón số kiểm soát
+@Lĩnh vực: toán & tin
+#chữ số kiểm tra
+#hàng số kiểm tra
+#số kiểm tra
+@Lĩnh vực: điện tử & viễn thông
+#con số kiểm tra

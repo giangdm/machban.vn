@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy thu cảnh báo động
+#máy thu tự báo động
+@Lĩnh vực: điện tử & viễn thông
+#máy thu tự động báo động

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cung lửa hàn
+@Lĩnh vực: vật lý
+#hồ quang hàn

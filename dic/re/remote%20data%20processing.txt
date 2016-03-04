@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ngành tin học viễn thông
+@Lĩnh vực: toán & tin
+#sự nhập dữ liệu từ xa
+#sự viễn xử lý

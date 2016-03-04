@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phương pháp đâm xuyên (sự thử nghiệm vật liệu)
+@Lĩnh vực: xây dựng
+#phương pháp tẩm (nhựa đường)

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#trục quay
+#trục truyền động
+@Lĩnh vực: cơ khí & công trình
+#cầu dẫn động
+@Lĩnh vực: hóa học & vật liệu
+#trục đang quay
+@Chuyên ngành kỹ thuật
+#trục quay
+#trục truyền động
+@Lĩnh vực: cơ khí & công trình
+#cầu dẫn động
+@Lĩnh vực: hóa học & vật liệu
+#trục đang quay

@@ -1,0 +1,5 @@
+﻿@gate circuit
+#(Tech) mạch cổng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạch cửa

@@ -1,0 +1,9 @@
+﻿@carry digit
+#(Tech) số tự mang sang, số tự nhớ
+@Chuyên ngành kỹ thuật
+#số mang sang
+@Lĩnh vực: toán & tin
+#chữ số mang sang
+#chữ số nhớ
+#số mang
+#số nhớ

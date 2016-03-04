@@ -1,0 +1,5 @@
+﻿@digital-analog conversion
+#(Tech) sự đổi dạng số sang sóng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chuyển đổi số-tương tự

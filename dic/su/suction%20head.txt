@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất hút
+#chiều cao hút
+@Lĩnh vực: xây dựng
+#chiều cao (hình học) hút
+#chiều cao hút (của máy bơm, của ống hút)
+#đầu hút
+#đầu nạo vét bùn
+@Lĩnh vực: cơ khí & công trình
+#cột nước hút
+@Lĩnh vực: hóa học & vật liệu
+#độ cao hút

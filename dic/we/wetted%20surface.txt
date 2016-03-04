@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#mặt làm ẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bề mặt ướt
+@Lĩnh vực: hóa học & vật liệu
+#mặt ẩm
+@Lĩnh vực: xây dựng
+#mặt thấm ướt
+@Lĩnh vực: giao thông & vận tải
+#mặt ướt (kết cấu thân tàu)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#phát hiện lỗi
+@Lĩnh vực: toán & tin
+#chẩn đoán trục trặc
+#sự chẩn đoán vấn đề

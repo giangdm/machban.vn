@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vòng tròn thật sự
+#vòng tròn thông thường
+#vòng tròn thực sự

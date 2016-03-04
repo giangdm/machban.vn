@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#xử lý tập trung
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý tập trung

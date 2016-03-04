@@ -1,0 +1,3 @@
+﻿@Ordinary least square (OLS)
+#(Econ) Phương pháp bình phương nhỏ nhất thông thường.
+: Là phương pháp phổ biến nhất được sử dụng để ước lượng những thông số trong một phương trình hồi quy tuyến tính.

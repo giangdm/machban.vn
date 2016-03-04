@@ -1,0 +1,5 @@
+﻿@function character
+#(Tech) ký tự cơ năng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kí tự hàm

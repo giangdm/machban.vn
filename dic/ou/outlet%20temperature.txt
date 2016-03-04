@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiều độ cửa ra
+@Lĩnh vực: điện
+#nhiệt độ đầu ra
+@Lĩnh vực: xây dựng
+#nhiệt độ tại cửa ra
+@Lĩnh vực: điện lạnh
+#nhiệt độ tiêu chuẩn

@@ -1,0 +1,2 @@
+﻿@EXNOR gate = EXCLUSIVE NOR
+#(Tech) cổng KHÔNG HOẶC ĐỐI ĐẢo, cổng EXNOR

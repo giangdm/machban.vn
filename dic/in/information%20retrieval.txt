@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sự tìm tài liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự tìm kiếm thông tin
+@Lĩnh vực: xây dựng
+#sự tìm thông tin
+#truy hồi thông tin
+@Lĩnh vực: điện tử & viễn thông
+#truy tìm thông tin

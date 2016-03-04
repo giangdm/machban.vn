@@ -1,0 +1,2 @@
+﻿@computer supervisory control system
+#(Tech) hệ thống kiểm tra giám thị bằng máy điện toán

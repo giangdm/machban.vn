@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bản mềm
+@Chuyên ngành kỹ thuật
+#bản sao mềm
+@Lĩnh vực: toán & tin
+#bản sao chép mềm
+#bản sao tạm thời

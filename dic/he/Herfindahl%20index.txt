@@ -1,0 +1,7 @@
+﻿@Herfindahl index
+#(Econ) Chỉ số Herfindahl.
+: Một thước đo độ tập trung của thị trường công nghiệp.
+@Chuyên ngành kinh tế
+#chỉ số Herfindahl (để đo mức độ người bán trên thị trường)
+@Chuyên ngành kinh tế
+#Chỉ số Herfindahl

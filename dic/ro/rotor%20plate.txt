@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bản quay
+#phiến quay
+@Lĩnh vực: điện lạnh
+#bản xoay
+#tấm xoay (của tụ điện)

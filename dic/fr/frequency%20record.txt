@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dải tần
+#khoảng tần
+#miền tần
+@Lĩnh vực: toán & tin
+#sự ghi tần số

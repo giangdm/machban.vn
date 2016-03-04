@@ -1,0 +1,10 @@
+﻿@trade name /'treid'neim/
+*danh từ
+#tên thương nghiệp
+@Chuyên ngành kinh tế
+#tên hãng
+#tên hiệu buôn
+#tên nhãn hiệu thương mại
+#tên thương mại
+#tên thương phẩm
+#tên thương phẩm mậu dịch

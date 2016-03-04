@@ -1,0 +1,2 @@
+﻿@echo listener
+#(Tech) bộ nghe tiếng dội

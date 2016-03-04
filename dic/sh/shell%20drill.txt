@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#mũi khoan lắp trục gá
+#mũi khoét lắp cán
+#mũi khoét lắp trục gá

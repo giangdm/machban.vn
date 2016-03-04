@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đào hầm bằng phương pháp bề mặt nguyên kích cỡ

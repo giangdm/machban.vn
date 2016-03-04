@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng từ trễ
+@Lĩnh vực: điện
+#chu trình từ trễ

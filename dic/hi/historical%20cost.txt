@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giá ban đầu
+#giá gốc
+#giá gốc (chi phí ban đầu)
+#giá lịch sử
+#nguyên giá
+#phí tổn gốc
+#phí tổn lịch sử
+#phí tổn nguyên thủy

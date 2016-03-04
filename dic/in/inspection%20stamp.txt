@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#dấu đóng kiểm tra
+#niêm kiểm tra
+@Chuyên ngành kỹ thuật
+#nhãn kiểm tra
+@Lĩnh vực: hóa học & vật liệu
+#dấu thẩm tra

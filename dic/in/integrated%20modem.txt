@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#môđem tích hợp
+@Lĩnh vực: toán & tin
+#bộ thích ứng đường truyền
+#môđem cài sẵn

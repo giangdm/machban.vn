@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thử mạch hở và mạch kín
+@Lĩnh vực: điện
+#thử nghiệm hở và kín

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#vật liệu cách nhiệt
+@Chuyên ngành kỹ thuật
+#chất cách ly
+#chất cách nhiệt
+#vật cách ly
+#vật liệu cách diện
+#vật liệu cách điện
+#vật liệu cách ly
+#vật liệu cách nhiệt

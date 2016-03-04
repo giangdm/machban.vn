@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#phương tiện từ
+#vật liệu từ
+@Lĩnh vực: hóa học & vật liệu
+#chất từ
+@Lĩnh vực: toán & tin
+#môi trường từ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mặt cắt mẫu
+#mặt cắt ngang điển hình
+#mặt cắt ngang tiêu chuẩn

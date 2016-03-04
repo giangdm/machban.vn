@@ -1,0 +1,2 @@
+﻿@cutoff state
+#(Tech) trạng thái cắt/tắt

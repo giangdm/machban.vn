@@ -1,0 +1,6 @@
+﻿@functional specification
+#(Tech) hoạch định cơ năng, quy cách theo chức năng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đặc tả chức năng
+#đặc tả hàm

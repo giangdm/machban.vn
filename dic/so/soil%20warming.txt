@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#làm ấm đất (bằng lưới dây nhiệt đặt dưới mặt đất)
+#sưởi ấm đất
+@Lĩnh vực: điện
+#sưởi ấm nền đất

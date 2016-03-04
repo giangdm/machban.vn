@@ -1,0 +1,9 @@
+﻿@Gosplan
+#(Econ) Uỷ ban kế hoạch (Liên Xô).
+: Một thuật ngữ tiếng Nga chỉ Uỷ ban kế hoạch nhà nước trước đây ở Liên Xô. Nó có trách nhiệm đề ra các kế hoạch sản xuất và chuyển cho các tổ chức thích hợp để thi hành.
+@Chuyên ngành kinh tế
+#ủy ban Kế hoạch Nhà nước Liên Xô (cũ)
+<!-- more -->
+@gosplan
+*danh từ
+#kế hoạch nhà nước (Liên-xô)

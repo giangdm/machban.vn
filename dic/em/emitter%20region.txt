@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#miền cực phát
+#miền emitơ
+@Lĩnh vực: toán & tin
+#vùng cực phát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#miền cực phát
+#miền emitơ
+@Lĩnh vực: toán & tin
+#vùng cực phát

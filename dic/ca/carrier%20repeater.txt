@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chuyển tiếp sóng mang
+@Lĩnh vực: toán & tin
+#bộ lặp sóng mang

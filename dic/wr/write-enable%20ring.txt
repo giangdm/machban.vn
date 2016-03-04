@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng cho phép ghi
+#vòng chống ghi
+#vòng ghi
+@Lĩnh vực: toán & tin
+#vòng được phép ghi

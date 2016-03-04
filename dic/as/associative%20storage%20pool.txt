@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vùng bộ nhớ kết hợp
+#vùng lưu trữ kết hợp
+@Lĩnh vực: điện tử & viễn thông
+#vũng nhớ kết hợp

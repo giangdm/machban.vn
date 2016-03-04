@@ -1,0 +1,16 @@
+﻿@file directory
+#(Tech) thư mục tập tin
+@Chuyên ngành kỹ thuật
+#danh mục
+@Lĩnh vực: xây dựng
+#danh bạ tệp
+@Lĩnh vực: toán & tin
+#thư mục file
+#thư mục tập tin
+@Chuyên ngành kỹ thuật
+#danh mục
+@Lĩnh vực: xây dựng
+#danh bạ tệp
+@Lĩnh vực: toán & tin
+#thư mục file
+#thư mục tập tin

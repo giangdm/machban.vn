@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ số tỏa nhiệt (ở) bề mặt trong
+#hệ số tỏa nhiệt (ở) bên trong

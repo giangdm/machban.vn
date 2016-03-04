@@ -1,0 +1,8 @@
+﻿@allowed band
+#(Tech) dải tần cho phép
+@Chuyên ngành kỹ thuật
+#dải cho phép
+@Lĩnh vực: toán & tin
+#dải được phép
+@Lĩnh vực: điện lạnh
+#vùng được phép

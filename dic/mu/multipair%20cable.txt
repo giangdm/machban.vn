@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp đa cặp
+#cáp nhiều cặp
+#cáp nhiều đôi

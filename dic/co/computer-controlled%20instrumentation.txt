@@ -1,0 +1,2 @@
+﻿@computer-controlled instrumentation
+#(Tech) trang cụ điều khiển bằng điện toán

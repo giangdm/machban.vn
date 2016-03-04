@@ -1,0 +1,14 @@
+﻿@log on
+#nhập vào hệ
+@Chuyên ngành kỹ thuật
+#đăng nhập
+#khởi nhập
+@Lĩnh vực: điện
+#cho chạy máy (vi tính)
+#truy nhập vào
+@Lĩnh vực: toán & tin
+#kết nối với hệ thống
+#nhập vào hệ
+#trình diện
+@Lĩnh vực: xây dựng
+#ký sổ đến

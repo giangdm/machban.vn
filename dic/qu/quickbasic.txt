@@ -1,0 +1,2 @@
+﻿@quickbasic
+#Một trình biên dịch hiệu suất cao dùng cho các chương trình được viết theo ngôn ngữ Microsoft BASIC

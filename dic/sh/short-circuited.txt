@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đoản mạch
+#ngắn mạch
+@Lĩnh vực: điện
+#bị ngắn mạch

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chỉ báo chạm đất
+@Lĩnh vực: điện lạnh
+#máy dò sự chạm đất

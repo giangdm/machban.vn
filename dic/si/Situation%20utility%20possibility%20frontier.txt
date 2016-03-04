@@ -1,0 +1,3 @@
+﻿@Situation utility possibility frontier
+#(Econ) Đường giới hạn khả năng thoả dụng tình thế.
+: Đường bao của một tập hợp những ĐƯỜNG BAO KHẢ NĂNG THOẢ DỤNG.

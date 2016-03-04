@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#ma trận chuyển tải
+@Lĩnh vực: toán & tin
+#ma trận truyền
+@Lĩnh vực: điện tử & viễn thông
+#ma trận truyền dẫn (lý thuyết mạng)

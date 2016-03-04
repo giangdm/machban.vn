@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#lửng lơ
+#tấn
+#tấn hệ mét
+#tấn mét
+#tấn quốc tế (1000kg)
+@Chuyên ngành kỹ thuật
+#tấn
+#tấn dài
+#tấn hệ mét
+#tấn thô
+@Lĩnh vực: hóa học & vật liệu
+#tấn (1000kg)

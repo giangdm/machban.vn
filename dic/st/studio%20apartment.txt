@@ -1,0 +1,6 @@
+﻿@studio apartment
+*danh từ
+#căn hộ nhỏ (thường có một phòng chính để sinh hoạt và ngủ, một cái bếp nhỏ và một phòng tắm)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#nhà một buồng

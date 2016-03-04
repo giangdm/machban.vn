@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#quy tắc bàn tay phải
+#quy tắc nút chai
+@Lĩnh vực: điện lạnh
+#quy tắc bàn tay phải (đối với dây mang dòng)

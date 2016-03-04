@@ -1,0 +1,6 @@
+﻿@Forward rate
+#(Econ) Tỷ giá hối đoái định trước; tỷ giá hối đoái kỳ hạn.
+: Tỷ giá hối đoái theo đó một đồng tiền có thể được mua hay bán để được giao trong tương lai trên thị trường kỳ hạn.
+@Chuyên ngành kinh tế
+#giá giao dịch kỳ hạn
+#tỷ giá kỳ hạn

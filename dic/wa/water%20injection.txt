@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phun nước
+@Lĩnh vực: hóa học & vật liệu
+#sự bơm công nghiệp (vào mỏ)
+#sự bơm ép nước
+#sự phun nước vào (khai thác dầu)
+@Lĩnh vực: cơ khí & công trình
+#sự phụt nước

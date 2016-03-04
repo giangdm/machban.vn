@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#lão hóa nhiệt
+#sự lão hóa vì nhiệt
+@Lĩnh vực: xây dựng
+#sự hóa già (do) nhiệt
+#sự ngưng kết hấp nóng
+@Lĩnh vực: điện
+#sự lão hóa do nhiệt

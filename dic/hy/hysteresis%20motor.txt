@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#động cơ kiểu trễ
+@Lĩnh vực: điện lạnh
+#động cơ từ trễ

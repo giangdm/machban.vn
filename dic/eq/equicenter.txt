@@ -1,0 +1,10 @@
+﻿@equicenter
+#có cùng tâm, đẳng tâm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#có cùng tâm
+#đẳng tâm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#có cùng tâm
+#đẳng tâm

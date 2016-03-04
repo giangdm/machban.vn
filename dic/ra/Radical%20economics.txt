@@ -1,0 +1,5 @@
+﻿@Radical economics
+#(Econ) Kinh tế học cấp tiến.
+: Tên chung cho các tác phẩm theo truyền thống xã hội chủ nghĩa hoặc Macxits, liên quan chủ yếu đến chủ nghĩa Mác nhưng chấp nhận và sử dụng các nguồn tư tưởng khác, chẳng hạn như thuyết vô chính phủ và thuyết tự do bình đẳng. Những tác phẩm này thường được gọi là cánh tả mới.
+@Chuyên ngành kinh tế
+#kinh tế học cấp tiến

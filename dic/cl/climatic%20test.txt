@@ -1,0 +1,5 @@
+﻿@climatic test
+#(Tech) thử khí hậu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thử điều kiện khí hậu

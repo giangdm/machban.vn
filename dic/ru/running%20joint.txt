@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khe nhiệt (xây dựng đường)
+#khe phòng giãn nở
+#mối chừa co giãn

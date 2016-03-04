@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#công suất tiêu thụ
+@Lĩnh vực: điện lạnh
+#công suất hấp thụ

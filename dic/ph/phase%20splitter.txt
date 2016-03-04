@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lệnh nhiều pha
+@Lĩnh vực: điện lạnh
+#bộ tách pha
+@Lĩnh vực: điện
+#mạch chia pha

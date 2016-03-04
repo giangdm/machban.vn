@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#hạ lưu
+#mái dốc hạ lưu
+#mái hạ lưu
+#mép hạ lưu
+@Lĩnh vực: xây dựng
+#mặt dưới (đập)
+@Lĩnh vực: cơ khí & công trình
+#mặt hạ lưu
+@Lĩnh vực: toán & tin
+#mép dưới (đập)

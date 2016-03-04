@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#máy làm nguội bánh mì
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ làm lạnh bánh mì

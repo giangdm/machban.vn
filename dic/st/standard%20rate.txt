@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#mức năng suất chuẩn
+#mức phí tiêu chuẩn
+#mức thuế thông thường
+#thuế suất chuẩn
+#thuế suất cơ bản
+#thuế suất tiêu chuẩn
+#tỉ lệ tiêu chuẩn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#tiêu chuẩn được duyệt

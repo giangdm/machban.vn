@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#lỗ kinh doanh
+#lỗ vận hành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tổn thất khi khai thác
+#tổn thất trong hoạt động

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị độc lập
+@Lĩnh vực: đo lường & điều khiển
+#thiết bị không phụ thuộc

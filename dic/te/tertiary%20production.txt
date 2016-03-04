@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#khu sản xuất tam đẳng (ngành dịch vụ)
+#khu vực sản xuất tam đẳng (= ngành dịch vụ)
+#ngành dịch vụ
+#sản xuất cấp ba
+#sản xuất dịch vụ

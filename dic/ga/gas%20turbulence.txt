@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ rối của dòng hơi
+#độ rối của dòng khí
+#tính rối của dòng hơi
+#tính rối của dòng khí

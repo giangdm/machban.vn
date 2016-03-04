@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu cực
+#đầu cuối
+#đầu kẹp
+#trạm đầu cuối
+@Lĩnh vực: hóa học & vật liệu
+#cột chằng
+#trụ chằng
+@Lĩnh vực: điện
+#trụ kẹp cực
+#trụ nối cực

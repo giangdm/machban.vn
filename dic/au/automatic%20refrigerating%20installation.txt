@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống lạnh tự động
+@Lĩnh vực: điện lạnh
+#hệ lạnh tự động

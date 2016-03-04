@@ -1,0 +1,2 @@
+﻿@common room
+#phòng giáo viên ở một trường

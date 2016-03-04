@@ -1,0 +1,5 @@
+﻿@bix
+#Tên một dịch vụ máy tính trực tuyến hoàn chỉnh, sở hữu của công ty mẹ Delphi, nhưng hoạt động như là một cơ sở độc lập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#một dịch vụ máy tính trực tuyến hoàn chỉnh, sở hữu của công ty mẹ Delphi, nhưng hoạt động như là một cơ sở độc lập

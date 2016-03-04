@@ -1,0 +1,4 @@
+﻿@l /el/
+*danh từ,  số nhiều Ls,  L's
+#L, 50 (chữ số La mã)
+#vật hình L

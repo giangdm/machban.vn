@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#lô do hàng trữ sụt giá
+#lỗ trên định giá tồn kho

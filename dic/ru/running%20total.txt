@@ -1,0 +1,5 @@
+﻿@running total
+*danh từ
+#tổng số hiện có (chi phí, khoản tiêu )
+@Chuyên ngành kinh tế
+#tổng cộng

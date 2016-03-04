@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#ảnh hưởng (tác động) của quy mô
+#ảnh hưởng của quy mô
+#tác động của quy mô
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ảnh hưởng tỉ lệ
+@Lĩnh vực: toán & tin
+#ảnh hưởng tỷ lệ
+#hiệu ứng tỷ xích
+#tác dụng thang tỷ lệ

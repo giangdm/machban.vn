@@ -1,0 +1,5 @@
+﻿@Quadratic utility function
+#(Econ) Hàm thoả dụng bậc hai.
+: Một HÀM THOẢ DỤNG mà dạng đại số của nó là dạng của một PHƯƠNG TRÌNH BẬC HAI.
+@Chuyên ngành kinh tế
+#hàm số hiệu dụng bậc hai

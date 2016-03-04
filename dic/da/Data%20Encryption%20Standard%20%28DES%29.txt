@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tiêu chuẩn mã hóa dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#tiêu chuẩn mật hóa số liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuẩn nén dữ liệu DES

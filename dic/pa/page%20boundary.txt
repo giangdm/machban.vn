@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biên trang
+#giới hạn trang
+@Lĩnh vực: điện tử & viễn thông
+#biên trang in

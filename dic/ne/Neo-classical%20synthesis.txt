@@ -1,0 +1,5 @@
+﻿@Neo-classical synthesis
+#(Econ) Hợp đề tân cổ điển.
+: Luận chứng cho rằng sự tồn tại của CÂN BẲNG THẤT NGHIỆP phát sinh từ giả định về mức lương cứng nhắc của Keynes. Đây là sự kết hợp giữa một bên là việc lồng ghép của Keynes đối với các khu vực thực tế và khu vực tiền tệ của một nền kinh tế, nhằm chứng minh cho sự quyết định cùng một lúc của thu nhập danh nghĩa và lãi suất với phía bên kia là các quan điểm cổ điển cho rằng xu hướng đạt tới điểm cân bằng toàn dụng nhân công chỉ có thể bị cản trở bởi tính cứng nhắc trong hệ thống kinh tế.
+@Chuyên ngành kinh tế
+#sự tổng hợp tân cổ điển

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy thu đo từ xa
+@Lĩnh vực: toán & tin
+#máy thu viễn trắc

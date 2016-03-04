@@ -1,0 +1,2 @@
+﻿@Leontief inverse
+#(Econ) Số nghịch đảo Leontief.

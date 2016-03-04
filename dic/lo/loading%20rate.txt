@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#mức chất hàng
+@Chuyên ngành kỹ thuật
+#tốc độ nạp
+@Lĩnh vực: hóa học & vật liệu
+#tốc độ chất liệu
+@Chuyên ngành kỹ thuật
+#tốc độ nạp
+@Lĩnh vực: hóa học & vật liệu
+#tốc độ chất liệu

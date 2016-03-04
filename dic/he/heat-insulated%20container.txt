@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bình chứa cách ly
+#bình chứa cách nhiệt
+#thùng chứa cách nhiệt

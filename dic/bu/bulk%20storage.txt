@@ -1,0 +1,12 @@
+﻿@bulk storage
+#(Tech) bộ trữ lớn
+@Chuyên ngành kinh tế
+#sự bảo quản không bao chứa
+#sự bảo quản trần
+@Chuyên ngành kỹ thuật
+#bộ nhớ khối
+@Lĩnh vực: điện lạnh
+#bảo quản kiểu chất đống
+#bảo quản rời
+@Lĩnh vực: toán & tin
+#vùng lưu trữ khối

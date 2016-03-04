@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dự án sơ bộ (đồ án sơ bộ)
+#sự thiết kế sơ bộ

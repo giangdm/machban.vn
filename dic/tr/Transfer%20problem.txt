@@ -1,0 +1,3 @@
+﻿@Transfer problem
+#(Econ) Vấn đề chuyển nhượng.
+: Thuật ngữ trong kinh tế học quốc tế về việc liệu một nước, phải bồi thường cho một nước khác, ví dụ tiền sửa chữa, phải gánh nặng quá mức hay thứ cấp, nghĩa là  gánh nặng hơn tốc độ thanh toán, để mà thực hiện việc chuyển giao bằng việc kiếm được khoản thặng dư trên thanh toán quốc tế.

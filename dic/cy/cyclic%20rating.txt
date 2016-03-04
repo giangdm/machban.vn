@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#danh định tuần hoàn
+@Lĩnh vực: điện lạnh
+#định mức theo chu kỳ
+#thông số chu kỳ

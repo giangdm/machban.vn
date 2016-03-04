@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giấy chứng không có dịch bệnh
+#giấy chứng kiểm dịch nhập khẩu
+#giấy thông hành
+#giấy thông hành (tàu biển)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#giấy phép vào cảng (tài liệu)
+#giấy thông hành

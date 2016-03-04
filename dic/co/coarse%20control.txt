@@ -1,0 +1,6 @@
+﻿@coarse control
+#(Tech) điều khiển thô
+@Chuyên ngành kỹ thuật
+#sự điều chỉnh thô
+@Lĩnh vực: điện lạnh
+#điều chỉnh thô

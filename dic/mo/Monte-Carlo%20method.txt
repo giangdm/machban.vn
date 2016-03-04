@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#Phương pháp Monte Carlo
+@Lĩnh vực: toán & tin
+#phương pháp Monte-Caclo
+#phương pháp Monte-Carlo

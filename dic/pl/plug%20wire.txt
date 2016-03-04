@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dây đầu cắm
+#dây phích
+@Lĩnh vực: toán & tin
+#dây nối mạch

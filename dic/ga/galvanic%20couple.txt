@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cặp điện phân
+@Lĩnh vực: điện lạnh
+#cặp ganvanic
+@Lĩnh vực: điện
+#sự ghép ganvanic
+#sự ghép trực tiếp

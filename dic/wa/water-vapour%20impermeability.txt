@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tính không thấm nước
+@Lĩnh vực: điện lạnh
+#tính không thấm hơi nước

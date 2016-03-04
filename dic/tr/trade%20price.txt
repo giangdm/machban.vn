@@ -1,0 +1,15 @@
+﻿@trade price /'treid'prais/
+*danh từ
+#giá thành phẩm; giá buôn
+@Chuyên ngành kinh tế
+#giá bán buôn
+#giá bán nửa sỉ
+#giá bán sỉ
+#giá buôn
+#giá mà người bán lẻ trả cho nhà sản xuất
+@Chuyên ngành kỹ thuật
+#giá xuất xưởng
+@Lĩnh vực: cơ khí & công trình
+#giá bán buôn
+@Lĩnh vực: xây dựng
+#giá buôn

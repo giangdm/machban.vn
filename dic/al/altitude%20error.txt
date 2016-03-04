@@ -1,0 +1,2 @@
+﻿@altitude error
+#(Tech) sai số độ cao

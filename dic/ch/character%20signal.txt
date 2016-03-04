@@ -1,0 +1,5 @@
+﻿@character signal
+#(Tech) tín hiệu ký tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tín hiệu kí tự

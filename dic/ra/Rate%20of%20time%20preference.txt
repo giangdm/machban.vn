@@ -1,0 +1,6 @@
+﻿@Rate of time preference
+#(Econ) Tỷ lệ ưu tiên thời gian.
+: Xem TIME PREFERENCE.
+@Chuyên ngành kinh tế
+#suất phí ưa thích tiêu dùng ngay
+#suất ưa thích thời gian

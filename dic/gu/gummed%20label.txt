@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nhãn dính có phết keo
+@Chuyên ngành kỹ thuật
+#nhãn phết keo

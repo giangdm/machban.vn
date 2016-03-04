@@ -1,0 +1,3 @@
+﻿@Weath tax
+#(Econ) Thuế của cải.
+: Thuế đánh vào giá trị của cải ròng. Nó thường đánh vào những thời kỳ đều đặn - thường là một năm trên những tài sản ròng của các cá nhân, mặc dù ở một số nước như Nauy thuế này cũng được do công ty trả.

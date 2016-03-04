@@ -1,0 +1,2 @@
+﻿@capture (of data) = data capturing
+#(Tech) bắt dữ kiện

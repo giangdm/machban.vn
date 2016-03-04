@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kinh tế
+#tính chất chảy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#đặc tính dòng chảy
+@Lĩnh vực: điện lạnh
+#tính chất dòng chảy
+@Lĩnh vực: xây dựng
+#tính chất lưu động
+#tính chất từ biến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#đặc tính dòng chảy
+@Lĩnh vực: điện lạnh
+#tính chất dòng chảy
+@Lĩnh vực: xây dựng
+#tính chất lưu động
+#tính chất từ biến

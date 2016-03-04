@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#trả tiền mặt khi đặt hàng
+#trả tiền ngay khi đặt hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#trả tiền theo đơn đặt hàng

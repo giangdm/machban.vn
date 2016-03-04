@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#mẫu Bohr-so (Mỹ) erfeld
+#mô hình Bohr-so (Mỹ) erfeld

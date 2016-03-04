@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cỡ dày
+#dưỡng đo chiều dầy
+#thước đo chiều dầy
+#thước đo độ dày
+@Lĩnh vực: cơ khí & công trình
+#thước đo chiều dày (cỡ lá)
+@Lĩnh vực: toán & tin
+#thước đo cỡ dày
+#thước đo độ hở

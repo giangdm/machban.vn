@@ -1,0 +1,3 @@
+﻿@Borda Count
+#(Econ) Con tính Borda
+: Một hệ thống về sự LỰA CHỌN TẬP THỂ trong đó mỗi cử tri xếp hạng từng vị trí trong nhóm.(Xem APPROVAL VOTING, CONDORCET CRITERION, SOCIAL DECISION RULE, SOCIAL WELFARE FUNCTION)

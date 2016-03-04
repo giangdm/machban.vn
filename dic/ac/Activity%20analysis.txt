@@ -1,0 +1,5 @@
+﻿@Activity analysis
+#(Econ) Phân tích hoạt động.
+: Xem LINEAR PROGRAMMING.
+@Chuyên ngành kỹ thuật
+#phân tích hoạt động

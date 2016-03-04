@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#ngân hàng bù trừ
+#ngân hàng hội viên (của sở bù trừ phiếu khoán)
+#ngân hàng thanh toán bù trừ
+#ngân hàng thương nghiệp

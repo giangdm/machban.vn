@@ -1,0 +1,2 @@
+﻿@genericity
+#tổng quát: Một tính chất của ngôn ngữ lập trình cho phép các hàm hoặc thủ tục được nhận tham biến có kiểu bất kì

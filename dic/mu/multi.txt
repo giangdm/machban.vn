@@ -1,0 +1,4 @@
+﻿@multi
+#tiếp đầu ngữ, chỉ nhiều, đa
+@Chuyên ngành kỹ thuật
+#đa

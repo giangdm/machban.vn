@@ -1,0 +1,6 @@
+﻿@Exchange control
+#(Econ) Quản lý ngoại hối.
+: Là một hệ thống mà nhà nước sử dụng để kiểm soát các giao dịch bằng ngoại tệ và vàng.
+@Chuyên ngành kinh tế
+#quản lý ngoại tệ
+#sự kiểm soát hối đoái

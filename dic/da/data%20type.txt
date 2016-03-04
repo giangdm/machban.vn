@@ -1,0 +1,7 @@
+﻿@data type
+#(Tech) loại dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ấn mẫu dữ liệu
+@Lĩnh vực: toán & tin
+#kiểu dữ liệu

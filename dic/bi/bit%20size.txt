@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kích cỡ bit
+#số bit của bộ vi xử lý (8, 16, 32)

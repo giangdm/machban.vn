@@ -1,0 +1,5 @@
+﻿@Exchange Equalization Account
+#(Econ) Quỹ bình ổn Hối đoái.
+: Là một hệ thống hay dàn xếp đựơc NGÂN HÀNG hình thành năm 1932, nhằm quản lý những biến động không mong muốn trong tỷ giá hối đoái của đồng bảng, sau khi Anh bỏ CHẾ ĐỘ BẢN VỊ VÀNG vào năm 1931.
+@Chuyên ngành kinh tế
+#tài khoản (quỹ) bình ổn hối đoái

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ điều khiển
+#hệ thống điều khiển
+@Lĩnh vực: xây dựng
+#hệ (thống) điều khiển
+#hệ thống điều chỉnh
+@Lĩnh vực: điện lạnh
+#hệ điều chỉnh
+@Lĩnh vực: toán & tin
+#hệ thống kiểm soát
+@Lĩnh vực: giao thông & vận tải
+#tầng điều khiển

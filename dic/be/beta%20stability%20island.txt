@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đảo bền beta
+@Lĩnh vực: vật lý
+#vùng ổn định beta

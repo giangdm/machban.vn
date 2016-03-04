@@ -1,0 +1,2 @@
+﻿@conjugate phase change coefficient
+#(Tech) hệ số lệch vị tướng liên hợp

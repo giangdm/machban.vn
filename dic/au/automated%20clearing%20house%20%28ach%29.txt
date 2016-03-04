@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nhà giao hóan thanh lý được tự động hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phòng thanh toán tự động

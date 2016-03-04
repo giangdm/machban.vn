@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hàm phân phối xác suất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hàm phân bố tích lũy

@@ -1,0 +1,3 @@
+﻿@Klein Goldberger model
+#(Econ) Mô hình Klein Goldberger.
+: Một mô hình KINH TẾ LƯỢNG cỡ vừa của nền kinh tế Mỹ cho giai đoạn 1929-1952 (không kể cả giai đoạn 1942-1945) đã có ảnh hưởng rất quan trọng đối với việc xây mô hình kinh tế lượng từ thời gian xuất bản năm 1955 đến nay.

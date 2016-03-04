@@ -1,0 +1,3 @@
+﻿@Aggregation problem
+#(Econ) Vấn đề về phép gộp.
+: Vấn đề  xác định hành vi kinh tế vĩ mô có thể đạt dự báo từ hành vi của các đơn vị kinh tế vi mô nổi bật.

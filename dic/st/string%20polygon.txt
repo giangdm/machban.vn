@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đa giác dây
+@Lĩnh vực: toán & tin
+#đa giác chuỗi

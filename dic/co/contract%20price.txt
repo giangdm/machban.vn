@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giá hợp đồng
+#giá thỏa thuận
+@Chuyên ngành kỹ thuật
+#giá hợp đồng
+@Lĩnh vực: xây dựng
+#giá thỏa thuận

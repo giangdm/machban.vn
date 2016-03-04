@@ -1,0 +1,5 @@
+﻿@galena detector
+#(Tech) bộ kiểm sóng sulfua chì (PbS)/galen
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy tách sóng galen

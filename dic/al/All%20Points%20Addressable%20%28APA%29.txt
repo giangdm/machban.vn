@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tất cả các điểm đều có thể định địa chỉ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#có thể lập địa chỉ mọi điểm
+#khả lập địa chỉ mọi điểm

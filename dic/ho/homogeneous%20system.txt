@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ đồng chất
+@Lĩnh vực: điện tử & viễn thông
+#hệ đồng thể
+@Lĩnh vực: vật lý
+#hệ đồng tính
+@Lĩnh vực: y học
+#hệ thuần nhất

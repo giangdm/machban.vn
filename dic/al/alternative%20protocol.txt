@@ -1,0 +1,2 @@
+﻿@alternative protocol
+#(Tech) nghi thức thay thế

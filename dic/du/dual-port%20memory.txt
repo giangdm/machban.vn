@@ -1,0 +1,2 @@
+﻿@dual-port memory
+#(Tech) bộ nhớ hai cửa

@@ -1,0 +1,9 @@
+﻿@forward path
+#(Tech) đường thuận
+@Chuyên ngành kỹ thuật
+#đường thuận
+#đường xuôi (mạch điều khiển)
+@Lĩnh vực: đo lường & điều khiển
+#đường truyền ra
+@Lĩnh vực: điện tử & viễn thông
+#đường về phía trước

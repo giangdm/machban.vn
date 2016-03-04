@@ -1,0 +1,6 @@
+﻿@detail file
+#(Tech) tập tin chi tiết
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin chi tiết
+#tệp chi tiết

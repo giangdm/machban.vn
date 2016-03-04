@@ -1,0 +1,5 @@
+﻿@double buffering
+#(Tech) chuyển hoán đệm đôi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự đệm kép

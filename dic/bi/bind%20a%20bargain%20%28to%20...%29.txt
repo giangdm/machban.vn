@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#ràng buộc một hợp đồng mua bán
+#tạm định một giao kèo mua bán

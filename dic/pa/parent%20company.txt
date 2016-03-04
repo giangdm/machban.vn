@@ -1,0 +1,9 @@
+﻿@parent company
+*danh từ
+#công ty mẹ (công ty điều khiển nhiều công ty khác)
+@Chuyên ngành kinh tế
+#công ty mẹ
+#tổng công ty
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công ty mẹ

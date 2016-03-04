@@ -1,0 +1,8 @@
+﻿@beam angle
+#(Tech) góc chỉ hướng, góc chùm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ rộng chùm
+#góc chùm
+@Lĩnh vực: điện tử & viễn thông
+#góc chùm (kỹ thuật ăng ten)

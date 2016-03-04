@@ -1,0 +1,12 @@
+﻿@active material
+#(Tech) hoạt chất
+@Chuyên ngành kỹ thuật
+#vật liệu phóng xạ
+@Lĩnh vực: điện
+#chất hoạt động
+#chất phóng xạ
+#chất tác động
+@Lĩnh vực: điện lạnh
+#chất quang hoạt
+@Lĩnh vực: toán & tin
+#vật liệu hoạt tính

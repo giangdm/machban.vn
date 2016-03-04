@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#định luật Kelvin
+@Lĩnh vực: điện lạnh
+#định luật Kenvin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#định luật Kelvin
+@Lĩnh vực: điện lạnh
+#định luật Kenvin

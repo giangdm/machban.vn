@@ -1,0 +1,5 @@
+﻿@Pseudo-demand schedule
+#(Econ) Biểu cầu-giả.
+: Mối quan hệ hàm số  cho biết số tiền một cá nhân muốn thanh toán cho một loạt các đơn vị kế tiếp của một hàng hoá công cộng hoặc cho các đơn vị tiêu dùng kế tiếp của hàng hoá đó bởi các cá nhân khác (như kết quả sự tồn tại của một ngoại ứng có lợi).
+@Chuyên ngành kinh tế
+#bảng (nhu) cầu giả

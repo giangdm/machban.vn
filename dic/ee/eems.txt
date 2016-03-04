@@ -1,0 +1,2 @@
+﻿@eems
+#Phiên bản nâng cao của LIM EMS (Lotus-Intel-Microsoft Expanded Memory Specification), nó cho phép các trình ứng dụng DOS có thể sử dụng bộ nhớ lớn hơn 640 K Phiên bản 4 0 của EMS phù hợp với phiên bản EMS gốc lẫn phiên bản nâng cao (EEMS)

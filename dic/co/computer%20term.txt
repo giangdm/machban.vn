@@ -1,0 +1,2 @@
+﻿@computer term
+#(Tech) thuật ngữ điện toán = computer terminology

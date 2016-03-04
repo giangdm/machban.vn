@@ -1,0 +1,12 @@
+﻿@Working population
+#(Econ) Lực lượng lao động.
+: Là những người có khả năng và sẵn sàng lao động kể cả những người có việc làm và những người bị coi là thất nghiệp.
+@Chuyên ngành kinh tế
+#dân số lao động
+#dân số lao động, số người lao động, số người làm việc
+#số dân làm việc
+#số người có việc làm
+#số người làm việc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tầng lớp lao động

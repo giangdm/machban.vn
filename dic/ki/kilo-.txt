@@ -1,0 +1,2 @@
+﻿@kilo-
+#Một tiền tố chỉ một ngàn (1000)

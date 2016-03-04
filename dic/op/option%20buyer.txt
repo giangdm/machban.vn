@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#người mua quyền chọn (trên thị trường có quyền chọn)
+#người mua tăng ngạch (trên thị trường có tăng ngạch)

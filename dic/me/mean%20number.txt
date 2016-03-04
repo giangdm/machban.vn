@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#số bình quân
+@Chuyên ngành kỹ thuật
+#số trung bình

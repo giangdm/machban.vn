@@ -1,0 +1,2 @@
+﻿@functional simulator
+#(Tech) bộ mô phỏng cơ năng

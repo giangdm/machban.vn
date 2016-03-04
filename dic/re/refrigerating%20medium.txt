@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#chất tải lạnh
+#môi trường được làm lạnh
+@Chuyên ngành kỹ thuật
+#chất làm lạnh cryo
+#môi chất lạnh
+#môi chất lạnh sâu
+#môi trường làm lạnh
+#tác nhân làm lạnh
+@Lĩnh vực: điện lạnh
+#môi trường lạnh
+@Lĩnh vực: xây dựng
+#tác nhân làm nguội
+#thuốc làm lạnh

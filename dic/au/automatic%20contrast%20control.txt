@@ -1,0 +1,2 @@
+﻿@automatic contrast control
+#(Tech) điều chỉnh độ tương phản tự động

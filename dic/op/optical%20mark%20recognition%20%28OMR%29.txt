@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quang nhận dạng dấu hiệu
+#sự nhận biết dấu hiệu quang
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhận biết dấu quang

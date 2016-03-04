@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#phép thử tính năng
+#sự thử công suất
+#sự thử vận hành
+@Lĩnh vực: xây dựng
+#thí nghiệm tính năng
+@Lĩnh vực: điện
+#thử nghiệm tính năng

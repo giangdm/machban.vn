@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tỉ suất giữa thu nhập ròng và doanh số ròng
+#tỷ suất giữa thu nhập ròng và doanh số ròng

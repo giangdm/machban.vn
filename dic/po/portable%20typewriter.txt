@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#máy đánh chữ cỡ nhỏ, dễ mang, xách tay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy đánh chữ xách tay

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy làm hạt viên
+#máy nghiền
+#máy tạo hạt
+#máy viên hạt
+@Lĩnh vực: hóa học & vật liệu
+#máy sấy kết tinh (đường)
+@Lĩnh vực: cơ khí & công trình
+#máy tán hạt

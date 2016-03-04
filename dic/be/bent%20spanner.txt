@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#chìa vặn cong
+#chìa vặn hình chữ S
+#chìa vặn trục khuỷu
+@Lĩnh vực: cơ khí & công trình
+#chìa vặn cán cong
+#chìa vặn đầu cong
+#chìa vặn đấu xiên
+@Lĩnh vực: xây dựng
+#clê có khuỷu

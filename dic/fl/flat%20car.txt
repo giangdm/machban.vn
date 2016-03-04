@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#toa trần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sàn móc hậu chuyên chở
+@Lĩnh vực: giao thông & vận tải
+#toa xe mặt bằng
+@Lĩnh vực: xây dựng
+#xe thùng chở hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sàn móc hậu chuyên chở
+@Lĩnh vực: giao thông & vận tải
+#toa xe mặt bằng
+@Lĩnh vực: xây dựng
+#xe thùng chở hàng

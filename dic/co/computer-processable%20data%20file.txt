@@ -1,0 +1,2 @@
+﻿@computer-processable data file
+#(Tech) tập tin dữ kiện xử lý được bằng máy điện toán

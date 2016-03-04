@@ -1,0 +1,2 @@
+﻿@AM (amplitude-modulated) photodetector
+#(Tech) bộ tách sóng quang biến điệu biên (độ)

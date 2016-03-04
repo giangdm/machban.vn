@@ -1,0 +1,3 @@
+﻿@Least cost method of production
+#(Econ) Phương sản xuất dựa trên giá thành thấp nhất.
+: Xem COST MINIMIZATION.

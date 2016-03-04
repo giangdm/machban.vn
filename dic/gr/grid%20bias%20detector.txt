@@ -1,0 +1,2 @@
+﻿@grid bias detector
+#(Tech) bộ dò thiên về lưới

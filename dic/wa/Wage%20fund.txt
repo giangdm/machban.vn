@@ -1,0 +1,5 @@
+﻿@Wage fund
+#(Econ) Quỹ lương.
+: Theo học thuyết kinh tế học cổ điển, một quỹ dùng để thanh toán tiền lương. Tại bất kỳ một thời điểm nào, quỹ này cùng với cung lao động cho trước sẽ xác định mức lương trung bình.
+@Chuyên ngành kỹ thuật
+#quỹ tiền lương

@@ -1,0 +1,2 @@
+﻿@diode limiter
+#(Tech) bộ hạn chế bằng đèn hai cực

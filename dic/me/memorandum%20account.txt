@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sổ kế toán để kiểm tra
+#tài khoản để kiểm tra
+#trương mục để kiểm tra

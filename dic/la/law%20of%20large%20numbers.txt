@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#định luật số lớn (về sác xuất)
+#quy luật số lớn (về xác xuất)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#định luật về số lớn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#định luật về số lớn

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ bấm giờ
+@Lĩnh vực: cơ khí & công trình
+#máy đếm giờ
+@Lĩnh vực: đo lường & điều khiển
+#máy đo giờ vận hành
+#máy đo thời gian

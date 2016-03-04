@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ghi có
+#khoản mục bên có (thải phương)
+#tài khoản bên có

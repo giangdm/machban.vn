@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sổ đăng ký kho
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#sổ kho

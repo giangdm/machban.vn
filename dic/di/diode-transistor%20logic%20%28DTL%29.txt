@@ -1,0 +1,5 @@
+﻿@diode-transistor logic (DTL)
+#(Tech) mạch luận lý đèn hai cực-đèn tinh thể, mạch luận lý đèn tinh thể 2 cực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạch logic diode-transistor

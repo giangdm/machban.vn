@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#đại lượng vào định chuẩn
+@Lĩnh vực: ô tô
+#giá trị so sánh (điều khiển kín)

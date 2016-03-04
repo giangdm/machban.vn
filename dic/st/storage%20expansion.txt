@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ xử lý
+#phần mở rộng bộ nhớ
+#sự mở rộng bộ nhớ

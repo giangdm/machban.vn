@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#nhấp nháy kế
+@Lĩnh vực: điện lạnh
+#tia lửa kế

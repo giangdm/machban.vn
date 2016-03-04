@@ -1,0 +1,10 @@
+﻿@cumulative distribution
+#(Tech) phân bố tích lũy
+@Chuyên ngành kinh tế
+#sự phân bố tích lũy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phân bố tích lũy
+@Lĩnh vực: điện tử & viễn thông
+#sự phân phối chồng chất
+#sự phân phối tích lũy

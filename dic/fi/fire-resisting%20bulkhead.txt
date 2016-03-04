@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#tường chịu lửa
+@Lĩnh vực: vật lý
+#tường chống lửa
+@Chuyên ngành kỹ thuật
+#tường chịu lửa
+@Lĩnh vực: vật lý
+#tường chống lửa

@@ -1,0 +1,3 @@
+﻿@VES production function
+#(Econ) Độ co giãn khả biến hãm sản xuất thay thế.
+: Xem  Variable elasticity of substitution production function.

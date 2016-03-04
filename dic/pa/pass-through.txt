@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#lỗ chuyển
+@Lĩnh vực: toán & tin
+#sự truyền qua

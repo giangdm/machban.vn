@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sơ đồ bypas
+#sơ đồ bypas [nhánh phụ]
+#sơ đồ nhánh phụ

@@ -1,0 +1,7 @@
+﻿@average value
+#(Tech) trị số trung bình
+@Chuyên ngành kinh tế
+#giá trị bình quân
+@Chuyên ngành kỹ thuật
+#giá trị trung bình
+#trung bình

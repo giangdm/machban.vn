@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#cơ số
+@Chuyên ngành kỹ thuật
+#cơ số
+@Lĩnh vực: hóa học & vật liệu
+#chỉ số bazơ
+@Lĩnh vực: toán & tin
+#số cơ bản
+#số cơ sở
+@Lĩnh vực: điện tử & viễn thông
+#số gốc

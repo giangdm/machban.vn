@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#mã số chuyển
+#số chi phiếu của ngân hàng'

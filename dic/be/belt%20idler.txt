@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bánh căng đai
+#puli chạy không
+@Lĩnh vực: xây dựng
+#cần căng dây cu-roa
+@Lĩnh vực: cơ khí & công trình
+#cần căng dây đai
+@Lĩnh vực: toán & tin
+#cần căng dây trần

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ xoắn trên đơn vị chiều dài
+#góc xoắn tương đối

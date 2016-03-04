@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy điện kiểu hở
+@Lĩnh vực: điện
+#máy hở

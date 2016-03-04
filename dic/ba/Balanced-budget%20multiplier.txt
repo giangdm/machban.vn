@@ -1,0 +1,3 @@
+﻿@Balanced-budget multiplier
+#(Econ) Số nhân ngân sách cân đối.
+: Tỷ số biến động thu nhập của thu nhập thực tế so với biến động chi tiêu chính phủ khi chi tiêu của chính phủ thu từ thuế thay đổi một lượng bằng nhau.

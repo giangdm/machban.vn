@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#tính thấm hơi nước
+@Chuyên ngành kỹ thuật
+#tính thấm hơi nước
+@Lĩnh vực: vật lý
+#độ thấm hơi
+#tính thấm hơi
+@Lĩnh vực: điện lạnh
+#độ thẩm thấu hơi

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mố kiểu khung
+@Lĩnh vực: xây dựng
+#trụ kiểu khung

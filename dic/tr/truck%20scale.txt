@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#cân xe hơi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thiết bị cân xe tải

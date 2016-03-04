@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biển ghi tên
+@Lĩnh vực: hóa học & vật liệu
+#đĩa danh định

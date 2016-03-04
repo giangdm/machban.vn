@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bề mặt dẫn điện hoàn hảo
+#bề mặt dẫn điện lý tưởng
+#bề mặt dẫn nhiệt hoàn hảo
+#bề mặt dẫn nhiệt lý tưởng

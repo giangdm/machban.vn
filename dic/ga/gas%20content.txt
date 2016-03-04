@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng chứa khí
+@Lĩnh vực: vật lý
+#hàm lượng khí

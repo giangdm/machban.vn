@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cảng phong tỏa (tạm cấm không cho vào)
+@Chuyên ngành kỹ thuật
+#nồi đậy kín

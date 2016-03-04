@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#lõi cuộn kích từ
+@Lĩnh vực: điện lạnh
+#khung cuộn dây kích từ
+@Lĩnh vực: điện
+#ống kích thích
+@Chuyên ngành kỹ thuật
+#lõi cuộn kích từ
+@Lĩnh vực: điện lạnh
+#khung cuộn dây kích từ
+@Lĩnh vực: điện
+#ống kích thích

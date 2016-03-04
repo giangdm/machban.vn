@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số dư khả dụng
+#tồn quỹ sẵn có

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mật độ công suất giao thoa
+#mật độ công suất nhiễu

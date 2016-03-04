@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#lới cách điện cáp
+@Lĩnh vực: hóa học & vật liệu
+#tạo vỏ bọc cáp

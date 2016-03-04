@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ ẩm tại cửa ra
+#hàm lượng ẩm tại cửa ra

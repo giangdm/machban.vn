@@ -1,0 +1,5 @@
+﻿@Clean float
+#(Econ) Thả nổi tự do
+: Khi TỶ GIÁ THẢ NỔI được biến đổi một cách tự do khỏi bất cứ ảnh hưởng can thiệp nào các CO QUAN QUẢN LÝ TIỀN TỆ. (Xem DIRTY FLOAT)
+@Chuyên ngành kinh tế
+#tỷ giá thả nổi tự do

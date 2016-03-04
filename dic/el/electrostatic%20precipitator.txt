@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#phin lọc tĩnh điện
+@Lĩnh vực: điện lạnh
+#bộ lọc tĩnh điện
+@Lĩnh vực: xây dựng
+#thiết bị lọc (bằng) điện
+@Chuyên ngành kỹ thuật
+#phin lọc tĩnh điện
+@Lĩnh vực: điện lạnh
+#bộ lọc tĩnh điện
+@Lĩnh vực: xây dựng
+#thiết bị lọc (bằng) điện

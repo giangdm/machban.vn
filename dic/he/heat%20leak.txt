@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#rò rỉ nhiệt
+#sự rò rỉ nhiệt

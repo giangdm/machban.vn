@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số lạnh
+#hiệu suất
+@Lĩnh vực: cơ khí & công trình
+#hệ số đặc tính
+@Lĩnh vực: điện lạnh
+#hệ số thế

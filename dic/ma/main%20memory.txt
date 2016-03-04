@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ chính
+#bộ nhớ cơ sở
+#bộ nhớ trung tâm
+@Lĩnh vực: toán & tin
+#vùng lưu trữ chính

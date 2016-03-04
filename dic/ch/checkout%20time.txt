@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giờ tan tầm
+@Chuyên ngành kỹ thuật
+#thời gian kiểm tra
+@Lĩnh vực: điện tử & viễn thông
+#thời gian kiểm chứng
+#thời gian thẩm tra

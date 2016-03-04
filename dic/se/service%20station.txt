@@ -1,0 +1,17 @@
+﻿@service station /'sə:vis'steiʃn/
+*danh từ
+#nơi bảo quản sửa chữa ô tô, nơi rửa (thay dầu, bôi mỡ) ô tô
+#nơi bán đồ phụ tùng (về điện...)
+=a radio service_station: nơi bán những đồ về ô tô
+@Chuyên ngành kinh tế
+#trạm dịch vụ
+#trạm dịch vụ (ô tô)
+#trạm sửa chữa (xe hơi)
+#trạm xăng dầu
+@Chuyên ngành kỹ thuật
+#trạm bảo dưỡng kỹ thuật
+@Lĩnh vực: ô tô
+#gara sửa chữa
+@Lĩnh vực: cơ khí & công trình
+#trạm dịch vụ
+#trạm sữa chữa

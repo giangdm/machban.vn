@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ đầu vào
+#nhiệt độ hút
+@Lĩnh vực: điện lạnh
+#nhiệt độ ở cửa vào
+#nhiệt độ xả

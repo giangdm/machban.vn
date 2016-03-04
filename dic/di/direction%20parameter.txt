@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tham số chỉ phương
+@Lĩnh vực: cơ khí & công trình
+#thông số chỉ phương

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đường dẫn nước vào bình tỏa nhiệt
+@Lĩnh vực: cơ khí & công trình
+#đường dẫn nước vào bình giảm nhiệt

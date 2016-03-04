@@ -1,0 +1,2 @@
+﻿@audiofrequency meter
+#(Tech) máy đo âm tần

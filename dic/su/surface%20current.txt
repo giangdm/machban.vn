@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dòng (điện) mặt ngoài
+@Lĩnh vực: giao thông & vận tải
+#dòng chảy bề mặt (biển)
+@Lĩnh vực: xây dựng
+#dòng chảy trên bề mặt
+@Lĩnh vực: y học
+#dòng điện bề mặt
+@Lĩnh vực: điện lạnh
+#dòng mặt ngoài

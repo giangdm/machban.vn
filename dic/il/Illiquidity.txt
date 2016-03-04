@@ -1,0 +1,9 @@
+﻿@Illiquidity
+#(Econ) Không tính chuyển hoán.
+: Việc thiếu tính chuyển hoán của một tài sản nhất định hoặc của một danh mục tài sản do một người giao dịch nắm giữ.
+@Chuyên ngành kinh tế
+#tính khó thanh tiêu
+#tính không lỏng
+<!-- more -->
+@illiquidity
+#xem illiquid

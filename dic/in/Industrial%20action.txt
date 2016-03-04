@@ -1,0 +1,12 @@
+﻿@Industrial action
+#(Econ) Trừng phạt lao động.
+: Hình phạt do một số cá nhân hay các nhóm người mưu toan giải quyết BẤT ĐỒNG VỀ LAO ĐỘNG trong doanh nghiệp của họ.
+@Chuyên ngành kinh tế
+#bãi công
+#đình công
+#hành động đấu tranh của công nhân
+#hành động yêu sách
+<!-- more -->
+@industrial action
+*danh từ
+#sự từ chối làm việc để đòi thoả mãn những yêu sách mà mình đưa ra, sự bãi công

@@ -1,0 +1,3 @@
+﻿@thread-gauge
+*danh từ
+#(kỹ thuật) compa đo bước ren

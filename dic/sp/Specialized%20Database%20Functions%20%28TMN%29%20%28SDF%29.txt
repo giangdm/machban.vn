@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Các chức năng của cơ sở dữ liệu chuyên dụng (TMN)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#lực ước thúc
+#sức ràng buộc
+@Chuyên ngành kỹ thuật
+#lực ràng buộc
+#phản lực liên kết

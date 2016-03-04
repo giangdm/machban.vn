@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khóa phụ
+@Lĩnh vực: toán & tin
+#khóa thứ yếu

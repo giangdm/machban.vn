@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phố thương mại
+@Chuyên ngành kỹ thuật
+#phố buôn bán
+@Lĩnh vực: xây dựng
+#đường phố buôn bán
+#phố dịch vụ

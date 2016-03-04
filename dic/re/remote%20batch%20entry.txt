@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhập bó từ xa
+#sự nhập bó (dữ liệu) từ xa
+#sự nhập lô từ xa

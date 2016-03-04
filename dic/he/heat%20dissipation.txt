@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#sự tản nhiệt
+#sự thải nhiệt
+#sự tiêu tán nhiệt
+#tản nhiệt
+@Lĩnh vực: xây dựng
+#sự phát tán nhiệt
+#sự tán xạ nhiệt
+@Lĩnh vực: điện lạnh
+#tiêu tán nhiệt

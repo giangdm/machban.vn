@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ảnh hưởng bề mặt
+#tác động bề mặt
+@Lĩnh vực: toán & tin
+#hoạt động bề mặt

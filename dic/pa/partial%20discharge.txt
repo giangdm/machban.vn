@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phóng điện cục bộ
+@Lĩnh vực: điện
+#sự phóng điện cục bộ
+#sự phóng điện một phần
+#sự phóng điện từng phần

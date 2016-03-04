@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thư mục gốc có hiệu lực
+@Lĩnh vực: điện tử & viễn thông
+#thư mục gốc hữu dụng

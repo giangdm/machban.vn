@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ khuếch đại tham số
+@Lĩnh vực: điện lạnh
+#bộ khuếch đại thông số
+@Lĩnh vực: điện
+#mạch khuếch đại tham số
+#máy khuếch đại thông số

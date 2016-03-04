@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khoản tiền lương ứng trước
+#tiền phụ cấp sinh hoạt
+#tiền tạm ứng (cho thợ hay nhân viên mới vào làm)

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#lệnh sản xuất
+#phiếu phân phối công tác
+#phiếu sản xuất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giấy giao việc
+#giấy phân nhiệm
+@Lĩnh vực: cơ khí & công trình
+#thuê khoán

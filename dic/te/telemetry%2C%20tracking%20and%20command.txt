@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đo xa bám sát và điều khiển
+#đo xa bám sát và điều khiển (của vệ tinh)

@@ -1,0 +1,7 @@
+﻿@General union
+#(Econ) Các nghiệp đoàn.
+: Nghiệp đoàn là tổ chức tập hợp công nhân ở các ngành và bao gồm nhiều nghề nghiệp khác nhau.
+@Chuyên ngành kinh tế
+#công đoàn đồng nghiệp
+#nghiệp đoàn ngành
+#tổng công đoàn

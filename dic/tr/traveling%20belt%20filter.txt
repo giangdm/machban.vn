@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bộ lọc băng chạy
+#thiết bị lọc băng di chuyển

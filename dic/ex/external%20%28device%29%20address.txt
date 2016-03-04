@@ -1,0 +1,2 @@
+﻿@external (device) address
+#(Tech) địa chỉ thiết bị ngoài

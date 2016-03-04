@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#ngắt theo hướng
+#ngắt theo vectơ

@@ -1,0 +1,5 @@
+﻿@compound circuit
+#(Tech) mạch đa hợp = composite circuit
+@Chuyên ngành kỹ thuật
+#mạch đa hợp
+#mạch hỗn hợp

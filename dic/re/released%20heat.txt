@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt tỏa ra
+@Lĩnh vực: điện lạnh
+#nhiệt được giải phóng
+#nhiệt giải phóng
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt giải tỏa

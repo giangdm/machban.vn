@@ -1,0 +1,2 @@
+﻿@audibility meter
+#(Tech) máy đo độ nghe rõ

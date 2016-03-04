@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#môi trường cùng tinh
+#môi trường ơtecti
+@Lĩnh vực: điện lạnh
+#hỗn hợp cùng tinh
+#hỗn hợp ơtecti
+@Lĩnh vực: hóa học & vật liệu
+#hỗn hợp eutecti
+@Chuyên ngành kỹ thuật
+#môi trường cùng tinh
+#môi trường ơtecti
+@Lĩnh vực: điện lạnh
+#hỗn hợp cùng tinh
+#hỗn hợp ơtecti
+@Lĩnh vực: hóa học & vật liệu
+#hỗn hợp eutecti

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tụ điện tích hợp
+#tụ điện trên chip
+#tụ trên chip

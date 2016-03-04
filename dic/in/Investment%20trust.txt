@@ -1,0 +1,6 @@
+﻿@Investment trust
+#(Econ) Tờ-rớt đầu tư.
+: Một công ty với chức năng đầu tư vào các tổ chức khác.
+@Chuyên ngành kinh tế
+#quỹ tín thác đầu tư đi vay vốn
+#ủy thác đầu tư

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy dự phòng
+#thiết bị dự phòng
+@Lĩnh vực: điện
+#bộ thiết bị dự phòng

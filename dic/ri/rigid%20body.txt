@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#vật rắn
+@Lĩnh vực: điện lạnh
+#vật cứng
+@Lĩnh vực: toán & tin
+#vật rắn, tuyệt đối
+@Lĩnh vực: xây dựng
+#vật thể cứng

@@ -1,0 +1,12 @@
+﻿@actual value
+#(Tech) trị số thực
+@Chuyên ngành kinh tế
+#giá trị thực tế
+@Chuyên ngành kỹ thuật
+#giá trị thực
+@Lĩnh vực: hóa học & vật liệu
+#giá trị hữu hiệu
+@Lĩnh vực: cơ khí & công trình
+#giá trị thực tế
+@Lĩnh vực: điện lạnh
+#giá trị tức thời

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp đầu ra
+#lớp xuất
+@Lĩnh vực: toán & tin
+#lớp xuất, lớp ra

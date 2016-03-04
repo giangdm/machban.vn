@@ -1,0 +1,3 @@
+﻿@Isoquant
+#(Econ) Đẳng lượng.
+: Xem Iso-profit curve.

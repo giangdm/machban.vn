@@ -1,0 +1,6 @@
+﻿@Equilibrium level of national income
+#(Econ) Mức cân bằng của thu nhập quốc gia
+: Mức cân bằng của THU NHẬP QUỐC GIA không biểu hiện các xu hướng thay đổi.
+@Chuyên ngành kinh tế
+#mức cân bằng của thu nhập quốc dân
+#mức cân bằng của thu nhập quốc gia

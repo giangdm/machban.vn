@@ -1,0 +1,7 @@
+﻿@Measurement error
+#(Econ) Sai số đo lường.
+: Xem ERRORS IN VARIABLES.
+@Chuyên ngành kinh tế
+#sai sót đo lường
+@Chuyên ngành kỹ thuật
+#sai số đo

@@ -1,0 +1,11 @@
+﻿@Deregulation
+#(Econ) Dỡ bỏ điều tiết; Xoá điều tiết; Phi điều tiết.
+: Việc dỡ bỏ các luật và dưới luật của chính phủ trung ương  hay địa phương hạn chế sự tham gia vào các hoạt động nhất định. Xem PRIVATIZATION.
+@Chuyên ngành kinh tế
+#bãi bỏ sự điều tiết
+#phi điều tiết hóa
+#sự bãi bỏ điều lệ (quản lý)
+<!-- more -->
+@deregulation
+*danh từ
+#sự bãi bỏ quy định

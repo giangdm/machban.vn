@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#việc lắp đặt bản đồ địa chính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khảo sát địa chính
+#sự đo đạc ruộng đất
+@Lĩnh vực: hóa học & vật liệu
+#sự đo ruộng đất

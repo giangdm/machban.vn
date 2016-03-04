@@ -1,0 +1,2 @@
+﻿@AM (amplitude-modulated) capability
+#(Tech) khả năng dao động biên độ

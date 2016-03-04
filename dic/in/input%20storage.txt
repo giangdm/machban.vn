@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng nhớ cao
+@Lĩnh vực: toán & tin
+#bộ lưu trữ nhập
+#bộ nhớ nhập
+#vùng nhớ nhập

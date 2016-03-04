@@ -1,0 +1,3 @@
+﻿@Agricultural livies
+#(Econ) Thuế nông nghiệp.
+: Xem EC Agricultural levies.

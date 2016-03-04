@@ -1,0 +1,39 @@
+﻿@Deviation
+#(Econ) Độ lệch.
+: Mức chênh lệch giẵ giá trị của một biế số và TRUNG BÌNH của nó. Xem Standard deviation, Variace.
+<!-- more -->
+@deviation /,di:vi'eiʃn/
+*danh từ
+#sự trệch, sự lệch, sự trệch hướng; (nghĩa bóng) sự sai đường, sự lạc đường, sự lạc lối, sự xa rời
+=leftist deviation: sự tả khuynh
+=rightist deviation: sự hữu khuynh
+#(toán học); (vật lý) độ lệch
+=angular deviation: độ lệch góc
+@Chuyên ngành kinh tế
+#đi lệch hướng
+#độ lệch
+#sự chệch đường tàu đi
+#thay đổi lộ trình (không đúng con đường hàng hải ngắn nhất)
+@Chuyên ngành kỹ thuật
+#độ lệch
+#độ lệch tần
+#độ nghiêng
+#độ sai lệch
+#độ trôi
+#lệch
+#sai số
+#sự lệch
+#sự lệch hướng
+#sự phân kỳ
+#sự phân tán
+@Lĩnh vực: y học
+#sự lệch, độ lệch
+<!-- more -->
+@deviation
+#(thống kê) sự lệch, độ lệch
+#accumulated độc lệch tích luỹ
+#average d. độ lệch trung bình
+#mean d. độ lệch trung bình; độ lệch tuyệt đối
+#mean squara d. độ lệch bình phương trung bình
+#root-mean-square d. độ lệch tiêu chuẩn
+#standard d. độ lệch tiêu chuẩn, sai lệch điển hình

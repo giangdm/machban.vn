@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bình điều nhiệt đóng-mở
+#rơle nhiệt độ đóng-mở
+#tecmostat đóng-mở
+#thermostat đóng-mở

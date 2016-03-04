@@ -1,0 +1,2 @@
+﻿@angle reflector
+#(Tech) bộ phản xạ góc, gương phản xạ

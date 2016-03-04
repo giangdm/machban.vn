@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản kế hoạch hợp đồng
+#thiết kế kỹ thuật

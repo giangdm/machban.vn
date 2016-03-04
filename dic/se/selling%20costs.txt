@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phí tổn bán hàng
+#phí tổn tiêu thụ
+@Chuyên ngành kỹ thuật
+#chi phí bán

@@ -1,0 +1,5 @@
+﻿@automatic checkout system
+#(Tech) hệ thống kiểm (ra) tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ kiểm tra tự động

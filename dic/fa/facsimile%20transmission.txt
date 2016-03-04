@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kinh tế
+#sự truyền fax
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện báo truyền ảnh
+#hệ thống truyền fax
+#sự truyền fax
+@Lĩnh vực: điện
+#sự truyền báo ảnh
+@Lĩnh vực: xây dựng
+#vô tuyến truyền ảnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện báo truyền ảnh
+#hệ thống truyền fax
+#sự truyền fax
+@Lĩnh vực: điện
+#sự truyền báo ảnh
+@Lĩnh vực: xây dựng
+#vô tuyến truyền ảnh

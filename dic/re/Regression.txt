@@ -1,0 +1,39 @@
+﻿@Regression
+#(Econ) Hồi quy.
+: Là một phép phân tích bằng cách ghép một phương trình hồi quy quy (hoặc một quan hệ toán học) vào một tập hợp các điểm số liệu, thường là bằng phương pháp BÌNH PHƯƠNG TỐI THIỂU THÔNG THƯỜNG, để thiết lập các mối quan hệ kinh tế lượng (ước tính giá trị của các thông số), hoặc để kiểm định các giả thiết kinh tế.
+<!-- more -->
+@regression /ri'greʃn/
+*danh từ
+#sự thoái bộ, sự thoái lui; sự đi giật lùi, sự đi ngược trở lại
+#(toán học) hồi quy
+=plane of regression: mặt phẳng hồi quy
+@Chuyên ngành kinh tế
+#sự giảm thoái
+#sự giảm thoái, thụt lùi
+#sự thụt lùi
+#suy thoái lạm phát
+@Chuyên ngành kỹ thuật
+#hồi quy
+#lập lại
+#sự hồi quy
+#sự lùi
+#sự thóai hóa
+#sự thoái lui
+@Lĩnh vực: điện tử & viễn thông
+#ghép hồi quy
+@Lĩnh vực: điện lạnh
+#phép hồi quy
+@Lĩnh vực: cơ khí & công trình
+#sự thoái lưu
+@Lĩnh vực: y học
+#thoái trào
+<!-- more -->
+@regression
+#(thống kê) hồi quy
+#biserial r. hồi quy hai chuỗi
+#curvilinear r. hồi quy phi tuyến
+#internal r. hồi quy trong
+#lag r. hồi quy có agumen trễ
+#linear r. hồi quy tuyến tính
+#multiple r. hồi quy bội
+#polynomial r. hồi quy đa thức

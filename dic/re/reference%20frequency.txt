@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tần số chuẩn
+@Lĩnh vực: điện tử & viễn thông
+#tần số chuẩn gốc
+@Lĩnh vực: toán & tin
+#tần số tham chiếu

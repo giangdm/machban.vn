@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+#hàng dệt in hoa
+#vải in hoa

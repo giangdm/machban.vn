@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều khiển độ nhạy
+#sự điều khiển độ nhạy
+#sự kiểm soát độ nhạy

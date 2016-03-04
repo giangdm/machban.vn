@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bể tích nước
+@Lĩnh vực: xây dựng
+#bể tập trung nước
+#công trình chứa nước
+#công trình thu nước
+#công trình tích nước

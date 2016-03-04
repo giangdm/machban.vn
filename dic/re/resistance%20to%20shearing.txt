@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền cắt
+#giới hạn bền cắt
+#sức bền cắt
+#sức cản cắt

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản cá nhân
+#tài khoản khách hàng (của ngân hàng)
+#tài khoản về người

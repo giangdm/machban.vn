@@ -1,0 +1,2 @@
+﻿@command character
+#(Tech) ký tự lệnh

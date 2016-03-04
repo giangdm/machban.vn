@@ -1,0 +1,6 @@
+﻿@Supply-side economics
+#(Econ) Kinh tế học trọng cung.
+: Một trường phái tư duy nhấn mạnh rằng yếu tố quyết định chính đối với tốc độ tăng trưởng sản phẩm quốc dân cả trong ngắn hạn và dài hạn là việc phân bổ và sử dụng hiệu quả lao động và vốn trong nền kinh tế.
+@Chuyên ngành kinh tế
+#kinh tế học trọng cung
+#kinh tế học về mức cung

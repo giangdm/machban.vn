@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bằng trắc nghiệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tập bìa thử

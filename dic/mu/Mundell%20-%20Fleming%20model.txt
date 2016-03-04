@@ -1,0 +1,3 @@
+﻿@Mundell - Fleming model
+#(Econ) Mô hình Mundell - Fleming.
+: Là một Mô hình do hai nhà kinh tế học Mundell và Fleming xây dựng một cách độc lập, nó cho thấy tác động mở rộng của các biến số chính sách, CHÍNH SÁCH TÀI CHÍNH và CHÍNH SÁCH TIỀN TỆ đều biến đổi tuỳ thuộc vào chế độ tỷ giá hối đoái được giả định.

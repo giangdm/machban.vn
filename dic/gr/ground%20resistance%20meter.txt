@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#máy đo điện trở nối đất
+#máy đo điện trở tiếp đất

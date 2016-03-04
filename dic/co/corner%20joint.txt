@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#chỗ nối góc
+#góc nối (liên kết)
+#mối hàn góc
+#mối nối ở góc
+@Lĩnh vực: hóa học & vật liệu
+#đầu nối góc
+@Lĩnh vực: xây dựng
+#mối ghép (ở) góc

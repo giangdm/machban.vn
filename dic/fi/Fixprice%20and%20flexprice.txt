@@ -1,0 +1,5 @@
+﻿@Fixprice and flexprice
+#(Econ) Giá bất biến và giá linh hoạt.
+: Sự phân biệt lần đầu tiên do J.R.HICKS đưa ra giữa những giá không phản ứng với những thay đổi cơ bản trong cung và cầu.
+@Chuyên ngành kinh tế
+#giá bất biến và giá khả biến

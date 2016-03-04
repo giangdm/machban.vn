@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tốc độ thi công
+@Chuyên ngành kỹ thuật
+#nhịp độ
+#tiến độ xây dựng
+@Lĩnh vực: xây dựng
+#mức độ tiến triển
+#tốc độ tiến trình xây dựng

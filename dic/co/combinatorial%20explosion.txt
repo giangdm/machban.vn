@@ -1,0 +1,7 @@
+﻿@combinatorial explosion
+#(sự) bùng nổ tổ hợp
+#Một trở ngại cho việc giải một bài toán, xảy ra khi có quá nhiều các khả năng phải được tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bùng nổ tổ hợp
+#sự bùng nổ tổ hợp

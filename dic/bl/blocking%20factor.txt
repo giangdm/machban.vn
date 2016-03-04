@@ -1,0 +1,8 @@
+﻿@blocking factor
+#(Tech) hệ số kết khối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ số khối
+@Lĩnh vực: toán & tin
+#hệ số nhóm khối
+#hệ số tạo khối

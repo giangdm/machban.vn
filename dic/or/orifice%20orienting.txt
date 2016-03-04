@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa ra
+#lỗ
+@Lĩnh vực: cơ khí & công trình
+#đo dẫn nước
+@Lĩnh vực: đo lường & điều khiển
+#lỗ đo lưu lượng

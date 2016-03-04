@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ký tự chỉ trạng thái
+@Lĩnh vực: toán & tin
+#ký tự trạng thái

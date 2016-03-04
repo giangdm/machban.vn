@@ -1,0 +1,8 @@
+﻿@frequency regulator
+#(Tech) bộ ổn tần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ điều chỉnh tần số
+@Lĩnh vực: toán & tin
+#bộ ổn định tần số
+#bộ ổn tần

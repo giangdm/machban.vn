@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự chuyển vị tương hỗ
+#tính tương hỗ của chuyển vị

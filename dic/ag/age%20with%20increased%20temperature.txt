@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#lão hóa khi nhiệt độ tăng
+#lão hóa nhân tạo

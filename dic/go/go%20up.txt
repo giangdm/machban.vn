@@ -1,0 +1,13 @@
+﻿@go up
+#lên, leo lên, đi lên
+=to go up a ladder: lên thang gác
+=to go up a river: đi ngược dòng sông
+=to go up to town: ra tỉnh, lên tỉnh
+=the curtain goes up: màn kéo lên
+#lên lớp khác
+=to go up to the university: lên đại học, vào đại học
+#tăng, tăng lên (giá cả)
+#nổ tung
+=the house went up in flames: ngôi nhà nổ tung trong khói lửa
+#mọc lên
+=new houses are going up everywhere in the town: nhà mới mọc lên khắp nơi trong thành phố

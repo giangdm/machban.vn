@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#nối dây
+#sơ đồ đấu dây
+#sự dựng
+#sự trang bị
+@Lĩnh vực: điện
+#cách đấu dây
+#hàn dây
+#sự lắp ráp thực nghiệm
+@Lĩnh vực: hóa học & vật liệu
+#đào giếng (khai thác)
+#sự lắp ráp (thiết bị)

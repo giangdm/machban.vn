@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện thế chậm
+@Lĩnh vực: vật lý
+#thế trễ
+@Lĩnh vực: toán & tin
+#thế vị trễ

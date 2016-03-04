@@ -1,0 +1,124 @@
+﻿@Flow
+#(Econ) Dòng, luồng, Lưu lượng.
+: Lượng của một biến kinh tế được đo lường trong một khoảng thời gian.
+<!-- more -->
+@flow /flow/
+*danh từ
+#sự chảy
+#lượng chảy, lưu lượng
+#luồng nước
+#nước triều lên
+=ebb and flow: nước triều xuống và nước triều lên
+#sự đổ hàng hoá vào một nước
+#sự bay dập dờn (quần áo...)
+#(vật lý) dòng, luồng
+=diffusion flow: dòng khuếch tán
+#flow of spirits
+#tính vui vẻ, tính sảng khoái
+#to flow of soul
+#chuyện trò vui vẻ
+*nội động từ
+#chảy
+#rủ xuống, xoà xuống
+=hair flows down one's back: tóc rủ xuống lưng
+#lên (thuỷ triều)
+#phun ra, toé ra, tuôn ra
+#đổ (máu); thấy kinh nhiều (đàn bà)
+#xuất phát, bắt nguồn (từ)
+=wealth flows from industry and agriculture: của cải bắt nguồn từ công nghiệp và nông nghiệp
+#rót tràn đầy (rượu)
+#ùa tới, tràn tới, đến tới tấp
+=letters flowed to him from every corner of the country: thư từ khắp nơi trong nước gửi đến anh ta tới tấp
+#trôi chảy (văn)
+#bay dập dờn (quần áo, tóc...)
+#(từ cổ,nghĩa cổ) tràn trề
+=land flowing with milk and honey: đất tràn trề sữa và mật ong
+#to swim with the flowing tide
+#đứng về phe thắng, phù thịnh
+@Chuyên ngành kinh tế
+#bám sát
+#con nước lên
+#đi theo
+#dòng
+#luồng
+#luồng dòng
+#lưu lượng
+#nguồn cung ứng
+#nước triều lên
+@Chuyên ngành kỹ thuật
+#dòng
+#dòng chảy
+#lên (thủy triều)
+#luồng
+#luồng nước
+#lưu lượng
+#lưu thông
+#sự chảy
+#tiến trình
+@Lĩnh vực: toán & tin
+#chảy tràn
+#mạch chạy
+@Lĩnh vực: xây dựng
+#dòng chảy (nước)
+@Lĩnh vực: điện
+#dòng lưu động
+@Chuyên ngành kỹ thuật
+#dòng
+#dòng chảy
+#lên (thủy triều)
+#luồng
+#luồng nước
+#lưu lượng
+#lưu thông
+#sự chảy
+#tiến trình
+@Lĩnh vực: toán & tin
+#chảy tràn
+#mạch chạy
+@Lĩnh vực: xây dựng
+#dòng chảy (nước)
+@Lĩnh vực: điện
+#dòng lưu động
+<!-- more -->
+@flow
+#dòng, sự chảy, lưu lượng
+#diabatic f. dòng đoạn nhiệt
+#back f. dòng ngược
+#channel f. dòng chảy trong
+#circular f. dòng hình tròn
+#conical f. dòng hình nón
+#divergent f. dòng phân kỳ
+#energy f. dòng năng lượng
+#fliud f. dòng chất lỏng
+#free f. dòng tự do
+#gas f. dòng khí
+#geodesic f. (giải tích) dòng trắc địa
+#hypersonic f. dòng siêu âm
+#gadually varied f. dòng biến đổi dần
+#isentropic f. dòng đẳng entropi
+#jet f. dòng tia
+#laminar f. dòng thành lớp
+#logarithmic spiral f. dòng xoắn ốc lôga
+#mass f. dòng khối lượng
+#non-steady f. dòng không ổn định
+#ordinarry f. dòng thông thường
+#parallel f. dòng song song
+#plastic f. dòng dẻo
+#potential f. (cơ học) dòng thế
+#pressure f. dòng áp
+#rapid f. dòng nhanh
+#rapidly varied f. dòng biến nhanh
+#secondary f. dòng thứ cấp
+#shearing f. dòng sát, dòng trượt, dòng cắt
+#spiral f. dòng xoắn ốc
+#steady f. dòng ổn định
+#suberitical f. dòng trước tới hạn
+#subsonic f. dòng dưới âm tốc
+#superciritical f. dòng siêu tới hạn, dòng (mạnh) xiết
+#traffic f. dòng vận tải
+#tranqiul f. dòng yên lặng
+#turbulent f. dòng xoáy
+#uniform f. dòng đều
+#unsteady f. dòng không ổn định
+#variable f. dòng biến thiên
+#vortex f. (hình học) dòng rôta

@@ -1,0 +1,2 @@
+﻿@Solvent (= creditworthy)
+#(Econ) Có tín nhiệm, có khả năng thanh toán nợ.

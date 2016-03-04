@@ -1,0 +1,7 @@
+﻿@decoupling capacitor
+#(Tech) bộ điện dung thoát
+@Chuyên ngành kỹ thuật
+#tụ khử ghép
+#tụ triệt ghép
+@Lĩnh vực: điện
+#tụ tách rời

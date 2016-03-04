@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lưỡng đồng bộ
+@Lĩnh vực: toán & tin
+#đồng bộ nhị phân
+@Lĩnh vực: điện lạnh
+#song đồng bộ

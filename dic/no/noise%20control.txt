@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#khống chế tiếng ồn
+#sự kiểm tra tiếng ồn
+#sự làm giảm tiếng ồn
+@Lĩnh vực: điện lạnh
+#điều chỉnh độ ồn
+@Lĩnh vực: xây dựng
+#sự điều chỉnh tiếng ồn
+#sự khống chế tiếng ồn

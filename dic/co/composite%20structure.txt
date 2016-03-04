@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kết cấu hỗn hợp
+#kết cấu liên hợp
+@Lĩnh vực: xây dựng
+#kết cấu thành phần

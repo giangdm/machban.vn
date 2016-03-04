@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ đậm nhạt của nét chữ
+#độ đậm nhạt kiểu chữ
+#độ dày con chữ

@@ -1,0 +1,5 @@
+﻿@D-region
+#(Tech) vùng (trường) D
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#vùng D

@@ -1,0 +1,8 @@
+﻿@equivalence, (cy)
+#sự tương đương
+#e. of propositions tương đương của các mệnh đề
+#algebrai e. tương đương đại số
+#analytic e. sự tương đương giải tích
+#cardinal e. tương đương bản số
+#natural e (đại số) tương đương tự nhiên
+#topological e. tương đương tôpô

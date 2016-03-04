@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thanh ghi địa chỉ bộ nhớ
+@Lĩnh vực: toán & tin
+#thanh ghi lưu trữ

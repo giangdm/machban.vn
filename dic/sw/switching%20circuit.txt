@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch chuyển mạch
+#sơ đồ ngắt mạch
+@Lĩnh vực: toán & tin
+#mạch đóng ngắt
+#sơ đồ đảo mạch
+@Lĩnh vực: điện tử & viễn thông
+#mạch hoán chuyển

@@ -1,0 +1,2 @@
+﻿@absolutely noncircular attribute
+#(Tech) thuộc tính phi tuần hoàn tuyệt đối

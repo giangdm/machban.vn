@@ -1,0 +1,9 @@
+﻿@accumulator battery
+#(Tech) bình điện (trữ)
+@Chuyên ngành kỹ thuật
+#ắcqui
+#bình ắcqui
+#bộ pin nạp lại được
+#bộ pin thứ cấp
+#bộ pin trữ điện
+#bộ tích trữ điện

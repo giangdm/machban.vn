@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ biên dịch tăng
+#bộ biên dịch tăng dần
+#bộ biên dịch từng bước
+#chương trình dịch gia số
+@Lĩnh vực: điện tử & viễn thông
+#trình biên dịch từng bước

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Thiết bị IP phân đoạn thời gian thực (vi mạch)

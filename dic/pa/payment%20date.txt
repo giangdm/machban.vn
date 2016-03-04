@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ngày trả tiền
+#thời điểm chi trả
+#thời điểm thanh toán

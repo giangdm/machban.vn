@@ -1,0 +1,5 @@
+﻿@acknowledge (ACK)
+#(Tech) báo nhận, ghi nhận, báo xác định
+@Chuyên ngành kỹ thuật
+#chấp nhận
+#thừa nhận

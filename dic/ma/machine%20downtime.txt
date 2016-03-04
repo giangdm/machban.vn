@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#thời gian ngừng máy
+#thời gian ngừng máy (do bị hỏng)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hòa nhập tế bào
+@Lĩnh vực: toán & tin
+#ô kết hợp

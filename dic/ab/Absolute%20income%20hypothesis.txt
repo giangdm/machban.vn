@@ -1,0 +1,3 @@
+﻿@Absolute income hypothesis
+#(Econ) Giả thuyết thu nhập tuyệt đối.
+: Giả thuyết này cho rằng các chi phí cho tiêu dùng (C) là một hàm số của thu nhập khả dụng của cá nhân (Yd): C = C (Yd).

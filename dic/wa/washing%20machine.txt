@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#máy giặt
+#máy rửa
+@Chuyên ngành kỹ thuật
+#máy giặt
+#máy làm sạch
+#máy rửa
+@Lĩnh vực: cơ khí & công trình
+#máy rửa sạch

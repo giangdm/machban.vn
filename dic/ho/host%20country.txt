@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nước chủ nhà
+#nước nhận đầu tư
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nước khách

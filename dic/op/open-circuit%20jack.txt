@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#lỗ cắm mạch hở
+@Lĩnh vực: điện lạnh
+#ổ cắm mạch hở

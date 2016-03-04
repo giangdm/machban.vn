@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#vận tốc góc không đổi
+@Lĩnh vực: toán & tin
+#hằng số vận tốc góc

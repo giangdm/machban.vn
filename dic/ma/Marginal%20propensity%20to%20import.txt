@@ -1,0 +1,6 @@
+﻿@Marginal propensity to import
+#(Econ) Thiên hướng nhập khẩu cận biên.
+: Là mức thay đổi nhập khẩu do thay đổi một đơn vị thu nhập.
+@Chuyên ngành kinh tế
+#khuynh hướng nhập khẩu biên tế
+#thiên hướng nhập khẩu biên

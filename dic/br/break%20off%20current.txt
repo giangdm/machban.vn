@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bị ngắt
+@Lĩnh vực: điện
+#dòng điện trở đoạn
+@Lĩnh vực: toán & tin
+#dòng điện trở đoạn bị ngắt

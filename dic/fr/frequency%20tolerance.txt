@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dung hạn tần số
+@Lĩnh vực: toán & tin
+#dung sai tần số

@@ -1,0 +1,12 @@
+﻿@overcurrent
+*danh từ
+#dòng điện siêu tải
+@Chuyên ngành kỹ thuật
+#dòng điện quá tải
+#quá dòng
+@Lĩnh vực: điện
+#dòng điện quá mức
+@Lĩnh vực: toán & tin
+#dòng quá mức
+@Lĩnh vực: xây dựng
+#dòng siêu

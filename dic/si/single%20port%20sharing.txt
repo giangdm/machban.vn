@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phân chia cổng đơn
+@Lĩnh vực: toán & tin
+#sự chia xẻ cổng đơn
+#sự dùng chung một cổng

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp công bé nhất
+@Lĩnh vực: vật lý
+#phương pháp công suất nhỏ nhất

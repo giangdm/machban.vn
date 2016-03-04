@@ -1,0 +1,3 @@
+﻿@Addition rule
+#(Econ) Quy tắc cộng.
+: Một quy tắc để xác định ĐẠO HÀM của một hàm đối với một biến số, trong đó hàm này bao gồm phép cộng tuyến tính của 2 hàm riêng biệt hoặc nhiều hơn trở lên của các biến.

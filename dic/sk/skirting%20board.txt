@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bờ tường
+#gờ chân tường
+#riềm chân tường
+@Lĩnh vực: xây dựng
+#lớp vật liệu ốp chân tường

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chu kì ứng lực không đổi dấu
+#chu trình ứng lực giữ nguyên dấu
+#chu trình ứng lực một chiều

@@ -1,0 +1,5 @@
+﻿@blank record
+#(Tech) bản ghi trống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bản ghi để trống

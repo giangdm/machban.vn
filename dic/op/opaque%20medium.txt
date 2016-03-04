@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#môi trường chắn sáng
+#môi trường mờ
+@Lĩnh vực: điện lạnh
+#môi trường không trong suốt

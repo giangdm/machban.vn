@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lặp lại
+#dây tiếp âm
+#máy biến áp cách ly
+@Lĩnh vực: điện
+#cuộn chuyển tiếp điện
+#cuộn dây chuyển tiếp
+#máy biến áp nối tầng
+@Lĩnh vực: điện lạnh
+#cuộn ghép cảm ứng
+#cuộn lặp lại (giữa hai đoạn đường điện thoại)

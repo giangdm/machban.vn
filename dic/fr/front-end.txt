@@ -1,0 +1,8 @@
+﻿@front-end
+*danh từ
+#(tin học) đầu; lối vào; ngoại vi
+#front-end computer
+#máy tính ngoại vi
+=front-end processing:xử lý trước, xử lý ngoại vi
+@Chuyên ngành kỹ thuật
+#mặt đầu

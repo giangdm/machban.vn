@@ -1,0 +1,5 @@
+﻿@Engagements
+#(Econ) Tuyển dụng (hay thuê mới).
+: Tổng số người tham gia đội ngũ có việc là trong bất cứ thời kỳ nào.
+@Chuyên ngành kinh tế
+#tuyển dụng (nhân công)

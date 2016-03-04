@@ -1,0 +1,6 @@
+﻿@Validated inflation
+#(Econ) Lạm phát cho phép.
+: Lạm phát được cho phép tồn tại vì chính phủ cho phép cung tiền mở rộng với các tốc độ như lạm phát.
+@Chuyên ngành kinh tế
+#lạm phát được hợp thức hóa
+#lạm phát hợp lý

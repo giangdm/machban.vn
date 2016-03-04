@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chiếu khán du lịch
+#thị thực du lịch
+#thị thực nhập cảnh du lịch
+#thị thực tái nhập cảnh

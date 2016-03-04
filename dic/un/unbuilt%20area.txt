@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#diện tích không xây dựng
+#khu đất chưa xây dựng
+#khu đất không xây dựng (tiếp)

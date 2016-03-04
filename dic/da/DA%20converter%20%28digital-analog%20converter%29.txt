@@ -1,0 +1,2 @@
+﻿@DA converter (digital-analog converter)
+#(Tech) bộ đổi số-sóng

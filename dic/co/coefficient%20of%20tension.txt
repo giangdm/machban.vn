@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số kéo
+@Lĩnh vực: xây dựng
+#hệ số căng
+#hệ số ứng suất

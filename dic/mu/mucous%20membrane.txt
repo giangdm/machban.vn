@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#màng nhầy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#lớp màng ẩm lót trong nhiều cấu trúc xoang hình ống (màng nhầy niêm mạc)

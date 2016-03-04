@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự lọc dưới áp lực
+@Chuyên ngành kỹ thuật
+#lọc nén ép
+@Lĩnh vực: xây dựng
+#sự lọc dưới áp lực
+#sự thấm có áp suất

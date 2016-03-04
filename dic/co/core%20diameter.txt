@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đường kính lõi
+@Lĩnh vực: điện
+#đường kính lõi (cáp)
+@Lĩnh vực: vật lý
+#đường kính lõi (sợi quang)
+#đường kính ruột

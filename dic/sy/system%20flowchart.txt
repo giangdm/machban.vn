@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lưu đồ chương trình
+#lưu đồ hệ thống
+#sơ đồ khối hệ thống

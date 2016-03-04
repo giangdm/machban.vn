@@ -1,0 +1,3 @@
+﻿@Transfer payment
+#(Econ) Thanh toán chuyển nhượng.
+: Khoản thanh toán (thường do chính phủ) cho một cá nhân mà không tạo thành một phần của  việc trao đổi hàng hoá và dịch vụ.

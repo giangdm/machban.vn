@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chất cách điện
+#chất cách nhiệt
+@Lĩnh vực: xây dựng
+#chất cách âm

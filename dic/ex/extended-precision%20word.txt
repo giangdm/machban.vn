@@ -1,0 +1,2 @@
+﻿@extended-precision word
+#(Tech) từ có dộ chính xác nối dài

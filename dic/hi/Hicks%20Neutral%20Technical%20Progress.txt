@@ -1,0 +1,3 @@
+﻿@Hicks Neutral Technical Progress
+#(Econ) Tiến bộ kỹ thuật trung tính Hicks.
+: Một phân loại của tiến bộ kỹ thuật phát triển độc lập so sánh các điểm trong quá trình tăng trưởng mà ở đó tỷ lệ VÔN/ LAO ĐỘNG là không đổi.

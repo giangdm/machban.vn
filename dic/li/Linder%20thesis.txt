@@ -1,0 +1,3 @@
+﻿@Linder thesis
+#(Econ) Thuyết Linder.
+: Thuyết của nhà kinh tế Thụy Điển có tên là Linder cho rằng các nước càng có thu nhập bình quân đầu người giống nhau thì lượng buôn bán về hàng chế tạo giữa các nước đó càng cao vì ngoại thương được coi là việc mở rộng tiêu dùng và sản xuất trong nước.

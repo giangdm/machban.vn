@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#tác nhân vừa lạnh
+@Chuyên ngành kỹ thuật
+#chất làm nguội
+#chất tải lạnh
+#môi chất lạnh
+#môi trường làm lạnh
+#tác nhân làm lạnh
+@Lĩnh vực: xây dựng
+#tác nhân (gây) lạnh
+#thuốc làm lạnh

@@ -1,0 +1,9 @@
+﻿@graphic data
+#(Tech) dữ liệu ký đồ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dữ liệu đồ họa
+@Lĩnh vực: toán & tin
+#dữ liệu đồ thị
+@Lĩnh vực: cơ khí & công trình
+#số liệu trên đồ thị

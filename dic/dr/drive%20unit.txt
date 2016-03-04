@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ chính
+#thiết bị động lực
+@Lĩnh vực: cơ khí & công trình
+#thiết bị dẫn động

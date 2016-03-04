@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khối xây ốp (mặt)
+#lớp gạch ốp bên ngoài
+#lớp lát bằng gạch
+#sự ốp gạch

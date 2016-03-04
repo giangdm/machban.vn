@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#tốc độ cắt
+#tốc độ trượt
+@Lĩnh vực: hóa học & vật liệu
+#độ dốc trượt

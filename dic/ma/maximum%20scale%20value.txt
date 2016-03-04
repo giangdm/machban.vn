@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#giá trị thang đo cực đại
+#giá trị toàn thang đo

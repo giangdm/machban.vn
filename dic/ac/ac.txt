@@ -1,0 +1,7 @@
+﻿@ac/dc receiver
+#(Tech) máy thu chạy điện xoay chiều-một chiều = universal receiver
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#abculong
+#culông hệ CGS điện từ, bằng 10 culông
+#culông hệ từ

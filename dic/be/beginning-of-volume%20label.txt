@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nhãn đầu ổ đĩa
+#tiều đề của ổ đĩa
+@Lĩnh vực: toán & tin
+#nhãn khởi đầu khối

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cryostat lạnh
+#máy điều lạnh (làm lạnh)
+#rơle nhiệt độ cryo lạnh

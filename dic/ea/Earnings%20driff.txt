@@ -1,0 +1,3 @@
+﻿@Earnings driff
+#(Econ) Khuynh hướng tăng thu nhập.
+: Tăng thu nhập hàng tuần vượt mức tăng MỨC LƯƠNG đã thoả thoả thuận.

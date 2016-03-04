@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tổ động cơ máy phát
+@Lĩnh vực: điện lạnh
+#tổ máy phát-động cơ

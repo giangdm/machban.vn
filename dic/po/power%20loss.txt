@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#độ hao công suất
+#sự hao công suất
+@Lĩnh vực: xây dựng
+#hao điện
+#mất công suất
+#sự mất điện
+@Lĩnh vực: điện
+#mất điện năng
+#sự mất công suất
+#tổn hao công suất
+#tổn thất điện năng
+@Lĩnh vực: toán & tin
+#sự tổn hao công suất
+#suy hao nguồn

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hồi tiếp nhận
+@Lĩnh vực: đo lường & điều khiển
+#phản hồi tái sinh
+@Lĩnh vực: điện tử & viễn thông
+#sự hồi tiếp tái sinh (vô tuyến)

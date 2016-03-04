@@ -1,0 +1,7 @@
+﻿@materia medica [mə,tiəriə'medikə]
+*danh từ
+# dược vật học
+# dược vật, dược phẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#nghiên cứu thuốc đùng trong y học gồm dược liệu học bào chế, dược lý và trị liệu

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số truyền dẫn
+#hệ số truyền đạt
+#tỷ số truyền
+@Lĩnh vực: điện tử & viễn thông
+#tỉ số chuyển giao
+@Lĩnh vực: điện
+#tỉ số truyền

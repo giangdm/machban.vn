@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#bị để lại
+#bị loại
+#không cho vào
+#không đưa xuống tàu
+#không được bốc xếp lên tàu
+#loại ra
+#thải ra
+#thải trù
+#thải trừ

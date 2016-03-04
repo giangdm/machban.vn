@@ -1,0 +1,3 @@
+﻿@Encompassing test
+#(Econ) Phép kiểm nghiệm vây; Phép kiểm nghiệm vòng biên.
+: Phép kiểm nghiệm không tập trung này dựa trên nguyên tắc cho rằng một mô hình nên có các đặc điểm nổi bật của các mô hình khác nhau và có thể là các mô hình đôí nghịch.

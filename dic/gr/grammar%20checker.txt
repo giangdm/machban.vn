@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ kiểm tra ngữ pháp
+#trình kiểm tra ngữ pháp
+@Lĩnh vực: xây dựng
+#kiểm soát viên ngữ pháp

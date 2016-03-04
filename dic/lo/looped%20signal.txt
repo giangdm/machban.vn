@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu quay vòng
+#tín hiệu truyền trở lại
+#tín hiệu vòng lặp

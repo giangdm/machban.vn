@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#màn hình đầu ra
+@Lĩnh vực: toán & tin
+#sự hiển thị dữ liệu ra

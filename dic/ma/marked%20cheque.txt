@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chi phiếu được đánh dấu
+#chi phiếu được đánh giá
+#chi phiếu được ngân hàng bảo chi
+#séc đánh dấu

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#hạt nhỏ
+#tinh thể nhỏ (đường)
+@Chuyên ngành kỹ thuật
+#bột mịn
+#hạt mịn
+#hạt nhỏ
+@Chuyên ngành kỹ thuật
+#bột mịn
+#hạt mịn
+#hạt nhỏ

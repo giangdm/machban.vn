@@ -1,0 +1,3 @@
+﻿@Entrepreneurial supply price
+#(Econ) Giá cung ứng của doanh nghiệp.
+: Lợi tức vừa đủ để giữ một người điều hành với một số phẩm chất nào đó ở lại với công việc hiện tại của người đó.

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cánh ghép
+#cánh kiểu (tạo) khe
+#cánh tản nhiệt kiểu khe

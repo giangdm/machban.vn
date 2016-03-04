@@ -1,0 +1,8 @@
+﻿@Disintermediation
+#(Econ) Quá trình xoá bỏ trung gian; Phi trung gian.
+: Quá trình theo đó vốn mà từ trước đã đi từ người cung cấp cuối cùng đến người sử dụng cuối cùng thông qua TRUNG GIAN TÀI CHÍNH, đặc biệt là các ngân hàng vì các lý do liên quan đến lãi suất tương đối hay kiểm soát khả năng mở rộng các khoản tiền gửi của các ngân hàng, bây giờ đựoc tiến hành trực tiếp.
+@Chuyên ngành kinh tế
+#không qua trung gian
+#mất tác dụng môi giới (của ngân hàng...)
+#phi trung gian hóa
+#sự phi trung gian hóa

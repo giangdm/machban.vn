@@ -1,0 +1,2 @@
+﻿@Pooled lending / loan
+#(Econ) Cho vay liên hiệp.

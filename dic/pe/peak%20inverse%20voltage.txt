@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp ngược cực đại
+#điện áp ngược đỉnh
+@Lĩnh vực: điện
+#điện thế nghịch tối đa

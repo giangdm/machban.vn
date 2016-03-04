@@ -1,0 +1,2 @@
+﻿@alphanumeric type
+#(Tech) loại chữ-số

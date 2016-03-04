@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#máy san đất
+#máy san đường
+#máy ủi
+@Lĩnh vực: cơ khí & công trình
+#máy ban đất
+@Lĩnh vực: xây dựng
+#máy san (đất) tự hành
+#máy san tự hành
+#máy san ủi
+#xe ủi làm đường
+@Lĩnh vực: giao thông & vận tải
+#máy ủi đường

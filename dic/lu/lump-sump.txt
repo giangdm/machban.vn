@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giá bao khoán
+#khoản tiền trả chung một lần
+#số tiền tính gộp cả lại
+#tổng giá tiền
+#tổng số tiền cước
+#trả dứt một lần
+#trọn số tiền

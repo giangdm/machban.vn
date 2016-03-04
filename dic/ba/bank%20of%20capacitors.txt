@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ tụ điện
+@Lĩnh vực: điện
+#giàn tụ điện
+@Lĩnh vực: điện lạnh
+#hộp tụ điện

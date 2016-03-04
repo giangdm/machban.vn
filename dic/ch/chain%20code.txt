@@ -1,0 +1,7 @@
+﻿@chain code
+#(Tech) mã chuỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mã móc nối
+#mã theo chuỗi
+#mã xích

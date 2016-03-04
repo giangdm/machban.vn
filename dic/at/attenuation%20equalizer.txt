@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ bù suy giảm
+@Lĩnh vực: toán & tin
+#bộ cân bằng suy giảm
+@Lĩnh vực: điện tử & viễn thông
+#bộ san bằng suy giảm

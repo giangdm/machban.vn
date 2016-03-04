@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự nén ba trục
+@Lĩnh vực: xây dựng
+#sự nén 3 chiều

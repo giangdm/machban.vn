@@ -1,0 +1,2 @@
+﻿@failure detection
+#(Tech) phát hiện hư hỏng

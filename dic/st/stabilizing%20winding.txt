@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn ổn định
+@Lĩnh vực: điện lạnh
+#dây quấn ổn định

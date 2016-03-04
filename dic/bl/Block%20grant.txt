@@ -1,0 +1,5 @@
+﻿@Block grant
+#(Econ) Trợ cấp cả gói
+: Nói chung là một khoản trợ cấp không đặt cọc của chính phủ cấp cho chính quyền địa phương
+@Chuyên ngành kinh tế
+#trợ cấp cả gói

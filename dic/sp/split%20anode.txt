@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dương cực tách
+@Lĩnh vực: toán & tin
+#dương cực tách, hở

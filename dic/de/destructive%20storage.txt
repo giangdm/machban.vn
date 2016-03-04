@@ -1,0 +1,2 @@
+﻿@destructive storage
+#(Tech) bộ trữ (có) xóa

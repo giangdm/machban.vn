@@ -1,0 +1,2 @@
+﻿@centre = center
+#(Tech) trung tâm, trung ương

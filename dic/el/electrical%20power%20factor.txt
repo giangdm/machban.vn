@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ số công suất điện
+#thừa số công suất điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ số công suất điện
+#thừa số công suất điện

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chiều dày nén chặt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#chiều dày đệm
+#khoảng đệm
+@Lĩnh vực: hóa học & vật liệu
+#không gian nạp

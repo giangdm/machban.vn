@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số khuếch tán
+@Lĩnh vực: toán & tin
+#hệ số khuếch tần

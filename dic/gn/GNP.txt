@@ -1,0 +1,6 @@
+﻿@GNP
+#(Econ) Tổng sản phẩm quốc dân.
+: Xem GROSS NATIONAL PRODUCT.
+<!-- more -->
+@gnp
+#(vt của Gross National Product) tổng sản lượng quốc gia

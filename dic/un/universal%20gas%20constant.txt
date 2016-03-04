@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hằng số (chất) khí
+#hằng số khí phổ biến
+@Lĩnh vực: điện lạnh
+#hằng số chất khí chung
+#hằng số định luật chất khí

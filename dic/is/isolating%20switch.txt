@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#cầu dao cách ly
+#công tắc ngắt
+@Lĩnh vực: điện
+#cầu dao ngắt

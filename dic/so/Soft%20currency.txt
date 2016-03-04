@@ -1,0 +1,14 @@
+﻿@Soft currency
+#(Econ) Đồng tiền yếu.
+: Đồng tiền có tỷ giá hối đoái giảm do liên tục xảy ra thâm hụt CÁN CÂN THANH TOÁN.
+<!-- more -->
+@soft currency /'sɔft'kʌrənsi/
+*danh từ
+#tiền không đổi được thành vàng; tiền khó đổi được thành tiền khác
+@Chuyên ngành kinh tế
+#đồng tiền mềm
+#đồng tiền yếu
+#ngoại tệ yếu
+#ngoại tệ yếu (khó đổi để lấy ngoại tệ mạnh của nước khác)
+@Chuyên ngành kỹ thuật
+#đồng tiền yếu

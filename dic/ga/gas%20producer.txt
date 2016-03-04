@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lò sinh ga
+#lò sinh khí
+#thiết bị sinh khí
+@Lĩnh vực: toán & tin
+#máy chế khí
+@Lĩnh vực: xây dựng
+#máy chế thán khí
+@Lĩnh vực: hóa học & vật liệu
+#máy sản xuất khí

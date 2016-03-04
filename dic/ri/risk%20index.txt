@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chỉ số rủi ro
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chỉ số rủi ro

@@ -1,0 +1,2 @@
+﻿@dial telephone set
+#(Tech) máy điện thoại quay số

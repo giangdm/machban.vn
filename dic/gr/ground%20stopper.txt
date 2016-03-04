@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nút nhám
+@Lĩnh vực: cơ khí & công trình
+#nút đã mài
+@Lĩnh vực: vật lý
+#nút mài

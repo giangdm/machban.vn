@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ truy cập ngẫu nhiên
+#RAM tĩnh

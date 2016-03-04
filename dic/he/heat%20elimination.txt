@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tản nhiệt
+@Lĩnh vực: xây dựng
+#sự khử nhiệt
+#sự thoát nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#tách nhiệt

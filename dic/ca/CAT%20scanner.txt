@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#máy quét chụp cắt lớp quanh trục bằng máy tính

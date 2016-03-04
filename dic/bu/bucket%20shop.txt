@@ -1,0 +1,4 @@
+﻿@bucket shop
+#(khẩu ngữ, xấu)
+@Chuyên ngành kinh tế
+#cửa hàng (hãng) lừa đảo

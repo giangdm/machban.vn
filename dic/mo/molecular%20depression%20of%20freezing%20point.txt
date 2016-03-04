@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự hạ băng điểm do phân tử
+#sự hạ điểm đóng băng do phân tử

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#không khí làm nguội
+@Lĩnh vực: điện lạnh
+#không khí lạnh. gió lạnh

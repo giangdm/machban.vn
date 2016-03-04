@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#số hiệu bộ phận
+#số hiệu chi tiết
+#số hiệu cụm
+@Lĩnh vực: điện tử & viễn thông
+#số hiệu phần
+@Lĩnh vực: ô tô
+#số phụ tùng

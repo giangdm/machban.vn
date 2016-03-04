@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cách tử bản (ở ống dẫn sóng)
+#cách tử tấm

@@ -1,0 +1,3 @@
+﻿@Hedonic price
+#(Econ) Giá ẩn.
+: Giá ẩn hay GIÁ BÓNG là tính chất của một hàng hoá. Một phần giá của loại hàng hoá đó có liên quan đến mỗi tính chất của nó và do vậy có thể đánh giá sự thay đổi về chất lượng.

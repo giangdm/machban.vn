@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chu trình ứng suất đối xứng
+#sự đổi dấu ứng suất

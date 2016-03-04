@@ -1,0 +1,2 @@
+﻿@Doppler velocity
+#(Tech) vận tốc Doppler (Đôple)

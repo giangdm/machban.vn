@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#bấm lỗ
+#máy đục lỗ
+@Chuyên ngành kỹ thuật
+#dụng cụ đóng dấu
+#máy đột
+#máy đột lỗ
+#máy đục lỗ
+#mũi đột
+@Lĩnh vực: cơ khí & công trình
+#máy đột dập

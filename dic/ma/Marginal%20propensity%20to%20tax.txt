@@ -1,0 +1,3 @@
+﻿@Marginal propensity to tax
+#(Econ) Thiên hướng đánh thuế cận biên.
+: Là mức thay đổi trong thu nhập về thuế do thay đổi một đơn vị thu nhập.

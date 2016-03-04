@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hàm trụ elíp
+#hàm trụ eliptic
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hàm trụ elíp
+#hàm trụ eliptic

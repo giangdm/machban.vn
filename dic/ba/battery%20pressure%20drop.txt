@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ giảm áp trong ống xoắn
+#độ giáng áp trong ống xoắn

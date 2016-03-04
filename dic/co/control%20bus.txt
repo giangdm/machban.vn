@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bit điều khiển
+@Lĩnh vực: xây dựng
+#buýt điều khiển
+@Lĩnh vực: toán & tin
+#đường truyền dẫn điều khiển

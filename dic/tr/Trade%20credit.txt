@@ -1,0 +1,8 @@
+﻿@Trade credit
+#(Econ) Tín dụng thương mại.
+: Tín dụng do một nhà buôn hay nhà sản xuất cung cấp cho khách hàng của mình qua các điều khoản bán hàng cho phép thanh toán vào một thời gian nào đó sau khi đã thực sự giao hàng hoá.
+@Chuyên ngành kinh tế
+#tín dụng thương mại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tín dụng mậu dịch

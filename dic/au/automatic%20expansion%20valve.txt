@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#van đàn hồi tự động
+@Lĩnh vực: điện lạnh
+#van dãn nở tự động
+#van giãn nở tự động
+#van tiết lưu tự động

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#bề mặt làm lạnh
+@Chuyên ngành kỹ thuật
+#mặt làm nguội
+@Lĩnh vực: cơ khí & công trình
+#bề mặt làm nguội
+@Lĩnh vực: xây dựng
+#diện tích làm nguội
+@Lĩnh vực: hóa học & vật liệu
+#mặt làm lạnh

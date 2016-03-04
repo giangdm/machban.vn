@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#công tắc hình trống
+@Lĩnh vực: cơ khí & công trình
+#tang điều khiển

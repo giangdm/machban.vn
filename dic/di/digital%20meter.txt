@@ -1,0 +1,7 @@
+﻿@digital meter
+#(Tech) đồng hồ hiện số, máy đo hiện số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#máy đo (kiểu) hiện số
+@Lĩnh vực: toán & tin
+#máy đo hiện số

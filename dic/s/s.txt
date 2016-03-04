@@ -1,0 +1,7 @@
+﻿@s /es/
+*danh từ,  số nhiều Ss,  S's
+#S
+#đường cong hình S; vật hình S
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tế bào ngắt điện

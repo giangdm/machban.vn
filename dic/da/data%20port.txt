@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cổng truy nhập
+@Lĩnh vực: điện tử & viễn thông
+#cổng dữ liệu

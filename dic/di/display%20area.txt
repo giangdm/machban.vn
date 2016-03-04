@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#màn hình
+#vùng biểu diễn
+#vùng hiển thị
+#vùng thể hiện

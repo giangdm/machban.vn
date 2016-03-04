@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phím xóa
+@Chuyên ngành kỹ thuật
+#phím Del
+@Lĩnh vực: toán & tin
+#phím delete
+@Lĩnh vực: điện tử & viễn thông
+#phím xóa

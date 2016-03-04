@@ -1,0 +1,5 @@
+﻿@analog multiplexer
+#(Tech) bộ đa hợp tương tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ dồn kênh tương tự

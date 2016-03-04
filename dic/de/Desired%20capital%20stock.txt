@@ -1,0 +1,3 @@
+﻿@Desired capital stock
+#(Econ) Dung lượng vốn mong muốn.
+: Dung lượng dài hạn tối ưu.

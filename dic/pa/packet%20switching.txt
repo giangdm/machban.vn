@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#sự chuyển gói
+@Lĩnh vực: điện lạnh
+#chuyển bó
+#chuyển gói
+@Lĩnh vực: toán & tin
+#chuyển mạch gói
+#chuyển mạch gói tin
+#sự chuyển bó
+#sự chuyển mạch theo bó
+@Lĩnh vực: điện
+#chuyển thông tin theo bó

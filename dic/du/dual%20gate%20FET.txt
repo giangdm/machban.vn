@@ -1,0 +1,2 @@
+﻿@dual gate FET
+#(Tech) trănsito FET hai cổng

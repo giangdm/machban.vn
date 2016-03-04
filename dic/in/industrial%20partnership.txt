@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hiệp hội chủ thợ
+#sự hợp doanh công nghiệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#công ty công nghiệp

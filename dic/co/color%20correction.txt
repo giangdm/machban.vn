@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ điều chỉnh màu
+#sự hiệu chỉnh màu
+@Lĩnh vực: toán & tin
+#chỉnh sửa màu
+@Lĩnh vực: điện lạnh
+#hiệu chỉnh màu

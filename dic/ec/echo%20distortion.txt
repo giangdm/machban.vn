@@ -1,0 +1,5 @@
+﻿@echo distortion
+#(Tech) biến dạng tiếng dội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự méo do tiếng dội

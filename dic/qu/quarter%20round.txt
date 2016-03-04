@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#1/4 vòng tròn
+#viền đỉnh cột
+#vòng hình trứng thuận

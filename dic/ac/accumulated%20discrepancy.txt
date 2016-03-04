@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sai số tích lũy
+@Lĩnh vực: xây dựng
+#tổng các sai số khép
+@Lĩnh vực: cơ khí & công trình
+#tổng sai số kép

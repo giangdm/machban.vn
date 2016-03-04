@@ -1,0 +1,12 @@
+﻿@environment variable
+#(Tech) biến số môi trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến môi trường
+@Lĩnh vực: xây dựng
+#biến số môi trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến môi trường
+@Lĩnh vực: xây dựng
+#biến số môi trường

@@ -1,0 +1,5 @@
+﻿@alphabetic data
+#(Tech) dữ kiện chữ cái
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dữ liệu chữ cái

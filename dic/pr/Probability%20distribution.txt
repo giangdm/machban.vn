@@ -1,0 +1,13 @@
+﻿@Probability distribution
+#(Econ) Phân phối xác suất
+@Chuyên ngành kinh tế
+#phân phối xác suất
+@Chuyên ngành kỹ thuật
+#hàm phân bố
+#mật độ xác suất
+#sự phân bố xác suất
+@Lĩnh vực: toán & tin
+#phân bố xác suất
+#phân phối xác suất
+@Lĩnh vực: điện tử & viễn thông
+#sự phân phối thống kê

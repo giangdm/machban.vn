@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#chức năng cung ứng
+#hàm cung
+#hàm số cung ứng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hàm cung (cấp)
+@Lĩnh vực: điện tử & viễn thông
+#hàm cung cấp

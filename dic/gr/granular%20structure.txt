@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#cấu trúc dạng hạt
+@Chuyên ngành kỹ thuật
+#kiến trúc hạt
+@Lĩnh vực: xây dựng
+#cấu tạo hạt
+@Lĩnh vực: cơ khí & công trình
+#cấu trúc hạt

@@ -1,0 +1,8 @@
+﻿@Industrial inertia
+#(Econ) Tính ỳ công nghiệp.
+: Một cụm thuật ngữ được sử dụng để mô tả một hiện tượng, các doanh nghiệp không thay đổi được vị trí địa lý khi vị trí hiện tại không còn là một vị trí mang lại nhiều lợi nhuận nhất nữa.
+@Chuyên ngành kinh tế
+#quản tính công nghiệp
+#sức ỳ công nghiệp
+#tính ì
+#tính trì trệ công nghiệp

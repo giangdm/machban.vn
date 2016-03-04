@@ -1,0 +1,2 @@
+﻿@computer module
+#(Tech) mô đun máy điện toán

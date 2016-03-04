@@ -1,0 +1,2 @@
+﻿@FM (frequency modulation) detector
+#(Tech) bộ kiểm sóng biến điệu tần số, bộ giải điều tần

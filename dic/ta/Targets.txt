@@ -1,0 +1,3 @@
+﻿@Targets
+#(Econ) Mục tiêu (định lượng).
+: Còn gọi là mục tiêu chính sách. Là một loạt các mục tiêu định lượng của chính sách kinh tế phải đạt được bằng việc lựa chọn các giá trị của CÔNG CỤ CHÍNH SÁCH.

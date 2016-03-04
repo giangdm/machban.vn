@@ -1,0 +1,8 @@
+﻿@cost-effective
+#(Tech) có hiệu quả kinh tế, có hiệu quả chi phí
+@Chuyên ngành kinh tế
+#có hiệu suất về phí tổn
+#có lợi
+#có tương quan tốt giữa phí tổn-hiệu quả
+#giá trung bình-hiệu quả cao
+#vốn ít lãi nhiều

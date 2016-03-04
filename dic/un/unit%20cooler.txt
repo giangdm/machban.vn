@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị làm lạnh
+@Lĩnh vực: điện lạnh
+#bộ làm lạnh (không khí) dạng tổ hợp
+@Lĩnh vực: hóa học & vật liệu
+#bộ phận làm lạnh

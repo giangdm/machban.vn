@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sự tạo băng
+@Chuyên ngành kỹ thuật
+#băng thùy
+#thân băng
+@Lĩnh vực: điện lạnh
+#hình thành (nước) đá
+#sự hình thành nước đá
+@Lĩnh vực: xây dựng
+#sự băng hình thành

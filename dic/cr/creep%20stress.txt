@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn rão
+#giới hạn từ biến
+#ứng suất (gây) từ biến
+@Lĩnh vực: hóa học & vật liệu
+#ứng suất rão

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nguyên khối
+@Lĩnh vực: điện lạnh
+#không nối

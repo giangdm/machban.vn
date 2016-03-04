@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#công tắc (nút) ấn
+@Lĩnh vực: điện lạnh
+#công tắc nút ấn
+#thiết bị chuyển mạch núm bấm

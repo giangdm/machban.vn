@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phép thử độ tin cậy
+#sự độ tin cậy
+@Lĩnh vực: điện tử & viễn thông
+#sự (thử nghiệm.tra) độ tin cậy

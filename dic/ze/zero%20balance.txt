@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số dư zê-rô
+#số dư zero (tổng số bên nợ và bên có ngang nhau)

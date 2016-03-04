@@ -1,0 +1,2 @@
+﻿@atomic battery
+#(Tech) pin nguyên tử

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#diện tích được tưới
+@Lĩnh vực: xây dựng
+#diện tích tưới nước

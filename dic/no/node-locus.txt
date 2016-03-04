@@ -1,0 +1,2 @@
+﻿@node-locus
+#quỹ tích các điểm nút

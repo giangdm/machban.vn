@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#phía hút
+@Chuyên ngành kỹ thuật
+#phía hút vào
+@Lĩnh vực: ô tô
+#bên hút (bơm)
+@Lĩnh vực: điện lạnh
+#phía áp thấp
+#phía hút

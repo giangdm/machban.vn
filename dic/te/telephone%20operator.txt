@@ -1,0 +1,7 @@
+﻿@telephone operator
+*danh từ
+#nhân viên điện thoại, điện thoại viên (người làm việc ở tổng đài điện thoại)
+@Chuyên ngành kinh tế
+#điện thoại viên
+@Chuyên ngành kỹ thuật
+#điện thoại viên

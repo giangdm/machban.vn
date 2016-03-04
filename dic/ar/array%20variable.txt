@@ -1,0 +1,5 @@
+﻿@array variable
+#(Tech) biến dẫy số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến mảng

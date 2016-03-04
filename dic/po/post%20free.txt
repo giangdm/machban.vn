@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bưu phí đã tính rồi
+#miễn bưu phí
+@Chuyên ngành kỹ thuật
+#miễn phí
+@Lĩnh vực: hóa học & vật liệu
+#miễn bưu phí
+#miễn phí bưu điện

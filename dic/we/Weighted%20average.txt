@@ -1,0 +1,12 @@
+﻿@Weighted average
+#(Econ) Bình quân gia quyền.
+: Bình quân trong đó mỗi hạng được nhân với một hệ số trước khi tính toán và tổn các hệ số này là một đơn vị.
+@Chuyên ngành kinh tế
+#bình quân gia quyền
+#phương pháp bình quân gia quyền
+#số bình quân gia quyền, đã chỉnh bình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trung bình có trọng lượng
+@Lĩnh vực: điện lạnh
+#trung bình có trọng số

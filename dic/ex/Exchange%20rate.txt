@@ -1,0 +1,23 @@
+﻿@Exchange rate
+#(Econ) Tỷ giá hối đoái.
+: Là giá của đồng tiền một nước được tính bằng đồng tiền của một nước khác.
+@Chuyên ngành kinh tế
+#giá hối đoái
+#giá yết
+#hối phiếu
+#hối suất
+#tỉ giá hối đoái
+#tỷ giá
+#tỷ giá hối đoái
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hối suất
+#mức đổi tiền tệ
+@Lĩnh vực: xây dựng
+#tỷ suất trao đổi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hối suất
+#mức đổi tiền tệ
+@Lĩnh vực: xây dựng
+#tỷ suất trao đổi

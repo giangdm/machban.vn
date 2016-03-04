@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bảo hiểm (công nhân) công nghiệp
+#bảo hiểm nhân thọ thợ thuyền
+@Chuyên ngành kỹ thuật
+#bảo hiểm công nghiệp

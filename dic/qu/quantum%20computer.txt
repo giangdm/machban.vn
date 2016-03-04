@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy tính điện tử
+@Lĩnh vực: vật lý
+#máy điện toán lượng tử
+@Lĩnh vực: toán & tin
+#máy tính lượng tử

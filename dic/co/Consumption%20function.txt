@@ -1,0 +1,6 @@
+﻿@Consumption function
+#(Econ) Hàm tiêu dùng
+: Một đồ thị chi tiết hoá về quan hệ giữa tổng CHI TIÊU TIÊU DÙNG và THU NHẬP, nghĩa là C = C(Y).
+@Chuyên ngành kinh tế
+#hàm số tiêu thụ
+#hàm tiêu dùng

@@ -1,0 +1,2 @@
+﻿@ESC (escape character)
+#(Tech) ký tự thoát

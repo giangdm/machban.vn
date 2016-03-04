@@ -1,0 +1,2 @@
+﻿@charging capacitor
+#(Tech) bộ điện dung nạp

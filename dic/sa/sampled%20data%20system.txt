@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#hệ dữ liệu đã lấy mẫu
+@Lĩnh vực: điện lạnh
+#hệ dữ liệu lấy mẫu
+#hệ dữ liệu rời rạc

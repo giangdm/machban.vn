@@ -1,0 +1,3 @@
+﻿@Income-sales ratio
+#(Econ) Tỷ số thu nhập / doanh thu.
+: Tỷ số giữa giá trị gia tăng và tổng doanh thu của một doanh nghiệp hay một ngành.

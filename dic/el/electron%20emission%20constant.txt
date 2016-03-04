@@ -1,0 +1,2 @@
+﻿@electron emission constant
+#(Tech) hằng số phát xạ điện tử

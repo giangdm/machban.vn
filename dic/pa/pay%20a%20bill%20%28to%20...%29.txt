@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thanh toán một tài khoản
+#trả một phiếu tính tiền
+#trả tiền một hóa đơn

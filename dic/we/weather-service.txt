@@ -1,0 +1,3 @@
+﻿@weather-service
+*danh từ
+#cục thời tiết; nha khí tượng

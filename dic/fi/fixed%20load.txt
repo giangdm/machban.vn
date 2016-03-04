@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng cố định
+#tải trọng không đổi
+#tải trọng thường xuyên
+@Lĩnh vực: điện
+#tải cố định
+@Chuyên ngành kỹ thuật
+#tải trọng cố định
+#tải trọng không đổi
+#tải trọng thường xuyên
+@Lĩnh vực: điện
+#tải cố định

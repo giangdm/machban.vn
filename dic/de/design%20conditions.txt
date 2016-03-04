@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#điều kiện thiết kế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều kiện thiết kế

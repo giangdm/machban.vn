@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#người vận hành thiết bị đầu cuối
+#nhân viên thao tác đầu cuối (máy điện toán ..)
+#nhân viên thao tác đầu cuối (máy điện toán)

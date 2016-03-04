@@ -1,0 +1,3 @@
+﻿@Zero-rate goods
+#(Econ) Các hàng hoá có mức thuế bằng 0.
+: Xem VALUE-ADDED TAX.

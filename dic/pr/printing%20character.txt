@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chữ in
+#ký tự in ra được
+@Lĩnh vực: toán & tin
+#ký tự in

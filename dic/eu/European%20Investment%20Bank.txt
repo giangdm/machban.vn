@@ -1,0 +1,5 @@
+﻿@European Investment Bank
+#(Econ) Ngân hàng Đầu tư Châu Âu.
+: Một ngân hàng phát triển được thành lập năm 1957 theo HIỆP ƯỚC ROME, cho ra đời CỘNG ĐÔNG KINH TẾ CHÂU ÂU. Chức năng cơ bản của ngân hàng này là thúc đẩy sự phát triển của hị trường chung Châu Âu bằng cách cấp cấp các khoản vay dài hạn, bảo lãnh các khoản vay tạo điều kiện tài trợ đầu tư cho các vùng kém phát triển, các kế hoạch hiện đại hoá công nghiệp và các dự án công nghiệp.
+@Chuyên ngành kinh tế
+#Ngân hàng đầu tư Châu Âu

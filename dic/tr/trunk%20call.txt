@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#liên lạc điện thoại đường dài
+#sự gọi điện thoại đường dài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cuộc gọi đường dài
+#cuộc gọi qua trung chuyển
+#cuộc nói chuyện liên tỉnh

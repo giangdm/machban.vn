@@ -1,0 +1,7 @@
+﻿@computer memory
+#(Tech) bộ nhớ điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ của máy tính
+@Lĩnh vực: điện tử & viễn thông
+#bộ nhớ máy tính

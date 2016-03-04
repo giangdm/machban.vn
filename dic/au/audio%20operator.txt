@@ -1,0 +1,2 @@
+﻿@audio operator
+#(Tech) nhân viên thu-phát thanh

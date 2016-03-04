@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dòng điện (bị) gián đoạn
+@Lĩnh vực: y học
+#dòng điện ngắt quãng

@@ -1,0 +1,5 @@
+﻿@Urban economics
+#(Econ) Kinh tế học đô thị.
+: Một nhánh của kinh tế học áp dụng các công cụ như tư duy vào phân tích hoạt động kinh tế và các vấn đề kinh tế ở thành thị.
+@Chuyên ngành kinh tế
+#kinh tế học thành thị

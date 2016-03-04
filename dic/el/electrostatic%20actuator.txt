@@ -1,0 +1,2 @@
+﻿@electrostatic actuator
+#(Tech) bộ truyền động điện tĩnh

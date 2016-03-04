@@ -1,0 +1,2 @@
+﻿@byte synchronization
+#(Tech) đồng bộ bai

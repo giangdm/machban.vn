@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hiệu suất bức xạ
+@Lĩnh vực: điện lạnh
+#hiệu suất bức xạ (của ăng ten)
+@Lĩnh vực: điện
+#hiệu suất phát xạ

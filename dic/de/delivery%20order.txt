@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#giấy báo nhận hàng
+#lệnh giao hàng
+#phiếu giao nhận hàng
+#phiếu nhận hàng
+#phiếu xuất kho
+@Chuyên ngành kỹ thuật
+#giao hàng
+#lệnh giao hàng
+#phiếu giao hàng
+#phiếu xuất kho

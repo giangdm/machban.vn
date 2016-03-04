@@ -1,0 +1,5 @@
+﻿@Stochastic
+#(Econ) Tính ngẫu nhiên thống kê.
+: Tuân theo biến thiên ngẫu nhiên (có thể phân tích về mặt thống kê nhưng không thể dự báo chính xác được).
+@Chuyên ngành kỹ thuật
+#ngẫu nhiên

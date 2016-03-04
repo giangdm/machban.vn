@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tâm kết tinh (đường)
+@Chuyên ngành kỹ thuật
+#nhân kết tinh
+@Lĩnh vực: điện lạnh
+#tấm kết tinh

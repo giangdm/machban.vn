@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số nhu cầu
+#hệ số tải
+@Lĩnh vực: hóa học & vật liệu
+#hệ số yêu cầu

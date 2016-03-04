@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#nạp điện do cảm ứng
+@Lĩnh vực: điện tử & viễn thông
+#sự nạp điện cảm ứng
+#sự nạp điện tự cảm

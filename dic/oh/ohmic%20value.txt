@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#giá trị ohm
+#giá trị omic
+#giá trị thuần trở

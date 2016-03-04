@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#liên kết cố định
+#mạch nối cố định
+#mối nối không tháo được
+@Lĩnh vực: toán & tin
+#mối nối cố định

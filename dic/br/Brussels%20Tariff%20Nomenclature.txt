@@ -1,0 +1,6 @@
+﻿@Brussels Tariff Nomenclature
+#(Econ) Biểu thuế quan theo Hiệp định Brussels
+: Sự phân loại tiêu chuẩn hàng hoá, được chấp nhận bởi đa số các nước trên thế giới, vì những mục đích về thuế quan.
+@Chuyên ngành kinh tế
+#Danh mục Thuế quan Brút-xen
+#Phân loại Thuế tắc Brút-xen

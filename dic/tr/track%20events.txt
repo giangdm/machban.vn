@@ -1,0 +1,3 @@
+﻿@track events
+*danh từ
+#<thể> cuộc thi đấu điền kinh bao gồm các môn chạy đua (chạy tốc độ, chạy vượt rào )

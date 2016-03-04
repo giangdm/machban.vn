@@ -1,0 +1,26 @@
+﻿@flow diagram
+#(Tech) lưu đồ, biểu đồ trình tự, lưu trình
+@Chuyên ngành kỹ thuật
+#lưu đồ
+#sơ đồ dòng
+#sơ đồ khối
+@Lĩnh vực: cơ khí & công trình
+#biểu đồ dòng chảy
+@Lĩnh vực: xây dựng
+#biểu đồ lưu thông
+@Lĩnh vực: hóa học & vật liệu
+#đồ thị dòng chảy
+@Lĩnh vực: toán & tin
+#giản đồ luồng
+@Chuyên ngành kỹ thuật
+#lưu đồ
+#sơ đồ dòng
+#sơ đồ khối
+@Lĩnh vực: cơ khí & công trình
+#biểu đồ dòng chảy
+@Lĩnh vực: xây dựng
+#biểu đồ lưu thông
+@Lĩnh vực: hóa học & vật liệu
+#đồ thị dòng chảy
+@Lĩnh vực: toán & tin
+#giản đồ luồng

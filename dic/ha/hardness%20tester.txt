@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ đo độ cứng
+@Lĩnh vực: hóa học & vật liệu
+#dụng cụ thử độ cứng
+@Lĩnh vực: cơ khí & công trình
+#máy thử độ cứng

@@ -1,0 +1,9 @@
+﻿@Steady-state growth
+#(Econ) Tăng trưởng ở mức ổn định; Tăng trưởng đều đặn.
+: Trong LÝ THUẾT TĂNG TRƯỞNG, một điều kiện năng động của nền kinh tế mà tất cả các biến số thực đều tăng với tốc độ tỷ lệ không đổi.
+@Chuyên ngành kinh tế
+#sự tăng trưởng bền vững, vững chắc
+#tăng trưởng đều đều
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tăng trưởng vững

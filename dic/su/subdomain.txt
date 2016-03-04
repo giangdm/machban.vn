@@ -1,0 +1,7 @@
+﻿@subdomain
+*danh từ
+#miền phụ; miền con
+@Chuyên ngành kỹ thuật
+#miền con
+@Lĩnh vực: toán & tin
+#vùng con

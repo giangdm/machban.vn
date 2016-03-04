@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#cường độ từ hóa
+#độ cảm ứng nội tại
+#độ cảm ứng riêng
+#mật độ từ thông riêng

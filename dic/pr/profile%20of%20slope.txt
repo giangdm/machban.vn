@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mặt cắt bờ dốc
+#mặt cắt taluy
+#tiết diện bờ dốc
+@Lĩnh vực: cơ khí & công trình
+#mặt cắt mái dốc

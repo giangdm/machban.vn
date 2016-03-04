@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mớ phi xiclic
+@Lĩnh vực: hóa học & vật liệu
+#phức phi xiclic

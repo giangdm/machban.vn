@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#nguyên lý chống chập
+#nguyên lý chồng chất
+@Lĩnh vực: xây dựng
+#nguyên lý chồng
+#nguyên lý chồng chập
+@Lĩnh vực: vật lý
+#nguyên lý công tác dụng
+#nguyên lý cộng tác dụng
+@Lĩnh vực: toán & tin
+#nguyên lý xếp chồng

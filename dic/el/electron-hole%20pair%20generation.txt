@@ -1,0 +1,2 @@
+﻿@electron-hole pair generation
+#(Tech) sự tạo cặp lỗ trống điện tử

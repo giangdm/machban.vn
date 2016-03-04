@@ -1,0 +1,5 @@
+﻿@Multinational corporation
+#(Econ) Công ty đa quốc gia.
+: Là một doanh nghiệp lớn đóng trụ sở tại một nước nhưng lại điều hành các công ty con thuộc sở hữu hoàn toàn hoặc một phần của học ở các nước khác.
+@Chuyên ngành kinh tế
+#công ty đa quốc gia

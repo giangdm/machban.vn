@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hàm lượng vàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hàm lượng vàng

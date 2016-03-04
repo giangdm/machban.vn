@@ -1,0 +1,9 @@
+﻿@Seasonal unemployment
+#(Econ) Thất nghiệp thời vụ.
+: Thất nghiệp do nguyên nhân từ hình thái công việc theo thời vụ của một số nghành.
+@Chuyên ngành kinh tế
+#thất nghiệp có tính thời vụ, theo mùa
+#thất nghiệp thời vụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thất nghiệp thời vụ

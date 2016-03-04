@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thanh đẩy và kéo
+@Lĩnh vực: toán & tin
+#thanh đẩy và thanh kéo

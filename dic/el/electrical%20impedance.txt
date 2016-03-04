@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#điện kháng
+@Lĩnh vực: điện lạnh
+#trở kháng (điện)
+#trở kháng phức
+@Chuyên ngành kỹ thuật
+#điện kháng
+@Lĩnh vực: điện lạnh
+#trở kháng (điện)
+#trở kháng phức

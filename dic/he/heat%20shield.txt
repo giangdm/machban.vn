@@ -1,0 +1,13 @@
+﻿@heat shield
+*danh từ
+#thiết bị giúp tàu vũ trụ chịu nhiệt khi vào khí quyển
+@Chuyên ngành kỹ thuật
+#lưới che chở nhiệt
+#màn chắn nhiệt
+#màn nhiệt
+@Lĩnh vực: ô tô
+#tấm chắn nhiệt (pô)
+@Lĩnh vực: điện lạnh
+#vách ngăn nhiệt
+@Lĩnh vực: điện tử & viễn thông
+#vật che chở nhiệt

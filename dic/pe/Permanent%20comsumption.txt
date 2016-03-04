@@ -1,0 +1,3 @@
+﻿@Permanent comsumption
+#(Econ) Mức tiêu dùng thường xuyên.
+: Mức tiêu dùng trung bình mà một cá nhân hoặc hộ gia đình dự định thực hiện trong một số năm.

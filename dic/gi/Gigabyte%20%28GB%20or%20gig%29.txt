@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#gigabyte bằng 230 (hoặc 1.073.741.824 byte)

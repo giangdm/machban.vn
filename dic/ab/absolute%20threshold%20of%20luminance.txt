@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ngưỡng chói
+#ngưỡng độ chói tuyệt đối
+@Lĩnh vực: xây dựng
+#độ chói giới hạn

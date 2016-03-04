@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mã màu
+@Lĩnh vực: xây dựng
+#ám hiệu bằng màu
+@Lĩnh vực: điện
+#mã màu (điện)
+#quy ước màu

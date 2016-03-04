@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#vận tải đường biển
+@Chuyên ngành kỹ thuật
+#vận tải đường biển
+@Lĩnh vực: giao thông & vận tải
+#sự chuyên chở đường biển

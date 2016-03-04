@@ -1,0 +1,4 @@
+﻿@grid conductance
+#(Tech) độ dẫn điện lưới
+@Chuyên ngành kỹ thuật
+#độ dẫn lưới

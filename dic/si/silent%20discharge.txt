@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#câm
+@Lĩnh vực: điện lạnh
+#phóng điện êm
+#phóng điện không ồn
+@Lĩnh vực: điện
+#sự phóng điện tĩnh lặng

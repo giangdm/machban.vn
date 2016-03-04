@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#danh sách liên kết
+@Lĩnh vực: toán & tin
+#danh sách kết chuỗi
+#danh sách móc nối
+@Lĩnh vực: điện tử & viễn thông
+#danh sách móc xích

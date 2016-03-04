@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đuôi mố
+#tường chắn (mái) nguồn nhiễu
+#tường lan can nguồn nhiễu

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hỗn hợp T
+@Lĩnh vực: điện lạnh
+#khớp nối T lai

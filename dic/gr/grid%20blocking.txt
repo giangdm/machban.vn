@@ -1,0 +1,5 @@
+﻿@grid blocking
+#(Tech) capacitor bộ điện dung chặn lưới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự chặn lưới

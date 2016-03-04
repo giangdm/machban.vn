@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#gối khớp
+#gối kiểu bản lề
+#gối tựa khớp
+@Lĩnh vực: toán & tin
+#giá gối bản lề
+@Lĩnh vực: xây dựng
+#gối kiểu khớp

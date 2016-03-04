@@ -1,0 +1,2 @@
+﻿@computer relay
+#(Tech) bộ rơle điện toán

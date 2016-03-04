@@ -1,0 +1,3 @@
+﻿@Government deficit
+#(Econ) Thâm hụt của Chính phủ.
+: Xem BUDGET DEFICIT.

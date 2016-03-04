@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#môi trường plasma
+@Lĩnh vực: điện tử & viễn thông
+#môi trường plasma ion hóa
+#môi trường thế điện tương

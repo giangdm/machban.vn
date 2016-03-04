@@ -1,0 +1,5 @@
+﻿@decimal base
+#(Tech) cơ số mười, cơ số thập phân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cơ số mười

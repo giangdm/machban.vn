@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đường cong phân phối
+#đường phân phối
+@Lĩnh vực: toán & tin
+#được phân phối
+@Lĩnh vực: xây dựng
+#đường cong phân bố
+@Lĩnh vực: điện tử & viễn thông
+#đường phân bố

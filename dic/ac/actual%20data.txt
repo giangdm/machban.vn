@@ -1,0 +1,2 @@
+﻿@actual data
+#(Tech) dữ kiện thực

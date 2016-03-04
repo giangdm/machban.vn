@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#một pha
+@Lĩnh vực: xây dựng
+#điện đơn tướng
+@Lĩnh vực: hóa học & vật liệu
+#pha đơn
+#tướng đơn
+@Lĩnh vực: vật lý
+#pha đơn, một pha

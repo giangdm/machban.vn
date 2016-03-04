@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép toán số học nhị phân
+@Lĩnh vực: điện tử & viễn thông
+#phối toán số học nhị phân

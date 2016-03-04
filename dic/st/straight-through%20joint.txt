@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hộp nối cáp thẳng
+@Lĩnh vực: điện
+#mối nối xuyên thẳng

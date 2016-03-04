@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kênh LAN chuyển tiếp
+#kênh Lan hướng phía trước

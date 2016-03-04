@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mạch xén đầu dùng điot
+@Lĩnh vực: toán & tin
+#mạch xén dùng diode

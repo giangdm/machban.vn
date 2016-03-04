@@ -1,0 +1,2 @@
+﻿@communication multiplexer
+#(Tech) bộ đa hợp truyền thông

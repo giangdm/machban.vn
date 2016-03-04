@@ -1,0 +1,4 @@
+﻿@reverson
+#[sự, phép] nghịch đảo
+#r. of a number số nghịch đảo
+#r. of a series (giải tích) sự tìm nhuỗi nghịch đảo của một chuỗi

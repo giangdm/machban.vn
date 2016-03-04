@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự truyền đồng bộ
+@Lĩnh vực: điện tử & viễn thông
+#sự truyền dẫn đồng bộ
+@Lĩnh vực: toán & tin
+#sự truyền đồng bộ (đồng thời)

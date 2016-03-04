@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tạp âm nhiệt
+@Lĩnh vực: điện lạnh
+#tiếng ồn nhiệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhiễu Johnson

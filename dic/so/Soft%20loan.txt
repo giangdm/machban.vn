@@ -1,0 +1,5 @@
+﻿@Soft loan
+#(Econ) Vốn vay ưu đãi.
+: Một khoản vay không lãi hoặc có lãi suất thấp hơn mức chi phí vốn vay.
+@Chuyên ngành kinh tế
+#khoản vay mềm

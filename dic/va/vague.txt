@@ -1,0 +1,16 @@
+﻿@vague /veig/
+*tính từ
+#mơ hồ, lờ mờ, mập mờ
+=a vague idea: ý nghĩ mơ hồ
+=to have a vague idea of: có ý kiến mơ hồ; nhớ mang máng; biết mập mờ
+=to have not the vaguest notion of something: không biết một tí gì về cái gì
+=vague answers: những câu trả lời mập mờ
+#lơ đãng (cái nhìn...)
+@Chuyên ngành kỹ thuật
+#không rõ ràng
+#mơ hồ
+@Lĩnh vực: xây dựng
+#mập mờ
+<!-- more -->
+@vague
+#mơ hồ, không rõ ràng

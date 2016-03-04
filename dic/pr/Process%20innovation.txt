@@ -1,0 +1,3 @@
+﻿@Process innovation
+#(Econ) Phát kiến về phuơng pháp (sản xuất).
+: Một thay đổi trong quan hệ giữa các tỷ lệ đầu vào của các yếu tố xản xuất một mức sản lượng nhất định.

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng trống
+@Lĩnh vực: toán & tin
+#vùng sạch
+#vùng xóa

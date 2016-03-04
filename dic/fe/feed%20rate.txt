@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tốc độ cấp liệu
+@Lĩnh vực: toán & tin
+#tốc độ đẩy giấy
+#tốc độ nạp giấy
+@Lĩnh vực: cơ khí & công trình
+#tỷ lệ bước dao
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tốc độ cấp liệu
+@Lĩnh vực: toán & tin
+#tốc độ đẩy giấy
+#tốc độ nạp giấy
+@Lĩnh vực: cơ khí & công trình
+#tỷ lệ bước dao

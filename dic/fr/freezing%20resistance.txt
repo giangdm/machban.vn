@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#độ bền lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ chịu kết đông
+#trở kháng đông lạnh

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#biến điệu biên độ
+#điều biên
+#điều chế
+@Lĩnh vực: toán & tin
+#sự điều chế biên độ

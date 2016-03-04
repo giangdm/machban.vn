@@ -1,0 +1,2 @@
+﻿@electron transition
+#(Tech) chuyển tiếp điện tử

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đa truy cập phân chia thời gian-TDMA
+@Lĩnh vực: điện lạnh
+#đa truy cập phân thời gian

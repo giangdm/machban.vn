@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu nối dây cáp
+@Lĩnh vực: vật lý
+#cụm cáp (quang)
+@Lĩnh vực: toán & tin
+#gộp cáp
+@Lĩnh vực: điện tử & viễn thông
+#sự ráp cáp

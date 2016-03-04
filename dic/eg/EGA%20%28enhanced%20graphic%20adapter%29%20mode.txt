@@ -1,0 +1,2 @@
+﻿@EGA (enhanced graphic adapter) mode
+#(Tech) kiểu EGA, chế độ EGA [TN]

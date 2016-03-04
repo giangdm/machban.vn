@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đổi đầu lấy điện (không phải đầu mút)
+#đổi nối ra
+@Lĩnh vực: điện
+#thay đổi đầu ra

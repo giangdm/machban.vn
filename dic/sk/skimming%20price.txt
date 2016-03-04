@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giá gạn kem (giá trước cao sau thấp để thu lợi lúc đầu)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giá hớt

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bó phân tử hấp thụ
+#bó thanh hấp thụ

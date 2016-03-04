@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thử độ bền
+#sự thử độ bền mỏi
+#thí nghiệm mỏi
+@Lĩnh vực: hóa học & vật liệu
+#phép thử độ mỏi
+@Lĩnh vực: cơ khí & công trình
+#sự thử độ bền rung
+@Lĩnh vực: xây dựng
+#sự thử nghiệm mỏi
+@Chuyên ngành kỹ thuật
+#sự thử độ bền
+#sự thử độ bền mỏi
+#thí nghiệm mỏi
+@Lĩnh vực: hóa học & vật liệu
+#phép thử độ mỏi
+@Lĩnh vực: cơ khí & công trình
+#sự thử độ bền rung
+@Lĩnh vực: xây dựng
+#sự thử nghiệm mỏi

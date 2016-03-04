@@ -1,0 +1,7 @@
+﻿@codec (coder-decoder)
+#(Tech) bộ biên-giải mã
+@Chuyên ngành kỹ thuật
+#bộ giải mã
+#bộ lập-giải mã
+#bộ mã hóa
+#bộ mã hóa-giải mã

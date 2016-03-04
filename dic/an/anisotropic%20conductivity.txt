@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tính dẫn dị hướng
+@Lĩnh vực: điện lạnh
+#tính dẫn điện dị hướng

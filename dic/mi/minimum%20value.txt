@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giá trị tối thiểu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị cực tiểu
+#giá trị thấp nhất
+#giá trị tối thiểu

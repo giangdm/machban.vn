@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#xác xuất phức hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#xác suất đầy đủ

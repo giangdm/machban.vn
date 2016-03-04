@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phân bổ áp suất
+@Lĩnh vực: xây dựng
+#phân bố áp lực
+#sự phân bố áp lực
+#sự phân bố áp suất
+@Lĩnh vực: toán & tin
+#phân bố áp suất

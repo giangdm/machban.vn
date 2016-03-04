@@ -1,0 +1,5 @@
+﻿@Accelerator principle
+#(Econ) Nguyên lý gia tốc.
+: Nguyên lý cho rằng mức đầu tư ròng phụ thuộc vào mức thay đổi dự kiến về sản lượng.
+@Chuyên ngành kinh tế
+#nguyên lý gia tốc

@@ -1,0 +1,5 @@
+﻿@handedness
+*danh từ
+#khuynh hướng chỉ dùng một tay
+@Chuyên ngành kỹ thuật
+#sự thuận tay

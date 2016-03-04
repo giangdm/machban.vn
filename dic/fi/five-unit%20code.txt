@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hàng mã năm giá trị
+#mã năm
+@Lĩnh vực: điện tử & viễn thông
+#mã có năm đơn vị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hàng mã năm giá trị
+#mã năm
+@Lĩnh vực: điện tử & viễn thông
+#mã có năm đơn vị

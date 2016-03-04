@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ứng suất thiết kế
+@Lĩnh vực: cơ khí & công trình
+#ứng suất tính toán

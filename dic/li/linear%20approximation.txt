@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phép gần đúng tuyến tính
+@Lĩnh vực: toán & tin
+#phép xấp xỉ tuyến tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phép gần đúng tuyến tính
+@Lĩnh vực: toán & tin
+#phép xấp xỉ tuyến tính

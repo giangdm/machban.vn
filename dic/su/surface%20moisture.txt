@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bề mặt
+@Lĩnh vực: điện lạnh
+#độ ẩm bề mặt
+@Lĩnh vực: xây dựng
+#độ ẩm bền ngoài

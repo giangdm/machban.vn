@@ -1,0 +1,3 @@
+﻿@Agricultural Wage Boards
+#(Econ) Các hội đồng tiền công trong nông nghiệp.
+: Các cơ quan do pháp luật quy định mức lương tối thiểu  đối với những người làm nông nghiệp ở Anh, xứ Wales và Scotland cùng một cách chính thức như các hội đồng tiền công.

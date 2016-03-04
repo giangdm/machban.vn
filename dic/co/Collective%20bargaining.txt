@@ -1,0 +1,6 @@
+﻿@Collective bargaining
+#(Econ) Thương lượng tập thể.
+: Đàm phán giữa chủ và các công nhân về việc hình thành các thủ tục và luật lệ bao hàm các điều kiện về làm việc và lương. Xem NATIONAL BARGAINING, COMPANY BARGAINING và PLANT BARGAINING.
+@Chuyên ngành kinh tế
+#đàm phán tập thể
+#mặc cả tập thể

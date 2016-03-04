@@ -1,0 +1,7 @@
+﻿@control board
+#(Tech) bảng điều khiển
+@Chuyên ngành kỹ thuật
+#bảng điều khiển
+#sự thử nghiệm kiểm tra
+@Lĩnh vực: điện
+#tủ (bảng) điều khiển

@@ -1,0 +1,6 @@
+﻿@Price index
+#(Econ) Chỉ số giá.
+: Một số chỉ số cho thấy giá của một tập hợp hàng hoá đã thay đổi thế nào từ một thời kỳ nào đó tới thời kỳ tiếp theo.
+@Chuyên ngành kinh tế
+#chỉ số giá cả
+#chỉ số vật giá

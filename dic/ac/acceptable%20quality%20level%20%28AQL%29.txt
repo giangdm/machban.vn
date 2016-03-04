@@ -1,0 +1,4 @@
+﻿@acceptable quality level (AQL)
+#(Tech) mức độ phẩm chất chấp nhận được
+@Chuyên ngành kỹ thuật
+#mức chất lượng chấp nhận được

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đầm rung nhiều tần số
+#máy rung nhiều tần số

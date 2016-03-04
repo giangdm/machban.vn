@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ lệch từ
+@Lĩnh vực: toán & tin
+#sự lái tia bằng từ
+#sự làm lệch bằng từ
+@Lĩnh vực: vật lý
+#sự lệch vì từ tính

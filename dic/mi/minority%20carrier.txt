@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hạt tải phụ
+#phần tử tải thứ yếu
+@Lĩnh vực: điện lạnh
+#hạt dẫn thiểu số
+@Lĩnh vực: điện
+#phần tử tải thiểu số

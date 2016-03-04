@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sức bền cắt
+#sức chống cắt
+@Lĩnh vực: xây dựng
+#cường độ chịu cắt
+@Lĩnh vực: giao thông & vận tải
+#sức bền chịu cắt
+@Lĩnh vực: cơ khí & công trình
+#sức kháng cắt

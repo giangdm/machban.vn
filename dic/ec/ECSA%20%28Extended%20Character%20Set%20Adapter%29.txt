@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều hợp tập ký tự mở rộng
+#bộ thích ứng tập ký tự mở rộng

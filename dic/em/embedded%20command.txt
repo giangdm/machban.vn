@@ -1,0 +1,12 @@
+﻿@embedded command
+#(Tech) lệnh gài trong
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lệnh lồng
+#lệnh lồng vào
+#lệnh nhúng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lệnh lồng
+#lệnh lồng vào
+#lệnh nhúng

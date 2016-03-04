@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#băng đã xóa dữ liệu
+#cuộn băng tạm thời

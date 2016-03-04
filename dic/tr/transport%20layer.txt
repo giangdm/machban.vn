@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lớp chuyển tải
+#lớp vận chuyển
+#tầng giao vận
+#tầng vận tải

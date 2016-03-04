@@ -1,0 +1,2 @@
+﻿@backplane  = motherboard = system board
+#(Tech) bảng sau [TQ], bảng chính, bảng hệ thống

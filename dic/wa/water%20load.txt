@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tải nước (ở đầu cuôi ống dẫn sóng thích ứng)
+@Lĩnh vực: xây dựng
+#tải trọng nước
+#tải trọng nước (tĩnh, động)
+#tải trọng thủy tĩnh

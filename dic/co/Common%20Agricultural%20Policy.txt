@@ -1,0 +1,5 @@
+﻿@Common Agricultural Policy
+#(Econ) Chính sách nông nghiệp chung.
+: Hệ thống chung về trợ giá và trợ cấp nông nghiệp do CỘNG ĐỒNG CHÂU ÂU áp dụng. Chính sách này nhằm khuyến khích điều kiện thị trường nông nghiệp ổn định, đảm bảo lợi ích công bằng cho nông dân, duy trì giá cả hợp lý cho người tiêu dùng và áp dụng các chính sách đã được xây dựng để tăng sản lượng và năng suất lao động trong ngành nông nghiệp của cộng đồng.
+@Chuyên ngành kinh tế
+#chính sách nông nghiệp chung

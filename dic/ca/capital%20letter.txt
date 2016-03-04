@@ -1,0 +1,12 @@
+﻿@capital letter
+#(Tech) chữ hoa
+@Chuyên ngành kinh tế
+#chữ hoa
+@Chuyên ngành kỹ thuật
+#chữ hoa
+@Lĩnh vực: toán & tin
+#chữ (cái) hoa
+@Lĩnh vực: điện tử & viễn thông
+#chữ viết hoa
+@Lĩnh vực: xây dựng
+#văn tự kiểu hoa

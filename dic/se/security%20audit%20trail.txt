@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#theo dõi kiểm định an ninh
+#theo dõi kiểm định an toàn
+#theo dõi kiểm định bảo mật

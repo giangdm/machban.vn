@@ -1,0 +1,5 @@
+﻿@brush angle
+#(Tech) góc chổi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#góc tiếp xúc chổi than

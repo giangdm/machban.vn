@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#biên phân cách
+@Lĩnh vực: xây dựng
+#ranh giới phân cách

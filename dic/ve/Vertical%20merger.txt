@@ -1,0 +1,8 @@
+﻿@Vertical merger
+#(Econ) Sáp nhập chiều dọc.
+: Việc sáp nhập hai hãng sản xuất các sản phẩm thuộc về nhiều giai đoạn khác nhau của cùng một quá trình sản xuất.
+@Chuyên ngành kinh tế
+#hợp nhất dọc
+#sát nhập miễn thuế
+#sự hợp nhất (các công ty) theo hàng dọc
+#sự sát nhập theo chiều dọc

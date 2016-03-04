@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#ống không có mạch nối
+#ống không có mối nối
+#ống không hàn
+#ống liền
+@Lĩnh vực: xây dựng
+#ống kéo liền

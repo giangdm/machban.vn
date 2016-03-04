@@ -1,0 +1,4 @@
+﻿@buffer area
+#(Tech) khu vực đệm
+@Chuyên ngành kỹ thuật
+#vùng đệm

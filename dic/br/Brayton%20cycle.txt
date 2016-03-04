@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chu trình Brayton
+@Lĩnh vực: điện lạnh
+#chu trình Joule

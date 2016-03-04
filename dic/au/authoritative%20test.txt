@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thử nghiệm bắt buộc
+#thử nghiệm theo qui định

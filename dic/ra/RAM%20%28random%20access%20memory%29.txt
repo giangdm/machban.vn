@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ truy nhập ngẫu nhiên
+@Lĩnh vực: toán & tin
+#bộ nhớ truy cập ngẫu nhiên ( RAM)

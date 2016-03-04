@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đầu máy điện-điêzen
+@Lĩnh vực: điện
+#đầu máy diesel
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đầu máy điện-điêzen
+@Lĩnh vực: điện
+#đầu máy diesel

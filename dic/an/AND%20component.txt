@@ -1,0 +1,2 @@
+﻿@AND component
+#(Tech) thành phần VÀ, thành phần hội

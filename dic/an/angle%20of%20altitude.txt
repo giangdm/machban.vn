@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#góc đứng
+#góc tà
+@Lĩnh vực: cơ khí & công trình
+#độ cao góc
+@Lĩnh vực: xây dựng
+#góc nối đỉnh
+@Lĩnh vực: giao thông & vận tải
+#góc siêu cao

@@ -1,0 +1,2 @@
+﻿@parameterise
+#Cách viết khác : parametrize

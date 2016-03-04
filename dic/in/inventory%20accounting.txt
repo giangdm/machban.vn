@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hạch toán tôn kho
+#kế toán kho hàng
+#kế toán tồn kho

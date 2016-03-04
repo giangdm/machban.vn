@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#phản xạ từ biển
+#vệt dội tạp do biển
+@Lĩnh vực: điện
+#mạch về bằng biển
+@Lĩnh vực: điện lạnh
+#về qua biển
+#vệt dội tạp do sóng (ở rađa trên máy bay)

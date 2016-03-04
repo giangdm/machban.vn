@@ -1,0 +1,2 @@
+﻿@compressed character
+#(Tech) ký tự nén

@@ -1,0 +1,4 @@
+﻿@decimal digit
+#(Tech) số tự thập phân
+@Chuyên ngành kỹ thuật
+#số thập phân

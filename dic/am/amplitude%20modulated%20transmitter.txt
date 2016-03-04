@@ -1,0 +1,2 @@
+﻿@amplitude modulated transmitter
+#(Tech) máy phát biến điệu biên (độ), máy phát điều biên

@@ -1,0 +1,2 @@
+﻿@field programmable gate array (FPGA)
+#(Tech) mạng luận lý có trường khả chương

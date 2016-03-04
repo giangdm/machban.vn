@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#dẫn điện Townsend
+@Lĩnh vực: điện
+#sự dẫn điện kiểu Townsend

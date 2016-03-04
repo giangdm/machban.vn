@@ -1,0 +1,4 @@
+﻿@plotomat
+#(máy tính) dụng cụ vẽ tự động các đường cong
+@Chuyên ngành kỹ thuật
+#máy vẽ đường cong

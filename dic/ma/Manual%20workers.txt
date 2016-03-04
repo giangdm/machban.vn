@@ -1,0 +1,3 @@
+﻿@Manual workers
+#(Econ) Lao động chân tay.
+: Là những nhân viên làm các công việc chân tay và được trả tiền công theo tuần.

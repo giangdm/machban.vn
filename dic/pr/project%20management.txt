@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#quản lý dự án
+#quản lý dự án (công trình)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#quản lý công trình
+#quản lý dự án

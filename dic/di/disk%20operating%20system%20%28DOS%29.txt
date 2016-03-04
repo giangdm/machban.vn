@@ -1,0 +1,8 @@
+﻿@disk operating system (DOS)
+#(Tech) hệ thống điều hành đĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ vận hành (dùng) đĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ điều hành (đĩa)

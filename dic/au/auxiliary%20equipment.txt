@@ -1,0 +1,9 @@
+﻿@auxiliary equipment
+#(Tech) thiết bị phụ
+@Chuyên ngành kinh tế
+#thiết bị phụ trợ
+@Chuyên ngành kỹ thuật
+#thiết bị bổ sung
+#thiết bị hỗ trợ
+@Lĩnh vực: toán & tin
+#dụng cụ hỗ trợ

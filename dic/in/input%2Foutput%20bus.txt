@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#buýt nhập/xuất
+#buýt vào/ra
+#đường truyền dẫn ra/vào
+#kênh vào/ra

@@ -1,0 +1,3 @@
+﻿@Condorcet Criterion
+#(Econ) Tiêu chuẩn gà chọi; Tiêu chuẩn Condorcet
+: Một hệ thống lựa chọn tập thể, trong đó phương án được lựa chọn là phương án đánh bại tất cả những phương án khác trong chuỗi các cuộc lựa chọn từng đôi một sử dụng những quy tắc đa số.

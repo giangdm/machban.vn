@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#khóa sổ để thanh toán lợi tức cổ phần
+#sự khóa sổ tạm để trả cổ tức

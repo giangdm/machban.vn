@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#kế toán tròn chẵn
+#kế toán tròn chẵn (phương pháp kế toán bỏ số nhỏ lẻ ở sau)

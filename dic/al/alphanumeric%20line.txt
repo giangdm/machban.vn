@@ -1,0 +1,2 @@
+﻿@alphanumeric line
+#(Tech) dòng chữ-số

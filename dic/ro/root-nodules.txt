@@ -1,0 +1,4 @@
+﻿@root-nodules
+*danh từ
+#số nhiều
+#nốt rễ

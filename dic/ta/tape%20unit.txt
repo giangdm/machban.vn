@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#ổ băng từ
+@Chuyên ngành kỹ thuật
+#thiết bị băng
+@Lĩnh vực: toán & tin
+#bộ băng từ

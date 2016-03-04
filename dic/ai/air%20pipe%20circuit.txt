@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sơ đồ đường ống gió
+#sơ đồ đường ống không khí

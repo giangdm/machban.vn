@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhà máy nước đá
+#máy làm đá
+@Lĩnh vực: điện lạnh
+#máy [hệ thống] sản xuất nước đá
+#máy lạnh đông để làm đá

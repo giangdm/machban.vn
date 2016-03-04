@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bề mặt trao đổi nhiệt
+@Lĩnh vực: điện lạnh
+#diện tích trao đổi nhiệt
+@Lĩnh vực: xây dựng
+#mặt trao đổi nhiệt

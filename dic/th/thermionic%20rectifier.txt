@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ chỉnh lưu electron nhiệt
+@Lĩnh vực: điện lạnh
+#bộ chỉnh lưu iôn nhiệt
+#kenotron

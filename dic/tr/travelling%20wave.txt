@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sóng chạy
+#sóng lan truyền
+#sóng truyền tới

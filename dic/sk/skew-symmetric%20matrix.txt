@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ma trận đối xứng xiên
+@Lĩnh vực: xây dựng
+#ma trận phản đối xứng

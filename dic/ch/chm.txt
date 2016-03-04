@@ -1,0 +1,4 @@
+﻿@chm
+*(viết tắt)
+#Cao học phẫu thuật (Master of Surgery)
+=to have a ChM:có bằng cao học phẫu thuật

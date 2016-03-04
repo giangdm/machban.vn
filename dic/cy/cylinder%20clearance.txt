@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thể tích chết
+@Lĩnh vực: điện lạnh
+#khoảng chết
+#thể tích có hại
+@Lĩnh vực: cơ khí & công trình
+#khoảng trống (có hại) trong xylanh

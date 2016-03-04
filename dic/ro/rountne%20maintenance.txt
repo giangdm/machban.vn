@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự bảo trì định kỳ
+#sự bảo trì thường lệ

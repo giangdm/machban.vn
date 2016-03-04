@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ray nối dẫn (nằm giữa gót lưỡi ghi và tâm ghi)
+@Lĩnh vực: xây dựng
+#sự cố kết đầu tiên

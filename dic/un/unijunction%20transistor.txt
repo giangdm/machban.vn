@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tranzito đơn chuyển tiếp (khả lập trình)
+@Lĩnh vực: điện lạnh
+#tranzito đơn tiếp xúc
+#tranzito một lớp chuyển tiếp
+@Lĩnh vực: điện
+#tranzito một tiếp giáp

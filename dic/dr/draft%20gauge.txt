@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo lực gió
+#máy đo tỷ trọng khí
+#máy thủy tĩnh đo chiều sâu
+@Lĩnh vực: đo lường & điều khiển
+#áp kế thông gió

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch sơ cấp
+@Lĩnh vực: xây dựng
+#chu trình chính
+@Lĩnh vực: điện
+#mạch nhất thứ
+@Lĩnh vực: ô tô
+#mạch sơ cấp (của hệ thống đánh lửa)

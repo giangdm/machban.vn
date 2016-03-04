@@ -1,0 +1,10 @@
+﻿@Industrialization
+#(Econ) Công nghiệp hoá (ở các nước đang phát triển).
+: Sự phát triển của các ngành công nghiệp được coi là chiến lược phát triển chung.
+<!-- more -->
+@industrialization /in,dʌstriəlai'zeiʃn/
+*danh từ
+#sự công nghiệp hoá
+@Chuyên ngành kinh tế
+#công nghiệp hóa
+#sự công nghiệp hóa

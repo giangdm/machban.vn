@@ -1,0 +1,5 @@
+﻿@Decision rule
+#(Econ) Quy tắc ra quyết định
+: Một tiêu chuẩn sử dụng trong việc chọn lựa, như có tiến hành một dự án hay không hoặc định giá các sản phẩm đầu ra như thế nào.
+@Chuyên ngành kinh tế
+#quy tắc quyết định

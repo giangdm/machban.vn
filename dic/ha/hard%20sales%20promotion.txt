@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bán hàng có tính tiến công
+#bán hàng có tính tiền công
+#cách bán hàng cứng

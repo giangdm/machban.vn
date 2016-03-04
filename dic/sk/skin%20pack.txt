@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bao gói màng mỏng
+#gói có lớp bọc
+#kiện có lớp bọc

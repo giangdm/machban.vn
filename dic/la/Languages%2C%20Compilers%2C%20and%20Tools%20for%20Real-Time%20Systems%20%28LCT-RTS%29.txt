@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#các ngôn ngữ, các bộ biên dịch và các công cụ dùng cho các hệ thống thời gian thực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#các ngôn ngữ, các bộ biên dịch và các công cụ dùng cho các hệ thống thời gian thực

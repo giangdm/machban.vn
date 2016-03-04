@@ -1,0 +1,13 @@
+﻿@assembly language
+#(Tech) hợp ngữ, ngôn ngữ tổ hợp
+@Chuyên ngành kinh tế
+#hợp ngữ (vi tính)
+#ngôn ngữ a-xăm-blơ
+@Chuyên ngành kỹ thuật
+#hợp ngữ
+#ngôn ngữ ráp
+@Lĩnh vực: toán & tin
+#ngôn ngữ assembly
+#ngôn ngữ kết hợp
+@Lĩnh vực: xây dựng
+#ráp ngữ

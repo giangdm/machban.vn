@@ -1,0 +1,5 @@
+﻿@amplitude balance
+#(Tech) cân bằng biên độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự cân bằng biên độ

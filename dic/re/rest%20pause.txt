@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dừng phục hồi
+#độ dừng thư giãn
+#độ mỏi cho phép
+#độ thư giãn được phép

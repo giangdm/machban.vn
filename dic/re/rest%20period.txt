@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian nghỉ
+@Lĩnh vực: giao thông & vận tải
+#chu kỳ nghỉ
+#thời kỳ nghỉ
+@Lĩnh vực: cơ khí & công trình
+#thời gian không mưa
+@Lĩnh vực: xây dựng
+#thời kỳ nghỉ ngơi

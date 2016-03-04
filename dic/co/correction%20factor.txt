@@ -1,0 +1,5 @@
+﻿@correction factor
+#(Tech) hệ số điều chỉnh
+@Chuyên ngành kỹ thuật
+#hệ số điều chỉnh
+#hệ số hiệu chỉnh

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#dự tính tuổi thọ
+#tuổi thọ dự tính
+#tuổi thọ dự tính (của công ty bảo hiểm...)
+#tuổi thọ kỳ vọng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kỳ vọng sinh tồn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kỳ vọng sinh tồn

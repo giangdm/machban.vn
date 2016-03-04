@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mật độ ở trong căn hộ
+#số người ở trong căn hộ

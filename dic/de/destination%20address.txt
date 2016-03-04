@@ -1,0 +1,6 @@
+﻿@destination address
+#(Tech) địa chỉ nơi nhận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#địa chỉ đến
+#địa chỉ đích

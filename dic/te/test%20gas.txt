@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khí lấy mẫu
+#khí thử nghiệm
+@Lĩnh vực: hóa học & vật liệu
+#khí thử

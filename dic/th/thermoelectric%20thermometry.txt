@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đo nhiệt theo hiệu ứng nhiệt điện
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt kế (làm việc theo hiệu ứng) nhiệt điện

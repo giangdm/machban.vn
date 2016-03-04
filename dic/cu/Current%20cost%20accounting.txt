@@ -1,0 +1,5 @@
+﻿@Current cost accounting
+#(Econ) Hạch toán theo chi phí hiện tại.
+: Xem INFLATION ACCOUNTING.
+@Chuyên ngành kinh tế
+#kế toán theo chi phí hiện tại

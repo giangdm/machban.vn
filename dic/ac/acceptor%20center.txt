@@ -1,0 +1,2 @@
+﻿@acceptor center
+#(Tech) trung tâm tiếp nhận

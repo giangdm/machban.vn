@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#trọng lượng riêng khô lớn nhất
+@Lĩnh vực: toán & tin
+#tỷ trọng riêng khô lớn nhất

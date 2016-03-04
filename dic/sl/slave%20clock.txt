@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đồng hồ phụ
+@Lĩnh vực: điện
+#đồng hồ phụ thuộc
+@Lĩnh vực: điện tử & viễn thông
+#đồng hồ thụ động

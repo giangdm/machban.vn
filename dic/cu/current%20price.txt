@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giá hiện hành
+#giá hiện hành thời giá
+@Chuyên ngành kỹ thuật
+#thị trường
+@Lĩnh vực: điện tử & viễn thông
+#giá hiện hành
+@Lĩnh vực: xây dựng
+#thời giá

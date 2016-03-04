@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ký hiệu quan hệ
+#toán tử quan hệ
+@Lĩnh vực: xây dựng
+#vận hành viên tương quan

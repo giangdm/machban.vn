@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện tín đi
+@Lĩnh vực: điện tử & viễn thông
+#điện tín mang đi

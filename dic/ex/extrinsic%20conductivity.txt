@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#độ dẫn điện không thuần
+#độ dẫn điện tạp chất
+#tính dẫn điện ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#độ dẫn điện không thuần
+#độ dẫn điện tạp chất
+#tính dẫn điện ngoài

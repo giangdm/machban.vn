@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bình giá hối đoái
+#bình giá ngoại hối
+#hối suất cố định
+#tỷ giá hối đoạn danh nghĩa (theo lý thuyết)

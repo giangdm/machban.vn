@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hối phiếu định kỳ
+#hối phiếu kỳ hạn
+#hối phiếu kỳ hạn (phải thanh toán sau một thời hạn xác định)

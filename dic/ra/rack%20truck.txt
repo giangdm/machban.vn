@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giá có nhiều ngăn di động
+#xe giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#xe đẩy có giá đỡ

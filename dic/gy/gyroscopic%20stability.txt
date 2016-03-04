@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#độ ổn định con quay
+#độ ổn định hồi chuyển
+#sự ổn định con quay
+#sự ổn định hồi chuyển
+#tính ổn định con quay
+#tính ổn định hồi chuyển

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ cao cột nước
+#mức áp lực nước
+@Lĩnh vực: xây dựng
+#chiều cao đo áp
+#mức cột nước

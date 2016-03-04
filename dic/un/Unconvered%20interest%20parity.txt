@@ -1,0 +1,3 @@
+﻿@Unconvered interest parity
+#(Econ) Lãi suất ngang bằng chưa tính.
+: Trong một chế độ tỷ giá hối đoái linh hoạt khi các nhà đầu tư bàng quan với rủi ro và không tự bảo vệ họ khỏi những rủi ro của tỷ giá trong THỊ TRƯỜNG KỲ HẠN, yêu cầu rằng giá giao ngay trong tương lai của một đồng tiêng khác với giá giao ngay hiện tại bằng một lượng vừa đúng để làm đối trong với mức chênh lệch lãi suất giữa hai quốc gia.

@@ -1,0 +1,4 @@
+﻿@assembling time
+#(Tech) thời gian dịch mã số
+@Chuyên ngành kỹ thuật
+#thời gian dịch hợp ngữ

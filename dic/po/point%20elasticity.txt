@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tính co dãn điểm
+#tính co giãn điểm
+#tính đàn hồi điểm

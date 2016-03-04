@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp Mollerhoj
+@Lĩnh vực: điện lạnh
+#cáp Mollerhoj (loại có cáp)

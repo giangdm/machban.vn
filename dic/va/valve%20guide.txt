@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#ống kiềm xú bắp
+@Lĩnh vực: vật lý
+#cấu dẫn hướng van
+@Lĩnh vực: điện lạnh
+#dẫn hướng van
+#sự dẫn hướng van
+@Lĩnh vực: ô tô
+#đường dẫn hướng xupáp
+#ống kềm xú páp
+@Lĩnh vực: cơ khí & công trình
+#ống kềm (dẫn hướng) xupáp

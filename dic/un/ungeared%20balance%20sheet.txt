@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bảng tổng kết tài sản không nợ
+#bảng tổng kết tài sản rất cân bằng
+#bảng tổng kết tài sản rất cân bằng (giữa vốn tự có và nợ)

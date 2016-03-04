@@ -1,0 +1,5 @@
+﻿@Seasonal adjustment
+#(Econ) Điều chỉnh thời vụ.
+: Tên gọi của bất kỳ một quy trình nào trong đó có tác động thời vụ được tính đến hoặc thường hay được loại bỏ khỏi dự liệu.
+@Chuyên ngành kinh tế
+#sự điều chỉnh theo từng mùa, theo thời vụ, có tính mùa tiết

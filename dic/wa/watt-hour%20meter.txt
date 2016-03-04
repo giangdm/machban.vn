@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ đo điện
+@Lĩnh vực: điện
+#công tơ điện
+#đồng hồ oát-giờ
+#máy đo oát-giờ
+#watt-giờ kế
+@Lĩnh vực: đo lường & điều khiển
+#oát giờ kế

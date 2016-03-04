@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#theo như khoản đối
+#theo như khoản ghi đối (trên bản kế toán)

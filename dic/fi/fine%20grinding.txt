@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#sự nghiền mịn
+#sự xay mịn
+@Chuyên ngành kỹ thuật
+#sự nghiền mịn
+#sự nghiền nhỏ
+#sự nghiền vụn
+@Lĩnh vực: hóa học & vật liệu
+#sự mài mịn
+@Chuyên ngành kỹ thuật
+#sự nghiền mịn
+#sự nghiền nhỏ
+#sự nghiền vụn
+@Lĩnh vực: hóa học & vật liệu
+#sự mài mịn

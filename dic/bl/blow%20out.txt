@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#dập tắt
+#làm nổ
+@Lĩnh vực: điện
+#tắt (hồ quang)
+@Lĩnh vực: điện lạnh
+#thổi tắt
+#triệt
+@Lĩnh vực: cơ khí & công trình
+#tia lửa hàn

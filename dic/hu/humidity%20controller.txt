@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bộ điều chỉnh độ ẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ điều chỉnh độ ẩm

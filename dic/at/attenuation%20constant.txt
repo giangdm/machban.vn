@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#hằng số suy giảm
+#hằng số tắt dần

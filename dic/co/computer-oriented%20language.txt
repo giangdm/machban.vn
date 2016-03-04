@@ -1,0 +1,6 @@
+﻿@computer-oriented language
+#(Tech) ngôn ngữ hướng máy điện toán
+@Chuyên ngành kỹ thuật
+#ngôn ngữ hướng máy tính
+@Lĩnh vực: toán & tin
+#ngôn ngữ máy (tính)

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực gối
+#áp lực tựa
+#phản lực gối
+@Lĩnh vực: xây dựng
+#áp lực gối tựa
+#áp lực mang

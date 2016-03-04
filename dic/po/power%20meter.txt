@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công tơ điện năng
+#đồng hồ điện năng
+@Lĩnh vực: đo lường & điều khiển
+#oát kế

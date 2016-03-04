@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều kiện bán ngập
+#trạng thái (điều kiện) bán ngập
+#trạng thái bán ngập
+#trạng thái ngập từng phần
