@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lệnh vô tác
+@Lĩnh vực: toán & tin
+#lệnh không làm gì
+#lệnh NOOP

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dòng anode
+@Lĩnh vực: điện
+#dòng điện dương cực

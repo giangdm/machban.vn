@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lọc nhiễu
+#bộ lọc tạp nhiễu
+@Lĩnh vực: điện lạnh
+#bộ lọc giao thoa
+#hệ thống lọc sắc giao thoa
+@Lĩnh vực: toán & tin
+#cái lọc giao thoa

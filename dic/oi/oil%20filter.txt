@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#bình lọc nhớt
+#bộ lọc dầu
+#phễu lọc dầu
+#thiết bị lọc dầu
+@Lĩnh vực: ô tô
+#bộ lọc dầu (nhớt)
+#lọc dầu
+@Lĩnh vực: điện
+#máy lọc dầu
+@Lĩnh vực: điện lạnh
+#phin lọc dầu

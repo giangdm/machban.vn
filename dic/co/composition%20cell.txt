@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phần tử bố cục
+#phần tử hợp thành
+@Lĩnh vực: toán & tin
+#phần tử tổ hợp

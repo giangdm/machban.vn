@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điểm nối sao
+@Lĩnh vực: điện lạnh
+#điểm nối sao (của các cuộn dây)

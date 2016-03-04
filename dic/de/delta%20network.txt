@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mạng đenta
+#mạng tam giác
+@Lĩnh vực: điện
+#mạch đenta
+@Lĩnh vực: toán & tin
+#mạng delta

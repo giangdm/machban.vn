@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#quạt đẩy thải
+#quạt hút
+#quạt hút gió
+@Lĩnh vực: điện lạnh
+#thiết bị hút thông gió

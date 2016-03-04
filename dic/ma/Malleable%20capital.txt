@@ -1,0 +1,6 @@
+﻿@Malleable capital
+#(Econ) Vốn uyển chuyển
+: Là một giả định về bản chất của vốn hiện vật thường sử dụng trong kinh tê học cổ điển, theo đó các vật liêu hình thành nên một cỗ máy cụ thể có thể được thay đổi ngay lập tức và không hề tốn kém thành một cỗ máy khác.
+@Chuyên ngành kinh tế
+#dễ uốn nắn
+#vốn dễ cuốn nắm

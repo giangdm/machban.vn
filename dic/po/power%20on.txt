@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự mở máy
+@Lĩnh vực: điện
+#đóng điện
+@Lĩnh vực: toán & tin
+#sự mỏ nguồn

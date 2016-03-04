@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#các khoản tiền rủi ro
+#tiền bù lỗ do sai sót

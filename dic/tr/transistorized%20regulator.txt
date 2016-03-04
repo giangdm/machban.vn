@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#bộ điều chỉnh tranzito hóa
+#bộ ổn định tranzito hóa

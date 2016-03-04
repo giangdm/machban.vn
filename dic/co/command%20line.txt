@@ -1,0 +1,7 @@
+﻿@command line
+#(Tech) hàng lệnh, dòng điều khiển
+@Chuyên ngành kỹ thuật
+#dòng lệnh
+#đường truyền lệnh
+@Lĩnh vực: xây dựng
+#đường lệnh

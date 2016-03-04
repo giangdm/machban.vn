@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cấu hình (mạng) vòng
+#cấu trúc liên kết vòng
+#tôpô mạng vòng

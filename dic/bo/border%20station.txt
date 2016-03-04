@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#trạm biên giới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#ga biên giới

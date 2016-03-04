@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dài chuẩn đo
+@Lĩnh vực: cơ khí & công trình
+#chiều dài đo (theo calip)

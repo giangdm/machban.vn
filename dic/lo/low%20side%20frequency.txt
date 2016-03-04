@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tần số biên dưới
+@Lĩnh vực: xây dựng
+#tần số cận dưới

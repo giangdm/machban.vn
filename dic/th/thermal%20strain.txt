@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng nhiệt
+@Lĩnh vực: xây dựng
+#biến dạng do nhiệt

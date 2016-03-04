@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự phân bổ tài nguyên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự phân bố tài nguyên

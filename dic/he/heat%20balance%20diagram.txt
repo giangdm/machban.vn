@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#giản đồ cân bằng nhiệt
+#sơ đồ cân bằng nhiệt

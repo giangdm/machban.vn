@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lọc khí
+#bộ lọc không khí
+#lọc gió
+#máy lọc không khí
+#thiết bị làm sạch
+#thiết bị lọc không khí
+@Lĩnh vực: cơ khí & công trình
+#bình lọc không khí
+@Lĩnh vực: xây dựng
+#cái lọc không khí
+@Lĩnh vực: điện lạnh
+#phin lọc không khí

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phóng điện phát sáng
+@Lĩnh vực: hóa học & vật liệu
+#dẫn điện tỏa sáng
+@Lĩnh vực: điện
+#phóng điện chớp sáng
+#sự phóng điện tỏa sáng
+@Lĩnh vực: vật lý
+#phóng điện phát sáng

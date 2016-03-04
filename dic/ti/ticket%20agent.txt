@@ -1,0 +1,5 @@
+﻿@ticket agent
+*thành ngữ agent
+@Chuyên ngành kinh tế
+#đại lý bán vé
+#nhân viên bán vé

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#trái khoán ngắn hạn (trong vòng thời gian 5 năm)
+#trái phiếu ngắn hạn
+#trái phiếu ngắn hạn (trong vòng thời gian 5 năm)

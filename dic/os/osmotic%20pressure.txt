@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#áp suất thẩm thấu
+@Chuyên ngành kỹ thuật
+#áp lực thấm
+#áp lực thẩm thấu
+#áp suất thẩm thấu

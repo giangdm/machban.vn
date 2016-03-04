@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểu
+#mẫu
+#mô hình
+@Lĩnh vực: toán & tin
+#loại dữ liệu

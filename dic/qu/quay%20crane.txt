@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#cần cẩu bến cảng
+#cần cẩu khe
+@Lĩnh vực: cơ khí & công trình
+#cần trục (trên) bến cảng
+@Lĩnh vực: xây dựng
+#máy trục ở bến tàu

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phát theo thời gian
+@Lĩnh vực: điện tử & viễn thông
+#bộ phát khoảng thời gian
+#bộ tạo dao động chủ
+#máy phát định thời
+@Lĩnh vực: toán & tin
+#máy tạo sóng định thời

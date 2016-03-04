@@ -1,0 +1,3 @@
+﻿@Value marginal physical product
+#(Econ) Sản phẩm vật chất giá trị biên.
+: Xem MARGINAL REVENUE PRODUCT.

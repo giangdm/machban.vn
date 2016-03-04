@@ -1,0 +1,2 @@
+﻿@DCE (Data Communication Equipment)
+#(Tech) thiết bị truyền thông dữ liệu

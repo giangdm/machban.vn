@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự in ảnh đảo
+@Lĩnh vực: toán & tin
+#sự in ngược

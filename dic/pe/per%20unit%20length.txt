@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#mỗi đơn vị độ dài
+@Lĩnh vực: vật lý
+#trên độ dài đơn vị
+#trên đơn vị độ dài

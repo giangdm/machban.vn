@@ -1,0 +1,7 @@
+﻿@initialization
+#khởi tạo
+@Chuyên ngành kỹ thuật
+#khởi động
+#khởi tạo
+@Lĩnh vực: toán & tin
+#sự khởi tạo

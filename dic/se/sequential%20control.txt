@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều khiển tuần tự
+@Lĩnh vực: toán & tin
+#sự điều khiển tuần tự

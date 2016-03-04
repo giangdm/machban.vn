@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#ngày liên tục (điều kiện về thời gian xếp dỡ hàng, thuê tàu)
+#ngày liên tục (thuê tàu)

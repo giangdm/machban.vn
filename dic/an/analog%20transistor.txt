@@ -1,0 +1,5 @@
+﻿@analog transistor
+#(Tech) đèn tinh thể tương tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tranzito tương tự

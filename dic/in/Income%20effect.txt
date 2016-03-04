@@ -1,0 +1,6 @@
+﻿@Income effect
+#(Econ) Hiệu ứng thu nhập, ảnh hưởng thu nhập.
+: Một sự thay đổi giá cả của một hàng hoá sẽ làm giảm hay tăng thu nhập thực tế của người tiêu dùng.
+@Chuyên ngành kinh tế
+#hiệu quả của lợi tức
+#hiệu ứng lợi tức

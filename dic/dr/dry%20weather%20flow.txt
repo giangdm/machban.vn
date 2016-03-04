@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#chảy sông mùa khô
+#dòng chảy mùa khô
+#lưu lượng mùa khô
+#lưu lượng sông mùa khô
+@Lĩnh vực: môi trường
+#lưu lượng nước mùa khô

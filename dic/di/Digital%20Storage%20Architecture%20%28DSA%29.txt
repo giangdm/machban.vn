@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kiến trúc bộ nhớ số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiến trúc bộ nhớ dạng số

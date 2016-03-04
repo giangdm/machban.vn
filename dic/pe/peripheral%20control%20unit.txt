@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều khiển
+@Lĩnh vực: điện tử & viễn thông
+#đơn vị điều khiển ngoại vi

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle phân cực
+@Lĩnh vực: điện lạnh
+#rơle có cực
+@Lĩnh vực: toán & tin
+#rơle cực
+@Lĩnh vực: điện
+#rơle hữu cực

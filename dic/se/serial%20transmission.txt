@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự chuyển thông nối
+#sự truyền nối tiếp (tuần tự)
+#sự truyền tuần tự
+#truyền nối tiếp

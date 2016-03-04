@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chuỗi ngẫu nhiên của các số nhị phân
+#chuỗi tình cờ của các số nhị phân
+#dãy ngẫu nhiên của các số nhị phân
+#dãy tình cờ của các số nhị phân

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các đạo hàm liên tiếp
+#các đạo hàm liên tục
+#đạo hàm lũy biến

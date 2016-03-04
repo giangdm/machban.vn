@@ -1,0 +1,5 @@
+﻿@Rate capping
+#(Econ) Hạn chế tỷ lệ chi tiêu.
+: Một thủ tục mà Bộ trưởng Môi trường của Anh dùng để hạn chế tỷ lệ gia tăng chi tiêu của nhà chức trách địa phương. Thủ tục này được coi như biện pháp thay thế cho các phương pháp truyền thống để kiểm soát sự chi tiêu của chính quyền địa phương chẳng hạn như việc điều hành TỶ LỆ HỖ TRỢ BẰNG TRỢ CẤP.
+@Chuyên ngành kinh tế
+#định mức thuế địa phương

@@ -1,0 +1,4 @@
+﻿@blue primary
+#(Tech) mầu lam cơ bản
+@Chuyên ngành kỹ thuật
+#màu lam cơ bản

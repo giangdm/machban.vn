@@ -1,0 +1,6 @@
+﻿@device type
+#(Tech) loại thiết bị
+@Chuyên ngành kỹ thuật
+#loại thiết bị
+@Lĩnh vực: toán & tin
+#kiểu thiết bị

@@ -1,0 +1,6 @@
+﻿@foreground process
+#(Tech) tiến trình tiền cảnh
+@Chuyên ngành kỹ thuật
+#quá trình ưu tiên
+@Lĩnh vực: toán & tin
+#tiến trình tiền cảnh

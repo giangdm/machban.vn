@@ -1,0 +1,3 @@
+﻿@Market demand curve for labour
+#(Econ) Đường cầu của thị trường đối với lao động.
+: Với một mức giá bán sản phẩm không đổi, đường cầu của thị trường hay của một nghành sản xuất chính là sự tổng hợp theo chiều ngang các đường DOANH THU SẢN PHẨM BIÊN của các doanh nghiệp tham gia.

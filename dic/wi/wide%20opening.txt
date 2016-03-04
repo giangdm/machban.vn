@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#mở hàng giá rộng
+#mở ngày giá rộng (của ngày giao dịch chứng khoán)
+#mức chênh lớn đầu giờ

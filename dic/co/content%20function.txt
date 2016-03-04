@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hàm dung (tích)
+@Lĩnh vực: điện tử & viễn thông
+#hàm dung tích

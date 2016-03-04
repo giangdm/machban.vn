@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#máy xát gạo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+#máy xát gạo

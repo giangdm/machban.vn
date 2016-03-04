@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phương pháp cắm ngàm ngang
+@Lĩnh vực: điện
+#sự cắm chốt ngang

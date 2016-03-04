@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chi phí chung
+#chi phí gián tiếp
+#chi phí quản lý
+#chi phí thường xuyên
+#phí tổn doanh nghiệp

@@ -1,0 +1,15 @@
+﻿@clock generator
+#(Tech) bộ tạo (xung/nhịp) đồng hồ
+@Chuyên ngành kỹ thuật
+#bộ định thời
+#đồng hồ thời gian thực
+@Lĩnh vực: điện tử & viễn thông
+#bộ sinh đồng hồ
+@Lĩnh vực: điện lạnh
+#bộ tạo đồng hồ
+#bộ tạo nhịp
+@Lĩnh vực: toán & tin
+#bộ tạo xung nhịp
+#máy phát xung nhịp
+@Lĩnh vực: xây dựng
+#phát nhịp đồng hồ

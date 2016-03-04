@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#lõi bằng lá ghép
+#lõi bằng lá sắt
+#lõi bằng lá thép
+#lõi bằng thép lá
+#lõi có nhiều lớp
+#lõi ghép bằng lá thép
+#lõi thép hình lá
+@Lĩnh vực: điện
+#lõi thép lá
+@Chuyên ngành kỹ thuật
+#lõi bằng lá ghép
+#lõi bằng lá sắt
+#lõi bằng lá thép
+#lõi bằng thép lá
+#lõi có nhiều lớp
+#lõi ghép bằng lá thép
+#lõi thép hình lá
+@Lĩnh vực: điện
+#lõi thép lá

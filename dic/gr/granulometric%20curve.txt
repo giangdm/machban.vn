@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đường cong phân tích hạt
+@Lĩnh vực: xây dựng
+#đường cong thành phần hạt

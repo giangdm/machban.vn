@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#quản lý theo hệ thống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quản lý hệ thống
+@Lĩnh vực: toán & tin
+#sự quản lý hệ thống

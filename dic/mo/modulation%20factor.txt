@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ sâu điều biến
+#hệ số biến điệu
+#hệ số điều biến
+@Lĩnh vực: toán & tin
+#hệ số điều chế

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự làm nhỏ
+#sự nghiền nhỏ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự giảm kích thước

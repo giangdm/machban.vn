@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#chức năng cung ứng
+#hàm số cung ứng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chi phí biến đổi
+#chi phí có thể thay đổi khả biến
+#chi phí có thể thay đổi, khả biến
+#chi phí khả biến

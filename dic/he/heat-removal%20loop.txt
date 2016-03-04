@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chu trình khử nhiệt
+@Lĩnh vực: điện lạnh
+#chu trình làm lạnh

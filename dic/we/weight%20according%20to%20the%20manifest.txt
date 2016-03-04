@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#trọng lượng theo bản kê khai hàng chở trên tàu
+#trọng lượng theo đơn khai thuyền hóa

@@ -1,0 +1,2 @@
+﻿@intercorrelation
+#(thống kê) tương quan giữa các phần tử (của một tập hợp)

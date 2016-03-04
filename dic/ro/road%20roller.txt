@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#máy cán đường
+@Chuyên ngành kỹ thuật
+#máy lăn đường
+@Lĩnh vực: xây dựng
+#hồ lô cán đường
+#xe lăn đường
+#xe lu (xe lăn đường)
+@Lĩnh vực: toán & tin
+#máy cán đường

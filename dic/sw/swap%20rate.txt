@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#mức chênh lệch tỷ giá
+#tỉ giá hoán đổi
+#tỷ giá hoán đối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tốc độ tráo đổi

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thiết kế móng
+@Lĩnh vực: cơ khí & công trình
+#tính toán nền móng

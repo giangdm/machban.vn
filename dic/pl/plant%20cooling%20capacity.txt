@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#năng suất lạnh của hệ (thống)
+#năng suất lạnh của hệ thống

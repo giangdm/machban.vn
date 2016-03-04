@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cửa chớp gấp
+#cửa chớp xếp
+#cửa sập xếp

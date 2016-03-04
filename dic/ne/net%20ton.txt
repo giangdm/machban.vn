@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#tấn Mỹ
+#tấn ngắn
+#tấn non
+#tấn ròng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tấn Mỹ (907, 185kg)
+@Lĩnh vực: đo lường & điều khiển
+#tấn tịnh

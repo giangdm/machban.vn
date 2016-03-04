@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#kho hải quan
+#kho hàng ngoại quan
+#kho hàng nợ thuế
+#kho nợ thuế
+#kho quá cảnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#kho lưu hải quan

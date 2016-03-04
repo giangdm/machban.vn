@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#băng chuyền đánh đống
+@Chuyên ngành kỹ thuật
+#băng truyền tải xếp đống
+@Lĩnh vực: xây dựng
+#băng tải xếp chồng

@@ -1,0 +1,2 @@
+﻿@diode-transistor logic circuit
+#(Tech) mạch luận lý đèn hai cực-đèn tinh thể

@@ -1,0 +1,7 @@
+﻿@uniformization
+#(giải tích) sự đơn trị hoá, sự làm đều
+#u. of analytic function sự đơn trị hoá một hàm giải tích
+@Chuyên ngành kỹ thuật
+#sự làm đều
+@Lĩnh vực: toán & tin
+#sự đơn trị hóa

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ cố định
+#bộ nhớ không khả biến
+#bộ nhớ thường trực
+@Lĩnh vực: điện lạnh
+#bộ nhớ bất khả biến
+#bộ nhớ không xóa

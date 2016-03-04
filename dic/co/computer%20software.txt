@@ -1,0 +1,7 @@
+﻿@computer software
+#(Tech) nhu liệu điện toán
+@Chuyên ngành kinh tế
+#phần mềm vi tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần mềm máy tính

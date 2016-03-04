@@ -1,0 +1,5 @@
+﻿@edge connector
+#(Tech) bộ nối biên, đầu nối cạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đầu nối cạnh

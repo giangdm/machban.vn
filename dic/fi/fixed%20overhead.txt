@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#những khoản nợ cố định
+#nợ kỳ hạn
+#nợ trả chậm

@@ -1,0 +1,7 @@
+﻿@Pay in kind
+#(Econ) Trả bằng hiện vật.
+: Một loại thuế dựa vào tiền lương (tháng) và tiền công do người chủ thanh toán.
+@Chuyên ngành kinh tế
+#đóng góp bằng hiện vật
+#thù lao bằng hiện vật
+#trả bằng hiện vật

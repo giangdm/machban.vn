@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#ba tầng
+@Lĩnh vực: xây dựng
+#ba cấp
+#có ba tầng
+@Lĩnh vực: hóa học & vật liệu
+#ba giai đoạn

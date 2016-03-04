@@ -1,0 +1,3 @@
+﻿@case grammar
+*danh từ
+#ngữ pháp cấu trúc

@@ -1,0 +1,7 @@
+﻿@Market share
+#(Econ) Thị phần
+: Là tỷ trọng của tổng số hàng hoá bán trên thị trường của một doanh nghiệp.
+@Chuyên ngành kinh tế
+#phần thị trường chiếm được
+#thị phần
+#tỷ phần thị trường

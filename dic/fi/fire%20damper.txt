@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ làm tắt lửa
+#van chặn lửa
+@Lĩnh vực: điện lạnh
+#clapê chặn lửa
+#clapê chống lửa
+@Lĩnh vực: xây dựng
+#van chống cháy
+@Chuyên ngành kỹ thuật
+#bộ làm tắt lửa
+#van chặn lửa
+@Lĩnh vực: điện lạnh
+#clapê chặn lửa
+#clapê chống lửa
+@Lĩnh vực: xây dựng
+#van chống cháy

@@ -1,0 +1,4 @@
+﻿@absolute expression
+#(Tech) biểu thức tuyệt đối
+@Chuyên ngành kỹ thuật
+#biểu thức tuyệt đối

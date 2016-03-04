@@ -1,0 +1,6 @@
+﻿@Use value and exchange value
+#(Econ) Giá trị sử dụng và giá trị trao đổi.
+: Một sự phân biệt, mà làm chủ đề thảo luận từ thời AISTOTLE đến C.Mác, giữa độ thoả dụng có được từ hàng hóa và giá cả của nó.
+@Chuyên ngành kinh tế
+#giá trị sử dụng và giá trị trao đổi
+#giá trị sử dụng và giá trị trao đổi (của hàng hóa)

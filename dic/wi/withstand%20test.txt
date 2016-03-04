@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thử độ bền vững
+@Lĩnh vực: điện
+#thử nghiệm chịu đựng (bền)

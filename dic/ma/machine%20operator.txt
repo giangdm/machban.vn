@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công nhân vận hành máy
+#thợ đứng máy
+@Lĩnh vực: toán & tin
+#người thao tác máy

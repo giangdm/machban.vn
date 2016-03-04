@@ -1,0 +1,7 @@
+﻿@rontgenogram
+#Cách viết khác : roentgenogram
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hình chụp tia Rơngen
+#hình chụp tia X
+#hình chụp X quang

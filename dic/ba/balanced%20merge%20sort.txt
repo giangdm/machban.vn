@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân loại kiểu trộn cân bằng
+#sắp xếp kiểu trộn cân bằng
+@Lĩnh vực: điện tử & viễn thông
+#sắp xếp kiểu trộn đều

@@ -1,0 +1,28 @@
+﻿@Intercept
+#(Econ) Hệ số chặn.
+: Trong HÀM TUYẾN TÍNH hệ số chặn là một hằng số, nghĩa là số hạng không chứa BIẾN ĐỘC LẬP.
+<!-- more -->
+@intercept /'intəsept/
+*danh từ
+#(toán học) phần (mặt phẳng, đường thẳng) bị chắn
+*ngoại động từ
+#chắn, chặn, chặn đứng
+#(toán học) chắn
+@Chuyên ngành kinh tế
+#sự chặn hỏi
+@Chuyên ngành kỹ thuật
+#cắt
+#chắn
+#đoạn
+#đoạn thẳng
+#gặp
+#giao điểm
+#giao nhau
+#phân đoạn
+#phân ra
+#sự chặn
+@Lĩnh vực: toán & tin
+#cắt ra
+<!-- more -->
+@intercept
+#cắt ra, phân ra; chắn // đoạn thẳng bị chặn trên hệ trục toạ độ

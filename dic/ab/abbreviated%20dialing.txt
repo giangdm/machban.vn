@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#lập số tắt
+@Lĩnh vực: điện lạnh
+#quay số tắt
+@Lĩnh vực: toán & tin
+#sự quay số tắt

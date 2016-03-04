@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tổng nhiệt trở
+@Lĩnh vực: điện lạnh
+#tổng độ cản trở nhiệt

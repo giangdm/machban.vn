@@ -1,0 +1,7 @@
+﻿@DOS (Disk Operating System)
+#(Tech) Hệ Thống Vận Hành Trên Đĩa, hệ điều hành DOS
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ điều hành DOS
+@Chuyên ngành kỹ thuật
+#hệ điều hành đĩa

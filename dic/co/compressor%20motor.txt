@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#động cơ máy nén
+#mô tơ máy nén
+@Lĩnh vực: cơ khí & công trình
+#động cơ máy nén khí

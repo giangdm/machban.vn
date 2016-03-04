@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#điểm hạ độ cao tối đa (bộ mô phỏng bay nhân tạo)
+#sự bắt đầu hạ độ cao

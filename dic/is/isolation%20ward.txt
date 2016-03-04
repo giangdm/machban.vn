@@ -1,0 +1,5 @@
+﻿@isolation ward
+*danh từ
+#khu cách ly những người bị bệnh truyền nhiễm
+@Chuyên ngành kỹ thuật
+#phòng cách ly

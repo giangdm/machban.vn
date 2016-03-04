@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#phương trình số lượng giao hoán
+#phương trình số lượng giao hoán (của tiền tệ)

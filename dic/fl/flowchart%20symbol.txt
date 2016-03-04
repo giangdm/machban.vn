@@ -1,0 +1,10 @@
+﻿@flowchart symbol
+#(Tech) ký hiệu lưu đồ
+@Chuyên ngành kỹ thuật
+#ký hiệu lưu đồ
+@Lĩnh vực: toán & tin
+#biểu tượng lưu đồ
+@Chuyên ngành kỹ thuật
+#ký hiệu lưu đồ
+@Lĩnh vực: toán & tin
+#biểu tượng lưu đồ

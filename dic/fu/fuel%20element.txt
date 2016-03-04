@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#phần tử nhiên liệu
+@Lĩnh vực: điện lạnh
+#thanh nhiên liệu

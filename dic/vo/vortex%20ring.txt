@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vành rota
+@Lĩnh vực: vật lý
+#vòng xoáy

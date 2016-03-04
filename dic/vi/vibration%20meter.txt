@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ đo rung
+@Lĩnh vực: điện lạnh
+#chấn động kế
+@Lĩnh vực: xây dựng
+#dụng cụ đo giao động
+@Lĩnh vực: cơ khí & công trình
+#khí cụ đo rung
+@Lĩnh vực: điện
+#máy đo độ rung
+#máy đo rung

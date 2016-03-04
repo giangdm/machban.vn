@@ -1,0 +1,2 @@
+﻿@addend register
+#(Tech) bộ ghi số cộng

@@ -1,0 +1,2 @@
+﻿@afterglow screen
+#(Tech) màn hình lưu ảnh

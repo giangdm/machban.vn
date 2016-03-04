@@ -1,0 +1,6 @@
+﻿@Econometric model
+#(Econ) Mô hình kinh tế lượng.
+: Một MÔ HÌNH toán học của một nền kinh tế hay một bộ phận của một nền kinh tế mà các tham số của nó được ước tính bằng phương pháp kinh tế lượng.
+@Chuyên ngành kinh tế
+#công thức kinh tế học
+#mô hình kinh toán học

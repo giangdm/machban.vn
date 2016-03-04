@@ -1,0 +1,2 @@
+﻿@Consolidated balance sheets
+#(Econ) Bảng cân đối (kế toán/tài sản) hợp nhất.

@@ -1,0 +1,2 @@
+﻿@chargeable time
+#(Tech) thời gian phải trả tiền

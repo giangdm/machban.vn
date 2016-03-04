@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ đa lộ
+#chế độ dồn kênh
+#chế độ truyền đa công

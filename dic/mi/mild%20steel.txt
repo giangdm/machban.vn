@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#thép cacbon thấp
+#thép đúc
+#thép hàn
+@Lĩnh vực: cơ khí & công trình
+#thép carbon thấp
+@Lĩnh vực: xây dựng
+#thép dịu
+#thép non
+#thép non (thép than thấp)
+@Lĩnh vực: ô tô
+#thép ít carbon
+@Lĩnh vực: toán & tin
+#thép mềm, non
+@Lĩnh vực: hóa học & vật liệu
+#thép thấp cacbon

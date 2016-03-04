@@ -1,0 +1,5 @@
+﻿@localisation
+*danh từ
+#sự hạn định vào một nơi, sự hạn định vào một địa phương
+#sự địa phương hoá
+#sự xác định vị trí, sự định vị

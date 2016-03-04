@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị lọc ly tâm
+@Chuyên ngành kỹ thuật
+#máy lọc ly tâm
+@Lĩnh vực: hóa học & vật liệu
+#bộ lọc ly tâm

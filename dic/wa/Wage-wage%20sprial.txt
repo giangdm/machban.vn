@@ -1,0 +1,3 @@
+﻿@Wage-wage sprial
+#(Econ) Vòng xoáy tiền công-tiền công.
+: Xem Leap-frogging.

@@ -1,0 +1,3 @@
+﻿@Variance-covariance matrix
+#(Econ) Ma trận phương sai - hiệp phương sai.
+: Ma trận phương sai và các hiệp phương sai. của một dãy các biến số ngẫu nhiên cùng phân phối, phương sai tạo nên đường chéo, trong khi hiệp phương sai là các côtọ và các dòng liên quan.

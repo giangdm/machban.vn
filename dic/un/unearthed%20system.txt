@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hệ thống không nối đất
+@Lĩnh vực: điện lạnh
+#hệ thống không tiếp đất

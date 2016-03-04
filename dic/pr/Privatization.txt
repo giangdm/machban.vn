@@ -1,0 +1,15 @@
+﻿@Privatization
+#(Econ) Tư nhân hoá
+: Chính sách chuyển đổi sở hữu công cộng của một tài sản thành sở hữu tư nhân hoặc cho phép một tổ chức kinh doanh ở khu vực tư nhân hực hiện một hoạt động nào đó cho đến lúc ấy vẫn được tiến hành bởi một tổ chức công cộng.
+@Chuyên ngành kinh tế
+#sự tư doanh hóa
+#sự tư hữu hóa
+#sự tư nhân hóa (công thương nghiệp)
+#tư doanh hóa
+#tư hữu hóa
+#tư nhân hóa
+#tư nhân hóa (công thương nghiệp)
+<!-- more -->
+@privatization
+*danh từ
+#sự tư nhân hoá, sự tư hữu hoá

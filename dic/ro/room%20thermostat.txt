@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy điều nhiệt phòng
+#rơle nhiệt độ phòng
+@Lĩnh vực: điện lạnh
+#tecmostat phòng
+#thermostat phòng

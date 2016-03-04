@@ -1,0 +1,4 @@
+﻿@auxiliary relay
+#(Tech) bộ nối điện phụ
+@Chuyên ngành kỹ thuật
+#rơle phụ

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khoang vào
+#tiết diện cửa vào
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khoang vào
+#tiết diện cửa vào

@@ -1,0 +1,4 @@
+﻿@arcade game
+#(Tech) trò chơi kiểu nhà điện tử = arcade-type game
+@Chuyên ngành kỹ thuật
+#trò chơi điện tử

@@ -1,0 +1,6 @@
+﻿@Maximin
+#(Econ) Tối đa hoá cực tiểu.
+: Là một quy tắc trong lý thuyết RA QUYẾT ĐỊNH để giúp cho việc lựa chọn trong những điều kiện không chắc chắn.
+<!-- more -->
+@maximin
+#(lý thuyết trò chơi) maximin

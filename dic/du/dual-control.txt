@@ -1,0 +1,4 @@
+﻿@dual-control
+*tính từ
+#có hai bộ điều khiển liên hệ nhau, cho phép một trong hai người có thể điều khiển được; điều khiển tay đôi
+=a dual-control car:xe dùng để dạy lái (trong đó, người dạy có thể vận hành khớp ly hợp và phanh)

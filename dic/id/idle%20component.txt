@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#linh kiện chạy không
+#thành phần vuông góc
+@Lĩnh vực: điện
+#thành phần chạy vô công
+@Lĩnh vực: điện lạnh
+#thành phần vô công

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) làm lạnh vận hành bằng hơi
+#hệ (thống) lạnh hoạt động bằng hơi
+#hệ thống lạnh hoạt động (vận hành bằng hơi)

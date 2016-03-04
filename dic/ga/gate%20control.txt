@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều khiển lựa chọn
+@Lĩnh vực: cơ khí & công trình
+#sự điều khiển bằng cửa

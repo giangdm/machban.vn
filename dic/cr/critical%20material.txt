@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#vật tư chủ yếu
+#vật tư cung ứng khẩn trương
+@Chuyên ngành kỹ thuật
+#vật liệu hiếm

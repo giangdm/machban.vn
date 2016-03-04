@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mật độ công suất
+#mật độ năng lượng
+@Lĩnh vực: cơ khí & công trình
+#công suất đơn vị

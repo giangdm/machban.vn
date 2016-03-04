@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#chờ gọi
+#sự chờ cuộc gọi
+@Lĩnh vực: điện tử & viễn thông
+#chờ đợi cuộc gọi
+@Lĩnh vực: toán & tin
+#chờ lời gọi
+#sự chờ gọi

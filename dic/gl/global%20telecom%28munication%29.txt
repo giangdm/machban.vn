@@ -1,0 +1,2 @@
+﻿@global telecom(munication)
+#(Tech) viễn thông toàn cầu

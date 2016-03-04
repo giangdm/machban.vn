@@ -1,0 +1,3 @@
+﻿@National Girobank
+#(Econ) Ngân hàng Giro quốc gia.
+: Xem GIRO SYSTEM.

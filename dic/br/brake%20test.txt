@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#kiểm tra hiệu quả phanh
+@Lĩnh vực: cơ khí & công trình
+#sự thử phanh
+@Lĩnh vực: điện lạnh
+#thử nghiệm hãm

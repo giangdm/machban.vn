@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ đo khí áp hộp
+#phong vũ biểu kim loại
+@Lĩnh vực: điện lạnh
+#khí (quyển) áp kế hộp
+@Lĩnh vực: hóa học & vật liệu
+#khí áp kế hộp
+@Lĩnh vực: điện
+#phong vũ biểu

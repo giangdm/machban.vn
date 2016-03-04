@@ -1,0 +1,9 @@
+﻿@Labour turnover
+#(Econ) Mức độ thay lao động.
+: Một cụm thuật ngữ áp dụng cho các doanh nghiệp để miêu tả số việc làm thay đổi, những người thôi làm việc và những người mới được thuê mướn.
+@Chuyên ngành kinh tế
+#mức luân chuyển lao động
+@Chuyên ngành kỹ thuật
+#lượng lưu chuyển nhân lực
+@Chuyên ngành kỹ thuật
+#lượng lưu chuyển nhân lực

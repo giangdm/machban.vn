@@ -1,0 +1,14 @@
+﻿@active component
+#(Tech) thành phần chủ động
+@Chuyên ngành kỹ thuật
+#linh kiện chủ động
+#linh kiện tích cực
+#thành phần hữu công
+@Lĩnh vực: toán & tin
+#thành phần chủ động
+#thành phần tích cực
+@Lĩnh vực: điện lạnh
+#thành phần công suất
+#thành phần hiệu dụng
+@Lĩnh vực: điện
+#thành phần tác dụng

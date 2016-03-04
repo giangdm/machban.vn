@@ -1,0 +1,5 @@
+﻿@Non-bank financial intermediaries
+#(Econ) Các tổ chức trung gian tài chính phi ngân hàng.
+: Là những tổ chức trung gian tài chính mà các tài sản nợ của chúng không được tính vào trong cung tiền theo những định nghĩa thông thường.
+@Chuyên ngành kinh tế
+#các trung gian tài chính phi ngân hàng

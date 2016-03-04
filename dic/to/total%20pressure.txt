@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#áp suất toàn phần
+@Chuyên ngành kỹ thuật
+#áp lực toàn phần
+#áp suất toàn phần
+@Lĩnh vực: điện
+#tổng áp
+@Lĩnh vực: cơ khí & công trình
+#tổng áp lực

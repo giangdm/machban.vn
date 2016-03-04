@@ -1,0 +1,6 @@
+﻿@subalgebra
+#(đại số) đại số con
+#invariant s. đại số con bất biến, iđêan bất biến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đại số con

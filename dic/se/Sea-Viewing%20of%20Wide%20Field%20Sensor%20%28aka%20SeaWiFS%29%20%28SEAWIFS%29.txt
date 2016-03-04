@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Quan sát biển của bộ cảm biến phạm vi rộng (cũng có thể viết tắt SeAWiFS)

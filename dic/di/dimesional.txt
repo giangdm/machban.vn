@@ -1,0 +1,2 @@
+﻿@dimesional
+#(thuộc) chiều thứ nguyên

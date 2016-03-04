@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy khuấy
+#máy trộn
+@Chuyên ngành kỹ thuật
+#que khuấy
+@Lĩnh vực: hóa học & vật liệu
+#cần khuấy

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chứa khí
+@Lĩnh vực: cơ khí & công trình
+#ổ trục khí
+#ổ tựa khí

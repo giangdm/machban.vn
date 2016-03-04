@@ -1,0 +1,5 @@
+﻿@effective sensitivity
+#(Tech) độ nhạy hữu hiệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ nhạy hiệu dụng

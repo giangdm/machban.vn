@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#ngôn ngữ lập trình COBOL
+#Ngôn ngữ vi tính thông dụng trong Thương mại

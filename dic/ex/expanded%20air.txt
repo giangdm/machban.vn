@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#không khí được dãn nở
+#không khí được giãn nở
+#thông khí giãn nở
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#không khí được dãn nở
+#không khí được giãn nở
+#thông khí giãn nở

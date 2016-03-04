@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ không khả biến
+#bộ nhớ thường trực
+@Lĩnh vực: toán & tin
+#bộ lưu trữ cố định
+#bộ lưu trữ không đổi
+#bộ lưu trữ lâu dài

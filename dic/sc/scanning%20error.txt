@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi lấy mẫu
+@Lĩnh vực: toán & tin
+#lỗi quét

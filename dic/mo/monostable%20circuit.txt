@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mạch (trigơ) đơn ổn
+@Lĩnh vực: toán & tin
+#mạch ổn định
+#mạch ổn định đơn
+#mạch tĩnh đơn

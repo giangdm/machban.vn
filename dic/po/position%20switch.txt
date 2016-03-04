@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#công tắc giới hạn
+@Lĩnh vực: điện
+#công tắc điểm cuối (hành trình)
+#công tắc vị trí

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đọc từng điểm quang học
+#quét điểm
+#quét ký hiệu đánh dấu
+#sự đọc dấu hiệu quang

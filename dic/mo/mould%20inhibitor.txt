@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chất diệt nấm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chất chống nấm mốc
+@Lĩnh vực: điện
+#chất phòng nấm

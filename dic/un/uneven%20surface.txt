@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bề mặt gồ ghề
+#mặt gia công lồi lõm
+#mặt gia công mấp mô

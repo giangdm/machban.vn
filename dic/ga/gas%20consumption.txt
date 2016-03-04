@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mức tiêu thụ ga
+@Lĩnh vực: ô tô
+#mức tiêu thụ nhiên liệu
+@Lĩnh vực: xây dựng
+#sự tiêu thụ khí

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy lạnh amoniac
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy (làm lạnh) nén amoniac
+@Lĩnh vực: điện lạnh
+#máy lạnh amoniac

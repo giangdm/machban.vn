@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phân ly từ tính
+@Lĩnh vực: điện lạnh
+#bộ phân ly từ
+@Lĩnh vực: toán & tin
+#bộ tách từ
+@Lĩnh vực: điện
+#bộ tách từ tính

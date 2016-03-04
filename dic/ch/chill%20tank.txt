@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thùng làm lạnh
+@Chuyên ngành kỹ thuật
+#thùng lạnh
+@Lĩnh vực: điện lạnh
+#tăng [thùng] lạnh
+#tăng lạnh

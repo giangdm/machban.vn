@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dải thang đo
+#khoảng thang đo
+@Lĩnh vực: toán & tin
+#dải tỷ lệ

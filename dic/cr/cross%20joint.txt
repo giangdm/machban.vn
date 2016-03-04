@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#nối chéo
+#mạch đứng (trong khối xây)
+@Lĩnh vực: xây dựng
+#khe ngang
+#mạch xây đứng
+@Lĩnh vực: hóa học & vật liệu
+#khe nứt cắt ngang

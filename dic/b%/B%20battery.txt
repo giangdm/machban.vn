@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#nguồn nuôi B
+@Lĩnh vực: điện lạnh
+#bộ pin B
+@Lĩnh vực: điện
+#pin loại B
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ pin anôt

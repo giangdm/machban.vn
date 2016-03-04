@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#áo nước (làm mát hoặc sưởi ấm)
+#bọc nước (động cơ)
+#lớp bọc bằng nước
+#lớp vỏ nước
+@Lĩnh vực: cơ khí & công trình
+#áo lót nước
+@Lĩnh vực: ô tô
+#áo nước
+@Lĩnh vực: hóa học & vật liệu
+#bao nước
+@Lĩnh vực: điện lạnh
+#vỏ nước

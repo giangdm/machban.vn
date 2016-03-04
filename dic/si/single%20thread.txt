@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#ren đơn
+#ren một đầu mối
+#ren một đầu nối

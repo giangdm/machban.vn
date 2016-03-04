@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch cảm ứng
+@Lĩnh vực: điện
+#mạch điện cảm
+@Lĩnh vực: điện lạnh
+#mạch điện kháng

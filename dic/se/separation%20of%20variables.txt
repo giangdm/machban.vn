@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự tách biến
+@Lĩnh vực: xây dựng
+#tách biến
+@Lĩnh vực: điện lạnh
+#tách biến (số)

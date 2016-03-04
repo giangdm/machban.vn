@@ -1,0 +1,2 @@
+﻿@absolute level
+#(Tech) mức tuyệt đối

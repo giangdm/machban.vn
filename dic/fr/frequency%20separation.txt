@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự tách tần số
+@Lĩnh vực: toán & tin
+#sự tách (theo) tần số
+@Lĩnh vực: điện tử & viễn thông
+#sự tách kiểu dao động
+#sự tách theo tần số

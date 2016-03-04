@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự chặn tiếng ồn tự động
+#sự triệt nhiễu tự động

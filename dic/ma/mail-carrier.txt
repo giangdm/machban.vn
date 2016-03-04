@@ -1,0 +1,4 @@
+﻿@mail-carrier
+*danh từ
+#xe mang thư
+#như letter-carrier

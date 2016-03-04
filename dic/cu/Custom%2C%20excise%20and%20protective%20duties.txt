@@ -1,0 +1,3 @@
+﻿@Custom, excise and protective duties
+#(Econ) Các loại thuế hải quan,  thuế tiêu thụ đặc biệt và thuế bảo hộ.
+: Đây là các loại thuế áp dụng cho nhập khẩu hay việc bán các hàng hoá cụ thể. Những thủ tục đặc biệt được áp dụng cho việc nhập khẩu các hàng hoá nông nghiệp. Xem EC ARRICULTURAL LEVIES.

@@ -1,0 +1,4 @@
+﻿@disk handler
+#(Tech) thiết bị xủ lí đĩa
+@Chuyên ngành kỹ thuật
+#bộ điều khiển đĩa

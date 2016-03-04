@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#kỹ sư đóng tàu
+#kỹ sư đóng tầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#kỹ sư hàng hải
+#kỹ sư máy tàu
+@Lĩnh vực: cơ khí & công trình
+#nhà chế tạo máy tàu

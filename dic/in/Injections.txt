@@ -1,0 +1,3 @@
+﻿@Injections
+#(Econ) Sự bơm tiền.
+: Sự bổ sung ngoại sinh vào số thu nhập của các doanh nghiệp và hộ gia đình.

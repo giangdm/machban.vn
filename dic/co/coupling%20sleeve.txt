@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nối
+#khớp nối
+#ống ghép nối
+#ống kẹp
+#ống lồng
+#ống lót
+#ống nối
+@Lĩnh vực: hóa học & vật liệu
+#ống lồng nối khớp
+@Lĩnh vực: ô tô
+#ống trục ghép

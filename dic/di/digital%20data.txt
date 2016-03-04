@@ -1,0 +1,7 @@
+﻿@digital data
+#(Tech) dữ liệu dạng số tự
+@Chuyên ngành kỹ thuật
+#dữ liệu bằng số
+#dữ liệu số
+@Lĩnh vực: toán & tin
+#dữ liệu chữ số

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bụng dòng
+@Lĩnh vực: điện lạnh
+#bụng dòng điện
+@Lĩnh vực: điện tử & viễn thông
+#chu kỳ hiện thời
+@Lĩnh vực: toán & tin
+#vòng lặp hiện tại

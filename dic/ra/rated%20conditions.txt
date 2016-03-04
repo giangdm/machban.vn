@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#công suất danh định
+#công suất danh nghĩa
+#công suất định mức
+#khả năng tháo tính toán
+@Lĩnh vực: cơ khí & công trình
+#điều kiện định mức

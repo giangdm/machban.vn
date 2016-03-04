@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#vi mạch nhớ
+@Lĩnh vực: toán & tin
+#bộ nhớ IC
+#bộ nhớ mạch tích hợp
+#IC nhớ

@@ -1,0 +1,4 @@
+﻿@average frequency
+#(Tech) tần số trung bình
+@Chuyên ngành kỹ thuật
+#tần số trung bình

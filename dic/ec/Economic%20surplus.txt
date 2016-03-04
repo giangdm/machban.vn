@@ -1,0 +1,5 @@
+﻿@Economic surplus
+#(Econ) Thặng dư kinh tế.
+: Chênh lệc giữa sản lượng của một nền kinh tế và chi phí cần thiết để sản xuất ra sản lượng đó, mà chi phí cần thiết là TIỀN CÔNG, KHẤU HAO VỐN, chi phí nguyên vật liệu.
+@Chuyên ngành kinh tế
+#thặng dư kinh tế

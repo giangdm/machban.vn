@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#lượng biến đổi cơ hội
+@Chuyên ngành kỹ thuật
+#biến ngẫu nhiên

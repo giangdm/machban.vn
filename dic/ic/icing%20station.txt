@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#trạm cung cấp đá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điểm cấp (nước) đá
+#điểm cấp đá
+#trạm cấp (nước) đá
+#trạm cấp đá

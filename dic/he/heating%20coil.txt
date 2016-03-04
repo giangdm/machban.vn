@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#ống xoắn đốt nóng
+@Chuyên ngành kỹ thuật
+#giàn ống xoắn đốt nóng
+#giàn ống xoắn gia nhiệt
+#giàn ống xoắn sưởi ấm
+#ống xoắn gia nhiệt
+@Lĩnh vực: điện lạnh
+#dàn ống xoắn sưởi (ấm)
+#giàn ống xoắn sưởi (ẩm)
+#ống ruột gà đun nước
+@Lĩnh vực: xây dựng
+#ống xoắn cấp nhiệt
+@Lĩnh vực: cơ khí & công trình
+#ống xoắn nung

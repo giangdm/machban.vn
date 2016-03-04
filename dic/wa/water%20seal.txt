@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#van nước
+@Chuyên ngành kỹ thuật
+#cửa van chắn nước
+#cửa van thủy lực
+#đệm thủy lực kín khít
+@Lĩnh vực: hóa học & vật liệu
+#chất bịt kín nước
+#sự bít kín bằng nước
+@Lĩnh vực: cơ khí & công trình
+#cửa van nước
+@Lĩnh vực: toán & tin
+#sự chống dò nước
+@Lĩnh vực: xây dựng
+#sự chống rò nước

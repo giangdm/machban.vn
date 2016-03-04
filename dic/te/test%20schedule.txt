@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lịch biểu thử nghiệm
+@Lĩnh vực: toán & tin
+#biểu thời gian thử

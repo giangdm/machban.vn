@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đồ thị cong chỉ sự hoạt động
+@Lĩnh vực: điện lạnh
+#đặc tuyến năng suất
+#đặc tuyến thực hiện
+@Lĩnh vực: cơ khí & công trình
+#đường cong tính năng

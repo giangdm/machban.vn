@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ga ngưng tụ được
+#hơi ngưng tụ được
+@Lĩnh vực: hóa học & vật liệu
+#khí ngưng tụ được

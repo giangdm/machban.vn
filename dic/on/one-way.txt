@@ -1,0 +1,7 @@
+﻿@one-way
+*phó từ, tính từ
+#chỉ một chiều (cho phép di chuyển)
+@Chuyên ngành kỹ thuật
+#một chiều
+@Lĩnh vực: toán & tin
+#một lối

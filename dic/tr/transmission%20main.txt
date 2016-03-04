@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đường ống dẫn (khí đốt)
+#đường ống tải
+#đường ống vận chuyển

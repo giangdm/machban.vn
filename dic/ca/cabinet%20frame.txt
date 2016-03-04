@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khung thùng máy
+#khung tủ máy
+#khung vỏ máy

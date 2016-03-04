@@ -1,0 +1,3 @@
+﻿@Bearer bonds
+#(Econ) Trái khoán không ghi tên.
+: Một loại trái khoán không yêu cầu có chứng thư chuyển nhượng vì người giữ có quyền sở hữu hợp pháp.

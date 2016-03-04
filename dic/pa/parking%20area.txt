@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bãi đỗ
+#bãi đỗ xe
+#chỗ đỗ ô tô
+#trạm dừng xe
+@Lĩnh vực: giao thông & vận tải
+#vùng đỗ

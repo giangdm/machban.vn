@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#công suất đóng
+#dung lượng đóng
+#khả năng cắt mạch
+#năng lực cắt mạch
+@Lĩnh vực: điện lạnh
+#khả năng đóng

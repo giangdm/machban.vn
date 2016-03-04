@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu bằng digital ngẫu nhiên
+#tín hiệu bằng số ngẫu nhiên

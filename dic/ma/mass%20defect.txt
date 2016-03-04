@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ hụt khối lượng
+@Lĩnh vực: điện lạnh
+#độ hụt khối (lượng)
+@Lĩnh vực: vật lý
+#hiệu ứng bó

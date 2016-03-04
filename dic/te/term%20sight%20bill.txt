@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#hối phiếu kỳ hạn sau (một số) ngày xuất trình
+#hối phiếu kỳ hạn từ ngày xuất trình

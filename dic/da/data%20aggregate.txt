@@ -1,0 +1,8 @@
+﻿@data aggregate
+#(Tech) tập hợp dữ liệu
+@Chuyên ngành kỹ thuật
+#khối dữ liệu
+#tập hợp số liệu
+@Lĩnh vực: toán & tin
+#bộ dữ liệu
+#tập hợp dữ liệu

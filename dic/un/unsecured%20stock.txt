@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chứng khoán không được bảo đảm
+#cổ phiếu không có bảo đảm
+#vốn vay không có bảo đảm

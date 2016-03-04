@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị nấu liên tục
+@Chuyên ngành kỹ thuật
+#phoi liền
+@Lĩnh vực: cơ khí & công trình
+#phoi dây

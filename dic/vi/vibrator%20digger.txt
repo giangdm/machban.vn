@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy đào dung
+@Lĩnh vực: toán & tin
+#máy đào rung

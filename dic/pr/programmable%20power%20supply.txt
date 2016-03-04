@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ nguồn chương trình hóa được
+#bộ nguồn khả lập trình
+@Lĩnh vực: toán & tin
+#nguồn cấp điện lập trình được

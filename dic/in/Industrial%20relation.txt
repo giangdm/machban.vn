@@ -1,0 +1,3 @@
+﻿@Industrial relation
+#(Econ) Các quan hệ lao động.
+: Nghiên cứu và thực hành các quy tắc chi phối việc làm.

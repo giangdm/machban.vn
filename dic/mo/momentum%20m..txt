@@ -1,0 +1,5 @@
+﻿@momentum m.
+#(vật lí) động lượng, xung
+#angular m. mômen động (lượng)
+#generalized m. xung suy rộng, động lượng suy rộng
+#gyroscopic m. mômen hồi chuyển

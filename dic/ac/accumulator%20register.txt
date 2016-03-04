@@ -1,0 +1,8 @@
+﻿@accumulator register
+#(Tech) bộ ghi tổng cộng/lũy gia [ĐL], ngăn tích lũy, thanh tích lũy
+@Chuyên ngành kỹ thuật
+#máy đếm tích lũy
+#thanh ghi tổng
+@Lĩnh vực: toán & tin
+#quá trình tích lũy
+#thanh ghi tích lũy

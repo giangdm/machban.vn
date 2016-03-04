@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ chuyển mạch quay
+@Lĩnh vực: điện
+#bộ chuyển máy xoay
+#chuyển mạch quay
+@Lĩnh vực: xây dựng
+#công tắc xoay tròn
+@Lĩnh vực: toán & tin
+#công tắc xoay vòng

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp chảy tầng
+#lớp laminar
+@Lĩnh vực: điện lạnh
+#tầng dòng chảy thành lớp
+@Chuyên ngành kỹ thuật
+#lớp chảy tầng
+#lớp laminar
+@Lĩnh vực: điện lạnh
+#tầng dòng chảy thành lớp

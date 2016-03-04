@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#độ hạt lớn
+#kích thước tinh thể
+@Chuyên ngành kỹ thuật
+#cỡ hạt
+#kích thước hạt

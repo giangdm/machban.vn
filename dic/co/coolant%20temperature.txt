@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ môi chất lạnh
+@Lĩnh vực: điện lạnh
+#nhiệt độ chất làm lạnh
+#nhiệt độ chất tải lạnh
+#nhiệt độ làm mát
+#nhiệt độ làm nguội

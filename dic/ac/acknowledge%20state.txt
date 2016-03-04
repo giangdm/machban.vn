@@ -1,0 +1,2 @@
+﻿@acknowledge state
+#(Tech) trạng thái báo nhận

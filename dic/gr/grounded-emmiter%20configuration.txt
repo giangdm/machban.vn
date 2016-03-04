@@ -1,0 +1,2 @@
+﻿@grounded-emmiter configuration
+#(Tech) cấu hình cực phát nối đất

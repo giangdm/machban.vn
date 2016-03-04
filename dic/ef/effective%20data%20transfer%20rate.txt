@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tốc độ chuyển dữ liệu hiệu dụng
+#tốc độ truyền dữ liệu hiệu dụng
+#tôc độ truyền dữ liệu hiệu quả
+@Lĩnh vực: điện tử & viễn thông
+#tỷ suất truyền dữ liệu thực

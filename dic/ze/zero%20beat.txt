@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nhịp không
+@Lĩnh vực: điện lạnh
+#phách không
+#phách zêro
+@Lĩnh vực: điện
+#triệt phách

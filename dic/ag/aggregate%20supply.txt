@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#mức cung tổng gộp
+#tổng cung
+#tổng cung cấp hàng hóa và dịch vụ trong một nền kinh tế
+#tổng mức cung
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cung cấp kết trộn

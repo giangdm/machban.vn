@@ -1,0 +1,2 @@
+﻿@distortion transmission impairment
+#(Tech) giảm chất lượng truyền dẫn do biến dạng (mạch)

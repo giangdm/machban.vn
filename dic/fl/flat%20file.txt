@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#giũa bẹt
+#giũa thẳng
+@Lĩnh vực: xây dựng
+#chiếc giũa dẹt
+@Lĩnh vực: cơ khí & công trình
+#giũa dẹt
+@Lĩnh vực: toán & tin
+#lập tin dạng hai chiều
+#tập tin phẳng
+#tệp phẳng
+@Chuyên ngành kỹ thuật
+#giũa bẹt
+#giũa thẳng
+@Lĩnh vực: xây dựng
+#chiếc giũa dẹt
+@Lĩnh vực: cơ khí & công trình
+#giũa dẹt
+@Lĩnh vực: toán & tin
+#lập tin dạng hai chiều
+#tập tin phẳng
+#tệp phẳng

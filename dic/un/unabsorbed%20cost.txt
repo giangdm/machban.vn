@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giá phí không trang trải được
+#phần tổng chi phí của quá trình sản xuất
+#phí tổn không được bù lại

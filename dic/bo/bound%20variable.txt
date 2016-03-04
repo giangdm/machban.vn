@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến buộc
+#biến giới hạn
+#biến liên kết
+#biết giới hạn

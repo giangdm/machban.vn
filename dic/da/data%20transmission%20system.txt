@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống truyền dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống truyền số
+@Lĩnh vực: đo lường & điều khiển
+#hệ truyền dữ liệu

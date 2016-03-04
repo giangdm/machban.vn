@@ -1,0 +1,5 @@
+﻿@area chart
+#(Tech) biểu đồ khu vực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu đồ vùng

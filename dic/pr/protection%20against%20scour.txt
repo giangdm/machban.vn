@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảo vệ chống xói lở
+#lớp chống xói
+@Lĩnh vực: cơ khí & công trình
+#sự chống xói

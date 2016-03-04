@@ -1,0 +1,12 @@
+﻿@Endogenous variable
+#(Econ) Biến nội sinh.
+: Một biến số mà giá trị của nó được xác định trong khuôn khổ của một mô hình kinh tế hay kinh tế lượng.
+@Chuyên ngành kinh tế
+#biến nội sinh
+#yếu tố biến đổi nội sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến nội sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến nội sinh

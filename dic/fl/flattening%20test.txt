@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sự thử dát mỏng
+@Lĩnh vực: vật lý
+#sự thử độ dẹt
+@Lĩnh vực: xây dựng
+#sự thử nghiệm rát mỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sự thử dát mỏng
+@Lĩnh vực: vật lý
+#sự thử độ dẹt
+@Lĩnh vực: xây dựng
+#sự thử nghiệm rát mỏng

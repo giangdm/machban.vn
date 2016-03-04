@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#băng tải tháo nguyên liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#băng chuyền dỡ tải

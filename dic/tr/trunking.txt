@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#dịch vụ vận chuyển đường dài
+#vận tải đường dài (trên tuyến đường chính)
+#vận tải đường dài trên tuyến đường chính
+@Chuyên ngành kỹ thuật
+#đường ống
+#kênh dẫn không khí
+#sự rửa sạch (khoáng chất)
+@Lĩnh vực: điện lạnh
+#đỡ cáp
+@Lĩnh vực: toán & tin
+#kết nối chính

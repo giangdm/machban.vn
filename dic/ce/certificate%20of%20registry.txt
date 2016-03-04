@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giấy chứng đăng ký
+#giấy chứng nhận đăng ký tàu
+#giấy chứng quốc tịch tàu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bằng đăng kiểm (tàu, thuyền)
+@Lĩnh vực: giao thông & vận tải
+#giấy đăng kiểm

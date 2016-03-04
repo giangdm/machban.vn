@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực động
+#áp lực va đập
+#áp suất động
+#áp suất toàn phần
+@Lĩnh vực: xây dựng
+#áp lực do va đập
+@Lĩnh vực: toán & tin
+#áp lực động lực học
+@Lĩnh vực: cơ khí & công trình
+#áp lực va

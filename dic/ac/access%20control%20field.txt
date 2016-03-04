@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trường điều khiển truy cập
+#trường điều khiển truy nhập
+#trường điều khiển truy xuất
+@Lĩnh vực: điện tử & viễn thông
+#trường kiểm soát truy nhập

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phí ban đầu
+#phí đầu tiên
+#phí lần đầu
+#sự nạp sơ bộ hệ thống bằng tác nhân lạnh
+@Chuyên ngành kỹ thuật
+#sự tải ban đầu

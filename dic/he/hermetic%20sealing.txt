@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự làm kín
+@Chuyên ngành kỹ thuật
+#sự bít kín
+#sự hàn kín

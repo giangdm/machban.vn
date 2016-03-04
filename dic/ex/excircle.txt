@@ -1,0 +1,3 @@
+﻿@excircle
+#vòng tròn bàng tiếp
+#e. of triangle vòng trong bàng tiếp một tam giác

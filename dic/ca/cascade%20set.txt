@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#máy nối tầng
+#tập hợp tầng nối tiếp

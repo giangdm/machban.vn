@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tên công ty
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tên công ty
+#tên tổng công ty

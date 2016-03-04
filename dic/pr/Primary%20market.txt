@@ -1,0 +1,7 @@
+﻿@Primary market
+#(Econ) Thị trường sơ cấp.
+: Một số tài sản khi bán lần đầu thì không được bán ở thị trường nơi mà sau đó chúng được buôn bán.
+@Chuyên ngành kinh tế
+#thị trường cấp một
+#thị trường cấp một, sơ cấp
+#thị trường sơ cấp

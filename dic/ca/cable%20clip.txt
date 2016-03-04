@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#cái kẹp cáp, cái móc cáp
+#cái nẹp cáp
+#kẹp cáp
+#móc cáp
+@Lĩnh vực: cơ khí & công trình
+#cái kẹp cáp
+@Lĩnh vực: hóa học & vật liệu
+#cái xiết
+@Lĩnh vực: điện
+#cáp thắt
+#móc treo cáp

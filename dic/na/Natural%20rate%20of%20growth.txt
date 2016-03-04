@@ -1,0 +1,3 @@
+﻿@Natural rate of growth
+#(Econ) Tỉ lệ tăng trưởng tự nhiên.
+: Là tỉ lệ tăng trưởng của lực lượng lao động có làm việc trong mô hình tăng trưởng HARROD - DOMAR.

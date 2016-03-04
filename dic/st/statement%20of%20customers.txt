@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#bản kê nợ phải thu
+#bản kết toán khách hàng

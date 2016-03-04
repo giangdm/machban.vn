@@ -1,0 +1,10 @@
+﻿@Secular trend
+#(Econ) Xu hướng lâu dài
+: Từ secular chỉ ra rằng đó là xu hướng tính toán cho những dữ liệu dài hạn.
+@Chuyên ngành kinh tế
+#chiều hướng trường kỳ
+#xu thế lâu dài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#xu hướng trường kỳ
+#xu thế trường kỳ

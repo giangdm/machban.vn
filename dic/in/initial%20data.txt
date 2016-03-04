@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#số liệu ban đầu
+@Lĩnh vực: toán & tin
+#dữ kiện ban đầu
+#dữ kiện khởi thủy
+@Lĩnh vực: điện tử & viễn thông
+#dữ liệu ban đầu

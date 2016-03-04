@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống lạnh bằng các tia hơi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) làm lạnh kiểu phun
+#hệ thống làm lạnh kiểu phun

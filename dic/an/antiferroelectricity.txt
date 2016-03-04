@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiện tượng phản sắt điện
+#tính phản sắt điện
+#tính phản xenhet điện

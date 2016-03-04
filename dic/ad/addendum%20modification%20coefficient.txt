@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số biến đổi đầu răng
+#hệ số dịch chuyển đầu răng

@@ -1,0 +1,6 @@
+﻿@theatre-in-the-round
+#thành ngữ theatre
+#theatre-in-the-round
+#hình thức diễn kịch với khán giả ngồi chung quanh một sân khấu nằm ở giữa
+#thành ngữ theatre
+=theatre-in-the-round:hình thức diễn kịch với khán giả ngồi chung quanh một sân khấu nằm ở giữa

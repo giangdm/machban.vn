@@ -1,0 +1,3 @@
+﻿@Liquid asset
+#(Econ) Tài sản dễ hoán chuyển; Tài sản lỏng; tài sản dễ thanh tiêu .
+: Xem LIQUIDITY.

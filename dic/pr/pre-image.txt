@@ -1,0 +1,6 @@
+﻿@pre-image
+#nghịch ảnh; hàm gốc (trong phép biến đổi Laplat)
+@Chuyên ngành kỹ thuật
+#nghịch ảnh
+@Lĩnh vực: toán & tin
+#hàm gốc (trong phép biến đổi Laplace)

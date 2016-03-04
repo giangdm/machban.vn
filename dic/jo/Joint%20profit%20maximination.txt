@@ -1,0 +1,3 @@
+﻿@Joint profit maximination
+#(Econ) Tối đa hoá lợi nhuận chung.
+: Tối đa hoá lợi nhuận kết hợp của một nhóm doanh nghiệp.

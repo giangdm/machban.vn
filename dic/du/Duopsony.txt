@@ -1,0 +1,5 @@
+﻿@Duopsony
+#(Econ) Lưỡng độc quyền mua.
+: Một thị trường chỉ có hai người mua cùng một loại sản phẩm hay dịch vụ đem trao đổi.
+@Chuyên ngành kinh tế
+#lưỡng độc quyền mua

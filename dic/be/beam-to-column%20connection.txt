@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#liên kết dầm và cột
+#liên kết dầm với cột
+#liên kết rầm và cột

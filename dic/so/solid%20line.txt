@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đường liền nét
+#đường nét đậm
+#nét đậm
+@Lĩnh vực: điện tử & viễn thông
+#đường chất rắn
+@Lĩnh vực: xây dựng
+#đường rắn

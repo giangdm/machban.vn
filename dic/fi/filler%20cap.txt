@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#nắp bình xăng
+#nắp đậy
+#nắp miệng rót
+#thùng chứa
+@Lĩnh vực: điện
+#nắp bình điện
+@Lĩnh vực: ô tô
+#nắp đậy bình xăng
+#nắp miệng thùng
+@Chuyên ngành kỹ thuật
+#nắp bình xăng
+#nắp đậy
+#nắp miệng rót
+#thùng chứa
+@Lĩnh vực: điện
+#nắp bình điện
+@Lĩnh vực: ô tô
+#nắp đậy bình xăng
+#nắp miệng thùng

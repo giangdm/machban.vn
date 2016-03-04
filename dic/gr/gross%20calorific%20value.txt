@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#năng suất tỏa nhiệt thô
+#nhiệt hữu ích
+#tổng năng suất tỏa nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#năng suất tỏa nhiệt toàn phần

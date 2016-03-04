@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#chiếu phiếu thanh toán
+#thanh toán ngay khi trình phiếu
+#trả ngay khi có yêu cầu
+#trả tiền khi yêu cầu
+#trả tiền ngay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#theo đơn đặt hàng

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn dưới
+@Lĩnh vực: toán & tin
+#cận dưới
+#giới hạn thấp
+@Lĩnh vực: xây dựng
+#ranh dưới

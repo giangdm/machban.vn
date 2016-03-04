@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#sứ xuyên
+@Lĩnh vực: điện
+#bầu xuyên
+#thiết bị cách điện tiếp xuyên
+@Lĩnh vực: điện lạnh
+#đầu nối xuyên
+#thiết bị cách điện điện xuyên
+@Chuyên ngành kỹ thuật
+#sứ xuyên
+@Lĩnh vực: điện
+#bầu xuyên
+#thiết bị cách điện tiếp xuyên
+@Lĩnh vực: điện lạnh
+#đầu nối xuyên
+#thiết bị cách điện điện xuyên

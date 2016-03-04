@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#máy ly tâm phân loại
+#máy tách ly tâm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#máy phân ly ly tâm
+@Lĩnh vực: hóa học & vật liệu
+#máy tách ly tâm
+#thiết bị tách ly tâm

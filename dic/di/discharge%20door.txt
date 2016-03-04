@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa đẩy
+#cửa xả
+@Lĩnh vực: điện lạnh
+#cửa đẩy[xả]

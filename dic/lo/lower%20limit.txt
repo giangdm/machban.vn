@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giảm mức
+#hạ mức xuống
+@Chuyên ngành kỹ thuật
+#cận dưới (của tích phân)
+#giới hạn dưới

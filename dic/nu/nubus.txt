@@ -1,0 +1,2 @@
+﻿@nubus
+#Loại bus mở rộng tốc độ cao của các máy tính Macintosh II NuBus đòi hỏi các bộ điều hợp được thiết kế đặc biệt để dùng với khe cắm 96 chân của nó

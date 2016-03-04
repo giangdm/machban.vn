@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#công suất lớn nhất
+@Lĩnh vực: xây dựng
+#công suất tối đa
+@Lĩnh vực: toán & tin
+#công xuất tối đa

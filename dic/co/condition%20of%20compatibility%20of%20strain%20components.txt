@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#điều kiện nhập biến dạng
+#điều kiện xanh Vơnăng

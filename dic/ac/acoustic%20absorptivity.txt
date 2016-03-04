@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khả năng hấp thụ âm
+@Lĩnh vực: toán & tin
+#tính hấp thụ âm

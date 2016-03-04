@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự căng (làm giãn trước)
+#sự xoắn (làm giãn trước)

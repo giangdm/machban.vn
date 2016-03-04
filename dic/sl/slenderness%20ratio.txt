@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ mảnh
+#hệ số uốn
+@Lĩnh vực: xây dựng
+#hệ số độ mảnh
+#tỷ lệ thanh mảnh (của cột)

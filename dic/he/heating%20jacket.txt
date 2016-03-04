@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#vỏ gia nhiệt
+@Lĩnh vực: vật lý
+#áo gia nhiệt
+#áo làm ấm
+@Lĩnh vực: xây dựng
+#bọc sưởi
+@Lĩnh vực: hóa học & vật liệu
+#vỏ đốt lò

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#máy cất đồ nặng
+#máy nhấc hàng
+@Chuyên ngành kỹ thuật
+#cần trục
+#máy nâng hàng
+@Lĩnh vực: hóa học & vật liệu
+#máy nâng tải
+@Lĩnh vực: cơ khí & công trình
+#máy trục hàng
+@Lĩnh vực: xây dựng
+#thiết bị nâng hàng hóa

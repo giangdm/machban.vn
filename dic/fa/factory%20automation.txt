@@ -1,0 +1,8 @@
+﻿@factory automation
+#(Tech) tự động hóa cơ xưởng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tự động hóa xí nghiệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tự động hóa xí nghiệp

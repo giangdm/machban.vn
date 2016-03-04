@@ -1,0 +1,2 @@
+﻿@excess conductivity
+#(Tech) tính dẫn thừa

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hiệu suất truyền
+@Lĩnh vực: điện tử & viễn thông
+#hiệu suất truyền dẫn

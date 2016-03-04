@@ -1,0 +1,3 @@
+﻿@colour-cell
+*danh từ
+#(sinh học) tế bào sắc tố

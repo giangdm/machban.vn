@@ -1,0 +1,6 @@
+﻿@Moving average
+#(Econ) Trung bình động.
+: Là một phương pháp nhằm loại bớt những biến động số liệu.
+@Chuyên ngành kinh tế
+#số bình quân di động (thống kê)
+#số trung bình động

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giờ máy
+#suất giờ máy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giờ máy

@@ -1,0 +1,2 @@
+﻿@display highlighting
+#(Tech) nổi bật hiển thị (trên màn hình)

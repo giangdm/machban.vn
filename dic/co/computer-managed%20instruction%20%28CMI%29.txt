@@ -1,0 +1,2 @@
+﻿@computer-managed instruction (CMI)
+#(Tech) dạy học bằng máy điện toán = computer assisted instruction

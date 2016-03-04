@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#lượng cực nhọc cho phép
+#mức chịu được mệt mỏi
+@Chuyên ngành kỹ thuật
+#độ dừng phục hồi
+#đọ dừng thư giãn
+#độ mỏi cho phép
+#sự bù mệt mỏi
+@Chuyên ngành kỹ thuật
+#độ dừng phục hồi
+#đọ dừng thư giãn
+#độ mỏi cho phép
+#sự bù mệt mỏi

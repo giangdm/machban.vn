@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch lưỡng ổn
+@Lĩnh vực: toán & tin
+#mạch hai trạng thái bền
+#mạch ổn định kép

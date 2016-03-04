@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dàn ngưng ghép
+#dàn ngưng tháo rời được
+#giàn ngưng ghép
+#giàn ngưng tháo rời được

@@ -1,0 +1,7 @@
+﻿@antenna array
+#(Tech) giàn ăngten
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống ăng ten nối ghép
+@Lĩnh vực: điện tử & viễn thông
+#mạng ăng-ten

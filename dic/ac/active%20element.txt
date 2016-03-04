@@ -1,0 +1,7 @@
+﻿@active element
+#(Tech) phần tử hoạt tính, phần tử chủ động
+@Chuyên ngành kỹ thuật
+#phần tử chủ động
+#phần tử hoạt động
+@Lĩnh vực: toán & tin
+#phần tử tích cực

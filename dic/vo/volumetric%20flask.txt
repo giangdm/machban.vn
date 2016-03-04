@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bình định mức
+@Chuyên ngành kỹ thuật
+#bình đong
+@Lĩnh vực: vật lý
+#bình chia độ
+#bình định mức

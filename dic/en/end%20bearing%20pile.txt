@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cọc chịu lực ở đầu mũi
+#cọc chịu tải ở đầu cùng
+@Lĩnh vực: cơ khí & công trình
+#cọc chống nền chịu lực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cọc chịu lực ở đầu mũi
+#cọc chịu tải ở đầu cùng
+@Lĩnh vực: cơ khí & công trình
+#cọc chống nền chịu lực

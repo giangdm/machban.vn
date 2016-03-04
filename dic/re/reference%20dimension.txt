@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#kích thước chuẩn
+@Lĩnh vực: xây dựng
+#kích thước chỉ dẫn
+#kích thước tra cứu
+@Lĩnh vực: cơ khí & công trình
+#kích thước quy chiếu
+#kích thước tham chiếu

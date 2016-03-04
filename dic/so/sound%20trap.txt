@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lọc âm thanh
+@Lĩnh vực: điện tử & viễn thông
+#bộ loại trừ âm thanh
+@Lĩnh vực: xây dựng
+#ống giảm tiếng ồn (ống thông gió)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tốc độ gió làm lạnh cần thiết
+#tốc độ luồng gió làm lạnh

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dãy xung sinh từ tín hiệu đọc
+#dãy xung xuất từ tín hiệu đọc

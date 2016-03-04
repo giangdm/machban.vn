@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#ống phản lực động áp
+@Lĩnh vực: vật lý
+#ống phản lực thẳng dòng

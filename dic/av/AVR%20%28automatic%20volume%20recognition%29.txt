@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự nhận biết dung lượng tự động
+#sự nhận biết khối tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhận dạng âm lượng tự động

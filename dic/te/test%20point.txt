@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm kiểm tra
+#điểm thử
+@Lĩnh vực: điện tử & viễn thông
+#điểm thử nghiệm

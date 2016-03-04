@@ -1,0 +1,7 @@
+﻿@turnplate
+*danh từ
+#bàn xoay; bộ xoay
+@Chuyên ngành kỹ thuật
+#bàn xoay
+#đĩa quay
+#mâm quay

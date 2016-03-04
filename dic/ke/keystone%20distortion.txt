@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#méo hình thang
+@Lĩnh vực: điện
+#sự méo hình thang
+@Lĩnh vực: toán & tin
+#sự méo mó hình thang
+@Chuyên ngành kỹ thuật
+#méo hình thang
+@Lĩnh vực: điện
+#sự méo hình thang
+@Lĩnh vực: toán & tin
+#sự méo mó hình thang

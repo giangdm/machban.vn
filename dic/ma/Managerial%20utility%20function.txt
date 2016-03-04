@@ -1,0 +1,3 @@
+﻿@Managerial utility function
+#(Econ) Hàm thoả dụng trong quản lý.
+: Mối quan hệ này quy định cụ thể những luận chứng mà thứ tự ưu tiên của các nhà quản lý của doanh nghiệp phụ thuộc vào đó.

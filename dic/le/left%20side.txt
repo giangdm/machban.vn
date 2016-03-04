@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bên trái
+#mặt trái
+#phía bên trái
+#vế trái
+@Lĩnh vực: toán & tin
+#cạnh trái
+@Chuyên ngành kỹ thuật
+#bên trái
+#mặt trái
+#phía bên trái
+#vế trái
+@Lĩnh vực: toán & tin
+#cạnh trái

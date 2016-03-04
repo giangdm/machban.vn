@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#chỉ số
+#dấu thang đo
+#vạch chia độ
+#vạch thang đo
+@Lĩnh vực: cơ khí & công trình
+#phân chia độ
+#phần chia thang đo
+#sự chia độ thang đo
+@Lĩnh vực: xây dựng
+#sự phân khoảng tỉ lệ

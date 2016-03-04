@@ -1,0 +1,2 @@
+﻿@conjugate phase change constant
+#(Tech) hệ số lệch vị tướng liên hợp

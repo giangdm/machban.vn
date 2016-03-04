@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#các ngôn ngữ lập trình chức năng và kiến trúc máy tính

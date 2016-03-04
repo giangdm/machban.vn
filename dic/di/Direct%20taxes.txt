@@ -1,0 +1,6 @@
+﻿@Direct taxes
+#(Econ) Thuế trực thu.
+: Là thuế đánh trực tiếp vào cá nhân hay hãng. Thuế này ngược với thuế gián thu.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thuế trực thu

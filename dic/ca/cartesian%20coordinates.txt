@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ tọa độ vuông góc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ tọa độ Descartes
+@Lĩnh vực: toán & tin
+#tọa độ Đề các
+#tọa độ Descarters (Đề các)

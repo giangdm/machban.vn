@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm sôi
+#nhiệt độ sôi
+#nhiệt độ sôi bọt
+@Lĩnh vực: điện lạnh
+#điểm sôi bọt
+@Lĩnh vực: điện
+#điểm sủi (tăm)

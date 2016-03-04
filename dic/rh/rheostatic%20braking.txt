@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hãm bằng biến trở
+#sự phanh hộp số
+@Lĩnh vực: giao thông & vận tải
+#sự hãm bằng biến trở
+@Lĩnh vực: xây dựng
+#sự phanh kiểu biến trở

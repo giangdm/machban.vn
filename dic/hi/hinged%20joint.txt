@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp bản lề
+@Lĩnh vực: xây dựng
+#nút khớp

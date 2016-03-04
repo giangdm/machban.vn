@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lỗi lôgic
+@Lĩnh vực: xây dựng
+#sai lầm về lý luận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lỗi lôgic
+@Lĩnh vực: xây dựng
+#sai lầm về lý luận

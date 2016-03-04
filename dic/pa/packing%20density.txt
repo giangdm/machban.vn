@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#mật độ bảo quản
+#mật độ bit
+#mật độ lưu trữ
+#mật độ nén
+#mật độ nhớ
+@Lĩnh vực: toán & tin
+#mật độ bít
+#mật độ đóng gói
+#mật độ dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#mật độ bó (ở các IC)
+#mật độ xếp chặt
+@Lĩnh vực: hóa học & vật liệu
+#mật độ nén chặt

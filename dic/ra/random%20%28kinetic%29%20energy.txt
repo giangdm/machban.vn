@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#năng lượng hỗn độn
+#năng lượng nhiệt
+@Lĩnh vực: điện lạnh
+#động năng hỗn độn

@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#hào lọc
+#rãnh lọc
+@Lĩnh vực: xây dựng
+#đường hầm lọc nước
+#đường hầm tiêu nước
+@Lĩnh vực: cơ khí & công trình
+#hành lang lọc
+@Chuyên ngành kỹ thuật
+#hào lọc
+#rãnh lọc
+@Lĩnh vực: xây dựng
+#đường hầm lọc nước
+#đường hầm tiêu nước
+@Lĩnh vực: cơ khí & công trình
+#hành lang lọc

@@ -1,0 +1,4 @@
+﻿@prop-roots
+*danh từ
+#số nhiều
+#rễ phụ ký sinh

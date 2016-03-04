@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#van đĩa
+@Lĩnh vực: hóa học & vật liệu
+#quạt đĩa
+@Lĩnh vực: ô tô
+#van dạng đĩa
+@Lĩnh vực: xây dựng
+#van kiểu đĩa

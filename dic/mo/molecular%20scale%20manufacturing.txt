@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#chế tạo ở thang phân tử
+#chế tạo quy mô phân tử

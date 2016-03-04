@@ -1,0 +1,10 @@
+﻿@Internalization
+#(Econ) Nội hoá.
+: Một tình huống trong đó một ngoại ứng, thường là ngoại ứng phi kinh tế, được tính toán đến và SẢN LƯỢNG của hàng hoá gây ra tác động không tốt được giảm xuống mức tối ưu, đồng thời vẫn tồn tại một lượng ngoại ứng tối ưu, nghĩa là chi phí của việc giảm ngoại ứng đi thêm một đơn vị nữa lớn hơn lợi ích thu được từ việc làm như vậy.
+<!-- more -->
+@internalization /in,tə:nəlai'zeiʃn/
+*danh từ
+#sự tiếp thu (phong tục, văn hoá...)
+#sự chủ quan hoá, sự làm cho có tính chất chủ quan
+@Chuyên ngành kinh tế
+#việc nội bộ hóa

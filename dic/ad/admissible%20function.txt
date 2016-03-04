@@ -1,0 +1,2 @@
+﻿@admissible function
+#(Tech) hàm số chấp nhận được [NB]

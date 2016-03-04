@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#máy chữ có bộ nhớ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy chữ có bộ nhớ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bình giãn dầu
+@Lĩnh vực: điện lạnh
+#bình bảo quản dầu
+@Lĩnh vực: điện
+#thùng bảo quản dầu

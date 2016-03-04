@@ -1,0 +1,2 @@
+﻿@vram
+#Các chip nhớ RAM động được thiết kế đặt biệt để nâng hiệu suất của các bộ điều hợp video lên cao nhất

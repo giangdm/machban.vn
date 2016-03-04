@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#vùng quang phổ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#khoảng phổ

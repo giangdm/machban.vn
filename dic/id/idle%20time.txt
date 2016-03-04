@@ -1,0 +1,21 @@
+﻿@Chuyên ngành kinh tế
+#không hoạt động
+#thời gian nghỉ chờ việc
+#thời gian ngừng việc
+#thời gian vô ích
+#vô hiệu
+@Chuyên ngành kỹ thuật
+#thời gian không hoạt động
+#thời gian nghỉ
+#thời gian ngừng
+#thời gian rỗi
+@Lĩnh vực: giao thông & vận tải
+#thời gian chạy không tải
+@Lĩnh vực: toán & tin
+#thời gian idle
+@Lĩnh vực: hóa học & vật liệu
+#thời gian không tải
+@Lĩnh vực: xây dựng
+#thời gian ngừng làm việc
+#thời gian ngừng máy
+#thời gian trống

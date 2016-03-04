@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ cân bằng tĩnh
+#bộ chia điện áp
+#chiết áp
+@Lĩnh vực: điện
+#bộ phân áp
+@Lĩnh vực: điện lạnh
+#bộ phân thế

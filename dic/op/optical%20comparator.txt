@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy so mẫu quang học
+@Lĩnh vực: đo lường & điều khiển
+#bộ so sánh quang

@@ -1,0 +1,2 @@
+﻿@accommodation limits
+#(Tech) giới hạn dung chứa

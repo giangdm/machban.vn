@@ -1,0 +1,2 @@
+﻿@autodyne oscillator
+#(Tech) bộ dao động tự sai [TQ]

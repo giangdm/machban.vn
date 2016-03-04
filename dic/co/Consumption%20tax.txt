@@ -1,0 +1,5 @@
+﻿@Consumption tax
+#(Econ) Thuế tiêu dùng
+: Thuế này có thể có hai dạng: một là, khi bản thân người tiêu dùng bị đánh thuế như với THUẾ CHI TIÊU và hai là, khi hàng hoá và dịch vụ người tiêu dùng mua bị đánh thuế. Trong trường hợp đầu thuế được đánh vào hãng cung cấp dịch vụ hay hàng hoá.
+@Chuyên ngành kinh tế
+#thuế tiêu dùng

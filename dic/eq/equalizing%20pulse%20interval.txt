@@ -1,0 +1,2 @@
+﻿@equalizing pulse interval
+#(Tech) khoảng cách xung làm bằng

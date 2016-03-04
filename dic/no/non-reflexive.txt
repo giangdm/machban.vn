@@ -1,0 +1,4 @@
+﻿@non-reflexive
+#(logic học) không phản xạ
+@Chuyên ngành kỹ thuật
+#không phản xạ

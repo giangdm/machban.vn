@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng sắp chữ
+#vùng văn bản
+@Lĩnh vực: toán & tin
+#vùng đánh văn bản

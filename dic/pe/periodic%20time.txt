@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#chu kỳ
+#khoảng thời gian
+@Lĩnh vực: điện tử & viễn thông
+#quãng thời gian
+#thời gian định kỳ
+@Lĩnh vực: điện
+#thời gian lặp lại

@@ -1,0 +1,6 @@
+﻿@crossbar selector
+#(Tech) bộ chọn ngang dọc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ chọn ngang dọc
+#hệ ghép chéo

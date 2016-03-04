@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#quá trình biến đổi A/D
+#sự biến đổi A/D

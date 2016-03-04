@@ -1,0 +1,3 @@
+﻿@price-index
+*danh từ
+#chỉ số giá cả

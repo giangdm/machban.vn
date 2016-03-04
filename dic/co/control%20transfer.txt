@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#sự chuyển điều khiển
+@Lĩnh vực: đo lường & điều khiển
+#công nghệ điều khiển
+@Lĩnh vực: toán & tin
+#sự truyền điều khiển
+@Lĩnh vực: điện tử & viễn thông
+#truyền điều khiển

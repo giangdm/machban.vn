@@ -1,0 +1,15 @@
+﻿@Floating capital
+#(Econ) Vốn luân chuyển.
+: Cụm thuật ngữ có cùng nghĩa có cùng nghĩa như vốn lưu động, chỉ số tiền được đầu tư vào công việc đang được thực hiện, tiền công cần trả hay bất kỳ một loại đầu tư nào khác không phải là tài sản cố định.
+@Chuyên ngành kinh tế
+#vốn lưu động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tiền vốn luân chuyển
+@Lĩnh vực: hóa học & vật liệu
+#vốn lưu chuyển
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tiền vốn luân chuyển
+@Lĩnh vực: hóa học & vật liệu
+#vốn lưu chuyển

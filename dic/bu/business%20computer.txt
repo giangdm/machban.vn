@@ -1,0 +1,10 @@
+﻿@business computer
+#(Tech) máy điện toán kinh doanh
+@Chuyên ngành kinh tế
+#máy (vi) tính (dùng trong) thương nghiệp
+@Chuyên ngành kỹ thuật
+#máy tính kinh doanh
+@Lĩnh vực: toán & tin
+#máy tính thương mại
+@Lĩnh vực: điện tử & viễn thông
+#máy tình thương mại

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#trung bình điều hòa (số bình quân điều hòa)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trung bình điều hòa

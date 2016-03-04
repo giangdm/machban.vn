@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#vào/ra
+@Chuyên ngành kỹ thuật
+#nhập/xuất
+@Lĩnh vực: toán & tin
+#đầu vào/đầu ra

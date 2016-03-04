@@ -1,0 +1,6 @@
+﻿@cable core
+#(Tech) lõi cáp
+@Chuyên ngành kỹ thuật
+#lõi cáp
+#ruột cáp
+#vỏ cáp

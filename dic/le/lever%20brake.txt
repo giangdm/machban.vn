@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#cần
+@Lĩnh vực: toán & tin
+#cần, tay thắng
+@Lĩnh vực: cơ khí & công trình
+#phanh cần
+@Lĩnh vực: hóa học & vật liệu
+#phanh đòn
+@Chuyên ngành kỹ thuật
+#cần
+@Lĩnh vực: toán & tin
+#cần, tay thắng
+@Lĩnh vực: cơ khí & công trình
+#phanh cần
+@Lĩnh vực: hóa học & vật liệu
+#phanh đòn

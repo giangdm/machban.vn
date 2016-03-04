@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lập kế hoạch thực nghiệm
+@Lĩnh vực: toán & tin
+#thiết kế thí nghiệm

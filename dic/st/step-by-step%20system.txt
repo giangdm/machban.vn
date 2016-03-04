@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ chuyển mạch từng nấc (điện thoại)
+@Lĩnh vực: đo lường & điều khiển
+#hệ thống tuần tự tứng bước
+@Lĩnh vực: toán & tin
+#hệ thống từng bước

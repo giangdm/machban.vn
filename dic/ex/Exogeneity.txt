@@ -1,0 +1,3 @@
+﻿@Exogeneity
+#(Econ) Yếu tố ngoại sinh.
+: Nếu các biến số giải thích trong một phương trình MÔ HÌNH KINH TẾ LƯỢNG có thể được coi là cố định trong các mẫu được lặp lại, chúng được coi là các biến ngoại sinh.

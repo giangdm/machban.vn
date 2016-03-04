@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#đồ nghề, toàn bộ đồ dùng mua bán
+#hàng chờ bán
+#hàng có sẵn trong kho
+#hàng hiện có
+#hàng trữ trong kho

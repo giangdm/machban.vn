@@ -1,0 +1,10 @@
+﻿@error interrupt
+#(Tech) ngắt khi có sai số
+@Chuyên ngành kỹ thuật
+#ngắt báo lỗi
+@Lĩnh vực: toán & tin
+#ngắt do lỗi
+@Chuyên ngành kỹ thuật
+#ngắt báo lỗi
+@Lĩnh vực: toán & tin
+#ngắt do lỗi

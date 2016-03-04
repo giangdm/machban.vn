@@ -1,0 +1,3 @@
+﻿@Probability density function
+#(Econ) Hàm mật độ xác xuất.
+: Một hàm số miêu tả hình dạng của một phân phối xác suất mà khi đưa vào giữa các giới hạn nào đó sẽ cho xác suất mà với xác suất này biến số của nó sẽ có những trị số ở giữa những giới hạn ấy.

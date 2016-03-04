@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cột hỗn hợp
+#cột liên hợp
+#cột tổ hợp

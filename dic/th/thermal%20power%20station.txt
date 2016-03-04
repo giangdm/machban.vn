@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhà máy nhiệt điện
+@Lĩnh vực: điện
+#nhà máy (trạm) nhiệt điện
+@Lĩnh vực: điện lạnh
+#trạm nhiệt điện

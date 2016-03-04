@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lệnh khởi động lại
+@Lĩnh vực: điện tử & viễn thông
+#lệnh tái khởi động

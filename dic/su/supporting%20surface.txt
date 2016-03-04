@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#diện tích ổ trục
+#mặt chịu tải
+#mặt tì
+#mặt tựa

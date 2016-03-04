@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ phát xạ đơn sắc
+#độ phát xạ màu
+@Lĩnh vực: hóa học & vật liệu
+#khả năng bức xạ màu

@@ -1,0 +1,5 @@
+﻿@Cross elasticity of demand
+#(Econ) Độ co giãn chéo của cầu
+: Là tỷ lệ thay đổi trong lượng cầu đối với một hàng theo thay đổi giá của một hàng hoá khác.
+@Chuyên ngành kinh tế
+#mức co giãn theo giá chéo của cầu

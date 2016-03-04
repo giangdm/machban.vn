@@ -1,0 +1,12 @@
+﻿@estate car
+*danh từ
+#xe có ngăn riêng xếp hành lý
+@Chuyên ngành kinh tế
+#chở hàng và chở khách
+#xe chở hàng và chở khách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#ô tô liên hợp (Anh)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#ô tô liên hợp (Anh)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy chữ tự động
+@Lĩnh vực: toán & tin
+#máy đánh chữ tự động

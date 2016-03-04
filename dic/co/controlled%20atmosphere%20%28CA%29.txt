@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều chỉnh
+#bộ điều khiển
+#bộ phận điều khiển
+#cấu điều chỉnh
+#cấu điều khiển
+#thiết bị điều chỉnh
+#thiết bị điều khiển

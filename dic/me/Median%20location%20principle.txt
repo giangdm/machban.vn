@@ -1,0 +1,3 @@
+﻿@Median location principle
+#(Econ) Nguyên lý định vị trung bình.
+: Là một quy tắc dùng để tìm ra địa điểm mà tại đó tổng khối lượng vận chuyển cần phải thực hiện để phục vụ cho một nhóm các thị trường phân tán về vị trí địa lý có giá trị tối thiểu.

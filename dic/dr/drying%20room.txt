@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống sấy
+#nhà sấy
+#phòng sấu
+@Chuyên ngành kỹ thuật
+#buồng sấy
+#phòng sấy

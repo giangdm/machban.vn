@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự xác định năng suất làm lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thử nghiệm lạnh

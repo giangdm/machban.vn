@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều khiển tự động
+@Lĩnh vực: toán & tin
+#mạch điều khiển mức tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển mức tự động

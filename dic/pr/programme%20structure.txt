@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#kết cấu kế hoạch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cấu trúc chương trình

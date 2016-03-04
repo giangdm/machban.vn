@@ -1,0 +1,3 @@
+﻿@Payment - by - results
+#(Econ) Trả theo kết qủa.
+: Còn gọi là hệ thống trả lương theo khuyến khích. Hệ thống trả lương theo công việc của công nhân.

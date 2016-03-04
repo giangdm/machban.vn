@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#tấn Mỹ
+#tấn ngắn
+#tấn non
+#tấn phiếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tấn mỹ (907 kg)
+@Lĩnh vực: hóa học & vật liệu
+#tấn Mỹ (907, 185kg)
+@Lĩnh vực: toán & tin
+#tấn Mỹ (907kg)
+@Lĩnh vực: điện
+#tấn Mỹ nhỏ (bằng 907, 2 kg)

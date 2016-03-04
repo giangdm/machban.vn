@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ mô tả file
+#bộ mô tả tập tin
+#ký hiệu mô tả file
+#ký hiệu mô tả tệp
+#phần miêu tả tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ mô tả file
+#bộ mô tả tập tin
+#ký hiệu mô tả file
+#ký hiệu mô tả tệp
+#phần miêu tả tệp

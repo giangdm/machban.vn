@@ -1,0 +1,5 @@
+﻿@Average propensity to consume
+#(Econ) Khuynh hướng tiêu dùng bình quân.
+: Phần của tổng thu nhập Y được chi cho tiêu dùng hàng hoá hoặc dịch vụ C, thay vì đầu tư I.
+@Chuyên ngành kinh tế
+#khuynh hướng tiêu dùng trung bình

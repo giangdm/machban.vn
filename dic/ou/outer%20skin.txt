@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#vỏ ngoài
+@Chuyên ngành kỹ thuật
+#vỏ ngoài
+@Lĩnh vực: giao thông & vận tải
+#vỏ tàu ngoài

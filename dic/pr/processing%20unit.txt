@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ xử lý
+@Lĩnh vực: toán & tin
+#đơn vị xử lý
+#khối xử lý

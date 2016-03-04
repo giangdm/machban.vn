@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn kích thước
+#kích thước giới hạn
+@Lĩnh vực: cơ khí & công trình
+#kích thước biên

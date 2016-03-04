@@ -1,0 +1,6 @@
+﻿@Capital movements
+#(Econ) Các luồng di chuyển vốn
+: Các luồng vốn quốc tế có thể được cá nhân hay chính phủ tiến hành
+@Chuyên ngành kinh tế
+#sự lưu động vốn
+#vận động của vốn

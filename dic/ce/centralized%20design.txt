@@ -1,0 +1,2 @@
+﻿@centralized design
+#(Tech) thiết kế tập trung hóa

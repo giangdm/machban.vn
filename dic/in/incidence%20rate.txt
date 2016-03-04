@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#một cách đo tỉ lệ bệnh căn cứ trên số bệnh mới phát trong một quần thể trong một thời gian ước định

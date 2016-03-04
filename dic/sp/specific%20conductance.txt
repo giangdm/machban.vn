@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#điện dẫn suất
+@Lĩnh vực: điện
+#độ dẫn điện riêng
+@Lĩnh vực: hóa học & vật liệu
+#độ dẫn riêng
+@Lĩnh vực: xây dựng
+#tỷ suất điện đạo

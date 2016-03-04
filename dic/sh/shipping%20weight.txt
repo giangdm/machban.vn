@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#trọng lượng chất hàng
+#trọng lượng chở
+#trọng lượng rời bến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#trọng lượng vận chuyển (trọng tải)

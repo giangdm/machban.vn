@@ -1,0 +1,5 @@
+﻿@Impact multiplier
+#(Econ) Số nhân tác động
+: Tác động ngay tức thì của một thay đổi trong BIẾN NGOẠI SINH lên BIẾN NỘI SINH, tương phản với tác động tổng hợp hay dài hạn của sự thay đổi này.
+@Chuyên ngành kinh tế
+#số nhân tác động

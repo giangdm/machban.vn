@@ -1,0 +1,6 @@
+﻿@effective resistance
+#(Tech) điện trở hữu hiệu
+@Chuyên ngành kỹ thuật
+#điện trở cao tần
+#điện trở dòng xoay chiều
+#điện trở hiệu dụng

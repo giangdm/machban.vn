@@ -1,0 +1,2 @@
+﻿@Monetary overhang
+#(Econ) Sự sử dụng quá nhiều tiền mặt.

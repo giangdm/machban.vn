@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#hệ thống phun bụi nước
+@Lĩnh vực: xây dựng
+#hệ thống phun nước

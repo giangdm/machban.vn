@@ -1,0 +1,3 @@
+﻿@Durbin h - statistic
+#(Econ) Số thống kê Durbin - h
+: Số thống kê dự báo bài toán TƯƠNG QUAN CHUỖI hay các hệ số sai số trong phép hồi quy, bao gồm một biến nội sinh trễ hoãn trong trường hợp số thống kê Durbin - Watson-d thông dụng hơn không thể áp dụng được.

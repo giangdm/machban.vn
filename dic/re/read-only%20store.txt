@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ chỉ đọc
+#bộ nhớ cố định
+@Lĩnh vực: điện tử & viễn thông
+#bộ nhớ chết

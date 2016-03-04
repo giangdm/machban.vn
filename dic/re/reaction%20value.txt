@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#giá trị chuyển tiếp (của một công đoạn)
+#giá trị phản ứng

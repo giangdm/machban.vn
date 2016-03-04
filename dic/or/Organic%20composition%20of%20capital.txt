@@ -1,0 +1,5 @@
+﻿@Organic composition of capital
+#(Econ) Thành phần hữu cơ của vốn.
+: Là thuật ngữ do C.MÁC dùng để gọi tỷ số giữa vốn cố định với vốn khả biến và là khái niệm gần giống nhưng không hoàn toàn đồng nghĩa với khái niệm hiện đại về tỉ suất VỐN-LAO ĐỘNG vì vốn cố định chỉ thể hiện được vốn và nguyên liệu đã được sử dụng trong quá trình sản suất chứ khong thể hiện được tổng số vốn và nguyên liệu sẵn có cho lao động.
+@Chuyên ngành kinh tế
+#sự cấu thành hữu cơ của tư bản

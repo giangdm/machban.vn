@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#tín hiệu dội
+#tín hiệu mục tiêu
+#tín hiệu video (ở rađa)
+@Lĩnh vực: xây dựng
+#sóng hiệu thị ảnh
+@Lĩnh vực: điện
+#tín hiệu ảnh
+@Lĩnh vực: toán & tin
+#tín hiệu video

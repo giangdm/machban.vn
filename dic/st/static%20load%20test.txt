@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thí nghiệm tải trọng tĩnh
+@Lĩnh vực: giao thông & vận tải
+#thử tải tĩnh

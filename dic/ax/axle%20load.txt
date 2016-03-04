@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#tải trọng cầu xe
+@Lĩnh vực: xây dựng
+#tải trọng dọc trục
+#tải trọng lên trục
+#tải trọng trên trục
+#tải trọng trục bánh xe
+@Lĩnh vực: hóa học & vật liệu
+#tải trọng ở trục
+@Lĩnh vực: cơ khí & công trình
+#trọng tải của cầu xe

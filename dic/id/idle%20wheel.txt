@@ -1,0 +1,9 @@
+﻿@idle wheel /'aidl'wi:l/
+*danh từ
+#(kỹ thuật) bánh xe đệm, bánh xe dẫn hướng ((cũng) idler)
+@Chuyên ngành kỹ thuật
+#bánh răng chạy không
+#bánh răng đệm
+#bánh răng trung gian
+@Lĩnh vực: điện lạnh
+#bánh răng không (sai động)

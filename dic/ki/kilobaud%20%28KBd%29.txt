@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kilôbaud bằng 1000baud
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kilôbaud bằng 1000baud

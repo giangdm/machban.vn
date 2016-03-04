@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điều kiện ở cửa ra
+#trạng thái ở cửa ra
+@Lĩnh vực: điện lạnh
+#thông số ở cửa ra

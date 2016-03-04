@@ -1,0 +1,5 @@
+﻿@layer cake
+*danh từ
+#bánh ngọt có nhiều lớp nhập lại
+@Chuyên ngành kinh tế
+#bánh ngọt loại từng lớp

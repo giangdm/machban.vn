@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#đường dây có hao hụt
+@Lĩnh vực: điện lạnh
+#đường dây có tổn hao
+@Lĩnh vực: toán & tin
+#đường dây suy giảm
+#đường dây tổn hao

@@ -1,0 +1,2 @@
+﻿@concatenation character
+#(Tech) ký tự nối chuỗi

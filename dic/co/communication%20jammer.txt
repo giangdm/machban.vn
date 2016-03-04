@@ -1,0 +1,2 @@
+﻿@communication jammer
+#(Tech) máy phá rối truyền thông

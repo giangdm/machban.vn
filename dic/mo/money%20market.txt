@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thị trường cho vay ngắn hạn
+#thị trường tài chính
+#thị trường tiền tệ
+#trường tài chính
+@Chuyên ngành kỹ thuật
+#thị trường chứng khoán

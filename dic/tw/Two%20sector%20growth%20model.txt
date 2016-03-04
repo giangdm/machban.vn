@@ -1,0 +1,3 @@
+﻿@Two sector growth model
+#(Econ) Mô hình tăng trưởng hai khu vực.
+: Một mo hình dùng trong thuyết tăng trưởng, trong đó sự khác biệt cơ bản giưa hàng tiêu dùng và hàng tư liệu sản xuất được công nhận, với một khu vực được quan tâm đến mỗi một trong hai hàng hoá này.

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ panen
+#hệ tấm
+#phương pháp lắp tấm
+@Lĩnh vực: hóa học & vật liệu
+#hệ thống bàn điều khiển
+#hệ thống cột khung
+#hệ thống panen
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống bảng điều khiển

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thử so sánh
+@Lĩnh vực: toán & tin
+#dấu hiệu so sánh
+#kiểm tra so sánh
+@Lĩnh vực: hóa học & vật liệu
+#thí nghiệm so sánh

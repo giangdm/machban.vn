@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phương trình vi phân riêng
+@Lĩnh vực: toán & tin
+#phương trình đạo hàm riêng

@@ -1,0 +1,5 @@
+﻿@Central Bank
+#(Econ) Ngân hàng trung ương
+: Một cơ quan có trách nhiệm kiểm soát hệ thống ngân hàng và tiền tệ của một nước, mặc dù có chức năg khác phụ thuộc vào môi trường và cơ cấu tài chính.
+@Chuyên ngành kinh tế
+#ngân hàng trung ương

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị lọc khô
+@Chuyên ngành kỹ thuật
+#bộ lọc khô
+@Lĩnh vực: điện lạnh
+#phin sấy khô

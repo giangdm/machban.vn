@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#định lý Thévenin
+@Lĩnh vực: điện lạnh
+#định lý Helmholtz

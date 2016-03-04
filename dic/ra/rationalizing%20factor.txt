@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#nhân tử hữu tỷ hóa
+@Lĩnh vực: toán & tin
+#nhân tử quan hệ

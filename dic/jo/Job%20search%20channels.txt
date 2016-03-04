@@ -1,0 +1,3 @@
+﻿@Job search channels
+#(Econ) Các kênh tìm việc.
+: Các phương pháp tìm việc hoặc nhận việc làm được phân loại thành chính quy và không chính quy.

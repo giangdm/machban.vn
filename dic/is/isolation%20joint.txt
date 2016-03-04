@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khe giãn
+#khe nhiệt độ
+@Lĩnh vực: xây dựng
+#mạch cách ly

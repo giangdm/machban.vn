@@ -1,0 +1,2 @@
+﻿@detachable plugboard
+#(Tech) bàn điều khiển tách rời được = removable plugboard

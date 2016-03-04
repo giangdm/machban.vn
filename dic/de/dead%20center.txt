@@ -1,0 +1,7 @@
+﻿@dead center
+#ngay chính giữa
+@Chuyên ngành kỹ thuật
+#điểm chết
+#mũi tâm cố định
+#mũi tâm sau
+#mũi tâm ụ sau

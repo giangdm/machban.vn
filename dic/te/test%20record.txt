@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bản ghi kiểm tra
+#bản ghi thử nghiệm
+#báo cáo kiểm tra
+#báo cáo thử nghiệm
+#đĩa hát thử nghiệm
+@Lĩnh vực: toán & tin
+#bản ghi thử

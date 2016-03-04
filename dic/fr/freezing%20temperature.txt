@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt độ ướp lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt độ điểm kết đông

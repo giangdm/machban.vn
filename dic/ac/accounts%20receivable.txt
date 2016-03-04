@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#khoản phải thu
+#số tiền sẽ thu được
+#tài khoản thu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#khoản sẽ thu
+#tài khoản phải thu

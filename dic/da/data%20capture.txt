@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#săn lùng dữ liệu
+@Chuyên ngành kỹ thuật
+#sự bắt dữ liệu
+@Lĩnh vực: toán & tin
+#bắt giữ dữ liệu

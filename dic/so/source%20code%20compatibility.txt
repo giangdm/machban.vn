@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính tương thích của mã nguồn
+#tương thích mã nguồn
+@Lĩnh vực: điện tử & viễn thông
+#tính tương thích mã nguồn

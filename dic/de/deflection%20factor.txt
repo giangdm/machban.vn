@@ -1,0 +1,7 @@
+﻿@deflection factor
+#(Tech) hệ số làm lệch
+@Chuyên ngành kỹ thuật
+#hệ số làm lệch
+#hệ số lệch
+@Lĩnh vực: điện tử & viễn thông
+#hệ số lái tia

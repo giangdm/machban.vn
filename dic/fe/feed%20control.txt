@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#điều chỉnh cung cấp
+@Lĩnh vực: toán & tin
+#điều khiển cấp liệu
+#sự điều khiển nạp giấy
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển kích đẩy
+@Lĩnh vực: điện lạnh
+#điều kiển cấp tải
+#sự điều khiển cấp tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#điều chỉnh cung cấp
+@Lĩnh vực: toán & tin
+#điều khiển cấp liệu
+#sự điều khiển nạp giấy
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển kích đẩy
+@Lĩnh vực: điện lạnh
+#điều kiển cấp tải
+#sự điều khiển cấp tải

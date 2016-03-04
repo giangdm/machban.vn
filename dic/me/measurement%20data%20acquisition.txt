@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#sự ghi chép dữ liệu
+#sự thu nhận dữ liệu đo
+#sự tiếp nhận dữ liệu

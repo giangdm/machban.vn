@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ống dẫn trong tường (nước)
+@Lĩnh vực: điện
+#ống đi dây trong tường (điện)

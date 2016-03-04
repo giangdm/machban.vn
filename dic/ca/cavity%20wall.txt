@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tường có lỗ rỗng
+#tường đôi
+#tường hổng
+#tường kép
+#tường rỗng

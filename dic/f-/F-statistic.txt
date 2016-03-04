@@ -1,0 +1,3 @@
+﻿@F-statistic
+#(Econ) Thống kê F.
+: Thống kê tuân theo phân phối F. Thường được sử dụng để kiểm định ý nghĩa chung của một tập hợp các biến giải thích trong phân tích hồi quy.

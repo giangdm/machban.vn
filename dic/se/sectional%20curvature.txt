@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ cong (phương) hai chiều
+#độ cong theo hướng (phương) hai chiều

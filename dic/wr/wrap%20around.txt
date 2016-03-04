@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bọc quanh
+@Lĩnh vực: toán & tin
+#xuống hàng tự động

@@ -1,0 +1,6 @@
+﻿@Growth theory
+#(Econ) Lý thuyết tăng trưởng.
+: Các mô hình nảy sinh từ việc nghiên cứu nền kinh tế khi có sự thay đổi về lượng tư bản, quy mô dân số và kéo theo áp lực về số lượng và cơ cấu tuổi của lực lượng lao động và tiến bộ kỹ thuật. Có 2 nhóm lý thuyết chính: 1)Lý thuyết tăng trưởng tân cổ điển. 2)Lý thuyết tăng trưởng của Keynes (và Keynes mới).
+@Chuyên ngành kinh tế
+#lý thuyết tăng trưởng
+#thuyết tăng trưởng

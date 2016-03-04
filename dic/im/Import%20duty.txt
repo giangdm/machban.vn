@@ -1,0 +1,9 @@
+﻿@Import duty
+#(Econ) Thuế nhập khẩu.
+: Xem TARIFFS.
+@Chuyên ngành kinh tế
+#thuế nhập khẩu
+#thuế quan
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thuế nhập khẩu

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#luồng quạt hút gió
+#quạt hút gió
+@Lĩnh vực: điện lạnh
+#dòng gió hút
+#dòng không khí hút
+#luồng gió hút

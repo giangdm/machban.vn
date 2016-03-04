@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hằng số khí phổ biến
+@Lĩnh vực: điện lạnh
+#hằng số khí tuyệt đối

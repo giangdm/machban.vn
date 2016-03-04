@@ -1,0 +1,5 @@
+﻿@Sum of squares
+#(Econ) Tổng các bình phương.
+: Tổng các giá trị bình phương của một dãy các giá trị quan sát của một biến số, thông thường là các giá trị sai lệch so với giá trị TRUNG BÌNH.
+@Chuyên ngành kinh tế
+#tổng bình phương

@@ -1,0 +1,5 @@
+﻿@demand loan
+#phiếu vay nợ thanh toán
+@Chuyên ngành kinh tế
+#khoản cho vay không kỳ hạn
+#khoản vay không thời hạn

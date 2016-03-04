@@ -1,0 +1,3 @@
+﻿@Cumulative shares
+#(Econ) Cổ phiếu được trả lợi theo tích luỹ
+: Xem FINANCIAL CAPITAL.

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy biên chỉnh âm thanh
+@Lĩnh vực: toán & tin
+#máy biến chỉnh âm thanh

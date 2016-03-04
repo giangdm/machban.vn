@@ -1,0 +1,5 @@
+﻿@computational complexity
+#(Tech) tính phức tạp tính toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ phức tạp tính toán

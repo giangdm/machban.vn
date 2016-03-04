@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng kết đông thử nghiệm
+#máy (buồng) kết đông thử nghiệm
+#máy kết đông thử nghiệm

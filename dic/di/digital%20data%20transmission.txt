@@ -1,0 +1,5 @@
+﻿@digital data transmission
+#(Tech) truyền dữ liệu dạng số tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự truyền dữ liệu số

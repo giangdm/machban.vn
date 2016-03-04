@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị ngưng tụ của hỗn hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bộ ngưng tụ tiếp xúc

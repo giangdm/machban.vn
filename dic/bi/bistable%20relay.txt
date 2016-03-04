@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#rơle hai trạng thái
+@Lĩnh vực: điện
+#rơle hai vị trí
+#rơle lưỡng ổn
+#rơle trạng thái ổn định

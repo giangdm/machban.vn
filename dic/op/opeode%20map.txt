@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản đồ mã hoạt động
+#bản đồ mã vận hành
+#sơ đồ mã phép toán

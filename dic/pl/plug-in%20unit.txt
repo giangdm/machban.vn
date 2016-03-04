@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn vị cắm vào
+@Lĩnh vực: điện
+#bộ cắm điện
+#ổ phích cắm
+#thiết bị ghép vào
+@Lĩnh vực: điện tử & viễn thông
+#bộ phận gắn vào được

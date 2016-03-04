@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#lượng hao giảm (hàng trong) kho
+#lượng hao giảm (hàng) trong kho

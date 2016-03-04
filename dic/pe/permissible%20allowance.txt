@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ lệch cho phép
+@Lĩnh vực: cơ khí & công trình
+#dung sai được phép

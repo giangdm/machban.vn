@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bánh xe Pelton
+@Lĩnh vực: điện
+#bánh xe Pelton (tuabin Pelton)

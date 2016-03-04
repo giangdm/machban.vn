@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đệm tạo tầng sôi
+#lớp sôi
+@Lĩnh vực: hóa học & vật liệu
+#lớp lỏng tầng sôi
+@Lĩnh vực: điện lạnh
+#tầng giả hóa lỏng
+@Lĩnh vực: điện
+#tầng sôi (trong buồng lửa)

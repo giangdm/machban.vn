@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#cách ly
+#ngắt
+#ngắt điện
+#ngắt nguồn điện
+#mất điện
+#sự ngắt mạch
+#tách
+@Lĩnh vực: điện
+#công suất giảm dần
+#ngắt nguồn điện (bộ nhớ bán dẫn)
+#sự cắt mặt

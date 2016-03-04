@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bản nối
+@Lĩnh vực: toán & tin
+#bản nối, bản phủ
+@Lĩnh vực: xây dựng
+#bản phủ
+#tấm ghép
+@Lĩnh vực: cơ khí & công trình
+#tấm che mạch nối

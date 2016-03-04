@@ -1,0 +1,5 @@
+﻿@Strike insurance
+#(Econ) Bảo hiểm đình công.
+: Một hình thức hỗ trợ lẫn nhau giữa các tập đoàn công nghiệp nhằm tự bảo vệ khỏi các chiến thuật đình công chọn lọc.
+@Chuyên ngành kinh tế
+#bảo hiểm bãi công

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#dân số có công ăn việc làm
+@Chuyên ngành kỹ thuật
+#nhân khẩu lao động
+@Lĩnh vực: xây dựng
+#số dân có việc làm
+@Chuyên ngành kỹ thuật
+#nhân khẩu lao động
+@Lĩnh vực: xây dựng
+#số dân có việc làm

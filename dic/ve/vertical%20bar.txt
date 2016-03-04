@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cột đứng
+#thanh đứng
+@Lĩnh vực: điện lạnh
+#thanh dọc (ở bộ ngang dọc điện thoại)
+@Lĩnh vực: toán & tin
+#vạch đứng, thanh dọc

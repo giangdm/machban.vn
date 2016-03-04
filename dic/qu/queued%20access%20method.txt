@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phương pháp sắp hàng truy nhập
+@Lĩnh vực: toán & tin
+#phương pháp truy nhập theo hàng

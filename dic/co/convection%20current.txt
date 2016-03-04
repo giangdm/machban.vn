@@ -1,0 +1,15 @@
+﻿@convection current
+#(Tech) dòng đối lưu
+@Chuyên ngành kỹ thuật
+#bộ chuyển mạch điều khiển
+#bộ điều chỉnh
+#bộ điều khiển
+#cấu điều chỉnh
+#cấu điều khiển
+#luồng đối lưu
+#thiết bị điều chỉnh
+#thiết bị điều khiển
+@Lĩnh vực: điện
+#dòng điện đối lưu
+@Lĩnh vực: y học
+#dòng đối lưu

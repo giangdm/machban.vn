@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#cấu trúc phân lá
+#cấu trúc phân phiến
+@Lĩnh vực: xây dựng
+#cấu tạo từng lớp mỏng
+@Lĩnh vực: cơ khí & công trình
+#cấu trúc lớp
+#cấu trúc tầng
+@Chuyên ngành kỹ thuật
+#cấu trúc phân lá
+#cấu trúc phân phiến
+@Lĩnh vực: xây dựng
+#cấu tạo từng lớp mỏng
+@Lĩnh vực: cơ khí & công trình
+#cấu trúc lớp
+#cấu trúc tầng

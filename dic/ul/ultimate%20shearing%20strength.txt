@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền cắt
+#giới hạn bền cắt
+#sức bền cắt
+#sức cản cắt
+@Lĩnh vực: xây dựng
+#cường độ chịu cắt giới hạn

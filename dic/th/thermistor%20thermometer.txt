@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt kế bán dẫn
+#nhiệt kế điện trở
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt kế nhiệt điện trở
+#nhiệt kế tecmisto
+#nhiệt kế thermistor

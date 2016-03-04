@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đổi đĩa
+@Lĩnh vực: vật lý
+#cấu đổi đĩa
+@Lĩnh vực: điện
+#máy đổi đĩa hát

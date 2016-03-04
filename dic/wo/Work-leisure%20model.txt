@@ -1,0 +1,3 @@
+﻿@Work-leisure model
+#(Econ) Mô hình lao động - nghỉ ngơi.
+: Là việc áp dụng đơn giản lý thuyết về hành vi tiêu dùng cho vấn đề phân bổ thời gian.

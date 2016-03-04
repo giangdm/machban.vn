@@ -1,0 +1,2 @@
+﻿@access success ratio
+#(Tech) tỉ lệ thành công truy cập

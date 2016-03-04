@@ -1,0 +1,2 @@
+﻿@digital companding
+#(Tech) ép-giãn dạng số tự

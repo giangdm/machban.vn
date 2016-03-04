@@ -1,0 +1,8 @@
+﻿@ferroelectric material
+#(Tech) chất sắt điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vật liệu sắt điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vật liệu sắt điện

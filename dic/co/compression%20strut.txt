@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#thanh chịu nén
+#trục đỡ
+@Lĩnh vực: toán & tin
+#cột nén
+#thanh nén
+@Lĩnh vực: xây dựng
+#thanh chống cột
+#thanh xiên chịu nén

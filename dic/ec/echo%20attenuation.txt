@@ -1,0 +1,2 @@
+﻿@echo attenuation
+#(Tech) suy giảm tiếng dội

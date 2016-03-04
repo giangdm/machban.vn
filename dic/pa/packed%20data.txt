@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dữ liệu nén
+@Lĩnh vực: toán & tin
+#dữ liệu đóng gói

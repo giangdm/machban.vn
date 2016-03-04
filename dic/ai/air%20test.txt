@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự thử độ kín
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sự thử (bằng) khí nén
+#sự thử kín (khít)

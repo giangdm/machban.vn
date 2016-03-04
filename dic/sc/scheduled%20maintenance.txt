@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#duy tu sửa chữa định kỳ
+#sửa chữa bảo trì theo kế hoạch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảo trì định kỳ
+#sửa chữa theo kế hoạch
+#sửa chữa theo lịch sử
+@Lĩnh vực: xây dựng
+#sự sửa chữa theo lịch

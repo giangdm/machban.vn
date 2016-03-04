@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phương pháp ơristic
+#phương pháp trực quan
+@Lĩnh vực: toán & tin
+#phương pháp tự tìm tòi

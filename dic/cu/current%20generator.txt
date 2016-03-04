@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phát điện
+#máy phát dòng
+@Lĩnh vực: điện
+#bộ tạo dòng
+#máy phát dòng (điện)
+@Lĩnh vực: hóa học & vật liệu
+#máy phát hiện
+@Lĩnh vực: toán & tin
+#thiết bị tạo dòng điện

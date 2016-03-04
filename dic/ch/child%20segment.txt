@@ -1,0 +1,5 @@
+﻿@child segment
+#(Tech) đoạn con
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đoạn con

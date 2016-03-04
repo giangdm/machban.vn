@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tỉ suất giá có phần cổ tức
+#tỉ suất giá cổ phần-cổ tức
+#tỷ số giá cả-cổ tức

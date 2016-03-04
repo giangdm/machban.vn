@@ -1,0 +1,2 @@
+﻿@full parabolic reflector
+#(Tech) cái phản xạ toàn parabol

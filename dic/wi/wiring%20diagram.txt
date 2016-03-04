@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng đồ mắc dây
+#sơ đồ đấu dây
+#sơ đồ đi dây
+#sơ đồ mắc dây
+#sơ đồ mạch
+#sơ đồ mạch điện
+#sơ đồ nối
+#sơ đồ nối dây
+#thông tin vô tuyến
+@Lĩnh vực: xây dựng
+#sơ đồ lắp (ráp) điện
+@Lĩnh vực: toán & tin
+#sơ đồ lắp ghép

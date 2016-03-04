@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#độ sâu điều tiêu
+#độ sâu thị trường
+#độ sâu tiêu điểm
+#độ sâu trường nhìn
+@Lĩnh vực: toán & tin
+#chiều sâu của trường
+@Lĩnh vực: điện lạnh
+#độ sâu của trường nhìn

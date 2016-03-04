@@ -1,0 +1,9 @@
+﻿@aptitude test
+*danh từ
+#cuộc trắc nghiệm khả năng của những người dự tuyển vào một công việc
+@Chuyên ngành kinh tế
+#sự trắc nghiệm năng khiếu
+#thử nghiệm năng khiếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#trắc nghiệm năng khiếu

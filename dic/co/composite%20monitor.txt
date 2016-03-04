@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ giám sát hỗn hợp
+#bộ giám sát phức hợp
+#màn hình tổng hợp

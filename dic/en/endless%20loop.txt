@@ -1,0 +1,20 @@
+﻿@endless loop
+#(Tech) chu trình vô tận = infinite loop
+@Chuyên ngành kỹ thuật
+#vòng lặp vô hạn
+@Lĩnh vực: điện tử & viễn thông
+#nút vô hạn (của băng)
+@Lĩnh vực: toán & tin
+#vòng lặp đóng
+#vòng lặp vô tận
+@Lĩnh vực: xây dựng
+#vòng vô tận
+@Chuyên ngành kỹ thuật
+#vòng lặp vô hạn
+@Lĩnh vực: điện tử & viễn thông
+#nút vô hạn (của băng)
+@Lĩnh vực: toán & tin
+#vòng lặp đóng
+#vòng lặp vô tận
+@Lĩnh vực: xây dựng
+#vòng vô tận

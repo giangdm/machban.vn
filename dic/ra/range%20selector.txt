@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy lựa làn sóng
+@Lĩnh vực: đo lường & điều khiển
+#bộ chọn khoảng đo

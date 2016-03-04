@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ số biên độ
+@Lĩnh vực: toán & tin
+#tỷ số biên độ

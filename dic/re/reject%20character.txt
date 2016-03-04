@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ký tự xóa bỏ
+@Lĩnh vực: toán & tin
+#ký tự không chấp nhận

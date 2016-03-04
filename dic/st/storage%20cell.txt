@@ -1,0 +1,22 @@
+﻿@storage cell /'stɔ:ridʤ'sel/ (storage_battery) /storage battery/
+*danh từ
+#bộ ắc quy, bộ pin
+@Chuyên ngành kỹ thuật
+#ắcqui
+#hộc bình điện
+#ngăn nhớ
+#ô lưu
+#ô lưu trữ
+#ô nhớ
+#phần tử của bộ nhớ
+#pin thứ cấp
+@Lĩnh vực: toán & tin
+#ngăn lưu trữ
+#ngăn nhớ, ô nhớ
+#ô nhớ, ngăn nhớ
+#phần tử lưu trữ
+@Lĩnh vực: điện
+#ô lưu giữ
+#phần tử chứa điện
+@Lĩnh vực: ô tô
+#pin sạc

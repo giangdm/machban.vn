@@ -1,0 +1,6 @@
+﻿@Transfer pricing
+#(Econ) Định giá chuyển nhượng.
+: Hệ thống ấn định giá cho các giao dịch giữa các công ty con của một công ty đa quốc gia, trong đó giá không phụ thuộc vào yếu tố thị trường.
+@Chuyên ngành kinh tế
+#cách định giá chuyển nhượng nội bộ
+#lập giá chuyển nhượng

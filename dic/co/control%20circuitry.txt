@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ký tự điều khiển
+@Lĩnh vực: toán & tin
+#sơ đồ mạch điều khiển

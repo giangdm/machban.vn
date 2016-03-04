@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giá trị (được) bảo hiểm
+#giá trị được bảo hiểm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giá trị bảo hiểm

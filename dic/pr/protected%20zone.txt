@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng được bảo vệ
+@Lĩnh vực: xây dựng
+#khu vực bảo vệ

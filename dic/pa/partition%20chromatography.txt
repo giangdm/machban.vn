@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sắc ký phân tích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#phép sắc ký phân đoạn
+#phép sắc ký phân số

@@ -1,0 +1,2 @@
+﻿@bilevel resist
+#(Tech) lớp cản hai cấp

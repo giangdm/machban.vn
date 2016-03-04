@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy khoan xoay
+@Lĩnh vực: xây dựng
+#máy khoan rôto

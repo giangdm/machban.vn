@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#manhêton Bo
+@Lĩnh vực: điện lạnh
+#manheton Bohr

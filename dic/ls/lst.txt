@@ -1,0 +1,3 @@
+﻿@lst
+*(viết tắt)
+#giờ chuẩn địa phương (local standard time)

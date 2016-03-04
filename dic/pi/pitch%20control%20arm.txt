@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#cần điều khiển góc chúc ngóc (máy bay lên thẳng)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#diện tích xây dựng
+@Lĩnh vực: xây dựng
+#khu vực xây dựng
+#khu vực/diện tích xây dựng

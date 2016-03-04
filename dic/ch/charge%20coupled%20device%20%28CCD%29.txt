@@ -1,0 +1,6 @@
+﻿@charge coupled device (CCD)
+#(Tech) bộ ghép điện tích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dụng cụ ghép điện tích
+#linh kiện điện tích liên kết

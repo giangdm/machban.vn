@@ -1,0 +1,3 @@
+﻿@Quasi-option value
+#(Econ) Giá trị của hợp đồng mua bán trước.
+: Xem OPTION VALUE.

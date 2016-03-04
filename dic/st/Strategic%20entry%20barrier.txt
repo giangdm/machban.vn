@@ -1,0 +1,2 @@
+﻿@Strategic entry barrier
+#(Econ) Cản trở chiến lược đối với nhập ngành.

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#một phần tư
+@Lĩnh vực: toán & tin
+#độ dốc 1/4

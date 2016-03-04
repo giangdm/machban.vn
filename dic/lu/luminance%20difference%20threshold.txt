@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ngưỡng chênh lệch độ chói
+@Lĩnh vực: xây dựng
+#hiệu số ngưỡng chói

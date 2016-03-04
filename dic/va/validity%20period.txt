@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#kỳ hạn có hiệu lực
+#kỳ hạn hữu hiệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thời gian (có) hiệu lực

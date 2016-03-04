@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng cố định
+#tải trọng không đổi
+@Lĩnh vực: toán & tin
+#tải hằng
+@Lĩnh vực: điện
+#tải không đổi
+#tải liên tục
+@Lĩnh vực: y học
+#tải lượng không đổi

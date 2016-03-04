@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nhựa phản ứng nhiệt
+@Chuyên ngành kỹ thuật
+#nhựa nhiệt rắn
+@Lĩnh vực: xây dựng
+#nhựa cứng nhiệt

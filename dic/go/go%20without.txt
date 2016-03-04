@@ -1,0 +1,80 @@
+﻿@go without
+#nhịn, chịu thiếu, chịu không có
+=to go without food: nhịn ăn, chịu đói
+#to be gone on somebody
+#mê ai, phải lòng ai
+#to go begging
+#không ai cần đến, không ai cầu đến
+#to go all lengths
+#dùng đủ mọi cách
+#to go all out
+#rán hết sức, đem hết sức mình
+#to go a long way
+#đi xa
+#có tác dụng lớn, có ảnh hưởng lớn
+#để được lâu (đồ ăn); bền (quần áo...)
+#tiêu được lâu (tiền...)
+#to go astray
+#(xem) astray
+#to go bail for someone
+#(xem) bail
+#to go beyond the veil
+#to go hence
+#to go to a better word
+#to go out of this word
+#to go heaven
+#to go to one's account
+#to go to one's long rest
+#to go to one's own place
+#to go the way of all the earth
+#to go the way of all flesh
+#to go the way of nature
+#to go to one's last (long) home
+#to go over to the great majority
+#to go off the books
+#chết
+#to go west
+#(từ lóng) chết
+#to go up the flume
+#(từ Mỹ,nghĩa Mỹ) (từ lóng) chết
+#to go down hill
+#xuống dốc (đen & bóng)
+#suy yếu rất nhanh (sức khoẻ)
+#to go far
+#sẽ làm nên, có tiền đồ
+#to go flop
+#(xem) flop
+#to go hard with somebody
+#làm lôi thôi cho ai, gây chuyện bực mình khó chịu cho ai, làm khó khăn cho ai
+#to go hot and cold
+#lên cơn sốt lúc nóng lúc lạnh
+#thẹn lúc đỏ bừng lúc tái đi
+#to go it (lóng)
+#làm mạnh, làm hăng
+#sống bừa bâi, sống phóng đãng
+#to go it alone
+#làm một mình không nhờ cậy vào ai; một mình chịu hết trách nhiệm
+#to go off one's head (nut)
+#mất trí, hoá điên
+#to go over big
+#(từ Mỹ,nghĩa Mỹ),  (thông tục) thành công lớn, đạt kết quả lớn, tiến bộ nhiều
+#to go one better
+#trội hơn, vượt hơn (ai)
+#to go phut
+#(xem) phut
+#to go share and share alike
+#chia đều (với ai)
+#to go sick
+#(quân sự) báo cáo ốm
+#to go to the country
+#(xem) country
+#to go to great trouble (expense)
+#lo lắng nhiều, bỏ nhiều công sức
+=go to hell (jericho, bath, blazes...)!: đồ chết tiệt! quỷ tha ma bắt mày đi!
+#to go to seed
+#(xem) seed
+#to go to war
+#dùng biện pháp chiến tranh, đi đến chỗ đánh nhau
+#to go to whole length of if
+#to go to the whole way
+#làm đến nơi đến chốn, không bỏ nửa chừng

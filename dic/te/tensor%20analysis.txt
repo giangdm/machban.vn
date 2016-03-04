@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#giải tích tensơ
+@Lĩnh vực: xây dựng
+#giải tích ten xơ
+@Lĩnh vực: toán & tin
+#giải tích tenxơ

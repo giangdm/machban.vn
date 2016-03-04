@@ -1,0 +1,7 @@
+﻿@de facto standard
+#(Tech) tiêu chuẩn mặc nhiên
+@Chuyên ngành kỹ thuật
+#chuẩn thực tế
+@Lĩnh vực: toán & tin
+#tiêu chuẩn không chính thức
+#tiêu chuẩn thực tế

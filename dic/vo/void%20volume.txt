@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+#thể tích khoảng trống
+@Lĩnh vực: toán & tin
+#thể tích lỗ rỗng
+@Lĩnh vực: xây dựng
+#thể tích lỗ trống

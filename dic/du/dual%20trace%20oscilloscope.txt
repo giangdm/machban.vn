@@ -1,0 +1,2 @@
+﻿@dual trace oscilloscope
+#(Tech) máy đo sóng hai tia

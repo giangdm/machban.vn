@@ -1,0 +1,2 @@
+﻿@end-around carry
+#(Tech) số nhớ tuần hoàn = cyclic carry

@@ -1,0 +1,5 @@
+﻿@circuit capacitance
+#(Tech) điện dung bản điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#điện dung mạch

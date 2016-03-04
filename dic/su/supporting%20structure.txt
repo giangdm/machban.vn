@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống treo
+#kết cấu chịu lực
+@Lĩnh vực: xây dựng
+#cấu trúc đỡ
+#kết cấu mỏng
+#kết cấu uốn
+@Lĩnh vực: điện
+#cơ cấu đỡ
+@Lĩnh vực: cơ khí & công trình
+#kết cấu đỡ
+@Lĩnh vực: toán & tin
+#kết cấu đỡ tựa

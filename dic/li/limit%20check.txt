@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra giới hạn
+#sự kiểm tra giới hạn
+@Lĩnh vực: toán & tin
+#kiểm tra hạn chế
+@Chuyên ngành kỹ thuật
+#kiểm tra giới hạn
+#sự kiểm tra giới hạn
+@Lĩnh vực: toán & tin
+#kiểm tra hạn chế

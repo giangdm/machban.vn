@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự thử nghiệm sốc nhiệt
+#thử nghiệm sốc nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#thử biến đổi nhiệt độ đột ngột
+#thử sốc nhiệt

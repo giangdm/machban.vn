@@ -1,0 +1,6 @@
+﻿@fundamental tone
+#(Tech) âm cơ bản
+@Chuyên ngành kỹ thuật
+#âm cơ bản
+@Lĩnh vực: vật lý
+#âm chủ chốt

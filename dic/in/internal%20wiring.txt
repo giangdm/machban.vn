@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dây điện trong nhà
+@Lĩnh vực: xây dựng
+#sự đặt dây bên trong
+@Lĩnh vực: điện tử & viễn thông
+#sự đi dây bên trong
+#sự mắc mạch bên trong

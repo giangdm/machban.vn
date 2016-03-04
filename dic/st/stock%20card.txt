@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thẻ kho
+#thẻ trữ hàng
+#thẻ trữ kho
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cạc dự trữ
+#thẻ dự trữ

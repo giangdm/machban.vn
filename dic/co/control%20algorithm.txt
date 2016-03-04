@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ
+#thiết bị
+@Lĩnh vực: cơ khí & công trình
+#máy cơ cấu
+#thuật toán điều khiển

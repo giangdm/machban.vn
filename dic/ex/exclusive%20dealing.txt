@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#kinh doanh (đại lý) độc quyền
+#sự buôn bán độc quyền
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#cung cấp độc quyền
+#kinh doanh độc quyền
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#cung cấp độc quyền
+#kinh doanh độc quyền

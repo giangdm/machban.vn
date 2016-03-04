@@ -1,0 +1,3 @@
+﻿@Recursive residuals
+#(Econ) Số dư nội phản.
+: Xem KALMAN FILTERING.

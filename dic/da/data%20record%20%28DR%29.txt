@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bản ghi dữ liệu
+@Lĩnh vực: toán & tin
+#mẩu tin dữ liệu

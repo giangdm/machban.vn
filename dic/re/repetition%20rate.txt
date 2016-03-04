@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chu kì
+#tần số lập
+@Lĩnh vực: điện tử & viễn thông
+#hệ số lặp
+#tốc độ lặp lại
+@Lĩnh vực: toán & tin
+#tốc độ lặp

@@ -1,0 +1,7 @@
+﻿@authorized user
+#(Tech) người dùng được quyền, người dùng được phép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#người dùng được quyền
+@Lĩnh vực: toán & tin
+#người sử dụng được phép

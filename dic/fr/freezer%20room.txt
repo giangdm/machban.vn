@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phòng bảo quản ở nhiệt độ thấp
+#phòng ướp lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phòng kết đông

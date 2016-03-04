@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ngăn ba sao
+#ngăn đông
+#ngăn nhiệt độ-180C
+#ngăn nhiệt độ-18độ

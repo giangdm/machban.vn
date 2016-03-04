@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#bể nước áp lực
+#bể nước trên cao
+#đài nước
+#tháp nước
+@Lĩnh vực: xây dựng
+#thùng nước
+#thùng nước áp lực
+@Chuyên ngành kỹ thuật
+#bể nước áp lực
+#bể nước trên cao
+#đài nước
+#tháp nước
+@Lĩnh vực: xây dựng
+#thùng nước
+#thùng nước áp lực

@@ -1,0 +1,2 @@
+﻿@audiofrequency spectrometer
+#(Tech) phổ kế âm tần

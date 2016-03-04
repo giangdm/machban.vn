@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#độ dài chùm khối
+@Lĩnh vực: toán & tin
+#độ dài truyền loạt

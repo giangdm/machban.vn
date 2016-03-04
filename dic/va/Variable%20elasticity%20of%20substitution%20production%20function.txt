@@ -1,0 +1,3 @@
+﻿@Variable elasticity of substitution production function
+#(Econ) (VES production function) - Độ co giãn khả biến của hàm sản xuất thay thế.
+: Đây là dạng tổng quát của ĐỘ CO GIÃN KHÔNG ĐỔI CỦA HÀM SẢN XUẤT THAY THẾ cho phép co giãn của thay thế biến đổi với tỷ số yếu tố đầu vào.

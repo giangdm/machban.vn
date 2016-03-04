@@ -1,0 +1,9 @@
+﻿@automatic circuit breaker
+#(Tech) cái cắt mạch tự động
+@Chuyên ngành kỹ thuật
+#bộ ngắt điện tự động
+#bộ ngắt mạch tự động
+@Lĩnh vực: điện
+#cái ngắt điện tự động
+@Lĩnh vực: giao thông & vận tải
+#thiết bị tự động ngắt mạch

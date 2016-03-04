@@ -1,0 +1,9 @@
+﻿@Capital market
+#(Econ) Thị trường vốn
+: Là thị trường, hay đúng hơn là một nhóm các thị trường liên quan tới nhau, trong đó, vốn ở dạng tài chính (tiền tệ) được đem cho vay, vay hoặc huy động với các điều kiện khác nhau và trong thời hạn khác nhau.(Xem TERM STRUCTURE OF INTEREST RATES).
+@Chuyên ngành kinh tế
+#thị trường tài chánh (thị trường cho vay chung và dài hạn)
+#thị trường vốn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thị trường tư bản

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều kiện nhiệt ẩm
+#trạng thái nhiệt ẩm

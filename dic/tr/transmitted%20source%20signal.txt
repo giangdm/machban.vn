@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tín hiệu vào
+@Lĩnh vực: điện lạnh
+#tín hiệu nguồn truyền tới

@@ -1,0 +1,5 @@
+﻿@gigahertz (GHz)
+#(Tech) một tỷ chu kỳ/giây, gigahec (GHz), 10 lũy thừa 9 Hz
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#GigaHéc

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy ra-da thăm dò
+@Lĩnh vực: toán & tin
+#máy ra-đa thăm dò

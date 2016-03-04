@@ -1,0 +1,8 @@
+﻿@add-on memory
+#(Tech) bộ nhớ thêm vào
+@Chuyên ngành kỹ thuật
+#bộ nhớ bổ sung
+#bộ nhớ phụ
+@Lĩnh vực: toán & tin
+#bộ nhớ tăng cường
+#bộ nhớ thứ hai

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đếm nhị phân
+@Lĩnh vực: đo lường & điều khiển
+#bộ đếm kép

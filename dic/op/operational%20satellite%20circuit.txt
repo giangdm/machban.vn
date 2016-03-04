@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mạch vệ tinh đang vận hành
+#mạch vệ tinh trong dịch vụ

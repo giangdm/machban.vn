@@ -1,0 +1,10 @@
+﻿@graphic display
+#(Tech) sự hiển thị đồ họa; màn hình đồ họa
+@Chuyên ngành kinh tế
+#màn hình đồ họa
+@Chuyên ngành kỹ thuật
+#màn hình đồ họa
+@Lĩnh vực: toán & tin
+#hiển thị đồ họa
+@Lĩnh vực: xây dựng
+#phô bày đồ họa

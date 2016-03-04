@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiệt hại tài sản, vật chất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sự thiệt hại vật chất

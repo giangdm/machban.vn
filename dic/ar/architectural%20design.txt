@@ -1,0 +1,7 @@
+﻿@architectural design
+#(Tech) thiết kế kiến trúc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản thiết kế kiến trúc
+@Lĩnh vực: cơ khí & công trình
+#dự án kiến trúc

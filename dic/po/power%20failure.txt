@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#sự hỏng điện
+@Chuyên ngành kỹ thuật
+#mất điện
+#sự cố điện
+@Lĩnh vực: toán & tin
+#cúp điện
+#sự hỏng nguồn
+#sự mất nguồn điện
+@Lĩnh vực: điện tử & viễn thông
+#lỗi nguồn
+@Lĩnh vực: điện
+#sự cố đường dây
+#sự cố đường điện
+#sự cố mất điện

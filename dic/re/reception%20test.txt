@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#kiểm tra nghiệm thu
+@Chuyên ngành kỹ thuật
+#sự thí nghiệm nghiệm thu
+@Lĩnh vực: xây dựng
+#thí nghiệm nghiệm thu

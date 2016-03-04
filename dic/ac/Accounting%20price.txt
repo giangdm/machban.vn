@@ -1,0 +1,8 @@
+﻿@Accounting price
+#(Econ) Giá kế toán.
+@Chuyên ngành kinh tế
+#giá kế toán
+#giá trên sổ sách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá kiểm tra

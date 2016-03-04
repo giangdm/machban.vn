@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tỉ suất lặp lại
+@Lĩnh vực: toán & tin
+#tốc độ lặp

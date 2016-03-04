@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đánh dấu
+@Lĩnh vực: điện
+#máy phát ghi dấu

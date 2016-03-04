@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chất tải lạnh
+#môi trường được làm lạnh
+@Chuyên ngành kỹ thuật
+#chất làm nguội
+#môi chất lạnh
+#môi trường làm lạnh
+#môi trường làm nguội

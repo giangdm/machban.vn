@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuỗi furiê (fourier)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#Chuỗi Fourier
+#chuỗi furiê

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#ngày chuẩn giao nhận
+#ngày khai báo tên
+#ngày thứ hai kết toán
+#ngày trao thẻ chứng khoán

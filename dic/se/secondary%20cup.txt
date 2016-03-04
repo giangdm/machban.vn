@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#vòng bít thứ cấp
+#vòng găng phụ

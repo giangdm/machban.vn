@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thiết bị cách điện quay Faraday
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thiết bị cách điện ferit
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thiết bị cách điện quay Faraday
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thiết bị cách điện ferit

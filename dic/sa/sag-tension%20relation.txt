@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#quan hệ độ võng-lực căng
+@Lĩnh vực: vật lý
+#quan hệ độ võng-lực căng (dây)

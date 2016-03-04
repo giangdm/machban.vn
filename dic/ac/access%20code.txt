@@ -1,0 +1,10 @@
+﻿@access code
+#(tin học) mã truy cập. Một tổ hợp các ký tự truy cập thường là các chữ cái hoặc con số. Trong lĩnh vực truyền thông, tổ hợp này được dùng làm phần tử chỉ danh để dành quyền truy xuất một máy tính từ xa. Trên mạng hoặc trên một hệ dịch vụ trực tuyến, mã truy cập thường được hiểu là tên người dùng hoặc ID người dùng và mật mã.
+@Chuyên ngành kinh tế
+#mã truy cập
+@Chuyên ngành kỹ thuật
+#mã truy cập
+@Lĩnh vực: điện tử & viễn thông
+#mã truy nhập
+@Lĩnh vực: toán & tin
+#mã vào hệ thống

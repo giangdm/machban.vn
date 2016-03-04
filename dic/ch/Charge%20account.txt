@@ -1,0 +1,11 @@
+﻿@Charge account
+#(Econ) Tài khoản tín dụng.
+: Một phương tiện tín dụng người bán lẻ dành cho khách hàng.
+@Chuyên ngành kinh tế
+#tài khoản không mua bán chịu
+#tài khoản mua bán chịu
+#tài khoản phải thu
+<!-- more -->
+@charge account
+*danh từ
+#thẻ tín dụng

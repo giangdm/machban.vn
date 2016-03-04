@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#điều khiển số bằng máy tính
+@Lĩnh vực: toán & tin
+#điều khiển số máy tính

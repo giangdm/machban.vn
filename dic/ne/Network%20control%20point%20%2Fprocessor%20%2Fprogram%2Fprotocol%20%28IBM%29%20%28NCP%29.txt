@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#điểm/Bộ xử lý /chương trình /Giao thức (IBM) điều khiển mạng

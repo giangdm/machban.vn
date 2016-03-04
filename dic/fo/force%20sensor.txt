@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ cảm biến lực
+@Lĩnh vực: xây dựng
+#cảm biến đo lực

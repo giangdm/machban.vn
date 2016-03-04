@@ -1,0 +1,6 @@
+﻿@bank card
+#giống như cheque card
+@Chuyên ngành kinh tế
+#thẻ ngân hàng
+#thẻ rút tiền
+#thẻ tín dụng ngân hàng

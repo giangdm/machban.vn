@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cấu trúc bazan
+#cấu trúc hình cột
+@Lĩnh vực: hóa học & vật liệu
+#kiến trúc bazan

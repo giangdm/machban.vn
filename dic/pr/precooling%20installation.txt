@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) làm lạnh sơ bộ
+#hệ (thống) làm lạnh trước

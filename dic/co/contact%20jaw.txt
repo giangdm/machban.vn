@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#kẹp tiếp xúc
+@Lĩnh vực: điện lạnh
+#mỏ kẹp hàn tiếp xúc

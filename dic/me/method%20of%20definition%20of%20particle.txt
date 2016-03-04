@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp xác định chuyển động chất điểm
+@Lĩnh vực: xây dựng
+#phương pháp xác định chuyển động hạt

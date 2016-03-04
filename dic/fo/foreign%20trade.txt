@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#mậu dịch đối ngoại
+#ngoại thương
+@Chuyên ngành kỹ thuật
+#ngoại thương

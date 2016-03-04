@@ -1,0 +1,3 @@
+﻿@Regional wage structure
+#(Econ) Cơ cấu tiền lương theo khu vực.
+: Là việc xếp thứ tự các mức lương trung bình của các nhóm công nhân được phân loại theo khu vực mà họ đang làm việc tại đó.

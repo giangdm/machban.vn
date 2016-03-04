@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền kéo
+#độ bền kéo giới bạn
+#giới hạn bền kéo
+#sức chống xé
+@Lĩnh vực: xây dựng
+#cường độ chịu kéo giới hạn
+@Lĩnh vực: cơ khí & công trình
+#giới hạn bền đứt

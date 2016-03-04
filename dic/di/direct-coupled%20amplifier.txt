@@ -1,0 +1,5 @@
+﻿@direct-coupled amplifier
+#(Tech) bộ khuếch đại ghép thẳng/trực tiếp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ khuếch đại ghépDC

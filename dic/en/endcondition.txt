@@ -1,0 +1,3 @@
+﻿@endcondition
+#điều kiện cuối
+#separated e.s điều kiện tách ở các điểm cuối

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản chung
+#tài khoản sổ cái
+#tài khoản tổng quát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quỹ tổng quát

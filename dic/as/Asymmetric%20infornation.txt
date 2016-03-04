@@ -1,0 +1,3 @@
+﻿@Asymmetric infornation
+#(Econ) Thông tin bất đối xứng; Thông tin không tương xứng.
+: Sự khác nhau về thông tin mà các bên tham gia giao dịch trên thị trường có được. Xem INSIDER - OUTSIDER MODELS.

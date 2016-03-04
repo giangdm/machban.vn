@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều biến góc
+#điều pha
+@Lĩnh vực: điện tử & viễn thông
+#sự biến điệu góc
+@Lĩnh vực: toán & tin
+#sự điều chế góc

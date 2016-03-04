@@ -1,0 +1,6 @@
+﻿@grid current
+#(Tech) dòng lưới, cường - độ dòng lưới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dòng điện lưới
+#dòng lưới

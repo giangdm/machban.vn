@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số ồn
+#hệ số tạp âm
+@Lĩnh vực: điện
+#hệ số nhiễu âm
+@Lĩnh vực: điện tử & viễn thông
+#hệ số tạp nhiễu
+#hệ số tiếng ồn

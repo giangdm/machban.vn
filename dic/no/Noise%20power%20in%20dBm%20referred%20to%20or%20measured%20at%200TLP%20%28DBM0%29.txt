@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Công suất tạp âm tính theo dBm tương ứng với hoặc được đo tại 0 TLP

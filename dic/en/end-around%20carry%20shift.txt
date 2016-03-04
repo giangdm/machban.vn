@@ -1,0 +1,2 @@
+﻿@end-around carry shift
+#(Tech) dịch chuyển tuần hoàn

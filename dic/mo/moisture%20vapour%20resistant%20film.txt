@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp màng cách ẩm
+@Lĩnh vực: điện lạnh
+#lớp màng chịu hơi ẩm

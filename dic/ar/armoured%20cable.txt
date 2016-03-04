@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cáp bọc kim loại
+@Lĩnh vực: điện
+#cáp có cốt sắt
+#cáp vỏ thép
+@Lĩnh vực: xây dựng
+#dây cáp chống nhiễu
+#dây cáp mạ kim loại

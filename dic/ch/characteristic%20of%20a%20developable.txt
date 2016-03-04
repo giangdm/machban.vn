@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đặc tuyến của một mặt trải được
+#đặc tuyến của một nhóm (đường thẳng)

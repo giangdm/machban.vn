@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#số khách viếng
+#số khán giả (thi đấu)
+#số người dự (cuộc họp)
+#số người vào cửa (triển lãm)
+#số người xem

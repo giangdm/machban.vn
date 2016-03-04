@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bàn phím điều khiển
+@Lĩnh vực: toán & tin
+#bàn điều khiển hoạt động
+@Lĩnh vực: điện tử & viễn thông
+#bàn vận hành

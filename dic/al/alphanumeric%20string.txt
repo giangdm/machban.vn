@@ -1,0 +1,2 @@
+﻿@alphanumeric string
+#(Tech) chuỗi chữ-số

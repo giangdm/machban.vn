@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#phân tích số
+@Chuyên ngành kỹ thuật
+#phương pháp tính
+#tính bằng số
+@Lĩnh vực: toán & tin
+#giải tích số
+#phương pháp tính số
+#sự phân tích số

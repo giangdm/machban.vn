@@ -1,0 +1,3 @@
+﻿@Growth theories of the firm
+#(Econ) Các lý thuyết về sự tăng trưởng của hãng.
+: Nhờ công trình đi đầu của E.T. Penrose (lý thuyết tăng trưởng của hãng, Blackwell, Oxford,1959) và R.L.Marris (lý thuyết kinh tế của chủ nghĩa tư bản quản lý, Macmillan, London, 1964) các lý thuyết tăng trưởng trở thành một ngành của các lý thuyết về QUẢN LÝ HÃNG và được coi là phù hợp đối với một nền kinh tế hãng trong đó các nhà quản lý của các hãng có quyền tự do trong việc đề ra các mục tiêu mà họ muốn theo đuổi.

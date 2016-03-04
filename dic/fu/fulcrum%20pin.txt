@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chốt nhánh
+#chốt pittông
+#trục bản lề
+#trục quay
+#trục quay của chi tiết

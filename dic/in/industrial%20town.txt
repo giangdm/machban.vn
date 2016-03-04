@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thành phố công nghiệp
+#thị trấn công nghiệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thành phố công nghiệp

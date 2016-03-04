@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#ống hút khí vào
+#ống nạp khí vào
+@Lĩnh vực: điện lạnh
+#ống nạp không khí

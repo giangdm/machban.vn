@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#công suất âm thanh của nguồn
+@Lĩnh vực: điện lạnh
+#công suất nguồn âm thanh

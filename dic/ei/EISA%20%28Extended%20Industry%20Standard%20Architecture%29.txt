@@ -1,0 +1,5 @@
+﻿@EISA (Extended Industry Standard Architecture)
+#(Tech) EISA, iza (Kiến Trúc Tiêu Chuẩn Kỹ Nghệ Mở Rộng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuẩn EISA

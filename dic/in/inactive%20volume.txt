@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dung lượng không hoạt động
+#khối không hoạt động
+#tập bất hoạt

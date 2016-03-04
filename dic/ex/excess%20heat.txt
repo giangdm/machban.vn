@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt thừa
+@Lĩnh vực: điện lạnh
+#lượng nhiệt thừa
+@Chuyên ngành kỹ thuật
+#nhiệt thừa
+@Lĩnh vực: điện lạnh
+#lượng nhiệt thừa

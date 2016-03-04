@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phương pháp tiếp đất lưới
+@Lĩnh vực: điện
+#sự nối đất dạng lưới

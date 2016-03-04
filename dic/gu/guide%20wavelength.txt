@@ -1,0 +1,2 @@
+﻿@guide wavelength
+#(Tech) độ dài sóng truyền dẫn

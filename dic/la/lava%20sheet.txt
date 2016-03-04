@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp nham thạch
+#lớp phủ dung nham
+#lớp phủ lava
+@Chuyên ngành kỹ thuật
+#lớp nham thạch
+#lớp phủ dung nham
+#lớp phủ lava

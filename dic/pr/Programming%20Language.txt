@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#ngôn ngữ lập trình
+@Chuyên ngành kỹ thuật
+#ngôn ngữ lập trình
+@Lĩnh vực: toán & tin
+#ngôn ngữ lập (chương) trình

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lọc âm tần
+@Lĩnh vực: xây dựng
+#vật liệu âm thanh
+#vật liệu trang âm

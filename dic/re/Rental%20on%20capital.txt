@@ -1,0 +1,5 @@
+﻿@Rental on capital
+#(Econ) Tiền thuê vốn.
+@Chuyên ngành kinh tế
+#tiền thuê tài sản thiết bị
+#tiền thuê vốn

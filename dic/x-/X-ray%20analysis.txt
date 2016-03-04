@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự phân tích bằng tia Rơnghen
+@Chuyên ngành kỹ thuật
+#phân tích bằng tia X
+#sự phân tích tia X

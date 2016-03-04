@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#lò hoán chuyển ngẫu lực
+#máy đổi điện quay
+@Lĩnh vực: ô tô
+#bộ biến mômen
+#bộ biến mômen (thủy lực)
+#bộ biến mômen quay (hộp số)
+@Lĩnh vực: giao thông & vận tải
+#bộ biến xoắn
+@Lĩnh vực: xây dựng
+#lò chuyển (đúc thép)
+@Lĩnh vực: hóa học & vật liệu
+#máy biến đổi mômen xoắn

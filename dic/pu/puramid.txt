@@ -1,0 +1,7 @@
+﻿@puramid
+#hình chóp
+#oblique p. hình chóp xiên
+#regular p. hình chóp đều
+#right p. hình chóp thẳng
+#triangular p. hình chóp tam giác
+#truncated p. hình chóp cụt

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chi tiết quay
+@Lĩnh vực: điện
+#phần động
+#phần quay (trong máy điện)

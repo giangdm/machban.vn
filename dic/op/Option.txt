@@ -1,0 +1,28 @@
+﻿@Option
+#(Econ) Hợp đồng mua bán trước.
+: Là một hợp đồng trong đó một bên cho phép bên kia được mau hoặc bán hàng hoá hoặc chứng khoán trong một thời hạn nhất định với một mức giá đã thoả thuận.
+<!-- more -->
+@option /'ɔpʃn/
+*danh từ
+#sự chọn lựa, quyền lựa chọn
+=to make one's option: lựa chọn
+#vật được chọn; điều được chọn
+#quyền mua bán cổ phần (với ngày giờ và giá định rõ) (ở sở giao dịch chứng khoán)
+@Chuyên ngành kinh tế
+#quyền chọn
+#quyền chọn (mua hoặc bán cổ phiếu)
+#quyền chọn (mua) quyền nhiệm ý
+#sự chọn
+@Chuyên ngành kỹ thuật
+#lựa chọn
+#luật lựa chọn
+#mục chọn
+#phương án
+#sự lựa chọn
+@Lĩnh vực: điện
+#kiểu tùy chọn
+@Lĩnh vực: xây dựng
+#ứng lựa
+<!-- more -->
+@option
+#sự lựa chọn, luật lựa chọn

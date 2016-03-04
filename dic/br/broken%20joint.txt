@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mối nối (ray) hoa thị
+@Lĩnh vực: xây dựng
+#mạch nối lệch hàng

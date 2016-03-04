@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy hai pha
+@Lĩnh vực: điện lạnh
+#dòng chảy hai pha (của hêli II)
+@Lĩnh vực: điện tử & viễn thông
+#sự lưu thoát hai pha

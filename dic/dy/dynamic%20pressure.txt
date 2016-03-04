@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#áp lực động
+#áp suất động
+@Chuyên ngành kỹ thuật
+#áp lực động
+#áp lực va đập
+#áp suất động
+@Lĩnh vực: xây dựng
+#áp lực động lực

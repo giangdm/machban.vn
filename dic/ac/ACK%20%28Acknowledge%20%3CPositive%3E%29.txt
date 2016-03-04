@@ -1,0 +1,2 @@
+﻿@ACK (Acknowledge <Positive>)
+#(Tech) khẳng định, báo nhận

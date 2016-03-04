@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giao diện các lớp (tầng) khác nhau
+#giới diện các lớp (tầng) khác nhau
+#mặt giữa các lớp (tầng) khác nhau

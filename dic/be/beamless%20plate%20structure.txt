@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kết cấu bản móng
+@Lĩnh vực: xây dựng
+#kết cấu bản mỏng

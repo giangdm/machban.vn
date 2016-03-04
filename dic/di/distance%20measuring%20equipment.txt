@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị đo cự ly
+#thiết bị đo khoảng cách
+@Lĩnh vực: điện
+#thiết bị đo từ xa

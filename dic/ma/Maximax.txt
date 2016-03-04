@@ -1,0 +1,3 @@
+﻿@Maximax
+#(Econ) Tối đa hoá cực đại.
+: Là một quy tắc trong lý thuyết RA QUYẾT ĐỊNH để giúp cho việc lựa chọn trong những điều kiện không chắc chắn.

@@ -1,0 +1,7 @@
+﻿@dot pitch
+#(Tech) khoảng cách điểm/chấm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bước điểm
+#giãn cách điểm
+#khoảng cách điểm

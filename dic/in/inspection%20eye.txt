@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa kiểm tra
+#lỗ kiểm tra
+#sự hiệu chỉnh

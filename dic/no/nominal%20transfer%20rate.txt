@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tốc độ biến đổi danh định
+#tốc độ truyền danh nghĩa

@@ -1,0 +1,6 @@
+﻿@Entry forestalling price
+#(Econ) Giá ngăn chặn nhập ngành.
+: Xem LIMIT PRICING.
+@Chuyên ngành kinh tế
+#giá ngăn cản nhập thị
+#giấy khai hàng được tiêu dùng trong nước

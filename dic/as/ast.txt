@@ -1,0 +1,3 @@
+﻿@ast
+*(viết tắt)
+#giờ tiêu chuẩn của vùng Đại Tây Dương ((Atlantic Standard Time))

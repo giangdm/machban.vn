@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ chuyển tải tin
+#thiết bị chuyển tải tin
+@Lĩnh vực: toán & tin
+#sóng mạng thông tin
+#vận tải thông tin

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hàng chở hỗn hợp
+#hàng tạp
+#hàng thông thường
+#hàng thường

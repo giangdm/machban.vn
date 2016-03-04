@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biến áp tiếp đất
+@Lĩnh vực: điện
+#máy biến thế nối đất

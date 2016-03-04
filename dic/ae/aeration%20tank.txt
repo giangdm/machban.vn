@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#thùng không khí
+@Chuyên ngành kỹ thuật
+#bể bùn cặn hoạt tính
+#bể sục khí
+#bể thông khí
+#bình quạt gió
+@Lĩnh vực: xây dựng
+#bể chứa (có) thổi khí
+#bể sinh hóa thổi khí

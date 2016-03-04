@@ -1,0 +1,6 @@
+﻿@on-off
+#(máy tính) đóng mở
+@Chuyên ngành kỹ thuật
+#đóng mở
+@Lĩnh vực: điện tử & viễn thông
+#bật tắt

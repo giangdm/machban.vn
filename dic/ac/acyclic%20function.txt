@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm phi xiclic
+@Lĩnh vực: toán & tin
+#hàm phi cyclic

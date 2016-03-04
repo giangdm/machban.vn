@@ -1,0 +1,12 @@
+﻿@Game theory
+#(Econ) Lý thuyết trò chơi.
+: Lý thuyết về việc ra quyết định hợp lý của cá nhân được thực hiện trong những điều kiện không đủ thônh tin liên quan đến những kết quả của các quyết định này.
+<!-- more -->
+@game theory
+#(Tech) lý thuyết trò chơi
+@Chuyên ngành kinh tế
+#đối sách luận
+#lý thuyết trò chơi
+#vận trù học
+@Chuyên ngành kỹ thuật
+#lý thuyết trò chơi

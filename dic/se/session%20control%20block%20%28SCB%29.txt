@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khối điều khiển tác vụ giao tiếp
+@Chuyên ngành kỹ thuật
+#khối điều khiển phiên

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khối không gian chịu lực
+#môdun không gian chịu lực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khối không gian chịu lực
+#môdun không gian chịu lực

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện cực điều khiển
+@Lĩnh vực: toán & tin
+#miền điều khiển

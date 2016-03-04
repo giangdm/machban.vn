@@ -1,0 +1,3 @@
+﻿@Function of function rule
+#(Econ) Quy tắc hàm của một hàm số.
+: Xem CHAIN RULE.

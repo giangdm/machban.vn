@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp ly hợp một chiều
+@Lĩnh vực: ô tô
+#khớp ly hợp tự do

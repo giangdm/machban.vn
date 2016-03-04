@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự biến điệu tạm thời
+#sự điều chế thời gian
+@Lĩnh vực: điện tử & viễn thông
+#sự điều biến thời gian

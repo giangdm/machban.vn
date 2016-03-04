@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#ký hiệu nhập
+@Lĩnh vực: toán & tin
+#con trỏ
+#dấu nhập
+@Chuyên ngành kỹ thuật
+#ký hiệu nhập
+@Lĩnh vực: toán & tin
+#con trỏ
+#dấu nhập

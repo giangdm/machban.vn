@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#gối cố định
+@Lĩnh vực: xây dựng
+#gối tựa cố định
+#trụ cố định
+@Chuyên ngành kỹ thuật
+#gối cố định
+@Lĩnh vực: xây dựng
+#gối tựa cố định
+#trụ cố định

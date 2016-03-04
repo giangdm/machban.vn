@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mil vòng
+@Lĩnh vực: toán & tin
+#thước tròn đo cự ly

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#hàm nhiệt động
+@Lĩnh vực: điện lạnh
+#hàm nhiệt động (lực) học

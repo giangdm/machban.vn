@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#kiến trúc xây dựng công trình biển
+@Lĩnh vực: giao thông & vận tải
+#kiến trúc hàng hải
+#kiến trúc tàu thuyền
+@Lĩnh vực: cơ khí & công trình
+#ngành đóng tàu thuyền

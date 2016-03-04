@@ -1,0 +1,2 @@
+﻿@D type flip-flop
+#(Tech) mạch xúc phát loại D

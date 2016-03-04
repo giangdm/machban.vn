@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#khí thải
+@Lĩnh vực: điện lạnh
+#không khí thải ra ngoài
+@Chuyên ngành kỹ thuật
+#khí thải
+@Lĩnh vực: điện lạnh
+#không khí thải ra ngoài

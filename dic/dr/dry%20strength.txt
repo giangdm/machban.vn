@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tính bền khi háo nước
+@Chuyên ngành kỹ thuật
+#độ bền khô

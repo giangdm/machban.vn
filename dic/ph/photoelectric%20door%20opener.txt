@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#bộ mở của bằng quang điện
+@Lĩnh vực: điện
+#máy mở cửa quang điện

@@ -1,0 +1,5 @@
+﻿@core dump
+#(Tech) xổ bộ nhớ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kết xuất bộ nhớ

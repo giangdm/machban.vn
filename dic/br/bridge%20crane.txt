@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#cần trục kiểu cầu
+@Chuyên ngành kỹ thuật
+#cần trục
+@Lĩnh vực: cơ khí & công trình
+#cẩu lăn
+@Lĩnh vực: xây dựng
+#cẩu trục

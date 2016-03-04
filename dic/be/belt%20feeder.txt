@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy nạp liệu dạng băng
+@Lĩnh vực: xây dựng
+#băng chuyền tiếp liệu

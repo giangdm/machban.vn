@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#lãi không chia
+#lợi nhuận dành lại
+#lợi nhuận giữ lại
+#lợi nhuận không chia
+@Chuyên ngành kỹ thuật
+#lợi nhuận được giữ lại

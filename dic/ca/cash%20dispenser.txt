@@ -1,0 +1,5 @@
+﻿@cash dispenser
+*danh từ
+#<ngân hàng> máy phát tiền
+@Chuyên ngành kinh tế
+#máy rút tiền

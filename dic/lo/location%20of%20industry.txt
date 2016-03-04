@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#định địa điểm công nghiệp
+#định vị công nghiệp
+#sự chọn điểm công nghiệp
+#vị trí công nghiệp

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Yêu cầu Thiết bị (SS7: trong ISUP)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Yêu cầu Thiết bị (SS7: trong ISUP)

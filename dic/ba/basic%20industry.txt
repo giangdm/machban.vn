@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#ngành công nghiệp cơ bản
+#phương án cơ bản của bài toán quy hoạch tuyến tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#công nghiệp nặng

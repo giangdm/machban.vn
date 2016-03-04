@@ -1,0 +1,4 @@
+﻿- (tin học) Cạc gia tốc. Một bo mạch in thay thế hoặc trợ lực cho bộ vi xử lý chính của máy tính bằng một chip nhanh hơn. Cạc gia tốc cho phép người dùng nâng cấp một hệ thống bằng một bộ vi xử lý nhanh hơn mà không phái thay thế các cạc, các ổ đĩa, bàn phím hoặc vỏ máy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cạc tăng tốc

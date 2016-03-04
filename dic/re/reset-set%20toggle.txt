@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#flip-flop thiết lập-đặt lại
+#mạch bập bênh RS
+@Lĩnh vực: toán & tin
+#mạch bập bênh đặt-thiết lập lại (RS toggle)

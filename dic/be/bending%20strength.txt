@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#cường độ chịu uốn
+#độ bền uốn
+#sức bền uốn
+#sức chịu uốn
+@Lĩnh vực: cơ khí & công trình
+#cường độ uốn
+@Lĩnh vực: ô tô
+#sức (độ) chịu uốn

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#diện tích mặt bằng kho lạnh
+#diện tích sàn kho lạnh

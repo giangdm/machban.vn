@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#khí áp kế fortin
+@Chuyên ngành kỹ thuật
+#phong vũ biểu Fortin
+@Lĩnh vực: điện lạnh
+#khí (quyển) áp kế Fortin

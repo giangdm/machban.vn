@@ -1,0 +1,2 @@
+﻿@grounded-base configuration
+#(Tech) cấu hình gốc nối đất

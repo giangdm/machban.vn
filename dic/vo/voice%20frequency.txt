@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tần số tiếng nói
+@Lĩnh vực: xây dựng
+#tần số chuyển âm

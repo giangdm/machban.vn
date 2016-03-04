@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cơ cấu cấp nước
+#cơ cấu đổ đầy nước
+#cơ cấu tiếp nước

@@ -1,0 +1,2 @@
+﻿@ALGOL (algorithmic oriented language)
+#(Tech) ngôn ngữ hướng thuật toán

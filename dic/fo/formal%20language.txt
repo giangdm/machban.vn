@@ -1,0 +1,4 @@
+﻿@formal language
+#(Tech) ký ngữ hình thức
+@Chuyên ngành kỹ thuật
+#ngôn ngữ hình thức

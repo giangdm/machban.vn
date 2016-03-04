@@ -1,0 +1,5 @@
+﻿@Transfer deed
+#(Econ) Chước bạ chuyển giao.
+: Một chứng từ mà qua đó quyền sở hữu CHỨNG KHOÁN được chuyển giao theo nghĩa pháp lý từ người bán sang người mua.
+@Chuyên ngành kinh tế
+#giấy sang tên

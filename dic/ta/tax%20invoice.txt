@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bản kê khai hàng hóa có thuế
+#hóa đơn thuế giá trị gia tăng
+#hóa đơn thuế trị giá gia tăng

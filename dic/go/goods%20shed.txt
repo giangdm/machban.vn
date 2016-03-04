@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#lán hàng hóa
+@Chuyên ngành kỹ thuật
+#kho chứa hàng
+#làn chứa hàng
+#lều chứa hàng
+@Lĩnh vực: giao thông & vận tải
+#bãi hàng hóa
+#sân hàng hóa

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#đội tàu buôn
+#đội thương thuyền
+@Chuyên ngành kỹ thuật
+#đội tàu buôn
+@Lĩnh vực: giao thông & vận tải
+#đoạn tàu buôn trên biển

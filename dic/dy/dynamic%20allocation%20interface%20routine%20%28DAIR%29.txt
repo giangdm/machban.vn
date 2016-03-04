@@ -1,0 +1,2 @@
+﻿@dynamic allocation interface routine (DAIR)
+#(Tech) thường trình giao diện phân bố động

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phun kim loại
+@Lĩnh vực: cơ khí & công trình
+#sự mạ phun kim loại
+@Lĩnh vực: hóa học & vật liệu
+#sự phun mạ kim loại

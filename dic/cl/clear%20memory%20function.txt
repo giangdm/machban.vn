@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chức năng xóa bộ nhớ
+#hàm xóa bộ nhớ

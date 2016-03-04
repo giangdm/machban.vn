@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đầu cắm cáp
+@Lĩnh vực: điện
+#ổ cắm di động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đầu cắm cáp
+@Lĩnh vực: điện
+#ổ cắm di động

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#mức chuyên chở hữu hiệu
+#tỉ suất trọng lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ số (về) trọng lượng
+#hệ thức trọng lượng
+#tỷ lệ theo trọng lượng
+@Lĩnh vực: toán & tin
+#hệ số về trọng lượng

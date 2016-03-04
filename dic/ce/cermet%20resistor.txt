@@ -1,0 +1,7 @@
+﻿@cermet resistor
+#(Tech) cái điện trở gốm kim thuộc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện trở gốm kim loại
+@Lĩnh vực: điện lạnh
+#điện trở kecmet

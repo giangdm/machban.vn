@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiến trúc hệ thống mạng cải tiến
+#kiến trúc hệ thống mạng nâng cao
+@Lĩnh vực: điện tử & viễn thông
+#kiến trúc hệ thống mạng tiên tiến

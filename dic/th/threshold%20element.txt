@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#phần tử ngưỡng
+@Lĩnh vực: toán & tin
+#phần tử giới hạn
+#thành phần ngưỡng

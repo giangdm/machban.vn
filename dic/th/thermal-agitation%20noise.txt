@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tạp âm nhiệt
+@Lĩnh vực: điện lạnh
+#tiếng ồn nhiệt
+@Lĩnh vực: điện
+#tiếng ồn nhiễu loạn nhiệt

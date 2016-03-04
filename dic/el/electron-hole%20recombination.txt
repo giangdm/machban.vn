@@ -1,0 +1,2 @@
+﻿@electron-hole recombination
+#(Tech) sự tái hợp lỗ trống điện tử

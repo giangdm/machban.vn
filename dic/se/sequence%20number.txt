@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#số thứ tự
+@Chuyên ngành kỹ thuật
+#số thứ tự
+@Lĩnh vực: điện tử & viễn thông
+#số hiệu dãy
+@Lĩnh vực: toán & tin
+#số tuần tự

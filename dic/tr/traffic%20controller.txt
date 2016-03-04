@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điều độ viên
+@Lĩnh vực: xây dựng
+#kiểm soát viên giao thông
+@Lĩnh vực: giao thông & vận tải
+#trực ban chạy tàu ga

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#xóa bỏ, loại bỏ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phím DEL
+#phím xóa
+#xóa

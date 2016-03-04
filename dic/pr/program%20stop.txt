@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điểm dừng chương trình
+#sự dừng chương trình
+#sự ngừng chương trình

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#cả bì coi như tịnh
+#cách tính lấy trọng lượng gộp làm trọng lượng tịnh

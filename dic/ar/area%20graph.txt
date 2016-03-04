@@ -1,0 +1,6 @@
+﻿@area graph
+#(Tech) đồ thị khu vực/diện tích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đồ thị mảng
+#đồ thị vùng

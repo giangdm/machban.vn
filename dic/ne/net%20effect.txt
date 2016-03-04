@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ảnh hưởng thuần
+#tổng ảnh hưởng
+@Lĩnh vực: điện lạnh
+#hiệu ứng toàn phần
+#hiệu ứng tổng cộng

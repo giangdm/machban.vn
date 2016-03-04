@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bê tông cốt thép
+#bê tông không cốt thép
+#bê tông liền khối
+@Lĩnh vực: xây dựng
+#bê tông thô
+#bê tông thuần túy

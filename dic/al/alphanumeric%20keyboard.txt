@@ -1,0 +1,4 @@
+﻿@alphanumeric keyboard
+#(Tech) bàn phím chữ-số
+@Chuyên ngành kỹ thuật
+#bàn phím số

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu lượng dòng môi chất lạnh
+#lưu lượng môi chất lạnh
+@Lĩnh vực: điện lạnh
+#tốc độ dòng môi chất lạnh

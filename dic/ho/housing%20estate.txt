@@ -1,0 +1,8 @@
+﻿@housing estate
+*danh từ
+#khu vực quy hoạch làm khu dân cư
+@Chuyên ngành kinh tế
+#khu liên cư
+#khu nhà ở
+@Chuyên ngành kỹ thuật
+#khu nhà ở

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#lấy mẫu theo mô hình
+#phương pháp lấy mẫu

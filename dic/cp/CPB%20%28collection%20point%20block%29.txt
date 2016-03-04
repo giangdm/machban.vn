@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khối điểm thu thập
+@Lĩnh vực: toán & tin
+#khối điểm tập hợp

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#đám mây điện tích
+@Lĩnh vực: điện lạnh
+#mây điện tích

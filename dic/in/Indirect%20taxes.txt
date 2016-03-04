@@ -1,0 +1,7 @@
+﻿@Indirect taxes
+#(Econ) Thuế gián thu.
+: Thông thường, đây được coi là những loại thuế đánh vào hàng hoá và dịch vụ và do vậy, việc trả thuế chỉ là gián tiếp.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thuế gián thu
+#thuế gián tiếp

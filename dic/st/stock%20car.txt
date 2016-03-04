@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#toa xe chở súc vật
+@Lĩnh vực: ô tô
+#xe sửa lại để đua (cho va chạm)

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bảng gắn các thiết bị
+#phiến gắn các thiết bị

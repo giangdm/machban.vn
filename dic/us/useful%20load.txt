@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#lượng trang tải
+#trọng tải hữu dụng
+@Chuyên ngành kỹ thuật
+#tải trọng làm việc
+@Lĩnh vực: toán & tin
+#tải hữu ích

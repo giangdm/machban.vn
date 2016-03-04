@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#mất áp suất
+#sự sụt áp suất
+@Lĩnh vực: xây dựng
+#mất mát áp lực
+@Lĩnh vực: cơ khí & công trình
+#sự tổn thất áp lực

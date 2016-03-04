@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ dịch hợp ngữ macro
+#bộ tập hợp vĩ lệnh

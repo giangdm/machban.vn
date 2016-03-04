@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thời gian chờ đợi
+#thời gian tạm dừng, tạm nghỉ ngưng việc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hết thời gian chờ

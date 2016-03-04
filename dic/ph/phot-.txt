@@ -1,0 +1,13 @@
+﻿@phot-
+#hình thái ghép chỉ
+#ánh sáng; năng lượng
+=photography:bức ảnh
+#quang điện
+#photocell
+#tế bào quang điện
+#hình thái ghép chỉ
+#ánh sáng; năng lượng
+=photography:bức ảnh
+#quang điện
+#photocell
+#tế bào quang điện

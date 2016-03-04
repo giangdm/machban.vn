@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chỉ báo mức
+#bộ chỉ báo mức nạp
+#cái chỉ báo mức
+#cái chỉ báo mực (nước)
+@Lĩnh vực: toán & tin
+#chỉ báo mức
+@Lĩnh vực: cơ khí & công trình
+#thước chỉ mực nước
+@Chuyên ngành kỹ thuật
+#bộ chỉ báo mức
+#bộ chỉ báo mức nạp
+#cái chỉ báo mức
+#cái chỉ báo mực (nước)
+@Lĩnh vực: toán & tin
+#chỉ báo mức
+@Lĩnh vực: cơ khí & công trình
+#thước chỉ mực nước

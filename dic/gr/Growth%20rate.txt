@@ -1,0 +1,11 @@
+﻿@Growth rate
+#(Econ) Tốc độ tăng trưởng.
+<!-- more -->
+@growth rate
+#(Tech) tốc độ tăng trưởng, suất tăng
+@Chuyên ngành kinh tế
+#mức tăng trưởng
+#tỉ lệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tỷ suất tăng

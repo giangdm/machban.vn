@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#cấu phá hỏng
+#mô hình mặt đứt gãy
+#mô hình phá hủy
+@Lĩnh vực: điện tử & viễn thông
+#địa diện ngắt

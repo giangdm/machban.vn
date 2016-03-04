@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ngôn ngữ ALGOL
+@Lĩnh vực: toán & tin
+#ngôn ngữ hướng thuật toán

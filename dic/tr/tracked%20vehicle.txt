@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#xe bánh xích
+@Lĩnh vực: xây dựng
+#xe có bánh xích
+@Lĩnh vực: ô tô
+#xe xích

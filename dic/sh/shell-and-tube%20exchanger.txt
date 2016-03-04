@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị trao đổi nhiệt kiểu ống bọc
+@Chuyên ngành kỹ thuật
+#bộ trao đổi nhiệt

@@ -1,0 +1,2 @@
+﻿@xenix
+#Một hệ điều hành do Microsoft Corporation biên soạn, phù hợp với System V Interface Definition (SVID) của UNIX và chạy trên các máy tính tương thích IBM PC

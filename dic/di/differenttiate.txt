@@ -1,0 +1,3 @@
+﻿@differenttiate
+#lấy vi phân; tìm đạo hàm; phana biệt
+#d. with respect to x lấy vi phân theo x

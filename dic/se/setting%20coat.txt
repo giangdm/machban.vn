@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp ngoài
+#lớp phủ ngoài
+#lớp trang trí
+#lớp trát hoàn thiện
+#lớp trát mặt
+@Lĩnh vực: xây dựng
+#lớp trát cuối
+#lớp trát ngoài cùng

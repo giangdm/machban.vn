@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thử nghiệm đột biến
+@Lĩnh vực: điện lạnh
+#thử phóng điện xung

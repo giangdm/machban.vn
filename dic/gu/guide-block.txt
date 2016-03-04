@@ -1,0 +1,3 @@
+﻿@guide-block
+*danh từ
+#xem guide  bar

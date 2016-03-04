@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ứng suất theo tia
+@Lĩnh vực: xây dựng
+#ứng suất xuyên tâm

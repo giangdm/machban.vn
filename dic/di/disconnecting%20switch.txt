@@ -1,0 +1,13 @@
+﻿@disconnecting switch
+#(Tech) cái cắt mạch
+@Chuyên ngành kỹ thuật
+#cầu dao cách ly
+#công tắc ngắt
+#công tắc phân li
+@Lĩnh vực: điện lạnh
+#bộ ngắt cách ly
+#bộ ngắt nối
+#cầu dao cắt mạch
+@Lĩnh vực: điện
+#cầu dao cách li
+#công tắc một cực

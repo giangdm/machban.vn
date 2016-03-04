@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#công tắc lật
+@Lĩnh vực: điện lạnh
+#công tắc bập bênh
+#công tắc cần bật
+@Lĩnh vực: điện
+#công tắc bật

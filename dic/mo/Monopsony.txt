@@ -1,0 +1,3 @@
+﻿@Monopsony
+#(Econ) Độc quyền mua.
+: Theo nghĩa chặt chẽ thì một nhà độc quyền mua là người mua duy nhất đối với một yếu tố sản xuất.

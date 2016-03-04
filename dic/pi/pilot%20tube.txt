@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ống phong kế (đo tốc độ gió)
+@Lĩnh vực: hóa học & vật liệu
+#ống thí nghiệm

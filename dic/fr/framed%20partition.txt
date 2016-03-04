@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tường ngăn có khung
+#vách có khung
+#vách ngăn có khung
+#vách ngăn kiểu khung

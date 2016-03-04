@@ -1,0 +1,6 @@
+﻿@Input orientation
+#(Econ) Định hướng theo đầu vào.
+: Xu hướng của một số phương thức sản xuất và chế tạo muốn ở gần nguồn nguyên vật liệu hay đầu vào.
+@Chuyên ngành kinh tế
+#đặt gần nguồn nguyên liệu
+#sự định hướng theo đầu vào

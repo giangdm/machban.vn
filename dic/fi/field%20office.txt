@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#văn phòng làm việc tại hiện trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bưu cục bên ngoài
+#đài trạm bên ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bưu cục bên ngoài
+#đài trạm bên ngoài

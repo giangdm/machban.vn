@@ -1,0 +1,6 @@
+﻿@Withdrawals
+#(Econ) Các con số tận rút.
+: Cũng có thể được biết đến như là các sự dò rỉ. Bất kỳ một khoản thu nhập nào, không được đi tiếp trong vòng luân chuyển thu nhập và do đó không được dùng để chi phí cho những hàng hoá và dịch vụ hiện đang sản xuất.
+@Chuyên ngành kinh tế
+#các khoản rút ra
+#các khoản tiền rút ra

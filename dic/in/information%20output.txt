@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu ra thông tin
+@Lĩnh vực: xây dựng
+#sự phát tin
+@Lĩnh vực: toán & tin
+#xuất thông tin

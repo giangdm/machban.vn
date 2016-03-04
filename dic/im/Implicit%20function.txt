@@ -1,0 +1,8 @@
+﻿@Implicit function
+#(Econ) Hàm ẩn.
+: Hàm số được biểu diễn dưới dạng không có BIẾN PHỤ THUỘC.
+@Chuyên ngành kinh tế
+#chức năng nội tại
+#hàm số ẩn
+@Chuyên ngành kỹ thuật
+#hàm ẩn

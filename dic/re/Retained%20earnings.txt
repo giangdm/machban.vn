@@ -1,0 +1,10 @@
+﻿@Retained earnings
+#(Econ) Thu nhập được giữ lại.
+: Xem INTERNAL FINANCE.
+@Chuyên ngành kinh tế
+#lãi không chia
+#lợi nhuận giữ lại
+#thu nhập để lại
+#tiền lời dành lại
+@Chuyên ngành kỹ thuật
+#lợi nhuận để lại

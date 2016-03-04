@@ -1,0 +1,6 @@
+﻿@chain inference
+#(Tech) phép nội suy chuỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#suy luận dây chuyền
+#suy luận dây truyền

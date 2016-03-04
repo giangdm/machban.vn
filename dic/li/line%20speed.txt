@@ -1,0 +1,30 @@
+﻿@Chuyên ngành kỹ thuật
+#tốc độ đường truyền số
+@Lĩnh vực: toán & tin
+#tốc độ bit
+#tốc độ chuyển
+#tốc độ dòng
+#tốc độ dữ liệu
+#tốc độ truyền
+@Lĩnh vực: điện lạnh
+#tốc độ điều biến
+@Lĩnh vực: điện tử & viễn thông
+#tốc độ kênh truyền
+@Lĩnh vực: vật lý
+#vận tốc thẳng
+#vận tốc tuyến tính
+@Chuyên ngành kỹ thuật
+#tốc độ đường truyền số
+@Lĩnh vực: toán & tin
+#tốc độ bit
+#tốc độ chuyển
+#tốc độ dòng
+#tốc độ dữ liệu
+#tốc độ truyền
+@Lĩnh vực: điện lạnh
+#tốc độ điều biến
+@Lĩnh vực: điện tử & viễn thông
+#tốc độ kênh truyền
+@Lĩnh vực: vật lý
+#vận tốc thẳng
+#vận tốc tuyến tính

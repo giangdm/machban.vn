@@ -1,0 +1,5 @@
+﻿@drawing program
+#(Tech) chương trình vẽ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình vẽ

@@ -1,0 +1,6 @@
+﻿@work-load
+*danh từ
+#khối lượng công việc ai [phải] làm
+@Chuyên ngành kỹ thuật
+#tải trọng có ích
+#tải trọng làm việc

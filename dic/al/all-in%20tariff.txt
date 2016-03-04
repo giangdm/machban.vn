@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#giá điện toàn phần
+#giá hỗn hợp
+@Lĩnh vực: điện lạnh
+#ô tô tải kết đông

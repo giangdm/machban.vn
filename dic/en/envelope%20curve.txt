@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#đường cong bao
+#khúc tuyến bao bọc
+@Chuyên ngành kỹ thuật
+#đường (cong) bao
+#đường bao
+@Chuyên ngành kỹ thuật
+#đường (cong) bao
+#đường bao

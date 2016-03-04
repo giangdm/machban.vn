@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đường trượt băng di chuyển được
+#sàn (đường) trượt băng có thể vận chuyển được
+#sân trượt băng di chuyển được

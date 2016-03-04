@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dụng cụ chỉ
+@Lĩnh vực: điện
+#dụng cụ chỉ thị
+@Lĩnh vực: điện lạnh
+#dụng cụ đo chỉ thị
+#khí cụ đo chỉ thị

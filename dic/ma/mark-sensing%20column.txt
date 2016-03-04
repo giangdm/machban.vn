@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cột nhận biết dấu hiệu
+#cột nhận biết nhãn

@@ -1,0 +1,5 @@
+﻿@Binary variable
+#(Econ) Biến nhị phân.
+: Một biến số chỉ có thể có 2 giá trị (ví dụ 0 và 1), thường sử dụng để xác định những ảnh hưởng mang tính định tính hay định lượng trong phân tích HỒI QUY. Xem DUMMY VARIABLE.
+@Chuyên ngành kỹ thuật
+#biến nhị phân

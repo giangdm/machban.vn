@@ -1,0 +1,27 @@
+﻿@Discrimination
+#(Econ) Sự phân biệt đối sử.
+: Đối sử không công bằng đối với những thứ như nhau.
+<!-- more -->
+@discrimination /dis,krimi'neiʃn/
+*danh từ
+#sự phân biệt, sự nhận rõ điều khác nhau, sự tách bạch ra
+#sự biết phân biệt, sự sáng suốt, óc phán đoán, óc suy xét
+#sự đối xử phân biệt
+@Chuyên ngành kinh tế
+#phân biệt
+#phân biệt đối xử
+#phân biệt đối xử (về thuế... trong buôn bán quốc tế)
+#sự kỳ thị
+@Chuyên ngành kỹ thuật
+#bộ phân biệt
+#sự chọn lọc
+#sự phân biệt
+#sự tách ra
+@Lĩnh vực: xây dựng
+#khả năng lọc
+#sự tách lọc
+@Lĩnh vực: điện lạnh
+#tính phân biệt
+<!-- more -->
+@discrimination
+#sự phân biệt, sự tách ra

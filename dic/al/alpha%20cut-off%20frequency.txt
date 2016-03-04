@@ -1,0 +1,2 @@
+﻿@alpha cut-off frequency
+#(Tech) tần số cắt anfa, tần số giới hạn anfa

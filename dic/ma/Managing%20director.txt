@@ -1,0 +1,12 @@
+﻿@Managing director
+#(Econ) Giám đốc điều hành.
+: Là một người được bổ nhiệm là giám đốc một công ty trách nhiệm hữu hạn, có trách nhiệm chính là điều hành các hoạt động hàng ngày của công ty.
+@Chuyên ngành kinh tế
+#giám đốc điều hành
+#giám đốc thường vụ
+#giám đốc thường vụ giám đốc điều hành
+@Chuyên ngành kỹ thuật
+#giám đốc
+#tổng giám đốc
+@Lĩnh vực: điện
+#giám đốc điều hành

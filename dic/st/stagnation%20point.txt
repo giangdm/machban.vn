@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm chia dòng
+#điểm dừng
+#điểm rẽ dòng
+#điểm tù hãm
+@Lĩnh vực: toán & tin
+#điểm đình trệ (của dòng)
+#điểm định trệ (của dòng)

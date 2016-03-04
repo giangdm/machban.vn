@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#tổ máy phát điện
+@Lĩnh vực: điện
+#khối máy phát
+#tổ hợp máy phát điện
+@Lĩnh vực: giao thông & vận tải
+#tổ động cơ máy phát
+@Lĩnh vực: điện lạnh
+#tổ động cơ nổ-máy phát

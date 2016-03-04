@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#gỗ chắc
+@Lĩnh vực: xây dựng
+#gỗ chắc tốt
+#gỗ tốt
+#gỗ tốt (không có khuyết tật)
+@Lĩnh vực: toán & tin
+#gỗ tốt, gỗ chắc

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#insơ lập phương trên phút
+#số insơ lập phương mỗi phút

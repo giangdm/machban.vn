@@ -1,0 +1,2 @@
+﻿@biadaptive
+#(Tech) thích ứng kép = backward learning

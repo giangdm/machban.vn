@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bàn phím số
+@Chuyên ngành kỹ thuật
+#vùng phím số
+@Lĩnh vực: toán & tin
+#bộ phím số
+#khối phím số

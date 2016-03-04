@@ -1,0 +1,2 @@
+﻿@disk formatter
+#(Tech) bộ định khuôn dạng đĩa

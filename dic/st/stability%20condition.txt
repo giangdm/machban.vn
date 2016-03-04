@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#điều kiện biên
+#điều kiện bổ sung
+#điều kiện ổn định

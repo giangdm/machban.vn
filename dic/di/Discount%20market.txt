@@ -1,0 +1,6 @@
+﻿@Discount market
+#(Econ) Thị trường chiết khấu.
+: Theo nghĩa hẹp là thị trường London mà tại đó HỐI PHIẾU THƯƠNG MẠI và HỐI PHIẾU BỘ TÀI CHÍNH được mua bán .
+@Chuyên ngành kinh tế
+#thị trường chiết khấu
+#thị trường chiết khấu (phiếu khoán)

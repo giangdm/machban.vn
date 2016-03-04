@@ -1,0 +1,3 @@
+﻿@Demand - pull inflation
+#(Econ) Lạm phát do cầu kéo.
+: Sự gia tăng bền vững của tổng cầu dẫn đến sự gia tăng bền vững của mức giá chung.

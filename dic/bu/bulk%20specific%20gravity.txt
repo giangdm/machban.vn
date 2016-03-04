@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khối lượng riêng
+#tỷ trọng thể tích
+@Lĩnh vực: xây dựng
+#dung trọng lực

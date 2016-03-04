@@ -1,0 +1,7 @@
+﻿@central computer
+#(Tech) máy điện toán trung ương
+@Chuyên ngành kinh tế
+#máy tính trung tâm
+@Chuyên ngành kỹ thuật
+#máy tính chủ
+#máy tính trung tâm

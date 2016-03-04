@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt kế từ xa
+@Lĩnh vực: vật lý
+#máy đo nhiệt độ từ xa

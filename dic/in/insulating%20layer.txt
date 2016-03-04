@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp cách điện
+#lớp cách ly
+#lớp cách ly (âm thanh)
+#lớp cách nhiệt
+#lớp ngăn cách

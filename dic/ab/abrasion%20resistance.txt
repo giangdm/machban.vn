@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền mài mòn
+#độ chống mòn
+#sức chịu mài mòn
+#sức chống ăn mòn
+#sức chống mài mòn
+#sức chống mòn
+#tính chịu mài mòn
+@Lĩnh vực: xây dựng
+#độ chịu mài mòn
+#khả năng chống mòn

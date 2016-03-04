@@ -1,0 +1,2 @@
+﻿@facsimile equipment
+#(Tech) thiết bị điện thư

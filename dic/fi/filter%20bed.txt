@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kinh tế
+#lớp lọc
+@Chuyên ngành kỹ thuật
+#bể lọc sinh học
+#lớp cát
+#lớp cọc
+#lớp lọc
+#tầng lọc
+@Lĩnh vực: xây dựng
+#tấm lọc
+@Chuyên ngành kỹ thuật
+#bể lọc sinh học
+#lớp cát
+#lớp cọc
+#lớp lọc
+#tầng lọc
+@Lĩnh vực: xây dựng
+#tấm lọc

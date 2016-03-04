@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#góc giữa tiếp tuyến và dây cung (tại tiếp điểm)

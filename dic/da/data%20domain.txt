@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#miền dữ liệu
+@Lĩnh vực: xây dựng
+#địa hạt dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#miền dữ kiện

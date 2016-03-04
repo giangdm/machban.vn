@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bồn thông điệp
+#nơi chứa thông báo
+#nơi nhận thông báo

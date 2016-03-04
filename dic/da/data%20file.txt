@@ -1,0 +1,10 @@
+﻿@data file
+#(Tech) tập tin dữ liệu
+@Chuyên ngành kinh tế
+#tệp dữ liệu
+@Chuyên ngành kỹ thuật
+#tài liệu
+#tập dữ liệu
+@Lĩnh vực: toán & tin
+#tệp
+#tệp dữ liệu

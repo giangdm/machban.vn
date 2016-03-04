@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tỉ suất giữa ngân quỹ và nợ ngắn hạn
+#tỉ suất giữa vốn và nợ ngắn hạn
+#tỷ suất giữa vốn cổ phần và giá trị tịnh tài sản

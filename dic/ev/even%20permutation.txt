@@ -1,0 +1,12 @@
+﻿@even permutation
+#(Tech) hoán vị chẵn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hóa vị chẵn
+@Lĩnh vực: toán & tin
+#hoán vị chẵn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hóa vị chẵn
+@Lĩnh vực: toán & tin
+#hoán vị chẵn

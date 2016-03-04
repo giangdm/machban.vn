@@ -1,0 +1,5 @@
+﻿@Term structure of interest rates
+#(Econ) Cơ cấu kỳ hạn của lãi xuất.
+: Cơ cấu hay quan hệ giữa các lãi suất, hay nói một cách chặt chẽ hơn tổng lợi tức lúc đáo hạn, trên các chứng khoán có kỳ hạn khác nhau.
+@Chuyên ngành kinh tế
+#cấu trúc thời hạn của các lãi suất

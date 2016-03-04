@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bộ đếm tia lửa
+@Lĩnh vực: điện lạnh
+#bộ đếm tia lửa điện
+@Lĩnh vực: toán & tin
+#máy đếm nhấp nháy
+#mấy đếm nhấp nháy

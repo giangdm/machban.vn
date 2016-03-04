@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn đàn hồi quy ước
+@Lĩnh vực: xây dựng
+#giới hạn đàn hồi biểu kiến

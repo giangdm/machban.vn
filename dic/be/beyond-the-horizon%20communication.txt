@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lan truyền ngoại chân trời
+@Lĩnh vực: vật lý
+#lan truyền băng tán xạ
+@Lĩnh vực: điện lạnh
+#truyền thông ngoại chân trời

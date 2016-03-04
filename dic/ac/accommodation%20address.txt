@@ -1,0 +1,5 @@
+﻿@accommodation address
+*danh từ
+#địa chỉ tạm
+@Chuyên ngành kinh tế
+#hộp thư

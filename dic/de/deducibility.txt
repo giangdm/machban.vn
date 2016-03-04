@@ -1,0 +1,2 @@
+﻿@deducibility
+#(logic học) suy diễn được

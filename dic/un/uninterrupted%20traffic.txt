@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chuyển động không gián đoạn
+@Lĩnh vực: vật lý
+#chuyển động liên tục

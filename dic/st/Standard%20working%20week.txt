@@ -1,0 +1,3 @@
+﻿@Standard working week
+#(Econ) Tuần làm việc chuẩn.
+: Số giờ làm việc tối thiểu mà nhân viên đồng ý làm việc cho ông chủ của mình trong mỗi tuần.

@@ -1,0 +1,7 @@
+﻿@Collateral security
+#(Econ) Vật thế chấp.
+: Khi có nghĩa rộng, được dùng để chỉ bất cứ vật thế chấp nào (nhưng không phải đảm bảo cá nhân như bảo lãnh) mà một ngân hàng nhận khi nó cho một khách hàng vay và ngân hàng có quyền đòi trong trường hợp vỡ nợ.
+@Chuyên ngành kinh tế
+#vật bảo đảm
+#vật bảo đảm phụ thuộc
+#vật thế chấp

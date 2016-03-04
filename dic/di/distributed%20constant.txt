@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hằng số phân bố
+#tham số phân bố
+@Lĩnh vực: toán & tin
+#hằng số phân phối

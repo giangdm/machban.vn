@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp tách nút
+@Lĩnh vực: xây dựng
+#phương pháp tách nút (tính giàn)

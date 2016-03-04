@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ống nhánh
+@Lĩnh vực: xây dựng
+#nhánh ống
+@Lĩnh vực: cơ khí & công trình
+#ống (chia) nhánh

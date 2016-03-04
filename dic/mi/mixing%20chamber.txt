@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kinh tế
+#phòng trộn
+#thùng trộn
+@Chuyên ngành kỹ thuật
+#bể trộn
+#buồng hỗn hợp
+#buồng trộn
+#ngăn trộn
+#phòng trộn
+#phòng trộn, hòa khí
+#thùng trộn
+@Lĩnh vực: xây dựng
+#hòa khí
+@Lĩnh vực: điện lạnh
+#khoang nhào trộn
+@Lĩnh vực: cơ khí & công trình
+#phòng hòa khí

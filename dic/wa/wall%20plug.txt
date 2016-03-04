@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chốt cắm vào tường
+@Lĩnh vực: điện
+#phích cắm (trên) tường
+@Lĩnh vực: điện lạnh
+#phích cắm tường

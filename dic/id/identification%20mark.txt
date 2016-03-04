@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ký hiệu quy ước
+@Lĩnh vực: cơ khí & công trình
+#sự dán nhãn (hiệu)
+#sự khắc dấu

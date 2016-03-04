@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đài sử dụng dữ liệu địa phương
+#đài sử dụng dữ liệu tại chỗ
+#đài sử dụng dữ liệu thứ cấp

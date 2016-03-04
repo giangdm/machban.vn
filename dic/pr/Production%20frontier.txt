@@ -1,0 +1,3 @@
+﻿@Production frontier
+#(Econ) Giới hạn sản xuất.
+: Còn gọi là đường giới hạn năng lực sản xuất hoặc là hàm số của sự biến đổi. Đường này cho thấy các khả năng mở ra cho việc gia tăng sản lượng của một hàng hoá bằng cách giảm sản lượng của một hàng hoá khác.

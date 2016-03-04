@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy ghi (tọa độ) x-y
+@Lĩnh vực: điện lạnh
+#bộ ghi tọa độ X-Y

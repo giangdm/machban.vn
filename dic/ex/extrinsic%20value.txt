@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giá chợ (không phải thực giá)
+#gíá trị ngoại lai
+#giá trị ngoại tại (không phải giá trị cố hữu)

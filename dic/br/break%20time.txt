@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian ngắt
+@Lĩnh vực: điện
+#thời gian mở
+#thời gian ngắt (mạch)
+@Lĩnh vực: ô tô
+#thời gian vít mở

@@ -1,0 +1,5 @@
+﻿@Time preference
+#(Econ) Sở thích theo thời gian.
+: Các cá nhân có mức sở thích theo thời gian dương đánh giá các đơn vị tiêu dùng hay thu nhập hiện tại cao hơn các đơn vị trong tương lai.
+@Chuyên ngành kinh tế
+#sự thích thời gian hơn

@@ -1,0 +1,10 @@
+﻿@Long run
+#(Econ) Dài hạn.
+: Khoảng thời gian liên quan đến quá trình sản xuất trong đó có thời gian để thay đổi tất cả các yếu tố sản xuất, nhưng không đủ thời gian để thay đổi quy trình công nghệ có bản được sử dụng.
+@Chuyên ngành kinh tế
+#dài hạn
+#thời gian dài
+#trường kỳ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hành trình dài

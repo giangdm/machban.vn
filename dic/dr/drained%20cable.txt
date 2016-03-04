@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp được hút khô
+@Lĩnh vực: điện lạnh
+#cáp tháo nhựa

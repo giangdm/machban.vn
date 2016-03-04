@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sinh số ngẫu nhiên
+#sự tạo số ngẫu nhiên

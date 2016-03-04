@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#các tiếp điểm quang
+@Lĩnh vực: điện lạnh
+#tiếp điểm phóng hồ quang

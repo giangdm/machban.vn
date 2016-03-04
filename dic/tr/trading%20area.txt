@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khu doanh nghiệp, thương nghiệp, buôn bán
+#khu vực giao thương
+#khu vực thương mại

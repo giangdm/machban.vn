@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#chỗ dừng tàu khẩn cấp
+@Lĩnh vực: điện
+#sự dừng máy khẩn cấp
+@Lĩnh vực: cơ khí & công trình
+#sự ngừng lại rất gấp
+#sự thắng gấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#chỗ dừng tàu khẩn cấp
+@Lĩnh vực: điện
+#sự dừng máy khẩn cấp
+@Lĩnh vực: cơ khí & công trình
+#sự ngừng lại rất gấp
+#sự thắng gấp

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nước đen
+@Lĩnh vực: hóa học & vật liệu
+#nước chứa dầu
+@Lĩnh vực: môi trường
+#nước nhờn dầu

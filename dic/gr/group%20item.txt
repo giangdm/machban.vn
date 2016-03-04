@@ -1,0 +1,7 @@
+﻿@group item
+#(Tech) mục nhóm
+@Chuyên ngành kỹ thuật
+#mục nhóm
+@Lĩnh vực: toán & tin
+#mục (dữ liệu) của nhóm
+#phần tử nhóm

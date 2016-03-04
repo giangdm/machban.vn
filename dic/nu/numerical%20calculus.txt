@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#tính bằng số
+@Lĩnh vực: toán & tin
+#phép tính bằng số
+#phép tính toán từ

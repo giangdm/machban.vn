@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#họ các đường biểu diễn
+#tập hợp đường biểu diễn
+@Lĩnh vực: điện lạnh
+#họ đường cong

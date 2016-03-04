@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng điều khiển
+@Lĩnh vực: điện
+#cáp điều khiển (thang máy)

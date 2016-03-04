@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#luồng gió tự nhiên
+#sự thông gió tự nhiên
+@Lĩnh vực: hóa học & vật liệu
+#hút tự nhiên
+#thông gió tự nhiên
+@Lĩnh vực: vật lý
+#lực đẩy tự nhiên
+@Lĩnh vực: xây dựng
+#sự hút gió tự nhiên
+#sự tự hút (gió)
+@Lĩnh vực: điện lạnh
+#sức hút gió tự nhiên

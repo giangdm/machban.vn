@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kinh tế
+#sàng mắt lưới nhỏ
+@Chuyên ngành kỹ thuật
+#lưới mịn
+#sàng lỗ nhỏ
+#sàng mịn
+@Lĩnh vực: xây dựng
+#sàng lỗ bé
+@Lĩnh vực: cơ khí & công trình
+#sàng mắt nhỏ
+@Chuyên ngành kỹ thuật
+#lưới mịn
+#sàng lỗ nhỏ
+#sàng mịn
+@Lĩnh vực: xây dựng
+#sàng lỗ bé
+@Lĩnh vực: cơ khí & công trình
+#sàng mắt nhỏ

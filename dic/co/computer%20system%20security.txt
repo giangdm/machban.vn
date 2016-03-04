@@ -1,0 +1,8 @@
+﻿@computer system security
+#(Tech) sự bảo mật hệ thống điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#an ninh hệ thống máy tính
+#bảo mật hệ thống máy tính
+@Lĩnh vực: điện tử & viễn thông
+#an toàn hệ thống máy tính

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy tầng
+@Lĩnh vực: hóa học & vật liệu
+#dòng chảy song song
+@Lĩnh vực: điện lạnh
+#dòng điện ngoài hợp đồng
+#dòng điện song song
+@Lĩnh vực: toán & tin
+#dòng song song

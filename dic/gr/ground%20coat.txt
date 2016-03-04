@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp (sơn) lót
+#lớp (sơn) nền
+#lớp đáy
+#lớp dưới
+#lớp lót
+#lớp lót (sơn, trát, quét)
+#lớp nền
+#lớp sơn dưới
+#lớp sơn lót
+#lớp sơn nền
+#lớp vữa trong

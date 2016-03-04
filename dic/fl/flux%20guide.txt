@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chắn từ thông
+@Lĩnh vực: vật lý
+#ống dẫn từ thông

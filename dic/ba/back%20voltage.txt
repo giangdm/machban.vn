@@ -1,0 +1,2 @@
+﻿@back voltage
+#(Tech) điện áp ngược

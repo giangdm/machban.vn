@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Bảy chức năng giao diện tương tự-số: Cấp nguồn, bảo vệ quá tải, Tạo chuông, Giám sát, Mã hóa/Giải mã lai ghép và đo thử

@@ -1,0 +1,2 @@
+﻿@waise
+#Một hệ thống có cơ sở UNIX được nối với Internet;

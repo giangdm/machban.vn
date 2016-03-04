@@ -1,0 +1,13 @@
+﻿@Effective demand
+#(Econ) Cầu hữu hiệu.
+: Tổng cầu đối với hàng hoá và dịch vụ được hỗ trợ bởi các nguồn lực để mua chúng. Xem DUAL DECISION HYPOTHESIS.
+@Chuyên ngành kinh tế
+#cần có khả năng thanh toán
+#cầu có khả năng thanh toán
+#cầu thực sự
+#nhu cầu có khả năng chi trả
+#nhu cầu thực tế
+@Chuyên ngành kỹ thuật
+#nhu cầu thực tế
+@Lĩnh vực: điện tử & viễn thông
+#yêu cầu đủ sức trả

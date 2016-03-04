@@ -1,0 +1,32 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu chỉnh lỗi
+#loại bỏ khuyết tật
+@Lĩnh vực: toán & tin
+#chữa lỗi
+#sự hiệu chỉnh lỗi
+#sự sửa lỗi
+#sự sửa sai
+#sửa lỗi
+@Lĩnh vực: điện lạnh
+#hiệu chỉnh độ sai
+#hiệu chỉnh sai số
+@Lĩnh vực: điện tử & viễn thông
+#hiệu chỉnh sai hỏng
+#sự điều chỉnh sai số
+#sửa sai hỏng
+@Chuyên ngành kỹ thuật
+#hiệu chỉnh lỗi
+#loại bỏ khuyết tật
+@Lĩnh vực: toán & tin
+#chữa lỗi
+#sự hiệu chỉnh lỗi
+#sự sửa lỗi
+#sự sửa sai
+#sửa lỗi
+@Lĩnh vực: điện lạnh
+#hiệu chỉnh độ sai
+#hiệu chỉnh sai số
+@Lĩnh vực: điện tử & viễn thông
+#hiệu chỉnh sai hỏng
+#sự điều chỉnh sai số
+#sửa sai hỏng

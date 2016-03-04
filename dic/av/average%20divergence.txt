@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#độ tan bình quân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự phân kỳ trung bình

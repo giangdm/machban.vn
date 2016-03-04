@@ -1,0 +1,5 @@
+﻿@beta software
+#phần mềm Beta
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần mềm B

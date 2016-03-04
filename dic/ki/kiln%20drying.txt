@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự làm khô trong lò
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự sấy bằng lò
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự sấy bằng lò

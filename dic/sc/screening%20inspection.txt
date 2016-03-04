@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự kiểm tra bằng sàng
+#sự kiểm tra sàng lọc
+#sự thử bằng sàng
+#sự thử nghiệm sàng lọc
+@Lĩnh vực: toán & tin
+#kiểm tra chọn lọc

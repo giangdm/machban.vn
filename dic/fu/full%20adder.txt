@@ -1,0 +1,7 @@
+﻿@full adder
+#(Tech) bộ cộng đầy đủ, bô đọc toàn phần
+@Chuyên ngành kỹ thuật
+#bộ cộng đầy đủ
+#nguyên cộng viên
+@Lĩnh vực: toán & tin
+#bộ cộng toàn phần

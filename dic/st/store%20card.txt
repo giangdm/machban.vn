@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thẻ nguyên liệu
+#thẻ thanh toán
+#thẻ trữ kho

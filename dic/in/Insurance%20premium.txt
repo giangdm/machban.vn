@@ -1,0 +1,11 @@
+﻿@Insurance premium
+#(Econ) Tiền đóng bảo hiểm.
+: Xem INSURANCE.
+@Chuyên ngành kinh tế
+#phí bảo hiểm
+@Chuyên ngành kỹ thuật
+#phí bảo hiểm
+<!-- more -->
+@insurance premium
+*danh từ
+#phí bảo hiểm, bảo phí

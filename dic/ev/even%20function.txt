@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hàm số chẵn
+@Chuyên ngành kỹ thuật
+#hàm chẵn
+@Chuyên ngành kỹ thuật
+#hàm chẵn

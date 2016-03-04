@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bản stato (ở tụ biến thiên)
+#lá stato
+#tấm stato
+@Lĩnh vực: điện
+#cực phẳng phần cố định
+#phiến stato
+#phiến tĩnh

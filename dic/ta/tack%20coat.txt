@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp bám dính
+#lớp có cực dính
+#lớp dính bám
+#lớp phủ láng
+#lớp phủ tráng
+@Lĩnh vực: xây dựng
+#lớp kết phụ
+#lớp liên kết (mặt đường)

@@ -1,0 +1,5 @@
+﻿@general-purpose register
+#(Tech) bản ghi thườg dụng (trong bộ nhớ chính của đơn vị xử lý trung ương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thanh ghi đa (chức) năng

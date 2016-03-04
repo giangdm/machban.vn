@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#hệ nhị phân
+@Chuyên ngành kỹ thuật
+#hệ nhị phân
+@Lĩnh vực: điện lạnh
+#hệ đôi
+#hệ hai thành phần
+@Lĩnh vực: y học
+#hệ đôi, hệ hai thành phần
+@Lĩnh vực: toán & tin
+#hệ thống nhị phân

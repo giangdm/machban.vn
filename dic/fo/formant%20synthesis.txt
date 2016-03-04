@@ -1,0 +1,2 @@
+﻿@formant synthesis
+#(Tech) tổng hợp đỉnh cộng

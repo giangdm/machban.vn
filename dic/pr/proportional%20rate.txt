@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#mức thu tỉ lệ
+#mức thuế tỉ lệ
+#mức vận phí tỉ lệ
+#suất cước tỉ lệ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#gian [khu vực] trao đổi nhiệt
+#gian trao đổi nhiệt
+#khu vực trao đổi nhiệt

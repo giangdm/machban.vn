@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#màn hình LCD
+#màn hình tinh thể lỏng
+@Lĩnh vực: xây dựng
+#mặt hiển thị tinh thể lỏng
+@Chuyên ngành kỹ thuật
+#màn hình LCD
+#màn hình tinh thể lỏng
+@Lĩnh vực: xây dựng
+#mặt hiển thị tinh thể lỏng

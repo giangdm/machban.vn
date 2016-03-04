@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hút ra
+@Lĩnh vực: hóa học & vật liệu
+#bơm ngược

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đa truy cập phân chia mật mã
+@Lĩnh vực: điện tử & viễn thông
+#đa truy nhập phân chia theo mã

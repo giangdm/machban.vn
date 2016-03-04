@@ -1,0 +1,2 @@
+﻿@diode transistor logic (DTL) gate
+#(Tech) cổng luận lý đèn hai cực-đèn tinh thể

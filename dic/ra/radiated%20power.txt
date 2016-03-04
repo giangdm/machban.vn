@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#công suất bức xạ
+@Lĩnh vực: xây dựng
+#acs phóng xạ
+@Lĩnh vực: điện lạnh
+#công suất đã bức xạ (của một ăng ten phát)
+@Lĩnh vực: toán & tin
+#cường độ bức xạ

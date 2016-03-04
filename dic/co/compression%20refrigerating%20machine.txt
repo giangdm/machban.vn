@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy làm lạnh kiểu khí nén
+#máy lạnh làm lạnh kiểu nén
+@Lĩnh vực: điện lạnh
+#máy lạnh có máy nén

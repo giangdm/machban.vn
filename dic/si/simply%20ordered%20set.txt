@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập (hợp) được sắp đơn giản
+#tập hợp được sắp (đơn) giản

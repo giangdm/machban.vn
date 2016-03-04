@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#dấu tách tập tin
+@Lĩnh vực: toán & tin
+#ký tự tách tập tin
+#vùng phân cách tệp
+@Chuyên ngành kỹ thuật
+#dấu tách tập tin
+@Lĩnh vực: toán & tin
+#ký tự tách tập tin
+#vùng phân cách tệp

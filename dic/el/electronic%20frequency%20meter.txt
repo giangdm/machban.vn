@@ -1,0 +1,2 @@
+﻿@electronic frequency meter
+#(Tech) tần số kế loại điện tử

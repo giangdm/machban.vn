@@ -1,0 +1,2 @@
+﻿@D layer
+#(Tech) lớp D

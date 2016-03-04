@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ (thống) bơm nhiệt tự cân bằng
+#hệ thống bơm nhiệt tự cân bằng

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phép đo độ hấp thụ
+@Lĩnh vực: điện lạnh
+#đo hấp thụ

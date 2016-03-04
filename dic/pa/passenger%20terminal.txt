@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khu vực dành cho hành khách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#ga hành khách đầu cuối

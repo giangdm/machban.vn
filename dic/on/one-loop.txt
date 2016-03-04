@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn chu trình
+@Lĩnh vực: điện tử & viễn thông
+#một mạch
+@Lĩnh vực: điện lạnh
+#một vòng

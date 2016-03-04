@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ quan thông tin
+#dịch vụ thông tin
+@Lĩnh vực: điện tử & viễn thông
+#dịch vụ hỏi tin
+@Lĩnh vực: xây dựng
+#trạm phục vụ thông tin

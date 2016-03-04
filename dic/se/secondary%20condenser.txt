@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bình ngưng tụ trung gian
+#thùng ngưng tụ trung gian
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dàn lạnh phụ
+#dàn lạnh thứ cấp
+#giàn lạnh phụ
+#giàn lạnh thứ cấp

@@ -1,0 +1,3 @@
+﻿@Wharton model
+#(Econ) Mô hình Wharton.
+: Một mô hình gồm 76 phương trình về nền kinh tế Mỹ phát triển từ mô hình KLEIN-GOLDBERGER (K-G) nhưng có 4 điểm khác biệt: 1)Mô hình này sử dụng dữ liệu tính toán trên cơ sở quý, Mô hìn K-G tính trên cơ sở năm. 2)mô hình này được thiết kế chủ yếu được dùng để dự đoán hành vi kinh tế cụ thể là thu nhập quốc dân và mức việc làm. 3)Mô hình này được phân tán tới một mức độ lớn hơn nhiều và có một khu vực tiền tệ phát triển hơn nhiều. 4)Hàm sản xuất được thiết lập dựa trên các hàm kiểu COBB-DOUGLAS.

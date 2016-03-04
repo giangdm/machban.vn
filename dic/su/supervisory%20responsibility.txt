@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chức trách giám sát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chức năng giám sát
+@Lĩnh vực: toán & tin
+#nhiệm vụ giám sát

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hộp phân cáp
+#hộp phân phối
+@Lĩnh vực: điện
+#bộ phân nhánh cáp
+#phòng phân phối

@@ -1,0 +1,8 @@
+﻿@common logarithm
+#(Tech) đối số thập phân
+@Chuyên ngành kỹ thuật
+#lôgarit cơ số 10
+#lôgarit thập phân
+@Lĩnh vực: toán & tin
+#lô ga thường
+#log cơ số 10

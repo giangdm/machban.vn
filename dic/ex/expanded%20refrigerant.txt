@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#môi chất lạnh tiết lưu
+@Lĩnh vực: điện lạnh
+#môi chất lạnh giãn nở
+@Chuyên ngành kỹ thuật
+#môi chất lạnh tiết lưu
+@Lĩnh vực: điện lạnh
+#môi chất lạnh giãn nở

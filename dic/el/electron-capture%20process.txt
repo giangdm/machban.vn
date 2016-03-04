@@ -1,0 +1,2 @@
+﻿@electron-capture process
+#(Tech) tiến trình thu nạp điện tử

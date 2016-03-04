@@ -1,0 +1,6 @@
+﻿@depletion layer
+#(Tech) lớp khuyết lập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#vùng không hạt tải
+#vùng trống

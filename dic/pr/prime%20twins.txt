@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sinh đôi
+#số nguyên tố
+@Lĩnh vực: toán & tin
+#số nguyên tố sinh đôi

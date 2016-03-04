@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiên liệu lấy từ rác thải (RDF)
+@Lĩnh vực: xây dựng
+#trạm chuyển rác

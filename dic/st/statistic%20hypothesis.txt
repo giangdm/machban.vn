@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giả thiết làm việc
+@Lĩnh vực: điện tử & viễn thông
+#giả thiết thống kê

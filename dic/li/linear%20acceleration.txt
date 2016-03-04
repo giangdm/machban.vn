@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#gia tốc dài
+@Lĩnh vực: xây dựng
+#gia tốc trên đường thẳng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#gia tốc dài
+@Lĩnh vực: xây dựng
+#gia tốc trên đường thẳng

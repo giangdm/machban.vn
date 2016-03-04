@@ -1,0 +1,9 @@
+﻿@difference frequency
+#(Tech) hiệu tần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hiệu tần
+#tần số hiệu
+@Lĩnh vực: điện lạnh
+#tần số hiệu (số)
+#tần số phách

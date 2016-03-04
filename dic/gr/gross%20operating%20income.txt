@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#kinh doanh gộp
+#lãi gộp kinh doanh
+#lãi thu nhập

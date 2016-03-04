@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#kết cấu bên trong
+@Lĩnh vực: cơ khí & công trình
+#cấu trúc bên trong
+@Lĩnh vực: hóa học & vật liệu
+#kiến trúc bên trong

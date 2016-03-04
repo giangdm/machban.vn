@@ -1,0 +1,15 @@
+﻿@teletype /'telitaip/
+*danh từ
+#máy điện báo đánh chữ,  têlêtip
+*động từ
+#dùng máy điện báo đánh chữ
+#gửi bằng điện báo đánh chữ
+@Chuyên ngành kỹ thuật
+#mát in từ xa
+#máy chữ điện báo
+#máy viễn ấn
+#máy viễn ký
+@Lĩnh vực: điện lạnh
+#điện báo đánh chữ
+@Lĩnh vực: toán & tin
+#teletyp

@@ -1,0 +1,3 @@
+﻿@Mis-specification
+#(Econ) Thông số sai lệch.
+: Xem Specification error.

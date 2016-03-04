@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt mất đi
+@Chuyên ngành kỹ thuật
+#nhiệt bỏ đi
+#nhiệt đã sử dụng
+#nhiệt hao phí
+#nhiệt lãng phí
+#nhiệt lượng hao đi
+#nhiệt thải
+@Lĩnh vực: điện lạnh
+#nhiệt loại bỏ
+#nhiệt lượng hao
+@Lĩnh vực: điện
+#nhiệt lượng thải

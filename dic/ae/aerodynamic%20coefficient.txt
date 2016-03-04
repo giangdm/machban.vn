@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số khí động (lực)
+@Lĩnh vực: xây dựng
+#hệ số khí động
+@Lĩnh vực: điện tử & viễn thông
+#hệ số khí động học

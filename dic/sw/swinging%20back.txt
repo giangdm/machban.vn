@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#nền lắc
+#thành sau lắc
+#thành sau xoay

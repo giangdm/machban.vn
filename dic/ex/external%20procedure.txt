@@ -1,0 +1,2 @@
+﻿@external procedure
+#(Tech) trình tự ngoài

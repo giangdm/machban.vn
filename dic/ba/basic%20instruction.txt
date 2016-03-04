@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lệnh cơ bản
+@Lĩnh vực: toán & tin
+#lệnh cơ sở

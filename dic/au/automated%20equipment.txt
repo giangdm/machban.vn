@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị tự động hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thiết bị tự động hóa

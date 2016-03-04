@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#máy nén vít
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#máy ép trục vít
+#máy nén trục vít
+@Lĩnh vực: xây dựng
+#máy nén quay kiểu helit
+#máy nén quay kiểu vit

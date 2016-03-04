@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phá băng theo chu kỳ
+@Lĩnh vực: điện lạnh
+#phá băng theo thời gian (rơle thời gian)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#kỳ kế toán
+#thời hạn quyết toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chu kỳ kế toán

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giá đã trả thuế
+#giá gồm thuế
+#giá hàng trong đó đã tính cả thuế nhập khẩu

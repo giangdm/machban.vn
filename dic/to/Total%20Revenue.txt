@@ -1,0 +1,10 @@
+﻿@Total Revenue
+#(Econ) Doanh thu tổng.
+: Tổng thu từ việc bán một hay nhiều sản phẩm của một hãng hay một nghành.
+@Chuyên ngành kinh tế
+#tổng doanh thu
+#tổng số thu
+#tổng sổ thu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tổng doanh thu

@@ -1,0 +1,8 @@
+﻿@brightness control
+#(Tech) điều chỉnh độ chói, kiểm soát độ chói
+@Chuyên ngành kỹ thuật
+#điều khiển độ chói
+@Lĩnh vực: điện
+#kiểm quang độ
+@Lĩnh vực: toán & tin
+#sự điều khiển độ chói

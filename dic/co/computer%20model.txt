@@ -1,0 +1,2 @@
+﻿@computer model
+#(Tech) mô hình điện toán

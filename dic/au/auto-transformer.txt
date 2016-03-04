@@ -1,0 +1,6 @@
+﻿@auto-transformer /'ɔ:toutræns'fɔ:mə/
+*danh từ
+#(điện học) máy tự biến thế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến thế tự động

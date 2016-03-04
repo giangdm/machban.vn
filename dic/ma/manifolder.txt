@@ -1,0 +1,4 @@
+﻿@manifolder
+*danh từ
+#máy in sao
+#người in sao; người chép sao

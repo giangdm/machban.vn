@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp truy nhập cơ bản
+@Lĩnh vực: toán & tin
+#phương pháp truy cập cơ bản

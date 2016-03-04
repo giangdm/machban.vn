@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị chuyển mạch
+@Lĩnh vực: toán & tin
+#chuyển tiếp khung

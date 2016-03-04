@@ -1,0 +1,2 @@
+﻿@current hogging injection logic
+#(Tech) mạch luận lý phun nhiễu loạn dòng, mạch luận lý phun nghẹn dòng

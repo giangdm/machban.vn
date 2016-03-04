@@ -1,0 +1,2 @@
+﻿@fault signaling
+#(Tech) báo hiệu lỗi

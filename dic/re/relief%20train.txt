@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#chuyến tàu phụ
+@Chuyên ngành kỹ thuật
+#đoàn tàu bổ sung
+#tàu cứu chữa
+#tàu cứu hộ
+@Lĩnh vực: giao thông & vận tải
+#tàu cứu trợ
+#tàu cứu viện

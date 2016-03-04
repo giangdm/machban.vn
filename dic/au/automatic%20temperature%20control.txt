@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự điều chỉnh tự động nhiệt độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh nhiệt độ tự động

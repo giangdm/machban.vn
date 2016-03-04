@@ -1,0 +1,2 @@
+﻿@macbinary
+#Một giao thức truyền tệp tin dùng cho các máy tính Macintosh, cho phép bạn có thể lưu trữ các tệp tin Macintosh bằng máy tính không phải Macintosh mà không bị mất các biểu tượng, các đồ hình, các thông tin về tệp đó như ngày tháng thành lập chẳng hạn Hầu hết các chương trình truyền thông Macintosh đều phát và thu các tệp theo MacBinary

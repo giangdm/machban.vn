@@ -1,0 +1,2 @@
+﻿@Short run variable costs (SVC)
+#(Econ) Biến phí ngắn hạn.

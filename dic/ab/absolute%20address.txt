@@ -1,0 +1,8 @@
+﻿@absolute address
+#(Tech) địa chỉ tuyệt đối. Còn gọi là địa chỉ trực tiếp. Trong một chương trình, đây là việc định rõ một vị trí bộ nhớ bằng chính địa chỉ của nó chứ không phải dùng một biểu thức để tính toán ra địa chỉ đó.
+@Chuyên ngành kinh tế
+#địa chỉ tuyệt đối (máy tính)
+@Chuyên ngành kỹ thuật
+#địa chỉ riêng
+#địa chỉ trực tiếp
+#địa chỉ tuyệt đối

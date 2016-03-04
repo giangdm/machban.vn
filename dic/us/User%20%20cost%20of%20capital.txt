@@ -1,0 +1,3 @@
+﻿@User  cost of capital
+#(Econ) Chi phí sử dụng vốn.
+: Giá trị thuê dịch vụ vốn, hay giá mà một hãng phải trả cho việc sử dụng dung lượng vốn mà nó sở hữu hay xem xét để mua.

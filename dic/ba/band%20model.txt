@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#mô hình dải
+@Lĩnh vực: điện lạnh
+#mô hình vùng

@@ -1,0 +1,2 @@
+﻿@germanium photodevice
+#(Tech) bộ quang điện gecmani (Ge)

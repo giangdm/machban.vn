@@ -1,0 +1,3 @@
+﻿@train-table
+*danh từ
+#bảng giờ tàu

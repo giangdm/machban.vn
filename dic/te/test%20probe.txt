@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đầu dò kiểm tra
+#đầu dò thử
+@Lĩnh vực: đo lường & điều khiển
+#đầu dò thử nghiệm
+@Lĩnh vực: điện
+#que thử điện

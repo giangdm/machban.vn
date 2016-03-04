@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#buồng tạo hơi
+#thùng tạo hơi
+@Chuyên ngành kỹ thuật
+#áo hơi
+#hộp hơi
+#hộp van hơi
+@Lĩnh vực: cơ khí & công trình
+#hộp hơi nước

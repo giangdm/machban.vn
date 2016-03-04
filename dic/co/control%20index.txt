@@ -1,0 +1,2 @@
+﻿@control index
+#(Tech) chỉ mục điều khiển

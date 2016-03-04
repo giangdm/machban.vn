@@ -1,0 +1,5 @@
+﻿@Principal-agent problem
+#(Econ) Vấn đề uỷ thác và nhậm thác; Vấn đề người có vốn và người đại diện.
+: Điều này nói đến tình huống trong lý thuyết hãng khi lợi ích của người quản lý và của cổ đông khác biệt nhau.
+@Chuyên ngành kinh tế
+#vấn đề người ủy thác- người đại lý

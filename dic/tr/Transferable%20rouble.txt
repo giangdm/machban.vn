@@ -1,0 +1,3 @@
+﻿@Transferable rouble
+#(Econ) Rúp chuyển đổi được.
+: Một đơn vị tiền tệ kế toán do Liên Xô đưa ra năm 1963 cho việc thanh toán số dư thương mại giữa các nước trong hội đồng tương trợ kinh tế.

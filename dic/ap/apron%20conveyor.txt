@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị chuyền tải dạng phiến
+@Chuyên ngành kỹ thuật
+#băng tải tấm
+@Lĩnh vực: hóa học & vật liệu
+#băng tải kiểu khớp

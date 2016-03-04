@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp bản lề
+#khớp nối
+#mối nối khớp
+#sự liên kết khớp
+@Lĩnh vực: toán & tin
+#sự liên kết khớp nối
+@Lĩnh vực: hóa học & vật liệu
+#sự nối bằng khớp

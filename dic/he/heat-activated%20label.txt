@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#nhãn dán bằng nhiệt
+#nhãn kích hoạt bằng nhiệt

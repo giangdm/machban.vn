@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khung cốt
+#sườn
+@Lĩnh vực: xây dựng
+#khung kiểu sườn (dầm:cột)

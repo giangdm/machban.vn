@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#toa xe
+#toa xe lửa đã xếp đầy hàng
+@Chuyên ngành kỹ thuật
+#toa chở hàng
+#toa đóng kín

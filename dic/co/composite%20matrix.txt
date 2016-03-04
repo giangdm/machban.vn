@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ma trận hợp
+#ma trận phức hợp
+#ma trận thành phần

@@ -1,0 +1,6 @@
+﻿@radio-element
+*danh từ
+#nguyên tố phóng xạ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nguyên tố phóng xạ

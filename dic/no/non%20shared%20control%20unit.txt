@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết bị điều khiển không chia sẻ
+#thiết bị không dùng chung

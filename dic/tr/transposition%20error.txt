@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#sai lầm do chuyển dịch số
+#sai số dịch vị, nghịch đảo

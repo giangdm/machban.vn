@@ -1,0 +1,2 @@
+﻿@electron-optical cross-section
+#(Tech) mặt cắt quang điện tử

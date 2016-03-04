@@ -1,0 +1,9 @@
+﻿@tuscan
+*danh từ
+#(Tuscan) người xứ Toscan
+#(Tuscan) phương ngữ Toscan của Italia
+#(Tuscan) ngôn ngữ văn học của Italia
+*tính từ
+#(thuộc) người xứ Toscan
+#(thuộc) phương ngữ Toscan của Italia
+#(thuộc) ngôn ngữ văn học của Italia

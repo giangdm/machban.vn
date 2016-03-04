@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#lò kiểm tra nhiệt độ
+@Lĩnh vực: hóa học & vật liệu
+#ống núi lửa

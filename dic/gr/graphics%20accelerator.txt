@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ gia tốc đồ họa
+#bộ tăng tốc đồ họa

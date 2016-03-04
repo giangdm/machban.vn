@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp bình phương tối thiểu
+@Lĩnh vực: vật lý
+#phương pháp diện tích nhỏ nhất
+@Chuyên ngành kỹ thuật
+#phương pháp bình phương tối thiểu
+@Lĩnh vực: vật lý
+#phương pháp diện tích nhỏ nhất

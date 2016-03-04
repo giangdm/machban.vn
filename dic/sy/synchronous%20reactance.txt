@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện kháng đồng bộ
+@Lĩnh vực: điện
+#trở kháng đồng bộ

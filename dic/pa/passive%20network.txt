@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#mạng thụ động
+@Lĩnh vực: điện
+#lưới điện không nguồn
+#lưới điện thụ động
+#mạch thụ động
+@Lĩnh vực: điện lạnh
+#mạng thụ động (không có nguồn năng lượng)

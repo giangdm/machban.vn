@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#nguyên lý đẳng nhiệt
+#phương thức
+#quá trình đẳng nhiệt
+@Lĩnh vực: xây dựng
+#biến thái đẳng nhiệt
+@Lĩnh vực: toán & tin
+#phương thức đẳng nhiệt

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực âm
+#áp suất âm
+#áp suất chân không
+#áp suất thấp
+@Lĩnh vực: xây dựng
+#đối áp, sự giảm áp

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mẫu bằng thật
+#mô hình bằng thật
+#mô hình kích thước thật

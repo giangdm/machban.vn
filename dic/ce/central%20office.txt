@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ quan trung ương
+#tổng đài điện thoại
+@Lĩnh vực: xây dựng
+#trạm điện thoại trung tâm
+@Lĩnh vực: toán & tin
+#văn phòng trung

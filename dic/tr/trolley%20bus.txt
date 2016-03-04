@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thanh dẫn
+#xe buýt chạy dây cáp
+#xe chạy điện
+@Lĩnh vực: ô tô
+#buýt chạy điện

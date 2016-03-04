@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bọc bộ lót thanh chuyền
+@Lĩnh vực: toán & tin
+#bọc bộ lót thanh truyền

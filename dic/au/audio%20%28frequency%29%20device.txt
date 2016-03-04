@@ -1,0 +1,2 @@
+﻿@audio (frequency) device
+#(Tech) bộ (tần số) âm thanh

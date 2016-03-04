@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị thông gió
+@Lĩnh vực: điện lạnh
+#hệ (thống) thông gió
+#trạm thông gió

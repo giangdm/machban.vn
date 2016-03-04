@@ -1,0 +1,10 @@
+﻿@electron telescope
+#(Tech) viễn vọng kính điện tử, kính thiên văn điện tử
+@Chuyên ngành kỹ thuật
+#kính hiển vi điện tử
+@Lĩnh vực: toán & tin
+#kính hiển vi electron
+@Chuyên ngành kỹ thuật
+#kính hiển vi điện tử
+@Lĩnh vực: toán & tin
+#kính hiển vi electron

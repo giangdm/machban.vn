@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#số liệu thiết kế
+@Chuyên ngành kỹ thuật
+#số liệu thiết kế
+#số liệu tính toán
+@Lĩnh vực: điện tử & viễn thông
+#dữ liệu thiết kế

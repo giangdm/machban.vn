@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm chìm
+#máy bơm chìm
+#máy bơm ngập nước
+@Lĩnh vực: điện lạnh
+#bơm có thể nhúng chìm

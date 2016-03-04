@@ -1,0 +1,10 @@
+﻿@display image
+#(Tech) hình hiển thị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ảnh hiển thị
+@Lĩnh vực: xây dựng
+#ảnh phô bày
+@Lĩnh vực: toán & tin
+#hình ảnh hiển thị
+#hình ảnh màn hình

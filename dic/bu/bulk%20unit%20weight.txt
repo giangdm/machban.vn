@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#trọng lượng gộp đơn vị
+@Chuyên ngành kỹ thuật
+#tỷ trọng thể tích
+@Lĩnh vực: xây dựng
+#dung trọng lượng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#biến chỉ báo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến của bộ chỉ báo

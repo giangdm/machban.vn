@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#âm nguyên
+@Lĩnh vực: vật lý
+#một tông
+@Lĩnh vực: điện lạnh
+#tông nguyên

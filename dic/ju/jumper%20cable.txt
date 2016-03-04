@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cáp nối
+#dây nối tắt
+@Lĩnh vực: điện
+#cáp (có đầu) nối
+#dây leo
+#nhánh leo

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy ghi nhiệt độ
+@Lĩnh vực: đo lường & điều khiển
+#hỏa kế tự ghi

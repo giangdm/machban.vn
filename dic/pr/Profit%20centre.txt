@@ -1,0 +1,6 @@
+﻿@Profit centre
+#(Econ) Cứ điểm lợi nhuận; Trung tâm lợi nhuận.
+: Khi một công ty được phân tán thành nhiều đơn vị nhỏ, thì những đơn vị này được gọi là trung tâm lợi nhuận nếu chúng có đủ tính tự lập để tính được lợi tức riêng cho mỗi đơn vị do đầu tư.
+@Chuyên ngành kinh tế
+#bộ phận tạo lãi
+#trung tâm lợi nhuận

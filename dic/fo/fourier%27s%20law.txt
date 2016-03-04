@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#định luật furiê
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#định luật Fourier

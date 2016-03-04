@@ -1,0 +1,9 @@
+﻿@Imaginary number
+#(Econ) Số ảo.
+: Con số có căn bậc hai của âm một, và thường kí hiệu là i. Xem COMPLEX NUMBER.
+@Chuyên ngành kinh tế
+#số ảo
+@Chuyên ngành kỹ thuật
+#số ảo
+@Lĩnh vực: toán & tin
+#ảo số

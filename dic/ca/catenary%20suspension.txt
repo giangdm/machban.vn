@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự treo bằng xích
+@Lĩnh vực: điện lạnh
+#dây treo chịu tải
+@Lĩnh vực: điện
+#sự treo dây dạng xích

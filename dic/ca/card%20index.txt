@@ -1,0 +1,6 @@
+﻿@card index
+#(Tech) chỉ mục phiếu
+@Chuyên ngành kỹ thuật
+#bộ phiếu
+@Lĩnh vực: toán & tin
+#chỉ số thẻ

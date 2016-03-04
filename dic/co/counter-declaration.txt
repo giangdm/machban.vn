@@ -1,0 +1,3 @@
+﻿@counter-declaration
+*danh từ
+#lời bác lại lời tuyên bố

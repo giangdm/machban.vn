@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bảng báo giá
+#giá biểu hối đoái
+#giá yết
+#giá yết của Sở giao dịch

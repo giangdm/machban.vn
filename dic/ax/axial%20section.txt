@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt cắt dọc
+@Lĩnh vực: hóa học & vật liệu
+#mặt cắt theo trục

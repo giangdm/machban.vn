@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#tấm chắn
+#tấm chắn gió
+#tấm hướng dòng
+@Lĩnh vực: hóa học & vật liệu
+#bản làm lệch hướng
+@Lĩnh vực: điện lạnh
+#tấm làm lệch
+@Lĩnh vực: cơ khí & công trình
+#tấm làm lệch hướng
+#vách chắn gió
+#vạch ngăn

@@ -1,0 +1,4 @@
+﻿@direct method
+#phương thức trực tiếp
+@Chuyên ngành kinh tế
+#phương pháp trực tiếp

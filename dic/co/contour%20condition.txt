@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#điều kiện biên
+@Lĩnh vực: xây dựng
+#điều kiện trên vành

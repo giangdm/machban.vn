@@ -1,0 +1,2 @@
+﻿@gigabit (Gb)
+#(Tech) một tỷ bit

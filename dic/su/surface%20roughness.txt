@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ nhám bề mặt
+@Lĩnh vực: xây dựng
+#mấp mô (của mặt đường)

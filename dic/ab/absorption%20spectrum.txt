@@ -1,0 +1,11 @@
+﻿@absorption spectrum
+#(Tech) quang phổ hấp thu
+@Chuyên ngành kỹ thuật
+#phổ hấp thụ
+@Lĩnh vực: vật lý
+#phổ hấp thu
+#phổ hút thụ
+@Lĩnh vực: toán & tin
+#phổ hút thu
+@Lĩnh vực: hóa học & vật liệu
+#quang phổ hấp thụ

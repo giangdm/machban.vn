@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#áp điện
+@Lĩnh vực: toán & tin
+#áp điện tinh thể
+@Lĩnh vực: điện
+#điện học tinh thể

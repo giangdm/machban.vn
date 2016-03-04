@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nguồn thông tin dừng
+#nguồn thông tin ổn định
+#nguồn thông tin tĩnh

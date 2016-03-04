@@ -1,0 +1,3 @@
+﻿@Capital-output ratio
+#(Econ) Tỷ số vốn-sản lượng
+: Tỷ lệ của lượng vốn trên sản lượng mà vốn đó tạo ra. (Xem INCREMENTAL CAPITAL- OUTPUT RATIO).

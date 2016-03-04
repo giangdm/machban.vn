@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mạch khô
+@Lĩnh vực: điện
+#mạch khô (rơle)

@@ -1,0 +1,2 @@
+﻿@emission phototube
+#(Tech) ống quang phát xạ

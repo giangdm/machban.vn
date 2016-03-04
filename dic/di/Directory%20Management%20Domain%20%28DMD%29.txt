@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#miền quản lý thư mục
+@Lĩnh vực: toán & tin
+#miền quản lý thư mục-DMD

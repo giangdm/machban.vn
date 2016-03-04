@@ -1,0 +1,2 @@
+﻿@amd
+#Tên hãng sản xuất linh kiện điện tử, bao gồm cả các chip vi xử lý (Advanced Micro Devices)

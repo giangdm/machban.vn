@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đầu nối thử nghiệm
+@Lĩnh vực: xây dựng
+#mối nối thử nghiệm

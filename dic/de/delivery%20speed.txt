@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tốc độ cấp
+@Lĩnh vực: điện lạnh
+#tốc độ cửa ra
+@Lĩnh vực: cơ khí & công trình
+#tốc độ xả
+#vận tốc ra

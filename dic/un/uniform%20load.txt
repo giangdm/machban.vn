@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng phân bố đều
+#tải trọng tới hạn
+@Lĩnh vực: xây dựng
+#tải trọng rải đều

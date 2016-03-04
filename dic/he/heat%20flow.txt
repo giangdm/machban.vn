@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng nhiệt
+#luồng nhiệt
+@Lĩnh vực: điện lạnh
+#dòng truyền nhiệt

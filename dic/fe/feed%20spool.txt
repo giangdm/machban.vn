@@ -1,0 +1,2 @@
+﻿@feed spool
+#(Tech) cuộn cung cấp

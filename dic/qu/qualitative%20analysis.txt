@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phân tích chất lượng
+#phân tích định tính
+@Chuyên ngành kỹ thuật
+#sự phân tích định tính
+@Lĩnh vực: điện lạnh
+#phân tích định tính

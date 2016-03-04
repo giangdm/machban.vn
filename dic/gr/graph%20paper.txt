@@ -1,0 +1,8 @@
+﻿@graph paper ['græf,peipə]
+*danh từ
+# giấy kẻ để vẽ biểu đồ
+@Chuyên ngành kinh tế
+#giấy kẻ ô vuông
+@Chuyên ngành kỹ thuật
+#giấy kẻ li
+#giấy vẽ đồ thị

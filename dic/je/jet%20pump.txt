@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm phun
+#bơm phun tia
+#bơm phụt
+#máy bơm tia
+@Lĩnh vực: điện lạnh
+#bơm kiểu tia phun
+@Lĩnh vực: điện
+#bơm tia

@@ -1,0 +1,5 @@
+﻿@detection coefficient
+#(Tech) hệ số tách sóng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ số tách sóng

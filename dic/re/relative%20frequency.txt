@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tần suất tương đối
+@Chuyên ngành kỹ thuật
+#tần số
+@Lĩnh vực: cơ khí & công trình
+#tần suất tương đối

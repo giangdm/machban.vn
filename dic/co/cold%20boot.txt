@@ -1,0 +1,7 @@
+﻿@cold boot
+#(Tech) nạp/mồi nguội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khởi động nguội
+@Lĩnh vực: xây dựng
+#thúc lạnh

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đóng gói tùy tiện
+@Lĩnh vực: điện lạnh
+#đóng gói ngẫu nhiên
+@Lĩnh vực: hóa học & vật liệu
+#sự lót lộn xộn

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hộp xếp (cảm) biến nhiệt độ
+#hộp xếp cảm (biến) nhiệt độ

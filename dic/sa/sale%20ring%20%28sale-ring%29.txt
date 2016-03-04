@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#đám người mua
+#đám người mua (trong chỗ bán đấu giá)
+#khu vực người mua (trong chỗ bán đấu giá)
+#vòng người mua (vây quanh những người bán đấu giá)

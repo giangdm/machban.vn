@@ -1,0 +1,2 @@
+﻿@extended-level synthesizer
+#(Tech) bộ tổng hợp cấp nối dài

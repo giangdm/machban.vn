@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ giảm thanh
+#bộ tiêu âm
+#hộp giảm thanh
+@Lĩnh vực: vật lý
+#bộ giảm thanh xả khí
+#bộ tiêu âm xả khí
+#vòi phun xả
+@Lĩnh vực: giao thông & vận tải
+#bộ tiêu âm khí xả
+@Chuyên ngành kỹ thuật
+#bộ giảm thanh
+#bộ tiêu âm
+#hộp giảm thanh
+@Lĩnh vực: vật lý
+#bộ giảm thanh xả khí
+#bộ tiêu âm xả khí
+#vòi phun xả
+@Lĩnh vực: giao thông & vận tải
+#bộ tiêu âm khí xả

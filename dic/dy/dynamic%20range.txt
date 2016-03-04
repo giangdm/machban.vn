@@ -1,0 +1,4 @@
+﻿@dynamic range
+#(Tech) phạm vi động; phạm vi nghiên cứu động lực học
+@Chuyên ngành kỹ thuật
+#dải động

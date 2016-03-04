@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#số có giá trị thấp nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chữ số bên cực phải
+#chữ số có giá trị nhỏ nhất
+#chữ số có nghĩa tối thiểu
+#chữ số ít quan trọng nhất
+#chữ số ở vị trí cực phải
+#chữ số thấp nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#số có giá trị thấp nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chữ số bên cực phải
+#chữ số có giá trị nhỏ nhất
+#chữ số có nghĩa tối thiểu
+#chữ số ít quan trọng nhất
+#chữ số ở vị trí cực phải
+#chữ số thấp nhất

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị logic
+#giá trị luân lý
+#giá trị luận lý
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị Boole

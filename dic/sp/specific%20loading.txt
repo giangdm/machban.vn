@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự mang tải đặc trưng
+@Lĩnh vực: điện lạnh
+#tải riêng (ở máy điện)

@@ -1,0 +1,2 @@
+﻿@decentralized data processing
+#(Tech) xử lý dữ kiện phân tán

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cuộc gọi thủ tục từ xa không phụ thuộc chuyển tải

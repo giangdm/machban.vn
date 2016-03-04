@@ -1,0 +1,8 @@
+﻿@Monopolistic Competition
+#(Econ) Cạnh tranh độc quyền.
+: Là một học thuyết do E.H.Chamberlin (THUYẾT VỀ CẠNH TRANH VÀ ĐỘC QUYỀN, nhà xuất bản Harvard University, 1933) và J.Robinson (Kinh tế học về cạnh tranh không hoàn hảo, Macmillan,1933) khởi xướng.
+@Chuyên ngành kinh tế
+#cạnh tranh độc quyền
+#cạnh tranh mua độc quyền
+#sự canh tranh có tính chất lũng đoạn
+#sự cạnh tranh có tính độc quyền

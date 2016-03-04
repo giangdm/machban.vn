@@ -1,0 +1,5 @@
+﻿@Interlocking directorates
+#(Econ) Các ban giám đốc chung, các ban giám đốc kết hợp.
+: Chỉ tình huống trong đó một hay nhiều người tham gia vào ban giám đốc của hai hay nhiều công ty.
+@Chuyên ngành kinh tế
+#hội đồng quản trị kiêm nhiệm

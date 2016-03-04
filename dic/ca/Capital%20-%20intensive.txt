@@ -1,0 +1,3 @@
+﻿@Capital - intensive
+#(Econ) (ngành) dựa nhiều vào vốn; sử dụng nhiều vốn.
+: Một kỹ thuật sản xuất A được coi là sử dụng nhiều vốn hơn so với kỹ thuật tương đương B nếu tỷ số vốn so với CÁC YẾU TỐ SẢN XUẤT khác của A lớn hơn B.

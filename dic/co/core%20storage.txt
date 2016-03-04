@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ chính
+#bộ nhớ dự trữ
+#bộ nhớ lõi
+#bộ nhớ lõi từ

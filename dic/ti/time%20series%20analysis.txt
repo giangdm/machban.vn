@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phân tích dãy số theo thời gian
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân tích các chuỗi thời gian
+@Lĩnh vực: điện tử & viễn thông
+#sự phân tích chuỗi thời gian

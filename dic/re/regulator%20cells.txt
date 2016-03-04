@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch cộng hưởng song song
+@Lĩnh vực: điện
+#ngăn (bình điện) điều chỉnh
+#mạch chạm tần số

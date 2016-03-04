@@ -1,0 +1,4 @@
+﻿@primo
+*danh từ
+#số nhiều primos
+#(âm nhạc) phần đầu hay phần chủ đạo trong một bộ đôi hay một bộ ba

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ kết đông
+@Lĩnh vực: điện lạnh
+#nhiệt độ bảo quản đông lạnh

@@ -1,0 +1,7 @@
+﻿@Economic rent
+#(Econ) Tiền thuê kinh tế, tô kinh tế, Đặc lợi kinh tế.
+: Khoản tri trả cho một yếu tố sản xuất vượt mức cần thiết để giữ yếu tố đó ở mức sử dụng hiện tại.
+@Chuyên ngành kinh tế
+#tiền thuê được quyết định bởi thị trường cho thuê
+#tiền thuê giá rẻ
+#tô kinh tế

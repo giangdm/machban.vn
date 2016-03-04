@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thùng đong
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hộp đo lường

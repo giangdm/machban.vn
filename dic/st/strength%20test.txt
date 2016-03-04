@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thí nghiệm độ bền
+#sự thử độ bền
+@Lĩnh vực: hóa học & vật liệu
+#phép thử độ bền
+@Lĩnh vực: xây dựng
+#sự thử nghiệm độ bền
+#thí nghiệm độ bền
+@Lĩnh vực: điện lạnh
+#thử nghiệm độ bền

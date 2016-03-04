@@ -1,0 +1,12 @@
+﻿@connection diagram
+#(Tech) sơ đồ nối
+@Chuyên ngành kỹ thuật
+#sơ đồ đấu dây
+#sơ đồ lắp ráp
+#sơ đồ mạch
+#sơ đồ nối dây
+#sơ đồ nối mạch
+@Lĩnh vực: xây dựng
+#sơ đồ ghép nối
+@Lĩnh vực: điện lạnh
+#sơ đồ nối (mạch)

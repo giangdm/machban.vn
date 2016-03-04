@@ -1,0 +1,2 @@
+﻿@accept connection
+#(Tech) nối nhận

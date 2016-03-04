@@ -1,0 +1,14 @@
+﻿@postal order
+*danh từ
+#thư chuyển tiền
+@Chuyên ngành kinh tế
+#bưu phiếu
+#phiếu, thư chuyển tiền (qua bưu điện)
+#thư (điện) chuyển tiền qua bưu điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#bưu phiếu
+@Lĩnh vực: điện tử & viễn thông
+#phiếu chuyển tiền
+@Lĩnh vực: xây dựng
+#thư chuyển tiền

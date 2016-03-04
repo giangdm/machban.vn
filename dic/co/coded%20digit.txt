@@ -1,0 +1,2 @@
+﻿@coded digit
+#(Tech) số mã hóa

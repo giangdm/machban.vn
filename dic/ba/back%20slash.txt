@@ -1,0 +1,5 @@
+﻿@back slash
+#(Tech) gạch chéo ngược () = reverse slash
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu sổ sau

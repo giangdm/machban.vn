@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dung tích bảo quản lạnh
+#năng suất bảo quản lạnh
+@Lĩnh vực: điện lạnh
+#năng suất (dung tích) bảo quản lạnh

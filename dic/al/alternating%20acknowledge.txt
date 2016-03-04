@@ -1,0 +1,2 @@
+﻿@alternating acknowledge
+#(Tech) báo nhận xen kẽ

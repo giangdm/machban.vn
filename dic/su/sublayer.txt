@@ -1,0 +1,12 @@
+﻿@sublayer
+*danh từ
+#lớp dưới; phụ; tầng dưới; phụ
+@Chuyên ngành kỹ thuật
+#lớp con
+#lớp đệm
+#lớp dưới
+#lớp phụ
+#phân lớp
+@Lĩnh vực: toán & tin
+#tầng con
+#tầng phụ

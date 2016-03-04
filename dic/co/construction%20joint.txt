@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#khe co ngót
+#khe nhiệt độ
+#khe thi công
+@Lĩnh vực: xây dựng
+#khe nối thi công
+#mạch kết cấu (của bêtông)
+#mạch ngừng thi công
+#mạch thi công
+#mạch xây dựng
+#mối [hàn, nối] kết cấu

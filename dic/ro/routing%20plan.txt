@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kế hoạch chuyển liên lạc
+#quy hoạch chuyển liên lạc
+@Lĩnh vực: điện lạnh
+#sơ đồ chọn đường
+#sơ đồ định tuyến

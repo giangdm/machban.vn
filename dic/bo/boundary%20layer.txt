@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp biên
+#lớp giới hạn
+#lớp ngoại vi
+#lớp ranh giới

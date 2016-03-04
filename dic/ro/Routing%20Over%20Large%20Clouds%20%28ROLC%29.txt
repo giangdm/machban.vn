@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#định tuyến qua các đám mây lớn (nhóm lầm việc trong IETF về định tuyến IP qua các mạng lớn, có dùng chung phương tiện)

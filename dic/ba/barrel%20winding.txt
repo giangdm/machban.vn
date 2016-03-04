@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ dây quấn kiểu trống
+@Lĩnh vực: điện
+#cuộn dây phản ứng

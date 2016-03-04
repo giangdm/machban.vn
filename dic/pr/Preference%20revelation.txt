@@ -1,0 +1,3 @@
+﻿@Preference revelation
+#(Econ) Sở thích.
+: Sự bộc lộ thường được dẫn ra như một vấn đề liên quan tới sự cung cấp hàng hoá công cộng, (nó cũng có thể là một vấn đề với HÀNG HOÁ TƯ NHÂN nếu con số những người có nhu cầu rất nhỏ).

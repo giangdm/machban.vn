@@ -1,0 +1,9 @@
+﻿@steering lock
+*danh từ
+#khoá tay lái (ngăn cho xe khỏi bị mất cắp)
+@Chuyên ngành kỹ thuật
+#góc bẻ lái
+#góc lái
+@Lĩnh vực: ô tô
+#cấu chặn góc lái (cơ cấu lái)
+#khóa tay lái

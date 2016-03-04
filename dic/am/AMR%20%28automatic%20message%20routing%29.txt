@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#định tuyến thông báo tự động
+#đường truyền thông báo tự động

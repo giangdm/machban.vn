@@ -1,0 +1,14 @@
+﻿@error message
+#(Tech) thông báo về sai lầm
+@Chuyên ngành kinh tế
+#thông báo lỗi (trên màn hình máy vi tính)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thông báo sai số
+@Lĩnh vực: xây dựng
+#tin lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thông báo sai số
+@Lĩnh vực: xây dựng
+#tin lỗi

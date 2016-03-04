@@ -1,0 +1,7 @@
+﻿@Kinked demand curve
+#(Econ) Đường cầu gấp khúc.
+: Dựa trên giả thuyết rằng trong các thị trường có đặc điểm độc quyền nhóm, sự phụ thuộc lẫn nhau buộc các doanh nghiệp phải tin rằng giảm giá xuống dưới mức hiện hành sẽ bị các đối thủ làm theo, nhưng tình hình đó sẽ không diễn ra đối với trường hợp tăng giá.
+@Chuyên ngành kinh tế
+#đường cầu gút
+#khúc tuyến cầu bẻ góc
+#khúc tuyến cầu xoắn

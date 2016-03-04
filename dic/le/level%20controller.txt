@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ điều chỉnh mức (lỏng)
+#bộ khống chế mức (lỏng)
+#rơle mức (lỏng)
+@Lĩnh vực: cơ khí & công trình
+#bộ điều mức (chất lỏng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ điều chỉnh mức (lỏng)
+#bộ khống chế mức (lỏng)
+#rơle mức (lỏng)
+@Lĩnh vực: cơ khí & công trình
+#bộ điều mức (chất lỏng)

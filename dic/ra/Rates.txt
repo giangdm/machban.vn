@@ -1,0 +1,7 @@
+﻿@Rates
+#(Econ) Thuế địa ốc.
+: Một hứ thuế dựa trên giá trị có thể bị đánh thuế của đất đai và nhà ở, đã được thay thế bằng phí cộng đồng vào cuối những năm 80 ở Anh. Khi áp dụng PHÍ CỘNG ĐỒNG cho cá nhân thì một thuế kinh doanh đồng nhất được áp dụng cho mọi doanh nghiệp. Trong khi mà trước đó mức thuế tính theo đồng bảng do các doanh nghiệp đã trả thay đổi tuỳ theo từng chính quyền địa phương thì loại thuế đồng nhất có nghĩa là mọi doanh nghiệp ở trong nước sẽ thanh toán cùng mức thuế tính theo đồng bảng, mặc dù hiện nay có sự thay đổi giữa Scotland, Anh và Xứ Wales.
+@Chuyên ngành kinh tế
+#đảm phụ địa phương
+#thuế đất
+#thuế địa phương

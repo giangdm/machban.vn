@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đất
+#dây cáp ngầm
+#đường dây cáp
+@Lĩnh vực: điện
+#cáp chôn dưới
+#dây cáp chôn dưới đất
+@Lĩnh vực: toán & tin
+#cáp dưới đất

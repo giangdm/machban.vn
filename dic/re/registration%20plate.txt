@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bảng số đăng ký
+#bảng số đăng ký (xe hơi)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#bảng số đăng ký xe

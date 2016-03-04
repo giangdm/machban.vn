@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ phận trao đổi nhiệt tái sinh
+#đoạn (phần) hồi nhiệt
+#đoạn trao đổi hồi nhiệt

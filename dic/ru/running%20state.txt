@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#trạng thái vận hành
+@Lĩnh vực: điện tử & viễn thông
+#trạng thái chạy

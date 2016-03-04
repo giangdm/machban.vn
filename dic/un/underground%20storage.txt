@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#bảo quản dưới đất
+#kho chứa sâu
+@Chuyên ngành kỹ thuật
+#sự bảo quản dưới đất
+#sự tích trữ ngầm
+@Lĩnh vực: xây dựng
+#kho ngầm (dưới đất)
+@Lĩnh vực: vật lý
+#sự bảo quản ngầm

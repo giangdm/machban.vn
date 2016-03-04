@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#dầu phanh
+#trống phanh
+@Lĩnh vực: vật lý
+#tăng hãm
+@Lĩnh vực: cơ khí & công trình
+#trống thắng

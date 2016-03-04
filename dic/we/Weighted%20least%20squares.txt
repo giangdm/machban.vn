@@ -1,0 +1,3 @@
+﻿@Weighted least squares
+#(Econ) Bình phương gia quyền nhỏ nhất.
+: Một phiên bản của bình phương thông thường nhỏ nhất trong đó mọi biến số được nhân với một hệ số nào đó, có thể là một hàm của một trong những biến số trong phương trình.

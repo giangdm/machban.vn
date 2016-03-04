@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lệnh truyền điều khiển
+@Lĩnh vực: toán & tin
+#lệnh (truyền) điều khiển
+#lệnh chuyển điều khiển

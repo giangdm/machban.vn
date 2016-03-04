@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số suy giảm
+@Lĩnh vực: xây dựng
+#tỷ lệ thu nhỏ

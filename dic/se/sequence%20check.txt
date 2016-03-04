@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểm thứ tự
+#kiểm tra chuỗi
+#kiểm tra dãy
+#sự kiểm tra thứ tự
+#sự kiểm tra tuần tự

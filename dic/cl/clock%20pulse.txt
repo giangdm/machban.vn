@@ -1,0 +1,8 @@
+﻿@clock pulse
+#(Tech) xung đồng hồ
+@Chuyên ngành kỹ thuật
+#tín hiệu đồng hồ
+#xung định thời
+#xung nhịp
+@Lĩnh vực: toán & tin
+#xung đồng hồ

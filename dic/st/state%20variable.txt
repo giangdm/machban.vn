@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#biến nhiệt động học
+#biến trạng thái
+#tham số trạng thái
+@Lĩnh vực: đo lường & điều khiển
+#biến số tính trạng
+@Lĩnh vực: điện
+#biến số trạng thái

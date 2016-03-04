@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa mở
+#cửa quay
+#cửa xoay
+@Lĩnh vực: xây dựng
+#cửa đu đưa
+#cửa mở hai phía'

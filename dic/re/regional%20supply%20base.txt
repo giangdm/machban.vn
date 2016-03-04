@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ sở hậu cần (của vùng)
+@Lĩnh vực: xây dựng
+#trạm hậu cần (của vùng)

@@ -1,0 +1,14 @@
+﻿@algorithm /'ælgəriðm/
+*danh từ
+#thuật toán
+@Chuyên ngành kinh tế
+#thuật toán
+@Chuyên ngành kỹ thuật
+#angorit
+#thuật toán
+@Lĩnh vực: toán & tin
+#giải thuật
+#thuật giải
+<!-- more -->
+@algorithm
+#(Tech) thuật toán, giải thuật

@@ -1,0 +1,5 @@
+﻿@Policy targets
+#(Econ) Các mục tiêu chính sách.
+: Xem TARGETS.
+@Chuyên ngành kinh tế
+#mục tiêu của chính sách

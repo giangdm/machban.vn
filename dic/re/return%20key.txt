@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#phím xuống dòng
+#phím xuống dòng (phím enter của máy vi tính)
+@Chuyên ngành kỹ thuật
+#phím xuống dòng
+#sự xuống dòng
+@Lĩnh vực: xây dựng
+#phím trả về
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phím RETURN

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#công suất tiêu thụ
+#đầu vào công suất
+#đầu vào điện
+#đầu vào dòng điện
+#mức tiêu thụ công suất
+@Lĩnh vực: điện lạnh
+#công suất đầu vào

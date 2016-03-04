@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản chết
+#tài khoản chết (số dư trên tài khoản của một người đã chết)
+#tài khoản ngừng hoạt động

@@ -1,0 +1,6 @@
+﻿@Covered interest parity
+#(Econ) Mức lãi xuất qui ngang; Ngang giá lãi suất.
+: Trong một CHẾ ĐỘ TỶ GIÁ HỐI ĐOÁI LINH HOẠT, đó là khi mức lãi suất ở hai nước được làm cân bằng nhờ một tỷ lệ chiết khấu hợp lý hoặc một khoản phí đối với tỷ giá hối đoái dài hạn. Xem FORWARD RATE.
+@Chuyên ngành kinh tế
+#bình giá lãi suất đảm bảo
+#ngang giá lãi suất bảo đảm

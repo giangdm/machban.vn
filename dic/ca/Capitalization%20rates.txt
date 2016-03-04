@@ -1,0 +1,3 @@
+﻿@Capitalization rates
+#(Econ) Tỷ lệ vốn hoá
+: Một khái niệm liên quan đến tỷ trọng của mỗi loại cổ phiếu hay vốn nợ trong một công ty so với tổng VỐN CỔ PHẦN trên thị trường của nó.

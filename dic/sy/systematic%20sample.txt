@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mẫu hệ thống
+@Lĩnh vực: xây dựng
+#sự lấy mẫu (có) hệ thống

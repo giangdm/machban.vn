@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự tiêu dùng chung
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự tiêu dùng công cộng

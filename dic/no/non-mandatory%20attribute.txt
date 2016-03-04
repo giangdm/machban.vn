@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thuộc tính không bắt buộc
+#thuộc tính tùy chọn

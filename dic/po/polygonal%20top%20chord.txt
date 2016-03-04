@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#biên trên (cửa dàn) có hình đa giác
+#biên trên hình đa giác

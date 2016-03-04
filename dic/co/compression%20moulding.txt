@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự đúc khuôn
+#sự ép khuôn
+#sự làm khuôn
+#sự làm khuôn ép
+@Lĩnh vực: ô tô
+#sự đúc bằng áp suất

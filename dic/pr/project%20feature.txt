@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#các đặc trưng của dự án (kinh tế, kỹ thuật...)

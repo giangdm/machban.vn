@@ -1,0 +1,2 @@
+﻿@eigenvalue
+#(Tech) trị số đặc trưng

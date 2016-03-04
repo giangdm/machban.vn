@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#phân tích chức vụ
+#phân tích công việc
+#sự phân tích công việc
+@Chuyên ngành kỹ thuật
+#sự phân tích công việc
+#sự phân tích làm việc
+@Lĩnh vực: cơ khí & công trình
+#phân tích công tác
+@Lĩnh vực: xây dựng
+#phân tích công việc

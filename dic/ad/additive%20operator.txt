@@ -1,0 +1,4 @@
+﻿@additive operator
+#(Tech) toán tử cộng tính
+@Chuyên ngành kỹ thuật
+#toán tử cộng

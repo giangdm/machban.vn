@@ -1,0 +1,5 @@
+﻿@Break-even level of income
+#(Econ) Mức hoà vốn của thu nhập
+: Một điểm tại đó chi tiêu cho tiêu dùng đúng bằng thu nhập như được minh hoạ tại điểm mà HÀM TIÊU DÙNG cắt đường 45 độ trong MÔ HÌNH THU NHẬP CHI TIÊU. (Xem CONSUMPTION FUNCTION)
+@Chuyên ngành kinh tế
+#mức hòa vốn của thu nhập

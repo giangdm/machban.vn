@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phụ thuộc hàm
+@Lĩnh vực: toán & tin
+#phụ thuộc hàm

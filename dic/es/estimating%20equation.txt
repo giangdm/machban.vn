@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phương trình ước lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương trình ước lương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương trình ước lương

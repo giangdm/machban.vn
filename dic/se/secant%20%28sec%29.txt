@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#giao nhau
+@Lĩnh vực: toán & tin
+#cát tuyến (với một đường)
+#hàm sec (sec bằng 1/cox)

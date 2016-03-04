@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#lấy tình trạng lúc chất hàng làm chuẩn
+#tình trạng sau cùng lúc chất hàng (xuống tàu)

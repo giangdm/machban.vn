@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ ký hiệu
+#tập ký hiệu
+@Lĩnh vực: điện tử & viễn thông
+#tập hợp các ký hiệu

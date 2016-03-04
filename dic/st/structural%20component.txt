@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cấu kiện
+#thành phần cấu trúc
+#thành phần kết cấu
+@Lĩnh vực: xây dựng
+#thành phần xây dựng

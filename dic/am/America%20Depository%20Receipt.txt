@@ -1,0 +1,3 @@
+﻿@America Depository Receipt
+#(Econ) ADR - Phiếu gửi tiền Mỹ.
+: Chứng khoán mà một ngân hàng Mỹ thường phát hành cho các cư dân Mỹ, dựa vào việc cơ quan NẮM GIỮ CÁC CỔ PHIẾU thường của một công ty ngoại quốc. Người giữ ADR có quyền hưởng cổ tức của công ty ngoại quốc. Bản thân ADR có thể trao đổi được. Ưu điểm của việc làm này là THỊ TRƯỜNG VỐN được mở rộng đối với các công ty không phải của Mỹ trong khi đó có thể đáp ứng được mong muốn của người Mỹ về một loại cổ phiếu nặng để trao đổi. (Một ADR có thể được đóng trọn gói để có quyền với nhiều chứng khoán thường).

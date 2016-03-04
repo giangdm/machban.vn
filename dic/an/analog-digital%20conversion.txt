@@ -1,0 +1,5 @@
+﻿@analog-digital conversion
+#(Tech) đổi tương tự-số tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chuyển đổi tương tự-số

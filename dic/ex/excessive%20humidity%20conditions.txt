@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều kiện quá ẩm
+#trạng thái dư thừa ẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều kiện quá ẩm
+#trạng thái dư thừa ẩm

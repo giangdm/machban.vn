@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#góc bờ dốc
+#góc mái dốc tự nhiên
+#góc nghỉ
+@Lĩnh vực: điện lạnh
+#góc (ma sát) nghỉ
+@Lĩnh vực: xây dựng
+#góc ta luy

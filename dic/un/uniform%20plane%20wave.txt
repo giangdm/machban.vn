@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sóng phẳng đều
+@Lĩnh vực: điện tử & viễn thông
+#sóng phẳng đồng nhất

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự treo ở vấu
+@Lĩnh vực: điện lạnh
+#treo kiểu tai móc

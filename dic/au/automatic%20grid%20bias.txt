@@ -1,0 +1,6 @@
+﻿@automatic grid bias
+#(Tech) độ lệch lưới tự động
+@Chuyên ngành kỹ thuật
+#tự phân cực
+@Lĩnh vực: toán & tin
+#phân cực tự động

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chức năng bỏ số không
+#chức năng khử số không
+#hàm bỏ số không
+#hàm khử số không

@@ -1,0 +1,5 @@
+﻿@Impact analysis
+#(Econ) Phân tích tác động.
+: Một tên gọi chung cho những kỹ thuật dùng để đo lượng ảnh hưởng của một thay đổi nhất định trong hoạt động kinh tế đến một nền kinh tế cấp vùng hay cấp địa phương.
+@Chuyên ngành kinh tế
+#phân tích tác động

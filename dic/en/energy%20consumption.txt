@@ -1,0 +1,28 @@
+﻿@Chuyên ngành kỹ thuật
+#nhu cầu năng lượng
+#mức năng lượng tiêu thụ
+#sự tiêu thụ năng lượng
+@Lĩnh vực: xây dựng
+#độ năng lượng tiêu thụ
+#tiêu thụ năng lượng
+@Lĩnh vực: điện
+#mức tiêu thụ điện năng
+#mức tiêu thụ năng lượng
+@Lĩnh vực: cơ khí & công trình
+#sự tiêu hao năng lượng
+@Lĩnh vực: giao thông & vận tải
+#tiêu hao năng lượng
+@Chuyên ngành kỹ thuật
+#nhu cầu năng lượng
+#mức năng lượng tiêu thụ
+#sự tiêu thụ năng lượng
+@Lĩnh vực: xây dựng
+#độ năng lượng tiêu thụ
+#tiêu thụ năng lượng
+@Lĩnh vực: điện
+#mức tiêu thụ điện năng
+#mức tiêu thụ năng lượng
+@Lĩnh vực: cơ khí & công trình
+#sự tiêu hao năng lượng
+@Lĩnh vực: giao thông & vận tải
+#tiêu hao năng lượng

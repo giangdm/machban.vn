@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp bảo vệ
+#lớp mạ
+#màng bảo vệ
+#màng bọc

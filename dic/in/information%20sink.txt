@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nơi giữ thông tin
+#vùng tiếp nhận thông tin

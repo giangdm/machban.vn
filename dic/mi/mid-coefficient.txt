@@ -1,0 +1,2 @@
+﻿@mid-coefficient
+#hệ số ở giữa (một công thức)

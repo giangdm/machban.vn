@@ -1,0 +1,5 @@
+﻿@health food
+*danh từ
+#thực phẩm tự nhiên (không pha trộn các chất giả tạo)
+@Chuyên ngành kinh tế
+#thực phẩm bổ dưỡng

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đoạn chương trình kiểm tra nhãn
+#thủ tục kiểm tra nhãn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đoạn chương trình kiểm tra nhãn
+#thủ tục kiểm tra nhãn

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#gộp lại
+#họp lại
+#tăng lên cho tròn số
+#tập họp
+@Chuyên ngành kỹ thuật
+#làm tròn
+@Lĩnh vực: toán & tin
+#làm tròn lên

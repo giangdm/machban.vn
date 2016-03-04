@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bit điều truy
+#bit hiệu lực
+#bit khả dụng
+#bit sẵn có

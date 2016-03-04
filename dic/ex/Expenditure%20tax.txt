@@ -1,0 +1,7 @@
+﻿@Expenditure tax
+#(Econ) Thuế chi tiêu
+: Là loại thuế đánh vào chi tiêu của người tiêu dùng.NÓ là hình thức thay thế cho THUẾ THU NHẬP và có thể được định mức dựa trên cơ sở luỹ tiến.
+@Chuyên ngành kinh tế
+#thuế chi tiêu
+#thuế tiêu dùng
+#thuế tiêu phí

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#mức độ nén
+@Chuyên ngành kỹ thuật
+#tỷ số nén

@@ -1,0 +1,3 @@
+﻿@Wage differentials
+#(Econ) Chênh lệc tiền công
+: Các mức Chênh lệc lương trung bình trả cho các  lao động được phân chia theo nghành hoặc địa điểm làm việc hoặc theo màu da hoặ địa điểm của họ.

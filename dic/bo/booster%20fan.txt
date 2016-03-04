@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy quạt phụ
+#máy quạt tăng áp
+#quạt tăng áp
+@Lĩnh vực: điện lạnh
+#quạt gia tốc ban đầu

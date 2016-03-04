@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng thông tin truyền
+#lượng thông tin tương hỗ
+@Lĩnh vực: toán & tin
+#thông tin chuyển (đổi)
+#thông tin được truyền

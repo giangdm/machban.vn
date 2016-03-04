@@ -1,0 +1,9 @@
+﻿@Logarithm
+#(Econ) Lôgarít
+: Lôgarít của một số là một số mà khi cơ số của nó nâng lên số mũ là giá trị của lôgarit thì bằng số đó.
+<!-- more -->
+@logarithm /'lɔgəriθəm/
+*danh từ
+#(toán học) loga
+@Chuyên ngành kỹ thuật
+#lôgarit

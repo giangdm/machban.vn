@@ -1,0 +1,8 @@
+﻿@executable program
+#(Tech) chương trình khả thi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình chạy được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình chạy được

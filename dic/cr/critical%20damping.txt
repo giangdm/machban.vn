@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#độ tắt dần tới hạn
+@Lĩnh vực: xây dựng
+#giảm chấn tới hạn
+@Lĩnh vực: điện lạnh
+#mưu cản dịu tới hạn
+@Lĩnh vực: toán & tin
+#sự tắt dần tới hạn

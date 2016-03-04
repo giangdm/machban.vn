@@ -1,0 +1,10 @@
+﻿@blank character
+#(Tech) ký tự trống = space character
+@Chuyên ngành kỹ thuật
+#dấu cách
+#ký tự rỗng
+#ký tự trống
+@Lĩnh vực: toán & tin
+#ký tự chuông
+#ký tự tạo âm
+#ký tự trắng

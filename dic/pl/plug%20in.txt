@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu dây
+#đầu nối
+#lấy điện vào
+#nối
+@Lĩnh vực: điện
+#cắm phích điện

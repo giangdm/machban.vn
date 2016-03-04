@@ -1,0 +1,9 @@
+﻿@Capital asset
+#(Econ) Tài sản vốn.
+: Một tài sản không được mua bán như một phần của công việc kinh doanh hàng ngày. Ví dụ: nhà xưởng, máy móc, đất đai hoặc chứng khoán.
+@Chuyên ngành kinh tế
+#tài sản tư liệu sản xuất
+#tài sản vốn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tài sản vốn

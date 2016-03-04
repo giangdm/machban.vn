@@ -1,0 +1,3 @@
+﻿@Instruments
+#(Econ) Các công cụ.
+: Còn gọi là các CÔNG CỤ CHÍNH SÁCH. Thuật ngữ này xuất phát từ việc phân loại các biến trong quá trình ổn định hoá kinh tế thành các công cụ chính sách, mục tiêu chính sách và các biến ngoại sinh.

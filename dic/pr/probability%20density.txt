@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#mật độ xác suất
+#sự phân bố xác suất

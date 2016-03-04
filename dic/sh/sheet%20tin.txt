@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khay dùng cho bánh kẹo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tấm thiếc

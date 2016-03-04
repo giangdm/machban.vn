@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#nghiên cứu độ thấm
+#sự phân tích thấm
+@Lĩnh vực: cơ khí & công trình
+#tính toán thấm

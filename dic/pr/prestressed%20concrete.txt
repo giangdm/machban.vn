@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bê tông ứng lực trước
+#bê tông ứng suất trước
+@Lĩnh vực: xây dựng
+#bê tông dự ứng lực
+#bê tông tiền áp
+@Lĩnh vực: toán & tin
+#bê tông dự ừng lực

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chế độ cước hợp đồng
+#chế độ nhận khoán
+#phương thức chuyên chở hợp đồng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mật độ bit
+#mật độ lưu trữ
+#mật độ nén
+#mật độ nhớ

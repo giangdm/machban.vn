@@ -1,0 +1,4 @@
+﻿@control bit
+#(Tech) bit điều khiển
+@Chuyên ngành kỹ thuật
+#bit điều khiển

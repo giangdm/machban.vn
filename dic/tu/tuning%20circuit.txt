@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch cộng hưởng
+@Lĩnh vực: điện
+#mạch điều hưởng

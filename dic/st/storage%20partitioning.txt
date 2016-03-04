@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phân chia bộ nhớ
+@Lĩnh vực: toán & tin
+#sự chia vùng bộ nhớ

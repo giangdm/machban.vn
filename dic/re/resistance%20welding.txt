@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#hàn điện
+#máy hàn điện
+#sự hàn bằng điện trở
+@Lĩnh vực: điện
+#hàn điện trở
+#kỹ thuật hàn điện trở
+@Lĩnh vực: ô tô
+#kỹ thuật hàn bấm
+@Lĩnh vực: vật lý
+#phương pháp hàn điện trở
+@Lĩnh vực: xây dựng
+#sự hàn để chịu lực

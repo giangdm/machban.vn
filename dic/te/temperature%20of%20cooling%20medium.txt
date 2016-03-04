@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ môi chất lạnh
+@Lĩnh vực: điện lạnh
+#nhiệt độ chất làm lạnh

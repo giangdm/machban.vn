@@ -1,0 +1,5 @@
+﻿@delayed pulse interval
+#(Tech) khoảng cách xung trễ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khoảng xung trễ

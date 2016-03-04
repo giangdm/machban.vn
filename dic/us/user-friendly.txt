@@ -1,0 +1,9 @@
+﻿@user-friendly
+*tính từ
+#dễ sử dụng cho những người không chuyên môn; không khó, không gây e ngại (nhất là về máy tính, phần mềm của nó )
+@Chuyên ngành kinh tế
+#dễ sử dụng
+@Chuyên ngành kỹ thuật
+#dễ sử dụng
+@Lĩnh vực: toán & tin
+#thân thiện người dùng

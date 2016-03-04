@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#giấy trắng
+@Chuyên ngành kỹ thuật
+#giấy bọc
+#giấy in mỹ nghệ
+#giấy tráng phấn
+@Lĩnh vực: toán & tin
+#giấy được tráng
+@Lĩnh vực: xây dựng
+#giấy phủ
+@Lĩnh vực: điện tử & viễn thông
+#giấy tráng bóng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hao mòn tài sản cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự hao hụt vốn cố định

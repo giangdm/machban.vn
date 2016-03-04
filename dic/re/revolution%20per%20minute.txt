@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#phút
+#số vòng mỗi phút
+#số vòng quay trong một phút
+#số vòng trên phút (RPM)
+#số vòng trong một phút
+#vòng
+@Lĩnh vực: hóa học & vật liệu
+#vòng quay một phút
+@Lĩnh vực: cơ khí & công trình
+#vòng quay phút

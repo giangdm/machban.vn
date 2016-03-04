@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mặt đường bê tông
+#mặt lát bê tông (đường)
+#vỉa hè bê tông
+@Lĩnh vực: cơ khí & công trình
+#mặt lát bê tông

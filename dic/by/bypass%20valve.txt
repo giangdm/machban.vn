@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#van đường vòng (van phụ)
+#van nhánh
+#van thoát
+#van thông
+#van xả
+@Lĩnh vực: điện lạnh
+#van bypas
+#van nhánh phụ
+@Lĩnh vực: ô tô
+#van rẽ

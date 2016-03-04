@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị lọc màng
+@Chuyên ngành kỹ thuật
+#bộ lọc màng
+@Lĩnh vực: xây dựng
+#thiết bị lọc kiểu màng
+@Lĩnh vực: y học
+#thiết bị lọc màng

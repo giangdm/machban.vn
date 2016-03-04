@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểm tra khối
+#sự kiểm tra khối
+@Lĩnh vực: điện tử & viễn thông
+#kiểm tra ký tự khối

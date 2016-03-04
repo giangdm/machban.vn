@@ -1,0 +1,11 @@
+﻿@Coefficient of variation
+#(Econ) Hệ số phân tán (độ phân tán tương đối).
+: Thường dùng để đo mức độ phân tán của các biến xung quanh giá trị trung bình của nó.
+@Chuyên ngành kinh tế
+#hệ số biến thiên
+@Chuyên ngành kỹ thuật
+#hệ số biến sai
+@Lĩnh vực: toán & tin
+#hệ số biến động
+@Lĩnh vực: cơ khí & công trình
+#hệ số biến thiên

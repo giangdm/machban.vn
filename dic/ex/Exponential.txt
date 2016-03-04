@@ -1,0 +1,24 @@
+﻿@Exponential
+#(Econ) Thuộc số mũ, thuộc hàm mũ.
+: Hàm số mũ là một HÀM LUỸ THỪA, thường chỉ sự liên quan giữa biến số độc lập và số e tăng lên một luỹ thừa chứa BIẾN SỐ ĐỘC LẬP khi e = 2,718, và là cơ số của LOGARIT TỰ NHIÊN.
+<!-- more -->
+@exponential /,ekspou'nenʃəl/
+*tính từ
+#(toán học) (thuộc) số mũ, theo luật số mũ
+=exponential curve: đường số mũ
+=exponential distribution: sự phân phối theo luật số mũ
+@Chuyên ngành kỹ thuật
+#hàm mũ
+#số mũ
+@Lĩnh vực: toán & tin
+#hàm số mũ
+#thuộc số mũ
+@Chuyên ngành kỹ thuật
+#hàm mũ
+#số mũ
+@Lĩnh vực: toán & tin
+#hàm số mũ
+#thuộc số mũ
+<!-- more -->
+@exponential
+#(thuộc) số mũ // hàm số mũ

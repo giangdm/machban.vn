@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nghiên cứu tác nghiệp
+#nghiên cứu vận toán
+#vận trù học
+@Chuyên ngành kỹ thuật
+#nghiên cứu vận hành

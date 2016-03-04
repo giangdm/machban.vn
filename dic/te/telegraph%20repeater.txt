@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ chuyển tiếp điện báo
+@Lĩnh vực: toán & tin
+#bộ khuếch đại (tín hiệu) điện báo

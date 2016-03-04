@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số đồng đều
+#hệ số đồng nhất

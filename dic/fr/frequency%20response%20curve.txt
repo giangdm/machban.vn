@@ -1,0 +1,6 @@
+﻿@frequency response curve
+#(Tech) đáp tuyến tần số
+@Chuyên ngành kỹ thuật
+#đáp tuyến tần số
+@Lĩnh vực: toán & tin
+#đường cong đáp ứng tần số

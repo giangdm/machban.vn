@@ -1,0 +1,2 @@
+﻿@replaceability
+#(logic học) tính thay thế được

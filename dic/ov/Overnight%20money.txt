@@ -1,0 +1,3 @@
+﻿@Overnight money
+#(Econ) Tiền qua đêm.
+: Tiền cho vay ở một thị trường nào đó trong CÁC THỊ TRƯỜNG TIỀN TỆ với thời hạn trả ngắn nhất.

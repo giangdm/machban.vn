@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng nhiệt
+@Lĩnh vực: xây dựng
+#biến dạng do nhiệt độ
+@Lĩnh vực: hóa học & vật liệu
+#biến dạng nhiệt độ
+@Lĩnh vực: cơ khí & công trình
+#sự biến dạng nhiệt

@@ -1,0 +1,2 @@
+﻿@gyrostabilization
+#(Tech) ổn định hồi chuyển (bằng con quay)

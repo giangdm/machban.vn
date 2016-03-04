@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu suất bên
+@Lĩnh vực: điện lạnh
+#hiệu quả của cánh
+#hiệu suất cánh
+#hiệu suất cánh tản nhiệt
+#hiệu suất cảnh tản nhiệt
+@Chuyên ngành kỹ thuật
+#hiệu suất bên
+@Lĩnh vực: điện lạnh
+#hiệu quả của cánh
+#hiệu suất cánh
+#hiệu suất cánh tản nhiệt
+#hiệu suất cảnh tản nhiệt

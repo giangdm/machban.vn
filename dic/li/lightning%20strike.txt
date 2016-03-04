@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kinh tế
+#bãi công chớp nhoáng (không báo trước)
+#cuộc đình công đột ngột
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cú sét đánh
+@Lĩnh vực: điện tử & viễn thông
+#sấm sét
+@Lĩnh vực: điện lạnh
+#sét đánh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cú sét đánh
+@Lĩnh vực: điện tử & viễn thông
+#sấm sét
+@Lĩnh vực: điện lạnh
+#sét đánh

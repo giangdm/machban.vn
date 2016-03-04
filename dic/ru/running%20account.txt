@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#hình thức sổ chi thu hàng ngày (của bảng quyết toán)
+#tài khoản vãng lai

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#ký hiệu phẩm chất
+#ký hiệu phẩm chất (xếp trở hàng hóa)
+@Chuyên ngành kỹ thuật
+#dấu chất lượng

@@ -1,0 +1,7 @@
+﻿@Surplus unit
+#(Econ) Đơn vị thặng dư.
+: Bất kỳ đơn vị kinh tế nào mà tài sản nhiều hơn nợ và do vậy sẵn sàng cho vay, cấp tín dụng hay mua các công cụ tài chính.
+@Chuyên ngành kinh tế
+#đơn vị có thặng dư
+#đơn vị thặng dư
+#đơn vị thừa vốn

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ xử lý mảng
+@Lĩnh vực: toán & tin
+#bộ xử lý liên hợp
+#bộ xử lý vectơ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chuyền trưởng
+#giám đốc chuyên môn
+#giám đốc ngành
+#giám đốc phụ trách
+#nhân viên quản lý tuyến sản xuất

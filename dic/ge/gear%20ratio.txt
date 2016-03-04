@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#số truyền (tốc độ)
+#tỉ số truyền
+@Lĩnh vực: ô tô
+#tỷ số truyền bánh răng
+@Lĩnh vực: điện lạnh
+#tỷ số truyền động

@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#áp suất đối kháng
+@Chuyên ngành kỹ thuật
+#áp suất
+#áp suất hút
+#áp suất ngược
+#đối áp
+#lực cản thoát
+#lực phản áp
+#sức ép lại
+#sức nghịch áp
+@Lĩnh vực: vật lý
+#đối áp suất
+#phản áp lực lực hút
+@Lĩnh vực: cơ khí & công trình
+#sức đối áp

@@ -1,0 +1,5 @@
+﻿@Credit multiplier
+#(Econ) Số nhân tín dụng.
+: Nói một cách chặt chẽ, số nhân tín dụng là tỷ số giữa sự thay đổi số lượng tiền do một nhóm các tổ chức TRUNG GIAN TÀI CHÍNH gửi tiền, rút tiền cho vay đối với mức thay đổi trong tài sản dự trữ gây ra thay đổi đó.
+@Chuyên ngành kinh tế
+#số nhân tín dụng

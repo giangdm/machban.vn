@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#công ty hàng hải
+#công ty tàu biển
+#công ty vận tải biển
+#xí nghiệp vận tải
+#xí nghiệp vận tải bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#công ty vận tải biển
+#hãng hàng hải

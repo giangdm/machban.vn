@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nơi gốc sản xuất (của sản phẩm)
+@Chuyên ngành kỹ thuật
+#xuất xứ

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập dữ liệu chuyên dụng
+#tập dữ liệu riêng

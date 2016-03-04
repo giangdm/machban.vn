@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sàng quay
+@Lĩnh vực: toán & tin
+#sàng chống
+@Lĩnh vực: xây dựng
+#sàng trống

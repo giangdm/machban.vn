@@ -1,0 +1,3 @@
+﻿@Agricultural lag
+#(Econ) Đỗ trễ của nông nghiệp
+: Là thời gian giữa sản xuất nông nghiệp thực tế và sản xuất nông nghiệp tiềm năng Ở CÁC NƯỚC ĐANG PHÁT TRIỂN.

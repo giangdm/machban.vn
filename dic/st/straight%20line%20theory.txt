@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lý thuyết đường thẳng
+@Lĩnh vực: toán & tin
+#lý thuyết tính
+@Lĩnh vực: xây dựng
+#lý thuyết tuyến tính

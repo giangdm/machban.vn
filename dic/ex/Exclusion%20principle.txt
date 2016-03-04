@@ -1,0 +1,10 @@
+﻿@Exclusion principle
+#(Econ) Nguyên tắc loại trừ.
+: Là một tiêu chuẩn để chúng ta phân biệt HÀNG HOÁ CÔNG CỘNG và hàng hoá phi công cộng. Khi một người sản xuất hay một người bán có thể ngăn cản một số người nào đó không cho họ mua hàng của mình - nói chung là những người không đủ tiền mua hàng - thì hàng hoá đó được cung cấp theo cách của thị trường.
+@Chuyên ngành kinh tế
+#nguyên tắc loại trừ
+#nguyên tắc ngăn chặn
+@Chuyên ngành kỹ thuật
+#nguyên lý loại trừ
+@Chuyên ngành kỹ thuật
+#nguyên lý loại trừ

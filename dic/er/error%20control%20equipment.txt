@@ -1,0 +1,2 @@
+﻿@error control equipment
+#(Tech) thiết bị kiểm soát sai lầm

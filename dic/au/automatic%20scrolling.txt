@@ -1,0 +1,2 @@
+﻿@automatic scrolling
+#(Tech) cuộn tự động

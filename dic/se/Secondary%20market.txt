@@ -1,0 +1,7 @@
+﻿@Secondary market
+#(Econ) Thị trường thứ cấp.
+: Xem PRIMARY MARKET.
+@Chuyên ngành kinh tế
+#thị trường cấp hai
+#thị trường cấp hai, thứ cấp (chứng khoán)
+#thị trường cấp II

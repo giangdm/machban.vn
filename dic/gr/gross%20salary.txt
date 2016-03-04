@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tiền lương gộp
+#tổng thu nhập tiền lương
+#tổng tiền lương

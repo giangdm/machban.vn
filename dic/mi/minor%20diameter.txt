@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đường kính hiệu dụng
+#đường kính trong
+#đường kính trung bình
+#đường kính vòng chia
+@Lĩnh vực: ô tô
+#đường kính chân ren
+@Lĩnh vực: cơ khí & công trình
+#đường kính phụ

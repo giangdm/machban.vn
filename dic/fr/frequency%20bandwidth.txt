@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bề rộng dải tần
+@Lĩnh vực: điện tử & viễn thông
+#dải thông tần số

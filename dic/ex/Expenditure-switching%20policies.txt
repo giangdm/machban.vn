@@ -1,0 +1,3 @@
+﻿@Expenditure-switching policies
+#(Econ) Các chính sách chuyển đổi chi tiêu.
+: Là một trong các chính sách cần thiết để loại bỏ sự không cân bằng thương mại quốc tế.

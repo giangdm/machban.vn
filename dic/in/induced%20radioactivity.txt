@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#độ phóng xạ cảm ứng
+#tính phóng xạ cảm ứng
+@Lĩnh vực: hóa học & vật liệu
+#sự phóng xạ cảm ứng

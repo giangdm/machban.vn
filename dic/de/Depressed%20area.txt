@@ -1,0 +1,5 @@
+﻿@Depressed area
+#(Econ) Khu vực trì trệ.
+: Một vùng địa lý hay khu vực trong một nước đạt kết quả hoạt động kinh tế kém hơn một cách đáng kể so với cả nước.
+@Chuyên ngành kinh tế
+#khu vực trì trệ

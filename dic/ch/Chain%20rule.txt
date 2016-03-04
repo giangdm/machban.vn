@@ -1,0 +1,10 @@
+﻿@Chain rule
+#(Econ) Quy tắc dây chuyền. (Quy tắc hàm của hàm).
+: Một quy tắc để xác định đạo hàm của một hàm với một biến số, trong đó hàm là hàm của một biến số.
+@Chuyên ngành kinh tế
+#móc xích
+#quy tắc
+@Chuyên ngành kỹ thuật
+#quy tắc dây chuyền
+@Lĩnh vực: toán & tin
+#quy tắc dây truyền

@@ -1,0 +1,4 @@
+﻿@Cumulative Probability
+#(Econ) Xác suất tích luỹ.
+@Chuyên ngành kỹ thuật
+#xác suất tích lũy

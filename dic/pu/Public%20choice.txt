@@ -1,0 +1,6 @@
+﻿@Public choice
+#(Econ) Sự lựa chọn công cộng.
+: Một ngành kinh tế học liên quan đến việc áp dụng kinh tế học vào việc phân tích sự quyết định Phi thị trường.
+@Chuyên ngành kinh tế
+#sự lựa chọn công
+#sự lựa chọn công cộng

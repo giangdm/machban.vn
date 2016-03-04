@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ ký tự một byte
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ ký tự byte đơn
+#tập ký tự byte đơn

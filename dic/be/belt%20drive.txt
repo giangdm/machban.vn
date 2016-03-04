@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#chuyền cơ bằng dây trân
+#dẫn động đai
+@Lĩnh vực: xây dựng
+#sự kéo bằng cuaroa
+@Lĩnh vực: toán & tin
+#truyền cơ bằng dây trần
+@Lĩnh vực: hóa học & vật liệu
+#truyền động bằng curoa
+@Lĩnh vực: ô tô
+#truyền động dây đai

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kết nối cố định
+#kết nối thường xuyên
+@Lĩnh vực: cơ khí & công trình
+#mối ghép không tháo được

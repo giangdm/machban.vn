@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp cách ẩm
+@Lĩnh vực: điện lạnh
+#lớp kín ẩm

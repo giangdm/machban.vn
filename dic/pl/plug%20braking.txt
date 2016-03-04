@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hãm tái sinh
+@Lĩnh vực: điện
+#cách hãm đảo pha
+#hãm bằng phích cắm
+@Lĩnh vực: điện lạnh
+#hãm đảo pha
+#hãm đấu ngược

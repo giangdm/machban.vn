@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giấy chứng trả thuế quan
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#giấy phép rời cảng
+#phiếu xuất cảng

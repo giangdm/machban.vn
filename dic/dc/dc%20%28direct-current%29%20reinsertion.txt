@@ -1,0 +1,2 @@
+﻿@dc (direct-current) reinsertion
+#(Tech) phục hồi thành phần của điện một chiều

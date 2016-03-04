@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#dàn khoan (trên biển)
+#tháp khoan (giếng dầu trên đất liền)
+@Chuyên ngành kỹ thuật
+#giàn khoan
+#máy khoan
+#tháp khoan

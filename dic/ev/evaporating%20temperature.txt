@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt độ bốc hơi
+#nhiệt độ cô đặc
+@Chuyên ngành kỹ thuật
+#nhiệt độ bay hơi
+@Chuyên ngành kỹ thuật
+#nhiệt độ bay hơi

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ
+@Lĩnh vực: điện
+#cuộn dây kiểu lồng

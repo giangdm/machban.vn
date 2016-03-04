@@ -1,0 +1,7 @@
+﻿@check bit
+#(Tech) bit kiểm
+@Chuyên ngành kỹ thuật
+#bit kiểm tra
+#bít kiểm tra
+@Lĩnh vực: xây dựng
+#bit kiểm soát

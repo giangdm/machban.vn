@@ -1,0 +1,6 @@
+﻿@compatible computer
+#(Tech) máy điện toán tương thích
+@Chuyên ngành kinh tế
+#máy tính tương thích
+@Chuyên ngành kỹ thuật
+#máy tính tương thích

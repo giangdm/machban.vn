@@ -1,0 +1,10 @@
+﻿@induction motor
+*danh từ
+#động cơ điện cảm ứng
+@Chuyên ngành kỹ thuật
+#động cơ không đồng bộ
+#máy cảm ứng
+@Lĩnh vực: toán & tin
+#động cơ cảm điện
+@Lĩnh vực: điện
+#động cơ cảm ứng

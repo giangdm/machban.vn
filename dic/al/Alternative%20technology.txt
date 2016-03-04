@@ -1,0 +1,3 @@
+﻿@Alternative technology
+#(Econ) Công nghệ thay thế.
+: Thuật ngữ dùng để chỉ kiểu công nghệ có một vài hoặc tất cả thuộc tính sau: sử dụng tối thiểu tài nguyên không tái tạo được, gây ô nhiễm thấp nhất đối với môi trường, tự cấp tự túc theo vùng hoặc theo địa phương không có sự bóc lột hoặc cô lập các cá nhân. (Xem INTERMEDIATE TECHNOLOGY, APPROPIATE TECHNOLOGY, INTERMEDIATE TECHNOLOGY DEVELOPMENT GROUP).

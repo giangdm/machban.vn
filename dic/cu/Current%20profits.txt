@@ -1,0 +1,3 @@
+﻿@Current profits
+#(Econ) Lợi nhuận hiện hành
+: Là doanh số trừ đi toàn bộ CHI PHÍ CƠ HỘI thu được trong giai đoạn kế hoạch hiện tại của hãng.

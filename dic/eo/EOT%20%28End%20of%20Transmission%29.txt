@@ -1,0 +1,10 @@
+﻿@EOT (End of Transmission)
+#(Tech) chấm dứt truyền phát
+@Chuyên ngành kỹ thuật
+#sự kết thúc truyền
+@Lĩnh vực: toán & tin
+#kết thúc phát
+@Chuyên ngành kỹ thuật
+#sự kết thúc truyền
+@Lĩnh vực: toán & tin
+#kết thúc phát

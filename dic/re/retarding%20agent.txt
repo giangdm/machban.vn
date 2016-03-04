@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#chất làm chậm
+@Chuyên ngành kỹ thuật
+#chất kìm hãm
+@Lĩnh vực: dệt may
+#chất làm chậm
+#tác nhân làm chậm
+@Lĩnh vực: hóa học & vật liệu
+#chất phụ gia hãm

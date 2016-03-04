@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#người (chịu trách nhiệm) theo dõi tiến độ
+#người (chịu trách nhiệm) theo dõi tiến độ (công trình)
+#người theo dõi tiến độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#người theo dõi tiến độ (thi công)

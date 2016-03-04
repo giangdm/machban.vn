@@ -1,0 +1,3 @@
+﻿@Payments, balance of
+#(Econ) Cán cân thanh toán.
+: Xem BALANCE OF PAYMENTS.

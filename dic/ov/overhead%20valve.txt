@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#nắp hơi trở đầu
+#van treo
+#xú bắp trở đầu
+@Lĩnh vực: cơ khí & công trình
+#nắp hơi ngược đầu
+@Lĩnh vực: ô tô
+#van đặt trên
+#van trên
+#xupáp trên
+@Lĩnh vực: hóa học & vật liệu
+#van đỉnh
+@Lĩnh vực: xây dựng
+#xú bắp trở dầu

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giá trị buôn bán
+#giá trị theo doanh thu
+#giá trị tính thành tiền
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#giá trị bán

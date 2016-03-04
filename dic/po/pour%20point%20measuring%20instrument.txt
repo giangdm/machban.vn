@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dụng cụ đo điểm đông đặc
+#dụng cụ đo điểm đúc
+#dụng cụ đo điểm rót

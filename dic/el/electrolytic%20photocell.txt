@@ -1,0 +1,2 @@
+﻿@electrolytic photocell
+#(Tech) pin quang điện bằng điện giải

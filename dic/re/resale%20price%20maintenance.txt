@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#duy trì mức giá bán tại
+#giá bán lại bắt buộc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#duy trì giá tái mại

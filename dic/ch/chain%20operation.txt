@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự thao tác chuỗi
+@Lĩnh vực: điện tử & viễn thông
+#thao tác dây truyền

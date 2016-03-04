@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Luồng tín hiệu quang SONET 622, 080 Mbit/s

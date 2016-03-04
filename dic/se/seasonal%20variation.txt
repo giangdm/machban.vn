@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#sự biến động thời vụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#biến dị theo mùa
+@Lĩnh vực: xây dựng
+#biến đổi thời vụ
+@Lĩnh vực: vật lý
+#dao động theo mùa
+@Lĩnh vực: điện tử & viễn thông
+#sự biến đổi theo mùa
+@Lĩnh vực: cơ khí & công trình
+#sự biến động theo mùa
+@Lĩnh vực: hóa học & vật liệu
+#sự biến thiên theo mùa

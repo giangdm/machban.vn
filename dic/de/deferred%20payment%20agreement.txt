@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hợp đồng bán chịu
+#hợp đồng bán trả dần
+#hợp đồng tiền hàng trả sau

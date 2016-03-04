@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#buồng rửa không khí
+@Chuyên ngành kỹ thuật
+#tháp rửa khí
+#thiết bị rửa khí
+@Lĩnh vực: hóa học & vật liệu
+#bộ rửa khí
+@Lĩnh vực: điện lạnh
+#máy lọc rửa khí

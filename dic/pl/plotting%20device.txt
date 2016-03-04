@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ ghi đồ thị
+@Lĩnh vực: toán & tin
+#dụng cụ vẽ đường cong
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị vẽ

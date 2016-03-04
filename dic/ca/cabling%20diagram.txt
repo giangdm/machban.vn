@@ -1,0 +1,6 @@
+﻿@cabling diagram
+#(Tech) sơ đồ nối dây
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sơ đồ cáp
+#sơ đồ nối cáp

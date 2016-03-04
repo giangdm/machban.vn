@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phân tích tương quan
+#sự phân tích tương quan
+@Chuyên ngành kỹ thuật
+#phân tích tương quan
+@Lĩnh vực: xây dựng
+#sự phân tích tương quan

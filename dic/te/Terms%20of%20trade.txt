@@ -1,0 +1,10 @@
+﻿@Terms of trade
+#(Econ) Tỷ giá thương mại.
+: Quan hệ giữa giá hàng xuất khẩu và giá hàng nhập khẩu.
+@Chuyên ngành kinh tế
+#các phương thức thanh toán trong kinh doanh
+#đáp số của mậu dịch
+#điều kiện mậu dịch
+#tỉ giá (trao đổi) xuất nhập khẩu
+#tỉ lệ mậu dịch
+#tỉ lệ trao đổi

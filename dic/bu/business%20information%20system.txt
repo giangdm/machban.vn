@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống tư liệu thông tin thương mại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống thông tin thương mại

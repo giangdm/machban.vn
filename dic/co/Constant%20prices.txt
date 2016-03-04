@@ -1,0 +1,2 @@
+﻿@Constant prices
+#(Econ) Giá cố định / giá bán không đổi.

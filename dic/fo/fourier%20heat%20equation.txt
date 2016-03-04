@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#phương trình dòng nhiệt
+#phương trình nhiệt
+@Chuyên ngành kỹ thuật
+#phương trình nhiệt Fourier
+@Lĩnh vực: điện lạnh
+#định luật dẫn nhiệt Fourier

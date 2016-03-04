@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu ray
+#nhà ga đầu cuối
+#xe dao ngang (máy bào)
+@Lĩnh vực: xây dựng
+#khoảng cách giữa hai ray

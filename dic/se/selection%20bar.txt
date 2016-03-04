@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thanh chọn
+@Lĩnh vực: điện lạnh
+#thanh ngang (ở hệ ngang dọc điện thoại)

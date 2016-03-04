@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp xúc tác
+@Lĩnh vực: vật lý
+#tầng có chất xúc tác

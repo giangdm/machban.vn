@@ -1,0 +1,2 @@
+﻿@Constraint (informal / formal)
+#(Econ) Hạn chế / Ràng buộc (không chính thức/ chính thức) ngoài quy định/ theo quy định.

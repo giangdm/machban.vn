@@ -1,0 +1,5 @@
+﻿@Choice of technology
+#(Econ) Sự lựa chọn công nghệ.
+: Xem TECHNOLOGY, CHOICE OF.
+@Chuyên ngành kinh tế
+#chọn lựa kỹ thuật

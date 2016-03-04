@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quyền ưu tiên tuyệt đối
+#sự ưu tiên tuyệt đối
+@Lĩnh vực: điện tử & viễn thông
+#ưu tiên tuyệt đối

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#gas ẩm
+#gia ẩm
+#hơi (môi chất lạnh) ẩm
+#hơi môi chất lạnh ẩm
+@Lĩnh vực: xây dựng
+#khí ẩm

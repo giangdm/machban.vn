@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tải nhiệt ẩm
+#tải nhiệt ướt
+#tấn nhiệt ẩm
+@Lĩnh vực: xây dựng
+#tải trọng làm lạnh ẩm

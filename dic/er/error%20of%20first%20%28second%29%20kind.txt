@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#loại hai
+@Lĩnh vực: toán & tin
+#sai lầm loại một (loại hai)
+#sai số loại một
+@Chuyên ngành kỹ thuật
+#loại hai
+@Lĩnh vực: toán & tin
+#sai lầm loại một (loại hai)
+#sai số loại một

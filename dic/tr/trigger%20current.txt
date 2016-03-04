@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng khởi động
+@Lĩnh vực: điện lạnh
+#dòng mồi

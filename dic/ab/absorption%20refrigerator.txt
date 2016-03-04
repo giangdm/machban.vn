@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tủ lạnh hấp thụ
+@Chuyên ngành kỹ thuật
+#buồng lạnh hấp thụ
+#máy lạnh hấp thụ
+@Lĩnh vực: điện lạnh
+#tủ lạnh hấp thụ

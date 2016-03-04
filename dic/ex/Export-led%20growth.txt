@@ -1,0 +1,6 @@
+﻿@Export-led growth
+#(Econ) Tăng trưởng dựa vào xuất khẩu.
+: Là sự tăng trưởng được thúc đẩy bởi sự gia tăng hàng xuất khẩu.
+@Chuyên ngành kinh tế
+#sự tăng trưởng kinh tế nhờ vào xuất khẩu
+#tăng trưởng kinh tế dựa vào xuất khẩu

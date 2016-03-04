@@ -1,0 +1,7 @@
+﻿@front page /'frʌnt'peidʤ/
+*danh từ
+#trang đầu (tờ báo)
+#(định ngữ) (thuộc) trang đầu, ở trang đầu, trên trang đầu
+=front_page news: tin tức in trên trang đầu
+*ngoại động từ
+#đăng (tin) ở trang đầu tờ báo

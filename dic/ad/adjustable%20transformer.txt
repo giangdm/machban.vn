@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biến áp điều chỉnh được
+@Lĩnh vực: điện lạnh
+#máy biến áp điều chỉnh được
+#máy biến áp điều chỉnh được liên tục
+#máy biến áp thay đổi

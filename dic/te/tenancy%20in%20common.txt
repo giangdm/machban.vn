@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#quyền sử dụng chung
+#quyền thuê chung
+#sở hữu chung

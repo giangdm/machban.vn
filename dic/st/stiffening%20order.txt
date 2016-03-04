@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chỉ thị dãn tàu (giữ cho tàu không tròng trành)
+#chỉ thị dằn tàu (giữ cho tàu không tròng trành)
+#giấy phép chở hàng dằn tàu (của hải quan)
+#giấy phép trở hàng dãn tàu (của hải quan)

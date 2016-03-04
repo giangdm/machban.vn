@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất mạch động
+#ứng suất va đập
+@Lĩnh vực: toán & tin
+#ứng suất mạch đập
+#ứng suất rung động
+@Lĩnh vực: xây dựng
+#ứng suất sung động
+#ứng suất xung

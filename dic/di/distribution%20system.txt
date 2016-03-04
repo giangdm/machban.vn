@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống phân phối
+#hệ thống tiêu thụ
+@Chuyên ngành kỹ thuật
+#hệ phân phối
+#hệ phân phối (nước)
+#hệ phân tán
+@Lĩnh vực: xây dựng
+#hệ thống phân phối
+#hệ thống tưới nước
+@Lĩnh vực: điện
+#mạng phân phối (điện)

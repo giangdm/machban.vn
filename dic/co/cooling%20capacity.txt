@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#năng suất lạnh
+@Lĩnh vực: hóa học & vật liệu
+#công suất làm lạnh
+@Lĩnh vực: điện lạnh
+#năng suất làm mát

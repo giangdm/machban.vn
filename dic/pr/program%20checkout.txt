@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự kiểm tra chương trình
+@Lĩnh vực: toán & tin
+#sự hiệu chỉnh chương trình (chương trình lỗi)
+#sự thử chương trình

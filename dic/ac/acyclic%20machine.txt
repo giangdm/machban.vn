@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy điện đơn cực
+#máy điện đồng cực
+#máy điện không tuần hoàn
+#máy phát điện đồng cực
+@Lĩnh vực: điện lạnh
+#máy không chu kỳ
+@Lĩnh vực: toán & tin
+#máy không tuần hoàn

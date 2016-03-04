@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hiệu quả so sánh
+#hiệu quả tương đối
+@Chuyên ngành kỹ thuật
+#hiệu suất tương đối

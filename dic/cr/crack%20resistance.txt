@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền nứt
+@Lĩnh vực: xây dựng
+#khả năng chống nứt
+#tính không nứt
+@Lĩnh vực: hóa học & vật liệu
+#sức cản nứt

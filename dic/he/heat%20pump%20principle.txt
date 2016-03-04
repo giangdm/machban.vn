@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nguyên lí bơm nhiệt
+#nguyên lý bơm nhiệt

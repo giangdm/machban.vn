@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phổ sóng vô tuyến
+@Lĩnh vực: vật lý
+#phổ vô tuyến

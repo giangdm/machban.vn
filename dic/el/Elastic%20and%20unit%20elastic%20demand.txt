@@ -1,0 +1,2 @@
+﻿@Elastic and unit elastic demand
+#(Econ) Nhu cầu co giãn và co giãn một đơn vị.

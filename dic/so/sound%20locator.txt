@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bộ định vị âm thanh
+#máy định vị âm
+#máy dò âm thanh
+@Lĩnh vực: điện lạnh
+#máy định vị (dùng) âm thanh

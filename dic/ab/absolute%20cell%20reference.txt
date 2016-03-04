@@ -1,0 +1,7 @@
+﻿- (tin học) tham chiếu ô tuyệt đối. Một tham chiếu ô của bảng tính điện tử không bị điều chỉnh khi bạn tiến hành sao chép một công thức. Một tham chiếu ô tuyệt đối bao gồm dấu đô la trước chữ cái biểu hiện cột và con số biểu hiện hàng. Dùng các tham chiếu ô tuyệt đối khi bạn tiến hành tham chiếu vào các ô có chứa các biến khoá như giá bảo hiểm xã hội hoặc thuế xuất chẳng hạn.
+#Xem key variable
+#Xem low-level format
+#Xem relative cell reference
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tham chiếu ô tuyệt đối

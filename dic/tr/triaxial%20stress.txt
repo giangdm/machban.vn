@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất ba trục
+@Lĩnh vực: xây dựng
+#ứng suất trên 3 chiều

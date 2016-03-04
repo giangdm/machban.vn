@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#môđun nhiệt điện
+#pin nhiệt điện
+@Lĩnh vực: điện lạnh
+#dàn lạnh nhiệt điện
+#dàn lạnh Peltier
+#giàn lạnh (theo hiệu ứng) Peltier
+#giàn lạnh nhiệt điện
+@Lĩnh vực: vật lý
+#pin cặp nhiệt điện

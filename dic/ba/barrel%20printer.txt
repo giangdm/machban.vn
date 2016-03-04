@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy in kiểu tang quay
+#máy in ống
+#máy in tang quay
+#máy in trống quay

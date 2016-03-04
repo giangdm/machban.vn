@@ -1,0 +1,8 @@
+﻿@Foucault current
+#(Tech) dòng xoáy, dòng Foucault
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dòng điện fucô
+#dòng điện xoáy dòng phucô
+@Chuyên ngành kỹ thuật
+#dòng điện Foucault

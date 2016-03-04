@@ -1,0 +1,3 @@
+﻿@Piece rates
+#(Econ) Thu nhập tính theo sản phẩm.
+: Xem COMPENSATION RULES.

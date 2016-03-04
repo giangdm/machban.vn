@@ -1,0 +1,3 @@
+﻿@Implicit rental value
+#(Econ) Giá trị tiền thuê ẩn.
+: Giá cả mà người chủ một yếu tố sản xuất dưới dạng vật chất chẳng hạn như tư bản, tính đối với một hãng cho việc sử dụng yếu tố này. Xem USER COST OF CAPITAL.

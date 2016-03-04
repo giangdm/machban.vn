@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hằng số bước sóng
+#hằng số pha
+#hệ số pha
+#hệ số thay đổi pha
+@Lĩnh vực: toán & tin
+#hệ số pha, hằng pha

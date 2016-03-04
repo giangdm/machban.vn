@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giàn tĩnh điện
+@Lĩnh vực: xây dựng
+#giàn tĩnh định

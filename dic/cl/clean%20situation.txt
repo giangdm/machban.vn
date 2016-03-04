@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#nền sạch
+@Lĩnh vực: điện lạnh
+#trạng thái sạch

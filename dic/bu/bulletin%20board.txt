@@ -1,0 +1,10 @@
+﻿@bulletin board
+#(Tech) bảng công báo
+@Chuyên ngành kinh tế
+#bảng bố cáo
+#bảng niêm yết
+#bảng thông báo
+@Chuyên ngành kỹ thuật
+#bảng thông báo
+@Lĩnh vực: toán & tin
+#bảng tin

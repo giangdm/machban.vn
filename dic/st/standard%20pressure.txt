@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất tiêu chuẩn
+@Lĩnh vực: điện lạnh
+#giao thức chuẩn

@@ -1,0 +1,4 @@
+﻿@common language
+#(Tech) ngôn ngữ chung, ngôn ngữ thông dụng
+@Chuyên ngành kỹ thuật
+#ngôn ngữ chung

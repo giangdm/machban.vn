@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đếm thời gian
+@Lĩnh vực: toán & tin
+#bộ tính giờ
+#thanh ghi giờ

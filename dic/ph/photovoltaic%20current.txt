@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng quang điện
+#lớp chặn
+@Lĩnh vực: điện
+#dòng quang vontaic

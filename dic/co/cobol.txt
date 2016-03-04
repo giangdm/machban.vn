@@ -1,0 +1,7 @@
+﻿@cobol
+*(viết tắt)
+#<tin> ngôn ngữ lập trình dành cho thương mại (Common business oriented language)
+@Chuyên ngành kinh tế
+#ngôn ngữ lập trình dành cho thương mại
+@Chuyên ngành kỹ thuật
+#ngôn ngữ COBOL

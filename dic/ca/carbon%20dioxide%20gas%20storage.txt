@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bảo quản khí cabonic
+#bảo quản khí CO2
+#sự bảo quản khí CO2

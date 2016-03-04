@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị ngưng tụ bậc một
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bộ ngưng ban đầu
+#bộ ngưng sơ bộ
+@Lĩnh vực: điện lạnh
+#dàn ngưng sơ cấp

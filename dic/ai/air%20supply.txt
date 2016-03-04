@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#cấp không khí
+#sự cấp không khí
+#sự thông gió
+@Lĩnh vực: cơ khí & công trình
+#cửa nạp khí
+#sự cấp khí vào
+#sự nạp không khí
+@Lĩnh vực: hóa học & vật liệu
+#sự đưa không khí vào
+@Lĩnh vực: giao thông & vận tải
+#sự quạt thông gió

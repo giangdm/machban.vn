@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#vùng ảo dùng chung
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vùng ảo chia sẻ

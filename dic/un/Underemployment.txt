@@ -1,0 +1,11 @@
+﻿@Underemployment
+#(Econ) Sự phiếm dụng.
+: Theo giả thiết thị trường lao động Nhị nguyên, thị trường lao động cấp hai bao gồm nhiều công nhân, những người có tay nghề giúp họ có thể hoàn thành công việc trong thị trường cấp một, hoặc là những người có thể được đào tạo thành công nhân có tay nghề cao với chi phí thấp hơn so với mức trung bình.
+<!-- more -->
+@underemployment /'ʌndərim'plɔimənt/
+*danh từ
+#tình trạng thiếu việc làm
+#sự sử dụng không hết nhân công
+@Chuyên ngành kinh tế
+#sự khiếm dụng lao động
+#tình trạng thiếu việc làm

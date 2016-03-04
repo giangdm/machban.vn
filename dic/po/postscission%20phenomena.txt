@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiện tượng sau (khi) cắt
+#hiện tượng sau khi đứt

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mặt bằng phòng
+#sơ đồ phòng
+@Lĩnh vực: xây dựng
+#mặt bằng sàn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mặt bằng phòng
+#sơ đồ phòng
+@Lĩnh vực: xây dựng
+#mặt bằng sàn

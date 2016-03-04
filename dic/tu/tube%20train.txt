@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tàu điện ngầm
+@Lĩnh vực: xây dựng
+#đoàn xe điện ngầm
+@Lĩnh vực: giao thông & vận tải
+#xe điện ngầm

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chi phiếu không gạch chéo
+#séc không gạch chéo
+#séc thường
+#séc tiền mặt
+#séc vô danh

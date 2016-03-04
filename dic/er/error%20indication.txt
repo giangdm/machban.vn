@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chỉ số lỗi
+#chỉ thị lỗi
+#định danh lỗi
+@Lĩnh vực: đo lường & điều khiển
+#sự chỉ báo độ lệch
+#sự chỉ báo sai số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chỉ số lỗi
+#chỉ thị lỗi
+#định danh lỗi
+@Lĩnh vực: đo lường & điều khiển
+#sự chỉ báo độ lệch
+#sự chỉ báo sai số

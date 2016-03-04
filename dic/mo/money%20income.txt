@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thu nhập bằng tiền
+#thu nhập tính bằng tiền
+@Chuyên ngành kỹ thuật
+#doanh lợi bằng tiền
+@Lĩnh vực: hóa học & vật liệu
+#thu nhập bằng tiền

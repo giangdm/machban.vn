@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đào lùi
+@Lĩnh vực: hóa học & vật liệu
+#máy đào kiểu xẻng ngược

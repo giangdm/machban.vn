@@ -1,0 +1,3 @@
+﻿@Cost insurance freight
+#(Econ) Phí, bảo hiểm, cước vận chuyển, giá CIF.
+: Xem CIF.

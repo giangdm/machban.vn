@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hợp đồng cung cấp
+@Lĩnh vực: điện
+#hợp đồng cung cấp (điện)

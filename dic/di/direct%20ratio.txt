@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tỷ lệ thuận
+@Lĩnh vực: toán & tin
+#tỷ số thuận

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giàn hệ tam giác
+#hệ thanh xiên tam giác
+#khung tam giác

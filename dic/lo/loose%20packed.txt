@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#được xếp không chặt
+@Lĩnh vực: điện lạnh
+#bó lỏng
+#xếp lỏng

@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ cấu nạp liệu
+#máy bốc xếp hàng
+#máy chất tải
+#máy đóng đầy túi
+@Lĩnh vực: xây dựng
+#máy chất hàng
+#máy súc nhiều gàu
+#xe chất hàng
+@Chuyên ngành kỹ thuật
+#cơ cấu nạp liệu
+#máy bốc xếp hàng
+#máy chất tải
+#máy đóng đầy túi
+@Lĩnh vực: xây dựng
+#máy chất hàng
+#máy súc nhiều gàu
+#xe chất hàng

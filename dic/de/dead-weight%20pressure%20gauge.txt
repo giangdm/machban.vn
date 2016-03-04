@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#áp kế bù áp
+@Lĩnh vực: đo lường & điều khiển
+#áp kế so sánh lực

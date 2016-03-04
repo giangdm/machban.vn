@@ -1,0 +1,2 @@
+﻿@automatic volume control circuit
+#(Tech) mạch tự điều chỉnh âm lượng

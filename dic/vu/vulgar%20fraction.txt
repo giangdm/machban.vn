@@ -1,0 +1,7 @@
+﻿@vulgar fraction
+*danh từ
+#phân số đơn giản (phân số được biểu diễn bằng những số nằm trên và dưới một vạch; 5 / 3, 4 / 8 )
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân số thông thường
+#phân số thường

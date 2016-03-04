@@ -1,0 +1,3 @@
+﻿@suppresser
+*danh từ
+#xem suppressor

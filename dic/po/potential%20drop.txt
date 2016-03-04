@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#độ sụt điện áp
+@Lĩnh vực: điện
+#điện thế sụt
+#độ sụt điện thế
+@Lĩnh vực: vật lý
+#độ sụt thế
+#sự sụt điện áp
+#sụt điện thế
+@Lĩnh vực: điện lạnh
+#độ sụt thế (ở một mạch điện)
+@Lĩnh vực: xây dựng
+#sự giảm thế
+#sự mất điện thế
+@Lĩnh vực: hóa học & vật liệu
+#sụt thế

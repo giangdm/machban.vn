@@ -1,0 +1,2 @@
+﻿@dot per inch
+#(Tech) số chấm mỗi phân Anh

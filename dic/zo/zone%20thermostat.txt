@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy điều nhiệt cục bộ
+#máy điều nhiệt theo vùng
+#rơle nhiệt độ theo vùng
+#rơle nhiệt độ theo vùng (cục bộ)
+#tecmostat theo vùng
+#thermostat theo vùng

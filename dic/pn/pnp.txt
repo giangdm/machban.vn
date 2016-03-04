@@ -1,0 +1,2 @@
+﻿@pnp
+#Một tiêu chuẩn về phần cứng đối với các bộ phận phần ứng bổ sung thêm trong máy tính, yêu cầu các bộ phận đó có khả năng tự đồng nhất hoá, đáp ứng yêu cầu trong một loại tiêu chuẩn

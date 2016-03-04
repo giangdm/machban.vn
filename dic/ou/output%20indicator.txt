@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo tín hiệu ra
+@Lĩnh vực: toán & tin
+#bộ chỉ báo xuất

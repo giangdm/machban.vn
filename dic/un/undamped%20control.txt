@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều chỉnh không ổn định
+#điều chỉnh tản mạn

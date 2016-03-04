@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sự nghiền phân đoạn
+@Chuyên ngành kỹ thuật
+#nghiền chia giai đoạn

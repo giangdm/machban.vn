@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bản khai giá ước lượng
+#bản ước giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đánh giá sơ bộ
+#sự ước tính sơ bộ

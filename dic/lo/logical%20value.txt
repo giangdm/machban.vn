@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị boole
+#giá trị logic
+#giá trị luận lý
+@Lĩnh vực: xây dựng
+#giá trị lôgic
+<!-- more -->
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị boole
+#giá trị logic
+#giá trị luận lý
+@Lĩnh vực: xây dựng
+#giá trị lôgic

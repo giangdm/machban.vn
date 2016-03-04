@@ -1,0 +1,5 @@
+﻿@color, colour
+#(Tech) màu (sắc)
+@Chuyên ngành kỹ thuật
+#màu
+#sự tô màu

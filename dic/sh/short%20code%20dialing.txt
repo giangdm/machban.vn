@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#mã số ngắn (điện thoại)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quay số bằng mã gọn
+#sự quay số mã tắt

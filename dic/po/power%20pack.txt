@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nguồn
+@Lĩnh vực: cơ khí & công trình
+#blốc cung cấp năng lượng
+#đầu mối năng lượng
+@Lĩnh vực: điện
+#bộ cung cấp điện
+#cụm đầu động lực
+#cụm máy công suất
+#cụm nguồn
+#khối cung cấp điện
+#tổ hợp công suất
+@Lĩnh vực: điện lạnh
+#bộ nuôi

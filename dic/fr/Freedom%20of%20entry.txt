@@ -1,0 +1,6 @@
+﻿@Freedom of entry
+#(Econ) Tụ do nhập ngành.
+: Khả năng của một công ty mới gia nhập một thị trường hàng hoá và dịch vụ. Nếu hoàn toàn không có các HÀNG RÀO GIA NHẬP thì việc gia nhập là tự do.
+@Chuyên ngành kinh tế
+#sự tự do nhập thị
+#tự do nhập thị

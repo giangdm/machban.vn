@@ -1,0 +1,3 @@
+﻿@Factor incomes
+#(Econ) Thu nhập từ yếu tố sản xuất.
+: Thu nhập trực tiếp có được nhừo sản xuất hàng hoá và dịch vụ hiện tại.

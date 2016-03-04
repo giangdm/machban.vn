@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giếng thu nhiệt
+@Lĩnh vực: điện tử & viễn thông
+#nguồn âm (không phát ra)

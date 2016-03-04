@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lối ra có lá van
+@Lĩnh vực: điện lạnh
+#cửa ra có lá van
+@Lĩnh vực: cơ khí & công trình
+#miệng van

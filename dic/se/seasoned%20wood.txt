@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#gỗ đã xử lý
+#gỗ khô
+@Lĩnh vực: giao thông & vận tải
+#gỗ đã ngâm tẩm (vật liệu đóng tàu)
+@Lĩnh vực: điện
+#gỗ đã xử lí
+@Lĩnh vực: xây dựng
+#gỗ ổn định

@@ -1,0 +1,4 @@
+﻿@artificial language
+#(Tech) ngôn ngữ nhân tạo
+@Chuyên ngành kỹ thuật
+#ngôn ngữ nhân tạo

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tỷ lệ khả năng thanh toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tỉ số biến động

@@ -1,0 +1,12 @@
+﻿@Stock market
+#(Econ) Thị trường chứng khoán.
+: Một thể chế mà qua đó các CỔ PHẦN và CỔ PHIẾU được mua bán.
+@Chuyên ngành kinh tế
+#chợ bán gia súc
+#chợ gia súc
+#sở giao dịch chứng khoán
+#thị trường chứng khoán
+#thị trường cổ phiếu
+#thị trường gia súc
+@Chuyên ngành kỹ thuật
+#thị trường chứng khoán

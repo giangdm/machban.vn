@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quản lý bộ trữ trang ngoài
+@Lĩnh vực: toán & tin
+#sự quản lý bộ nhớ trang ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quản lý bộ trữ trang ngoài
+@Lĩnh vực: toán & tin
+#sự quản lý bộ nhớ trang ngoài

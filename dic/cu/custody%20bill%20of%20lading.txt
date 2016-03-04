@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#vận đơn gửi kho (thuế quan)
+#vận đơn lưu kho
+#vận đơn nhận bốc

@@ -1,0 +1,2 @@
+﻿@coprime
+#nguyên tố cùng nhau

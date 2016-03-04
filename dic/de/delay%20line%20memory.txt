@@ -1,0 +1,2 @@
+﻿@delay line memory
+#(Tech) bộ nhớ dây trễ

@@ -1,0 +1,3 @@
+﻿@Technology matrix
+#(Econ) Ma trận côngnghệ.
+: Trong phân tích đầu vào - đầu ra, một ma trận (thường được kí hiệu là An) mà phần tử thứ ij (nghĩa là phần tử ở hàng i và cột j) cho biết giá trị của sản lượng ở nghành i được sử dụng như một đầu vào ngay lập tức trong việc sản xuất ra một đơn vị đầu ra của ngành j của nền kinh tế.

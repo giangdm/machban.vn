@@ -1,0 +1,2 @@
+﻿@dielectric waveguide
+#(Tech) ống dẫn sóng điện môi

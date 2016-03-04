@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kiểu thiết kế ngược dòng
+#thiết kế kiểu ngược dòng

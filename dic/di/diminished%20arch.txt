@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#vòm hộp
+#vòm phẳng
+@Lĩnh vực: xây dựng
+#cuốn thu nhỏ
+#kiểu vòm cuốn thu nhỏ
+#vòm thấp
+@Lĩnh vực: cơ khí & công trình
+#vòm nén

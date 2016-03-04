@@ -1,0 +1,8 @@
+﻿@Income distribution
+#(Econ) Phân phối thu nhập.
+@Chuyên ngành kinh tế
+#số phân phối lợi tức
+#sự phân phối lợi tức
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự phân phối thu nhập

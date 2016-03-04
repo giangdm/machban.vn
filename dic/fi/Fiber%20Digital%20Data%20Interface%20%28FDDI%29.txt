@@ -1,0 +1,2 @@
+﻿@Fiber Digital Data Interface (FDDI)
+#(Tech) giao diện truyền dữ liệu qua sợi quang

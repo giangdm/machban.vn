@@ -1,0 +1,6 @@
+﻿@Marginal physical product
+#(Econ) Sản phẩm vật chất cận biên.
+: Là mức tăng thêm tổng sản lượng nhờ việc sử dụng thêm một đơn vị lao động và có thể dẫn xuất từ hàm sản xuất, với điều kiện các yếu tố khác không đổi.
+@Chuyên ngành kinh tế
+#người cho vay biên tế
+#sản phẩm hiện vật biên

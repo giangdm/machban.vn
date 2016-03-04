@@ -1,0 +1,7 @@
+﻿@Inside money
+#(Econ) Tiền bên trong.
+: Các dạng tiền dựa trên số nợ của khu vực tư nhân , ví dụ quan trọng nhất là tiền gửi ngân hàng thương mại ứng với số tiền ngân hàng cho khu vực tư nhân vay.
+@Chuyên ngành kinh tế
+#tiền bên trong
+#tiền nội sinh
+#tiền tệ bên trong

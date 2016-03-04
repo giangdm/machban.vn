@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chi tiết an toàn
+@Lĩnh vực: cơ khí & công trình
+#hạn chế mômen xoắn
+#phần tử chịu xoắn

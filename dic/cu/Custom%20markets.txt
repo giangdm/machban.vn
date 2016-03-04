@@ -1,0 +1,3 @@
+﻿@Custom markets
+#(Econ) Các thị trường khách hàng.
+: Là các thị trường trong đó giá cả không đánh giá bằng cung và cầu.

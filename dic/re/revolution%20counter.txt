@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đếm số vòng quay (động cơ, phụ tùng)
+#máy đếm vòng
+#máy đo tốc độ quay
+@Lĩnh vực: điện lạnh
+#bộ đếm vòng quay
+@Lĩnh vực: hóa học & vật liệu
+#máy đếm số vòng quay
+@Lĩnh vực: cơ khí & công trình
+#máy đếm vòng quay
+#máy tính tốc độ quay

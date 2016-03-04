@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sản xuất thành loạt nhỏ
+#sản xuất theo lô
+#theo đợt
+#theo mẻ
+#xuất theo lô
+@Chuyên ngành kỹ thuật
+#sự sản xuất theo mẻ
+@Lĩnh vực: hóa học & vật liệu
+#sự sản xuất từng mẻ

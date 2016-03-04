@@ -1,0 +1,5 @@
+﻿@set theory [,set 'θiəri]
+*danh từ
+# thuyết về tập hợp (toán)
+@Chuyên ngành kỹ thuật
+#lý thuyết tập hợp

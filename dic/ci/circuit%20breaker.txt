@@ -1,0 +1,24 @@
+﻿@circuit breaker /'sə:kit'breikə/
+*danh từ
+#(điện học) cái ngắt
+@Chuyên ngành kỹ thuật
+#bộ cắt mạch
+#bộ chuyển mạch
+#bộ ngắt điện
+#bộ ngắt điện tự động
+#bộ ngắt dòng
+#bộ ngắt mạch
+#cái ngắt
+#cầu dao
+#ngắt mạch
+#máy cắt
+#máy cắt mạch
+#thiết bị ngắt
+@Lĩnh vực: cơ khí & công trình
+#bộ ngắt nối mạch điện
+#cầu ngắt nối điện
+@Lĩnh vực: điện
+#cái ngắt điện công tắc
+#cái ngắt vòng
+@Lĩnh vực: điện lạnh
+#cầu dao cắt mạch

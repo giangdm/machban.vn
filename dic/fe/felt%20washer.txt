@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#đệm lót chắn dầu
+@Lĩnh vực: xây dựng
+#vòng đệm chận (dầu)
+@Lĩnh vực: toán & tin
+#vòng đệm chận (đầu)
+@Lĩnh vực: cơ khí & công trình
+#vòng đệm phớt
+@Chuyên ngành kỹ thuật
+#đệm lót chắn dầu
+@Lĩnh vực: xây dựng
+#vòng đệm chận (dầu)
+@Lĩnh vực: toán & tin
+#vòng đệm chận (đầu)
+@Lĩnh vực: cơ khí & công trình
+#vòng đệm phớt

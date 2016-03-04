@@ -1,0 +1,2 @@
+﻿@computer static test
+#(Tech) thử tĩnh điện máy điện toán

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#kết quả thử nghiệm
+@Lĩnh vực: toán & tin
+#kết quả kiểm tra
+@Lĩnh vực: xây dựng
+#kết quả thí nghiệm

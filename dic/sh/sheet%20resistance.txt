@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#diện trở màng mỏng
+#điện trở mặt
+#điện trở tấm

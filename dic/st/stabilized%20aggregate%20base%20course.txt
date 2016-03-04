@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#lớp móng cấp phối chặt
+#lớp móng cấp phối đá dăm

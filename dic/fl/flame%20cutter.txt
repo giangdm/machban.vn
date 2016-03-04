@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#đèn xì cắt
+#mỏ cắt
+#mỏ hàn cắt
+@Lĩnh vực: xây dựng
+#cần cắt
+#mỏ đèn cắt
+#mỏ xì cắt
+@Lĩnh vực: cơ khí & công trình
+#mỏ cắt hơi
+@Chuyên ngành kỹ thuật
+#đèn xì cắt
+#mỏ cắt
+#mỏ hàn cắt
+@Lĩnh vực: xây dựng
+#cần cắt
+#mỏ đèn cắt
+#mỏ xì cắt
+@Lĩnh vực: cơ khí & công trình
+#mỏ cắt hơi

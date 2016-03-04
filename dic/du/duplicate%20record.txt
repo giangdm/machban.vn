@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự ghi thành hai bản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản ghi nhân đôi

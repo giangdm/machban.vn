@@ -1,0 +1,5 @@
+﻿@configurator
+#(Tech) bộ cấu hình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ cấu hình

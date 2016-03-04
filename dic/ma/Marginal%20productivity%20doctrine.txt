@@ -1,0 +1,6 @@
+﻿@Marginal productivity doctrine
+#(Econ) Học thuyết về năng suất cận biên.
+: Học thuyết này cho rằng một chủ sử dụng lao động mong muốn tối đa hoá lợi nhuận của mình sẽ chịu sự chi phối của quy luật về năng suất biên giảm dần, theo đó các đơn vị lao động lần lượt được sử dụng sẽ tạo ra các đơn vị SẢN LƯỢNG giảm dần tương ứng.
+@Chuyên ngành kinh tế
+#thuyết hiệu suất biên
+#thuyết hiệu suất biên tế

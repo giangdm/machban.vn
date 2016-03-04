@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sản phẩm tươi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sản phẩm không kết đông

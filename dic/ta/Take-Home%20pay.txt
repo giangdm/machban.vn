@@ -1,0 +1,13 @@
+﻿@Take-Home pay
+#(Econ) Thu nhập khả chi.
+: Thu nhập có thể sử dụng; thu nhập thô trừ thuế và đóng góp bảo hiểm xã hội.
+@Chuyên ngành kinh tế
+#lương ròng
+#lương thực tế
+#tiền lương còn lại sau khi đã trừ các khoản thuế
+#tiền lương mang về nhà
+#tiền lương thực lĩnh
+<!-- more -->
+@take-home pay
+*danh từ
+#tiền lương còn lại sau khi đã khấu trừ các khoản (thuế )

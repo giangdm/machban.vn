@@ -1,0 +1,2 @@
+﻿@dial telephone system
+#(Tech) hệ thống điện thoại quay số

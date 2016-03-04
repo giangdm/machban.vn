@@ -1,0 +1,2 @@
+﻿@external environment
+#(Tech) môi trường ngoài

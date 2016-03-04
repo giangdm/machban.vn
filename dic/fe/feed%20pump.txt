@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm cấp
+#bơm cấp nước
+#bơm nhiên liệu
+#máy bơm cấp
+#máy bơm tiếp liệu
+@Lĩnh vực: xây dựng
+#máy bơm cấp nước
+@Lĩnh vực: cơ khí & công trình
+#máy bơm cung cấp
+#máy bơm nạp
+@Chuyên ngành kỹ thuật
+#bơm cấp
+#bơm cấp nước
+#bơm nhiên liệu
+#máy bơm cấp
+#máy bơm tiếp liệu
+@Lĩnh vực: xây dựng
+#máy bơm cấp nước
+@Lĩnh vực: cơ khí & công trình
+#máy bơm cung cấp
+#máy bơm nạp

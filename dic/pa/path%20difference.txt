@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiệu (số) đường đi
+#hiệu lộ trình
+@Lĩnh vực: vật lý
+#hiệu số đường đi

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#quản lý kho hàng
+#việc kiểm soát hàng tồn trữ
+@Chuyên ngành kỹ thuật
+#quản lý kho trữ
+@Lĩnh vực: thực phẩm
+#quản lý chi tiêu
+@Lĩnh vực: toán & tin
+#sự điều khiển kiểm kê

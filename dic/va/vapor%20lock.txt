@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#nghẽn hơi
+#nút hơi nước
+@Lĩnh vực: xây dựng
+#nút đậy hơi nước
+@Lĩnh vực: ô tô
+#nút hơi nước (ngăn các dòng chất lỏng chảy vào)
+#sự tạo hơi bên trong

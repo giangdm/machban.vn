@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#sự điều chỉnh âm lượng tự động
+@Lĩnh vực: toán & tin
+#sự điều khiển âm lượng tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển dung lượng tự động

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự gọi trực tiếp ngoài vùng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quay số gọi ra trực tiếp

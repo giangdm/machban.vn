@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bề mặt quản lý
+#nhịp cầu kiểm soát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhịp điều khiển

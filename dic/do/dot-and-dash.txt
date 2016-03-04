@@ -1,0 +1,7 @@
+﻿@dot-and-dash /'dɔtən'dæʃ/
+*danh từ
+#bằng chấm và gạch, tạch tè
+=dot-and-dash code: mã moóc (bằng chấm và gạch)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chấm-vạch

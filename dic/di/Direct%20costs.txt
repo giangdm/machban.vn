@@ -1,0 +1,7 @@
+﻿@Direct costs
+#(Econ) Chi phí trực tiếp.
+: Xem VARIABLE COSTS.
+@Chuyên ngành kỹ thuật
+#chi phí trực tiếp
+@Lĩnh vực: điện tử & viễn thông
+#giá thành trực tiếp

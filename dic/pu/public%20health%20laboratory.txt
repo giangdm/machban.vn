@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phòng vệ sinh và bảo vệ sức khoẻ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#Cơ sở xét nghiệm Y tế Cộng đồng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#mũi khoan chia đoạn
+#mũi khoan chia nấc
+#mũi khoan có bậc (kỹ thuật khoan)

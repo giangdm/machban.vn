@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đèn báo
+#đèn chỉ thị
+@Lĩnh vực: vật lý
+#ống biểu thị

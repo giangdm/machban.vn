@@ -1,0 +1,3 @@
+﻿@Z variable
+#(Econ) Biến số Z.
+: Xem NORMAL DISTRIBUTION.

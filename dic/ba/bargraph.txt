@@ -1,0 +1,2 @@
+﻿@bargraph
+#đồ thị dải

@@ -1,0 +1,2 @@
+﻿@dual processor configuration
+#(Tech) cấu hình bộ xử lý kép

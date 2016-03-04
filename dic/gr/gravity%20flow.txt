@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy do trọng lực
+#dòng chảy không áp
+#dòng tự chảy
+#sự chảy do trọng lực
+#sự tự chảy
+@Lĩnh vực: cơ khí & công trình
+#dòng (chảy) trọng lực
+@Lĩnh vực: xây dựng
+#dòng chảy theo trọng lực
+@Lĩnh vực: điện lạnh
+#dòng đối lưu tự nhiên
+@Lĩnh vực: vật lý
+#dòng trọng lực

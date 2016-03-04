@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cấu trúc tiêu chuẩn công nghiệp mở rộng
+@Lĩnh vực: toán & tin
+#chuẩn EISA
+#kiến trúc chuẩn công nghiệp mở rộng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cấu trúc tiêu chuẩn công nghiệp mở rộng
+@Lĩnh vực: toán & tin
+#chuẩn EISA
+#kiến trúc chuẩn công nghiệp mở rộng

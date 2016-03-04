@@ -1,0 +1,2 @@
+﻿@bitmap display
+#(Tech) biểu thị bằng hình chấm/bitmap

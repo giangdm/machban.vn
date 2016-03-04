@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#con trỏ dọc
+@Lĩnh vực: toán & tin
+#con trỏ quét dọc
+#con trỏ thẳng đứng

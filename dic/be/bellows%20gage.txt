@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#calip kiểu hộp xếp
+#dưỡng đo kiểu hộp xếp

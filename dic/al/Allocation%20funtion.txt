@@ -1,0 +1,3 @@
+﻿@Allocation funtion
+#(Econ) Chức năng phân bổ
+: Mật bộ phận của chính sách chi tiêu và thuế của chính phủ liên quan tới việc chi phối cung cấp hàng hoá và dịch trong một nền kinh tế.

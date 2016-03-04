@@ -1,0 +1,7 @@
+﻿@weather forecast ['weðə'fɔ:kɑ:st]
+*danh từ
+# sự báo thời tiết cho ngày hôm sau hoặc vài ngày sau (được phát trên truyền thanh, truyền hình...)
+@Chuyên ngành kỹ thuật
+#dự báo thời tiết
+@Lĩnh vực: điện
+#sự dự báo thời tiết

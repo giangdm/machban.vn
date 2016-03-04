@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ logic thứ cấp
+#đơn vị lôgic thứ cấp

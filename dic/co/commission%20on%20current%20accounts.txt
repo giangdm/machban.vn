@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#lệ phí tài khoản vãng lai
+#phí thủ tục trên các tài khoản vãng lai (của ngân hàng)

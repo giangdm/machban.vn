@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phát xung
+#máy tạo xung
+@Lĩnh vực: điện
+#máy phát điện áp xung
+#máy tạo xung điện áp

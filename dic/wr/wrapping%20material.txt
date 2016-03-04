@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#vật liệu bao quấn
+@Chuyên ngành kỹ thuật
+#vật liệu bọc

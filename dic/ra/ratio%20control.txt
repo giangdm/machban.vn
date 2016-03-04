@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều chỉnh các liên hệ
+#điều khiển theo tỷ số
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển tỉ lệ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nguyên tắc tối ưu hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nguyên tắc của sự tối ưu

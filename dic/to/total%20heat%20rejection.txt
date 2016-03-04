@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ thải nhiệt tổng
+#sự thải nhiệt tổng

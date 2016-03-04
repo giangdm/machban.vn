@@ -1,0 +1,6 @@
+﻿@Test statistic
+#(Econ) Thống kê kiểm định.
+: Một thống kê được tính cho kiểm định giả thiết.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thống kê kiểm định

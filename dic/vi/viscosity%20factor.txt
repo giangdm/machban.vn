@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#độ nhớt
+@Chuyên ngành kỹ thuật
+#độ nhớt
+#hệ số nhớt
+@Lĩnh vực: hóa học & vật liệu
+#thừa số độ nhớt

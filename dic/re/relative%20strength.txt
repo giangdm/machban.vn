@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hệ số bê-ta
+#hệ số giao hồ
+#hệ số giao hỗ
+#sự tác động có liên quan
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ bền tương đối

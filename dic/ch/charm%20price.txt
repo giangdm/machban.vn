@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giá mê hoặc
+#giá tâm lý (như 99 đồng, thay vì 100)

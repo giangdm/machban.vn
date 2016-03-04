@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#màng cách
+#tấm đục lỗ
+@Lĩnh vực: đo lường & điều khiển
+#màng chắn đo
+@Lĩnh vực: điện lạnh
+#tấm chắn đo
+#tấm đo đục lỗ
+#tấm đục lỗ đo

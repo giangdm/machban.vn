@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#kiểm tra công tác quản lý
+#kiểm tra tình hình điều hành
+@Chuyên ngành kỹ thuật
+#sự kiểm tra quản lý

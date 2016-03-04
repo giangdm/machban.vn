@@ -1,0 +1,6 @@
+﻿@self-diagnostic
+*danh từ
+#(tin học) sự tự chẩn đoán, sự tự tìm lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tự chuẩn đoán

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#trục quạt bơm
+@Lĩnh vực: toán & tin
+#trục quay bơm

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#số liệu chữ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dữ liệu (dạng) kí tự
+#dữ liệu ký tự

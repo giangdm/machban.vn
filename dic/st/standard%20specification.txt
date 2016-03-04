@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#quy cách tiêu chuẩn
+@Chuyên ngành kỹ thuật
+#điều kiện kỹ thuật
+#quy phạm
+#tiêu chuẩn kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#quy cách tiêu chuẩn
+@Lĩnh vực: cơ khí & công trình
+#sự đặc tả tiêu chuẩn

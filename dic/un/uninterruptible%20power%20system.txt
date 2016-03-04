@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ nguồn không khả ngắt
+#bộ nguồn liên tục UPS

@@ -1,0 +1,2 @@
+﻿@EIA interface
+#(Tech) giao diện theo tiêu chuẩn EIA (Hội Kỹ Nghệ Điện Tử)

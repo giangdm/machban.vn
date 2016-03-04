@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tấn cước
+#tấn trọng tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#tấn cước
+#tấn theo tải trọng

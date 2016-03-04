@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#cột áp
+#cột áp của bơm
+@Lĩnh vực: điện lạnh
+#chiều cao đẩy của bơm
+#chiều cao hút của bơm
+#cột áp máy bơm
+@Lĩnh vực: xây dựng
+#cột bơm áp
+@Lĩnh vực: cơ khí & công trình
+#cột nước bơm

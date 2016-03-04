@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tụ (điện) khởi động
+@Lĩnh vực: điện
+#tụ khởi động

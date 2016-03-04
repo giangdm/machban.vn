@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bỏ sự xóa
+#hồi phục xóa
+#hủy sự xóa
+#không xóa (dữ liệu đã xóa)

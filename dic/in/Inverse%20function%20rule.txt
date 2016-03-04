@@ -1,0 +1,3 @@
+﻿@Inverse function rule
+#(Econ) Quy tắc hàm ngược.
+: Một quy tắc xác định đạo hàm của một hàm số, trong đó biến số mà chúng ta muốn lấy đạo hàm được biểu diễn dưới dạng biến phụ thuộc.

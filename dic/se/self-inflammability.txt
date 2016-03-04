@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ tự (bốc) cháy
+#tính tự (bốc) cháy (có ngọn lửa)

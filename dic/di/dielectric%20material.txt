@@ -1,0 +1,4 @@
+﻿@dielectric material
+#(Tech) chất điện môi
+@Chuyên ngành kỹ thuật
+#vật liệu điện môi

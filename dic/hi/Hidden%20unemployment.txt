@@ -1,0 +1,5 @@
+﻿@Hidden unemployment
+#(Econ) Thất nghiệp ẩn.
+: Còn gọi là thất nghiệp trá hình. Vì lực lượng lao động biến đổi tuần hoàn, nên người ta lập luận rằng số người thất nghiệp được thông báo phản ánh không hết lượng người thất nghiệp thực sự do không tính những công nhân chán nản.
+@Chuyên ngành kinh tế
+#thất nghiệp ẩn tàng, trá hình

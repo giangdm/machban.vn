@@ -1,0 +1,39 @@
+﻿@adjustment /ə'dʤʌstmənt/
+*danh từ
+#sự sửa lại cho đúng, sự điều chỉnh, sự chỉnh lý
+=adjustment in direction: (quân sự) sự điều chỉnh hướng
+=adjustment in range: (quân sự) sự điều chỉnh tầm
+#sự hoà giải, sự dàn xếp (mối bất hoà, cuộc phân tranh...)
+@Chuyên ngành kinh tế
+#sự chỉnh lý
+#sự chữa lại
+#sự điều chỉnh (về kinh tế, giá cả)
+#tính toán điều chỉnh
+@Chuyên ngành kỹ thuật
+#bình sai
+#điều chỉnh
+#hiệu chỉnh
+#sự chỉnh tinh
+#sự điều chỉnh
+#sự điều tiết
+#sự hiệu chỉnh
+#sự khống chế
+#sự kiểm nghiệm
+#sự làm thích nghi
+#sự lắp ráp
+#sự thích ứng
+#sự thiết đặt
+#sự thiết lập
+#việc điều chỉnh
+@Lĩnh vực: cơ khí & công trình
+#bình sai (trắc địa)
+@Lĩnh vực: toán & tin
+#căn chỉnh cho đúng
+@Lĩnh vực: xây dựng
+#sự hiệu chính
+@Lĩnh vực: điện lạnh
+#sự làm khớp
+<!-- more -->
+@adjustment
+#sự điều chỉnh
+#a. of rates mt đặc trưng của các tỷ số thống kê

@@ -1,0 +1,3 @@
+﻿@Yeild gap
+#(Econ) Chênh lệch lợi tức.
+: Mức khác biệt giữa lợi tức trung bình đối với cổ phần và tỷ lệ thu hồi tương ứng đối với các chứng khoán dài hạn có lãi suất cố định.

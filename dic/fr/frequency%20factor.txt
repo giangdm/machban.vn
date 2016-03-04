@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số tần số
+#nhân tử tần số
+@Lĩnh vực: điện tử & viễn thông
+#nhân tử tấn số

@@ -1,0 +1,3 @@
+﻿@Equilibrium error
+#(Econ) Sai số cân bằng
+: Khi một nhóm các biến số được liên kết với nhau trong một mô hình HỒI QUY là đồng liên kết (xem COINTEGRATION)  thì thành phần nhiễu được gọi là sai số cân bằng.

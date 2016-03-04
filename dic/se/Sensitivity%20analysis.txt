@@ -1,0 +1,14 @@
+﻿@Sensitivity analysis
+#(Econ) Phân tích độ nhạy cảm.
+: Phân tích độ nhạy cảm liên quan đến việc thay đổi các thông số theo bài toán ra quyết định và nghiên cứu xem việc thay đổi này ảnh hưởng đến kết quả như thế nào.
+@Chuyên ngành kinh tế
+#phân tích độ cảm ứng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#phân tích độ nhạy
+@Lĩnh vực: giao thông & vận tải
+#phân tích sự nhạy cảm
+@Lĩnh vực: điện
+#phép phân tích tính nhạy
+@Lĩnh vực: toán & tin
+#sự phân tích nhạy

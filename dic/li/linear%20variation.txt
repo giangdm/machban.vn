@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#biến thiên tuyến tính
+@Lĩnh vực: xây dựng
+#biến thiên theo chiều dài
+@Chuyên ngành kỹ thuật
+#biến thiên tuyến tính
+@Lĩnh vực: xây dựng
+#biến thiên theo chiều dài

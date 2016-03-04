@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cân bằng nhiệt chung
+#tổng cân bằng nhiệt

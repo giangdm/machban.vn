@@ -1,0 +1,5 @@
+﻿@Bills only
+#(Econ) Chỉ có nghiệp vụ hối phiếu.
+: Chủ thuyết thịnh hành ở Mỹ những năm 1950, cho rằng khi tham gia vào CÁC NGHIỆP VỤ THỊ TRƯỜNG MỞ, HỆ THỐNG DỰ TRỮ LIÊN BANG chỉ tiến hành các nghiệp vụ mua bán hối phiếu. Điều này dựa trên quan điểm  rằng bằng các tập trung vào thị trường vốn ngắn hạn, những nghiệp vụ này sẽ đạt được ảnh hưởng dự tính trước đối với khả năng chuyển hoán của ngân hàng với ít xáo trộn nhất đối với thị trường tài chính nói chung. Đồng thời những thay đổi diễn ra với lãi suất ngắn hạn sẽ ảnh hưởng đến các thị trường khác thông qua phương tiện thông thường của các điều chỉnh danh mục đầu tư của ngươi nước ngoài nắm giữ.
+@Chuyên ngành kinh tế
+#chỉ có nghiệp vụ trái phiếu

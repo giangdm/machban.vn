@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bù trừ, khấu trừ
+@Chuyên ngành kỹ thuật
+#phần lồi
+#răng

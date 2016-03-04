@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#vận tốc kéo theo
+@Lĩnh vực: toán & tin
+#vận tốc trôi
+@Lĩnh vực: cơ khí & công trình
+#vận tốc trôi dạt

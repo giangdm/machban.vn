@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ chờ
+#thời gian chờ
+#thời gian xếp hàng

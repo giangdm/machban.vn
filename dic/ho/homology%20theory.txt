@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lý thuyết đồng đều
+#lý thuyết đồng điều
+@Lĩnh vực: điện tử & viễn thông
+#lý thuyết đồng điệu

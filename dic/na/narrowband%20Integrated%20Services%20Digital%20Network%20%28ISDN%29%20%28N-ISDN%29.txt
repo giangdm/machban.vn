@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Mạng số liên kết đa dịch vụ băng hẹp (ISDN)

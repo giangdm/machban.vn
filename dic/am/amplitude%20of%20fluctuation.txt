@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#biên độ dao động
+#biên độ sóng

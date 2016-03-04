@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cái ghi số nhân
+@Lĩnh vực: điện tử & viễn thông
+#thanh ghi số nhân

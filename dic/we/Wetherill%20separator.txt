@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ phân ly Wetherill
+@Lĩnh vực: điện
+#máy tách Wetherill

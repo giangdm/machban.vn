@@ -1,0 +1,7 @@
+﻿@Preferential hiring
+#(Econ) Sự thuê người ưu tiên.
+: Một người chủ dành ưu tiên cho việc thuê những công đoàn viên mặc dù ông ta đã không thoả thuận chỉ thuê công đoàn viên hoặc điều khiển một doanh nghiệp chỉ dùng thành viên công đoàn.
+@Chuyên ngành kinh tế
+#sự thuê ưu tiên (người làm công có chân trong công đoàn)
+#sự thuế ưu tiên (người làm công có chân trong công đoàn)
+#ưu tiên thuê người làm công

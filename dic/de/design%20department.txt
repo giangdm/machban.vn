@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phòng kế hoạch
+#phòng nghiên cứu
+@Chuyên ngành kỹ thuật
+#phòng thiết kế

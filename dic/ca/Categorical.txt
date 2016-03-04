@@ -1,0 +1,13 @@
+﻿@Categorical
+#(Econ) Trợ cấp chọn lọc.
+: Xem GRANT
+<!-- more -->
+@categorical /,kæti'gɔrikəl/
+*tính từ
+#tuyệt đối, khẳng định, vô điều kiện
+#rõ ràng, minh bạch; xác thực
+@Chuyên ngành kỹ thuật
+#phạm trù
+<!-- more -->
+@categorical
+#(thuộc) phạm trù

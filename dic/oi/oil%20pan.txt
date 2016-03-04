@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bể dầu
+#máng dầu
+#thùng dầu
+@Lĩnh vực: ô tô
+#bể dầu (đáy các te)
+#máng dầu (nhớt)
+@Lĩnh vực: hóa học & vật liệu
+#vỏ máy bọc dầu (cacte)

@@ -1,0 +1,6 @@
+﻿@Partial adjustment
+#(Econ) Điều chỉnh từng phần.
+: Một quá trình mà theo đó hành vi được điều chỉnh một cách không hoàn chỉnh hướng tới một mức mong muốn nào đó.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#bình sai từng phần

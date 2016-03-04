@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giá hàng hóa định kỳ hạn
+#giá kỳ hạn
+#giao sau

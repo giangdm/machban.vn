@@ -1,0 +1,7 @@
+﻿@computer analyst
+#(Tech) phân tích viên điện toán
+@Chuyên ngành kinh tế
+#người phân tích máy tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhà phân tích máy tính

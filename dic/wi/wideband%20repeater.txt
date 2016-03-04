@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ chuyển tiếp dải rộng
+#bộ lặp băng (thông) rộng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự tạo xung ngẫu nhiên
+@Lĩnh vực: điện lạnh
+#tạo xung ngẫu nhiên

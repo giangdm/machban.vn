@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mức chất lượng có thể loại bỏ
+#mức chất lượng giới hạn
+#phần trăm dung sai khuyết tật của lô

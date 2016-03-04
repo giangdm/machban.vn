@@ -1,0 +1,11 @@
+﻿@Welfare state
+#(Econ) Nhà nước phúc lợi.
+: Thường được hiểu là một quốc gia có chính phủ đóng một vai trò tích cực trong việc chú trọng phát triển phúc lợi xã hội.
+@Chuyên ngành kinh tế
+#nhà nước phúc lợi
+@Chuyên ngành kỹ thuật
+#phúc lợi nhà nước
+<!-- more -->
+@welfare state
+*danh từ
+#(the Welfare State) hệ thống phúc lợi xã hội (hệ thống đảm bảo phúc lợi cho công dân bằng các phương tiện dịch vụ xã hội do nhà nước cung cấp; lương hưu, phụ cấp gia đình, chăm sóc y tế miễn phí )

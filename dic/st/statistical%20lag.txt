@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ trễ thống kê (thời gian)
+@Lĩnh vực: điện
+#thời gian trễ thống kê

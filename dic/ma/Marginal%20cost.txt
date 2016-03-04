@@ -1,0 +1,11 @@
+﻿@Marginal cost
+#(Econ) Chi phí cận biên.
+: Là chi phí tăng thêm cho việc sản xuất thêm một đơn vị sản lượng.
+@Chuyên ngành kinh tế
+#chi phí biên
+#người tiêu dùng biên tế
+#phí tổn biên tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chi phí biên chế
+#chi phí giới hạn

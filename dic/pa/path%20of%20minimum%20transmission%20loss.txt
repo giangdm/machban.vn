@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đường sút giảm lan truyền tối thiểu
+#đường suy giảm lan truyền tối thiểu

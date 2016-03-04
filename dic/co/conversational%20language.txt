@@ -1,0 +1,6 @@
+﻿@conversational language
+#(Tech) ngôn ngữ đối thoại
+@Chuyên ngành kỹ thuật
+#ngôn ngữ hội thoại
+@Lĩnh vực: toán & tin
+#ngôn ngữ đàm thoại

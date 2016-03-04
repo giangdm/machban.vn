@@ -1,0 +1,3 @@
+﻿@Comparative costs
+#(Econ) Chi phí so sánh.
+: Xem COMPARATIVE ADVANTAGE.

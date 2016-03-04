@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#quy hoạch nguyên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lập trình số nguyên
+#quy hoạch nguyên

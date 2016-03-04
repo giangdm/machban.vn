@@ -1,0 +1,7 @@
+﻿@Factor endowment
+#(Econ) Nguồn lực sẵn có; Nguồn tài nguyên sẵn có; Sự sở hữu các yếu tố sản xuất; tính sẵn có, lượng các yếu tố sản xuất.
+: Mức độ sẵn có các yếu tố sản xuất trong một vùng hay một nước thường là đất đai, lao động, vốn và kỹ thuật.
+@Chuyên ngành kinh tế
+#nguồn lực
+#nguồn lực (các yếu tố sản xuất)
+#nguồn tài nguyên

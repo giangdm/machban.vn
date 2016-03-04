@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện trở nhiệt PTC
+#tecmisto có hệ số nhiệt độ dương
+#tecmisto PTC

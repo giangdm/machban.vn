@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cấu kiện theo môđun
+#gạch papanh theo môđun
+@Lĩnh vực: điện tử & viễn thông
+#môđun đơn vị
+@Lĩnh vực: cơ khí & công trình
+#thiết bị modun

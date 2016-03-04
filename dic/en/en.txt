@@ -1,0 +1,4 @@
+﻿@en /en/
+*danh từ
+#N,  n (chữ cái)
+#n (đơn vị đo dòng chữ in, hẹp hơn m)

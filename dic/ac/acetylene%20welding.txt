@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hàn gió đá
+#hàn hơi
+#sự hàn bằng axetylen
+#sự hàn bằng oxy
+@Lĩnh vực: hóa học & vật liệu
+#sự hàn bằng axetilen
+@Lĩnh vực: xây dựng
+#sự hàn dùng khí axetylen
+#sự hàn hơi đá

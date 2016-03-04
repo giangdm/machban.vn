@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng chia
+#vòng lăn
+#vòng tròn chia
+#vòng tròn lăn
+#vòng tròn sinh
+@Lĩnh vực: cơ khí & công trình
+#đường chia
+@Lĩnh vực: xây dựng
+#tuyến dốc

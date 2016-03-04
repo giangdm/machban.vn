@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#xác suất hậu nghiệm
+@Chuyên ngành kỹ thuật
+#xác suất hậu nghiệm
+@Lĩnh vực: cơ khí & công trình
+#xác suất sau

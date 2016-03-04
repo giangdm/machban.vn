@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#buồng thử nghiệm
+#giá thử nghiệm
+@Lĩnh vực: điện lạnh
+#khoang thử nghiệm

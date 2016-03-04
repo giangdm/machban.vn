@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#chỗ thắt hình trụ
+#chỗ thắt từ
+#hiệu ứng bóp
+#hiệu ứng thắt
+@Lĩnh vực: điện
+#hiệu ứng thắt (kẹp)

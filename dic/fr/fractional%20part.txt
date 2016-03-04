@@ -1,0 +1,6 @@
+﻿@fractional part
+#(Tech) phần số lẻ, phần phân số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần phân số
+#phần thập phân

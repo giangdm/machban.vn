@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chứng khoán không đăng ký
+#chứng khoán không yết giá chính thức (ở sở giao dịch)
+#chứng khoán ngoài bảng giá
+#chứng khoán ngoài danh mục

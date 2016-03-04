@@ -1,0 +1,7 @@
+﻿@assembler language
+#(Tech) hợp ngữ, ngôn ngữ (chương trình) tổ hợp
+@Chuyên ngành kỹ thuật
+#hợp ngữ
+@Lĩnh vực: toán & tin
+#ngôn ngữ assembly
+#ngôn ngữ hợp dịch

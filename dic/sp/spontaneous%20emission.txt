@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bức xạ tự phát
+#phát xạ tự phát
+@Lĩnh vực: điện lạnh
+#bức xạ tự phát (từ hệ ở trạng thái kích thích)
+@Lĩnh vực: toán & tin
+#sự phát xạ tự phát

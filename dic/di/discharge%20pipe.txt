@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#ống tháo
+#ống tháo nước
+#ống xả
+#ống xả (máy bơm)
+#ống xả nước
+@Lĩnh vực: ô tô
+#đường ống ra
+@Lĩnh vực: hóa học & vật liệu
+#ống dỡ liệu

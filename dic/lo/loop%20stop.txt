@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điểm dừng vòng lặp
+#sự dừng vòng lặp
+@Lĩnh vực: điện tử & viễn thông
+#dừng chu trình

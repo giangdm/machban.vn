@@ -1,0 +1,6 @@
+﻿@Relative price
+#(Econ) Giá tương đối.
+: Xem PRICE.
+@Chuyên ngành kinh tế
+#giá tương đối
+#tỉ giá

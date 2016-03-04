@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#người tổ chức riêng
+#sổ nhật ký
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tổ chức cá thể

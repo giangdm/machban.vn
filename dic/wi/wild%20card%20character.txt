@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ký tự đại diện
+#ký tự thay thế
+@Lĩnh vực: toán & tin
+#ký tự đặc trưng

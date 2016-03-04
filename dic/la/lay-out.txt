@@ -1,0 +1,25 @@
+﻿@lay-out /'leiaut/
+*danh từ
+#cách bố trí, cách trình bày; sự sắp đặt
+#sơ đồ bố trí, sơ đồ trình bày,  maket (một cuốn sách, một tờ báo, tranh quảng cáo...)
+#(từ Mỹ,nghĩa Mỹ) bộ dụng c
+@Chuyên ngành kỹ thuật
+#cách bố trí
+#hệ dụng cụ
+#hệ thống (tuyến)
+#mạng lưới
+#mặt bằng
+#mô hình
+#sự sắp xếp
+@Lĩnh vực: toán & tin
+#cách sắp đặt
+@Chuyên ngành kỹ thuật
+#cách bố trí
+#hệ dụng cụ
+#hệ thống (tuyến)
+#mạng lưới
+#mặt bằng
+#mô hình
+#sự sắp xếp
+@Lĩnh vực: toán & tin
+#cách sắp đặt

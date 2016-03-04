@@ -1,0 +1,6 @@
+﻿@Outside lag
+#(Econ) Độ trễ bên ngoài.
+: Là sự trễ giữa việc thực thi một chính sách (kinh tế vĩ mô) và tác động toàn bộ hay hoàn toàn của nó.
+@Chuyên ngành kinh tế
+#độ trễ bên ngoài
+#độ trễ ngoài

@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kỹ thuật
+#loại khởi động bằng nút bấm (chấn lưu)

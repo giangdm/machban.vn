@@ -1,0 +1,10 @@
+﻿@data carrier
+#(Tech) vật mang dữ liệu
+@Chuyên ngành kỹ thuật
+#đĩa
+#môi trường ghi
+#phương tiện nhớ
+#tập nhớ
+#vật mang dữ liệu
+@Lĩnh vực: toán & tin
+#sóng mang dữ liệu

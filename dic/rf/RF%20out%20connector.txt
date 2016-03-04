@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đầu ra ở tín hiệu RF
+@Lĩnh vực: toán & tin
+#đầu ra tín hiệu RF

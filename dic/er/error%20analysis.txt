@@ -1,0 +1,20 @@
+﻿@error analysis
+#(Tech) phân tích sai lầm; phân tích sai số
+@Chuyên ngành kinh tế
+#sự phân tích (các) sai sót
+@Chuyên ngành kỹ thuật
+#phân tích độ sai
+#phân tích lỗi
+#sự phân tích sai số
+@Lĩnh vực: điện lạnh
+#phân tích sai số
+@Lĩnh vực: toán & tin
+#sự phân tích lỗi
+@Chuyên ngành kỹ thuật
+#phân tích độ sai
+#phân tích lỗi
+#sự phân tích sai số
+@Lĩnh vực: điện lạnh
+#phân tích sai số
+@Lĩnh vực: toán & tin
+#sự phân tích lỗi

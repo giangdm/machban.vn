@@ -1,0 +1,8 @@
+﻿@DIP switch
+#(Tech) công tắc thẳng hai hàng (trong thẻ chữ); công tắc biến quang
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công tác DIP
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuyển mạch DIP

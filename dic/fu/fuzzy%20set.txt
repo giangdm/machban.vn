@@ -1,0 +1,6 @@
+﻿@fuzzy set
+#(Tech) tập hợp mờ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập (hợp) mơ hồ
+#tập hợp mơ hồ

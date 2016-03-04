@@ -1,0 +1,2 @@
+﻿@graphical user interface (GUI) = graphical interface
+#(Tech) giao diện đồ họa cho người dùng, gu-i

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kết cấu dạng cột
+@Lĩnh vực: hóa học & vật liệu
+#kiến trúc dạng cột

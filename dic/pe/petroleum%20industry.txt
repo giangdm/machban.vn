@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công nghiệp dầu mỏ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#công nghiệp dầu mỏ
+@Lĩnh vực: cơ khí & công trình
+#ngành công nghiệp dầu mỏ

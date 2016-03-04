@@ -1,0 +1,8 @@
+﻿@gray scale
+#(Tech) thang độ xám
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dải màu xám
+#mức độ đậm nhạt
+@Lĩnh vực: xây dựng
+#thang đo xám

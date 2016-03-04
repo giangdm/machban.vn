@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#chất hút ẩm
+#silicagen
+@Lĩnh vực: hóa học & vật liệu
+#gen silic
+@Lĩnh vực: điện lạnh
+#silicagel
+@Lĩnh vực: xây dựng
+#silicagen (chất chống ẩm)
+@Lĩnh vực: thực phẩm
+#silicagen (khử ẩm)
+@Lĩnh vực: điện
+#xilicagel (hạt hút ẩm bằng SiO2)

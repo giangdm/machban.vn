@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#áp kế iôn
+@Lĩnh vực: đo lường & điều khiển
+#áp kế chân không iôn hóa
+#áp kế chân không nhiệt iôn

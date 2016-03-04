@@ -1,0 +1,7 @@
+﻿@damping resistance
+#(Tech) điện trở suy giảm
+@Chuyên ngành kỹ thuật
+#điện trở cản dịu
+#lực cản tắt dần
+@Lĩnh vực: cơ khí & công trình
+#sức chống rung

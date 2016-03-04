@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tỷ lệ bước xoắn
+@Lĩnh vực: điện
+#tỷ số bước xoắn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tỷ lệ bước xoắn
+@Lĩnh vực: điện
+#tỷ số bước xoắn

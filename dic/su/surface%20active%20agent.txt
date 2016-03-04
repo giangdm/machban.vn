@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chất hoạt động bề mặt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#chất hoạt tính trên bề mặt
+@Lĩnh vực: môi trường
+#tác nhân hoạt tính bề mặt

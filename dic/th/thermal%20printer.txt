@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy in nhiệt (của vi tính)
+#máy in nhiệt (máy vi tính)
+#máy in nhiệt của máy vi tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy in nhiệt

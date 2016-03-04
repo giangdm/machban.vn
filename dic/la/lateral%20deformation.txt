@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng trên phương ngang
+@Lĩnh vực: cơ khí & công trình
+#biến dạng hông
+@Lĩnh vực: điện lạnh
+#biến dạng ngang
+#độ phóng đại ngang
+@Chuyên ngành kỹ thuật
+#biến dạng trên phương ngang
+@Lĩnh vực: cơ khí & công trình
+#biến dạng hông
+@Lĩnh vực: điện lạnh
+#biến dạng ngang
+#độ phóng đại ngang

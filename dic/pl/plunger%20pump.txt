@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm loại thoi đẩy
+#bơm pittông
+#bơm pittông dài
+#máy bơm kiểu trụ trượt
+#máy bơm phụt
+#máy bơm trụ trượt
+@Lĩnh vực: xây dựng
+#bơm chìm (dưới nước)
+#máy bơm (kiểu) pittông
+#máy bơm thụt
+@Lĩnh vực: ô tô
+#bơm nhớt dạng pittông
+@Lĩnh vực: cơ khí & công trình
+#máy bơm pittông dài

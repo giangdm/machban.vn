@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#đất (ngậm nước) không ổn định
+#đất cát chảy
+#đất chảy
+#đất di chuyển
+#đất không ổn định
+#đất tơi
+#đất yếu
+@Lĩnh vực: xây dựng
+#tầng cát chảy
+#tầng đất lưu động

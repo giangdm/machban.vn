@@ -1,0 +1,3 @@
+﻿@Foreign payments
+#(Econ) Thanh toán với nước ngoài.
+: Bất kỳ khoản thanh toán nào được tiến hành với nước ngoài dù để đổi lấy hàng hóa và dịch vụ, hay để thanh toán nợ; việc thanh toán này phải được thanh toán bằng tiền mạnh. Xem Foreign aid.

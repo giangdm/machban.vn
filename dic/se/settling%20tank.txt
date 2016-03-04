@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#thùng làm trong
+#thùng lắng
+@Chuyên ngành kỹ thuật
+#bẫy tách
+#bể kết tủa
+#bể lắng
+#ngăn bể lắng
+#máy lắng
+#máy phân ly
+@Lĩnh vực: điện lạnh
+#bể gạn
+@Lĩnh vực: hóa học & vật liệu
+#thùng lắng (kỹ thuật khoan)

@@ -1,0 +1,7 @@
+﻿@Offer price
+#(Econ) Giá chào.
+@Chuyên ngành kinh tế
+#giá bán ra
+#giá chào
+#giá đưa ra (của bên bán)
+#giá phát hành (cổ phiếu của thị trường chứng khoán)

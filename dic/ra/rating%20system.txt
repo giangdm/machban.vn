@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự tính cơ sở
+#sự tính cơ sở (thuế địa phương)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống đánh giá

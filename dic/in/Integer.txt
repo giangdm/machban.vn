@@ -1,0 +1,22 @@
+﻿@Integer
+#(Econ) Số nguyên
+: Một số tròn, không có phần thập phân hay phân số.
+<!-- more -->
+@integer /'intidʤə/
+*danh từ
+#(toán học) số nguyên
+#cái nguyên, vật trọn vẹn, tổng thể, toàn bộ
+@Chuyên ngành kinh tế
+#số nguyên
+@Chuyên ngành kỹ thuật
+#nguyên
+@Lĩnh vực: toán & tin
+#số nguyên
+<!-- more -->
+@integer
+#số nguyên
+#complex i. số nguyên phức, số nguyên Gauxơ
+#Gaussian i. số nguyên Gauxơ
+#multidigit i. số nguyên nhiều chữ số
+#negative i. số nguyên âm
+#positive i. số nguyên dương

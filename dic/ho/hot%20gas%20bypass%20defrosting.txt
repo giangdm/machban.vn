@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#xả băng bằng bypas gas nóng
+#xả băng bằng đường tắt ga nóng
+#xả tuyết bằng đường tắt hơi nóng

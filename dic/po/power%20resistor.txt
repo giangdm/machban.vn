@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cai điện trở công suất
+@Lĩnh vực: điện lạnh
+#điện trở công suất

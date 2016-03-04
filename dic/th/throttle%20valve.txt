@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#bướm ga
+#nắp bịt hơi (ga)
+#nắp van
+#van bướm
+#van giảm áp
+#van hạn chế
+#van tiết lưu
+@Lĩnh vực: cơ khí & công trình
+#cánh bướm ga
+@Lĩnh vực: ô tô
+#van bướm ga
+#van kick-down (hộp số)

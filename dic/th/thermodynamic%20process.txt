@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#quá trình (chu trình) nhiệt động (lực) học
+#quá trình nhiệt động
+@Lĩnh vực: điện lạnh
+#quá trình nhiệt động (lực)

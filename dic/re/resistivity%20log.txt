@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#log điện trở suất (đo lỗ khoan)
+@Lĩnh vực: hóa học & vật liệu
+#biểu đồ điện trở suất

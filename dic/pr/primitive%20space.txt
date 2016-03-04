@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các góc tọa độ
+#không gian cơ bản
+#không gian gốc

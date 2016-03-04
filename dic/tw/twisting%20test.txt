@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thí nghiệm khúc lượn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự thí nghiệm nén xoắn
+@Lĩnh vực: xây dựng
+#sự thí nghiệm xoắn
+#thí nghiệm xoắn

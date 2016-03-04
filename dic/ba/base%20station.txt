@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đài gốc
+#điểm mốc
+@Lĩnh vực: điện tử & viễn thông
+#đài cơ bản
+#đài cơ sở
+#trạm cơ sở (vô tuyến)
+@Lĩnh vực: toán & tin
+#trạm cơ sở

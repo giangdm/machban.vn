@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#dấu kết thúc
+@Lĩnh vực: toán & tin
+#dấu hiệu kết thúc
+@Lĩnh vực: điện tử & viễn thông
+#nhãn kết thúc
+@Chuyên ngành kỹ thuật
+#dấu kết thúc
+@Lĩnh vực: toán & tin
+#dấu hiệu kết thúc
+@Lĩnh vực: điện tử & viễn thông
+#nhãn kết thúc

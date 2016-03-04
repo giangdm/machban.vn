@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kỹ thuật
+#đo các yếu tố địa lý bằng dòng điện từ trường trái đất

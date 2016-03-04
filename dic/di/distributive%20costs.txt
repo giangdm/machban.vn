@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#các chi phí phân bổ (chi phí bán hàng)
+#các chi phí phân phối

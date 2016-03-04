@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bền rung
+@Lĩnh vực: xây dựng
+#ổn định rung

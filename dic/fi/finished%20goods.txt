@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#thành phẩm, hàng hóa cuối cùng
+@Chuyên ngành kỹ thuật
+#hàng hóa hoàn thiện
+#thành phẩm
+@Lĩnh vực: dệt may
+#hàng hóa hoàn tất
+#hàng hóa hoàn thành
+@Chuyên ngành kỹ thuật
+#hàng hóa hoàn thiện
+#thành phẩm
+@Lĩnh vực: dệt may
+#hàng hóa hoàn tất
+#hàng hóa hoàn thành

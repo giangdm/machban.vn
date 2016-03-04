@@ -1,0 +1,17 @@
+﻿@Self-financing
+#(Econ) Tự tài trợ.
+@Chuyên ngành kinh tế
+#sự tự lo vốn
+#sự tự ra vốn
+#tự huy động vốn
+#tự lo vốn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự tự tài chính
+@Lĩnh vực: xây dựng
+#tự chi phí
+#vốn tự có
+<!-- more -->
+@self-financing
+*tính từ
+#tự hạch toán

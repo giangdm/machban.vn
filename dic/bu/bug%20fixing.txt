@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự gỡ rối
+#sự hiệu chỉnh lỗi
+#sự sửa lỗi

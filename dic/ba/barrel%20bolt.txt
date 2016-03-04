@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bu long hình trụ
+#chốt hình trụ
+#chốt ống
+#chốt trượt

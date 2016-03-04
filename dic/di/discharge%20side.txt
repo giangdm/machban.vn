@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#phía cho vào
+@Chuyên ngành kỹ thuật
+#phía dỡ tải
+#phía xả
+@Lĩnh vực: ô tô
+#bên xả
+@Lĩnh vực: điện lạnh
+#phía đẩy
+@Lĩnh vực: cơ khí & công trình
+#phía dỡ tải (máy)

@@ -1,0 +1,9 @@
+﻿@Unbiased estimator
+#(Econ) Ước lượng không chệch.
+: Xem BEST LINEAR UNBIASED ESTIMATOR.
+@Chuyên ngành kinh tế
+#thống kê ước lượng đủ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ước lượng không chệch
+#ước lượng không chêch lệch

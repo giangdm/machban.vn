@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng phân phối điện
+#bộ phân phối
+@Lĩnh vực: toán & tin
+#khung phân phối
+@Lĩnh vực: xây dựng
+#tủ phân phối điện

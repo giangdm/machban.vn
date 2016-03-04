@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bảo quản cryo
+@Lĩnh vực: toán & tin
+#bộ nhớ cryogenic
+#kho đông lạnh

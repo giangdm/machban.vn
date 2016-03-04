@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#chi tiền
+#đóng tiền
+#trả tiền
+#xuất tiền trả
+@Chuyên ngành kỹ thuật
+#trả (tiền)
+@Lĩnh vực: giao thông & vận tải
+#xông ra (xích)

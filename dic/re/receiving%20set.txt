@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy thâu
+@Lĩnh vực: điện lạnh
+#máy thu vô tuyến
+@Lĩnh vực: toán & tin
+#máy thu, bộ thu

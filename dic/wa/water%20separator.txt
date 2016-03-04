@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị tách nước
+@Chuyên ngành kỹ thuật
+#bẫy nước
+#bình tách nước
+#van tháo nước
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị khử nước
+@Lĩnh vực: xây dựng
+#thiết bị tách nước

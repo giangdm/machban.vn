@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cánh lái điều khiển
+#mặt điều khiển
+@Lĩnh vực: giao thông & vận tải
+#bánh lái hướng
+#cánh lái
+@Lĩnh vực: vật lý
+#bề mặt điều khiển

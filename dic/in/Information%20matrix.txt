@@ -1,0 +1,5 @@
+﻿@Information matrix
+#(Econ) Ma trận Thông tin.
+: Ma trận gồm các đạo hàm bậc hai của HÀM XÁC SUẤT trong ước lượng xác suất lớn nhất của mô hinh kinh tế lượng.
+@Chuyên ngành kỹ thuật
+#ma trận thông tin

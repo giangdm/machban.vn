@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ phát xạ
+#khả năng bức xạ
+@Lĩnh vực: xây dựng
+#tính phát xạ

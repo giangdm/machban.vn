@@ -1,0 +1,10 @@
+﻿@plimsoll line
+*danh từ
+#vạch tải trọng (vạch đánh dấu trên vỏ tàu để đánh dấu mức tối đa mà nó có thể chìm xuống khi chất hàng hoá)
+@Chuyên ngành kinh tế
+#đường ngấn nước Plimsoll (tàu thủy)
+@Chuyên ngành kinh tế
+#đường ngấn nước chở nặng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#dấu hiệu chở hàng

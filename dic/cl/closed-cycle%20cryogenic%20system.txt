@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ cryo chu trình kín
+#hệ cryo vòng tuần hoàn kín

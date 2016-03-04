@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#trạm vận chuyển (máy rửa chai)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#trạm bốc xếp hàng
+#trạm nạp liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#trạm bốc xếp hàng
+#trạm nạp liệu

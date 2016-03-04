@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chỉ báo PPI (rađa)
+@Lĩnh vực: vật lý
+#bộ chỉ báo quét mặt tròn (panposition indicator)

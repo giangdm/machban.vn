@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#định mức năng suất
+#định mức sản phẩm
+@Lĩnh vực: toán & tin
+#tốc độ đầu ra
+#tốc độ xuất

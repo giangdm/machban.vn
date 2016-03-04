@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức thông tin định tuyến
+@Lĩnh vực: điện tử & viễn thông
+#Giao thức thông tin định tuyến- Một giao thức trong RFC 1058 quy định các bộ định tuyến trao đổi thông tin định tuyến như thế nào

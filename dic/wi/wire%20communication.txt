@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự truyền đường dây
+#sự truyền hữu tuyến
+#thông tin đường dây
+#truyền thông qua dây (điện)
+@Lĩnh vực: điện tử & viễn thông
+#truyền thông hữu tuyến

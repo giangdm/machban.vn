@@ -1,0 +1,16 @@
+﻿@bill of lading
+#vận đơn
+@Chuyên ngành kinh tế
+#hóa đơn vận chuyển đường biển
+#tải hóa đơn
+#vận đơn
+#vận hóa đơn
+#vận tải đơn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hóa đơn vận chuyển (đường biển)
+@Lĩnh vực: giao thông & vận tải
+#hóa đơn vận tải
+#vận đơn
+@Lĩnh vực: điện
+#vận đơn (đường biển)

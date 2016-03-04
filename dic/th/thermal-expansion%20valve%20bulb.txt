@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bầu cảm nhiệt của van dãn nở (tiết lưu) nhiệt
+#bầu van tiết lưu nhiệt

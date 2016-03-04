@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt kế chỉ thị
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt kế có chỉ thị

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn bền kéo
+#ứng suất gãy
+#ứng suất phá hoại
+#ứng suất phá hủy
+#ứng suất tới hạn
+@Lĩnh vực: toán & tin
+#ứng suất giới hạn (gãy)
+#ứng suất phá hoại (gãy)
+@Lĩnh vực: cơ khí & công trình
+#ứng suất khi hãm

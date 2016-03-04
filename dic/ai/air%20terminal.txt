@@ -1,0 +1,11 @@
+﻿@air terminal
+*danh từ
+#nơi cung cấp phương tiện vận chuyển đến sân bay và từ sân bay về
+@Chuyên ngành kinh tế
+#ga sân bay
+#trạm cuối hàng không
+#trạm đón khách hàng không
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#ga đầu cuối hàng không
+#ga hàng không đầu cuối

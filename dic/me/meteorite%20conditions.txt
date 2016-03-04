@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: môi trường
+#điều kiện khí quyển
+#điều kiện khí tượng

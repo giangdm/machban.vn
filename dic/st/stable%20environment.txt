@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều kiện môi trường ổn định
+@Lĩnh vực: môi trường
+#môi trường ổn định

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bơm có màng ngăn
+#bơm màng
+@Lĩnh vực: xây dựng
+#bơm điafam
+#máy bơm (kiểu) màng
+#máy bơm kiểu màng
+@Lĩnh vực: hóa học & vật liệu
+#bơm màng ngăn

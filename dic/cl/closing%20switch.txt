@@ -1,0 +1,2 @@
+﻿@closing switch
+#(Tech) cái chuyển mạch đóng

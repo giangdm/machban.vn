@@ -1,0 +1,5 @@
+﻿@contingency plan
+#(Tech) kế hoạch phòng bất ngờ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kế hoạch ngẫu nhiên

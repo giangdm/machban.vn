@@ -1,0 +1,6 @@
+﻿@axial symmetry
+#(Tech) tính đối xứng theo trục
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép đối xứng trục
+#tính đối xứng trục

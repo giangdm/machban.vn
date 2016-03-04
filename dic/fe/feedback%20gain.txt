@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ tăng ích bồi dưỡng
+@Lĩnh vực: toán & tin
+#hệ số phản hồi
+#hệ số phản liên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ tăng ích bồi dưỡng
+@Lĩnh vực: toán & tin
+#hệ số phản hồi
+#hệ số phản liên

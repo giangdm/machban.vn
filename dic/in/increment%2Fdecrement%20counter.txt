@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy đếm gia lượng/giảm lượng
+@Lĩnh vực: vật lý
+#ống đếm lượng tăng/lượng giảm

@@ -1,0 +1,3 @@
+﻿@Koych transformation
+#(Econ) Phép biến đổi Koyck
+: Một loạt các biến đổi mà trong đó một phương trình chứa một trễ phân phối giảm theo cấp số nhân có độ dài vô hạn được biến đổi thành một số số lượng hữu hạn các biến số, bao gồm một trễ không đồng nhất.

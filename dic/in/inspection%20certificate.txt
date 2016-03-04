@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giấy chứng kiểm nghiệm
+#giấy chứng nhận kiểm tra
+@Chuyên ngành kỹ thuật
+#chứng từ kiểm tra
+@Lĩnh vực: cơ khí & công trình
+#giấy nghiệm thu

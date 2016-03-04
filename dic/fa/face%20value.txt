@@ -1,0 +1,25 @@
+﻿@face value /'feis'vælju:/
+*danh từ
+#giá trị danh nghĩa (của giấy bạc...)
+#(nghĩa bóng) giá trị bề ngoài
+=to accept (take) something at its face_value: thừa nhận cái giá trị bề ngoài của nó
+@Chuyên ngành kinh tế
+#diện giá
+#giá danh nghĩa
+#giá trị danh nghĩa
+#giá trị danh nghĩa (của tờ phiếu)
+#giá trị góc mặt (của con tem)
+#giá trị trên mặt
+#mệnh giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị bề mặt
+#giá trị mặt
+@Lĩnh vực: điện tử & viễn thông
+#trị số bề mặt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị bề mặt
+#giá trị mặt
+@Lĩnh vực: điện tử & viễn thông
+#trị số bề mặt

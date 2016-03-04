@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ biến đổi tần
+#bộ đổi tần
+@Lĩnh vực: điện lạnh
+#bộ biến đổi tần số
+#bộ chuyển đổi tần số
+@Lĩnh vực: điện tử & viễn thông
+#bộ thay đổi tần số

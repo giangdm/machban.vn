@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đào hào
+#máy đào mương
+#máy đào rãnh
+#máy xẻ rãnh
+@Lĩnh vực: xây dựng
+#máy sẻ rãnh
+@Lĩnh vực: cơ khí & công trình
+#máy xúc đào hào

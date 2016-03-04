@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#công tắc giới hạn
+@Lĩnh vực: đo lường & điều khiển
+#công tắc vị trí cuối
+@Chuyên ngành kỹ thuật
+#công tắc giới hạn
+@Lĩnh vực: đo lường & điều khiển
+#công tắc vị trí cuối

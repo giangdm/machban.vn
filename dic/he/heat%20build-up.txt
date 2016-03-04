@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự tăng nhiệt
+#tăng nhiệt
+@Lĩnh vực: vật lý
+#tăng tích nhiệt
+@Lĩnh vực: điện lạnh
+#tích tụ nhiệt

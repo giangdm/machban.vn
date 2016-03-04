@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tỷ số loại bỏ kiểu chung
+#tỷ số triệt kiểu chung

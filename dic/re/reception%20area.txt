@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#khu tiếp cư
+#khu tiếp người di cư
+#khu tiếp nhận người di cư
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khu vực tiếp đón
+@Lĩnh vực: điện tử & viễn thông
+#vùng thu nhận

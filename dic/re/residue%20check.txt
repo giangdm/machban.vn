@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểm tra môđun N
+#kiểm tra thặng dư
+#sự kiểm tra phần dư

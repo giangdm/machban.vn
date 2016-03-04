@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tín hiệu vào điều hòa
+#tín hiệu vào hình sin

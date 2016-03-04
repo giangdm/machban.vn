@@ -1,0 +1,2 @@
+﻿@cylindric(al)
+#(Tech) thuộc hình trụ

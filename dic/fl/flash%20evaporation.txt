@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#sự làm bay hơi nhanh
+@Chuyên ngành kỹ thuật
+#bay hơi tức thời
+#sự bay hơi nhanh
+@Lĩnh vực: điện lạnh
+#sự bay hơi tức thời
+@Chuyên ngành kỹ thuật
+#bay hơi tức thời
+#sự bay hơi nhanh
+@Lĩnh vực: điện lạnh
+#sự bay hơi tức thời

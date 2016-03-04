@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi liên quan
+#lỗi tương đối
+#sai số tương đối
+@Lĩnh vực: xây dựng
+#sai số tỉ đối
+@Lĩnh vực: điện lạnh
+#sai số tỷ đối

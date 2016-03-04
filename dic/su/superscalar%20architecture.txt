@@ -1,0 +1,5 @@
+﻿@superscalar architecture
+#siêu thang bậc (cấu trúc)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cấu trúc superscalar

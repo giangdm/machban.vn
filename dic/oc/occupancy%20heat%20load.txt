@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tải nhiệt do người
+#tải nhiệt tính theo đầu người

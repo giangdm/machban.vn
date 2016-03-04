@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#hệ số điện dung
+@Lĩnh vực: điện
+#hệ số điện rung

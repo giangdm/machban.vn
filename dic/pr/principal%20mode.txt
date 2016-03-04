@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểu (dao động) chính
+#kiểu (dao động) trội
+@Lĩnh vực: điện lạnh
+#kiểu (dao động) cơ bản

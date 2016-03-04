@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi vốn có
+@Lĩnh vực: điện lạnh
+#sai số cố hữu
+#sai số tự tại
+@Lĩnh vực: toán & tin
+#sai số nội tại

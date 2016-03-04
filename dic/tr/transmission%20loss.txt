@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mất dữ liệu khi truyền
+#tổn thất truyền
+#tổn thất truyền đạt
+@Lĩnh vực: điện tử & viễn thông
+#sự suy giảm truyền dẫn

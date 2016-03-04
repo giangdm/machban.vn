@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phép tính kiểu quan hệ
+@Lĩnh vực: toán & tin
+#phép tính quan hệ

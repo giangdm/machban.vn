@@ -1,0 +1,6 @@
+﻿@Advance Corporation Tax (ACT)
+#(Econ) Thuế doanh nghiệp ứng trước.
+: Là một khoản ứng trước THUẾ DOANH NGHIỆP và được ghi vào tài khoản bên nợ của doanh nghiệp đối với loại thuế này. Đó là một phương tiện để có thể thu thuế doanh nghiệp sớm hơn.
+@Chuyên ngành kinh tế
+#khoản vay
+#thuế công ty ứng trước

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ chờ
+#độ trễ
+#thời gian xếp hàng
+@Lĩnh vực: điện tử & viễn thông
+#thời gian chờ đợi

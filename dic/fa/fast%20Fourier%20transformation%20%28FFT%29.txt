@@ -1,0 +1,8 @@
+﻿@fast Fourier transformation (FFT)
+#(Tech) sự biến đổi Fourier (Fouriê) nhanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phép biến đổi Fourier nhanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phép biến đổi Fourier nhanh

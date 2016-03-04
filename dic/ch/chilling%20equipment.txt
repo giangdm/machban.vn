@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị làm lạnh
+@Chuyên ngành kỹ thuật
+#máy móc lạnh
+#thiết bị lạnh

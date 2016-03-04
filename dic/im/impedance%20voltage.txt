@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp đoản mạch
+#điện áp ngắn mạch
+@Lĩnh vực: điện
+#điện áp trên trở kháng
+@Lĩnh vực: điện lạnh
+#điện áp trở kháng

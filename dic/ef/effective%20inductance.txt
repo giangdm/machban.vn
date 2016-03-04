@@ -1,0 +1,5 @@
+﻿@effective inductance
+#(Tech) điện cảm hữu hiệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ tự cảm hiệu dụng

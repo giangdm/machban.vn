@@ -1,0 +1,9 @@
+﻿@bank account
+#tài khoản ngân hàng
+@Chuyên ngành kinh tế
+#tài khoản ngân hàng
+#tài khoản tại ngân hàng
+#tài khoản vãng lai của ngân hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tài khoản ngân hàng

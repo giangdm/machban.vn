@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chất bay hơi
+@Chuyên ngành kỹ thuật
+#chất bốc
+@Lĩnh vực: điện
+#chất bay hơi
+@Lĩnh vực: điện lạnh
+#chất dễ bay hơi

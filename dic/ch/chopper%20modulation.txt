@@ -1,0 +1,2 @@
+﻿@chopper modulation
+#(Tech) biến điệu ngắt quãng

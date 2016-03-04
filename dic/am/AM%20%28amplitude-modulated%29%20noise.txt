@@ -1,0 +1,2 @@
+﻿@AM (amplitude-modulated) noise
+#(Tech) tiếng ồn biến điệu biên (độ)

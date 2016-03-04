@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy hàn đối đầu
+@Lĩnh vực: cơ khí & công trình
+#máy hàn nối (giáp mối)

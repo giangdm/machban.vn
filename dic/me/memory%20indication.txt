@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chỉ báo bộ nhớ
+#số chỉ bộ nhớ
+#sự biểu thị bộ nhớ
+#sự chỉ báo bộ nhớ

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự truyền nhiệt dẫn truyền
+#sự truyền nhiệt nhờ tính dẫn nhiệt

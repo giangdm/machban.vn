@@ -1,0 +1,12 @@
+﻿@electric transducer
+#(Tech) bộ biến hoán điện
+@Chuyên ngành kỹ thuật
+#bộ biến điện
+#bộ chuyển đổi điện
+@Lĩnh vực: điện
+#bộ biến năng điện
+@Chuyên ngành kỹ thuật
+#bộ biến điện
+#bộ chuyển đổi điện
+@Lĩnh vực: điện
+#bộ biến năng điện

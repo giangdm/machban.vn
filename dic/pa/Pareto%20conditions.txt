@@ -1,0 +1,7 @@
+﻿@Pareto conditions
+#(Econ) Các điều kiện Pareto.
+: Một loạt các quy tắc đặt ra trong kinh tế học phúc lợi, nếu thực hiện được sẽ đưa đến một tối ưu Pareto.
+@Chuyên ngành kinh tế
+#điều kiện Pareto
+@Chuyên ngành kinh tế
+#Các điều kiện Pareto

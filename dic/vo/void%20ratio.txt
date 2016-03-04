@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#chỉ số độ rỗng
+#độ rỗng
+#độ xốp
+#hệ số độ rỗng
+#hệ số rỗng
+@Lĩnh vực: giao thông & vận tải
+#hệ số lỗ rỗng
+@Lĩnh vực: xây dựng
+#tỷ lệ độ rỗng

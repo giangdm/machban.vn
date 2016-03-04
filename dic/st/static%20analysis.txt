@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phân tích tĩnh thái
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phân tích tĩnh
+#sự tính toán tĩnh định
+#sự tính toán tĩnh học

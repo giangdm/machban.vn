@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm soát trục
+@Lĩnh vực: điện tử & viễn thông
+#sự điều khiển vòng lộn (máy bay)

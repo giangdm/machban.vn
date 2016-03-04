@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#cơ sở cung ứng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#căn cứ cung ứng (khoan xa bờ)
+@Lĩnh vực: xây dựng
+#trạm cung ứng

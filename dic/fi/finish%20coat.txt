@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp hoàn thiện
+@Lĩnh vực: xây dựng
+#lớp khép kín (áo đường)
+@Lĩnh vực: hóa học & vật liệu
+#lớp sơn cuối cùng
+@Chuyên ngành kỹ thuật
+#lớp hoàn thiện
+@Lĩnh vực: xây dựng
+#lớp khép kín (áo đường)
+@Lĩnh vực: hóa học & vật liệu
+#lớp sơn cuối cùng

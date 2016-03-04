@@ -1,0 +1,2 @@
+﻿@Multiplier coefficient
+#(Econ) Hệ số khuyếch đại.

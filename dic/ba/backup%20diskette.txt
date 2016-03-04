@@ -1,0 +1,7 @@
+﻿@backup diskette
+#(Tech) đĩa nhỏ sao dự phòng
+@Chuyên ngành kỹ thuật
+#đĩa mềm dự phòng
+@Lĩnh vực: toán & tin
+#đĩa (mềm) dự trữ
+#đĩa dự phòng

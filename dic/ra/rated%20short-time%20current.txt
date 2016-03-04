@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dòng danh định thời ngắn
+#dòng điện đoản thời danh định
+#dòng điện ngắn hạn danh định

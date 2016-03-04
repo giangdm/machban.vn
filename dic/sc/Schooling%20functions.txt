@@ -1,0 +1,3 @@
+﻿@Schooling functions
+#(Econ) Các hàm giáo dục.
+: Mối quan hệ hàm số giữa trình độ học vấn đạt được và các yếu tố quyết định của các trình độ đó.

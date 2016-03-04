@@ -1,0 +1,5 @@
+﻿@Import restrictions
+#(Econ) Các hạn chế nhập khẩu.
+: Các hạn chế về số lượng hoặc chủng loại hàng hoá được nhập khẩu vào một nước thông qua việc sử dụng thuế quan hay hạn ngạch.
+@Chuyên ngành kinh tế
+#hạn chế nhập khẩu

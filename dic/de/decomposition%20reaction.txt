@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phản ứng phân hủy
+@Lĩnh vực: điện lạnh
+#phản ứng phân ly

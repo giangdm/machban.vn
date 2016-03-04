@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khu dân cư
+#khu nhà ở
+#vùng
+@Lĩnh vực: xây dựng
+#khu đất ở

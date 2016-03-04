@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt năng hòa tan
+@Chuyên ngành kỹ thuật
+#nhiệt hòa tan
+#nhiệt pha loãng
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt của dung dịch
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt dung dịch

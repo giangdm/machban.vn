@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt độ cân bằng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự quân bình nhiệt độ

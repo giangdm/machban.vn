@@ -1,0 +1,5 @@
+﻿@xmodem
+#Một giao thức truyền tệp không đồng bộ dùng cho máy tính cá nhân, để truyền không lỗi các tệp tin máy tính qua hệ thống điện thoại dễ dàng hơn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức XMODEM

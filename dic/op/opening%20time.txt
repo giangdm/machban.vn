@@ -1,0 +1,9 @@
+﻿@opening time
+*danh từ
+#giờ mở cửa
+@Chuyên ngành kinh tế
+#giờ mở cửa
+@Chuyên ngành kỹ thuật
+#thời gian ngắt
+@Lĩnh vực: điện
+#thơi gian hở mạch

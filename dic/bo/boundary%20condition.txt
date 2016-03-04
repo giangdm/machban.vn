@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#điều kiện biên
+#điều kiện biến
+#điều kiện bờ
+@Lĩnh vực: toán & tin
+#biên kiện
+@Lĩnh vực: xây dựng
+#điều kiện chu tuyến
+#điều kiện trên vành

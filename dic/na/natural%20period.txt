@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chu kỳ dao động riêng
+@Lĩnh vực: toán & tin
+#chu kỳ riêng
+#chu ký tự nhiên
+@Lĩnh vực: điện tử & viễn thông
+#chu kỳ tự nhiên

@@ -1,0 +1,2 @@
+﻿@electrostatic receiver
+#(Tech) ống nghe điện tĩnh

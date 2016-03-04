@@ -1,0 +1,5 @@
+﻿@archive attribute
+#(Tech) thuộc tính lưu trữ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thuộc tính lưu trữ

@@ -1,0 +1,3 @@
+﻿@Additional worker hypothesis
+#(Econ) Giả thuyết công nhân thêm vào.
+: Theo lập luận này, thu nhập thực tế của gia đình giảm trong thời kỳ suy thoái theo chu kỳ sẽ gây ra HIỆU ỨNG THU NHẬP.

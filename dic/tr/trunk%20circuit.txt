@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch trung chuyển
+@Lĩnh vực: điện tử & viễn thông
+#mạch đường trung kế
+@Lĩnh vực: toán & tin
+#mạch trục chính

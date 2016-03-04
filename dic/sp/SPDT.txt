@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chuyển mạch đơn cực hai vị trí
+#chuyển mạch một cực hai ngả

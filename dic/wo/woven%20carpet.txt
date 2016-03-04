@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp đệm vải
+@Lĩnh vực: dệt may
+#tấm thảm dệt
+@Lĩnh vực: xây dựng
+#thảm vải

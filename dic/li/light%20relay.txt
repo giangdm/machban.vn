@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle quang điện
+@Lĩnh vực: điện lạnh
+#quang rơle
+@Lĩnh vực: toán & tin
+#rơle ánh sáng
+@Lĩnh vực: xây dựng
+#rơle quang kích
+@Chuyên ngành kỹ thuật
+#rơle quang điện
+@Lĩnh vực: điện lạnh
+#quang rơle
+@Lĩnh vực: toán & tin
+#rơle ánh sáng
+@Lĩnh vực: xây dựng
+#rơle quang kích

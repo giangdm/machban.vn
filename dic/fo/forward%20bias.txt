@@ -1,0 +1,9 @@
+﻿@forward bias
+#(Tech) thiên áp thuận; dịch thuận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân cực hướng tới
+#phân cực thuận
+@Lĩnh vực: điện
+#thiên áp thuận
+#thiên áp xuôi

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#ổn định trong phạm vi nhỏ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự ổn định bé

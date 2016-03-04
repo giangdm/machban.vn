@@ -1,0 +1,8 @@
+﻿@Coefficient of determination
+#(Econ) Hệ số xác định (Hệ số tương quan bội số R bình phương).
+: Một thống kê tóm tắt năng lực giải thích của một phương trình.
+@Chuyên ngành kinh tế
+#hệ số xác định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ số xác định

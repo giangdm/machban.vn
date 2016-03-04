@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí trực tiếp
+#giá thành trực tiếp
+#phí tổn trực tiếp

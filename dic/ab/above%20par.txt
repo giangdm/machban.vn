@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#cao hơn giá ghi trên phiếu
+#trên bình giá
+#trên mệnh giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#cao hơn giá định mức

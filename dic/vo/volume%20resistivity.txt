@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#điện trở suất khối
+@Lĩnh vực: điện lạnh
+#điện trở suất thể tích

@@ -1,0 +1,5 @@
+﻿@Fixed asset
+#(Econ) Tài sản cố định.
+: Bất kỳ tài sản vốn phi tài chính nào của công ty có tuổi thọ khá dài, chuyên dùng cho các quá trình sản xuất nhất định và chi phí của nó thườn được trang trải chỉ sau một thời kỳ hoạt động tương đối dài, ví dụ như máy móc, nhà xưởng.
+@Chuyên ngành kinh tế
+#tài sản cố định

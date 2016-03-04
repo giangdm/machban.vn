@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#độ trễ
+#hiện tượng từ trễ
+#sự trễ từ
+@Lĩnh vực: điện
+#độ trễ từ
+@Lĩnh vực: xây dựng
+#hiện tượng trễ từ
+@Lĩnh vực: điện lạnh
+#tính từ trễ

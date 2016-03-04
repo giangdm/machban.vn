@@ -1,0 +1,2 @@
+﻿@close control
+#(Tech) điều khiển kín

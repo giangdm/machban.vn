@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mạng lưới thích nghi
+@Lĩnh vực: điện
+#mạch phối hợp (trở kháng)
+@Lĩnh vực: toán & tin
+#sơ đồ phù hợp

@@ -1,0 +1,2 @@
+﻿@conjugate transfer coefficient
+#(Tech) hệ số truyền liên hợp

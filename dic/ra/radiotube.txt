@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đèn vô tuyến
+@Lĩnh vực: điện tử & viễn thông
+#ống vô tuyến

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#môi trường phân tán
+@Lĩnh vực: hóa học & vật liệu
+#môi trường khuếch tán

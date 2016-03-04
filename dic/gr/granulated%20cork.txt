@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nút ép từ hạt nhỏ
+@Chuyên ngành kỹ thuật
+#lie dạng hạt
+@Lĩnh vực: điện lạnh
+#bấc dạng hạt

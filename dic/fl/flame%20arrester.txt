@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ dập lửa
+#dụng cụ dập tắt lửa
+@Lĩnh vực: hóa học & vật liệu
+#bộ phận dập tắt lửa
+@Lĩnh vực: xây dựng
+#máy dập tắt lửa
+@Chuyên ngành kỹ thuật
+#bộ dập lửa
+#dụng cụ dập tắt lửa
+@Lĩnh vực: hóa học & vật liệu
+#bộ phận dập tắt lửa
+@Lĩnh vực: xây dựng
+#máy dập tắt lửa

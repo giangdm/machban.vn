@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giữ trước một chỗ ngồi (trên xe lửa)
+#giữ trước một phòng (trong khách sạn)
+#kèm, giữ lại một điều kiện bảo lưu

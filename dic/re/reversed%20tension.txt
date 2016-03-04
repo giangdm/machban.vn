@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự biến đổi dấu (đối xứng)
+@Lĩnh vực: toán & tin
+#sự kéo biến đổi dấu (đối xứng)

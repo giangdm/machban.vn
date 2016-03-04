@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#atmosphe oxy
+#khí quyển chứa nhiều oxy
+#không khí nhiều oxy

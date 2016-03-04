@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sang số
+@Lĩnh vực: vật lý
+#cấu sang số
+#cấu sang số truyền động
+@Lĩnh vực: hóa học & vật liệu
+#sự thay đổi tốc độ

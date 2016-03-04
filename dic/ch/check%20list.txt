@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#bản kiểm kê (để phục vụ cho việc đối chiếu, kiểm soát)
+#danh sách kiểm tra
+@Chuyên ngành kỹ thuật
+#bảng kiểm tra
+#danh mục
+@Lĩnh vực: toán & tin
+#danh sách kiểm tra
+#sơ đồ kiểm tra thử
+@Lĩnh vực: cơ khí & công trình
+#thẻ kiểm tra

@@ -1,0 +1,3 @@
+﻿@fallback
+*danh từ
+#vật dự trữ; sự rút lui

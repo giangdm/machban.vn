@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#hệ số truyền nhiệt bề mặt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ số màng tỏa nhiệt
+#hệ số tỏa nhiệt (bề mặt)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ số màng tỏa nhiệt
+#hệ số tỏa nhiệt (bề mặt)

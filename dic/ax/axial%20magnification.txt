@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#độ khuếch đại chiều trục
+#độ phóng đại hướng trục

@@ -1,0 +1,5 @@
+﻿@bucking voltage
+#(Tech) điện áp bù
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện áp bù

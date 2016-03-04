@@ -1,0 +1,10 @@
+﻿@run on
+#tiếp tục chạy cứ chạy tiếp
+#tiếp tục không ngừng
+#trôi đi (thời gian)
+#nói lem lém, nói luôn mồm
+#dắt dây vào vớ nhau (chữ viết)
+#(ngành in) sắp chữ đầu dòng hàng như thường (không thụt vào)
+#xoay quanh, trở đi trở lại (một vấn đề...)
+@Chuyên ngành kỹ thuật
+#lên giá (in)

@@ -1,0 +1,2 @@
+﻿@AND to AND circuit
+#(Tech) mạch VÀ-VÀ

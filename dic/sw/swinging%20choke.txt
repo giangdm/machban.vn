@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#cuộn cản lọc
+@Lĩnh vực: điện lạnh
+#bộ điện kháng dao động
+#cuộn cản dao động
+@Lĩnh vực: điện
+#cuộn cản lắc
+#cuộn cản rung
+#cuộn kháng bão hòa

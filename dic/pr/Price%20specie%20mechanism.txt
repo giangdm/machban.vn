@@ -1,0 +1,5 @@
+﻿@Price specie mechanism
+#(Econ) Cơ chế chảy vàng.
+: Xem SPECIE FLOW MECHANISM
+@Chuyên ngành kinh tế
+#cơ chế giá cả tự điều chỉnh theo tiền vàng

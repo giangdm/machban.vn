@@ -1,0 +1,6 @@
+﻿@bus system
+#(Tech) hệ thống mạch nối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống buýt
+#hệ thống đường truyền

@@ -1,0 +1,2 @@
+﻿@graphical object
+#(Tech) đối tượng đồ họa

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ phận
+@Lĩnh vực: xây dựng
+#máy làm tan băng

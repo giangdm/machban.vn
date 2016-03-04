@@ -1,0 +1,5 @@
+﻿@Custom union
+#(Econ) Liên minh thuế quan.
+: Là một tổ chức gồm một số nước, trong đó hạn chế về mậu dịch giữa chúng được loại bỏ.
+@Chuyên ngành kinh tế
+#liên minh thuế quan

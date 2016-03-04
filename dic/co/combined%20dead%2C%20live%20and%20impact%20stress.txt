@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hoạt tải có xét xung kích
+#ứng suất do tổ hợp tĩnh tải

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phản ứng không thuận nghịch
+@Chuyên ngành kỹ thuật
+#phản ứng không thuận nghịch
+@Lĩnh vực: điện
+#phản ứng hạt nhân

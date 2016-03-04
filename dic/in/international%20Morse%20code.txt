@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mã Morse quốc tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#âm hiệu Morse quốc tế
+@Lĩnh vực: điện
+#mã quốc tế

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#dụng cụ lấy mẫu chia
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ chia mẫu thử

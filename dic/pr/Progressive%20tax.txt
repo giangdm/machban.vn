@@ -1,0 +1,5 @@
+﻿@Progressive tax
+#(Econ) Thuế luỹ tiến.
+: Nói chung đề cập đến một tình huống trong đó tỷ lệ của thu nhập được tính thuế tăng lên tỷ lệ của thu nhập được tính thuế tăng lên tỷ lệ thuế cùng với thu nhập hoặc sức mạnh chi tiêu.
+@Chuyên ngành kinh tế
+#thuế lũy tiến

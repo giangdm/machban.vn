@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#chênh lệch chi phí chung
+#phương sai của chi phí chung

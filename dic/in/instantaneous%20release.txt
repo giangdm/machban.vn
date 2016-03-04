@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#cấu ngắt tức thời
+@Lĩnh vực: cơ khí & công trình
+#sự ngắt tức thời
+@Lĩnh vực: điện
+#sự nhả tức thời

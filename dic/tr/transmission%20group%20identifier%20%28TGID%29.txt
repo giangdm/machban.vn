@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhận dạng nhóm truyền
+#ký hiệu nhận biết nhóm truyền

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chất [môi trường] tải nhiệt
+#môi trường tải nhiệt
+#vật mang nhiệt

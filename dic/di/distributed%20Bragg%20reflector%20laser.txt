@@ -1,0 +1,2 @@
+﻿@distributed Bragg reflector laser
+#(Tech) bộ kích quang phản xạ Bragg phân bố

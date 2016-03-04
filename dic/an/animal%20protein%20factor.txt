@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thành phần đạm động vật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#yếu tố protein động vật (APF)

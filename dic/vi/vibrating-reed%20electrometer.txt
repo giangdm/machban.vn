@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện kế cần rung
+#điện kế tụ rung
+@Lĩnh vực: điện
+#điện kế lưỡi gà rung
+@Lĩnh vực: hóa học & vật liệu
+#tĩnh điện kế rung

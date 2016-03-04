@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#người kinh doanh được phép
+#người mua bán chứng khoán có phép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#đại lý ủy quyền

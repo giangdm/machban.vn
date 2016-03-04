@@ -1,0 +1,3 @@
+﻿@vocab
+*danh từ
+#<thgt> bảng từ vựng (bản kê các từ cùng với nghĩa của chúng, nhất là loại đi kèm một cuốn sách giáo khoa bằng ngoại ngữ)

@@ -1,0 +1,5 @@
+﻿@city editor
+#(anh) nhà báo chịu trách nhiệm về tin tức tài chính (trên một tờ báo)
+#(Mỹ) nhà báo chịu trách nhiệm  về tin tức địa phương
+@Chuyên ngành kinh tế
+#biên tập viên thương mại tài chánh

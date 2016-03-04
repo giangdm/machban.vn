@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kiểm tra rò môi chất lạnh
+#phát hiện rò ga
+#sự rò gas

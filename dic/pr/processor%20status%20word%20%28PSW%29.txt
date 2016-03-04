@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#từ trạng thái bộ xử lý
+@Lĩnh vực: toán & tin
+#từ trạng thái của bộ xử lý

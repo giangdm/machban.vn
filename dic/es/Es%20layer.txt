@@ -1,0 +1,2 @@
+﻿@Es layer
+#(Tech) lớp E thất thường, lớp Es

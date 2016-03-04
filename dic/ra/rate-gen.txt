@@ -1,0 +1,3 @@
+﻿@rate-gen
+*danh từ
+#xem rate-factor

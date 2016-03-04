@@ -1,0 +1,12 @@
+﻿@log off
+#rời hệ thống
+@Chuyên ngành kỹ thuật
+#thoát
+@Lĩnh vực: điện
+#cho ngừng máy (vi tính)
+@Lĩnh vực: toán & tin
+#kết thúc phiên làm việc
+#rời hệ thống
+#thoát khỏi hệ thống
+@Lĩnh vực: xây dựng
+#ký sổ đi

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhập/xuất không đồng bộ
+#vào/ra không đồng bộ

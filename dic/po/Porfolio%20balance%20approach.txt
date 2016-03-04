@@ -1,0 +1,3 @@
+﻿@Porfolio balance approach
+#(Econ) Phương pháp cân đối danh mục đầu tư.
+: Một phương pháp phân tích tiền tệ nhấn mạnh vào ý nghĩa các quyết của những người có tài sản về thành phần danh mục đầu tư của họ.

@@ -1,0 +1,9 @@
+﻿@tank ship /'tæθk'ʃip/ (tank_vessel) /'tæɳk'vesl/
+*danh từ
+#tàu chở dầu; tàu chở nước
+@Chuyên ngành kinh tế
+#tàu chở dầu
+@Chuyên ngành kỹ thuật
+#tàu chở dầu
+@Lĩnh vực: xây dựng
+#tàu chở nước

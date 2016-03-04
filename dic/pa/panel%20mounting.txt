@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#lắp panen
+#lắp ráp theo bảng
+@Lĩnh vực: điện
+#giá bảng điều khiển
+@Lĩnh vực: xây dựng
+#sự lắp ráp panen

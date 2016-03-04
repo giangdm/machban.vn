@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#đường chọn cuối
+#đường cuối
+@Lĩnh vực: điện tử & viễn thông
+#đường chọn cuối cùng
+#tuyến chọn cuối cùng
+@Lĩnh vực: điện lạnh
+#tuyến cuối
+@Chuyên ngành kỹ thuật
+#đường chọn cuối
+#đường cuối
+@Lĩnh vực: điện tử & viễn thông
+#đường chọn cuối cùng
+#tuyến chọn cuối cùng
+@Lĩnh vực: điện lạnh
+#tuyến cuối

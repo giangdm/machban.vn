@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#điều chỉnh bờ mép ăng ten
+#sự làm cho vuông rắn bờ mép anten

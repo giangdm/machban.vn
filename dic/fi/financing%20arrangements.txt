@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#biện pháp cấp vốn
+#sự sắp xếp cấp vốn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự dàn xếp tài chính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự dàn xếp tài chính

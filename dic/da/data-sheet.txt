@@ -1,0 +1,3 @@
+﻿@data-sheet
+*danh từ
+#(tin học) dải dữ liệu

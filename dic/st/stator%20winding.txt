@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn dây stato
+@Lĩnh vực: điện lạnh
+#dây quấn phần tĩnh

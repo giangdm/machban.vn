@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự dừng lò đột ngột
+#sự dừng lò khẩn cấp
+@Lĩnh vực: toán & tin
+#sự dừng máy khẩn cấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự dừng lò đột ngột
+#sự dừng lò khẩn cấp
+@Lĩnh vực: toán & tin
+#sự dừng máy khẩn cấp

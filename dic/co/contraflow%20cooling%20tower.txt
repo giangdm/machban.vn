@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tháp giải nhiệt ngược dòng
+#tháp làm lạnh ngược dòng

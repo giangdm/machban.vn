@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#panô có viền (trang trí)
+#tấm có gờ
+#tấm có nẩy trụ

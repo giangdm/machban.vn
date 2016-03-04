@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp đánh lửa
+#điện áp phóng điện
+@Lĩnh vực: điện lạnh
+#điện thế phóng điện

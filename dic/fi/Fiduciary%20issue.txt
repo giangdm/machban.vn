@@ -1,0 +1,7 @@
+﻿@Fiduciary issue
+#(Econ) Tiền không được bảo lãnh.
+: Một bộ phận của tiền do ngân hàng Anh phát hành theo ĐẠO LUẬT QUY CHẾ NGÂN HÀNG của Huân tước Robert Peel năm 1844, có khả năng đổi lấy trái phiếu của chính phủ, và khác với tiền vàng (và tiền bạc trên một phạm vi nhất định) và thoi vàng.
+@Chuyên ngành kinh tế
+#phát hành (tiền) tín dụng
+#phát hành tiền giấy
+#phát hành tiền tín dụng

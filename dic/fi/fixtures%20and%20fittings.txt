@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#đồ đạc cố định
+#tài sản cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đồ gá và phụ tùng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đồ gá và phụ tùng

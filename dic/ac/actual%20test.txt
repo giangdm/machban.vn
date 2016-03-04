@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thử nghiệm vận hành
+@Lĩnh vực: xây dựng
+#sự thử nghiêm sự dụng
+@Lĩnh vực: toán & tin
+#sự thử nghiệm sử dụng

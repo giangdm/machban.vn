@@ -1,0 +1,12 @@
+﻿@Population explosion
+#(Econ) Bùng nổ dân số.
+: Tên gọi tỷ lệ tăng trưởng ngày một lớn hơn của dân số thế giới, đặc biệt ở các nước đang phát triển.
+@Chuyên ngành kinh tế
+#bùng nổ dân số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự bùng nổ dân số
+<!-- more -->
+@population explosion
+*danh từ
+#sự bùng nổ dân số (do tỉ lệ tăng dân quá nhanh)

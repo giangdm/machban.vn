@@ -1,0 +1,3 @@
+﻿@di-
+#(tiền tố cùng với dt) hai, song, đôi
+#(hóa)(cùng đi với dt trong tên hóa chất) đi (hai)

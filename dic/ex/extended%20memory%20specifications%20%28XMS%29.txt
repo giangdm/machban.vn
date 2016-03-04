@@ -1,0 +1,2 @@
+﻿@extended memory specifications (XMS)
+#(Tech) các quy định bộ nhớ nối dài

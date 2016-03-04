@@ -1,0 +1,4 @@
+﻿@shop-floor
+*danh từ
+#khu vực chế tạo hàng hoá trong nhà máy
+#công nhân trong nhà máy (đối lại với những người quản lý)

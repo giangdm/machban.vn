@@ -1,0 +1,6 @@
+﻿@cradle switch
+#(Tech) cái chuyển mạch trên giá [điện thoại]
+@Chuyên ngành kỹ thuật
+#giá chuyển mạch
+@Lĩnh vực: điện tử & viễn thông
+#công tắc trên giá

@@ -1,0 +1,2 @@
+﻿@Ramdom events
+#(Econ) Các biến cố ngẫu nhiên.

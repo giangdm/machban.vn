@@ -1,0 +1,3 @@
+﻿@Commercial banks
+#(Econ) Các ngân hàng thương mại.
+: Một cụm thuật ngữ chung, không xác định, để chỉ những ngân hàng thường ở trong khu vực kinh tế tư nhân tiến hành kinh doanh tổng hợp chứ không chuyên doanh.

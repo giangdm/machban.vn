@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#tốc độ đường truyền số
+@Lĩnh vực: điện tử & viễn thông
+#tốc độ biến điệu
+@Lĩnh vực: toán & tin
+#tốc độ điều chế
+@Lĩnh vực: điện lạnh
+#tốc độ đường truyền

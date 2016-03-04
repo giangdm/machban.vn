@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#kết cấu kiểu lắp ghép
+@Chuyên ngành kỹ thuật
+#kết cấu hàn
+#kết cấu lắp ghép
+@Lĩnh vực: cơ khí & công trình
+#cấu trúc ghép
+@Chuyên ngành kỹ thuật
+#kết cấu hàn
+#kết cấu lắp ghép
+@Lĩnh vực: cơ khí & công trình
+#cấu trúc ghép

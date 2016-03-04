@@ -1,0 +1,3 @@
+﻿@Side payments
+#(Econ) Các khoản trả thêm.
+: Những trao đổi giữa các cá nhân trong một nhóm nhằm mục đích khuyến khích thực hiện bổn phận cho một hoặc nhiều mục tiêu chung.

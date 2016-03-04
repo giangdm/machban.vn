@@ -1,0 +1,13 @@
+﻿@person-to-person call
+*danh từ
+#cú điện thoại gọi qua tổng đài
+@Chuyên ngành kinh tế
+#gọi đích danh người nhận (điện thoại đường dài)
+#sự gọi điện thoại hẹn trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#gọi từ người đến người
+@Lĩnh vực: điện tử & viễn thông
+#liên lạc cá nhân
+@Lĩnh vực: điện lạnh
+#nói chuyện cá nhân

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sàng lắc
+#sàng rung
+@Chuyên ngành kỹ thuật
+#rây rung
+#sàng rung
+@Lĩnh vực: điện lạnh
+#dây lắc

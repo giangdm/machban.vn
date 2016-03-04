@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dòng trạng thái
+@Lĩnh vực: toán & tin
+#dòng tỷ lệ
+#đường thang đo
+@Lĩnh vực: cơ khí & công trình
+#vạch chia (trên mặt số)
+@Lĩnh vực: điện
+#vạch kẻ (trên thang đo)

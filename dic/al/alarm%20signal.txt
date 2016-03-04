@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tín hiệu báo động
+@Chuyên ngành kỹ thuật
+#tín hiệu sự cố
+@Lĩnh vực: toán & tin
+#tín hiệu cảnh báo

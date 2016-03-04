@@ -1,0 +1,5 @@
+﻿@squarience
+#(thống kê) tổng bình phương các độ lệch (so với giá trị trung bình)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tổng bình phương

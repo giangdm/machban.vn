@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#xung đồng hồ
+@Lĩnh vực: toán & tin
+#xung định thời
+@Lĩnh vực: điện tử & viễn thông
+#xung phân định thời gian

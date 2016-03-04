@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#kết cấu không gian
+@Lĩnh vực: xây dựng
+#kết cấu ba chiều
+#kết cấu bể chứa

@@ -1,0 +1,7 @@
+﻿@off-time
+*danh từ
+#thời gian giữa hai chu kỳ; thời gian máy chạy không
+@Chuyên ngành kỹ thuật
+#lỗi thời
+@Lĩnh vực: hóa học & vật liệu
+#hết thời

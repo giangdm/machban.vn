@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bề mặt gia công
+#bề mặt làm việc
+#diện tích làm việc
+#mặt làm việc
+@Lĩnh vực: điện lạnh
+#bệ mặt hữu ích
+#bề mặt tác dụng
+@Lĩnh vực: cơ khí & công trình
+#mặt làm việc (bàn máy)

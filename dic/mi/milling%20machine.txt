@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#máy nghiền bột
+#sự nghiền
+#sự tán
+@Chuyên ngành kỹ thuật
+#máy phay
+#máy phay (bào)
+@Lĩnh vực: xây dựng
+#máy cắt vát

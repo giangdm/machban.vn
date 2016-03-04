@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mã chức năng
+@Lĩnh vực: toán & tin
+#chữ số chức năng
+#ký số chức năng

@@ -1,0 +1,5 @@
+﻿@National Insurance Contributions
+#(Econ) Các khoản đóng góp bảo hiểm quốc gia.
+: Là một hình thức thuế lao động tại Anh, đánh vào cả giới chủ lẫn người lao động. Các khoản nộp trên được dành riêng để dùng vào việc chi trả cho trợ cấp bảo hiểm quốc gia nhưng chúng không tạo ra được toàn bộ nguồn thu cần thiết để thực hiện việc chi trả này.
+@Chuyên ngành kinh tế
+#tiền góp quỹ bảo hiểm quốc gia

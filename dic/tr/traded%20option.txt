@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#quyền chọn có thể thương lượng được (mua bán chứng khoán)
+#quyền chọn đã được mua bán

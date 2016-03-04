@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#quốc lộ
+#trục lộ chính
+@Chuyên ngành kỹ thuật
+#đường cao tốc
+#đường chính
+#đường trục

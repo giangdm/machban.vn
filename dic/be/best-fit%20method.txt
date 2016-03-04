@@ -1,0 +1,2 @@
+﻿@best-fit method
+#(Tech) phương pháp lắp vừa nhất

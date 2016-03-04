@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#lỗ mạ xuyên (tấm mạch)
+@Lĩnh vực: điện
+#tử lỗ mạ thông

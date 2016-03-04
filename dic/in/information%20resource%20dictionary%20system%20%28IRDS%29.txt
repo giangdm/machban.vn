@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống từ điển tài nguyên thông tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống thư mục tài nguyên thông tin
+@Lĩnh vực: toán & tin
+#hệ thống từ điển nguồn thông tin

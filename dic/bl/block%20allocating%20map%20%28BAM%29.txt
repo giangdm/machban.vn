@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng cấp phát khối
+#sơ đồ cấp phát khối

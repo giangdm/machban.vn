@@ -1,0 +1,5 @@
+﻿@Marginal cost pricing
+#(Econ) Định giá theo chi phí cận biên.
+: Là một phương pháp định giá của các hãng tư nhân hoặc các công ty nhà nước theo đó được xác định bằng chi phí biên.
+@Chuyên ngành kinh tế
+#định giá bằng chi phí biên

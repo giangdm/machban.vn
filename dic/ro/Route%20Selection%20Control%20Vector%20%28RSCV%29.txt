@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#vectơ điều khiển chọn tuyến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vectơ điều khiển chọn đường truyền

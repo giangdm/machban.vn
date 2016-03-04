@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đầu nối hình chữ U
+@Chuyên ngành kỹ thuật
+#chỗ phân nhánh vòng
+#ống cong hình chữ U
+#ống cong hồi lưu
+@Lĩnh vực: xây dựng
+#uốn cong trở lại

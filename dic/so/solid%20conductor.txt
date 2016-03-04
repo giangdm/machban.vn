@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dây dẫn đặc
+#dây dẫn rắn
+#vật dẫn rắn

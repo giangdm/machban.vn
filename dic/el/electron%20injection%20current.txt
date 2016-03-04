@@ -1,0 +1,2 @@
+﻿@electron injection current
+#(Tech) dòng phun điện tử

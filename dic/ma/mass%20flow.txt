@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chất
+#dòng khối lượng
+#lưu lượng
+#lưu lượng dòng chảy
+#lưu lượng khối
+#lưu lượng theo khối lượng
+@Lĩnh vực: điện lạnh
+#dòng chảy khối lượng
+#dòng khối
+@Lĩnh vực: đo lường & điều khiển
+#lưu lượng kế khối lượng

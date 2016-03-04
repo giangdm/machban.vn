@@ -1,0 +1,2 @@
+﻿@duplex connection
+#(Tech) mạch liên lạc hai chiều

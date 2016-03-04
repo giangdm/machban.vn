@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#vị trí GaussB
+#vị trí hướng bên
+#vị trí hướng mạn

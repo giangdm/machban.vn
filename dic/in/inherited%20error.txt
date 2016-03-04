@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi kéo theo
+#lỗi vốn có
+#sai số tích lũy
+@Lĩnh vực: toán & tin
+#lỗi kế thừa
+#lỗi thừa kế
+#sai số thừa hưởng
+@Lĩnh vực: điện tử & viễn thông
+#sai số kéo theo

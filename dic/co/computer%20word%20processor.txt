@@ -1,0 +1,2 @@
+﻿@computer word processor
+#(Tech) bộ xử lý văn bản điện toán

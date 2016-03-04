@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ổ cắp kép
+@Lĩnh vực: điện
+#hộp cắm điện kép
+@Lĩnh vực: toán & tin
+#vật chứa song công

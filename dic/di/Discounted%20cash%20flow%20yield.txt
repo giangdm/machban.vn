@@ -1,0 +1,3 @@
+﻿@Discounted cash flow yield
+#(Econ) Lợi tức luồng tiền đã chiết khấu
+: Xem RATE OF RETURN.

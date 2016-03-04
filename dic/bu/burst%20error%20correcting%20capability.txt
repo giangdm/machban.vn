@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khả năng điều chỉnh bó sai số
+#khả năng điều chỉnh nhóm sai số
+#khả năng sửa đổi bó sai số
+#khả năng sửa đổi nhóm sai số

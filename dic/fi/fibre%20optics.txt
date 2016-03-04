@@ -1,0 +1,24 @@
+﻿@Chuyên ngành kinh tế
+#sợi quang (truyền tín hiệu)
+@Chuyên ngành kỹ thuật
+#kỹ thuật sợi quang
+@Lĩnh vực: toán & tin
+#cáp quang
+#sợi quang
+@Lĩnh vực: điện
+#ngành sợi quang
+@Lĩnh vực: hóa học & vật liệu
+#quang học sợi
+@Lĩnh vực: y học
+#sợi quang học
+@Chuyên ngành kỹ thuật
+#kỹ thuật sợi quang
+@Lĩnh vực: toán & tin
+#cáp quang
+#sợi quang
+@Lĩnh vực: điện
+#ngành sợi quang
+@Lĩnh vực: hóa học & vật liệu
+#quang học sợi
+@Lĩnh vực: y học
+#sợi quang học

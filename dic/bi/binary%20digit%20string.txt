@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#chuỗi bit
+@Lĩnh vực: toán & tin
+#chuỗi chữ số nhị phân
+#dòng bit nhị phân
+@Lĩnh vực: điện tử & viễn thông
+#xâu chữ số nhị phân

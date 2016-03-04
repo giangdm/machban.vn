@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự quay số tự động (điện thoại)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự quay số tự động

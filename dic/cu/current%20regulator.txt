@@ -1,0 +1,10 @@
+﻿@current regulator
+#(Tech) bộ chỉnh lưu cường độ
+@Chuyên ngành kỹ thuật
+#bộ ổn dòng
+@Lĩnh vực: xây dựng
+#bộ điều tiết dòng điện
+@Lĩnh vực: điện
+#điện trở ổn dòng
+@Lĩnh vực: toán & tin
+#độ ổn dòng

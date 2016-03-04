@@ -1,0 +1,4 @@
+﻿@conversion coefficient
+#(Tech) hệ số hoán đổi
+@Chuyên ngành kỹ thuật
+#hệ số chuyển

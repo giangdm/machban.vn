@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cổng IF-THEN
+#cổng nếu-thì
+#phần tử nếu-thì

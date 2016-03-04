@@ -1,0 +1,9 @@
+﻿@selling price
+*danh từ
+#giá bán
+@Chuyên ngành kinh tế
+#giá bán
+#giá chào bán
+#giá tiêu thụ
+@Chuyên ngành kỹ thuật
+#giá bán

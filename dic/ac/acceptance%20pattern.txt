@@ -1,0 +1,2 @@
+﻿@acceptance pattern
+#(Tech) mô thức thụ quang

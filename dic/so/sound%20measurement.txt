@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phép đo bằng sóng âm
+#phép xác định nguồn âm
+#sự đo âm

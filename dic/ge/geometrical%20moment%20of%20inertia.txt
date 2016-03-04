@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#mômen hình học
+@Lĩnh vực: toán & tin
+#mômen quán tính hình học
+@Lĩnh vực: vật lý
+#mômen quán tính trục phẳng

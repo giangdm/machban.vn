@@ -1,0 +1,2 @@
+﻿@computer memory bank
+#(Tech) ngân hàng bộ nhớ điện toán

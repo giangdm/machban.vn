@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giá thành công xưởng
+#giá xuất xưởng
+@Chuyên ngành kỹ thuật
+#chi phí sản xuất
+@Chuyên ngành kỹ thuật
+#chi phí sản xuất

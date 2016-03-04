@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#biên bản hàng tồn kho
+#biên bản kiểm kê hàng tồn kho

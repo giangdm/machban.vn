@@ -1,0 +1,6 @@
+﻿@Common stock
+#(Econ) Chứng khoán phổ thông.
+: Một công cụ tài chính (thoả thuận tài chính) mang lại quyền sở hữu và quyền bỏ phiếu trong một công ty cho người chủ công cụ này. Xem PREFERENCE SHARES, EQUITIES.
+@Chuyên ngành kinh tế
+#cổ phần thường
+#cổ phiếu thường

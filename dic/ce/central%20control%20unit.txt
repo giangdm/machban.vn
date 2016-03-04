@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều khiển trung tâm
+@Lĩnh vực: điện tử & viễn thông
+#đơn vị điều khiển trung tâm
+@Lĩnh vực: đo lường & điều khiển
+#khối điệu khiển trung tâm

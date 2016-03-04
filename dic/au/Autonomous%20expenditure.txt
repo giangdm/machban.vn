@@ -1,0 +1,5 @@
+﻿@Autonomous expenditure
+#(Econ) Khoản chi tiêu tự định.
+: Các khoản chi tiêu được coi là độc lập với mức thu nhập.
+@Chuyên ngành kinh tế
+#chỉ tiêu tự định

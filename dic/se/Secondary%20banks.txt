@@ -1,0 +1,3 @@
+﻿@Secondary banks
+#(Econ) Các ngân hàng thứ cấp.
+: Một cụm thuật ngữ dùng để chỉ một nhóm lớn các tổ chức tài chính chuyên nhận tiền gửi, rất nhiều tổ chức trong số đó là chi nhánh hoặc có liên quan đến các ngân hàng thanh toán bù trừ, nhà buôn, ngân hàng nước ngoài mọc lên nhanh chóng trong những năm 1960 và đầu những năm 1970 được trợ giúp bởi những quy định về số lượng đối với các ngân hàng thanh toán bù trừ.

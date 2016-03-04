@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hàm biến phức chính quy
+@Lĩnh vực: điện tử & viễn thông
+#hàm biến thức chính quy

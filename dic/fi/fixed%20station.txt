@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đài cố định
+@Lĩnh vực: toán & tin
+#trạm cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đài cố định
+@Lĩnh vực: toán & tin
+#trạm cố định

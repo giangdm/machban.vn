@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#ô tô acquy
+@Lĩnh vực: xây dựng
+#xe điện bánh lốp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#ô tô acquy
+@Lĩnh vực: xây dựng
+#xe điện bánh lốp

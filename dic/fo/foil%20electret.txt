@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lá electret
+@Lĩnh vực: điện lạnh
+#electret màng mỏng

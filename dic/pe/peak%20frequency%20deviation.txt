@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#độ lệch tần số cực đại
+#độ lệch tần số đỉnh

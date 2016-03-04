@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cam đĩa
+#đĩa lệch tâm
+#vòng đệm lệch tâm

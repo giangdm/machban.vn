@@ -1,0 +1,6 @@
+﻿@Net book value
+#(Econ) Giá trị ròng theo sổ sách.
+: Là báo cáo về giá trị của các tài sản cố định được dùng trong kế toán.
+@Chuyên ngành kinh tế
+#giá trị ròng trên sổ sách
+#trị giá tài sản theo sổ sách

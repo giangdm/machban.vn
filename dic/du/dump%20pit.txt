@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#hố đất lở
+#hố đất sụt
+@Lĩnh vực: hóa học & vật liệu
+#hố thải

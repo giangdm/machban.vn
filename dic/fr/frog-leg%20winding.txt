@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn dây kiểu chân ếch
+@Lĩnh vực: điện lạnh
+#dây quấn kiểu chân nhái

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#độ cứng cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ cứng thường xuyên
+#độ cứng vĩnh cửu
+@Lĩnh vực: xây dựng
+#độ cứng thường xuyên (không cácbonat hóa)

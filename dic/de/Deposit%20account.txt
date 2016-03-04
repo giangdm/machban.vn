@@ -1,0 +1,11 @@
+﻿@Deposit account
+#(Econ) Tài khoản tiền gửi
+: Trong nghiệp vụ ngân hàng ở Anh, một kiểu tài khoản được thiết kế để thu hút các số dư ít hoạt động của khách hàng, và hoạt động như là một phương tiện tiết kiện.
+@Chuyên ngành kinh tế
+#tài khoản tiền gửi có kỳ hạn
+#tài khoản tiết kiêm ngân hàng
+#tài khoản trên sổ tiết kiệm
+#tiền gửi có kỳ hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tài khoản ký thác

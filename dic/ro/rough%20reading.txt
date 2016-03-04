@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đọc gần đúng
+#số đọc gần đúng
+@Lĩnh vực: điện lạnh
+#cách đọc lấy tròn (gần đúng)

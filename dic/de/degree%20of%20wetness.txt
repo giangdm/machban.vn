@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ ẩm
+#độ dính ước
+@Lĩnh vực: cơ khí & công trình
+#độ ẩm tuyệt đối
+@Lĩnh vực: điện lạnh
+#độ ẩm ướt

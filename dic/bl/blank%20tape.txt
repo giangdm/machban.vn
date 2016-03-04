@@ -1,0 +1,7 @@
+﻿@blank tape
+#(Tech) băng trống
+@Chuyên ngành kỹ thuật
+#băng trắng
+@Lĩnh vực: toán & tin
+#băng sạch
+#băng trống

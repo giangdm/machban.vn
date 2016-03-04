@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn vị đồ họa
+#phần tử hiển thị
+@Lĩnh vực: toán & tin
+#phần hiển thị
+#phần tử biểu diễn
+#phần tử màn hình

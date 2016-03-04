@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#điện trì
+@Lĩnh vực: điện
+#phần tử pin sơ cấp
+#pin sơ cấp
+#pin sơ cấp (không nạp lại được)
+#pin thường (không nạp được)
+@Lĩnh vực: ô tô
+#pin không sạc được
+@Lĩnh vực: hóa học & vật liệu
+#pin, điện trì

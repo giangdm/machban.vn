@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#trương mục chưa thanh toán
+#trương mục, tài khoản chưa thanh toán

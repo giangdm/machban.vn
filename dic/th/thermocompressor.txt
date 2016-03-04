@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bộ nén dùng nhiệt
+@Lĩnh vực: điện lạnh
+#máy nén nhiệt

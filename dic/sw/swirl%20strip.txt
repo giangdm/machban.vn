@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ tạo dòng chảy rối
+#dải tạo dòng chảy rối

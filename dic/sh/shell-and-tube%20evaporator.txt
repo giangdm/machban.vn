@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị bốc hơi thân hình trụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bình bay hơi ống chùm
+#bình bay hơi ống vỏ
+#bình bay hơi ống vỏ (ống chùm)

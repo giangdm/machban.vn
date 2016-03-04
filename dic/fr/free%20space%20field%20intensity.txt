@@ -1,0 +1,2 @@
+﻿@free space field intensity
+#(Tech) cường độ trường không gian tự do

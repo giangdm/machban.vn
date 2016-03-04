@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm riêng
+@Lĩnh vực: toán & tin
+#hàm bên trong
+#hàm nội tại
+#hàm tự tại

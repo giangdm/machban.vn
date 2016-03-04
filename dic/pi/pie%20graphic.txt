@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đồ thị khoanh
+@Lĩnh vực: toán & tin
+#đồ thị hình tròn

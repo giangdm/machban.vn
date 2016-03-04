@@ -1,0 +1,8 @@
+﻿@boot sector
+#(Tech) cung khởi động
+@Chuyên ngành kỹ thuật
+#khởi động
+@Lĩnh vực: xây dựng
+#cung tỏa thúc
+@Lĩnh vực: toán & tin
+#rãnh ghi khởi động

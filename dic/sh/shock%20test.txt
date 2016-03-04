@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thí nghiệm va chạm
+#sự thử va chạm
+@Lĩnh vực: cơ khí & công trình
+#mẫu thử va chạm
+@Lĩnh vực: hóa học & vật liệu
+#phép thử va đập
+@Lĩnh vực: điện tử & viễn thông
+#sự thử độ phân ly (độ va chạm của vệ tinh)

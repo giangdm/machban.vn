@@ -1,0 +1,2 @@
+﻿@discrete sample
+#(Tech) mẫu phân rời

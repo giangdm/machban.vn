@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#người coi kho
+#nhân viên quản lý kho
+@Chuyên ngành kỹ thuật
+#thủ kho

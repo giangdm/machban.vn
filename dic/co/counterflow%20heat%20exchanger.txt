@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ trao đổi nhiệt dòng ngược
+@Lĩnh vực: xây dựng
+#bộ trao đổi nhiệt luồng ngược
+@Lĩnh vực: điện lạnh
+#thiết bị trao đổi hồi nhiệt

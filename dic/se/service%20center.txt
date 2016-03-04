@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#trung tâm, thành phố thương mại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trung tâm dịch vụ
+@Lĩnh vực: xây dựng
+#trung tâm dịch vụ (xã hội và phúc lợi)

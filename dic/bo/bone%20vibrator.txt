@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#cầu rung xương
+@Lĩnh vực: điện lạnh
+#máy nghe rung xương

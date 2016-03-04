@@ -1,0 +1,14 @@
+﻿@exponential curve
+#(Tech) đường cong số mũ
+@Chuyên ngành kinh tế
+#đường số mũ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đường cong hàm mũ
+@Lĩnh vực: xây dựng
+#đường thế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đường cong hàm mũ
+@Lĩnh vực: xây dựng
+#đường thế

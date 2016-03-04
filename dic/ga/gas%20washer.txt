@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị lọc khí
+#thiết bị rửa khí
+@Lĩnh vực: hóa học & vật liệu
+#máy rửa (bằng) khí
+@Lĩnh vực: vật lý
+#máy rửa khí

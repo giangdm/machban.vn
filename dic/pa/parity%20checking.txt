@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra chẵn lẻ
+@Lĩnh vực: toán & tin
+#kiểm tra ngang bậc

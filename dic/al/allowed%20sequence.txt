@@ -1,0 +1,2 @@
+﻿@allowed sequence
+#(Tech) trình tự cho phép

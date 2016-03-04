@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công ty
+#công ty pháp nhân
+#đoàn thể pháp nhân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#pháp nhân

@@ -1,0 +1,3 @@
+﻿@string vest
+*danh từ
+#áo lưới (áo lót làm bằng vải có những mắt lưới to)

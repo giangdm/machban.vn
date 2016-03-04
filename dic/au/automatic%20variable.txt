@@ -1,0 +1,5 @@
+﻿@automatic variable
+#(Tech) biến tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến tự động

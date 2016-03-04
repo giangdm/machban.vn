@@ -1,0 +1,17 @@
+﻿@utilization /,ju:tilai'zei n/
+*danh từ
+#sự dùng, sự sử dụng
+@Chuyên ngành kinh tế
+#sự áp dụng
+#sử dụng
+#sự dùng
+#sự sử dụng
+@Chuyên ngành kỹ thuật
+#sử dụng
+#sự dùng
+#sự sử dụng
+@Lĩnh vực: xây dựng
+#sự tận dụng (phế liệu)
+<!-- more -->
+@utilization
+#sự sử dụng

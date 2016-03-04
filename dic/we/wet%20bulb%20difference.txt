@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hiệu số nhiệt độ cầu ướt (do độ ẩm không khí)

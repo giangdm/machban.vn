@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#thu nhập bình quân
+#tiền kiếm được trung bình
+#tiền lời trung bình
+#tiền lương trung bình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tiền công trung bình
+#tiền lương trung bình

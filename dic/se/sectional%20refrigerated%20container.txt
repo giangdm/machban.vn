@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#côngtenơ lạnh lắp ghép (tháo lắp được)
+#côngtenơ lạnh lắp ghép (tháo nắp được)

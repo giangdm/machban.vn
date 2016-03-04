@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giá bao gồm toàn bộ chi phí
+#giá giao hàng miễn phí đến nơi chỉ định
+#giá giao tận kho người mua
+#giá giao tận nhà

@@ -1,0 +1,2 @@
+﻿@fuse switch
+#(Tech) cái chuyển mạch có cầu chì

@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm mạng
+#nút mạng
+@Lĩnh vực: xây dựng
+#điểm giàn
+@Lĩnh vực: toán & tin
+#điểm không ổn định
+#điểm nút (lưới)
+@Lĩnh vực: hóa học & vật liệu
+#điểm nút lưới
+@Chuyên ngành kỹ thuật
+#điểm mạng
+#nút mạng
+@Lĩnh vực: xây dựng
+#điểm giàn
+@Lĩnh vực: toán & tin
+#điểm không ổn định
+#điểm nút (lưới)
+@Lĩnh vực: hóa học & vật liệu
+#điểm nút lưới

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy vẽ
+#máy vẽ đồ thị
+#máy vẽ đường cong
+@Lĩnh vực: xây dựng
+#dụng vẽ đường cong

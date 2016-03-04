@@ -1,0 +1,8 @@
+﻿@OECD
+#(Econ) Tổ chức hợp tác và phát triển kinh tế.
+: Xem ORGANIZATION FOR ECONOMIC COOPERATION AND DEVELOPMENT, trước đây là OEEC.
+<!-- more -->
+@oecd
+#dánh từ
+#vt của Organization for Economic Co-operation and Development
+#Tổ chức hợp tác và phát triển kinh tế

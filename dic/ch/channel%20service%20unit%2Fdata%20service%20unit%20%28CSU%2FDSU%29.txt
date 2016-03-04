@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết bị phục vụ kênh vào dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Khối dịch vụ kênh/Khối dịch vụ dữ liệu

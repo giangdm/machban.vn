@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ thiết bị dừng sóng
+#hệ thiết bị triệt sóng
+#máy tạo nếp hình sóng (chế tạo tấm fiblôximăng)

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bảo hiểm
+#bảo hiểm (thương vong vì) tai nạn
+#bảo hiểm tai họa
+#bảo hiểm tùy thuộc
+#đề phòng sự bất ngờ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bảo hiểm tai nạn

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đối tượng lưu trữ
+#đối tượng nhớ
+@Lĩnh vực: điện tử & viễn thông
+#đối tượng trữ

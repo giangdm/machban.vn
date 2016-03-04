@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#Cái đo độ pH (nồng độ hiđrô)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy đo độ pH
+#pH kế
+@Lĩnh vực: điện
+#pH kế (máy đo độ pH)

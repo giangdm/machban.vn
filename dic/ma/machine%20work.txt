@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự chế ạo bằng máy
+#sự chế tạo bằng máy
+#việc làm bằng máy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#công việc làm bằng máy
+#sự gia công cơ khí

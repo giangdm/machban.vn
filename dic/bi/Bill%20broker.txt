@@ -1,0 +1,5 @@
+﻿@Bill broker
+#(Econ) Người môi giới hối phiếu.
+: Người chuyên chắp nối người mua và người bán hối phiếu lại với nhau để lấy tiền hoa hồng. Xem DISCUONT HOUSE.
+@Chuyên ngành kinh tế
+#người môi giới tín phiếu

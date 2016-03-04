@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ có tiếp đất
+#hệ được tiếp đất
+#hệ tiếp đất
+@Lĩnh vực: điện
+#hệ thống được nối đất

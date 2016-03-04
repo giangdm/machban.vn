@@ -1,0 +1,9 @@
+﻿@accounting file
+#(Tech) hồ sơ kế toán
+@Chuyên ngành kinh tế
+#hồ sơ kế toán
+#văn kiện kế toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin kế toán
+#tệp kế toán

@@ -1,0 +1,11 @@
+﻿@alternating load
+#(Tech) tải xoay chiều
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phụ tải đổi đầu
+@Lĩnh vực: xây dựng
+#tải trọng đan dấu
+#tải trọng đổi chiều
+#tải trọng đổi đầu
+@Lĩnh vực: toán & tin
+#tải xoay chiều

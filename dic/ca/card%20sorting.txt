@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#cách quy loại bằng thẻ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sắp bìa
+@Lĩnh vực: toán & tin
+#sự chọn bìa đục lỗ
+#sự chọn thẻ đục lỗ

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#khí dư
+#khí tồn dư
+@Lĩnh vực: điện
+#chất khí còn sót
+@Lĩnh vực: hóa học & vật liệu
+#khí bã (dầu mỏ)
+@Lĩnh vực: điện lạnh
+#khí dư thừa
+#khí sót

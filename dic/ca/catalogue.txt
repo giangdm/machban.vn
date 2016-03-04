@@ -1,0 +1,29 @@
+﻿@catalogue /'kætəlɔg/
+*danh từ
+#bản liệt kê mục lục
+*ngoại động từ
+#kẻ thành mục lục
+#chia thành loại
+#ghi vào mục lục
+@Chuyên ngành kinh tế
+#catalô
+#mục lục hàng hóa
+#sách in mẫu hàng
+#tập giới thiệu sản phẩm
+@Chuyên ngành kỹ thuật
+#bảng kê
+#catalô
+#danh mục
+#lập catalô
+#lập danh mục
+#mục lục
+#thư mục
+#từ điển
+@Lĩnh vực: toán & tin
+#bản liệt kê
+@Lĩnh vực: xây dựng
+#catalo
+<!-- more -->
+@catalogue
+#mục lục
+#library c. thưc mục

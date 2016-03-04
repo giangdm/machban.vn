@@ -1,0 +1,5 @@
+﻿@block check character
+#(Tech) ký tự kiểm khối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ký tự kiểm khối

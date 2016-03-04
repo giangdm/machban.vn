@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kho lạnh có chiều cao lớn
+#phòng lạnh có chiều cao lớn

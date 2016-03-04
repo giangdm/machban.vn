@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ tin cậy dữ liệu
+#độ tin cậy phần cứng

@@ -1,0 +1,4 @@
+﻿@randomize
+#ngẫu nhiên hoá
+@Chuyên ngành kỹ thuật
+#ngẫu nhiên hóa

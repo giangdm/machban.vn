@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đui đèn xoáy Edison lớn
+@Lĩnh vực: điện lạnh
+#đuôi ren Edison lớn

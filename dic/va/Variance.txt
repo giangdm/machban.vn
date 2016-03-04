@@ -1,0 +1,41 @@
+﻿@Variance
+#(Econ) Phương sai
+: Một số đo được sử dụng phổ biến để đo mức độ mà một biến số ngẫu nhiên (hoặc một thống kê) phân tán xung quanh giá trị ttrung bình của nó.
+<!-- more -->
+@variance /'veəriəns/
+*danh từ
+#sự khác nhau, sự không đi đôi, sự không ăn khớp, sự mâu thuẫn
+=words are at variance with the facts: lời nói không đi đôi với việc làm
+#sự xích mích; mối bất hoà
+=to be at variance with someone: xích mích (mâu thuẫn) với ai
+#sự thay đổi (về thời tiết...)
+@Chuyên ngành kinh tế
+#bất đồng
+#bất đồng (số)
+#biến dị
+#biến đổi
+#chênh lệch
+#đội khác
+#phương sai
+#số chênh lệch
+#số lệch sai
+#sự biến động
+#sự khác biệt
+#sự thay đổi
+@Chuyên ngành kỹ thuật
+#số bậc tự do
+#sự thay đổi
+@Lĩnh vực: toán & tin
+#phương sai
+<!-- more -->
+@variance
+#(thống kê) phương sai
+#accidental v. phương sai ngẫu nhiên
+#external v. phương sai ngoài
+#generlized v. phương sai suy rộng
+#interclass v. phương sai giữa các lớp
+#internal v. phương sai trong
+#minimun v. phương sai nhỏ nhất
+#relative v. phương sai tương đối (bình phương của số biến thiên)
+#residual v. phương sai thặng dư
+#within-group v. phương sai trong nhóm

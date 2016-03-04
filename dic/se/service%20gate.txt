@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cửa đập chính
+#cửa van công tác
+@Lĩnh vực: cơ khí & công trình
+#cửa van công tắc

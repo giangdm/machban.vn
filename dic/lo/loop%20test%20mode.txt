@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ kiểm tra vòng
+#chế độ thử vòng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#điện thoại trên xe hơi
+@Chuyên ngành kỹ thuật
+#điện thoại ở ô tô
+@Lĩnh vực: ô tô
+#điện thoại trong xe

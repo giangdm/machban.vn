@@ -1,0 +1,2 @@
+﻿@associated decimal number
+#(Tech) số thập phân kết hợp

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đảo pha
+@Lĩnh vực: toán & tin
+#bộ phận đảo pha
+#bộ phận đảo qua
+#bộ phận đổi dấu
+@Lĩnh vực: điện
+#mạch đảo pha

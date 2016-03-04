@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#không đủ cân
+#trọng lượng thiếu
+@Chuyên ngành kỹ thuật
+#số lượng thiếu
+@Lĩnh vực: đo lường & điều khiển
+#trọng lượng tịnh

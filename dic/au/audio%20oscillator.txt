@@ -1,0 +1,4 @@
+﻿@audio oscillator
+#(Tech) bộ dao động âm thanh
+@Chuyên ngành kỹ thuật
+#bộ dao động âm tần

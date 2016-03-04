@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ cảm ứng điện
+@Lĩnh vực: toán & tin
+#thông lượng dịch chuyển
+@Lĩnh vực: điện lạnh
+#thông lượng điện dịch

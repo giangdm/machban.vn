@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị khuấy trộn
+@Chuyên ngành kỹ thuật
+#máy trộn

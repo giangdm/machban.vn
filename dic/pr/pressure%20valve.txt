@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#van áp lực
+#van tăng áp
+@Lĩnh vực: hóa học & vật liệu
+#van áp suất

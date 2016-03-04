@@ -1,0 +1,7 @@
+﻿@Statistical inference
+#(Econ) Sự suy luận thống kê.
+: Quá trình tìm kiếm thông tin về một TỔNG THỂ(bao gồm các đặc điểm và THÔNG SỐ về phân phối của nó) từ các mẫu các giá trị quan sát từ một tổng thể đó.
+@Chuyên ngành kinh tế
+#suy luận thống kê
+@Chuyên ngành kỹ thuật
+#kết luận thống kê

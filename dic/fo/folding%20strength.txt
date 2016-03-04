@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền uốn gấp
+#sức bền gãy
+@Lĩnh vực: toán & tin
+#sức chống gãy (khi uốn)
+@Lĩnh vực: xây dựng
+#sức chống gãy khi (uốn)

@@ -1,0 +1,24 @@
+﻿@Pension
+#(Econ) Tiền lương hưu.
+: Cơ chế lương hưu gồm hai kiểu, có phạm vi rộng: 1)Hệ thống vốn dự trữ liên quan đến việc phân phối lại suốt đời một cá nhân, dựa vào tiết kiệm của người lao động để tích luỹ vốn và sau đó vốn được tiêu dùng trong thời gian về hưu; 2)Hệ thống thanh toán cho người về hưu, đưa đến sự phân phối lại ở một thời điểm giữa các cá nhân sao cho những người làm việc hỗ trợ những người về hưu.
+<!-- more -->
+@pension /'penʃn/
+*danh từ
+#lương hưu
+=to retire on a pension: về hưu
+#tiền trợ cấp
+=old-age pension: tiền trợ cấp dưỡng lão
+#nhà trọ cơm tháng
+=to live en pension at: ăn ở trọ tại
+*ngoại động từ
+#trả lương hưu
+#trợ cấp cho
+=to pension someone off: sa thải ai có phát tiền trợ cấp; cho ai về hưu, cho ai về vườn
+@Chuyên ngành kinh tế
+#lương hưu
+#tiền cấp dưỡng
+#tiền trợ cấp
+#tiền ứng bổng
+@Chuyên ngành kỹ thuật
+#lương hưu
+#nhà an dưỡng

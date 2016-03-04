@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ truy cập ngẫu nhiên cửa sổ
+#bộ nhớ truy cập ngẫu nhiên cửa sổ-WRAM

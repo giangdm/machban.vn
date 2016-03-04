@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#fara E
+#fara tĩnh điện
+#statfara (đơn vị điện dung trong hệ CGSE)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điều chỉnh liên tục
+@Lĩnh vực: đo lường & điều khiển
+#điều khiển liên tục
+@Lĩnh vực: toán & tin
+#sự điều khiển liên tục

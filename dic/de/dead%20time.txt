@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thời gian chết
+@Chuyên ngành kỹ thuật
+#thời gian trễ
+@Lĩnh vực: xây dựng
+#thời chết
+@Lĩnh vực: đo lường & điều khiển
+#thời gian chết

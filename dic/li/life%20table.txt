@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#bảng thống kê tuổi thọ
+#bảng tử suất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#bản thống kê tuổi thọ trung bình
+@Lĩnh vực: toán & tin
+#bảng tuổi thọ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#bản thống kê tuổi thọ trung bình
+@Lĩnh vực: toán & tin
+#bảng tuổi thọ

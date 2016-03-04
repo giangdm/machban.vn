@@ -1,0 +1,14 @@
+﻿@underload /'ʌndə'loud/
+*động từ
+#chất chưa đủ, chở chưa đủ
+#nhồi chưa đủ, nhét chưa đủ
+@Chuyên ngành kinh tế
+#chất chưa đủ
+#chở chưa đủ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dưới tải trọng (cho phép)
+#sự thiếu tải
+@Lĩnh vực: điện
+#sự kém tải
+#sự non tải

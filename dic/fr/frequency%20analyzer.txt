@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ phân tích tần số
+@Lĩnh vực: điện lạnh
+#máy phân tích tần số

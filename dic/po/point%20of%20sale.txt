@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#điểm bán
+#điểm bán hàng
+#điểm tiêu thụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điểm cuối bán hàng
+#điểm trả tiền

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đetectơ tia X bán dẫn
+#đetectơ tia X chất rắn

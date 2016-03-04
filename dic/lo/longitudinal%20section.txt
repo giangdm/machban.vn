@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt cắt dọc
+#trắc dọc
+@Lĩnh vực: toán & tin
+#thiết đồ dọc
+#tiết diện dọc
+@Lĩnh vực: xây dựng
+#thiết đồ-dọc

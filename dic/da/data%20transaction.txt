@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giao tác dữ liệu
+@Lĩnh vực: toán & tin
+#tác vận dữ liệu

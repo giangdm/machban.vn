@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chuẩn kế
+#máy đo chuẩn
+@Lĩnh vực: hóa học & vật liệu
+#dụng cụ đo tiêu chuẩn
+@Lĩnh vực: cơ khí & công trình
+#khí cụ đo tiêu chuẩn
+@Lĩnh vực: vật lý
+#mét chuẩn

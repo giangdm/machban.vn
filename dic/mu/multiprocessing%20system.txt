@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống đa xử lý
+@Chuyên ngành kỹ thuật
+#hệ thống đa xử lý
+@Lĩnh vực: toán & tin
+#hệ đa xử lý
+#sự đa xử lý

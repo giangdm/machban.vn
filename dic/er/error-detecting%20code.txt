@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#mã dò lỗi
+#mã phát hiện lỗi
+#mã tự kiểm tra
+#mã tự phát hiện lỗi
+@Lĩnh vực: toán & tin
+#mã phát hiện sai
+@Chuyên ngành kỹ thuật
+#mã dò lỗi
+#mã phát hiện lỗi
+#mã tự kiểm tra
+#mã tự phát hiện lỗi
+@Lĩnh vực: toán & tin
+#mã phát hiện sai

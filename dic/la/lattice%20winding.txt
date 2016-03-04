@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cuộn dây chéo đầu
+@Lĩnh vực: điện
+#quấn dây mắt cáo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cuộn dây chéo đầu
+@Lĩnh vực: điện
+#quấn dây mắt cáo

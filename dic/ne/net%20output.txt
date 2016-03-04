@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#đầu ra ròng
+#giá trị sản lượng tịnh
+#sản lượng ròng
+@Chuyên ngành kỹ thuật
+#công suất thực

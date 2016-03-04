@@ -1,0 +1,5 @@
+﻿@universal coupling
+*danh từ
+#trục nối nhiều chiều (khủyu nối hai trục theo cách làm cho hai trục này có thể nối bất cứ góc độ nào với nhau)
+@Chuyên ngành kỹ thuật
+#khớp cacđăng

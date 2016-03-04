@@ -1,0 +1,2 @@
+﻿@absolute element
+#(Tech) phần tử tuyệt đối

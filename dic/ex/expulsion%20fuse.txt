@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cầu chảy bật
+#cầu chì phụt
+@Lĩnh vực: điện lạnh
+#cầu chì cắt
+#cầu chì phụt ra
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cầu chảy bật
+#cầu chì phụt
+@Lĩnh vực: điện lạnh
+#cầu chì cắt
+#cầu chì phụt ra

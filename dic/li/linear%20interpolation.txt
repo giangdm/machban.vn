@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#nội suy tuyến tính
+@Lĩnh vực: toán & tin
+#phép nội suy tuyến tính
+@Lĩnh vực: điện tử & viễn thông
+#phép nội tuyến tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#nội suy tuyến tính
+@Lĩnh vực: toán & tin
+#phép nội suy tuyến tính
+@Lĩnh vực: điện tử & viễn thông
+#phép nội tuyến tính

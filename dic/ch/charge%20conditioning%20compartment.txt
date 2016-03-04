@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#buồng phối liệu
+#khoang phối liệu
+#máy phối liệu

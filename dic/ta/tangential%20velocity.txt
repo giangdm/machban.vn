@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tốc độ tiếp tuyến
+@Lĩnh vực: xây dựng
+#vận tốc tiếp tuyến

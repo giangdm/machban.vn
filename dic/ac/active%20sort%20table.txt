@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng sắp xếp hoạt động
+@Lĩnh vực: toán & tin
+#bảng phân loại hoạt động

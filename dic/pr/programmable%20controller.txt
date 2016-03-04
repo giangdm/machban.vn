@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ điều khiển (theo) chương trình
+@Lĩnh vực: đo lường & điều khiển
+#bộ điều khiển có thể lập trình

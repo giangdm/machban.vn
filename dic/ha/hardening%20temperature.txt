@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ tôi
+@Lĩnh vực: điện lạnh
+#nhiệt độ đông cứng
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt độ hóa cứng

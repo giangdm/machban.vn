@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sự chống ăn mòn
+#sự chống gỉ
+@Lĩnh vực: điện
+#bảo vệ chống gỉ
+@Lĩnh vực: hóa học & vật liệu
+#sự bảo vệ chống gỉ
+@Lĩnh vực: ô tô
+#sự bảo vệ khỏi gỉ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#gia nhiệt qua tường
+#nhiệt độ tổn thất qua vách
+#nhiệt tổn thất qua vách

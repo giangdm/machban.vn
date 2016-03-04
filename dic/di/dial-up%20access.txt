@@ -1,0 +1,2 @@
+﻿@dial-up access
+#(Tech) sự truy cập quay số

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mã mẫu
+#quy tắc chuẩn
+@Lĩnh vực: ô tô
+#mã số kiểu xe

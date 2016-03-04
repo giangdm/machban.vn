@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ ổn định ngang
+@Lĩnh vực: giao thông & vận tải
+#độ ổn định ngang (kết cấu ngang)

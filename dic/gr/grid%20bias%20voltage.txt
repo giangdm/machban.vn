@@ -1,0 +1,2 @@
+﻿@grid bias voltage
+#(Tech) điện thế thiên về lưới

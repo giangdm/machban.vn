@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khối bộ nhớ cao
+#khối bộ nhớ phần trên
+#khối nhớ trên

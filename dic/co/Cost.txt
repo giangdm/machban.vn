@@ -1,0 +1,66 @@
+﻿@Cost
+#(Econ) Chi phí.
+: Nói chung đây là một thước đo nững gì phải trả để có được một cái gì đó, hoặc bằng cách mua, trao đổi hay sản xuất.
+<!-- more -->
+@cost /kɔst/
+*danh từ
+#giá
+=the cost of living: giá sinh hoạt
+=prime (first) cost: giá vốn
+#chi phí, phí tổn
+=to cut costs: giảm các món chi
+#sự phí (thì giờ, sức lực)
+#(pháp lý) (số nhiều) án phí
+#(nghĩa bóng) giá phải trả
+#at all costs; at any cost
+#bằng bất cứ giá nào
+#at the cost of...
+#phải trả bằng giá...
+#to count the cost
+#(xem) count
+#to live at someone's cost
+#sống bám vào ai, sống nhờ vào ai
+=to one's cost: (nghĩa bóng) mình phải gánh hết mọi thiệt hại tai hoạ
+=to know to one's own cost: phải qua nhiều nỗi gian nan mới biết được
+*nội động từ
+#trị giá; phải trả
+=the bicycle cost me 900đ: tôi mua chiếc xe đạp ấy mất 900đ
+#đòi hỏi
+=making a dictionary costs much time and care: soạn từ điển đòi hỏi mất nhiều thời gian và công phu
+#gây tổn thất; làm mất
+=carelessness may cost one one's life: sự cẩu thả có thể làm mất mạng
+#(thương nghiệp) đánh giá, ước lượng
+=this costs next to nothing: cái này chẳng đáng giá gì
+@Chuyên ngành kinh tế
+#chi phí
+#giá
+#giá mua
+#giá thành
+#giá trị
+#giá vốn
+#phí
+#phí tổn
+#phí tổn sản xuất
+#sản phí
+@Chuyên ngành kỹ thuật
+#giá
+#giá cả
+#giá thành
+#giá trị
+#phí tổn
+#vốn
+@Lĩnh vực: xây dựng
+#khoản chi
+#mục thanh toán
+<!-- more -->
+@cost
+#(toán kinh tế) chi phí, phí tổn
+#c. of handling stock giá bảo quản hàng tồn kho
+#c. of observation (thống kê) phí tổn quan trắc; giá thành quan sát
+#c. of ordering giá đặt hàng
+#c. of production giá thành sản xuất
+#c. of a sample phí tổn của mẫu
+#manufacturing c. giá thành sản suất
+#marginal c. chi phí giới hạn
+#prime c. giá thành sản phẩm
+#purchasing c. giá bán lẻ

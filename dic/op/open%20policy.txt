@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#chính sách mở cửa
+#đơn bảo hiểm bao
+#đơn bảo hiểm không xác định
+#đơn bảo hiểm mở
+#đơn bảo hiểm ngỏ (chưa xác định tên tàu)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#đơn bảo hiểm ngỏ

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ tốc độ
+@Lĩnh vực: đo lường & điều khiển
+#dụng cụ đo tốc độ

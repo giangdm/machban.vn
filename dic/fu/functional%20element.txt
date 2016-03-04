@@ -1,0 +1,6 @@
+﻿@functional element
+#(Tech) phần tử cơ năng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ phận chức năng
+#chi tiết chức năng

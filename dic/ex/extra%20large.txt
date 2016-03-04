@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#cỡ lớn đặc biệt (quần áo, giầy dép...)
+#cỡ lỡn đặc biệt (quần áo, giày dép...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lớn thêm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lớn thêm

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#hành lang chất hàng
+@Chuyên ngành kỹ thuật
+#máng nạp liệu
+#máng tải
+#máng tiếp liệu
+@Lĩnh vực: cơ khí & công trình
+#máng tải (liệu)
+@Chuyên ngành kỹ thuật
+#máng nạp liệu
+#máng tải
+#máng tiếp liệu
+@Lĩnh vực: cơ khí & công trình
+#máng tải (liệu)

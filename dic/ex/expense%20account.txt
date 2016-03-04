@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#bản kê khai chi tiêu
+#bản kê phí tổn
+#bản tính công tác phí
+#bản tính công vụ phí
+#bảng kê khai chi tiêu
+#giấy báo chi phí
+#tài khoản chi tiêu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bảng kê chi phí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bảng kê chi phí

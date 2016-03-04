@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngoài dải
+#ra ngoài phạm vi
+@Lĩnh vực: điện
+#quá tải thang đo
+#vượt quá thang đo

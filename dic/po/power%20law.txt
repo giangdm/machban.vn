@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#luật công suất
+@Lĩnh vực: điện lạnh
+#định luật dạng lũy thừa

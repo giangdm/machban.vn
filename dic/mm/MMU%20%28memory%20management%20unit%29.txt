@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn vị quản lý bộ nhớ
+@Lĩnh vực: toán & tin
+#khối quản lý bộ nhớ-MMU

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ từ thẩm tương đối
+@Lĩnh vực: điện lạnh
+#độ (từ) thẩm tỷ đối
+#hằng số (từ) thẩm từ tương đối
+@Lĩnh vực: điện
+#độ thấm tương đối
+#hằng số (độ) thẩm từ tương đối

@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kinh tế
+#tập hợp các phương án của bài toán quy hoạch tuyến tính

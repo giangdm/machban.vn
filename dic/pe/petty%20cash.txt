@@ -1,0 +1,12 @@
+﻿@petty cash
+*danh từ
+#tiền chi vặt
+@Chuyên ngành kinh tế
+#khoản thu chi nhỏ
+#quỹ tạp chi
+#quỹ tiền lẻ
+#tiền chi vặt
+#tiền mặt xài lẻ (trong quỹ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quỹ nhỏ tiền mặt

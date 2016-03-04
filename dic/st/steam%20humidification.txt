@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy gia ẩm (không khí) bằng hơi nước
+#sự gia ẩm (không khí) bằng hơi nước
+@Lĩnh vực: xây dựng
+#sự làm ẩm (không khí) bằng hơi nước

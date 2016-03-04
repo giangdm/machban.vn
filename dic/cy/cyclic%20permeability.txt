@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ từ thẩm tuần hoàn
+@Lĩnh vực: điện lạnh
+#hằng số từ thẩm chuẩn

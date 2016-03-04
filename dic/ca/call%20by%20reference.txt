@@ -1,0 +1,6 @@
+﻿@call by reference
+#(Tech) gọi bằng tham khảo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#gọi bằng tham chiếu
+#gọi theo tham chiếu

@@ -1,0 +1,2 @@
+﻿@azimuth coverage
+#(Tech) phạm vi/góc quét phương vị

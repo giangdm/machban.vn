@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#tần số giao chéo pha
+@Lĩnh vực: điện lạnh
+#tần số hội tụ pha

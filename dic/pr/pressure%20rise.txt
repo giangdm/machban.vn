@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự gia tăng áp lực
+@Lĩnh vực: điện lạnh
+#sự tăng áp suất

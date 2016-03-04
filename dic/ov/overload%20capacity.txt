@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#khả năng chịu quá tải
+#khả năng quá tải
+@Lĩnh vực: điện tử & viễn thông
+#dung lượng quá tải
+@Lĩnh vực: điện
+#mức quá tải

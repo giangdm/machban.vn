@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp làm trễ
+@Lĩnh vực: toán & tin
+#cáp trì hoãn

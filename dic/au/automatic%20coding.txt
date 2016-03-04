@@ -1,0 +1,8 @@
+﻿@automatic coding
+#(Tech) biên mã tự động
+@Chuyên ngành kỹ thuật
+#sự mã hóa tự động
+@Lĩnh vực: điện tử & viễn thông
+#mã hóa tự động
+@Lĩnh vực: toán & tin
+#sự lập mã tự động

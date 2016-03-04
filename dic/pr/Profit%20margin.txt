@@ -1,0 +1,9 @@
+﻿@Profit margin
+#(Econ) Chênh lệch lợi nhuận
+: Lợi nhuận của từng đơn vị sản lượng được biểu hiện dưới dạng một số phần trăm của giá.
+@Chuyên ngành kinh tế
+#biên lợi nhuận
+#lợi nhuận
+#mức doanh lợi
+#mức lợi nhuận
+#tỉ lệ lợi nhuận

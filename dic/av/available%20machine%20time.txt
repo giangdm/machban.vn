@@ -1,0 +1,5 @@
+﻿@available machine time
+#(Tech) thời gian dùng được máy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thời gian máy khả dụng

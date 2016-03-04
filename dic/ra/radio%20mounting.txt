@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự hiệu chỉnh vô tuyến
+#trạm sửa chữa vô tuyến

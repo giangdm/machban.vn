@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#công tắc chuyển thang đo
+#công tắc thang đo
+#thiết bị chuyển mạch thang đo

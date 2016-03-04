@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí lao động cố định
+#những khoản nợ cố định
+#nợ cố định

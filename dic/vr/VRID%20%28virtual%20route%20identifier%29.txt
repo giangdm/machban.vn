@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhận dạng đường truyền ảo
+#ký hiệu nhận biết tuyến ảo

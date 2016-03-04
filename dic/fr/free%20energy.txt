@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#năng lượng tự do
+#năng lượng tự do Gibs
+#năng lượng tự do Helmholtz
+#thế Helmholtz
+@Lĩnh vực: điện lạnh
+#công thoát
+#hàm Helmholtz
+#thế nhiệt đọ đẳng tích

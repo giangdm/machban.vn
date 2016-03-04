@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểm tra độ dư vòng-CRC
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểm độ dư vòng
+#sự kiểm tra tính dư tuần hoàn
+#sự kiểm tra tính dư vùng

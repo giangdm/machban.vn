@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biên dịch riêng
+#biên dịch riêng biệt
+#sự biên dịch riêng rẽ
+#sự biên dịch tách biệt

@@ -1,0 +1,5 @@
+﻿@Speculative unemployment
+#(Econ) Thất nghiệp do đầu cơ.
+: Một thành phần của thất nghiệp dai dẳng.
+@Chuyên ngành kinh tế
+#thất nghiệp có tính đầu cơ

@@ -1,0 +1,10 @@
+﻿@key money
+*danh từ
+#tiền mà người thuê nhà buộc lòng phải trả cho chủ nhà trước khi vào ở
+@Chuyên ngành kinh tế
+#tiền mở khóa
+#tiền sang
+#tiền sang (nhà, cửa hiệu)
+#tiền thuê ngoại ngạch
+#tiền thuê trả thêm
+#tiền trao chìa khóa

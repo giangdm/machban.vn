@@ -1,0 +1,3 @@
+﻿@Agricultural sector
+#(Econ) Khu vực nông nghiệp.
+: Khu vực hoặc một bộ phận dân số tham gia vào nghề nông, cung cấp lương thực, nguyên liệu thô như bông, gỗ cho tiêu dùng trong nước và xuất khẩu.

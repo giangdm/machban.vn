@@ -1,0 +1,2 @@
+﻿@computer servo system
+#(Tech) hệ thống trợ động máy điện toán

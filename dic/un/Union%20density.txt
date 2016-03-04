@@ -1,0 +1,3 @@
+﻿@Union density
+#(Econ) Tỷ lệ tham gia công đoàn.
+: Tỷ lệ lực lượng lao động tham gia công đoàn thay đổi mạnh giữa những các nghành và giữa các nước do khác biệt trong chi phí và lợi ích của việc tham gia công đoàn.

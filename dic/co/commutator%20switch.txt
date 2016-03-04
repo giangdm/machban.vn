@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chuyển mạch đảo chiều
+#bộ chuyển mạch đổi chiều
+@Lĩnh vực: điện
+#công tắc nhấp nháy

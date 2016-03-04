@@ -1,0 +1,2 @@
+﻿@api
+#(vt của Application Programming Interface)giao diện chương trình ứng dụng

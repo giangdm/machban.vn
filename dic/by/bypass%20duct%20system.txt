@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ thống bypas
+#hệ thống nhánh phụ
+#hệ thống ống bypas

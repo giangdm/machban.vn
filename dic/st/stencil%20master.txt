@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản chính bằng giấy nến
+#bản gốc bằng stencil

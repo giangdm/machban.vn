@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản tài sản và nợ
+#tài khoản trong bảng tổng kết tài sản

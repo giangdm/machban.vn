@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dài dòng
+@Lĩnh vực: toán & tin
+#chiều dài của dòng
+@Lĩnh vực: điện
+#chiều dài đường dây
+@Chuyên ngành kỹ thuật
+#độ dài dòng
+@Lĩnh vực: toán & tin
+#chiều dài của dòng
+@Lĩnh vực: điện
+#chiều dài đường dây

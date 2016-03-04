@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hốc rỗng chứa không khí
+#túi rỗng chứa không khí

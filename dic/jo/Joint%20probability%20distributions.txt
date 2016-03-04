@@ -1,0 +1,3 @@
+﻿@Joint probability distributions
+#(Econ) Các phân phối xác suất kết hợp.
+: Các phân phối xác suất mà cho biết xác suất với hai hay nhiều hơn các biến số nhận đồng thời những giá trị nhất định (hoặc nằm trong những khoảng nhất định).

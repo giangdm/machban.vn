@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cặp dây bọc
+@Lĩnh vực: điện lạnh
+#cặp dây có bọc chắn (trong cáp)

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#môi trường từ
+#phương tiện từ
+#vật liệu từ
+#vật liệu từ, chất từ
+@Lĩnh vực: điện lạnh
+#vật liệu từ (tính)
+@Lĩnh vực: điện
+#vật liệu từ tính

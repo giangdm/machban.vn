@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#chữ và số không phù hợp nhau
+#số tiền bằng chữ và số không khớp (trên chi phiếu)

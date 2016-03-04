@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#cái cảm biến
+@Lĩnh vực: xây dựng
+#dụng cụ đo độ căng
+#tenxơmet đo độ giãn
+@Lĩnh vực: toán & tin
+#dụng cụ đo ứng biến
+#tenxơmet ứng biến
+@Lĩnh vực: cơ khí & công trình
+#máy đo ứng biến

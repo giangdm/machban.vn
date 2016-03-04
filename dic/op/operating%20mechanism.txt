@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ cấu dẫn động
+#cơ cấu điều khiển
+@Lĩnh vực: xây dựng
+#bộ phận làm việc
+#cơ cấu vận hành

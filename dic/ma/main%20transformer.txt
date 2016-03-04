@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ biến thế chính
+#máy biến áp cấp điện
+@Lĩnh vực: điện
+#biến áp chính
+#biến áp điện lực
+@Lĩnh vực: điện lạnh
+#biến áp nguồn
+@Lĩnh vực: giao thông & vận tải
+#máy biến áp chính

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hàm dốc
+@Lĩnh vực: điện lạnh
+#hàm dốc nghiêng

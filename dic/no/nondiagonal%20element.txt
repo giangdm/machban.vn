@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phần tử không (đường) chéo
+#phần tử ngoài đường chéo

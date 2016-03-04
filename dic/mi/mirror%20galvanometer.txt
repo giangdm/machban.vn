@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#điện kế gương
+#điện kế gương phản xạ
+#điện kế kim sáng
+#điện kế vệt sáng
+@Lĩnh vực: điện
+#điện kế (có) gương
+#điện kế có gương
+@Lĩnh vực: điện lạnh
+#điện kế phản xạ

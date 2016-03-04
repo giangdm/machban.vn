@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống lưu thông
+@Chuyên ngành kỹ thuật
+#hệ thống tuần hoàn
+#hệ tuần hoàn
+@Lĩnh vực: xây dựng
+#hệ tuần hoàn khí
+#hệ tuần hoàn nước

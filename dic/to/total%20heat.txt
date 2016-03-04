@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt tổng số
+@Chuyên ngành kỹ thuật
+#entanpy
+@Lĩnh vực: điện tử & viễn thông
+#nhiệt lượng toàn phần
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt toàn phần
+#tổng nhiệt lượng
+@Lĩnh vực: điện
+#tổng nhiệt

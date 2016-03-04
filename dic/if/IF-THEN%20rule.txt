@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quy tắc IF-THEN
+@Chuyên ngành kỹ thuật
+#quy tắc điều kiện-tác dụng
+#quy tắc nếu-thì
+#quy tắc suy diễn

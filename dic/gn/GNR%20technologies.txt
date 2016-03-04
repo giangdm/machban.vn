@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#công nghệ gen
+@Lĩnh vực: vật lý
+#công nghệ GNR
+@Lĩnh vực: cơ khí & công trình
+#nanô và robot

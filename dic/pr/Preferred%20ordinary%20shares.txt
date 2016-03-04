@@ -1,0 +1,3 @@
+﻿@Preferred ordinary shares
+#(Econ) Cổ phiếu thường được ưu tiên.
+: Xem FINANCIAL CAPITAL

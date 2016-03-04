@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đại lượng điều khiển
+@Lĩnh vực: điện lạnh
+#đầu vào điều khiển

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đầu ra tiếng nói
+#ngõ ra thoại
+#sự xuất (tín hiệu) thoại

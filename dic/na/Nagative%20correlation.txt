@@ -1,0 +1,2 @@
+﻿@Nagative correlation
+#(Econ) Tương quan nghịch biến.

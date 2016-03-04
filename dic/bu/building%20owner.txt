@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chủ công trình (xây dựng)
+@Chuyên ngành kỹ thuật
+#chủ công trình
+@Lĩnh vực: xây dựng
+#đơn vị xây dựng

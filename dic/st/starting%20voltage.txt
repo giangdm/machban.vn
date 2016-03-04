@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp khởi động
+#điện áp mồi
+@Lĩnh vực: toán & tin
+#điện áp ban đầu

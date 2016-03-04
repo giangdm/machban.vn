@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chu trình lạnh
+@Lĩnh vực: điện lạnh
+#chu trình gia lạnh
+#chu trình hạ nhiệt độ
+#chu trình làm lạnh

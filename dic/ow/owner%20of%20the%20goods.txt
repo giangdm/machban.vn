@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chủ (sở hữu) hàng
+#chủ hàng
+#người chủ sở hữu hàng

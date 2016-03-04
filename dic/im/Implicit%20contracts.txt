@@ -1,0 +1,3 @@
+﻿@Implicit contracts
+#(Econ) Các hợp đồng ẩn.
+: Khái niệm hợp đồng ẩn được sử dụng nhằm cung cấp một cơ sở cho việc tồn tại tiền công và giá cả ít biến đôi và được dựa trên những đặc tính KHÔNG THÍCH RỦI RO khác nhau của chu doanh nghiệp và người làm thuê.

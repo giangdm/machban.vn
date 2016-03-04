@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cốt liểu tẩm atfan
+#cốt liệu tẩm atfan
+@Lĩnh vực: toán & tin
+#cốt liệu tẩm bitum

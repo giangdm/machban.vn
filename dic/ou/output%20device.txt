@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị đầu ra (trong hệ thống máy tính như máy in...)
+@Chuyên ngành kỹ thuật
+#thiết bị xuất
+@Lĩnh vực: xây dựng
+#bộ đưa ra
+@Lĩnh vực: điện
+#bộ kết xuất
+@Lĩnh vực: toán & tin
+#thiết bị ra

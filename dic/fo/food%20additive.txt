@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phụ gia các sản phẩm thực phẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+#chất phụ gia thực phẩm

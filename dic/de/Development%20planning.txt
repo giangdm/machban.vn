@@ -1,0 +1,5 @@
+﻿@Development planning
+#(Econ) Hoạch định phát triển; Lập kế hoạch phát triển.
+: Một kế hoạch với một loạt các mục tiêu nhằm phát triển tiềm năng kinh tế và xã hội của toàn bộ nền kinh tế hay một vùng nhất định.
+@Chuyên ngành kinh tế
+#quy hoạch phát triển

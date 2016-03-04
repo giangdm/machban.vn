@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cách móc nối lùi
+#kết chuỗi ngược
+#móc nối ngược
+#sự xích lùi

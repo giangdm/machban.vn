@@ -1,0 +1,2 @@
+﻿@automatic data link
+#(Tech) đường truyền dữ kiện tự động

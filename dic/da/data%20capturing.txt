@@ -1,0 +1,2 @@
+﻿@data capturing
+#(Tech) bắt dữ liệu

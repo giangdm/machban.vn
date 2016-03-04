@@ -1,0 +1,7 @@
+﻿@analysable /'ænəlaizəbl/
+*tính từ
+#có thể phân tích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khai triển được
+#phân tích được

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự lập trình hệ thống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lập trình hệ thống
+#sự lập trình hệ thống

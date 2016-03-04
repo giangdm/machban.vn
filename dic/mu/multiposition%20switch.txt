@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chuyển mạch nhiều vị trí
+#công tắc nhiều vị trí

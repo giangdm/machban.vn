@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#nắp kiểm soát
+#van có trợ động
+#van điều khiển
+#van mồi
+@Lĩnh vực: cơ khí & công trình
+#van chạy bằng động cơ
+#van trượt điều khiển phụ
+@Lĩnh vực: hóa học & vật liệu
+#van dẫn hướng

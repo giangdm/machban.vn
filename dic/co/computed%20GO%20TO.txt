@@ -1,0 +1,2 @@
+﻿@computed GO TO
+#(Tech) GO TO bằng tính toán

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giá bán của ngân hàng
+#hối suất bán ra
+#tỉ giá bán
+#tỷ giá bán

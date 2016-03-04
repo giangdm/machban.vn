@@ -1,0 +1,2 @@
+﻿@autoreverse
+#(Tech) tự đảo ngược, tự quay ngược

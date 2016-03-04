@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tùy thuộc vào sự xác nhận (cuối cùng) của chúng tôi
+#tùy thuộc vào xác nhận của chúng tôi
+#với điều kiện phải chờ sự xác nhận (cuối cùng) của chúng tôi
+#với điều kiện phải chờ xác nhận (cuối cùng) của chúng tôi

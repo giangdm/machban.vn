@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cáp áp lực dẹt
+@Lĩnh vực: điện
+#cáp có áp lực phẳng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cáp áp lực dẹt
+@Lĩnh vực: điện
+#cáp có áp lực phẳng

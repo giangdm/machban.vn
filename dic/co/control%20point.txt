@@ -1,0 +1,13 @@
+﻿@control point
+#(Tech) điểm kiểm tra
+@Chuyên ngành kỹ thuật
+#điểm chuẩn
+#điểm điều khiển
+#điểm khống chế
+#điểm kiểm tra
+#điểm mốc
+@Lĩnh vực: xây dựng
+#điểm khiển
+#điểm khống chế tuyến
+@Lĩnh vực: hóa học & vật liệu
+#trạm kiểm tra

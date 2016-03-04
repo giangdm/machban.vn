@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#con nợ mua hàng
+#khách chịu mua
+#khách mua chịu
+#người mắc nợ do mua chịu
+#người mua chịu

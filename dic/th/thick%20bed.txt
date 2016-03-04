@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp dày
+@Lĩnh vực: xây dựng
+#vỉa dày
+@Lĩnh vực: toán & tin
+#vỉa dày, lớp dày

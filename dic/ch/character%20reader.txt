@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đọc ký tự
+@Lĩnh vực: toán & tin
+#bộ cọc ký tự
+#máy đọc ký tự

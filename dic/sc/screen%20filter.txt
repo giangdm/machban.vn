@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#tấm lọc lưới
+#thiết bị lọc lưới
+@Chuyên ngành kỹ thuật
+#lưới lọc
+@Lĩnh vực: toán & tin
+#bộ lọc màn hình
+@Lĩnh vực: xây dựng
+#thiết bị lọc kiểu trống

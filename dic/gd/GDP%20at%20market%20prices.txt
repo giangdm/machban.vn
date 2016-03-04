@@ -1,0 +1,2 @@
+﻿@GDP at market prices
+#(Econ) GDP theo giá thị trường.

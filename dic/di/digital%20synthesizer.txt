@@ -1,0 +1,2 @@
+﻿@digital synthesizer
+#(Tech) bộ tổng hợp dạng số tự

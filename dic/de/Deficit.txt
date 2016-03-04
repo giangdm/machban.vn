@@ -1,0 +1,17 @@
+﻿@Deficit
+#(Econ) Thâm hụt
+: Tình trạng chi tiêu vượt quá thu nhập, trong một bối cảnh hiện hữu nào đó, hoặc khoản nợ vượt quá tài sản tại một thời điểm nào đó.
+<!-- more -->
+@deficit /'defisit/
+*danh từ
+#(tài chính) số tiền thiếu hụt (do chi lớn hơn thu)
+=to make up a deficit; to meet a deficit: bù lại số tiền thiếu hụt
+@Chuyên ngành kinh tế
+#nhập siêu
+#thâm hụt
+#thâm thủng
+#thiếu hụt
+@Chuyên ngành kỹ thuật
+#độ hụt
+#sự hụt
+#sự thiếu

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#chấm dứt
+#chấm dứt, kết thúc thanh lý
+#đóng cửa (một công ty)
+#giải thể
+#kết thúc
+#thanh lý
+@Chuyên ngành kỹ thuật
+#quấn

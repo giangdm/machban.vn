@@ -1,0 +1,2 @@
+﻿@fourth normal form (FNF/4NF)
+#(Tech) dạng chuẩn thứ tư

@@ -1,0 +1,2 @@
+﻿@absolute name
+#(Tech) tên tuyệt đối

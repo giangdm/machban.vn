@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#khoảng chuẩn
+#khoảng đo chuẩn
+#khoảng tiêu chuẩn

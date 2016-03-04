@@ -1,0 +1,7 @@
+﻿@full duplex
+#(Tech) song công toàn vẹn, hai chiều toàn vẹn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#song công hoàn toàn
+@Lĩnh vực: xây dựng
+#song thông kép

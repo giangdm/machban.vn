@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#sự thử (bằng) nhiệt
+#sự thử bằng nung nóng
+@Lĩnh vực: xây dựng
+#sự thử nghiệm nhiệt

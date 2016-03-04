@@ -1,0 +1,2 @@
+﻿@computer port module
+#(Tech) mô đun cửa máy điện toán

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự bảo quản bằng tia bức xạ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bảo quản bằng bức xạ

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#không khí bị bẫy
+#không khí bị kẹt
+@Lĩnh vực: xây dựng
+#khí bị đóng giữ lại
+#không khí được giữ lại
+@Chuyên ngành kỹ thuật
+#không khí bị bẫy
+#không khí bị kẹt
+@Lĩnh vực: xây dựng
+#khí bị đóng giữ lại
+#không khí được giữ lại

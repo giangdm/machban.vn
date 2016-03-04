@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#độ trễ truyền sóng (vô tuyến vũ trụ)
+@Lĩnh vực: toán & tin
+#độ trễ do lan truyền
+#độ trễ qua cửa
+#độ trễ truyền
+#sự trễ lan truyền
+#trễ trong truyền
+@Lĩnh vực: điện lạnh
+#thời gian truyền (tín hiệu)
+@Lĩnh vực: điện tử & viễn thông
+#trễ lan truyền

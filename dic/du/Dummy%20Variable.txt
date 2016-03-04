@@ -1,0 +1,13 @@
+﻿@Dummy Variable
+#(Econ) Biến số giả.
+<!-- more -->
+@Dummy variable
+#(Econ) Biến giả.
+: Một biến nhị phân (có - không) được đưa ra để xem xét những dịch chuyển (dịch chuyển giả) hay thay đổi ngoại sinh của độ dốc (đọ đốc giả) trong mối quan hệ kinh tế lượng.
+@Chuyên ngành kinh tế
+#biến số để thử nghiệm
+#biến số giả (biến phụ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến giả
+#biến số giả

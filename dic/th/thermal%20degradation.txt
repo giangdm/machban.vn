@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#giảm nhiệt
+@Lĩnh vực: điện lạnh
+#giảm phẩm chất do nhiệt
+#phá hủy do nhiệt
+#sự phá hủy do nhiệt (nhiệt phân)
+#xuống cấp do nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt phân
+@Lĩnh vực: xây dựng
+#sự phá hủy nhiệt

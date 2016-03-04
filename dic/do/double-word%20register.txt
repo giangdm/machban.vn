@@ -1,0 +1,2 @@
+﻿@double-word register
+#(Tech) bộ ghi từ đôi

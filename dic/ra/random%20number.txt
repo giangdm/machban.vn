@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#số tùy cơ may rủi bất kỳ
+#số tùy cơ, may rủi, bất kỳ
+@Chuyên ngành kỹ thuật
+#số ngẫu nhiên

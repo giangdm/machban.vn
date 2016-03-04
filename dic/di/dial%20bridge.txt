@@ -1,0 +1,2 @@
+﻿@dial bridge
+#(Tech) cầu khắc độ

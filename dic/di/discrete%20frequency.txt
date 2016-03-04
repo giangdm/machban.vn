@@ -1,0 +1,7 @@
+﻿@discrete frequency
+#(Tech) tần số phân rời
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tần số gián đoạn
+@Lĩnh vực: toán & tin
+#tần số rời rạc

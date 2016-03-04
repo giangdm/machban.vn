@@ -1,0 +1,2 @@
+﻿@barycentric coordinate
+#(Tech) tọa dộ trọng tâm [NB]

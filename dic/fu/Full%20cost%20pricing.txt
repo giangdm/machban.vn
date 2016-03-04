@@ -1,0 +1,5 @@
+﻿@Full cost pricing
+#(Econ) Định giá theo chi phí đầy đủ.
+: Quy tắc định giá theo đó các công ty tính thêm phần lợi nhuận ròng vào chi phí đơn vị trong khi việc tính chi phí đơn vị thì bao gồm tất cả các chi phí.
+@Chuyên ngành kinh tế
+#phương pháp định giá thành đầy đủ

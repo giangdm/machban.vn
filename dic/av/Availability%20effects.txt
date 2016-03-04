@@ -1,0 +1,5 @@
+﻿@Availability effects
+#(Econ) Các hiệu ứng của sự sẵn có.
+: Các tác động của những thay đổi về số lượng tín dụng có sẵn, chứ  không phải tác động thông qua giá, nghĩa là lãi suất.
+@Chuyên ngành kinh tế
+#tác động của lượng có sẵn

@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#biểu đồ tải trọng
+@Lĩnh vực: điện
+#biểu đồ phụ tải
+#biểu đồ tải
+@Lĩnh vực: toán & tin
+#biểu đồ trọng tải
+@Lĩnh vực: vật lý
+#giản đồ tải trọng
+@Lĩnh vực: điện tử & viễn thông
+#sơ đồ nạp
+@Chuyên ngành kỹ thuật
+#biểu đồ tải trọng
+@Lĩnh vực: điện
+#biểu đồ phụ tải
+#biểu đồ tải
+@Lĩnh vực: toán & tin
+#biểu đồ trọng tải
+@Lĩnh vực: vật lý
+#giản đồ tải trọng
+@Lĩnh vực: điện tử & viễn thông
+#sơ đồ nạp

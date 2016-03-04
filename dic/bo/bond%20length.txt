@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chiều dài liên kết
+@Lĩnh vực: xây dựng
+#chiều dài dính bám
+#độ dài thanh gia cố

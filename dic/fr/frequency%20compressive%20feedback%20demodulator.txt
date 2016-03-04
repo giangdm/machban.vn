@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ giải điều hồi tiếp nén tần
+#bộ giải điều hồi tiếp tần số
+#bộ tách sóng hồi tiếp tần số

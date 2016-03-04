@@ -1,0 +1,9 @@
+﻿@alternate routing
+#(Tech) chọn đường thay thế, trung kế vòng [ĐL], trung kế bổ trợ [ĐL]
+@Chuyên ngành kỹ thuật
+#chọn đường luân phiên
+#định tuyến luân phiên
+@Lĩnh vực: điện tử & viễn thông
+#đường truyền luân phiên
+@Lĩnh vực: toán & tin
+#sự định tuyến thay thế

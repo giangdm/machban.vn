@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#đơn vị đo lường
+@Chuyên ngành kỹ thuật
+#đơn vị đo
+#đơn vị đo lường
+#dụng cụ đo
+#thiết bị đo
+@Lĩnh vực: xây dựng
+#đơn vị đo lưòng

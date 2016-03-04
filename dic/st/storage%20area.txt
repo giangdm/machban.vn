@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#diện tích trữ kho
+@Chuyên ngành kỹ thuật
+#vùng chứa phế thải
+@Lĩnh vực: xây dựng
+#diện tích kho
+#khu cất giữ hàng (thiết bị)
+#sàn kho
+@Lĩnh vực: cơ khí & công trình
+#khu vực trữ nước
+@Lĩnh vực: giao thông & vận tải
+#khu vực xếp hàng
+@Lĩnh vực: toán & tin
+#vùng lưu trữ
+#vùng nhớ

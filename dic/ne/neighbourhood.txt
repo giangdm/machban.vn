@@ -1,0 +1,13 @@
+﻿@neighbourhood /'neibəhud/
+*danh từ
+#hàng xóm, láng giềng; tình hàng xóm
+=all the neighbourhood likes him: tất cả bà con hàng xóm đều thích anh ta
+#tình trạng ở gần
+#vùng lân cận
+=the neighbourhood of a town: vùng lân cận thành phố
+#in the neighbourhood
+#gần, chừng khoảng
+=in the neighbourhood of fifty kilometers: chừng năm mươi kilômet
+@Chuyên ngành kỹ thuật
+#lân cận
+#miền lân cận

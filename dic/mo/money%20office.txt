@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#cục hối đoái
+#phòng đối hoái
+#phòng hối đoái
+#sở doanh nghiệp hối đoái
+@Chuyên ngành kỹ thuật
+#phòng bán vé
+#quầy thu tiền

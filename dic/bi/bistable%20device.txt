@@ -1,0 +1,2 @@
+﻿@bistable device
+#(Tech) bộ song ổn thái

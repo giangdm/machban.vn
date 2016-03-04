@@ -1,0 +1,6 @@
+﻿@authoring system
+#(Tech) hệ thống trứ tác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống biên soạn
+#hệ thống soạn tài liệu

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phòng nhân sự
+#phòng nhân viên
+#phòng tổ chức cán bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phòng (ban) tổ chức

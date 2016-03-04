@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#sự chùng ứng suất
+#sự giảm ứng suất
+@Lĩnh vực: điện lạnh
+#hồi phục ứng suất
+@Lĩnh vực: xây dựng
+#sự chùng ứng ứng suất
+#tính chùng ứng suất
+#tự chùng ứng suất
+@Lĩnh vực: hóa học & vật liệu
+#sự tích thoát ứng suất

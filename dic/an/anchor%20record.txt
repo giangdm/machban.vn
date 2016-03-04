@@ -1,0 +1,2 @@
+﻿@anchor record
+#(Tech) bản ghi gốc = root record

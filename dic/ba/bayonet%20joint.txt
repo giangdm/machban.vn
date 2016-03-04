@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp bản lề
+#khớp nối điện lưỡi lê
+@Lĩnh vực: điện
+#cắm điện
+#mối nối có ngạnh
+@Lĩnh vực: cơ khí & công trình
+#khớp nối ăn ngàm

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ (thiết bị) báo động
+@Lĩnh vực: điện lạnh
+#dụng cụ báo động
+#dụng cụ cảnh báo
+@Lĩnh vực: toán & tin
+#thiết bị báo hiệu trước
+#thiết bị cảnh báo
+#thiết bị cảnh cáo
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị dự báo

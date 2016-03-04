@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#điều kiện nhập
+@Lĩnh vực: toán & tin
+#điều kiện vào
+@Chuyên ngành kỹ thuật
+#điều kiện nhập
+@Lĩnh vực: toán & tin
+#điều kiện vào

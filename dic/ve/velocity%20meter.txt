@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo tốc độ
+#tốc độ kế
+#tốc kế
+@Lĩnh vực: cơ khí & công trình
+#khí cụ đo tốc độ (dòng chảy)

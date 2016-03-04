@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#toàn độ rộng ở nửa cực đại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#độ rộng tối đa tại nửa cực đại

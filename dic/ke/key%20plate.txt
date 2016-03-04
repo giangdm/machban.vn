@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#bát chữ chủ
+#bát chữ khóa
+@Chuyên ngành kỹ thuật
+#tấm mặt khóa
+@Lĩnh vực: xây dựng
+#tấm che ổ khóa
+#tấm có lỗ khóa
+@Chuyên ngành kỹ thuật
+#tấm mặt khóa
+@Lĩnh vực: xây dựng
+#tấm che ổ khóa
+#tấm có lỗ khóa

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biến áp vỏ sò
+#biến áp vỏ úp
+#máy biến áp kiểu vỏ
+@Lĩnh vực: điện lạnh
+#máy biến áp kiểu bọc
+#máy biến áp kiểu lõi ngoài

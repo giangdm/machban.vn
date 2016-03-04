@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phí ngân hàng
+@Chuyên ngành kỹ thuật
+#lệ phí nhà băng
+@Lĩnh vực: điện tử & viễn thông
+#chi phí nhà băng

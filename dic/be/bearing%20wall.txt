@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#tường chống
+#vách đỡ
+@Lĩnh vực: xây dựng
+#tường mang tải
+@Lĩnh vực: toán & tin
+#vách bợ
+@Lĩnh vực: hóa học & vật liệu
+#vách chống

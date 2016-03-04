@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sự ghép cảm ứng
+@Lĩnh vực: điện lạnh
+#ghép bằng biến thế
+#sự ghép bằng biến áp
+@Lĩnh vực: xây dựng
+#ghép bằng máy biến thế
+@Lĩnh vực: toán & tin
+#ghép biến áp

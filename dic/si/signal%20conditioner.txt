@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều phối tín hiệu
+@Lĩnh vực: điện tử & viễn thông
+#mạch điều phối tín hiệu

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bản liệt kê tài khoản
+#bản sao kê tài khoản
+#bản thanh toán
+#bản trích lục tài khoản

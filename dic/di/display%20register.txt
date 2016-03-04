@@ -1,0 +1,2 @@
+﻿@display register
+#(Tech) bộ ghi hiển thị

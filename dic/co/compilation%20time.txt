@@ -1,0 +1,6 @@
+﻿@compilation time
+#(Tech) thời gian biên dịch (ngôn ngữ nguồn ra ngôn ngữ máy)
+@Chuyên ngành kỹ thuật
+#thời gian biên dịch
+@Lĩnh vực: toán & tin
+#khi biên dịch

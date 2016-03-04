@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ (thống) kín
+#hệ có liên hệ ngược
+#hệ kín
+#hệ thống đóng
+@Lĩnh vực: toán & tin
+#hệ đóng
+@Lĩnh vực: xây dựng
+#hệ thống kín

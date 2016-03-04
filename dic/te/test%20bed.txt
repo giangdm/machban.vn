@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#bàn thí nghiệm
+#bàn thử nghiệm
+#giá thí nghiệm
+#giá thử
+#giá thử nghiệm
+#giàn phòng thử
+@Lĩnh vực: đo lường & điều khiển
+#nền thử
+@Lĩnh vực: toán & tin
+#môi trường thử

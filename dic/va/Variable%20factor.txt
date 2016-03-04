@@ -1,0 +1,7 @@
+﻿@Variable factor
+#(Econ) Các yếu tố sản xuất thay đổi.
+@Chuyên ngành kinh tế
+#nhân tố biến động, biến đổi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#yếu tố biến đổi

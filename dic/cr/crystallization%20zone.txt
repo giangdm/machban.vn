@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#vùng kết tinh
+#vùng kết tinh thể
+#vùng tinh thể hóa

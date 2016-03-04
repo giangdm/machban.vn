@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#điện trở cao tần
+#điện trở dòng xoay chiều
+#điện trở hiệu dụng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mối hàn dính
+@Lĩnh vực: xây dựng
+#hàn chấm mối
+@Lĩnh vực: toán & tin
+#hàn chấm nối

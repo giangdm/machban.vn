@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đèn phóng điện khí
+@Lĩnh vực: điện tử & viễn thông
+#đèn (có) khí
+@Lĩnh vực: vật lý
+#ống phóng điện khí

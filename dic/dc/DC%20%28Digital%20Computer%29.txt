@@ -1,0 +1,2 @@
+﻿@DC (Digital Computer)
+#(Tech) máy điện toán số tự

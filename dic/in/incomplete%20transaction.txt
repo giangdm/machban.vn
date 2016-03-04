@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch chưa hoàn thành
+#giao dịch không hoàn toàn
+#việc kế toán chưa hoàn thành

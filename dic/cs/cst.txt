@@ -1,0 +1,3 @@
+﻿@cst
+*(viết tắt)
+#Giờ chuẩn trung tâm (Central Standard Time)

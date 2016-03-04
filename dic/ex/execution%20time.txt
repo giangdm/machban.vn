@@ -1,0 +1,18 @@
+﻿@execution time
+#(Tech) thời gian thi hành
+@Chuyên ngành kỹ thuật
+#thời gian chạy
+#thời gian thực
+#thời gian thực hiện
+@Lĩnh vực: toán & tin
+#thời gian thi hành
+@Lĩnh vực: xây dựng
+#thời thực thi
+@Chuyên ngành kỹ thuật
+#thời gian chạy
+#thời gian thực
+#thời gian thực hiện
+@Lĩnh vực: toán & tin
+#thời gian thi hành
+@Lĩnh vực: xây dựng
+#thời thực thi

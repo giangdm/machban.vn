@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#niên hạn sử dụng
+@Chuyên ngành kỹ thuật
+#thời gian sử dụng
+#thời hạn phục vụ
+#thời hạn sử dụng
+#tuổi thọ
+#vòng đời
+@Lĩnh vực: hóa học & vật liệu
+#thời gian công tác
+@Lĩnh vực: vật lý
+#thời hạn sử dụng (dung dịch)
+@Lĩnh vực: cơ khí & công trình
+#tuổi thọ làm việc
+@Lĩnh vực: giao thông & vận tải
+#tuổi thọ sử dụng

@@ -1,0 +1,8 @@
+﻿@Unemployment rate
+#(Econ) Tỷ lệ thất nghiệp.
+: Ở Anh, là tỷ lệ người trong lực lượng lao động không có việc làm và tích cực tìm kiếm việc làm.
+@Chuyên ngành kinh tế
+#mức thất nghiệp
+#mức tỉ lệ thất nghiệp
+#mức, tỉ lệ thất nghiệp
+#tỷ lệ thất nghiệp

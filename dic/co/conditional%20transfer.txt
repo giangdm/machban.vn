@@ -1,0 +1,5 @@
+﻿@conditional transfer
+#(Tech) truyền tùy điều kiện; chuyển tùy điều kiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dịch chuyển có điều kiện

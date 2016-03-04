@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vòng chùng ứng suất
+#vòng giảm cường độ
+#vòng hóa mềm

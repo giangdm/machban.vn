@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thành phần đơn cực
+@Lĩnh vực: điện
+#thành phần đồng cực

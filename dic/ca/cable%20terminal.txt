@@ -1,0 +1,7 @@
+﻿@cable terminal
+#(Tech) hộp cuối dây cáp
+@Chuyên ngành kỹ thuật
+#đầu cáp
+#đầu dây cáp
+@Lĩnh vực: xây dựng
+#mũ đầu cáp

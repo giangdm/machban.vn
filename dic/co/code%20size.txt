@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cỡ mã
+#kích thước mã
+@Lĩnh vực: toán & tin
+#kích cỡ mã
+#kích thước của mã

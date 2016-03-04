@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#làm lạnh nhiệt điện
+@Lĩnh vực: điện lạnh
+#làm lạnh (theo hiệu ứng) Peltier

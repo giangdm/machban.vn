@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng dư
+#biến dạng thường xuyên
+#biến dạng vĩnh cửu
+@Lĩnh vực: hóa học & vật liệu
+#độ biến dạng còn dư
+#độ biến dạng dư

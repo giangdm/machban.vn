@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#âm hồng, âm nghịch (giữa mật độ âm áp và âm tần)
+@Lĩnh vực: điện lạnh
+#tạp âm hồng
+#tạp nhiễu hồng
+#tiếng ồn hồng

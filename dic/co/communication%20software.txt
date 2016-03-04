@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phần mềm thông tin
+@Chuyên ngành kỹ thuật
+#chương trình truyền thông
+@Lĩnh vực: toán & tin
+#phần mềm truyền thông
+@Lĩnh vực: điện tử & viễn thông
+#phần niềm truyền thông

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số dư chuyển sang từ tài khoản trước
+#số dư năm trước (chuyển sang)

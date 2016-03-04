@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thử công suất
+@Lĩnh vực: cơ khí & công trình
+#sự thí nghiệm hiệu suất
+#sự thử năng suất
+@Lĩnh vực: điện
+#thử hiệu suất

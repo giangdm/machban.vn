@@ -1,0 +1,3 @@
+﻿@Central Bank of Central Banks
+#(Econ) Ngân hàng trung ương của các ngân hàng trung ương.
+: Xem BANK FOR INTERNATIONAL SETTLEMENTS và INTERNATIONAL MONETATY FUND.

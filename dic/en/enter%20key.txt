@@ -1,0 +1,10 @@
+﻿@enter key
+#(Tech) phím vào, phím thi hành
+@Chuyên ngành kinh tế
+#phím nhập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phím Enter
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phím Enter

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng nước có sẵn
+#lưu lượng an toàn
+#nguồn nước có sẵn
+@Lĩnh vực: đo lường & điều khiển
+#lượng lấy an toàn

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#đại lượng ngẫu nhiên rời rạc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến ngẫu nhiên rời rạc

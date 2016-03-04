@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bản vẽ phác
+@Lĩnh vực: cơ khí & công trình
+#bản vẽ biên dạng
+#bản vẽ đường giao
+@Lĩnh vực: xây dựng
+#bản vẽ hình viền
+#bản vẽ phác qua

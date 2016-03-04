@@ -1,0 +1,8 @@
+﻿@function code
+#(Tech) mã cơ năng
+@Chuyên ngành kỹ thuật
+#mã chức năng
+#mã điều khiển
+@Lĩnh vực: toán & tin
+#chữ số chức năng
+#mã hàm

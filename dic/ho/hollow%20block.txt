@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#gạch rỗng
+@Lĩnh vực: xây dựng
+#blốc rỗng
+#khối rỗng

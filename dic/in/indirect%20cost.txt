@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chi phí gián tiếp
+#phí tổn gián tiếp
+@Chuyên ngành kỹ thuật
+#chi phí gián tiếp

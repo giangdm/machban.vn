@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khoảng truy hồi
+@Chuyên ngành kỹ thuật
+#quãng cách lặp
+#tần suất
+@Lĩnh vực: cơ khí & công trình
+#khoảng lặp

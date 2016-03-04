@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cuộn (dây)
+#cuộn cảm
+#ống dây
+@Lĩnh vực: điện
+#cuộn (dây) điện cảm
+@Lĩnh vực: điện lạnh
+#cuộn tự cảm

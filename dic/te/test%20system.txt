@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống dùng thử
+#hệ thống kiểm tra
+#mẫu ban đầu
+@Lĩnh vực: toán & tin
+#hệ thống thử

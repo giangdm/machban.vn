@@ -1,0 +1,4 @@
+﻿@allocated band
+#(Tech) dải tần được phân định
+@Chuyên ngành kỹ thuật
+#dải được cấp phát

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiệu quả (năng suất) lạnh tổng thể
+#hiệu quả lạnh tổng (thể)
+#năng suất lạnh tổng (thể)

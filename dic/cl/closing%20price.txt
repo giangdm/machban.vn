@@ -1,0 +1,8 @@
+﻿@closing price
+*danh từ
+#giá cuối ngày (thị trường chứng khoán)
+@Chuyên ngành kinh tế
+#giá cuối cùng (ở sở giao dịch chứng khoán)
+#giá cuối ngày
+#giá đóng cửa
+#giá lúc đóng cửa

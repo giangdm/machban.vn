@@ -1,0 +1,30 @@
+﻿@acceleration /æk'selə'reiʃn/
+*danh từ
+#sự làm nhanh thêm, sự thúc mau, sự giục gấp
+#gia tốc
+=acceleration of gravity: (vật lý) gia tốc của trọng lực
+@Chuyên ngành kinh tế
+#tăng tốc
+@Chuyên ngành kỹ thuật
+#gia tốc
+#sự gia tốc
+#sự tăng tốc
+#tăng tốc
+@Lĩnh vực: toán & tin
+#sự làm nhanh
+@Lĩnh vực: xây dựng
+#sự tăng nhanh
+@Lĩnh vực: y học
+#tăng tốc, gia tốc
+<!-- more -->
+@acceleration
+#sự tăng tốc, sự gia tốc, sự làm nhanh
+#a. by powering sự tăng nhanh độ hội tụ bằng cách nâng lên luỹ thừa
+#a. of convergence sự tăng nhanh độ hội tụ, gia tốc hội tụ
+#a. of Corriolis sự tăng tốc Coriolit
+#a. of gravity gia tốc trọng trường
+#a. of falliing body sự tăng tốc gia tốc vật rơi
+#a. of translation gia tốc tịnh tiến
+#angular a. gia tốc góc
+#average a. gia tốc trung bình
+#centripetal a. gia tốc hướng tâm

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#khuyết tật nghiêm trọng
+@Chuyên ngành kỹ thuật
+#khuyết tật tới hạn
+#sai sót then chốt
+@Lĩnh vực: xây dựng
+#độ hụt tới hạn
+@Lĩnh vực: điện
+#khuyết tật nghiêm trọng

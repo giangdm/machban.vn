@@ -1,0 +1,2 @@
+﻿@asynchronous line
+#(Tech) đường dây dị bộ

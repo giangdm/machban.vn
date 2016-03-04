@@ -1,0 +1,2 @@
+﻿@computer organization
+#(Tech) tổ chức máy điện toán

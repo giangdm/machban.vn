@@ -1,0 +1,3 @@
+﻿@Locational interdependence
+#(Econ) Sự phụ thuộc lẫn nhau về vị trí.
+: Mối quan hệ tương hỗ giữa các hãng trong đó quyết định của một loại hãng về việc lựa chọn vị trí cho một nhà máy của nó bị tác động bởi những lựa chọn về vị trí của các đối thủ cạnh tranh.

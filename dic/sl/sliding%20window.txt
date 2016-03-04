@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa sổ trượt
+@Lĩnh vực: xây dựng
+#cửa sổ cánh trượt ngang
+#cửa sổ đẩy
+#cửa sổ kéo đẩy
+@Lĩnh vực: giao thông & vận tải
+#cửa sổ kiểu trượt

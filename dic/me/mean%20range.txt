@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#khoảng cách trung bình
+#khoảng trung bình
+@Lĩnh vực: toán & tin
+#biên độ triều trung bình
+@Lĩnh vực: hóa học & vật liệu
+#biên độ trung bình
+#tầm trung bình

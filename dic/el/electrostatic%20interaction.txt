@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tương tác Coulomb
+#tương tác tĩnh điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tương tác Coulomb
+#tương tác tĩnh điện

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống sử dụng cho nhiều người
+@Chuyên ngành kỹ thuật
+#hệ nhiều người dụng
+#hệ nhiều người sử dụng
+@Lĩnh vực: toán & tin
+#hệ thống nhiều user

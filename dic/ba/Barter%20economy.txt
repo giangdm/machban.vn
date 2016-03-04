@@ -1,0 +1,5 @@
+﻿@Barter economy
+#(Econ) Nền kinh tế hàng đổi hàng
+: Nền kinh tế mà hàng hoá và dịch vụ được thực hiện thông qua việc ĐỔI HÀNG, điều đó dẫn tới rất ít chuyên môn hoá hoặc phân công lực lượng lao động do yêu cầu của sự trùng lặp ý muốn.
+@Chuyên ngành kinh tế
+#hợp đồng hàng đổi hàng

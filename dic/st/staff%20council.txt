@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hội đồng công nhân viên chức
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ủy ban (tư vấn) nhân sự

@@ -1,0 +1,7 @@
+﻿@data rate
+#(Tech) tốc độ chuyển dữ liệu
+@Chuyên ngành kỹ thuật
+#tốc độ bốt
+#tốc độ dữ liệu
+@Lĩnh vực: toán & tin
+#tốc độ bít

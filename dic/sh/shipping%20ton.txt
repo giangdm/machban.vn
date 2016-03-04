@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#tấn cước
+#tấn vận tải biển
+#tấn xếp tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tấn lớn
+#tấn vận tải biển

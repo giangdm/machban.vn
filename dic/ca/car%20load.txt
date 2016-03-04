@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#hàng đầy toa
+#hàng nguyên toa
+#tải trọng toa xe

@@ -1,0 +1,8 @@
+﻿@CD-ROM
+#(Tech) đĩa CD với bộ nhớ chỉ đọc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#Compact Disk-Read Only Memory
+<!-- more -->
+@cd-rom
+#bộ nhớ chỉ đọc ra dùng đựa compact

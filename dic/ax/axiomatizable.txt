@@ -1,0 +1,5 @@
+﻿@axiomatizable
+#tiên đề hoá được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tiên đề hóa được

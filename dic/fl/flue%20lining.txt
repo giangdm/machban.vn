@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp lát ống dẫn lửa
+@Lĩnh vực: xây dựng
+#lớp lót bên trong ống dẫn khói
+@Chuyên ngành kỹ thuật
+#lớp lát ống dẫn lửa
+@Lĩnh vực: xây dựng
+#lớp lót bên trong ống dẫn khói

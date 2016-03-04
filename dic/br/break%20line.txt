@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng cuối
+#dòng ngắt
+#đường đứt
+#đường gãy đường đứt

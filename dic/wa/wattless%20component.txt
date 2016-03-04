@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#thành phần vuông góc
+@Lĩnh vực: điện lạnh
+#thành phần chạy không
+#thành phần phản kháng

@@ -1,0 +1,5 @@
+﻿@coupled impedance
+#(Tech) điên trở đối hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trở kháng được ghép

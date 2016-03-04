@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đồ thị không định hướng
+@Lĩnh vực: toán & tin
+#đồ thị vô hướng
+#hình không có hướng

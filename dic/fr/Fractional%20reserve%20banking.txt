@@ -1,0 +1,3 @@
+﻿@Fractional reserve banking
+#(Econ) Hoạt động ngân hàng bằng cách dự trữ theo tỷ lệ.
+: Hoạt động mà các ngân hàng THƯƠNG MẠI thực hiện duy trì dự trữ các tài sản có khả năng chuyển hoán cao ở một mức nào đó, thường là mức thấp nhất trong tổng danh mục tài sản của họ.

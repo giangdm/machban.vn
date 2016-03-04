@@ -1,0 +1,2 @@
+﻿@electron evaporation
+#(Tech) sự bốc hơi điện tử

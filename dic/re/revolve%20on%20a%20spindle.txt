@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quay chung quanh một cần trục
+@Lĩnh vực: cơ khí & công trình
+#quay chung quanh một trục
+@Lĩnh vực: xây dựng
+#quay xung quanh cần trục

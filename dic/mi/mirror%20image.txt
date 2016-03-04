@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#ảnh phản xạ
+#hình ảnh phản chiếu
+#hình bóng
+@Lĩnh vực: điện lạnh
+#ảnh (trong) gương
+@Lĩnh vực: xây dựng
+#ảnh đối xứng gương
+@Lĩnh vực: toán & tin
+#ảnh gương
+#phép ánh xạ gương

@@ -1,0 +1,8 @@
+﻿@Price support
+#(Econ) Trợ giá.
+@Chuyên ngành kinh tế
+#sự trợ giá (của chính phủ đối với nông sản phẩm)
+#trợ giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#trợ giá

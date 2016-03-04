@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#khớp dương
+@Lĩnh vực: điện
+#ổ nối dương

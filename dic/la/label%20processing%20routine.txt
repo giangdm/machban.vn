@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đoạn chương trình xử lý nhãn
+#thủ tục xử lý nhãn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đoạn chương trình xử lý nhãn
+#thủ tục xử lý nhãn

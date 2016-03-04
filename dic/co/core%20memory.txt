@@ -1,0 +1,5 @@
+﻿@core memory
+#(Tech) bộ nhớ kiểu lõi/nhẫn từ
+@Chuyên ngành kỹ thuật
+#bộ nhớ lõi
+#bộ nhớ lõi từ

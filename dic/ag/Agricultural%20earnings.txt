@@ -1,0 +1,3 @@
+﻿@Agricultural earnings
+#(Econ) Các khoản thu từ nông nghệp.
+: Khoản thu từ nông nghiệp thường khó định lượng, đặc biệt trong nền nông nghiệp tự túc hoặc ở những nơi thu nhập đưpực trả bằng hiện vật nghĩa là nông sản.

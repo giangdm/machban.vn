@@ -1,0 +1,21 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ hãm bằng tay
+#bộ hãm khi đỗ xe
+#phanh bãi đậu
+#phanh dừng
+#phanh hãm
+#phanh hãm tàu
+#phanh khi đỗ
+#phanh tay
+#thắng đậu
+@Lĩnh vực: giao thông & vận tải
+#hệ thống hãm dừng
+@Lĩnh vực: ô tô
+#phanh (phanh tay)
+#phanh đỗ xe
+@Lĩnh vực: toán & tin
+#thắng đậu, thắng tay
+@Lĩnh vực: xây dựng
+#thắng tay
+@Lĩnh vực: cơ khí & công trình
+#thắng tay khi đậu xe

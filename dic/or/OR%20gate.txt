@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch HOẶC
+#mạch OR
+@Lĩnh vực: toán & tin
+#cổng OR

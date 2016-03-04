@@ -1,0 +1,8 @@
+﻿@radio net /'reidiou'net/ (radio_net_work) /'reidiou'netwə:k/
+*danh từ
+#mạng lưới rađiô
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hệ thống vô tuyến
+@Lĩnh vực: toán & tin
+#mạng vô tuyến

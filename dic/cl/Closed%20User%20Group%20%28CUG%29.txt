@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhóm thuê bao khép kín
+@Chuyên ngành kỹ thuật
+#nhóm người dùng khép kín
+#nhóm người sử dụng khép kín
+@Lĩnh vực: toán & tin
+#nhóm người sử dụng đóng
+#nhóm người sử dụng giới hạn
+#nhóm người sử dụng kín

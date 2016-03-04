@@ -1,0 +1,3 @@
+﻿@Cross partial derivative
+#(Econ) Đạo hàm riêng
+: ĐẠO HÀM của một hàm số lần thứ nhất lấy theo một BIẾN ĐỘC LẬP và sau đó lấy theo một biến khác.

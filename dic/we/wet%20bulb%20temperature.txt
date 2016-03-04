@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ bầu ướt
+@Lĩnh vực: xây dựng
+#bầu ướt
+@Lĩnh vực: điện lạnh
+#nhiệt độ ẩm
+#nhiệt độ ẩm, bầu ướt

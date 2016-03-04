@@ -1,0 +1,7 @@
+﻿@Bilateral monopoly
+#(Econ) Độc quyền song phương.
+: Thị trường trong đó một người mua đơn độc đối mặt với người bán đơn độc.
+@Chuyên ngành kinh tế
+#độc quyền song biên
+#độc quyền song phương
+#độc quyền tay đôi

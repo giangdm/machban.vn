@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền cắt
+#giới hạn bền cắt
+#sức bền cắt
+#sức cản cắt
+@Lĩnh vực: xây dựng
+#cường độ chống cắt
+#đồ bền trượt
+#sức bền trượt
+#sức chịu cắt
+#sức chịu trượt
+@Lĩnh vực: hóa học & vật liệu
+#độ bền trượt
+#giới hạn bền trượt

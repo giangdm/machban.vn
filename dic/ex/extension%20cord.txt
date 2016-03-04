@@ -1,0 +1,18 @@
+﻿@extension cord
+#(Tech) dây nối dài
+@Chuyên ngành kỹ thuật
+#kéo dài
+@Lĩnh vực: toán & tin
+#dây kéo dài
+@Lĩnh vực: điện lạnh
+#dây mở rộng
+@Lĩnh vực: xây dựng
+#dây nối dài
+@Chuyên ngành kỹ thuật
+#kéo dài
+@Lĩnh vực: toán & tin
+#dây kéo dài
+@Lĩnh vực: điện lạnh
+#dây mở rộng
+@Lĩnh vực: xây dựng
+#dây nối dài

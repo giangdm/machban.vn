@@ -1,0 +1,7 @@
+﻿@Ordinal utility
+#(Econ) Độ thoả dụng theo thứ tự.
+: Hàng hóa nào có độ thoả dụng cao nhất thì được xếp trên hàng hoá có độ thoả dụng cao nhất tiếp theo và cứ tiếp tục như vậy. Độ thoả dụng theo thứ tự là nền tảng cho học thuyết tân cổ điển về cầu của người tiêu dùng.
+@Chuyên ngành kinh tế
+#hiệu quả theo số thứ tự
+#tính hiệu dụng theo thứ bậc
+#tính hữu dụng theo thứ bậc

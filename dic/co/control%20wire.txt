@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cáp điều khiển
+@Lĩnh vực: điện
+#dây kiểm tra

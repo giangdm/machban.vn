@@ -1,0 +1,2 @@
+﻿@database manager
+#(Tech) chương trình quản lý kho dữ liệu

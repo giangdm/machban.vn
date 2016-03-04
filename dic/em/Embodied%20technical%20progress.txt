@@ -1,0 +1,3 @@
+﻿@Embodied technical progress
+#(Econ) Tiến bộ kỹ thuật nội hàm; Tiến bộ hàm chứa kỹ thuật.
+: Tiến bộ kỹ thuật mà không thể có được nếu không hàm chứa nguồn vốn mới.

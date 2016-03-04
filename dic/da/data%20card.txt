@@ -1,0 +1,8 @@
+﻿@data card
+#(Tech) phiếu dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bìa dữ liệu
+@Lĩnh vực: toán & tin
+#cạc dữ liệu
+#thẻ dữ liệu

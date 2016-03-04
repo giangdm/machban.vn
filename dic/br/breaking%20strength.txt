@@ -1,0 +1,19 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền chống phá hủy
+#độ bền đứt
+#độ bền gãy
+#độ bền kéo
+#độ bền xé rách
+#giới hạn bền
+@Lĩnh vực: toán & tin
+#độ bền dứt
+#sức chống phá hủy
+@Lĩnh vực: xây dựng
+#độ bền giới hạn
+#sức chịu phá hủy
+@Lĩnh vực: dệt may
+#độ bền kéo đứt
+@Lĩnh vực: cơ khí & công trình
+#độ bền phá hủy
+@Lĩnh vực: điện lạnh
+#sức chịu gãy

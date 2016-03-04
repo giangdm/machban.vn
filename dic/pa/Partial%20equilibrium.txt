@@ -1,0 +1,10 @@
+﻿@Partial equilibrium
+#(Econ) Cân bằng bộ phận.
+: Việc nghiên cứu thị trường cho một hàng hoá trong điều kiện tách biệt.
+@Chuyên ngành kinh tế
+#cân bằng bộ phận
+#cân bằng cục bộ
+#cân bằng từng phần
+#thăng bằng từng phần
+@Chuyên ngành kỹ thuật
+#cân bằng cục bộ

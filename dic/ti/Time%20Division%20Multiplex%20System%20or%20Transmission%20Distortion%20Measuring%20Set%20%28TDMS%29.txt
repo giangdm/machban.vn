@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Hệ thống ghép kênh chia theo thời gian, Bộ đo méo truyền dẫn

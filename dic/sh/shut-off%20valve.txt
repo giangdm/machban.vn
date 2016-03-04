@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#van đóng
+#van khóa
+#van ngắt
+@Lĩnh vực: hóa học & vật liệu
+#van cắt dòng

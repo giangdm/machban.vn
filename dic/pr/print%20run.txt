@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#số lượng in
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số bản in
+#sự chạy in

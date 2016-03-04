@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#khoảng cách hãm
+#khoảng hãm
+#quãng đường phanh
+@Lĩnh vực: giao thông & vận tải
+#cự ly hãm
+@Lĩnh vực: ô tô
+#cự ly phanh
+#khoảnh cách phanh
+@Lĩnh vực: xây dựng
+#khoảng cách hãm xe

@@ -1,0 +1,6 @@
+﻿@gregorian calendar
+*danh từ
+#hệ thống lịch do Giáo hoàng Gregory XIII (1502 - 1585) đưa ra và cũng là hệ thống lịch mà thế giới ngày nay vẫn dùng
+@Chuyên ngành kỹ thuật
+#lịch giáo hoàng Gregory
+#lịch Gregory

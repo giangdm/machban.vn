@@ -1,0 +1,5 @@
+﻿@alphanumeric display device
+#(Tech) thiết bị hiển thị bằng chữ-số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết bị hiển thị chữ-số

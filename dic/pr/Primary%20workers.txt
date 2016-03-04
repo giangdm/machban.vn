@@ -1,0 +1,5 @@
+﻿@Primary workers
+#(Econ) Các công nhân sơ cấp.
+: Những cá nhân vẫn trong lực lượng lao động, được thuê mướn hoăch không thuê mướn, bất luận những thay đổi ngắn hạn về lương và điều kiện thị trường.
+@Chuyên ngành kinh tế
+#công nhân cấp một

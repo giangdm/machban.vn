@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khu công nghiệp
+@Lĩnh vực: xây dựng
+#vùng công nghiệp

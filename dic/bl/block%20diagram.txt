@@ -1,0 +1,11 @@
+﻿@block diagram
+#(Tech) sơ đồ khối
+@Chuyên ngành kỹ thuật
+#sơ đồ động
+#sơ đồ khối
+#sơ đồ khung
+#sơ đồ trực quan
+@Lĩnh vực: xây dựng
+#biểu đồ khối
+@Lĩnh vực: toán & tin
+#giản đồ khối

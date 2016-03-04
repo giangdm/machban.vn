@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cao độ trên kinh tuyến
+@Lĩnh vực: toán & tin
+#cao độ kinh tuyến
+@Lĩnh vực: điện lạnh
+#độ (cao) theo kinh tuyến

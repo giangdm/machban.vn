@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#màu rắn (chắc)
+@Lĩnh vực: toán & tin
+#màu thuần

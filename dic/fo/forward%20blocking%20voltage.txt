@@ -1,0 +1,2 @@
+﻿@forward blocking voltage
+#(Tech) điện áp đóng thuận

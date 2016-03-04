@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sai sót tính toán
+@Chuyên ngành kỹ thuật
+#lỗi tính toán
+#sai số tính toán

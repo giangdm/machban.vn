@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu thức logíc thứ cấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu thức Booole thứ cấp

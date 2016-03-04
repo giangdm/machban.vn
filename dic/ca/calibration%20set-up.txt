@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự định cỡ
+@Lĩnh vực: đo lường & điều khiển
+#sự thiết lập hiệu chỉnh
+#tổ hợp hiệu chỉnh

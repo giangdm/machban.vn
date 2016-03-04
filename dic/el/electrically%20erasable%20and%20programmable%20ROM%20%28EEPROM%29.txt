@@ -1,0 +1,2 @@
+﻿@electrically erasable and programmable ROM (EEPROM)
+#(Tech) bộ nhớ chỉ đọc tẩy và thảo chương được (bằng điện)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chế độ cân bằng không đồng bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ cân bằng bất đồng bộ

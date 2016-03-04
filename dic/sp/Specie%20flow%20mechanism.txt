@@ -1,0 +1,5 @@
+﻿@Specie flow mechanism
+#(Econ) Cơ chế chảy vàng.
+: Theo quan điểm truyền thống về hoạt động của chế độ BẢN VỊ VÀNG, một cơ chế hiệu chỉnh trong đó thặng dư hay thâm hụt CÁN CÂN THANH TOÁN có xu hướng bị xoá bỏ bởi các dòng luân chuyển vàng.
+@Chuyên ngành kinh tế
+#cơ chế tự điều chỉnh bằng luồng vàng

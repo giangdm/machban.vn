@@ -1,0 +1,43 @@
+﻿@center (centre)
+#trung tâm // đặt vào tâm
+#c. of a bundle tâm của một chùm
+#c. of buyoancy tâm nổi
+#c. of s cirele tâm vòng tròn
+#c. of compresssion tâm nén
+#c. of a conic tâm của một cônic
+#c. of curvature tâm cong
+#c. of figure tâm một hình
+#c. of flexure tâm uốn
+#c. of gravity trọng tâm
+#c. of a group tâm của một nhóm
+#c. of homology tâm thấu xạ
+#c. of inversion tâm nghịch đảo
+#c. of isologue tâm đối vọng
+#c. of mass tâm khối
+#c. of mean distance tâm khoảng cách trung bình
+#c. of moment tâm mômen
+#c. of oscillation tâm dao động
+#c. of a pencil tâm một bó
+#c. of percussion tâm kích động
+#c. of perspectivity tâm phối cảnh
+#c. of projection tâm chiếu
+#c. of a quadratic complex tâm một mớ bậc hai
+#c. of a quadric tâm một quadric
+#c. of a range tâm của một miền biến thiên
+#c. of similarity tâm đồng dạng
+#c. of sphere tâm hình cầu
+#c. of surface tâm của mặt
+#c. of suspension tâm treo
+#c. of twist tâm xoắn
+#aerodynamic c. tâm áp
+#computation c. trung tâm tính toán
+#elastic c. tâm dàn hồi
+#harmonic c. tâm điều hoà
+#instantaneous c. tâm tức thời
+#median c. tk tâm [trung vị; međian]
+#radical c. tâm đẳng phương
+#ray c. tâm vị tự
+#shear c. tâm trượt, tâm cắt
+@Chuyên ngành kỹ thuật
+#tâm
+#trung tâm

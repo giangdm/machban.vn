@@ -1,0 +1,2 @@
+﻿@digital data receiver
+#(Tech) máy thu dữ liệu dạng số tự

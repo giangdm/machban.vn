@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhóm con hoàn toàn dặc trưng
+#nhóm con hoàn toàn đặc trưng

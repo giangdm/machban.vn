@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#móng đơn
+#móng trụ
+@Lĩnh vực: xây dựng
+#móng biệt lập
+#móng dời
+@Lĩnh vực: cơ khí & công trình
+#móng cô lập
+@Lĩnh vực: toán & tin
+#móng đơn, móng trụ

@@ -1,0 +1,3 @@
+﻿@com
+#Trong DOS, đây là tên thiết bị được gán cho các cổng truyền thông nối tiếp có trong máy tính của bạn Máy bạn có thể có đến bốn cổng COM, theo DOS là COM 1, COM 2, COM 3, COM 4
+#Khi dùng làm đuôi mở rộng cho tên tệp COM sẽ cho biết đó là một tệp chương trình có thể thực hiện được, bị hạn chế trong giới hạn 64 K Để chạy một tệp COM, bạn đánh tên tệp và ấn Enter

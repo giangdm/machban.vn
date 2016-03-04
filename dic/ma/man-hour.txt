@@ -1,0 +1,9 @@
+﻿@man-hour
+*danh từ
+#giờ công (công việc do một người làm trong một giờ)
+@Chuyên ngành kinh tế
+#giờ công
+#người giờ
+@Chuyên ngành kỹ thuật
+#giờ công
+#giờ làm việc

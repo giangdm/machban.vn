@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết bị bỏ đi
+#thiết bị dùng một lần
+#thiết bị loại bỏ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chỉnh vòng dây mức âm
+@Lĩnh vực: điện
+#đầu ra phụ

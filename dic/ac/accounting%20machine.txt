@@ -1,0 +1,8 @@
+﻿@accounting machine
+#(Tech) máy kế toán
+@Chuyên ngành kinh tế
+#máy kế toán
+#máy tính
+@Chuyên ngành kỹ thuật
+#máy kế toán
+#máy tính

@@ -1,0 +1,2 @@
+﻿@general-purpose systems simulator (GPSS)
+#(Tech) bộ mô phỏng hệ thống thường dụng

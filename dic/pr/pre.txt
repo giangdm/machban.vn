@@ -1,0 +1,2 @@
+﻿@pre
+#(tiền tố) trước, tiền, sẵn

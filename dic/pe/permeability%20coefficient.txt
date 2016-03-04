@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hệ số thẩm thấu
+@Chuyên ngành kỹ thuật
+#hệ số thấm
+@Lĩnh vực: xây dựng
+#hệ số độ thấm

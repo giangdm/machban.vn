@@ -1,0 +1,2 @@
+﻿@edi
+#Một tiêu chuẩn dùng cho việc trao đổi bằng phương pháp điện tử các tài liệu doanh thương, như các danh đơn hàng gửi và các phiếu trả tiền chẳng hạn, đã được thành lập bởi Hiệp hội các tiêu chuẩn trao đổi dữ liệu (Data Interchange Standard Association - DISA)

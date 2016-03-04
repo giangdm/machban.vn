@@ -1,0 +1,2 @@
+﻿@dynamic storage allocation = dynamic memory allocation
+#(Tech)  phân bố bộ nhớ động

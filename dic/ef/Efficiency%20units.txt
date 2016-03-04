@@ -1,0 +1,7 @@
+﻿@Efficiency units
+#(Econ) Đơn vị hiệu quả.
+: Một phương pháp đo lường lực lượng lao động thông qua đầu vào dịch vụ lao động được sử dụng.
+@Chuyên ngành kinh tế
+#các đơn vị hiệu quả
+#các đơn vị hiệu quả (của lực lượng lao động)
+#đơn vị hiệu quả

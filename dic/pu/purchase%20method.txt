@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nguyên giá
+#phương pháp mua theo giá vốn
+#phương pháp mua theo giá vốn, nguyên giá

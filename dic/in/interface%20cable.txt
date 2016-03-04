@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các khớp nối
+#cáp giao diện
+@Lĩnh vực: điện tử & viễn thông
+#cáp khớp nối

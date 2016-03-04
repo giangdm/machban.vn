@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#pin tiêu chuẩn
+#pin weston
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#pin (chuẩn) Weston

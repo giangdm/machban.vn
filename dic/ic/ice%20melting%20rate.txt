@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cường độ tan (nước) đá
+#tốc độ (cường độ) tan đá
+#tốc độ tan (nước) đá

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#lớp bảo vệ anốt
+@Lĩnh vực: hóa học & vật liệu
+#lớp mạ anốt

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#độ không ổn định nhiệt
+#tính bất ổn định nhiệt

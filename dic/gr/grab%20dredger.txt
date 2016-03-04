@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy xúc kiểu gàu ngoạm
+#tàu hút bùn kiểu gàu
+@Lĩnh vực: giao thông & vận tải
+#tàu cuốc gàu ngoam

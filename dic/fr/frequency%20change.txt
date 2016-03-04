@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#độ biến thiên tần số
+#đổi tần số
+#sự thay đổi tần số
+@Lĩnh vực: toán & tin
+#thay đổi tần số

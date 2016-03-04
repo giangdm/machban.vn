@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số đầm chặt
+@Lĩnh vực: xây dựng
+#hệ số đầm
+#hệ số đầm lèn
+@Lĩnh vực: cơ khí & công trình
+#hệ số đầm nén
+@Lĩnh vực: hóa học & vật liệu
+#thừa số lèn chặt

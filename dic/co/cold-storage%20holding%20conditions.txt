@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#các điều kiện bảo quản lạnh
+#tình trạng bảo quản lạnh

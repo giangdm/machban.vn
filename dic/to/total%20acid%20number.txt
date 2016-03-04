@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chỉ số axit toàn phần
+@Lĩnh vực: hóa học & vật liệu
+#tổng giá trị axit

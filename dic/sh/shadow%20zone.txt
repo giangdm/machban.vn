@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng bóng
+@Lĩnh vực: điện lạnh
+#vùng bóng âm thanh
+#vùng bóng địa chấn
+@Lĩnh vực: xây dựng
+#vùng râm mát khu vực (có) bóng râm

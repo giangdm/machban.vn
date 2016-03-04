@@ -1,0 +1,6 @@
+﻿@Job cluster
+#(Econ) Nhóm nghề.
+: Một nhóm ổn định các nghề nghiệp hay công việc nằm trong một thị trường lao động nội bộ liên kết chặt chẽ với nhau đến mức chúng có cùng các đặc điểm quy định về lương bổng.
+@Chuyên ngành kinh tế
+#nhóm công việc
+#nhóm việc làm

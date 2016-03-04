@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dụng cụ cảm biến nhiệt
+#phần tử nhạy nhiệt

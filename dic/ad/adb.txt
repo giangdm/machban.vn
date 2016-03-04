@@ -1,0 +1,2 @@
+﻿@adb
+#(vt của Apple Desktop Bus) Bus của máy tính để bàn Apple, bus ADB

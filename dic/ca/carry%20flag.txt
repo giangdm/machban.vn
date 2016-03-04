@@ -1,0 +1,5 @@
+﻿@carry flag
+#(Tech) cờ mang sang
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cờ nhớ

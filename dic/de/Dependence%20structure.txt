@@ -1,0 +1,3 @@
+﻿@Dependence structure
+#(Econ) Cấu trúc phụ thuộc.
+: Các nước thế giới thứ ba là một phần của cấu trúc rộng lớn về sự phụ thuộc kinh tế, xã hội và chính trị giữa các nhóm quyền lực ở các nước tiên tiến, đặc biệt là các công ty đa quốc gia và nhóm lợi ích chủ yếu ở các nước nghèo.

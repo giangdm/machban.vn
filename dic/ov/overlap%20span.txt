@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#khoảng vượt gối đầu
+@Lĩnh vực: điện lạnh
+#khoảng xếp chồng

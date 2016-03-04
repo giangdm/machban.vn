@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hiệu suất (tính theo) oát-giờ
+@Lĩnh vực: điện lạnh
+#hiệu suất oat giờ

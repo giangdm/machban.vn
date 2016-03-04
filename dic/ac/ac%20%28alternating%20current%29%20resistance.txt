@@ -1,0 +1,2 @@
+﻿@ac (alternating current) resistance
+#(Tech) điện trở xoay chiều

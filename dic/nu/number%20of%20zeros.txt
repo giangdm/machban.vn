@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#số các không điểm
+@Lĩnh vực: toán & tin
+#số các điểm không

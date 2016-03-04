@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền vặn
+#độ bền xoắn
+@Lĩnh vực: xây dựng
+#cường độ chống xoắn

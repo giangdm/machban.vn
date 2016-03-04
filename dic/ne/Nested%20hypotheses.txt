@@ -1,0 +1,3 @@
+﻿@Nested hypotheses
+#(Econ) Các giả thuyết lồng nhau
+: Trong MÔ HÌNH HỒI QUY,  CÁC GIẢ THIẾT được coi là lồng nhau trong nếu CÁC BIẾN GIẢI THÍCH trong một giả thiết là một tập hợp con của các biến số giải thích trong các biến khác.

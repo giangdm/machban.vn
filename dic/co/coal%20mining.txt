@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#việc khai mỏ than
+@Chuyên ngành kỹ thuật
+#sự khai thác than
+@Lĩnh vực: hóa học & vật liệu
+#khai thác than
+@Lĩnh vực: điện
+#việc khai thác than

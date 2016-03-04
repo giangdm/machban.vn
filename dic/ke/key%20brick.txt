@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#viên
+@Lĩnh vực: xây dựng
+#gạch khóa vòm
+#viên gạch ở đỉnh vòm
+@Chuyên ngành kỹ thuật
+#viên
+@Lĩnh vực: xây dựng
+#gạch khóa vòm
+#viên gạch ở đỉnh vòm

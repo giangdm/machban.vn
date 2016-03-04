@@ -1,0 +1,5 @@
+﻿@pug-mill /'pʌgmil/
+*danh từ
+#máy nhào đất sét
+@Chuyên ngành kỹ thuật
+#máy ngào đất sét

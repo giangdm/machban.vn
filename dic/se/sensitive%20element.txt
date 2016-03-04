@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bầu cảm
+#đầu cảm nhiệt
+@Lĩnh vực: điện lạnh
+#phần tử nhạy cảm

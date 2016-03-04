@@ -1,0 +1,13 @@
+﻿@Expected value
+#(Econ) Giá trị kỳ vọng; giá trị dự tính.
+: Còn được gọi TRUNG BÌNH, kỳ vọng toán học.Giá trị kỳ vọng của một BIẾN SỐ NGẪU NHIÊN là giá trị trung bình của phân phối của biến ấy.
+@Chuyên ngành kinh tế
+#giá trị dự tính
+#giá trị dự tính giá trị kỳ vọng
+#giá trị kỳ vọng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị kỳ vọng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giá trị kỳ vọng

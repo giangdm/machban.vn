@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cửa âu phía trên
+#cửa dầm âu
+@Lĩnh vực: cơ khí & công trình
+#cửa âu tầu thượng lưu

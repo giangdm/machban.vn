@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dạng sóng thị tần hỗn hợp
+#dạng sóng thị tần phức hợp
+#tín hiệu thị tần hỗn hợp
+#tín hiệu thị tần phức hợp

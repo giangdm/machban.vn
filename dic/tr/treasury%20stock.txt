@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chứng khoán tồn tại
+#chứng khoán tồn trữ
+#cổ phiếu thu hồi
+#cổ phiếu tồn kho
+#trái khoán công quỹ
+@Chuyên ngành kinh tế
+#Chứng khoán tài chính Anh

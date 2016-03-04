@@ -1,0 +1,29 @@
+﻿@Wholesale
+#(Econ) Buôn bán, bán sỉ.
+: Giai đoạn trung gian trong quá trình phân phối sản phẩm
+<!-- more -->
+@wholesale /'houlseil/
+*danh từ
+#(thưng nghiệp) sự bán buôn, sự bán sỉ
+=to sell by wholesale: bán buôn
+=wholesale and retail: bán buôn và bán lẻ
+#(nghĩa bóng) c lô, c khối
+*tính từ & phó từ
+#(thưng nghiệp) buôn, sỉ
+=wholesale trade: bán buôn
+=wholesale price: giá bán buôn
+#(nghĩa bóng) quy mô lớn; hàng loạt, hàng đống
+=wholesale slaughter: sự tàn sát hàng loạt
+@Chuyên ngành kinh tế
+#bán buôn
+#bán sỉ
+#số lượng lớn
+#sự bán sỉ
+@Chuyên ngành kỹ thuật
+#bán buôn
+@Lĩnh vực: hóa học & vật liệu
+#sự bán buôn
+#sự bán cả lô
+<!-- more -->
+@wholesale
+#(toán kinh tế) (mua; bán) buôn

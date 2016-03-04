@@ -1,0 +1,2 @@
+﻿@frequency-to-number converter
+#(Tech) bộ đổi tần ra số

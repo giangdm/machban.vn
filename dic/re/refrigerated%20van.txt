@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#toa đông lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#ô tô có bảo quản lạnh
+#toa có bảo quản lạnh

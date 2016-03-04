@@ -1,0 +1,10 @@
+﻿@benchmark program
+#(Tech) chương trình kiểm chuẩn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình benchmark
+#chương trình định chuẩn
+#chương trình mẫu
+#chương trình tiêu chuẩn
+@Lĩnh vực: xây dựng
+#chương trình thời chuẩn

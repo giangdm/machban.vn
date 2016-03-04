@@ -1,0 +1,11 @@
+﻿@Total cost
+#(Econ) Tổng phí; chi phí tổng.
+: Tổng chi phí sản xuất ra một sản lượng xác định.
+@Chuyên ngành kinh tế
+#tổng chi phí
+#tổng giá phí
+#tổng phí tổn
+@Chuyên ngành kỹ thuật
+#chi phí toàn bộ
+@Lĩnh vực: toán & tin
+#chi phí tổng

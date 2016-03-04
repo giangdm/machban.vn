@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ đọc khe mã vạch
+#bộ quét mã sọc
+#bộ quét mã vạch
+#máy quét dải mã
+@Lĩnh vực: điện tử & viễn thông
+#bộ quét dải mã

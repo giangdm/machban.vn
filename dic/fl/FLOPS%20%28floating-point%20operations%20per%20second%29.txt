@@ -1,0 +1,2 @@
+﻿@FLOPS (floating-point operations per second)
+#(Tech) số phép toán điểm phù động mỗi giây, đơn vị tốc độ diễn toán

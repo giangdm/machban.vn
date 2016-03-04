@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bể nước trên cao
+#bình áp suất
+@Lĩnh vực: xây dựng
+#bể nước áp lực
+#bể nước chịu áp
+@Lĩnh vực: cơ khí & công trình
+#két nước có áp

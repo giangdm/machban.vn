@@ -1,0 +1,2 @@
+﻿@electron-beam device
+#(Tech) dụng cụ dùng tia điện tử

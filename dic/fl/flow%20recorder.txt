@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu lượng ký
+@Lĩnh vực: điện lạnh
+#bộ ghi lưu lượng
+@Lĩnh vực: hóa học & vật liệu
+#đồng hồ lưu lượng
+@Lĩnh vực: cơ khí & công trình
+#thiết bị đo lưu lượng
+@Chuyên ngành kỹ thuật
+#lưu lượng ký
+@Lĩnh vực: điện lạnh
+#bộ ghi lưu lượng
+@Lĩnh vực: hóa học & vật liệu
+#đồng hồ lưu lượng
+@Lĩnh vực: cơ khí & công trình
+#thiết bị đo lưu lượng

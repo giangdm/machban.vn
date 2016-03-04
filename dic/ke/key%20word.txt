@@ -1,0 +1,13 @@
+﻿@key word ['ki:wə:d]
+*danh từ
+# từ then chốt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#từ dành riêng
+@Lĩnh vực: xây dựng
+#từ giải nghĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#từ dành riêng
+@Lĩnh vực: xây dựng
+#từ giải nghĩa

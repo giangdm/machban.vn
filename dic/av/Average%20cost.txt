@@ -1,0 +1,7 @@
+﻿@Average cost
+#(Econ) Chi phí bình quân.
+: Chi phí trên một đơn vị sản lượng trong đó bao gồm chi phí của tất cả đầu vào (các yếu tố sản xuất).
+@Chuyên ngành kinh tế
+#chi phí trung bình
+#giá thành bình quân
+#phí tổn bình quân

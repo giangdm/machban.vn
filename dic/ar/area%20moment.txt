@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mômen diện tích
+@Lĩnh vực: vật lý
+#môment tĩnh

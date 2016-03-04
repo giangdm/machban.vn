@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biểu đồ (đồ thị) công suất
+@Lĩnh vực: điện lạnh
+#biểu đồ công suất

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#phụ tải cố định
+#tải trọng thường xuyên
+#tĩnh tải
+@Lĩnh vực: điện
+#phụ tải không đổi
+@Lĩnh vực: xây dựng
+#tải trọng tĩnh (tải trọng thường xuyên)
+#tĩnh bản thân

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy thăm dò tầng bình lưu
+#máy thám trắc tầng bình lưu

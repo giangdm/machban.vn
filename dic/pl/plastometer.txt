@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#máy đo độ đàn hồi
+@Chuyên ngành kỹ thuật
+#máy đo độ dẻo của nhựa/ máy do độ chịu lực của kim loại
+@Lĩnh vực: hóa học & vật liệu
+#dẻo kế
+@Lĩnh vực: xây dựng
+#máy đo độ dẻo

@@ -1,0 +1,20 @@
+﻿@branch line ['bra:nt∫,lain]
+*danh từ
+# đường sắt nhánh
+@Chuyên ngành kinh tế
+#tuyến nhánh (đường sắt)
+@Chuyên ngành kỹ thuật
+#đường nhánh
+#đường sắt nhánh
+#nhánh thoát nước
+@Lĩnh vực: điện
+#đường dây rẽ nhánh
+#đường nhánh (ống dẫn)
+@Lĩnh vực: xây dựng
+#đường ghép cấu trúc
+#đường phân nhánh
+#tuyến nhánh
+@Lĩnh vực: toán & tin
+#đường rẽ nhánh
+@Lĩnh vực: giao thông & vận tải
+#tuyến đương nhánh

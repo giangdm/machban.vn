@@ -1,0 +1,7 @@
+﻿@Net present value
+#(Econ) Giá trị hiện tại ròng.
+: Là kết quả thu được khi lấy giá trị đã triết khấu của các khoản lợi nhuận dự kiến trừ đi giá trị đã chiết khấu của các chi phí đầu tư dự kiến.
+@Chuyên ngành kinh tế
+#giá hiện tại thuần
+#hiện giá ròng
+#phương pháp giá trị thực tại tịnh

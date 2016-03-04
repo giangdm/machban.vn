@@ -1,0 +1,3 @@
+﻿@Unit root tests
+#(Econ) Kiểm định đơn vị.
+: Phép kiểm định để xác định xem liệu một chuỗi thời gian là tĩnh tại về chênh lệch hay không.

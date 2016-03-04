@@ -1,0 +1,8 @@
+﻿@mega
+#Tiền tố để chỉ 1 triệu
+@Chuyên ngành kinh tế
+#lớn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mega
+#mêga

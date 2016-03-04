@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#biên độ thủy triều
+@Lĩnh vực: cơ khí & công trình
+#khoảng tốc độ quay

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#dải dừng
+@Lĩnh vực: toán & tin
+#băng (tần) dừng
+@Lĩnh vực: điện lạnh
+#dải chặn
+#dải loại bỏ
+@Lĩnh vực: điện tử & viễn thông
+#dải suy giảm

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiệu ứng đốt nóng
+#hiệu ứng gia nhiệt
+#hiệu ứng sưởi (ấm)

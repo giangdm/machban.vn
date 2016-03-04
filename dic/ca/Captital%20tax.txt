@@ -1,0 +1,3 @@
+﻿@Captital tax
+#(Econ) Thuế vốn
+: Xem WEALTH TAX

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#độ từ thẩm
+@Lĩnh vực: hóa học & vật liệu
+#độ thấm từ
+@Lĩnh vực: điện
+#hàng số từ thẩm
+@Lĩnh vực: điện lạnh
+#hằng số từ thẩm
+#hệ số từ thẩm

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đơn vị hoạt động
+#khối chạy
+#thiết bị thực hiện

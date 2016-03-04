@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép tính ma trận
+@Lĩnh vực: điện lạnh
+#tính ma trận

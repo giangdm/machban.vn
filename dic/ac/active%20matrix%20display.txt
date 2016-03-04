@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#màn hình ma trận hoạt động
+#màn hình ma trận tích cực

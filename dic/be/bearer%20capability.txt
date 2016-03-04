@@ -1,0 +1,2 @@
+﻿@bearer capability
+#(Tech) khả năng bộ truyền tin

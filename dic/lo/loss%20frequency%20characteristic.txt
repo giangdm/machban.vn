@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đặc trưng suy giảm tần số
+#đặc tuyến suy giảm tần số

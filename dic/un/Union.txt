@@ -1,0 +1,57 @@
+﻿@Union/non-union differential
+#(Econ) Chênh lệch tiền lương giữa công nhân tham gia và không tham gia công đoàn.
+: Chênh lệch này đo mức độ mà các công đoàn đã tăng tiền lương của thành viên so với lao đông không tham gia công đoàn tương đương.
+<!-- more -->
+@union /'ju:njən/
+*danh từ
+#sự hợp nhất, sự kết hợp, sự liên kết; liên minh, liên hiệp
+=the union of several co-operatives: sự hợp nhất của nhiều hợp tác xã
+=a union by treaty: sự liên kết bằng hiệp ước
+#sự nhất trí, sự cộng đồng, sự đoàn kết, sự hoà hợp
+=union is strength: đoàn kết là sức mạnh
+=the union of the nation: sự đoàn kết của dân tộc
+#hiệp hội, liên hiệp; đồng minh; liên bang
+=the Soviet Union: Liên bang Xô-viết
+=the Union: nước Mỹ
+#sự kết hôn, hôn nhân
+=a happy union: một cuộc hôn nhân hạnh phúc
+#nhà tế bần
+=to go into the union (Union-house): ra ở nhà tế bần
+#(the Union) câu lạc bộ và hội tranh luận (ở một vài trường đại học); trụ sở của hội tranh luận
+#thùng (để) lắng bia
+#vải sợi pha lanh; vải sợi pha tơ
+#(kỹ thuật) Răcco, ống nối
+@Chuyên ngành kinh tế
+#công đoàn
+#liên hiệp
+#nghiệp đoàn
+@Chuyên ngành kỹ thuật
+#hiệp hội
+#hợp
+#kết hợp
+#khớp nối
+#liên hiệp
+#nghiệp đoàn
+#măng song
+#mối nối
+#ống nối
+#sự liên kết
+#sự nối
+@Lĩnh vực: xây dựng
+#cột gắn
+#khớp vặn vít ống
+#sự bắt bulông
+#sự liên hiệp
+@Lĩnh vực: cơ khí & công trình
+#đồ gá/khớp nối
+@Lĩnh vực: toán & tin
+#hội, hợp
+#phép hợp
+@Lĩnh vực: y học
+#nối liền (trong một xương gãy)
+<!-- more -->
+@union
+#hợp
+#u. of sets hợp nhất của các tập hợp
+#u. of spheres (tô pô) bó hình cầu
+#direct u. (đại số) hợp trực tiếp

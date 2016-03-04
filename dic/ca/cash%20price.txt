@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#bằng tiền mặt
+#giá chiết khấu trả tiền mặt
+#giá tiền mặt
+#giá trả (tiền) ngay
+#giá trả tiền ngay
+#trả ngay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#giá bán lấy tiền ngay

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn biến
+@Lĩnh vực: toán & tin
+#một biến

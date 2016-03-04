@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trường chọn
+@Lĩnh vực: toán & tin
+#trường lựa chọn

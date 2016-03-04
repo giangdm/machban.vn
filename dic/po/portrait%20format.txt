@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu diễn dọc dấy
+#dạng thức in giấy dọc
+#khuôn in giấy dọc

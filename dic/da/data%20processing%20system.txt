@@ -1,0 +1,8 @@
+﻿@data processing system
+#(Tech) hệ thống xử lý dữ liệu
+@Chuyên ngành kinh tế
+#hệ thống xử lý số liệu
+@Chuyên ngành kỹ thuật
+#hệ thống máy tính
+@Lĩnh vực: điện tử & viễn thông
+#hệ xử lý dữ liệu

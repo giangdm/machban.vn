@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giá trị rút gọn
+@Lĩnh vực: toán & tin
+#giá trị thu gọn

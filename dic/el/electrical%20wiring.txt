@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#sơ đồ đấu điện
+#sơ đồ mạch điện
+@Lĩnh vực: điện
+#cách mắc điện
+#sự đi dây điện
+#sự mắc dây điện
+#sự nối dây điện
+@Chuyên ngành kỹ thuật
+#sơ đồ đấu điện
+#sơ đồ mạch điện
+@Lĩnh vực: điện
+#cách mắc điện
+#sự đi dây điện
+#sự mắc dây điện
+#sự nối dây điện

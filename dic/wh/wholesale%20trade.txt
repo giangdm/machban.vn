@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#mậu dịch bán sỉ
+#mậu dịch buôn sỉ, nghiệp vụ buôn sỉ
+#nghiệp vụ bán sỉ
+#thương mại bán buôn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bán buôn

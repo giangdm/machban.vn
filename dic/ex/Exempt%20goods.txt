@@ -1,0 +1,5 @@
+﻿@Exempt goods
+#(Econ) Hàng hoá được miễn thuế giá trị gia tăng.
+: Xem VALUE - ADDED TAX
+@Chuyên ngành kinh tế
+#hàng miễn thuế giá trị gia tăng

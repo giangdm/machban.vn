@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#sự chọn mẫu theo các biến tố
+#sự chọn mẫu theo các yếu tố khả biến

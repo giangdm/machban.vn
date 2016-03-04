@@ -1,0 +1,1 @@
+﻿@available time = available machine time

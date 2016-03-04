@@ -1,0 +1,6 @@
+﻿@communication bus
+#(Tech) buýt truyền thông
+@Chuyên ngành kỹ thuật
+#đường truyền thông
+@Lĩnh vực: toán & tin
+#buýt truyền thông

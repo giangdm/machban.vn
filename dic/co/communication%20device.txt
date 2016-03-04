@@ -1,0 +1,2 @@
+﻿@communication device
+#(Tech) thiết bị truyền thông

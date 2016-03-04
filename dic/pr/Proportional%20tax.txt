@@ -1,0 +1,6 @@
+﻿@Proportional tax
+#(Econ) Thuế tính theo tỷ lệ.
+: Trước hết, ở nơi mà tỷ lệ của thu nhập được lấy ra để nộp thuế vẫn giữ nguyên khi thu nhập tăng, thì có một THUẾ SUẤT BIÊN không thay đổi bằng với thuế suất trung bình hoặc thuế suất hiệu lực. Định nghĩa thứ hai là một thứ thuế tỷ lệ nếu thuế suất không đổi khi cơ sở thuế tăng lên.
+@Chuyên ngành kinh tế
+#thuế theo tỷ lệ
+#thuế tỉ lệ

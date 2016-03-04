@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lĩnh vực
+#miền
+@Lĩnh vực: toán & tin
+#vùng
+@Chuyên ngành kỹ thuật
+#lĩnh vực
+#miền
+@Lĩnh vực: toán & tin
+#vùng

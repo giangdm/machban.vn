@@ -1,0 +1,21 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa cống
+@Lĩnh vực: xây dựng
+#cổng cửa cống
+#cửa âu (thuyền)
+@Lĩnh vực: giao thông & vận tải
+#cửa âu tàu
+#của cống
+@Lĩnh vực: cơ khí & công trình
+#cửa âu tầu
+<!-- more -->
+@Chuyên ngành kỹ thuật
+#cửa cống
+@Lĩnh vực: xây dựng
+#cổng cửa cống
+#cửa âu (thuyền)
+@Lĩnh vực: giao thông & vận tải
+#cửa âu tàu
+#của cống
+@Lĩnh vực: cơ khí & công trình
+#cửa âu tầu

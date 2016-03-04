@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị chắn không
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#thiết bị chân không

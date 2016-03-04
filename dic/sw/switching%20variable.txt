@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến chuyển mạch
+@Lĩnh vực: điện tử & viễn thông
+#biến số chuyển mạch
+#biến số đảo mạch
+#biến số lôgíc
+#biến số luận lý

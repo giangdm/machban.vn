@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ cục bộ
+#chế độ nội bộ
+#trạng thái cục bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ cục bộ
+#chế độ nội bộ
+#trạng thái cục bộ

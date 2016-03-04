@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#sàng rung
+@Chuyên ngành kỹ thuật
+#sàng rung
+#sàng rung va đập
+@Lĩnh vực: cơ khí & công trình
+#cái sàng lắc (va đập)
+@Lĩnh vực: xây dựng
+#máy sàng kiểu va đập
+@Lĩnh vực: hóa học & vật liệu
+#sàng va đập

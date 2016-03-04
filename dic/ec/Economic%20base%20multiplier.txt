@@ -1,0 +1,6 @@
+﻿@Economic base multiplier
+#(Econ) Nhân tử cơ sở kinh tế.
+: Một dạng của NHÂN TỬ KHU VỰC ước tính ảnh hưởng của những thay đổi trong một CƠ SỞ KINH TẾ vùng đối với toàn bộ nền kinh tế của vùng.
+@Chuyên ngành kinh tế
+#số nhân của cơ sở kinh tế
+#số phận của cơ sở kinh tế

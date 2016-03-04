@@ -1,0 +1,6 @@
+﻿@dressing room
+#phòng phục trang (của diễn viên)
+@Chuyên ngành kỹ thuật
+#phòng thay quần áo
+@Lĩnh vực: xây dựng
+#phòng gửi áo ngoài

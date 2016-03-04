@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phép dịch
+#toán tử dời chỗ
+#toán tử rời

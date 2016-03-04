@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tần số khung cảnh
+@Lĩnh vực: điện tử & viễn thông
+#tần số màn (truyền hình)
+@Lĩnh vực: điện lạnh
+#tần số quét mành

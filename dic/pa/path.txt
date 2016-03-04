@@ -1,0 +1,52 @@
+﻿@path /pɑ:θ, snh pɑ:ðz/
+*danh từ
+#đường mòn, đường nhỏ
+=mountain path: đường mòn trên núi
+#con đường, đường đi, đường lối
+=the path of a comes: đường đi của sao chổi
+=on the path of honour: trên con đường danh vọng
+@Chuyên ngành kỹ thuật
+#bước
+#dẫn đường
+#đường
+#đường bay
+#đường chạy
+#đường dẫn
+#đường đi
+#đường mòn
+#đường nhỏ
+#đường truyền
+#đường viền
+#hành trình
+#khoảng truyền
+#lộ trình
+#lối đi
+#quĩ đạo
+#quỹ đạo
+#vệt
+@Lĩnh vực: điện
+#đường dòng điện
+#nhánh phần ứng
+#phương cách
+#tuyến truyền
+@Lĩnh vực: y học
+#đường, con đường, quỹ đạo
+@Lĩnh vực: toán & tin
+#đường, đường dẫn
+@Lĩnh vực: giao thông & vận tải
+#quãng đường
+<!-- more -->
+@path
+#bước, đường đi; quỹ đạo
+#p. of continuous group quỹ đạo trong một nhóm liên tục
+#p. of a projectile đường đạn
+#asymptotic p. (giải tích) đường tiệm cận
+#closed p. đường đóng
+#edge p. đường gấp khúc, đường cạnh
+#free p. đường di động tự do
+#homotopic p.s đường đi đồng luân
+#inverse p. đường nghịch
+#mean free p. đường tự do trung bình
+#minimal p. đường cực tiểu
+#product p. đường tích
+#random p. đường đi ngẫu nhiên

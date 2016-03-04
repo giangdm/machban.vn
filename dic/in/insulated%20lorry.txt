@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#xe chở hàng có cách nhiệt
+@Chuyên ngành kỹ thuật
+#cách nhiệt
+#xe cách nhiệt
+@Lĩnh vực: ô tô
+#ô tô cách nhiệt

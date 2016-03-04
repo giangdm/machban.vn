@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tỉ lệ thuận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tỷ lệ thuận

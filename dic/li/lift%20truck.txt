@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#máy nâng xếp
+#xe nâng
+#xe nâng (hàng)
+#xe xếp dỡ (tự hành)
+@Lĩnh vực: xây dựng
+#máy xếp dỡ (tự hành)
+@Lĩnh vực: cơ khí & công trình
+#xe nâng hàng
+@Chuyên ngành kỹ thuật
+#máy nâng xếp
+#xe nâng
+#xe nâng (hàng)
+#xe xếp dỡ (tự hành)
+@Lĩnh vực: xây dựng
+#máy xếp dỡ (tự hành)
+@Lĩnh vực: cơ khí & công trình
+#xe nâng hàng

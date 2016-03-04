@@ -1,0 +1,5 @@
+﻿@Manpower policy
+#(Econ) Chính sách về nhân lực.
+: Là một nỗ lực nhằm tăng cường hoạt động của thị trường lao động, và nếu có thể, là sự đánh đổi giữa thất nghiệp và lam phát.
+@Chuyên ngành kinh tế
+#chính sách nhân lực

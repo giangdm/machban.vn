@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy trục di động
+@Lĩnh vực: xây dựng
+#cần cẩu di chuyển được
+@Lĩnh vực: cơ khí & công trình
+#cần trục nhẹ di động

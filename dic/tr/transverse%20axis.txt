@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trục thực
+#trục xuyên (của hipecbon)
+#trục xuyên (của hiperbol)

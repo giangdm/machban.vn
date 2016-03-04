@@ -1,0 +1,3 @@
+﻿@card-catalogue
+*danh từ
+#danh mục xếp theo phiếu

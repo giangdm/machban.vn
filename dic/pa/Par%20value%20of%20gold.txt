@@ -1,0 +1,2 @@
+﻿@Par value of gold
+#(Econ) Giá trị ngang giá của vàng.

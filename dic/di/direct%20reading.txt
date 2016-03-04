@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#đọc trực tiếp
+#số đọc trực tiếp
+@Lĩnh vực: toán & tin
+#số chỉ trực tiếp
+@Lĩnh vực: xây dựng
+#sự đọc trực tiếp

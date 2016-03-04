@@ -1,0 +1,3 @@
+﻿@Average product
+#(Econ) Sản phẩm bình quân.
+: Tổng sản lượng  có được từ việc sử dụng một tập hợp đầu vào chia cho số lượng của bất cứ một loại đầu vào nào được dùng.

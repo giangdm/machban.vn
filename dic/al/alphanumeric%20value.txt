@@ -1,0 +1,2 @@
+﻿@alphanumeric value
+#(Tech) trị chữ-số

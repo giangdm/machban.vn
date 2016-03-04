@@ -1,0 +1,8 @@
+﻿@current feedback
+#(Tech) hồi tiếp dòng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hồi tiếp dòng
+#sự hồi tiếp dòng
+@Lĩnh vực: điện
+#sự hồi tiếp dòng điện

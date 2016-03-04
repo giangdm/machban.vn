@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#hoạt tải
+#tải trọng biến đổi
+#tải trọng có ích
+#tải trọng di động
+#tải trọng tạm thời
+@Lĩnh vực: xây dựng
+#tác động biến đổi
+@Lĩnh vực: cơ khí & công trình
+#tải trọng sống (tàu, xe...)
+@Chuyên ngành kỹ thuật
+#hoạt tải
+#tải trọng biến đổi
+#tải trọng có ích
+#tải trọng di động
+#tải trọng tạm thời
+@Lĩnh vực: xây dựng
+#tác động biến đổi
+@Lĩnh vực: cơ khí & công trình
+#tải trọng sống (tàu, xe...)

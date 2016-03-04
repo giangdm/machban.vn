@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#cốc đo độ nhớt
+#cốc rót
+@Lĩnh vực: vật lý
+#cốc thử dòng chảy
+#cốc thử nghiệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#cốc đo độ nhớt
+#cốc rót
+@Lĩnh vực: vật lý
+#cốc thử dòng chảy
+#cốc thử nghiệm

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#bình tách hơi
+@Lĩnh vực: điện lạnh
+#bình tách hơi nước
+#máy tách hơi nước
+@Lĩnh vực: giao thông & vận tải
+#bộ tách hơi nước
+@Lĩnh vực: cơ khí & công trình
+#nồi ngưng
+#máy phân ly hơi
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị khử hơi nước

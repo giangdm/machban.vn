@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khung máy sấy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#khung sấy khô

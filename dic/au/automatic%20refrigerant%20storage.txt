@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bình ga tự động
+#chai ga tự động
+#chai gas [bình gas] tự động

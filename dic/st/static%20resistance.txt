@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền tĩnh
+#phản lực gối
+@Lĩnh vực: vật lý
+#lực cản tĩnh

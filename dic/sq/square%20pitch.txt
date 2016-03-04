@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ dốc 450
+@Lĩnh vực: xây dựng
+#độ dốc 45R
+#độ dốc mái nhà 450

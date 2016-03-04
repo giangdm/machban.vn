@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian hoạt động
+#thời gian làm việc
+#thời gian vận hành
+@Lĩnh vực: điện lạnh
+#thời gian tác động (rơle)

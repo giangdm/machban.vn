@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#người bán đồ đồng nát
+#người bán sắt vụn
+#người buôn bán ve chai
+#người buôn phế liệu
+@Chuyên ngành kỹ thuật
+#người buôn đồng nát
+#người buôn sắt vụn

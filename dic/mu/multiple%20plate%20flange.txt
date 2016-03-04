@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bản cánh nhiều lớp
+@Lĩnh vực: xây dựng
+#cánh dầm (thép) nhiều bản
+#cánh rầm nhiều lớp
+@Lĩnh vực: toán & tin
+#cánh rầm nhiều tấm

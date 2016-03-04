@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biến thiên áp suất dòng
+#đặc tính áp suất (tĩnh)
+#đặc tính áp suất tĩnh

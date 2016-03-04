@@ -1,0 +1,3 @@
+﻿@metameter
+#(thống kê) độ đo được biến đổi (khi phép biến đổi không phụ thuộc vào các tham số)
+#dose m. (toán kinh tế) liều lượng đã biến đổi

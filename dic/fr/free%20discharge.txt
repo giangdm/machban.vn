@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#phí dỡ hàng không liên quan đến chủ tàu
+#vận phí không tính trong phí dỡ hàng
+#việc dỡ hàng miễn phí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đẩy tự do
+#xả tự do
+@Lĩnh vực: giao thông & vận tải
+#miễn phí bốc dỡ
+@Lĩnh vực: hóa học & vật liệu
+#phóng tải tự do
+@Lĩnh vực: xây dựng
+#sự thoát tự do

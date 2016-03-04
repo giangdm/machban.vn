@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tàu hàng
+@Chuyên ngành kỹ thuật
+#tàu thủy chở hàng

@@ -1,0 +1,6 @@
+﻿@Time deposit
+#(Econ) Tiền gửi có kỳ hạn.
+: Khoản tiền gửi ở một ngân hàng mà chỉ có thể được rút ra sau khi có thông báo trước.
+@Chuyên ngành kinh tế
+#ký thác định kỳ (ngắn hạn)
+#tiền gửi kỳ hạn

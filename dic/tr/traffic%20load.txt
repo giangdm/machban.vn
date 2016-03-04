@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu lượng
+#tải trọng di động
+@Lĩnh vực: điện lạnh
+#cường độ lưu thông
+#tải lưu thông
+@Lĩnh vực: điện tử & viễn thông
+#tải thông tin
+@Lĩnh vực: giao thông & vận tải
+#tải trọng chuyên chở
+@Lĩnh vực: xây dựng
+#tải trọng giao thông

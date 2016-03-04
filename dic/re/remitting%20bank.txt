@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#ngân hàng chuyển
+#ngân hàng chuyển tiền
+#ngân hàng gởi chứng từ (thư tín dụng)
+#ngân hàng gửi chứng từ (thư tín dụng)
+#ngân hàng nhờ thu

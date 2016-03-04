@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bản kê hàng bán
+#báo cáo bán hàng
+#báo cáo bán hàng ký gửi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tài khoản bán hàng

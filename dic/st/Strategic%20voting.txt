@@ -1,0 +1,5 @@
+﻿@Strategic voting
+#(Econ) Bỏ phiếu chiến lược.
+: Một thông lệ đôi khi được sử dụng trong các thủ tục LỰA CHỌN TẬP THỂ, trong đó các cá nhân không đơn thuần bỏ phiếu theo sở thích thực sự của mình mà nói dối sở thích của mình nhằm lừa gạt những người bỏ phiếu khác, hay nhằm gây ảnh hưởng đối với kết quả bỏ phiếu.
+@Chuyên ngành kinh tế
+#bỏ phiếu chiến lược

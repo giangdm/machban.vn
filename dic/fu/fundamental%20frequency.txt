@@ -1,0 +1,10 @@
+﻿@fundamental frequency
+#(Tech) tần số cơ bản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#họa ba bậc nhất
+#sóng hài bậc nhất
+@Lĩnh vực: điện
+#tấn số cơ bản
+@Lĩnh vực: toán & tin
+#tần số cơ sở

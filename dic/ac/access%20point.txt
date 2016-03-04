@@ -1,0 +1,11 @@
+﻿@access point
+#(Tech) điểm truy cập
+@Chuyên ngành kỹ thuật
+#cổng vào
+@Lĩnh vực: điện lạnh
+#cổng truy phập
+@Lĩnh vực: toán & tin
+#điểm truy cập
+#điểm truy xuất
+@Lĩnh vực: điện tử & viễn thông
+#điểm truy nhập

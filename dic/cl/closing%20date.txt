@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hạn chót
+#ngày bốc cuối cùng (thuê tàu)
+#ngày chót
+#ngày kết sổ
+#ngày kết toán
+#ngày khóa sổ
+#ngày quyết toán

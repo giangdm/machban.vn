@@ -1,0 +1,15 @@
+﻿@chippings
+*danh từ
+#đá nhỏ rải trên mặt đường
+@Chuyên ngành kinh tế
+#đá nhỏ rải trên đường
+#miếng xà phòng
+@Chuyên ngành kỹ thuật
+#đá dăm
+#đá vỡ vụn
+#đá vụn
+#mảnh bong
+#mảnh vụn
+#vụn đá
+@Lĩnh vực: hóa học & vật liệu
+#vụn quặng

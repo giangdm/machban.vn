@@ -1,0 +1,3 @@
+﻿@prohibiter /prohibiter/
+*danh từ
+#người cấm

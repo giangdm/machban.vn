@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hàm lượng cát (trong bê tông)
+#tỷ lệ phần trăm các hạt bé (trong cốt liệu)

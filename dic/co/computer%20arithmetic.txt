@@ -1,0 +1,2 @@
+﻿@computer arithmetic
+#(Tech) tính toán máy tính

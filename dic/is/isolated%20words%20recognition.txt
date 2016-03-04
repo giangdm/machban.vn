@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhận biết từ tách biệt
+#nhận dạng các từ tách riêng

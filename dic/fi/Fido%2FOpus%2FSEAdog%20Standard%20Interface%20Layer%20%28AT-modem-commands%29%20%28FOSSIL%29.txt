@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#Lớp giao diện tiêu chuẩn Fido/Opus/SEAdog (Các lệnh - modem-AT)
+@Chuyên ngành kỹ thuật
+#Lớp giao diện tiêu chuẩn Fido/Opus/SEAdog (Các lệnh - modem-AT)

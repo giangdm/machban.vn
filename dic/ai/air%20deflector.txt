@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tấm chắn gió
+@Lĩnh vực: điện lạnh
+#bộ chuyển hướng gió

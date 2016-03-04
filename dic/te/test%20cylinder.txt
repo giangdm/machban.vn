@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mẫu thí nghiệm hình trụ
+#mẫu thử hình trụ tròn
+#xi lanh thử

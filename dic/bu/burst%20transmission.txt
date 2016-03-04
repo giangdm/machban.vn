@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#truyền loạt
+@Lĩnh vực: điện tử & viễn thông
+#sự truyền dẫn bằng gói
+@Lĩnh vực: toán & tin
+#sự truyền gián đoạn
+@Lĩnh vực: điện lạnh
+#truyền dẫn ào ạt

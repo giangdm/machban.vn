@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị gánh cuối mạch dữ liệu
+#thiết bị kết thúc mạch dữ liệu

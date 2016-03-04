@@ -1,0 +1,3 @@
+﻿@Standard weekly hours
+#(Econ) Số giờ làm việc chuẩn hàng tuần.
+: Số giờ này thường được xác định trong các hợp đồng tập thể hay các chính sách của công ty và là số giờ mà trên mức đó tiền công ngoài giờ được áp dụng.

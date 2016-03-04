@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#màng nhiều lớp
+#màng nhiều tầng
+#màng nhiều tầng [nhiều lớp]
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#màng nhiều lớp
+#màng nhiều tầng
+#màng nhiều tầng [nhiều lớp]

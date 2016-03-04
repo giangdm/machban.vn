@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ nối dây
+@Lĩnh vực: điện lạnh
+#cái nối dây
+#măng sông nối

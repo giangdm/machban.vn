@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trạm hỏi
+#trạm hỏi tin
+#trạm truy vấn
+#trạm vấn tin
+#trạm yêu cầu
+@Lĩnh vực: điện tử & viễn thông
+#trạm nhập

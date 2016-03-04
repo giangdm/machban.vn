@@ -1,0 +1,2 @@
+﻿@autorized program
+#(Tech) chương trình quy định

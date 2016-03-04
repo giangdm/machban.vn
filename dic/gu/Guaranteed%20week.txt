@@ -1,0 +1,5 @@
+﻿@Guaranteed week
+#(Econ) Tuần lễ bảo đảm.
+: Thanh toán trả cho những công nhân chỉ làm việc trong thời gian ngắn mà không phải do lỗi của họ.
+@Chuyên ngành kinh tế
+#tuần bảo đảm

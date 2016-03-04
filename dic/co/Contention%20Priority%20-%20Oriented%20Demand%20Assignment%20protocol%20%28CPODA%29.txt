@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giao thức gán yêu cầu theo định hướng tranh chấp ưu tiên tranh chấp

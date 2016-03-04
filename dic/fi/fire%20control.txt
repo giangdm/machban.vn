@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hệ thống điều kiển bắn
+@Lĩnh vực: toán & tin
+#kiểm soát hỏa lực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hệ thống điều kiển bắn
+@Lĩnh vực: toán & tin
+#kiểm soát hỏa lực

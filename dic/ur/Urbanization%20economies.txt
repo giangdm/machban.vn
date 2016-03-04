@@ -1,0 +1,3 @@
+﻿@Urbanization economies
+#(Econ) Tính kinh tế của đô thị hoá.
+: Tiết kiệm chi phí nảy sinh khi các hoạt động kinh tế được tập trung ở các khu vực đô thị.

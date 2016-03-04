@@ -1,0 +1,4 @@
+﻿@business software
+#(Tech) nhu liệu kinh doanh
+@Chuyên ngành kỹ thuật
+#phần mềm thương mại

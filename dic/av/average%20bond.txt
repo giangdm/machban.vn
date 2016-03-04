@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giấy bảo đảm thanh toán tổn thất chung
+#giấy cam kết nhận trả tổn thất chung (đường biển)
+#giấy nhận phần tổn thất
+#giấy nhận phần tổn thất chung

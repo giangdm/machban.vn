@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vận tốc không lắng bùn
+#vận tốc tự vét (trong ống dẫn nước hoặc kênh)

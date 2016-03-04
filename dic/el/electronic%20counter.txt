@@ -1,0 +1,10 @@
+﻿@electronic counter
+#(Tech) máy đếm điện tử
+@Chuyên ngành kỹ thuật
+#bộ đếm điện tử
+@Lĩnh vực: toán & tin
+#mạch đếm điện tử
+@Chuyên ngành kỹ thuật
+#bộ đếm điện tử
+@Lĩnh vực: toán & tin
+#mạch đếm điện tử

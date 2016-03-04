@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần trong của 1 tập hợp
+#phần trong của một tập hợp

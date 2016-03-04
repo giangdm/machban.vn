@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#các phiến X
+@Lĩnh vực: điện lạnh
+#tấm lái tia ngang

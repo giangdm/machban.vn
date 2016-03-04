@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy đều
+@Lĩnh vực: xây dựng
+#dòng chảy đều đặn
+@Lĩnh vực: toán & tin
+#dòng đều

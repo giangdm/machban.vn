@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm có biến phân bị chặn
+@Lĩnh vực: toán & tin
+#hàm có biến phân chặn

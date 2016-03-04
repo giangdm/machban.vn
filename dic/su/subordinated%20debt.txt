@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khoản nợ thứ cấp
+#khoản nợ tùy thuộc
+#nợ hạng hai
+#nợ phụ

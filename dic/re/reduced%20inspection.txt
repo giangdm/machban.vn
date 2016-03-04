@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự kiểm tra rút gọn
+@Lĩnh vực: toán & tin
+#kiểm tra rút gọn

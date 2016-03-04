@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ xử lý phụ trợ
+@Lĩnh vực: toán & tin
+#bộ xử lý nền

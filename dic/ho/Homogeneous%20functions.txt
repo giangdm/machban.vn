@@ -1,0 +1,3 @@
+﻿@Homogeneous functions
+#(Econ) Các hàm đồng nhất.
+: Một hàm được coi là đông nhất bậc n nếu nhân tất cả các biến ĐỘC LẬP với một hằng số Lamda có kết quả bằng BIẾN PHỤ THUỘC nhân với Lamda.

@@ -1,0 +1,2 @@
+﻿@available execution time
+#(Tech) thời gian hành xử được

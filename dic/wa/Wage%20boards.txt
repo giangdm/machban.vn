@@ -1,0 +1,3 @@
+﻿@Wage boards
+#(Econ) Ban điều hành tiền công.
+: Các cơ quan pháp quy tương tự như các hội đồng lương quản lý điều hành và điều kiện lao động trong ngành nông nghiệp.

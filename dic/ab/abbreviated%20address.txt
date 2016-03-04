@@ -1,0 +1,8 @@
+﻿@abbreviated address
+#(Tech) địa chỉ rút gọn
+@Chuyên ngành kinh tế
+#địa chỉ viết tắt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#địa chỉ rút gọn
+#địa chỉ viết tắt

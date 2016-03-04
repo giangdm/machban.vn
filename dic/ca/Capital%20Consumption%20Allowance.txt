@@ -1,0 +1,7 @@
+﻿@Capital Consumption Allowance
+#(Econ) Khoản khấu trừ cho sử dụng tư bản.
+: Mức chênh lệch giữa tổng sản phẩm quốc dân (GNP) và sản phẩm quốc dân ròng trong khuôn khổ hạch toán thu nhập quốc dân Mỹ. Xem NATION IMCOME
+@Chuyên ngành kinh tế
+#khấu trừ tiêu dùng vốn
+#trợ cấp khấu hao
+#trợ cấp tiêu hao vốn

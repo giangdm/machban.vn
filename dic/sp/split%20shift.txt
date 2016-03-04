@@ -1,0 +1,5 @@
+﻿@split shift
+*danh từ
+#ca có hai hoặc nhiều kỳ phải trực
+@Chuyên ngành kinh tế
+#ca/kíp phụ

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giới hạn an toàn
+@Chuyên ngành kỹ thuật
+#chỉ số an toàn
+#giới hạn an toàn
+@Lĩnh vực: điện tử & viễn thông
+#ngưỡng an toàn

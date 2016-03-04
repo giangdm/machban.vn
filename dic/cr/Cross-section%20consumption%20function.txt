@@ -1,0 +1,3 @@
+﻿@Cross-section consumption function
+#(Econ) Hàm số tiêu dùng chéo
+: Là mối quan hệ hàm số giữa tiêu thụ và thu nhập được tính chéo ở các nhóm có thu nhập khác nhau tại một thời điểm (Xem CONSUMPTION FUNCTION, LONG-RUN CONSUMPTION FUNCTION, SHORT-RUN CONSUMPTION FUNCTION).

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự chuẩn bị cạnh
+@Lĩnh vực: vật lý
+#sự chuẩn bị giới hạn
+@Lĩnh vực: xây dựng
+#sự gia công mép

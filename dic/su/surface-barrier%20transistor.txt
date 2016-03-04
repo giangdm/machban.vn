@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tranzito lớp chắn
+@Lĩnh vực: điện lạnh
+#tranzito mặt chắn

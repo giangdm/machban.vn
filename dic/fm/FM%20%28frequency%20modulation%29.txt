@@ -1,0 +1,5 @@
+﻿@FM (frequency modulation)
+#(Tech) sự biến điệu tần sô
+@Chuyên ngành kỹ thuật
+#sự điều biến tần số
+#sự điều tần

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giấy báo
+#lệnh công tác (của xưởng hoặc phân xưởng)
+#phiếu công tác

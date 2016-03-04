@@ -1,0 +1,4 @@
+﻿@diffusion current
+#(Tech) dòng điện khuếch tán
+@Chuyên ngành kỹ thuật
+#dòng điện khuếch tán

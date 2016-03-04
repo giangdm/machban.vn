@@ -1,0 +1,2 @@
+﻿@electron pair bond
+#(Tech) liên kết cặp điện tử

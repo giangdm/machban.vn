@@ -1,0 +1,5 @@
+﻿@Issuing broker
+#(Econ) Người môi giới phát hành.
+: Một số loại chứng khoán phát hành mới của các công ty và các tổ chức khác được những người môi giới chứng khoán điều khiển và trên phương diện này thì họ hoạt động giống như nhà phát hành.
+@Chuyên ngành kinh tế
+#người môi giới phát hnàh

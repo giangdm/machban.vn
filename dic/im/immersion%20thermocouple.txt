@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cặp nhiệt nhúng
+@Lĩnh vực: cơ khí & công trình
+#cặp nhiệt nhúng sâu

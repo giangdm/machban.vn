@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cận của sai số
+#giới hạn của sai số
+#giới hạn sai số

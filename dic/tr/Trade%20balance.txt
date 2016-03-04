@@ -1,0 +1,7 @@
+﻿@Trade balance
+#(Econ) Cán cân thương mại.
+@Chuyên ngành kinh tế
+#cán cân buôn bán
+#cán cân mậu dịch
+#cán cân thương mại
+#cán cân thương mại, mậu dịch, ngoại thương

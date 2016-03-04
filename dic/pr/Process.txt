@@ -1,0 +1,132 @@
+﻿@Process
+#(Econ) Quá trình
+: Một sự phối hợp đặc biệt của các đầu vào có thể thay đổi về quy mô để sản xuất các mức cao hơn của đầu ra.
+<!-- more -->
+@process /process/
+*danh từ
+#quá trình, sự tiến triển
+=the process of economic rehabilitation: quá trình khôi phục kinh tế
+#sự tiến hành
+=in process of construction: đang tiến hành xây dựng
+#phương pháp, cách thức (sản xuất, chế biến)
+=the Bessemer process of making steel: phương pháp sản xuất thép Be-xơ-me
+#(pháp lý) việc tố tụng; trát đòi, lệnh gọi của toà án
+#(sinh vật học) u lồi, bướu (ở cây cối, thân súc vật)
+#(ngành in) phép in ximili (in ảnh), phép in ảnh chấm
+*ngoại động từ
+#chế biến gia công (theo một phương pháp)
+#kiện (ai)
+#in ximili (ảnh, tranh)
+*nội động từ
+#(thông tục) diễu hành, đi thành đoàn, đi thành đám rước
+@Chuyên ngành kinh tế
+#các loại giấy tờ, thủ tục trong quá trình kiện tụng
+#cách thức
+#chế biến
+#gia công
+#giai đoạn
+#giấy đòi ra tòa
+#khởi tố
+#kiện
+#lệnh gọi của tòa án
+#phương pháp
+#quá trình
+#quá trình công nghệ
+#quy trình công nghệ
+#thủ tục pháp lý
+#tiến trình
+#trạng thái
+#trát đòi
+#trình tự các công đoạn gia công
+#truy tố
+#văn kiện tư pháp
+#văn thư tài phán
+#việc kiện tụng
+#việc tố tụng
+#vụ kiện
+#xử lý
+#xử trí
+@Chuyên ngành kỹ thuật
+#cách
+#cách thức
+#chế biến
+#chế tạo
+#gia công
+#lệnh
+#mỏm, bờ, củ
+#phương pháp
+#quá trình
+#quá trình công nghệ
+#quá trình xử lý
+#qui trình
+#quy trình
+#quy trình/ chu trình
+#tiến trình
+@Lĩnh vực: toán & tin
+#chỉ lệnh
+#quy trình (phần mềm)
+#xử lý
+<!-- more -->
+@process
+#quá trình, phương pháp, cách p. with in dependent increments
+#(xác suất) quá trình với gia số độc lập
+#additive p. quá trình cộng t ính
+#adjoint p. quá trình liên hợp
+#approximation p. quá trình xấp xỉ
+#autoregressive p. quá trình tự hồi quy
+#birth p. quá trình toàn sinh
+#bivariate p. quá trình hai chiều
+#branching p. quá trình phân nhánh
+#cascade p. quá trình tầng
+#centred p. quá trình có tâm
+#continuous p. quá trình liên tục
+#crypto-deterministic p. quá rình tất định ngầm
+#cyclic p. quá trình tuần hoàn
+#damped oscillatory p. quá trình dao động tắt dần
+#death p. quá trình chết, quá trình toàn tử
+#degenerete p. quá trình suy biến
+#denumerable p. quá trình đếm được
+#deterministic p. quá trình tất định
+#diagonal p. quá trình chéo
+#diffusion p. quá trình khuyếch tán
+#digital p. quá trình rời rạc
+#discontinuous p. quá trình rời rạc
+#discrete p. quá trình rời rạc
+#dissipative p. quá trình hao tán
+#disturbeb harmonic p. (thống kê) quá trình điều hoà bị nhiễu loạn
+#divergent p. quá trình phân kỳ
+#emigration p. quá trình di dân
+#equally-correlated p. quá trình tương quan cân bằng
+#equilibrium p. quá trình cân bằng
+#ergodic p. quá trình egođic
+#exhaustion p. quá trình vét kiệt
+#explosive p. (xác suất) quá trình bùng nổ (quá trình có các số trung bình tăng
+#vô hạn)
+#finite p. (logic học) (đại số) quá trình hữu hạn
+#hereditary p. (xác suất) quá trình có di truyển
+#homogeneous p. (xác suất) quá trình thuần nhất
+#immigration p. quá trình di cư
+#irreversible p. (vật lí) quá trình không thuận nghịch
+#isentropic p. quá trình đẳng entropi
+#isotropic p. (xác suất) quá trình đẳng hướng
+#iterative p. (điều khiển học) quá trình lặp
+#limit p. quá trình giới hạn
+#logistic p. (thống kê) quá trình lôgictic
+#Markovian p. (xác suất) quá trình Mácôp
+#moving-summation p. quá trình lấy tổng trượt
+#multiplivative p. (xác suất) quá trình phân nhánh
+#orthogonal p. quá trình trực giao
+#periodie p. quá trình tuần hoàn
+#production p. (toán kinh tế) quá trình sản xuất
+#purely random p. (điều khiển học) quá trình thuần tuý ngẫu nhiên
+#random p. quá trình ngẫu nhiên
+#recursive p. quá trình đệ quy
+#repetitive p. (điều khiển học) quá trình lặp
+#reversible p. (điều khiển học) quá trình khả nghịch
+#separable p. quá trình tách được
+#sieving p. phương pháp sàng
+#solving p. quá trình giải
+#stable p. (xác suất) quá trình ổn định
+#stationary p. (xác suất) quá trình dừng
+#stochastic p. (xác suất) quá trình ngẫu nhiên
+#strictly stationary p. (xác suất) quá trình dừng ngặt

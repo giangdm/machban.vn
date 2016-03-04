@@ -1,0 +1,5 @@
+﻿@formatted data
+#(Tech) dữ liệu đóng khuôn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dữ liệu đã định dạng

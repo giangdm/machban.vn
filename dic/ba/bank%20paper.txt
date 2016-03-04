@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giấy bạc ngân hàng trong lưu thông
+#hối phiếu ngân hàng
+@Chuyên ngành kỹ thuật
+#giấy đánh máy

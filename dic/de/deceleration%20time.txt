@@ -1,0 +1,6 @@
+﻿@deceleration time
+#(Tech) thời gian giảm tốc; thời gian chế động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thời gian giảm tốc
+#thời gian hãm

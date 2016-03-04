@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giảm biên chế
+#sự giảm bớt số nhân viên
+#sự giảm bớt số nhân viên, sự giảm biên chế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự giảm nhân sự
+#sự giảm nhân viên

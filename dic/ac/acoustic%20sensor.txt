@@ -1,0 +1,5 @@
+﻿@acoustic sensor
+#(Tech) bộ cảm nhận âm thanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bộ cảm biến âm thanh

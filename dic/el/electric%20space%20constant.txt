@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hằng số điện (từ cũ)
+@Lĩnh vực: điện
+#hằng số khe hở điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hằng số điện (từ cũ)
+@Lĩnh vực: điện
+#hằng số khe hở điện

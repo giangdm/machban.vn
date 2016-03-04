@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ nhạy tĩnh
+@Lĩnh vực: điện tử & viễn thông
+#đường truyền tĩnh

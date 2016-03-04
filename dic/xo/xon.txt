@@ -1,0 +1,2 @@
+﻿@xon/xoff handshaking
+#thiết lập quan hệ, tay bắt tay

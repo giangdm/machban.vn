@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#ngành chế biến
+#ngành chế tá
+#ngành công nghiệp cấp hai, thứ cấp phu trợ
+#ngành khai thác
+#ngành sản xuất cấp hai
+#ngành sản xuất cấp một
+#ngành sản xuất nguyên khai

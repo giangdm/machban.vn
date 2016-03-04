@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#ngày (lập bảng) tổng kết tài sản
+#ngày quyết toán (các) tài khoản

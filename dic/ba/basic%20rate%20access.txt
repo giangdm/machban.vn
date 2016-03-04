@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#truy nhập tốc độ cơ bản
+#truy nhập tốc độ cơ sở

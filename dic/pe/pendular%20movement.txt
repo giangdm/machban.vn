@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chuyển động kiểu con lắc
+@Lĩnh vực: y học
+#động tác quả lắc

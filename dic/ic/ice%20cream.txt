@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#kem
+@Chuyên ngành kỹ thuật
+#cà rem
+@Lĩnh vực: điện lạnh
+#kem (thực phẩm)

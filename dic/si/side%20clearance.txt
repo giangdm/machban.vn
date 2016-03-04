@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#độ lỏng ngang
+#khe hở cạnh
+#làm quang một bên
+@Lĩnh vực: cơ khí & công trình
+#độ hở bên
+#góc sau ngang
+#khe hở (mặt) cạnh
+#khe hở mặt cạnh
+@Lĩnh vực: xây dựng
+#độ hở ngang
+#khe hở ngang

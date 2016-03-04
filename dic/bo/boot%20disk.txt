@@ -1,0 +1,4 @@
+﻿@boot disk
+#(Tech) đĩa khởi động
+@Chuyên ngành kỹ thuật
+#đĩa khởi động

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự sấy khô
+@Chuyên ngành kỹ thuật
+#khử nước phun sương
+#sấy phun sương
+@Lĩnh vực: điện lạnh
+#khử nước (sấy) phun sương

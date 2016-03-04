@@ -1,0 +1,2 @@
+﻿@copyright fingerprint
+#(Tech) mã số bản quyền

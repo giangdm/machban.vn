@@ -1,0 +1,7 @@
+﻿@colour code
+*danh từ
+#mã quy ước theo màu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+#mã (hiệu) màu
+#mã màu

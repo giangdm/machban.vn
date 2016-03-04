@@ -1,0 +1,2 @@
+﻿@copy-protected
+#(Tech) được ngừa sao chép

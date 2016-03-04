@@ -1,0 +1,26 @@
+﻿@Cycling
+#(Econ) Chu kỳ.
+: Xem PARADOX OF VOTING.
+<!-- more -->
+@cycling /'saikliɳ/
+*danh từ
+#sự đi xe đạp
+@Chuyên ngành kỹ thuật
+#sự dao động
+#sự luân chuyển
+#sự quay vòng
+#sự xoay vòng
+#tuần hoàn
+#vòng lặp chu kỳ
+#vòng tuần hoàn
+@Lĩnh vực: hóa học & vật liệu
+#bơm lại
+#tái chuyển
+@Lĩnh vực: đo lường & điều khiển
+#chu kỳ
+@Lĩnh vực: toán & tin
+#công có chu kỳ
+#sự chuyển dung lượng
+<!-- more -->
+@cycling
+#c. công có chu trình; sự dao động, sự chuyển xung lượng

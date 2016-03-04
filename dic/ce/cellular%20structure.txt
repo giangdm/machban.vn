@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#kết cấu tổ ong
+#kiến trúc tổ ong
+@Lĩnh vực: điện lạnh
+#cấu trúc bọt
+@Lĩnh vực: điện tử & viễn thông
+#cấu trúc chia ô
+@Lĩnh vực: xây dựng
+#kết cấu kiểu nhiều ngăn

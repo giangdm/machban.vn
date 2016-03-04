@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phân tích độ ổn định
+#sự phân tích định tính
+#sự phân tích ổn định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự tính (toán) ổn định

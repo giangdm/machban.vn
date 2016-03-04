@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#diện tích bề mặt sàn
+#diện tích mặt sàn
+@Lĩnh vực: xây dựng
+#diện tích sàn buồng xí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#diện tích bề mặt sàn
+#diện tích mặt sàn
+@Lĩnh vực: xây dựng
+#diện tích sàn buồng xí

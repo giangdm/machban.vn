@@ -1,0 +1,8 @@
+﻿@cinematics /,sini'mætiks/
+*danh từ,  số nhiều dùng như số ít
+#nghệ thuật làm phim chiếu bóng
+#quá trình làm phim chiếu bóng
+@Chuyên ngành kỹ thuật
+#động học
+@Lĩnh vực: y học
+#động học (như kinematics)

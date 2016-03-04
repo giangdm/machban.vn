@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#bề mặt chứa chất thải
+#công trường làm đường
+#gương lò
+#gương lò chợ
+#gương lò sản xuất
+#mặt gương lò
+#mặt làm việc
+#mặt trước
+@Lĩnh vực: cơ khí & công trình
+#gương lò làm việc
+@Lĩnh vực: hóa học & vật liệu
+#mặt công tác
+@Lĩnh vực: xây dựng
+#mặt tầng khai thác (đá)

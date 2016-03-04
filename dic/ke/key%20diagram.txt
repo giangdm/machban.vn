@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#sơ đồ chức năng
+@Lĩnh vực: toán & tin
+#sơ đồ giải thích
+@Lĩnh vực: điện tử & viễn thông
+#sơ đồ khóa
+@Lĩnh vực: xây dựng
+#sơ đồ nguyên lý điện
+@Chuyên ngành kỹ thuật
+#sơ đồ chức năng
+@Lĩnh vực: toán & tin
+#sơ đồ giải thích
+@Lĩnh vực: điện tử & viễn thông
+#sơ đồ khóa
+@Lĩnh vực: xây dựng
+#sơ đồ nguyên lý điện

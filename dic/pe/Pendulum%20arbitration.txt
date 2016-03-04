@@ -1,0 +1,3 @@
+﻿@Pendulum arbitration
+#(Econ) Trọng tài con lắc.
+: Sự phân xử trong đó trọng tài viên được yêu cầu chọn một trong những vị trí của các bên tranh chấp hơn là đi đến một vị trí thoả hiệp trung gian.

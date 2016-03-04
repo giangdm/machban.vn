@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ chênh nhiệt độ tối đa
+#hiệu nhiệt độ tối đa

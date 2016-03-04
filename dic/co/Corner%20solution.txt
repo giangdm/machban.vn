@@ -1,0 +1,3 @@
+﻿@Corner solution
+#(Econ) Đáp số góc.
+: Trong bài toán tối ưu, một tình thế mà một hoặc hơn các biến LỰA CHỌN có giá trị bằng 0 tại mức TỐI ƯU.

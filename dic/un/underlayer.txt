@@ -1,0 +1,11 @@
+﻿@underlayer
+*danh từ
+#lớp lót, tầng lót
+@Chuyên ngành kỹ thuật
+#lớp đệm
+#lớp lót
+@Lĩnh vực: xây dựng
+#lớp nằm dưới
+#lớp xây đệm
+#lớp xây lót
+#tầng đệm bên dưới

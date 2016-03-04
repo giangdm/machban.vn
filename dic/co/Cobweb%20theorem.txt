@@ -1,0 +1,5 @@
+﻿@Cobweb theorem
+#(Econ) Định lý mạng nhện.
+: Dạng đơn giản nhất của MÔ HÌNH ĐỘNG trong đó, cung của một hàng hoá trong năm t là một hàm của giá hàng hoá đó trong năm t-1 và trong bất kỳ giai đoạn nào thì giá cả đều được điều chỉnh để cân đối thị trường.
+@Chuyên ngành kinh tế
+#định lý mạng nhện

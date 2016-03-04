@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tranzito bốn cực
+@Lĩnh vực: điện lạnh
+#tranzito tetrot

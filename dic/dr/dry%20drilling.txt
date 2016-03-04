@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khoan hơi
+@Lĩnh vực: hóa học & vật liệu
+#khoan khô
+@Lĩnh vực: cơ khí & công trình
+#sự khoan khô

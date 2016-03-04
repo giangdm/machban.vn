@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống điện
+#hệ thống điện lực
+#nguồn cung cấp cao thế
+@Lĩnh vực: điện lạnh
+#hệ (thống) năng lượng
+@Lĩnh vực: toán & tin
+#hệ năng lượng
+@Lĩnh vực: xây dựng
+#hệ thống năng lượng
+@Lĩnh vực: điện
+#mạng điện chính mạng
+#mạng truyền thông điện lực

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#vị trí đóng
+#vị trí dừng
+#vị trí nhả khớp
+#vị trí tắt

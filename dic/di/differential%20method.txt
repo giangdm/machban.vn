@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương pháp vi phân
+@Lĩnh vực: điện lạnh
+#phương pháp vi sai

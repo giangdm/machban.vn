@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#chất đống
+#chất hàng
+#chất tải
+#nhập kho
+#xếp chồng
+#xếp đống
+@Lĩnh vực: giao thông & vận tải
+#đổ tàu
+#sự cố trật bánh
+@Lĩnh vực: xây dựng
+#xếp chồng thành đống
+@Lĩnh vực: điện
+#xếp thành lớp

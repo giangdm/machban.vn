@@ -1,0 +1,4 @@
+﻿@digital data recorder
+#(Tech) máy ghi dữ liệu dạng số tự
+@Chuyên ngành kỹ thuật
+#máy ghi dữ liệu số

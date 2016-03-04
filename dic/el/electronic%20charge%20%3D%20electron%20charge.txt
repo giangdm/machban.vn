@@ -1,0 +1,2 @@
+﻿@electronic charge = electron charge
+#(Tech) điện tích điện tử

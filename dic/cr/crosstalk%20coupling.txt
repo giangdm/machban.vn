@@ -1,0 +1,5 @@
+﻿@crosstalk coupling
+#(Tech) ghép do xuyên âm, xuyên nhiễu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự ghép xuyên âm

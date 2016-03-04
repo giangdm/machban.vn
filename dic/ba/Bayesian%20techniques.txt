@@ -1,0 +1,3 @@
+﻿@Bayesian techniques
+#(Econ) Kỹ thuật Bayes.
+: Các phương pháp phân tích thống kê (bao gồm ƯỚC LƯỢNG và SUY LUẬN THỐNG KÊ) trong đó thông tin trước đây được kết hợp với số liệu mẫu để đưa ra những ước tính hay các giả thuyết kiểm nghiệm.

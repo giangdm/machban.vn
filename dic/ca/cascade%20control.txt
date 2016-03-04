@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh (khống chế) cấp
+#điều chỉnh (khống chế) tầng
+#điều chỉnh theo bậc
+#điều chỉnh theo cấp
+#điều chỉnh theo tầng
+#điều khiển nối cấp
+@Lĩnh vực: toán & tin
+#sự điều khiển theo tầng

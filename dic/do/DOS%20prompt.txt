@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#dấu nhắc của hệ điều hành DOS
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu nhắc DOS

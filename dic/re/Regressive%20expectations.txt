@@ -1,0 +1,3 @@
+﻿@Regressive expectations
+#(Econ) Kỳ vọng hồi quy.
+: Là kỳ vọng cho rằng sự biến đổi của giá trị thực tế của một biến số tách ra khỏi giá trị tại điểm cân bằng của nó, thường là một giá trị mới, sẽ được tiếp nối bởi việc quay trở lại giá trị tại điểm cân bằng.

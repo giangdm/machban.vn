@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#ống nghiệm
+@Lĩnh vực: vật lý
+#ống nghiệm đối chứng
+#ống thử nghiệm
+@Lĩnh vực: hóa học & vật liệu
+#ống thử

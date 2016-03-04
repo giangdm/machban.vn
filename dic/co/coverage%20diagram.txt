@@ -1,0 +1,2 @@
+﻿@coverage diagram
+#(Tech) sơ đồ phạm vi bao quát

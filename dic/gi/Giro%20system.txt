@@ -1,0 +1,5 @@
+﻿@Giro system
+#(Econ) Hệ thống chuyển khoản Giro
+: Một hệ thống thanh toán thông qua chuyển khoản các khoản tiền gửi ghi sổ, có thể thương thích với hệ thống SEC ngân hàng truyền thống nhưng khác về cơ cấu.
+@Chuyên ngành kinh tế
+#chế độ chuyển khoản

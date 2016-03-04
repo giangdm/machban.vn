@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phân bố phổ
+@Lĩnh vực: vật lý
+#phân bố phổ
+@Lĩnh vực: điện lạnh
+#sự phân bố (theo) phổ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mạch làm trung hòa
+@Lĩnh vực: điện tử & viễn thông
+#mạch trung hòa

@@ -1,0 +1,5 @@
+﻿@Sunk costs
+#(Econ) Các chi phí chìm.
+: Chi phí không thể thu hồi được khi một hãng rút khỏi nghành của mình.
+@Chuyên ngành kinh tế
+#phí không đổi

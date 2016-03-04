@@ -1,0 +1,13 @@
+﻿@automatic control
+#(Tech) điều khiển tự động, điều chỉnh tự động
+@Chuyên ngành kinh tế
+#sự kiểm soát tự động
+@Chuyên ngành kỹ thuật
+#điều chỉnh tự động
+#điều khiển tự động
+#sự điều chỉnh tự động
+#sự điều khiển tự động
+@Lĩnh vực: điện lạnh
+#khống chế tự động
+@Lĩnh vực: xây dựng
+#sự quản lý tự động

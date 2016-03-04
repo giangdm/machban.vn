@@ -1,0 +1,6 @@
+﻿@bare board
+#(Tech) bảng trần (chưa gắn linh kiện)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạch trống
+#tấm mạch trống

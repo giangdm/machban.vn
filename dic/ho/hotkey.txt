@@ -1,0 +1,3 @@
+﻿@hotkey
+*danh từ
+#phím nóng

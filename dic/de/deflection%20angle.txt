@@ -1,0 +1,7 @@
+﻿@deflection angle
+#(Tech) góc lệch hướng
+@Chuyên ngành kỹ thuật
+#chuyển vị góc
+#góc lái tia
+#góc lệch
+#góc xoáy

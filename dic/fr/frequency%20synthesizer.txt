@@ -1,0 +1,4 @@
+﻿@frequency synthesizer
+#(Tech) bộ tổng hợp tần số
+@Chuyên ngành kỹ thuật
+#bộ tổng hợp tần số

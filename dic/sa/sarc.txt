@@ -1,0 +1,13 @@
+﻿@sarc
+#tiền tố
+#thịt
+=sarcophagous:ăn thịt
+#cơ
+#sarcoplasm
+#sợi cơ
+#tiền tố
+#thịt
+=sarcophagous:ăn thịt
+#cơ
+#sarcoplasm
+#sợi cơ

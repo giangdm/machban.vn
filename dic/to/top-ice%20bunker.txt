@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bunke (nước) đá rải phía trên
+#bunke (thùng) chứa (nước) đá để rải phía trên
+#thùng chứa (nước) đá để rải phía trên

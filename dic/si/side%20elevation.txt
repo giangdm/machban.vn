@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hình chiếu bên
+#hình chiếu cạnh
+#hình chiếu đứng
+#mặt bên
+#mặt cạnh
+@Lĩnh vực: xây dựng
+#mặt đầu hồi

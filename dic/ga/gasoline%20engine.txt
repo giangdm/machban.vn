@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ chạy xăng
+#động cơ dùng nhiên liệu
+#động cơ ga
+#động cơ gasolin
+#động cơ gazolin
+#động cơ xăng
+@Lĩnh vực: cơ khí & công trình
+#động cơ dùng xăng

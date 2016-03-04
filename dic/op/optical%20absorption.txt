@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#hấp thụ quang
+#quang hấp thụ
+@Lĩnh vực: điện tử & viễn thông
+#sự hấp thụ quang học

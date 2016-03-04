@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#nhạy sáng
+@Lĩnh vực: vật lý
+#nhạy quang
+@Lĩnh vực: xây dựng
+#quang cảm
+@Chuyên ngành kỹ thuật
+#nhạy sáng
+@Lĩnh vực: vật lý
+#nhạy quang
+@Lĩnh vực: xây dựng
+#quang cảm

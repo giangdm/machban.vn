@@ -1,0 +1,2 @@
+﻿@automatic volume compressor
+#(Tech) bộ nén âm lượng tự động

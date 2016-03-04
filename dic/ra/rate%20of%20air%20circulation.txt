@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#số lần trao đổi không khí
+@Lĩnh vực: giao thông & vận tải
+#tốc độ tuần hoàn khí
+@Lĩnh vực: điện lạnh
+#tốc độ tuần hoàn không khí
+#tỷ lệ tuần hoàn không khí

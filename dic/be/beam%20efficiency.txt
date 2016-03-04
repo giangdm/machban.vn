@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiệu suất chùm (ở ăng ten)
+@Lĩnh vực: điện tử & viễn thông
+#hiệu suất của chùm tia

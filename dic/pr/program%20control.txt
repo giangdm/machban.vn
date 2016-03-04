@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển chương trình
+@Lĩnh vực: đo lường & điều khiển
+#điều khiển quy trình
+@Lĩnh vực: toán & tin
+#sự điều khiển chương trình

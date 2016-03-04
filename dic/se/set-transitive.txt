@@ -1,0 +1,5 @@
+﻿@set-transitive
+#(đại số) bắc cầu hệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bắc cầu hệ

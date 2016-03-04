@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bản ghi chi tiết cuộc gọi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản ghi chi tiết cuộc goi

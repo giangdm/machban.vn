@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#vỏ che chắn thử nghiệm
+@Lĩnh vực: điện lạnh
+#vỏ thử (của cáp)

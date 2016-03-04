@@ -1,0 +1,5 @@
+﻿@Overfunding
+#(Econ) Vay quá mức.
+: Là một thuật ngữ để mô tả hành động của các cơ quan quản lý tiền tệ của Anh vào đầu những năm 80 trong việc bán ra các khoản nợ của chính phủ cho các tổ chức và cá nhân không phải ngân hàng nhiều hơn so với quy định để đáp ứng được yêu cầu vay nợ của khu vực công cộng trong những năm đó.
+@Chuyên ngành kinh tế
+#vay quá mức

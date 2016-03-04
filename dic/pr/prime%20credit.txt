@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chi phí gốc
+#chi phí trực tiếp
+#giá thành
+#giá thành ban đầu
+#giá thành sản xuất
+#giá vốn
+#phí tổn ban đầu

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tần số điều hòa
+#tần số hài hòa
+@Lĩnh vực: điện lạnh
+#tần số họa ba
+@Lĩnh vực: điện
+#tần số sóng hài

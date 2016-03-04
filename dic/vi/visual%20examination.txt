@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sự quan sát bằng mắt
+@Chuyên ngành kỹ thuật
+#sự kiểm tra bằng mắt
+#sự quan sát
+#sự xem xét bằng mắt
+@Lĩnh vực: hóa học & vật liệu
+#khảo sát bằng mắt
+@Lĩnh vực: xây dựng
+#sự thị sát

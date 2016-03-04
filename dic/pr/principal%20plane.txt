@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt phẳng chính
+#mặt phẳng đối xứng
+@Lĩnh vực: xây dựng
+#mặt phẳng chính chịu uốn
+@Lĩnh vực: vật lý
+#mặt phẳng nút

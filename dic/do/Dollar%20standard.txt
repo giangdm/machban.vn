@@ -1,0 +1,4 @@
+﻿@Dollar standard
+#(Econ) Bản vị đôla
+@Chuyên ngành kinh tế
+#bản vị đô la

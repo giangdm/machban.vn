@@ -1,0 +1,2 @@
+﻿@frame synchronize
+#(Tech) đồng bộ hoá mành

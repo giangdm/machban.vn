@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#máy in cuốn
+#máy in ống
+@Chuyên ngành kỹ thuật
+#máy in quay
+#máy in trục lô
+@Lĩnh vực: xây dựng
+#máy ép kiểu bàn quay

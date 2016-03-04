@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#sự nối theo tầng
+@Lĩnh vực: điện tử & viễn thông
+#kết nối theo tầng
+@Lĩnh vực: hóa học & vật liệu
+#liên kết nhiều bậc
+@Lĩnh vực: điện lạnh
+#nối liên tầng
+#nối tầng
+#nối xâu chuỗi
+@Lĩnh vực: toán & tin
+#sự kết nối theo cascade
+#sự kết nối theo tầng
+@Lĩnh vực: vật lý
+#sự nối ghép tầng

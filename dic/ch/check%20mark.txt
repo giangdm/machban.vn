@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#dấu hiệu kiểm soát (biểu thị đã kiểm tra, đối chiếu)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu kiểm tra
+@Lĩnh vực: cơ khí & công trình
+#mốc kiểm tra

@@ -1,0 +1,2 @@
+﻿@dc (direct-current) measurement
+#(Tech) đo dòng điện một chiều

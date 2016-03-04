@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#van thông hơi
+@Lĩnh vực: giao thông & vận tải
+#van lỗ thông hơi
+@Lĩnh vực: cơ khí & công trình
+#van thổi gió

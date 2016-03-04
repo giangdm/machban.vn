@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sàng đục lỗ
+@Chuyên ngành kỹ thuật
+#phiếu đục lỗ
+#tấm có lỗ
+@Lĩnh vực: cơ khí & công trình
+#tấm kim loại đục lỗ

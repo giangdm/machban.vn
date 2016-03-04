@@ -1,0 +1,18 @@
+﻿@Asymptote
+#(Econ) Đường tiệm cận.
+: Giá trị mà biến phụ thuộc của một hàm tiến đến khi biến tự do trở nên rất lớn hoặc rất nhỏ.
+<!-- more -->
+@asymptote /'æsimptout/
+*danh từ
+#(toán học) đường tiệm cận
+@Chuyên ngành kinh tế
+#đường tiệm cận
+#đường tiện cận
+@Chuyên ngành kỹ thuật
+#đường tiệm cận
+<!-- more -->
+@asymptote
+#đường tiệm cận
+#curvilinear a. tiệm cận cong
+#inflexional a. tiệm cận uốn
+#reetilinear a. tiệm cận thẳng

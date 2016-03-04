@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#biểu tượng chương trình
+#biểu tượng ứng dụng
+@Lĩnh vực: toán & tin
+#biểu tượng của chương trình

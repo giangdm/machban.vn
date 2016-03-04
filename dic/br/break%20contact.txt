@@ -1,0 +1,10 @@
+﻿@break contact
+#(Tech) tiếp điểm cắt, công tắc nghỉ
+@Chuyên ngành kỹ thuật
+#công tắc ngắt
+#tiếp xúc thường đóng
+@Lĩnh vực: điện
+#công tắc cắt
+#công tắc dùng để ngắt
+#công tắc thường đóng
+#tiếp xúc để ngắt

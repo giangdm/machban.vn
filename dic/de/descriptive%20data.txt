@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dữ liệu miêu tả
+@Lĩnh vực: cơ khí & công trình
+#số liệu mô tả

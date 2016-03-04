@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự thuê mướn lại (nhân công)
+#sự thuê mướn trở lại (nhân công)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự tuyển dụng lại

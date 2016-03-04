@@ -1,0 +1,12 @@
+﻿@electron accelerator
+#(Tech) bộ gia tốc điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#máy gia tốc điện tử
+@Lĩnh vực: điện lạnh
+#máy gia tốc electron
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#máy gia tốc điện tử
+@Lĩnh vực: điện lạnh
+#máy gia tốc electron

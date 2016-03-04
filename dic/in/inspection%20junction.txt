@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chỗ nối kiểm tra
+#giếng kiểm tra
+#lỗ kiểm tra
+@Lĩnh vực: xây dựng
+#đoạn nối kiểm tra

@@ -1,0 +1,54 @@
+﻿@Average
+#(Econ) Số trung bình.
+: Xem MEAN.
+<!-- more -->
+@average /'ævəridʤ/
+*danh từ
+#số trung bình, mức trung bình; sự ước lượng trung bình
+=on the (an) average: trung bình
+=to take (strike) an average: lấy số trung bình
+=below the average: dưới trung bình
+=above the average: trên trung bình
+#loại trung bình, tiêu chuẩn bình thường
+#(thương nghiệp) sự chia số thiệt hại (về tàu bè hoặc hàng hoá chở trên tàu bè) do tai nạn (giữa chủ tàu và hãng bảo hiểm)
+=particular average: sự chia thiệt hại do tai nạn bất ngờ
+=general average: sự chia thiệt hại do cố ý gây ra hay do hoàn cảnh bắt buộc
+*tính từ
+#trung bình
+=average output: sản lượng trung bình
+=average value: giá trị trung bình
+#bình thường, vừa phải, theo tiêu chuẩn thông thường
+=an average man: người bình thường
+=of average height: có chiều cao vừa phải (trung bình)
+=man of average abilities: người có khả năng bình thường
+*ngoại động từ
+#tính trung bình; đạt trung bình là, trung bình là
+=to average a loss: tính trung bình số thiệt hại
+=to average six hours a day: làm việc trung bình là sáu tiếng một ngày
+@Chuyên ngành kinh tế
+#mức trung bình
+#quy tắc tỉ lệ
+#số bình quân
+#số trung bình
+@Chuyên ngành kỹ thuật
+#chuẩn
+#giá trị trung bình
+#mức
+#mức trung bình
+#số trung bình
+#sự hỏng hóc
+#tiêu chuẩn
+@Lĩnh vực: xây dựng
+#sự bình quân
+@Lĩnh vực: cơ khí & công trình
+#trị số trung bình
+<!-- more -->
+@average
+#trung bình at the a. ở mức trung bình;
+#above a. trên trung bình
+#arithmetic a. trung bình cộng
+#geometric (al) a. trung bình nhân (sqrt(ab))
+#harmonic a. trung bình điều hoà (2ab/(a:b))
+#process a. giá trị trung bình của quá trình
+#progressive a. (thống kê) dãy các trung bình mẫu
+#weighted a. (thống kê) (giá trị) trung bình có trọng số

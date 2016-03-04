@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sổ mua chịu của khách hàng
+#sổ qua cửa hải quan (dành cho xe hơi)
+#sổ tiền gởi ngân hàng
+#sổ tiết kiệm

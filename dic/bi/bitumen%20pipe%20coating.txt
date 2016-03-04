@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp bitum sơn ống
+#lớp phủ ống bằng bitum

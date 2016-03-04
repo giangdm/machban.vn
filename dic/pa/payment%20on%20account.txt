@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#khoản tiền trả trước
+#sự trả (phần tiền) góp
+#sự trả dần
+#sự trả một phần nợ
+#sự trả tạm
+#sự trả tiền trước một phần
+#thanh toán chuyển khoản
+#tiền cọc

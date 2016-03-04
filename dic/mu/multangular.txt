@@ -1,0 +1,11 @@
+﻿@multangular
+*danh từ
+#hình đa giác
+*tính từ
+#nhiều góc, đa giác
+@Chuyên ngành kỹ thuật
+#góc
+#nhiều cạnh
+#nhiều cạnh, góc
+@Lĩnh vực: toán & tin
+#nhiều góc

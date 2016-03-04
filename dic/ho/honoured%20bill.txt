@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hối phiếu đã nhận trả
+#hối phiếu được chấp nhận
+#hối phiếu được chấp nhận trả tiền
+#hối phiếu được trả tiền

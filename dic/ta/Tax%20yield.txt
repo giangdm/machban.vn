@@ -1,0 +1,7 @@
+﻿@Tax yield
+#(Econ) Tiền thu thuế.
+: Doanh thu có được từ một loại thuế.
+@Chuyên ngành kinh tế
+#mức, tỉ lệ thu nhập thuế (của 1 sắc thuế)
+#phần thu của 1 sắc thuế
+#thu nhập về thuế

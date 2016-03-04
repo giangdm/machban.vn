@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiệu nhiệt độ tại cửa vào
+#sự chênh lệch nhiệt độ vào
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiệu nhiệt độ tại cửa vào
+#sự chênh lệch nhiệt độ vào

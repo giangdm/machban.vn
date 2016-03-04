@@ -1,0 +1,16 @@
+﻿@Autocorrelation
+#(Econ) Sự tự tương quan.
+: Xem SERIAL CORRELATION.
+<!-- more -->
+@autocorrelation
+#(Tech) tự tương quang
+@Chuyên ngành kinh tế
+#sự tự tương quan
+@Chuyên ngành kỹ thuật
+#hàm tự tương quan
+#sự tự tương quan
+@Lĩnh vực: toán & tin
+#tự tương quan
+<!-- more -->
+@autocorrelation
+#tự tương quan

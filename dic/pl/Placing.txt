@@ -1,0 +1,11 @@
+﻿@Placing
+#(Econ) Nghiệp vụ bày bán.
+: Một phương pháp thực hiện một cuộc phát hành mới về CHỨNG KHÓAN, CỔ PHẦN HOẶC TRÁI PHIẾU CÔNG TY, bằng phương pháp này các chứng khoán đầu tiên được một nhà phát hành mua, sau đó được bán thông qua thoả thuận tư nhân, cho các thể chế, các chủ đầu tư tư nhân vàcũng cho những người buôn bán cổ phần ở sở giao dịch chứng khoán London.
+@Chuyên ngành kinh tế
+#phát hành cổ phiếu
+@Chuyên ngành kỹ thuật
+#sự đặt
+#sự định vị
+#sự đổ bê tông
+@Lĩnh vực: xây dựng
+#sự đổ (bêtông)

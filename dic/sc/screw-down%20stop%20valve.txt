@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#van chặn kiểu vit
+#van đóng vặn xuống
+#van khóa vặn xuống

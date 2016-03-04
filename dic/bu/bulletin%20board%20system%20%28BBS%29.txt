@@ -1,0 +1,5 @@
+﻿@bulletin board system (BBS)
+#(Tech) hệ thống bảng công báo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống bảng bulletin

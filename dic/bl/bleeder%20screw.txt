@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#viết có lỗ thông khí
+#viết rỗng
+@Lĩnh vực: cơ khí & công trình
+#đai ốc xả gió
+#vít có lỗ xả khí
+#vít rỗng
+@Lĩnh vực: hóa học & vật liệu
+#vít xả

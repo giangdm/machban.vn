@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các định luật chuyển động
+#các định luật cơ học
+#các quy luật chuyển động
+@Lĩnh vực: điện tử & viễn thông
+#định luật cơ học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#các định luật chuyển động
+#các định luật cơ học
+#các quy luật chuyển động
+@Lĩnh vực: điện tử & viễn thông
+#định luật cơ học

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#phần tử sinh khoáng
+#phần tử sinh kim
+#thành phần tạo khoáng

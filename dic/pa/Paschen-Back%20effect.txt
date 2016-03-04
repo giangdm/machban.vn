@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiệu ứng Paschen-Back
+@Lĩnh vực: vật lý
+#hiệu ứng paschen-Back (vật lý nguyên tử)

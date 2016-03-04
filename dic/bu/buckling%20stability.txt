@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#độ bền chống oằn
+#độ bền uốn dọc
+@Lĩnh vực: toán & tin
+#sự ổn định uốn dọc

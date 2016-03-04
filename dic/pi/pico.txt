@@ -1,0 +1,2 @@
+﻿@pico
+#Tiền tố để chỉ 10 - 12, viết tắt là p

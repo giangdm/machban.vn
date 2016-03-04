@@ -1,0 +1,13 @@
+﻿@delay line
+#(Tech) dây trễ, dây tạo trễ
+@Chuyên ngành kỹ thuật
+#đường dây trễ
+#đường tạo trễ
+#đường trễ
+#mạch trễ
+@Lĩnh vực: điện
+#dây trễ
+@Lĩnh vực: điện tử & viễn thông
+#dòng trễ
+@Lĩnh vực: toán & tin
+#tuyến trễ

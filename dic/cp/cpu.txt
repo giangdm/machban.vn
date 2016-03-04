@@ -1,0 +1,2 @@
+﻿@cpu
+#Đơn vị xử lý trung tâm

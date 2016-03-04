@@ -1,0 +1,3 @@
+﻿@apse(apsis)
+#điểm xa nhất trên đường cong (trong toạ độ cực); (thiên văn) điểm cận
+#nhật và viễn nhật

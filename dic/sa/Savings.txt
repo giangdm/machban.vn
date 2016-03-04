@@ -1,0 +1,5 @@
+﻿@Savings
+#(Econ) Tiết kiệm.
+: Mọi thu nhập không tiêu dùng vào hàng hoá và dịch vụ cho nhu cầu hiện tại.
+@Chuyên ngành kinh tế
+#tiền tiết kiệm

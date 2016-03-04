@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ triệt tạp
+#mạch triệt nhiễu âm
+@Lĩnh vực: điện lạnh
+#bộ triệt ký sinh
+@Lĩnh vực: điện tử & viễn thông
+#bộ triệt nhiễu ký sinh

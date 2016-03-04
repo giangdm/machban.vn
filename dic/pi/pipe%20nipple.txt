@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp ren nối ống
+#ống nối
+@Lĩnh vực: cơ khí & công trình
+#khớp vặn ống
+#khúc nối ống
+@Lĩnh vực: xây dựng
+#măng song nối ống (ren trong hoặc ren ngoài)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng tên hệ thống thứ cấp
+@Lĩnh vực: điện tử & viễn thông
+#bảng tên hệ thứ cấp

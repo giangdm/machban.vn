@@ -1,0 +1,6 @@
+﻿@score-board
+*danh từ
+#<thể> bảng ghi tỷ số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảng ghi thành tích (công trình thể thao)

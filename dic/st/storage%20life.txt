@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thời gian trữ kho
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thời hạn bảo quản

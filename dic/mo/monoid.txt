@@ -1,0 +1,3 @@
+﻿@monoid
+#monoit; nửa nhóm
+#augmented m. nửa nhóm được bổ sung

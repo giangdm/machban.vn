@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#chế độ không ổn định
+#trạng thái không ổn định
+@Lĩnh vực: điện
+#điều kiện chuyển tiếp
+#điều kiện nhất thời
+#điều kiện quá độ

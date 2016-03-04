@@ -1,0 +1,5 @@
+﻿@Displacement effect
+#(Econ) Hiệu ứng chuyển dời; Hiệu ứng thay đổi trạng thái.
+: Xu hướng quan sát được về tăng chi tiêu công cộng trong suốt một cuộc chiến tranh hay cuộc khủng hoảng quốc gia khác nhưng không trở về mức ban đầu sau khủng hoảng.
+@Chuyên ngành kinh tế
+#sự tác động thay thế

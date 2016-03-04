@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#triệu lệnh mỗi giây ( MIPS)
+#triệu lệnh trong một giây

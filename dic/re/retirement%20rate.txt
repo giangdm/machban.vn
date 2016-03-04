@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#mức thu hồi phiếu khoán
+#tỉ lệ chuộc lại phiếu khoán
+#tỉ lệ nghỉ hưu
+#tỉ lệ nghỉ hưu (của công nhân viên)

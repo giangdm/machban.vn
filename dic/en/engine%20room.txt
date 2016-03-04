@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kinh tế
+#buồng máy
+@Chuyên ngành kỹ thuật
+#phòng máy
+#phòng máy nén
+@Lĩnh vực: hóa học & vật liệu
+#buồng động cơ
+#buồng phát động
+@Lĩnh vực: giao thông & vận tải
+#buồng máy phòng máy
+#khoang động cơ
+#khoang máy
+@Chuyên ngành kỹ thuật
+#phòng máy
+#phòng máy nén
+@Lĩnh vực: hóa học & vật liệu
+#buồng động cơ
+#buồng phát động
+@Lĩnh vực: giao thông & vận tải
+#buồng máy phòng máy
+#khoang động cơ
+#khoang máy

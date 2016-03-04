@@ -1,0 +1,8 @@
+﻿@current intensity
+#(Tech) cường độ dòng
+@Chuyên ngành kỹ thuật
+#mật độ dòng điện
+@Lĩnh vực: cơ khí & công trình
+#cường độ dòng
+@Lĩnh vực: toán & tin
+#cường độ hiện tại

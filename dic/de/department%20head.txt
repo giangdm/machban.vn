@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#trưởng phòng
+@Chuyên ngành kỹ thuật
+#trưởng phòng
+@Lĩnh vực: điện
+#trưởng ban

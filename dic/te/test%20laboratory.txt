@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#phòng thí nghiệm kiểm thử
+@Lĩnh vực: toán & tin
+#phòng thí nghiệm kiểm tra

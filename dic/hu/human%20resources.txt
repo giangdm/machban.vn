@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nguồn nhân lực
+#tài nguyên con người
+@Chuyên ngành kỹ thuật
+#nguồn nhân lực

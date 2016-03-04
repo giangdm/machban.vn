@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#việc xử lý dữ liệu hành chính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#xử lý dữ liệu hành chính

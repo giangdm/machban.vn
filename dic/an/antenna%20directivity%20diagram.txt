@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đồ thị hướng tính ăng ten
+@Lĩnh vực: điện lạnh
+#giản đồ hướng tính ăng ten

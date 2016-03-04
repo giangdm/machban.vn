@@ -1,0 +1,11 @@
+﻿@Random variable
+#(Econ) Biến ngẫu nhiên.
+: Một biến chấp nhận những trị số tuỳ theo phân phối xác suất của nó.
+@Chuyên ngành kinh tế
+#biến lượng tùy cơ nhiệm ý
+#đại lượng ngẫu nhiên
+@Chuyên ngành kỹ thuật
+#biến ngẫu nhiên
+@Lĩnh vực: toán & tin
+#biến số ngẫu nhiên
+#đại lượng (biến) ngẫu nhiên

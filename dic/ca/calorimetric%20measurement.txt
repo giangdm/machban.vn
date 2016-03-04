@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đo nhiệt lượng
+@Lĩnh vực: điện lạnh
+#sự đo đạc nhiệt lượng

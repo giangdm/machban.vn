@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#động cơ đảo chiều
+@Lĩnh vực: điện lạnh
+#động cơ đổi chiều

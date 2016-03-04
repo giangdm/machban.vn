@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kỹ thuật
+#sơ đồ băng tần của trạm chuyển tiếp (gán tần số)

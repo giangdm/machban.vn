@@ -1,0 +1,2 @@
+﻿@active station
+#(Tech) đài có nguồn điện

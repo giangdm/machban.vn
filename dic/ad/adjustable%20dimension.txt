@@ -1,0 +1,2 @@
+﻿@adjustable dimension
+#(Tech) kích thước điều chỉnh được

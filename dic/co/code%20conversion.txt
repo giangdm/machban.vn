@@ -1,0 +1,9 @@
+﻿@code conversion
+#(Tech) đổi mã
+@Chuyên ngành kỹ thuật
+#bộ chuyển đổi mã
+#sự chuyển đổi mã
+@Lĩnh vực: điện lạnh
+#đổi mã
+@Lĩnh vực: toán & tin
+#sự biến đổi mã

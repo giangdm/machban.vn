@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#vùng áp suất thấp
+@Lĩnh vực: điện lạnh
+#bình chứa hạ áp
+#bình gom hạ áp
+#máy thu áp suất thấp

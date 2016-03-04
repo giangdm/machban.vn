@@ -1,0 +1,2 @@
+﻿@decompile
+#<tin> dịch ngược

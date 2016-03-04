@@ -1,0 +1,2 @@
+﻿@audio response device
+#(Tech) bộ phát âm

@@ -1,0 +1,2 @@
+﻿@curtain effect
+#(Tech) hiệu ứng mành che

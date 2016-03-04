@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#nắp
+#nút
+@Lĩnh vực: xây dựng
+#nút ở đầu mút
+@Lĩnh vực: điện
+#máy chụp đầu cuối
+@Chuyên ngành kỹ thuật
+#nắp
+#nút
+@Lĩnh vực: xây dựng
+#nút ở đầu mút
+@Lĩnh vực: điện
+#máy chụp đầu cuối

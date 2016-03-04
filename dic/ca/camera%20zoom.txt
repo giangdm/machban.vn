@@ -1,0 +1,2 @@
+﻿@camera zoom
+#(Tech) chuyển tiêu cự máy quay phim

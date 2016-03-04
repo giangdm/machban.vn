@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#sản lượng cao nhất
+#sản phẩm cao nhất
+@Chuyên ngành kỹ thuật
+#lưu lượng cao nhất
+#lưu lượng đỉnh
+#lưu lượng lớn nhất (trạm thủy điện)
+@Lĩnh vực: cơ khí & công trình
+#công suất đỉnh

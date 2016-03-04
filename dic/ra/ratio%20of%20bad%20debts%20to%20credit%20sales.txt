@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tỉ suất giữa nợ khó đòi và số bán chịu
+#tỷ suất giá ngoại hối đã điều chỉnh

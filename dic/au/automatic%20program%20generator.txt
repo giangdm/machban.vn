@@ -1,0 +1,2 @@
+﻿@automatic program generator
+#(Tech) bộ tạo chương trình tự động

@@ -1,0 +1,6 @@
+﻿@Fixed factors
+#(Econ) Các yếu tố sản xuất cố định; các sản tố cố định.
+: Những yếu tố sản xuất không thể thay đổi vì số lượng.
+@Chuyên ngành kinh tế
+#tiền gửi kỳ hạn
+#yếu tố cố định

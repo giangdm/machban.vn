@@ -1,0 +1,8 @@
+﻿@flag operand
+#(Tech) toán tố cờ hiệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#toán hạng cờ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#toán hạng cờ

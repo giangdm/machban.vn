@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mâm cặp có tốc
+#mâm cặp đẩy tốc
+#mâm đẩy tốc
+#mâm gá kiểu tốc

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#tảng đá
+@Chuyên ngành kỹ thuật
+#đá khối
+@Lĩnh vực: điện lạnh
+#cây (băng) đá
+#cây đá
+#khối (nước) đá
+#khối nước đá
+@Lĩnh vực: hóa học & vật liệu
+#nước đá khối

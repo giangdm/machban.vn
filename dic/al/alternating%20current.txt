@@ -1,0 +1,10 @@
+﻿@alternating current
+#dòng điện xoay chiều
+@Chuyên ngành kỹ thuật
+#dòng xoay chiều
+@Lĩnh vực: điện
+#điện xoay chiều
+#dòng điện xoay chiều
+#dòng điện xoay chiều AC
+@Lĩnh vực: điện lạnh
+#dòng điện AC

@@ -1,0 +1,6 @@
+﻿@beaufort scale
+*danh từ
+#thang đo tốc độ gió từ 0 (tựnh lặng) đến 12 (bão)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#thang cấp gió Beaufort

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự truy cập bộ nhớ đều
+#sự truy cập bộ nhớ không đổi

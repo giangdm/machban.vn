@@ -1,0 +1,2 @@
+﻿@Percentage change
+#(Econ) Chênh lệch tính bằng phần trăm.

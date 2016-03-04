@@ -1,0 +1,3 @@
+﻿@Indifference map
+#(Econ) Họ đường bàng quan, bản đồ đường đẳng dụng.
+: Tập hợp các đường BÀNG QUAN, trong đó mỗi đường kế tiếp nằm ở phía ngoài đường trước đó theo hướng Đông bắc. Các đường bàng quan cao hơn chỉ mức thoả dụng cao hơn.

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nhãn hàng riêng của nhà phân phối
+#nhãn hàng tự có
+#nhãn hiệu của người bán lẻ

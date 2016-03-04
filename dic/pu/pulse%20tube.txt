@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#ống dao động
+@Lĩnh vực: điện lạnh
+#ống xung

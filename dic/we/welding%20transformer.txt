@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ biến thế hàn điện
+#máy hàn điện
+@Lĩnh vực: điện
+#biến áp hàn
+@Lĩnh vực: điện lạnh
+#máy biến áp hàn
+@Lĩnh vực: xây dựng
+#máy biến thế hàn

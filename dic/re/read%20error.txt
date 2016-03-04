@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lỗi đọc
+@Lĩnh vực: điện
+#sai số do đọc

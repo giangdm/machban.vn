@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#in đĩa
+#sự kết xuất đĩa
+#xuất đĩa

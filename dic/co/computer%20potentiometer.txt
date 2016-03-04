@@ -1,0 +1,2 @@
+﻿@computer potentiometer
+#(Tech) bộ biến trở máy điện toán

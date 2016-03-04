@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ đo dầu
+#thước đo
+#tỷ trọng kế dầu
+@Lĩnh vực: cơ khí & công trình
+#chỉ mức dầu
+#thước thăm dầu
+@Lĩnh vực: đo lường & điều khiển
+#ống đo mực dầu

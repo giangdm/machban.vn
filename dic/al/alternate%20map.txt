@@ -1,0 +1,2 @@
+﻿@alternate map
+#(Tech) bảng đối ứng thay thế [điện toán] [NB]

@@ -1,0 +1,2 @@
+﻿@electron orbit
+#(Tech) quỹ đạo điện tử

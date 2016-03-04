@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chu kỳ sấy khô
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu trình sấy

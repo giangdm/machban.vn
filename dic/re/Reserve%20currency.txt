@@ -1,0 +1,8 @@
+﻿@Reserve currency
+#(Econ) Đồng tiền dự trữ.
+: Là tên gọi được đặt cho một ĐỒNG TIỀN nước ngoài mà một chính phủ sãn sàng giữ làm một phần dự trữ của mình; số tiền này được sử dụng để tài trợ cho thương mại quốc tế.
+@Chuyên ngành kinh tế
+#đồng tiền dự trữ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tiền tệ dự trữ

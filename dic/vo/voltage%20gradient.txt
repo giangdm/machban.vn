@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#gradien điện áp
+@Lĩnh vực: điện lạnh
+#gradien điện thế
+@Lĩnh vực: điện
+#gradien thế
+#gradient điện áp
+@Lĩnh vực: toán & tin
+#khuynh độ đện thế
+@Lĩnh vực: xây dựng
+#khuynh độ điện thế

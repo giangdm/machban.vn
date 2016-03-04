@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng băng từ (vòng vô tận)
+@Lĩnh vực: toán & tin
+#vòng lặp băng

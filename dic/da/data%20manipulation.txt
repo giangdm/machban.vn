@@ -1,0 +1,6 @@
+﻿@data manipulation
+#(Tech) điều dụng dữ liệu, thao tác dữ liệu
+@Chuyên ngành kỹ thuật
+#xử lý dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#thao tác dữ liệu

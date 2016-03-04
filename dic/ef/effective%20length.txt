@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#chiều dài có hiệu
+@Lĩnh vực: xây dựng
+#chiều dài dùng được
+#chiều dài quy đổi
+#chiều dài tính
+@Lĩnh vực: toán & tin
+#chiều dài tĩnh
+#độ dài thực

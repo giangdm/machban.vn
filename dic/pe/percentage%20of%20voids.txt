@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#tỷ lệ kẽ rỗng
+@Lĩnh vực: xây dựng
+#tỷ lệ phần trăm lỗ rỗng (trong vật liệu)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tính giòn nóng
+@Lĩnh vực: hóa học & vật liệu
+#tính gãy nóng
+@Lĩnh vực: cơ khí & công trình
+#tính giòn nóng đỏ

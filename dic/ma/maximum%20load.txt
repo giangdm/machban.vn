@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#sức chở
+#trọng tải tối đa
+@Chuyên ngành kỹ thuật
+#tải trọng tối đa
+@Lĩnh vực: toán & tin
+#tải cực đại
+@Lĩnh vực: xây dựng
+#tải trọng lớn nhất

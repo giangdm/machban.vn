@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng thay đổi
+@Lĩnh vực: xây dựng
+#biến dạng đan dấu
+#biến dạng đổi dấu

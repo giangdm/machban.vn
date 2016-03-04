@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ nén
+@Lĩnh vực: xây dựng
+#độ đầm lèn
+@Lĩnh vực: cơ khí & công trình
+#độ đầm nén

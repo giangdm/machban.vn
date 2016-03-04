@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#cần trục tháp
+#máy trục kiểu tháp
+@Lĩnh vực: xây dựng
+#máy trục kiểu trụ

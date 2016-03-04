@@ -1,0 +1,6 @@
+﻿@complexification
+#(đại số) sự phức hoá
+#c. of Lie algebra phức hoá của đại số Li
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự phức hóa

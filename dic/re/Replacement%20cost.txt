@@ -1,0 +1,14 @@
+﻿@Replacement cost
+#(Econ) Chi phí thay thế.
+: Xem HISTORICAL COST.
+@Chuyên ngành kinh tế
+#chi phí thay thế
+#kế toán chi phí thay thế
+#phí tổn thay thế
+@Chuyên ngành kỹ thuật
+#chi phí thay thế
+@Lĩnh vực: xây dựng
+#giá thành thay thế
+@Lĩnh vực: hóa học & vật liệu
+#giá trị thay đổi
+#giá trị thay thế

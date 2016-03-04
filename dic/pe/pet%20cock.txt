@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#ống tháo
+#van giảm áp
+#van xả
+#vòi không khí
+@Lĩnh vực: cơ khí & công trình
+#ống xả (nước, hơi, dầu trong máy)
+@Lĩnh vực: xây dựng
+#vòi kiểm tra mực nước
+#vòi tháo rửa

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#liên kết quang
+@Lĩnh vực: toán & tin
+#sự liên kiết quang

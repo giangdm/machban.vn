@@ -1,0 +1,8 @@
+﻿@control limit
+#(Tech) giới hạn điều khiển
+@Chuyên ngành kỹ thuật
+#giới hạn kiểm tra
+#phím Ctrl
+#phím điều khiển
+@Lĩnh vực: toán & tin
+#giới hạn điều khiển

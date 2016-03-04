@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#trục trước
+@Lĩnh vực: ô tô
+#cầu trước
+@Lĩnh vực: cơ khí & công trình
+#cầu xe trước
+@Lĩnh vực: xây dựng
+#trục bánh xe trước

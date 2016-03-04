@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#trục ngắn (bánh xe)
+#trục ngắn (nối với bánh trước)

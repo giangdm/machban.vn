@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy thử hình mẫu
+@Lĩnh vực: điện lạnh
+#máy tạo hình mẫu

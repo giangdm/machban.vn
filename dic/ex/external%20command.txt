@@ -1,0 +1,8 @@
+﻿@external command
+#(Tech) lệnh ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lệnh ngoại trú
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lệnh ngoại trú

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi cơ sở thời gian
+#lỗi tín hiệu gốc thời gian

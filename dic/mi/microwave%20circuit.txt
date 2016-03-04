@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch vi ba
+#mạch vi sóng
+@Lĩnh vực: điện lạnh
+#mạch sóng cực ngắn

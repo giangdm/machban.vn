@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đường dây kết thúc
+@Lĩnh vực: điện lạnh
+#đường dây cuối (không có phản xạ)
+@Lĩnh vực: toán & tin
+#đường truyền chấm dứt

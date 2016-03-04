@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt phẳng tiếp xúc
+@Lĩnh vực: xây dựng
+#mặt phẳng tiếp tuyến
+@Lĩnh vực: toán & tin
+#tiếp diện

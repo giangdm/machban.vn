@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị công nghệ
+@Chuyên ngành kỹ thuật
+#thiết bị xử lý
+@Lĩnh vực: xây dựng
+#thiết bị công nghệ

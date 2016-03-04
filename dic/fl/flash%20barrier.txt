@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#ngăn cháy
+#màn chắn hồ quang
+#màn chắn tia lửa
+@Lĩnh vực: xây dựng
+#màn chắn chớp sáng
+@Lĩnh vực: điện
+#vành chắn tia lửa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#ngăn cháy
+#màn chắn hồ quang
+#màn chắn tia lửa
+@Lĩnh vực: xây dựng
+#màn chắn chớp sáng
+@Lĩnh vực: điện
+#vành chắn tia lửa

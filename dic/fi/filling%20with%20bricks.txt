@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự chèn khối xây (bằng gạch)
+#sự lắp khối xây (bằng gạch)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự chèn khối xây (bằng gạch)
+#sự lắp khối xây (bằng gạch)

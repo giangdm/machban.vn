@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dải thông theo quy tắc Carson
+@Lĩnh vực: điện tử & viễn thông
+#dải quy luật Carson

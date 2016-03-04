@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dòng (mạnh) xiết
+#dòng siêu tới hạn
+@Lĩnh vực: cơ khí & công trình
+#dòng siêu hạn
+#dòng trên tới hạn

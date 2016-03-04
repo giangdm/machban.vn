@@ -1,0 +1,2 @@
+﻿@Nominal variables
+#(Econ) Các biến số danh nghĩa.

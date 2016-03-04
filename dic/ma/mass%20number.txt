@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#chỉ số khối lượng
+@Lĩnh vực: điện lạnh
+#khối lượng lớn
+#số khối lượng
+@Lĩnh vực: điện
+#khối lượng số
+@Lĩnh vực: điện tử & viễn thông
+#số hiệu khối

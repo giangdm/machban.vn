@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hàng đợi bó
+#hàng đợi theo lô
+@Lĩnh vực: điện tử & viễn thông
+#hàng theo lô

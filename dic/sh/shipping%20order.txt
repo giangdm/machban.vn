@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giấy báo gởi hàng
+#giấy báo gửi hàng
+#phiếu chất hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#lệnh xếp hàng xuống tàu

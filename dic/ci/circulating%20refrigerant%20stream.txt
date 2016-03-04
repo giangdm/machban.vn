@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dòng môi chất lạnh tuần hoàn
+#dòng môi chất lỏng tuần hoàn

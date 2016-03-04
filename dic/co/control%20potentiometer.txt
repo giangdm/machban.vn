@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều khiển
+@Lĩnh vực: giao thông & vận tải
+#giá điều khiển
+@Lĩnh vực: đo lường & điều khiển
+#nền điều khiển

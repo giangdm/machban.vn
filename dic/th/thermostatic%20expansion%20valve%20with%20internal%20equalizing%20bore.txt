@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#van dãn nở (tiết lưu) nhiệt nội cân bằng
+#van giãn nở nhiệt cân bằng trong
+#van tiết lưu nhiệt cân bằng trong

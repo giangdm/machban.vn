@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sai lệch trọng lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ chệch trọng lượng

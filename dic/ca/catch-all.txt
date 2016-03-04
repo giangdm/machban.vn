@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bình gom
+#bộ gom
+#cái gom
+#cái lọc
+@Chuyên ngành kỹ thuật
+#cái bẫy
+#dụng cụ cứu kẹt

@@ -1,0 +1,9 @@
+﻿@address mapping
+#(Tech) lập bản đồ địa chỉ, gán địa chỉ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ánh xạ địa chỉ
+#bản đồ địa chỉ
+#bảng phân bố địa chỉ
+#chuyển đổi địa chỉ
+#sự ánh xạ địa chỉ

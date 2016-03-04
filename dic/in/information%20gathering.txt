@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tập hợp dữ liệu
+#thu nhập thông tin
+@Chuyên ngành kỹ thuật
+#sự thu thập thông tin

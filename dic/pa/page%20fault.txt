@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi trang
+@Lĩnh vực: điện tử & viễn thông
+#nhầm trang
+@Lĩnh vực: toán & tin
+#sai hỏng trang (bộ nhớ)

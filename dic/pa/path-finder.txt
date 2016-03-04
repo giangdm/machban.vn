@@ -1,0 +1,5 @@
+﻿@path-finder
+*danh từ
+#người mở đường, người thám hiểm
+#người chỉ điểm, tên gián điệp
+#<qsự> máy bay chỉ điểm (cho máy bay ném bom); người lái máy bay chỉ điểm

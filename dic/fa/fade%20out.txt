@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#làm yếu đi
+@Lĩnh vực: toán & tin
+#giảm dần cường độ
+@Lĩnh vực: vật lý
+#làm giảm (âm hiệu lớn)
+@Lĩnh vực: điện lạnh
+#tắt dần màn hình
+@Lĩnh vực: điện
+#tín hiệu cảm mạnh
+@Chuyên ngành kỹ thuật
+#làm yếu đi
+@Lĩnh vực: toán & tin
+#giảm dần cường độ
+@Lĩnh vực: vật lý
+#làm giảm (âm hiệu lớn)
+@Lĩnh vực: điện lạnh
+#tắt dần màn hình
+@Lĩnh vực: điện
+#tín hiệu cảm mạnh

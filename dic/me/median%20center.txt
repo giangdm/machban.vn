@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tâm (trung vị, međian)
+#tâm median
+#tâm trung vị

@@ -1,0 +1,7 @@
+﻿@Marginal efficiency of capital
+#(Econ) Hiệu suất cận biên của vốn.
+: Là TỶ LỆ CHIẾT KHẤU độc nhất có thể khiến cho giá trị hiện tại của lợi ích ròng dự kiến từ một tài sản vốn bằng đúng với giá cung cấp nó khi giá cung cấp tài sản đó không hề tăng.
+@Chuyên ngành kinh tế
+#hiệu quả biên của vốn
+#hiệu suất biên tế của đồng vốn
+#hiệu suất biên tế đồng vốn

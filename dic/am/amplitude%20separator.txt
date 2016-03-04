@@ -1,0 +1,5 @@
+﻿@amplitude separator
+#(Tech) bộ phân chia theo biên độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ tách (theo) biên độ

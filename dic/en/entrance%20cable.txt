@@ -1,0 +1,14 @@
+﻿@entrance cable
+#(Tech) cáp vào
+@Chuyên ngành kỹ thuật
+#cáp vào
+@Lĩnh vực: điện
+#cáp dẫn vào
+@Lĩnh vực: xây dựng
+#cáp nối nhập
+@Chuyên ngành kỹ thuật
+#cáp vào
+@Lĩnh vực: điện
+#cáp dẫn vào
+@Lĩnh vực: xây dựng
+#cáp nối nhập

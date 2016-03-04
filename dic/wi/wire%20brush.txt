@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bàn chải cọ
+@Lĩnh vực: hóa học & vật liệu
+#bàn chải bằng kim loại
+@Lĩnh vực: y học
+#bàn chải kim loại
+@Lĩnh vực: xây dựng
+#chổi kim loại

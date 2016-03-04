@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ chương trình cao cấp-HLPL
+#ngôn ngữ lập trình bậc cao

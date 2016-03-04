@@ -1,0 +1,5 @@
+﻿@critical data
+#(Tech) dữ kiện chính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#số liệu tới hạn

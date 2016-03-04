@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#giá mua
+#giá thành
+#giá thành thực tế
+#phí tổn thực tế
+#sản phí thực sự
+@Chuyên ngành kỹ thuật
+#chi phí thực
+@Lĩnh vực: xây dựng
+#giá thành hiện hành
+#giá thực tế
+@Lĩnh vực: điện tử & viễn thông
+#giá thành thực tế

@@ -1,0 +1,6 @@
+﻿@alternating voltage
+#(Tech) điện áp biến đổi/xoay chiều
+@Chuyên ngành kỹ thuật
+#điện áp xoay chiều
+@Lĩnh vực: điện lạnh
+#điện áp AC

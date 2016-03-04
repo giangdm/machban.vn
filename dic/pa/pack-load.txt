@@ -1,0 +1,3 @@
+﻿@pack-load
+*danh từ
+#trọng lượng gói hàng

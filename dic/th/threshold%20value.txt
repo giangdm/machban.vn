@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#giá trị ngưỡng
+@Lĩnh vực: điện tử & viễn thông
+#trị số ngưỡng

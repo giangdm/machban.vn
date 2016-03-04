@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#gồm cả phí bao bì trong đó
+#phí bao bì tính chung (do bên bán chịu)

@@ -1,0 +1,7 @@
+﻿@COLA
+#(Econ) Điều chỉnh theo giá sinh hoạt.
+: Xem ESCALATORS.
+<!-- more -->
+@cola
+*danh từ
+#cây cola

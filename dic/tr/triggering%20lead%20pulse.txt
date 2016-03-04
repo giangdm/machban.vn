@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#xung dẫn khởi động
+#xung đầu ra khởi động
+#xung khởi động

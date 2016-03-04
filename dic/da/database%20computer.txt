@@ -1,0 +1,2 @@
+﻿@database computer
+#(Tech) máy điện toán kho dữ liệu

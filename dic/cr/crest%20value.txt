@@ -1,0 +1,5 @@
+﻿@crest value
+#(Tech) trị đỉnh
+@Chuyên ngành kỹ thuật
+#giá trị cực đại
+#giá trị đỉnh

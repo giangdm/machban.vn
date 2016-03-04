@@ -1,0 +1,9 @@
+﻿@Bank credit
+#(Econ) Tín dụng ngân hàng.
+: Việc cho vay từ hệ thống ngân hàng bằng bất kỳ phương thức nào:TIỀN CHO VAY CỦA NGÂN HÀNG, HỐI PHIẾU CHIẾT KHẤU hay chứng khoán mua. Xem MONEY MULTIPLIER, MONEY SUPPLY, NEW VIEW.
+@Chuyên ngành kinh tế
+#khoản cho vay của ngân hàng
+#tín dụng ngân hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khoản vay ngân hàng

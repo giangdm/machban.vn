@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#người tạo mẫu
+#người thiết kế trang phục
+#thợ làm mẫu
+#thợ làm mô hình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#thợ làm mẫu (xe)
+@Lĩnh vực: xây dựng
+#thợ làm mô hình

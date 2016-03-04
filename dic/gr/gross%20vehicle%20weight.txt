@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#tổng trọng lượng của xe
+#tổng trọng tải xe

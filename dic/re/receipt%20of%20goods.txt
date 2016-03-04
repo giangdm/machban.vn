@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#biên lai giao hàng
+#biên nhận hàng hóa
+#biên nhận trả tiền
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#biên lai hàng hóa

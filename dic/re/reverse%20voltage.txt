@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp ngược
+@Lĩnh vực: toán & tin
+#điện thế đảo nghịch
+@Lĩnh vực: xây dựng
+#điện thế nghịch đảo

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#pha vận hành ban đầu
+#pha vận hành đầu tiên

@@ -1,0 +1,4 @@
+﻿@plug-board
+*danh từ
+#(điện học) bảng phích cắm
+#bảng tổng đài

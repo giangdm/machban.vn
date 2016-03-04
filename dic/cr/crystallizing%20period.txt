@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thời gian kết tinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu kỳ kết tinh
+#chu kỳ kết tinh thể
+#thời gian kết tinh
+#thời gian kết tinh thể

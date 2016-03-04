@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#đặt thuê phòng và ký sổ khi đến (khách sạn)
+#đưa hành lý vào phòng kiểm tra
+#ghi hiện diện (khi đến xưởng)
+#ghi tên khi đến
+#ghi tên lấy phòng khách sạn

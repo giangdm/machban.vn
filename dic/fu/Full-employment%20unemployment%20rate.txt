@@ -1,0 +1,3 @@
+﻿@Full-employment unemployment rate
+#(Econ) Tỷ lệ thất nghiệp tự nhiên ở mức nhân công toàn dụng; Tỷ lệ thất nghiệp tự nhiên khi có đủ việc làm.
+: Xem NATURAL RATE OF UNEMPLOYMENT.

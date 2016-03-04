@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#không khí thứ cấp
+#không khí thứ cấp (dùng lại)
+@Lĩnh vực: điện
+#gió cấp hai
+@Lĩnh vực: xây dựng
+#không khí dùng lại

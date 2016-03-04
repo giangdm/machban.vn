@@ -1,0 +1,3 @@
+﻿@class-list
+*danh từ
+#bản liệt kê kết quả theo thứ hạng

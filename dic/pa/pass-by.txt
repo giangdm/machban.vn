@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đường tránh
+#phần chuyển tiếp (từ đường ray một khổ với đường ray đôi)
+@Lĩnh vực: xây dựng
+#đương vòng

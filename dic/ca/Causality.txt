@@ -1,0 +1,13 @@
+﻿@Causality
+#(Econ) Phương pháp nhân quả.
+: Một khái niệm nảy sinh từ việc xem xét các giả định nổi bật của mô hình kinh tế lượng ước lượng từ số hiệu chuỗi thời gian mà bản chất là không thí nghiệm.
+<!-- more -->
+@causality /kɔ:'zæliti/
+*danh từ
+#nguyên nhân
+#quan hệ nhân quả
+=the law of causality: luật nhân quả
+#thuyết nhân quả
+<!-- more -->
+@causality
+#(vật lí) tính nhân quả

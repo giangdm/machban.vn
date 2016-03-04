@@ -1,0 +1,2 @@
+﻿@antiderivative
+#nguyên hàm, tích phân không định hạng

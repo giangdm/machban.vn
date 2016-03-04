@@ -1,0 +1,3 @@
+﻿@Second order condition
+#(Econ) Điều kiện đạo hàm bậc hai.
+: Dấu của đạo hàm bậc hai của hàm mục tiêu của các biến lựa chọn cho thấy cực trị là cực đại hay cực tiểu.

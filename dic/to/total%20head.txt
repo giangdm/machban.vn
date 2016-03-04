@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất toàn phần
+@Lĩnh vực: xây dựng
+#cột áp toàn phần
+@Lĩnh vực: cơ khí & công trình
+#tổng cột nước

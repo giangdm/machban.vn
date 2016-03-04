@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#van cung cấp
+#van giảm áp
+#van phân phối
+#van tăng áp
+#van tháo
+#van xả
+@Lĩnh vực: điện lạnh
+#van đẩy

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#chất độc xúc tác
+@Lĩnh vực: môi trường
+#chất ức chế xúc tác

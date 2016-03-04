@@ -1,0 +1,2 @@
+﻿@double density diskette
+#(Tech) đĩa mật độ kép

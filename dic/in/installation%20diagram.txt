@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lắp đặt
+@Lĩnh vực: xây dựng
+#biểu đồ lắp đặt
+@Lĩnh vực: toán & tin
+#sơ đồ bố trí

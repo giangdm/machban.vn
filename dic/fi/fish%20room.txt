@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#buồng cá
+#khoang cá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng chứa cá
+#khoang chứa cá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#buồng chứa cá
+#khoang chứa cá

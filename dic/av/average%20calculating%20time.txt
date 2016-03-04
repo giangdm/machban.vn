@@ -1,0 +1,2 @@
+﻿@average calculating time
+#(Tech) thời gian tính toán trung bình

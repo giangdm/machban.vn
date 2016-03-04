@@ -1,0 +1,4 @@
+﻿@absolute instruction
+#(Tech) chỉ thị tuyệt đối, chỉ thị ngôn ngữ máy
+@Chuyên ngành kỹ thuật
+#lệnh tuyệt đối

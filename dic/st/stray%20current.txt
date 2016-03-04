@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng điện tản
+#dòng điện tạp tán
+#dòng lạc
+@Lĩnh vực: điện lạnh
+#dòng điện lạc
+@Lĩnh vực: hóa học & vật liệu
+#dòng tạp tán

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#quá trình tự phát
+@Lĩnh vực: điện lạnh
+#quá trình tự phát (ở một hệ nhiệt động)

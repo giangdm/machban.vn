@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tài sản âm
+#tài sản ròng có giá trị âm
+#vốn âm

@@ -1,0 +1,6 @@
+﻿@Speculative balances
+#(Econ) Tiền đầu cơ.
+: Xem MONEY, THE DEMAND FOR.
+@Chuyên ngành kinh tế
+#số dư (tiền mặt) có tính đầu cơ
+#số dư tiền mặt có tính đầu cơ

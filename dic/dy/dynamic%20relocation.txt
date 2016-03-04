@@ -1,0 +1,7 @@
+﻿@dynamic relocation
+#(Tech) tái định vị động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chuyển vị động
+@Lĩnh vực: toán & tin
+#tái định vị động

@@ -1,0 +1,2 @@
+﻿@digital cross-connect system
+#(Tech) hệ thống đối kết dạng số tự

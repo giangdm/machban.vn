@@ -1,0 +1,7 @@
+﻿@Sole trader
+#(Econ) Người buôn bán cá thể.
+@Chuyên ngành kinh tế
+#doanh nghiệp độc tư, một người
+#nhà buôn độc tư
+#thương nhân cá thể
+#thương nhân tự doanh

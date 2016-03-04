@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn vị nhiệt Anh
+#đơn vị nhiệt Anh trung bình
+@Lĩnh vực: điện lạnh
+#Btu (=1, 056kJ)

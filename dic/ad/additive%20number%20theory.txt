@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lý thuyết cộng tính các số
+@Lĩnh vực: toán & tin
+#lý thuyết cộng tính số

@@ -1,0 +1,10 @@
+﻿@lower case
+*danh từ
+#<in> chữ nhỏ, chữ thường (không phải chữ hoa)
+@Chuyên ngành kinh tế
+#chữ nhỏ
+#chữ thường
+@Chuyên ngành kỹ thuật
+#chữ thường
+@Lĩnh vực: xây dựng
+#két dưới

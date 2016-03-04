@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#mũi cấp liệu
+@Lĩnh vực: điện lạnh
+#vòi cấp liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#mũi cấp liệu
+@Lĩnh vực: điện lạnh
+#vòi cấp liệu

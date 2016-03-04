@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cần trục cánh
+@Lĩnh vực: toán & tin
+#cần trục bánh
+@Lĩnh vực: cơ khí & công trình
+#cần trục kiểu côngxon

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#tạp nhiễu cơ bản
+#tiếng ồn cơ bản
+@Lĩnh vực: điện lạnh
+#tiếng ồn cơ sở

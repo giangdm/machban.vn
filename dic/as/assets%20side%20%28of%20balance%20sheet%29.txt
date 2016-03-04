@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#bên có (của bảng kế toán)
+#bên có (của bảng tổng kết tài sản)

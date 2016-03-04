@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy giảm áp
+@Lĩnh vực: điện lạnh
+#máy bù áp âm
+@Lĩnh vực: điện
+#máy giảm điện áp
+#máy tăng áp âm

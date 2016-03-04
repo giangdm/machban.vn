@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#xử lý ngẫu nhiên
+@Lĩnh vực: toán & tin
+#sự xử lý ngẫu nhiên

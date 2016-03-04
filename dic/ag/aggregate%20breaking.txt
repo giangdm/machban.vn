@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#lượng cốt liệu đập vỡ
+#sự đập vỡ cốt liệu

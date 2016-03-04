@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hệ thống mạch vòng
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống vòng

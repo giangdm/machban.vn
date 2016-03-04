@@ -1,0 +1,9 @@
+﻿@Tangible assets
+#(Econ) Tài sản hữu hình.
+: Các tài sản vật chất như nhà máy, máy móc, có thể được phân biệt với tài sản vô hình như giá trị của một bằng phát minh hay tiếng tăm của một công ty.
+@Chuyên ngành kinh tế
+#tài sản hữu hình
+#tài sản vật chất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tài sản xác thực

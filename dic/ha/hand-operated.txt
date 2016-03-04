@@ -1,0 +1,4 @@
+﻿@hand-operated
+*tính từ
+#được điều khiển bằng tay
+=is this tool hand-operated or power-driven?:dụng cụ này được điều khiển bằng tay hay bằng điện?

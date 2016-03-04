@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#đường giữa
+#đường nối tâm
+#đường tim
+#đường trục
+#đường trung bình
+#đường trung tâm
+@Lĩnh vực: toán & tin
+#dòng trung tâm
+#tuyến trung tâm
+@Lĩnh vực: giao thông & vận tải
+#đường dọc tâm
+#tim đường (đường sắt)

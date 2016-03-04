@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#vết rót
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#vạch mức (ở thùng chứa)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#vạch mức (ở thùng chứa)

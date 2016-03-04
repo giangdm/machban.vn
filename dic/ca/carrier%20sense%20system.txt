@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ cảm biến sóng mang
+#hệ thống cảm biến sóng mạng
+#hệ thống phát hiện sóng mạng

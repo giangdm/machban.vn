@@ -1,0 +1,3 @@
+﻿@Recursive model
+#(Econ) Mô hình nội phản.
+: Là một mô hình trong đó những giá trị hiện tại của một tập hợp các biến số quyết định giá trị hiện tại của một tập hợp khác trong khi các giá trị trước đó (giá trị trễ) của tập hợp sau lại quyết định các giá trị hiện tại của giá trị trước.

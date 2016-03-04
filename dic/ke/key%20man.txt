@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#nhân vật chủ yếu
+#nhân vật then chốt
+#nhân vật then chốt (của xí nghiệp)
+@Chuyên ngành kỹ thuật
+#người phụ trách (chính)
+@Chuyên ngành kỹ thuật
+#người phụ trách (chính)

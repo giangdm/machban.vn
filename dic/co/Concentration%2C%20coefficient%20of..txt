@@ -1,0 +1,3 @@
+﻿@Concentration, coefficient of.
+#(Econ) Hệ số tập trung.
+: Một số đo thống kê về mức độ hoạt động kinh tế hay một đặc tính kinh tế được tập trung về mặt địa lý, chẳng hạn trong một quốc gia. Xem LOCATION QUOTIENT, SPECIALIZATION, COFFICIENT OF.

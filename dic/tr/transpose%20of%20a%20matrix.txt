@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chuyển vị của ma trận
+#sự chuyển vị trí của ma trận
+@Chuyên ngành kỹ thuật
+#ma trận chuyển vị

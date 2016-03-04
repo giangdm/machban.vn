@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#ghép chặt
+#liên kết mạnh
+@Lĩnh vực: điện lạnh
+#độ ghép chặt
+#độ ghép kín (lớn hơn độ ghép tới hạn)
+@Lĩnh vực: điện
+#sự ghép chặt
+@Lĩnh vực: toán & tin
+#sự ghép nối chặt chẽ

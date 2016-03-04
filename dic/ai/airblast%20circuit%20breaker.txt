@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy cắt điện khí nén
+@Lĩnh vực: điện
+#máy cắt điện thổi khí

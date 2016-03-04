@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kỹ thuật
+#cái chỉ tốc độ
+#cái đo tốc độ
+#đồng hồ tốc độ
+#tốc độ kế
+@Lĩnh vực: toán & tin
+#bộ chỉ báo tốc độ
+#bộ phận chỉ tốc độ
+@Lĩnh vực: xây dựng
+#cơ cấu chỉ vận tốc
+#đồng hồ chỉ vận tốc
+@Lĩnh vực: cơ khí & công trình
+#đồng hồ chỉ tốc độ
+#đồng hồ vận tốc
+#thiết bị chỉ số vòng quay
+@Lĩnh vực: đo lường & điều khiển
+#dụng cụ đo tốc độ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy in trục cuốn ép
+@Lĩnh vực: xây dựng
+#máy ép (kiểu tầng)
+@Lĩnh vực: hóa học & vật liệu
+#sự ép tấm

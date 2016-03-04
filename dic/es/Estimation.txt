@@ -1,0 +1,53 @@
+﻿@Estimation
+#(Econ) Sự ước lượng.
+: Sự xác định mang tính định lượng các tham số trong các mô hình kinh tế thông qua các số liệu thông kê.
+<!-- more -->
+@estimation /,esti'meiʃn/
+*danh từ
+#sự đánh giá; sự ước lượng
+#sự kính mến, sự quý trọng
+=to hold someone in estimation: kính mến ai, quý trọng ai
+@Chuyên ngành kinh tế
+#đánh giá
+#sự đánh giá
+#sự ước lượng
+#ước lượng
+@Chuyên ngành kỹ thuật
+#đánh giá
+#dự toán
+#sự đánh giá
+#sự dự đoán
+#sự ước lượng
+#sự ước tính
+#sự xác định
+#tính toán
+#ước lượng
+@Lĩnh vực: cơ khí & công trình
+#sự dự tính
+@Lĩnh vực: xây dựng
+#sự ước đoán
+@Chuyên ngành kỹ thuật
+#đánh giá
+#dự toán
+#sự đánh giá
+#sự dự đoán
+#sự ước lượng
+#sự ước tính
+#sự xác định
+#tính toán
+#ước lượng
+@Lĩnh vực: cơ khí & công trình
+#sự dự tính
+@Lĩnh vực: xây dựng
+#sự ước đoán
+<!-- more -->
+@estimation
+#ước lượng, sự đánh giá
+#e. of error sự đánh giá sai số
+#e. of the order sư đánh giá bậc (sai số)
+#efficiency e. (thống kê) sự ước lượng hữu hiệu
+#error e. sự đánh giá sai số
+#interval e. (thống kê) sự ước lượng khoảng
+#point e. (toán kinh tế) sự ước lượng điểm
+#sequetial e. sự ước lượng liên tiếp
+#simultaneous e.(thống kê) sự ước lượng đồng thời

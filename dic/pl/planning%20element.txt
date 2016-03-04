@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chi tiết quy hoạch
+@Lĩnh vực: xây dựng
+#bộ phận quy hoạch
+#yếu tố quy hoạch

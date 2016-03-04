@@ -1,0 +1,12 @@
+﻿@flash memory
+#(Tech) bộ nhớ flash, bộ nhớ khó phai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ chớp
+#bộ nhớ cực nhanh
+#bộ nhớ tác động nhanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ nhớ chớp
+#bộ nhớ cực nhanh
+#bộ nhớ tác động nhanh

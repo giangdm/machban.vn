@@ -1,0 +1,4 @@
+﻿@algobrithm
+#thuật toán, angôrit
+#division a. thuật toán
+#Euclid’s a. thuật toán Ơclít

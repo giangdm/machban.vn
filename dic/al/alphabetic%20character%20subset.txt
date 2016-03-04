@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập con ký tự chữ cái
+#tập con mẫu ký tự
+#tập ký tự chữ cái con

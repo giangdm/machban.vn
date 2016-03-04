@@ -1,0 +1,2 @@
+﻿@array descriptor
+#(Tech) bộ mô tả dẫy số

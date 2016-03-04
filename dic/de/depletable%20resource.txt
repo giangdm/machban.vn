@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#nguồn tài nguyên có thể cạn kiệt (không tái sinh)
+#tài sản có thể cạn kiệt (như quặng mỏ . . .)

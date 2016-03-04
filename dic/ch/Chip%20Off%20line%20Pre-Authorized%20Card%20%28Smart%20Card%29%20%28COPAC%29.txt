@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thẻ vi mạch gián tiếp được nhận thực trước (thẻ thông minh)

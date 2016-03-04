@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lệnh vô tác
+@Lĩnh vực: toán & tin
+#không có thao tác
+#lệnh không thể hoạt động
+#vô tác

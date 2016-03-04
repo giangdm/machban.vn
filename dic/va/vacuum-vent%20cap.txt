@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kinh tế
+#nắp hộp có lỗ (để tự động giảm áp suất khi thanh trùng)

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#máy điện toán đấu cuối, máy vệ tinh
+#máy tính điện toán đầu cuối
+#máy tính vệ tinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy tính đầu cuối
+@Lĩnh vực: xây dựng
+#máy tính hữu hạn

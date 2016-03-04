@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#máy quạt không khí nóng
+@Lĩnh vực: điện lạnh
+#quạt thổi không khí nóng

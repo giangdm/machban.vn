@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp có tải
+#điện áp công tác
+#điện áp định danh
+#điện áp làm việc
+#điện áp mạch kín
+@Lĩnh vực: điện
+#điện thế hoạt động
+@Lĩnh vực: điện lạnh
+#định mức điện áp

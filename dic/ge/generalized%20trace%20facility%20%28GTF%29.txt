@@ -1,0 +1,5 @@
+﻿@generalized trace facility (GTF)
+#(Tech) phương tiện truy nguyên được tổng quát hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phương tiện truy tìm tổng quát

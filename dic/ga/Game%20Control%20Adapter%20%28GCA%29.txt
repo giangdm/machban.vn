@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều hợp điều khiển trò chơi
+#bộ thích ứng điều khiển trò chơi

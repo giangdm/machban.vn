@@ -1,0 +1,2 @@
+﻿@equalizer coefficients
+#(Tech) hệ số quân bình

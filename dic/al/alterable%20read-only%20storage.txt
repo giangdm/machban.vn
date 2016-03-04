@@ -1,0 +1,2 @@
+﻿@alterable read-only storage
+#(Tech) bộ trữ chỉ đọc đổi được

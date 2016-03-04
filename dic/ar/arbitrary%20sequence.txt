@@ -1,0 +1,2 @@
+﻿@arbitrary sequence
+#(Tech) trình tự/chuỗi nhiệm ý

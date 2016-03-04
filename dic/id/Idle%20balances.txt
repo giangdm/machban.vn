@@ -1,0 +1,6 @@
+﻿@Idle balances
+#(Econ) Tiền nhàn rỗi.
+: Tiền được rút ra khỏi lưu thông và đựơc lưu dưới dạng tiền tích trữ của cải.
+@Chuyên ngành kinh tế
+#số dư không sinh lãi
+#số tiền nhàn rỗi

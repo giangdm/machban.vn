@@ -1,0 +1,2 @@
+﻿@Trend output path
+#(Econ) Đường biểu thị xu thế sản lượng.

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗ khoan thăm dò
+#lỗ thăm dò
+@Lĩnh vực: đo lường & điều khiển
+#lỗ thử nghiệm

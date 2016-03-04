@@ -1,0 +1,7 @@
+﻿@actual parameter
+#(Tech) tham số thực tế
+@Chuyên ngành kỹ thuật
+#số thực tế
+@Lĩnh vực: toán & tin
+#đối số thực
+#thông số thực

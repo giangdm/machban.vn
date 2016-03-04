@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đường cong lũy tích
+@Lĩnh vực: toán & tin
+#đường cong tích lũy

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ dò bằng tinh thể
+@Lĩnh vực: điện
+#bộ tách sóng tinh thể
+@Lĩnh vực: điện lạnh
+#đetectơ tinh thể
+@Lĩnh vực: xây dựng
+#tách sóng tinh thể

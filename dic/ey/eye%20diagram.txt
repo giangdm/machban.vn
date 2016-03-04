@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#biểu đồ dạng mắt
+#đồ thị mắt
+#sơ đồ mắt
+@Lĩnh vực: điện lạnh
+#biểu đồ mắt
+#mẫu mắt
+@Lĩnh vực: toán & tin
+#sơ đồ nút
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#biểu đồ dạng mắt
+#đồ thị mắt
+#sơ đồ mắt
+@Lĩnh vực: điện lạnh
+#biểu đồ mắt
+#mẫu mắt
+@Lĩnh vực: toán & tin
+#sơ đồ nút

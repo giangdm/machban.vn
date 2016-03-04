@@ -1,0 +1,2 @@
+﻿@address descriptor
+#(Tech) bộ mô tả địa chỉ

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#số gọi
+#số thuê bao
+@Lĩnh vực: toán & tin
+#số đăng ký
+#số nhà, máy thuê bao
+@Lĩnh vực: điện lạnh
+#số máy thuê bao

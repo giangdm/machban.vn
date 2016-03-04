@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#không gian hiển thị
+#vùng hiển thị
+@Lĩnh vực: toán & tin
+#khoảng hiển thị

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#cánh kiểu dầm chìa
+@Lĩnh vực: toán & tin
+#cánh mang tự do Swept

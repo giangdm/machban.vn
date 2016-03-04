@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ hiển thị
+@Lĩnh vực: xây dựng
+#máy biểu thị
+@Lĩnh vực: đo lường & điều khiển
+#sự hiển thị nhìn thấy

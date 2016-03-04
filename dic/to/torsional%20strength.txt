@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#ứng suất xoắn
+@Chuyên ngành kỹ thuật
+#độ bền xoắn
+#lực chịu xoắn
+#sức bền xoắn
+@Lĩnh vực: xây dựng
+#cường độ chống xoắn
+#giới hạn bền xoắn
+#sức chịu xoắn
+@Lĩnh vực: cơ khí & công trình
+#cường độ xoắn

@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#đặc tả bộ nhớ mở rộng
+@Lĩnh vực: toán & tin
+#đặc tả vùng nhớ mở rộng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuẩn XMS
+@Lĩnh vực: điện tử & viễn thông
+#thông số kỹ thuật của bộ nhớ mở rộng
+@Chuyên ngành kỹ thuật
+#đặc tả bộ nhớ mở rộng
+@Lĩnh vực: toán & tin
+#đặc tả vùng nhớ mở rộng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuẩn XMS
+@Lĩnh vực: điện tử & viễn thông
+#thông số kỹ thuật của bộ nhớ mở rộng

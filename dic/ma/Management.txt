@@ -1,0 +1,43 @@
+﻿@Management
+#(Econ) Ban quản lý.
+: Là những nhân viên trong một hãng có quyền thay mặt cho các chủ sở hữu kiểm soát các hoạt động của hãng.
+<!-- more -->
+@management /'mænidʤmənt/
+*danh từ
+#sự trông nom, sự quản lý
+#sự điều khiển
+#ban quản lý, ban quản đốc
+#sự khôn khéo, sự khéo xử; mánh lới
+@Chuyên ngành kinh tế
+#ban điều hành
+#ban quản trị
+#chức giám đốc
+#chức quản lý
+#điều khiển
+#khoa quản lý xí nghiệp
+#nhân viên chủ quản
+#nhân viên quản lý
+#phòng quản lý
+#quản lý
+#quản trị
+#sự chi phối
+#sự kinh doanh
+#việc quản lý
+#xử lý
+@Chuyên ngành kỹ thuật
+#quản lí
+#quản lý
+#sự điều hành
+#sự điều khiển
+#sự quản lý
+@Lĩnh vực: điện
+#ban quản trị
+@Lĩnh vực: xây dựng
+#cục quản đốc
+#cục quản lý
+#sự chi phối
+@Lĩnh vực: hóa học & vật liệu
+#sự quản lí
+<!-- more -->
+@management
+#sự quản lý, sự lãnh đạo

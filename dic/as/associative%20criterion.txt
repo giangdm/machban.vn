@@ -1,0 +1,2 @@
+﻿@associative criterion
+#(Tech) chuẩn cứ liên kết

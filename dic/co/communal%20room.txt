@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phòng sinh hoạt chung
+@Lĩnh vực: xây dựng
+#phòng công cộng

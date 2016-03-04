@@ -1,0 +1,57 @@
+﻿@Company
+#(Econ) Công ty.
+: Thường để chỉ công ty CỔ PHẦN, đây là một thực thể pháp lý được thành lập để tiến hành các hoạt động công nghiệp, thương mại vốn được chia thành CỔ PHIẾU do các thành viên của công ty nắm giữ.
+<!-- more -->
+@company /'kʌmpəni/
+*danh từ
+#sự cùng đi; sự cùng ở; sự có bầu có bạn
+=I shall be glad of your company: tôi rất sung sướng có anh cùng đi; tôi rất thích cùng ở với anh
+#khách, khách khứa
+=they have company this evening: tối nay họ có khách
+#bạn, bè bạn
+=you may know a many by the company he keeps: chỉ cần xem bạn bè nó anh cũng có thể biết nó là hạng người nào
+#hội, công ty
+=a railway company: công ty đường sắt
+#đoàn, toán, bọn
+=a company of players: đoàn diễn viên
+=a theatrical company: đoàn kịch
+#(hàng hải) toàn thể thuỷ thủ (trên tàu)
+#(quân sự) đại đội
+#to bear (keep) somebody company
+#cùng đi (cùng ở) với ai cho có bầu có bạn
+#company manners
+#lối xã giao
+#company officer
+#sĩ quan cấp uỷ
+#to get into bad company
+#đánh bọn với những người xấu
+#in company
+#có người đi cùng, có người ở cùng
+#in comapny with
+#cùng với
+#to keep company
+#yêu nhau
+#to keep bad comp[any
+#đi lại chơi với những người xấu
+#to weep for company
+#khóc theo (vì bạn mình khóc)
+*ngoại động từ
+#(từ cổ,nghĩa cổ) đi theo
+*nội động từ
+#(: with) làm bầu làm bạn với; cùng ở với; cùng đi với
+@Chuyên ngành kinh tế
+#công ty
+#doanh nghiệp
+#hãng
+#hãng doanh nghiệp
+#hội buôn
+@Chuyên ngành kỹ thuật
+#đoàn
+#xí nghiệp
+@Lĩnh vực: toán & tin
+#hãng công ty
+<!-- more -->
+@company
+#(toán kinh tế) hãng, công ty
+#insurance c. công ty bảo hiểm
+#stock c. công ty cổ phần

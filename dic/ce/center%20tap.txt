@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đầu lấy ra ở giữa
+#mối nối giữa
+@Lĩnh vực: điện lạnh
+#nối ra ở giữa

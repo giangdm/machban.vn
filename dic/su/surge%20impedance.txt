@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dẫn nạp đặc trưng
+#tổng trở đặc tính
+#trở kháng của sóng xung

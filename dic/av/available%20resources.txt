@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tài nguyên khả dụng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nguồn khả cấp

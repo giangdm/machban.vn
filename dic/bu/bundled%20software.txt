@@ -1,0 +1,5 @@
+﻿@bundled software
+#(Tech) nhu liệu kết bó
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần mềm tính gộp

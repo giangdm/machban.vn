@@ -1,0 +1,5 @@
+﻿@frequency separator
+#(Tech) bộ phân tách tần số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mạch tách tần số

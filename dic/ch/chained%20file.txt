@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin kết chuỗi
+#tập tin liên kết chuỗi
+#tệp móc xích

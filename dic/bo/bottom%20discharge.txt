@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sự tháo dây
+#sự tháo đáy
+@Chuyên ngành kỹ thuật
+#lưu lượng phù sa đáy
+#sự xả nước đáy
+@Lĩnh vực: cơ khí & công trình
+#công trình xả đáy
+@Lĩnh vực: môi trường
+#lưu lượng chân lũ

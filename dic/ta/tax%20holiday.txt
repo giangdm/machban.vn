@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#khoảng thời gian được miễn thuế
+#thời gian miễn thuế
+#thời gian ưu đãi về thuế
+#thời hạn không phải đóng thuế
+#thời kỳ miễn thuế
+#thời kỳ thuế nhẹ (để khuyến khích đầu tư)

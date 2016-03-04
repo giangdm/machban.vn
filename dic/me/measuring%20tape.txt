@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#thước mét dây
+@Chuyên ngành kỹ thuật
+#băng đo
+#thước dây
+@Lĩnh vực: xây dựng
+#thước cuộn bằng dây
+@Lĩnh vực: cơ khí & công trình
+#thước lá

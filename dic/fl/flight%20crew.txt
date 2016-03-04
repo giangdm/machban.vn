@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#phi hành đoàn
+@Chuyên ngành kỹ thuật
+#phi hành đoàn
+@Lĩnh vực: giao thông & vận tải
+#đội bay
+@Chuyên ngành kỹ thuật
+#phi hành đoàn
+@Lĩnh vực: giao thông & vận tải
+#đội bay

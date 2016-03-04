@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#tarô bàn ren
+@Lĩnh vực: hóa học & vật liệu
+#tarô chuẩn
+@Lĩnh vực: cơ khí & công trình
+#tarô hiệu chỉnh chính
+#tarô hiệu chuẩn tinh
+@Lĩnh vực: xây dựng
+#vòi chính

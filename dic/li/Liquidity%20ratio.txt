@@ -1,0 +1,9 @@
+﻿@Liquidity ratio
+#(Econ) Tỷ số về khả năng hoán chuyển
+: Ở Anh, các ngân hàng phải tuân thủ một tỷ lệ chuyển hoán tối thiểu là 30%, sau đó lại giảm xuống còn 28%. Xem MONEY MULTIPLIER, FUNDING.
+@Chuyên ngành kinh tế
+#mức chu chuyển (vốn)
+#tỉ suất tính lưu động
+#tỷ lệ khả năng thanh toán bằng tiền mặt
+#tỷ số khả năng thanh toán
+#tỷ số thanh tiêu

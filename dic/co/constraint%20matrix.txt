@@ -1,0 +1,5 @@
+﻿@constraint matrix
+#(Tech) ma trận ràng buộc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ma trận ràng buộc

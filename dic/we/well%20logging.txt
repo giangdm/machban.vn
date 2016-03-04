@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#kỹ thuật carota giếng bằng phóng xạ
+#kỹ thuật log giếng bằng phóng xạ
+#sự ghi
+@Lĩnh vực: hóa học & vật liệu
+#carota giếng khoan
+#kỹ thuật carota giếng khoan
+#kỹ thuật log giếng khoan (đo giếng)
+@Lĩnh vực: xây dựng
+#carôta lỗ khoan

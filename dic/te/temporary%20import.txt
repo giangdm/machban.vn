@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nhập khẩu tạm (hàng triển lãm, hàng mẫu ...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tạm nhập

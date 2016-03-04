@@ -1,0 +1,2 @@
+﻿@alphanumeric data item
+#(Tech) điều khoản dữ kiện chữ-số

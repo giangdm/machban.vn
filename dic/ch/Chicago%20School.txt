@@ -1,0 +1,5 @@
+﻿@Chicago School
+#(Econ) Trường phái (kinh tế) Chicago.
+: Tên để chỉ các nhà kinh tế học có chung 4 niềm tin cơ bản sau. Thứ nhât, họ tin rằng kinh tế học là (hoặc có thể là ) không giá trị theo cách tương tự như các ngành khoa học vật lý. Thứ hai, hị tin rằng lý thuyết giá cả Tân cổ điển là một lý giải chính xác về cách thức hoạt động của các hệ thống kinh tế. Thứ ba, họ tin rằng sự hoạt động của thị trường cạnh tranh, tự do là giải pháp khả dĩ nhất cho vấn đề phân bổ các nguồn lực. Cuối cùng, họ là những người trung thành vững vàng với CHỦ NGHĨA TRỌNG TIỀN. Tất cả những điều này đưa họ đến chỗ ủng hộ sự can thiệp hạn chế của chính phủ vào hệ tống kinh tế. Tên gọi này bắt nguồn từ thực tế là nhiều thành viên nổi bật của trường phái này (ví dụ FRIEDMAN, KNIGHT, SCHULTZ và STIGLER) đã gắn bó với trường đại học Chicago.
+@Chuyên ngành kinh tế
+#trường phái Chicago

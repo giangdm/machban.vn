@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khủy nối vuông góc
+@Lĩnh vực: xây dựng
+#khuỷu 90o
+@Lĩnh vực: điện
+#khuỷu nối thẳng góc

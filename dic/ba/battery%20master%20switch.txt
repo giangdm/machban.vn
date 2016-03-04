@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#công tắc chính của mạch ắcqui
+#công tắc ngắt mass ắcqui

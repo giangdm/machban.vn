@@ -1,0 +1,10 @@
+﻿@end-to-end protocol
+#(Tech) quy ước từ đầu đến cuối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức điểm tới điểm
+#giao thức giữa các đầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao thức điểm tới điểm
+#giao thức giữa các đầu

@@ -1,0 +1,5 @@
+﻿@Skewed distribution
+#(Econ) Phân phối lệch.
+: Một phân phối không đối xứng xung quanh giá trị trung bình của nó.
+@Chuyên ngành kỹ thuật
+#phân phối lệch

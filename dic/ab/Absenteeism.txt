@@ -1,0 +1,11 @@
+﻿@Absenteeism
+#(Econ) Trốn việc, sự nghỉ làm không có lý do
+: Sự nghỉ làm, mặc dù các điều khoản của hợp đồng lao động yêu cầu người lao động phải đi làm và hợp đồng vẫn còn giá trị.
+<!-- more -->
+@absenteeism /,æbsən'ti:izm/
+*danh từ
+#sự hay vắng mặt, sự vắng mặt không có lý do chính đáng (ở công sở, ở xí nghiệp...)
+@Chuyên ngành kinh tế
+#sự hay vắng mặt
+#sự khiếm diện cố ý (của nhân viên, hội viên, học sinh)
+#vắng mặt ở sở

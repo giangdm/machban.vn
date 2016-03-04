@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khối ngăn nhỏ
+#khối nhiều lỗ (rỗng)
+#khối nhiều ngăn
+#khối phòng nhỏ
+@Lĩnh vực: điện tử & viễn thông
+#nhiều hốc

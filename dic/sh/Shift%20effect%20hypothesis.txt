@@ -1,0 +1,3 @@
+﻿@Shift effect hypothesis
+#(Econ) Giả thuyết về hiệu ứng dịch chuyển.
+: Lập luận cho rằng chính sách thu nhập có thể ảnh hưởng đến việc dịch chuyển đường Phillips sang bên trái, do đó tạo ra một mức tiền lương thâp hơn và / hoặc làm lạm phát giá đối với những giá trị cho trước của các yếu tố quyết định chúng trước hết là mức thất nghiệp.

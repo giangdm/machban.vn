@@ -1,0 +1,6 @@
+﻿@sales department
+*danh từ
+#phòng tiêu thụ sản phẩm
+@Chuyên ngành kinh tế
+#phòng bán hàng
+#phòng mãi vụ (của xí nghiệp)

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lọc chính
+@Lĩnh vực: điện lạnh
+#bộ lọc sơ cấp
+#phin lọc sơ cấp
+@Lĩnh vực: xây dựng
+#thiết bị lọc sơ bộ

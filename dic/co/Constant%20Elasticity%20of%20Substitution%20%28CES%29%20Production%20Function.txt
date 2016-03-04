@@ -1,0 +1,3 @@
+﻿@Constant Elasticity of Substitution (CES) Production Function
+#(Econ) Hàm sản xuất với độ co giãn thay thế không đổi.
+: Hàm sản xuất CES là một hàm sản xuất ĐỒNG NHẤT TUYẾN TÍNH có độ co giãn thay thế đầu vào không đổi.

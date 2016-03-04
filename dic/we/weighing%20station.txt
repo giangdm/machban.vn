@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#trạm cân
+@Lĩnh vực: điện
+#trạm cân (đo) than

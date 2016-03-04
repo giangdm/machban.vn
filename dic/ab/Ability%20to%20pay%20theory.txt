@@ -1,0 +1,3 @@
+﻿@Ability to pay theory
+#(Econ) Lý thuyết về khả năng chi trả
+: Một lý thuyết về cách đánh thuế theo đó gánh nặng về thuế nên được phân bổ theo khả năng chi trả; và một hệ thống thuế kiểu luỹ tiến, tỷ lệ hay luỹ thoái, tuỳ thuộc vào thước đo được sử dụng và độ dốc giả định của đồ thị thoả dụng biên của thu nhập.

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dịch sóng mang
+@Lĩnh vực: điện
+#sự chuyển dịch tần số

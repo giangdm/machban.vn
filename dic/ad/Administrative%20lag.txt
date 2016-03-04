@@ -1,0 +1,7 @@
+﻿@Administrative lag
+#(Econ) Độ trễ do hành chính
+: Một trong những độ trễ về thời gian ảnh hưởng đến hiệu lực của một CHÍNH SÁCH TIỀN TỆ. Đó là khoảng thời gian từ lúc các cơ quan có thẩm quyền nhận thấy cần có hành động đến khi tiến hành thực sự hành động đó.
+@Chuyên ngành kinh tế
+#độ trễ hành chánh
+#độ trễ hành chính
+#thời gian kéo dài về hành chánh

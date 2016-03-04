@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chứng từ không giao dịch được
+#chứng từ không lưu thông
+#phiếu khoán không lưu thông

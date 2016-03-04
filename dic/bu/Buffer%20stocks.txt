@@ -1,0 +1,7 @@
+﻿@Buffer stocks
+#(Econ) Kho đệm, dự trữ bình ổn
+: Các lượng hàng hoá được dự trữ để khắc phục biến động giá cả đối với các mặt hàng cơ bản.
+@Chuyên ngành kinh tế
+#hàng trữ đệm
+#lượng trữ hàng an toàn
+#lượng trữ kho điều tiết

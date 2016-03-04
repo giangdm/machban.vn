@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#xếp nếp kiểu phong cầm
+@Chuyên ngành kỹ thuật
+#sự gấp giấy kiểu quạt
+@Lĩnh vực: toán & tin
+#gấp kiểu quạt giấy
+#sự gấp giấy
+#sự xếp giấy (để in, lưu giữ)

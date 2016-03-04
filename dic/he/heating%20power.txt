@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#năng suất tỏa nhiệt
+@Lĩnh vực: vật lý
+#công suất nung nóng
+#công suất sưởi
+@Lĩnh vực: xây dựng
+#khả năng sinh nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#năng suất gia nhiệt
+#sức đốt nóng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng ra
+@Lĩnh vực: điện
+#đầu ra dòng
+@Lĩnh vực: cơ khí & công trình
+#dòng điện ra

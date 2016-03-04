@@ -1,0 +1,2 @@
+﻿@function abstraction
+#(Tech) hàm trừu tượng

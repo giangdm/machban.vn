@@ -1,0 +1,10 @@
+﻿@punch card
+*danh từ
+#phiếu đục lỗ
+@Chuyên ngành kinh tế
+#phiếu cơ toán
+#phiếu cơ toán (bìa để sử dụng máy điện toán văn phòng)
+#phiếu đục lỗ
+@Chuyên ngành kỹ thuật
+#bìa đục lỗ
+#phiếu đục lỗ

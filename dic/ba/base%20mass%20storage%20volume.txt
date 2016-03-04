@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dung lượng bộ nhớ cơ sở
+#khối lượng lưu trữ cơ bản
+#tập lưu mảng nhớ

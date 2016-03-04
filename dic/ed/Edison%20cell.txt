@@ -1,0 +1,6 @@
+﻿@Edison cell
+#(Tech) pin Edison
+@Chuyên ngành kỹ thuật
+#ắcqui Edison
+@Lĩnh vực: điện
+#pin Edison

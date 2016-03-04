@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thành phần một chiều
+@Lĩnh vực: điện
+#thành phần trưc tiếp

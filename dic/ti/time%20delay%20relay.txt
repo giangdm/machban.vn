@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle tác dụng chậm
+#rơle trễ thời gian
+@Lĩnh vực: xây dựng
+#rờ le có tác dụng chậm
+@Lĩnh vực: ô tô
+#rơle có mạch trễ
+@Lĩnh vực: toán & tin
+#rơle có tác dụng chặn

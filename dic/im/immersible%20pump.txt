@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy bơm chìm
+@Lĩnh vực: điện lạnh
+#bơm nhúng (chìm)
+#bơm nhúng chìm
+@Lĩnh vực: xây dựng
+#bơm nhúng sâu dưới nước

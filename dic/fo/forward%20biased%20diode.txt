@@ -1,0 +1,2 @@
+﻿@forward biased diode
+#(Tech) đèn hai cực có thiên áp thuận

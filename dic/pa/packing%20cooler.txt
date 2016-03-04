@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phòng lạnh của phân xưởng bao gói
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phòng lạnh để đóng gói

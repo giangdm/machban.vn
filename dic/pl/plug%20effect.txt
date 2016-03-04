@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hiệu ứng bít dòng chảy
+#hiệu ứng hút

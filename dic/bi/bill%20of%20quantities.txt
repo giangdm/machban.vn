@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bản dự trù vật tư
+#bản dự trù vật tư (cho một công trình xây dựng)
+#bảng liệt kê số lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản kê khối lượng
+#biểu khối lượng thi công

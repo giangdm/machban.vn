@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ không đồng bộ
+@Lĩnh vực: toán & tin
+#động cơ sai bộ

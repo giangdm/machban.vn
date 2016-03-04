@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#làm thí nghiệm
+@Lĩnh vực: xây dựng
+#sự thí nghiệm đến phá hỏng
+@Lĩnh vực: toán & tin
+#tiến hành thí nghiệm

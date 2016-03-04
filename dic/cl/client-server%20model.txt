@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mô hình client-server
+#mô hình khách-chủ
+#mô hình khách-phục vụ
+#mô hình máy khách-máy chủ

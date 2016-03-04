@@ -1,0 +1,5 @@
+﻿@Fiscal illusion
+#(Econ) Ảo giác thuế khoá.
+: Tình huống trong đó những lợi ích của chi tiêu chính phủ được những người hưởng chi tiêu này xác định một các rõ ràng nhưng chi phí không xác định rõ được, những chi phí này bị phân tán theo thời gian và trong cộng đồng dân cư.
+@Chuyên ngành kinh tế
+#ảo giác thuế

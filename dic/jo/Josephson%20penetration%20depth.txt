@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ sâu đâm xuyên Josephson
+#độ xuyên sâu Josephson

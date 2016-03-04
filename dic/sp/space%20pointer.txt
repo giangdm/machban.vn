@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#con trỏ không gian (lưu trữ)
+#con trỏ vùng

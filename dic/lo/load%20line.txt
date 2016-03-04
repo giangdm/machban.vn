@@ -1,0 +1,43 @@
+﻿@load line ['loud'lain]
+*danh từ
+# mức nước tải hàng (tàu)
+@Chuyên ngành kỹ thuật
+#biểu đồ tải trọng
+#dây cáp nâng
+#đường đặc tính tải trọng
+#đường dây tải điện
+#đường hợp lực
+#đường tải trọng
+@Lĩnh vực: điện
+#đặc tuyến tải
+#đường đặc trưng tải
+#đường tải
+@Lĩnh vực: điện tử & viễn thông
+#dòng tải
+@Lĩnh vực: điện lạnh
+#đường (chỉ mức) tải
+@Lĩnh vực: cơ khí & công trình
+#đường cáp chịu lực
+@Lĩnh vực: xây dựng
+#đường cáp chịu sức nặng
+#đường gánh
+@Chuyên ngành kỹ thuật
+#biểu đồ tải trọng
+#dây cáp nâng
+#đường đặc tính tải trọng
+#đường dây tải điện
+#đường hợp lực
+#đường tải trọng
+@Lĩnh vực: điện
+#đặc tuyến tải
+#đường đặc trưng tải
+#đường tải
+@Lĩnh vực: điện tử & viễn thông
+#dòng tải
+@Lĩnh vực: điện lạnh
+#đường (chỉ mức) tải
+@Lĩnh vực: cơ khí & công trình
+#đường cáp chịu lực
+@Lĩnh vực: xây dựng
+#đường cáp chịu sức nặng
+#đường gánh

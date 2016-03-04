@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#ngành sản xuất cấp hai
+#sản xuất cấp hai
+#sản xuất chế tác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#sự sản xuất bậc hai

@@ -1,0 +1,13 @@
+﻿@Wear and tear
+#(Econ) Khấu hao.
+: Xem DEPRECIATION.
+@Chuyên ngành kinh tế
+#hao mòn
+#hủy hoại
+#xuống cấp (do sử dụng bình thường gây ra)
+@Chuyên ngành kỹ thuật
+#sự hao mòn
+@Lĩnh vực: cơ khí & công trình
+#sự dùng hao mòn dần
+@Lĩnh vực: dệt may
+#sự mòn rách

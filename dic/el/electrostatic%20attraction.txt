@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lực hút tĩnh điện
+@Lĩnh vực: vật lý
+#lực hút Coulomb
+@Chuyên ngành kỹ thuật
+#lực hút tĩnh điện
+@Lĩnh vực: vật lý
+#lực hút Coulomb

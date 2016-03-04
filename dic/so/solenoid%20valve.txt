@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#van điện từ
+#van kiểu cuộn hút
+#van solenoit
+@Lĩnh vực: điện
+#van điều khiển điện
+@Lĩnh vực: ô tô
+#van solenoid

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hàng rào mậu dịch
+#háng rào thương mại, mậu dịch, buôn bán, thuế quan
+#hàng rào thương mại, mậu dịch, buôn bán, thuế quan
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#rào cản thương mại

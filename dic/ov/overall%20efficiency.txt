@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tổng hiệu suất
+#tổng năng suất
+@Chuyên ngành kỹ thuật
+#hiệu suất toàn phần
+#hiệu suất tổng cộng

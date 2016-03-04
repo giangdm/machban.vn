@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cáu trúc dạng dải
+#kết cấu dạng dải
+@Lĩnh vực: hóa học & vật liệu
+#kiến trúc phân dải

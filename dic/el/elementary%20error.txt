@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi sơ cấp
+@Lĩnh vực: điện tử & viễn thông
+#sai số cơ bản
+@Lĩnh vực: toán & tin
+#sai số sơ cấp
+@Chuyên ngành kỹ thuật
+#lỗi sơ cấp
+@Lĩnh vực: điện tử & viễn thông
+#sai số cơ bản
+@Lĩnh vực: toán & tin
+#sai số sơ cấp

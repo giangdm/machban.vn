@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự làm nóng không khí
+@Lĩnh vực: điện lạnh
+#sưởi (ấm) không khí

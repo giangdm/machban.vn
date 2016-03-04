@@ -1,0 +1,11 @@
+﻿@recreation room
+*danh từ
+#phòng giải trí
+@Chuyên ngành kỹ thuật
+#phòng giai lao
+#phòng giải lao
+#phòng giải trí
+#phòng nghỉ
+@Lĩnh vực: xây dựng
+#phòng chơi
+#phòng chơi (trong trường học)

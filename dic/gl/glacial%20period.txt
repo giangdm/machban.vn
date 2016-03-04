@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thời kỳ sông băng
+@Lĩnh vực: hóa học & vật liệu
+#chu kỳ đóng băng
+@Lĩnh vực: toán & tin
+#thời kỳ đóng băng

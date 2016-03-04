@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thước tính độ ẩm-nhiệt độ (không khí)
+#thước tính nhiệt ẩm

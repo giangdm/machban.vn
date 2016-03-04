@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#băng chuyền
+#ống tiếp liệu
+@Chuyên ngành kỹ thuật
+#đường cấp
+#đường cấp liệu
+#đường dẫn vào
+@Chuyên ngành kỹ thuật
+#đường cấp
+#đường cấp liệu
+#đường dẫn vào

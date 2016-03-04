@@ -1,0 +1,7 @@
+﻿@Uncalled capital
+#(Econ) Vốn chưa huy động.
+: Xem PAID-UP CAPITAL.
+@Chuyên ngành kinh tế
+#vốn (cổ phần) chưa gọi
+#vốn chưa gọi
+#vốn không phải thu hồi

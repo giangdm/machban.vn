@@ -1,0 +1,8 @@
+﻿@Excess capacity
+#(Econ) Công suất dư; công suất thừa; Thừa năng lực, thừa công suất.
+: Nói một cách chặt chẽ, khi một doanh nghiệp được coi là sản xuất thừa năng lực là khi mức SẢN LƯỢNG được sản xuất ra thấp hơn mức sản lượng tại đó chi phí trung bình thấp nhất.
+@Chuyên ngành kinh tế
+#năng lực sản xuất dư
+#năng lực sản xuất dư thừa
+#năng lượng thừa
+#thừa công suất

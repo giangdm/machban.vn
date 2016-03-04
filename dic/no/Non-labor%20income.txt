@@ -1,0 +1,3 @@
+﻿@Non-labor income
+#(Econ) Thu nhập phi lao động.
+: Là khoản thu nhập phát sinh ngoài thị trường lao động, có thể là từ các khoản đầu tư hay quan trọng hơn là từ các khoản THANH TOÁN CHUYỂN NHƯỢNG.

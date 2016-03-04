@@ -1,0 +1,5 @@
+﻿@AND circuit
+#(Tech) mạch VÀ, mạch hội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mạch AND

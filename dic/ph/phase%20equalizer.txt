@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ bù pha
+#bộ hiệu chỉnh pha
+@Lĩnh vực: toán & tin
+#bộ cân bằng pha
+@Lĩnh vực: điện tử & viễn thông
+#bộ hủy pha
+@Lĩnh vực: điện
+#bộ san bằng pha

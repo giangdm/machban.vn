@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hệ số hòa tan
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hệ số tan
+@Lĩnh vực: xây dựng
+#hiệu số hòa tan

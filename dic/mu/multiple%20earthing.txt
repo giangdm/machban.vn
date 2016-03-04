@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nối đất lặp lại
+@Lĩnh vực: điện lạnh
+#tiếp đất lặp lại

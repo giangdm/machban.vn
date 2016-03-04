@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#buồng vô tuyến
+@Lĩnh vực: điện tử & viễn thông
+#máy vô tuyến (hàng hải)

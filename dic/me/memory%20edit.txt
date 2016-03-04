@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phần tử của bộ nhớ
+@Lĩnh vực: toán & tin
+#sự biên tập bộ nhớ
+#sự hiệu chỉnh bộ nhớ
+#sự sửa bộ nhớ

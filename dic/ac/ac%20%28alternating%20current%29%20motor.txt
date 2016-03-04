@@ -1,0 +1,2 @@
+﻿@ac (alternating current) motor
+#(Tech) động cơ điện xoay chiều

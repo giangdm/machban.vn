@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí hiển nhiên
+#chi phí thị trường
+#giá phí hữu hình, giá phí thực tế

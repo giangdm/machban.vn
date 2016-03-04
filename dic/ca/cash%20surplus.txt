@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#số dư quỹ
+#số dư tiền mặt
+#thặng dư tiền mặt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thặng dư ngân quỹ

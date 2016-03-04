@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#Hệ Thống Tên Miền (DNS)
+@Chuyên ngành kỹ thuật
+#hệ thống tên miền

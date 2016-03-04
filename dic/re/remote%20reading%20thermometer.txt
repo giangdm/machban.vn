@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt kế đo xa
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt kế đọc từ xa

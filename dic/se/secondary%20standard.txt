@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuẩn cấp hai
+@Lĩnh vực: vật lý
+#tiêu chuẩn thứ cấp

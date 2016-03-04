@@ -1,0 +1,6 @@
+﻿@Capital stock
+#(Econ) Dung lượng vốn
+: Tổng số TƯ LIỆU SẢN XUẤT trong một nền kinh tế.(Xem CAPITAL CONTROVERSY)
+@Chuyên ngành kinh tế
+#tổng lượng vốn
+#vốn cổ phần

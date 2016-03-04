@@ -1,0 +1,6 @@
+﻿@Real national output
+#(Econ) Sản lượng quốc dân thực tế.
+: Giá trị của tổng sản lượng - THU NHẬP QUỐC DÂN - được tính theo giá cố định - tức là trừ đi tỷ lệ lạm phát chung để tính được hiệu quả thực tế của việc sử dụng các nguồn lực.
+@Chuyên ngành kinh tế
+#sản lượng quốc dân thực tế
+#tổng sản phẩm quốc gia thực tế

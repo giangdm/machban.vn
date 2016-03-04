@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số thiếu hụt thuế, số thua lỗ để tính thuế
+#việc khai bị lỗ để giảm thuế

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự truyền một chiều
+@Lĩnh vực: toán & tin
+#sự truyền đơn hướng

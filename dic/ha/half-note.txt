@@ -1,0 +1,3 @@
+﻿@half-note
+*danh từ
+#<nhạc> nốt có giá trị thời gian bằng một nốt trắng

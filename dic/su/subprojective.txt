@@ -1,0 +1,5 @@
+﻿@subprojective
+#(hình học) thứ tự xạ ảnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thứ xạ ảnh

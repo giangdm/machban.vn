@@ -1,0 +1,5 @@
+﻿@Net export
+#(Econ) Xuất khẩu ròng.
+@Chuyên ngành kinh tế
+#xuất khẩu ròng
+#xuất khẩu tịnh

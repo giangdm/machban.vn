@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu phân cách thuộc tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu phân cách thuộc tính

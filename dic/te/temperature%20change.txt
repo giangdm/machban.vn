@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự thay đổi nhiệt đội
+@Chuyên ngành kỹ thuật
+#thay đổi nhiệt độ
+@Lĩnh vực: cơ khí & công trình
+#sự biến đổi nhiệt độ

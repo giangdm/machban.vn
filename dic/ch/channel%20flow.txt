@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy trong kênh
+#dòng chảy trong lòng dẫn
+#lòng dẫn
+@Lĩnh vực: điện tử & viễn thông
+#luồng kênh
+#lưu lượng kênh truyền

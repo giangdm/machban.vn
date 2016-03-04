@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#biểu đồ biến dạng
+#đường cong đàn hồi
+#đường cong uốn
+#đường đàn hồi
+@Lĩnh vực: xây dựng
+#biểu đồ độ võng
+#đường (cong) độ võng
+#đường uốn cong
+@Lĩnh vực: toán & tin
+#đường cong độ võng

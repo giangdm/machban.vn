@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nhãn (dấu) chứng nhận
+#nhãn hiệu xác nhận
+@Chuyên ngành kỹ thuật
+#dấu chứng nhận

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giao tiếp từ xa
+#liên lạc viễn thông
+#thông tin từ xa
+@Chuyên ngành kỹ thuật
+#liên lạc từ xa
+@Lĩnh vực: toán & tin
+#truyền tin từ xa

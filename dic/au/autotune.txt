@@ -1,0 +1,2 @@
+﻿@autotune
+#(Tech) tự điều hưởng

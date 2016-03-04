@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#tháp tiếp nhận
+@Chuyên ngành kỹ thuật
+#tháp lấy nước
+@Lĩnh vực: cơ khí & công trình
+#tháp lấy nước (dưới đập)
+@Lĩnh vực: xây dựng
+#tháp lấy nước vào

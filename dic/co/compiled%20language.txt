@@ -1,0 +1,4 @@
+﻿@compiled language
+#(Tech) ngôn ngữ biên dịch
+@Chuyên ngành kỹ thuật
+#ngôn ngữ biên dịch

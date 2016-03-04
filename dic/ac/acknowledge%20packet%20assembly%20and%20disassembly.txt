@@ -1,0 +1,2 @@
+﻿@acknowledge packet assembly and disassembly
+#(Tech)  báo nhận lắp và tháo gói

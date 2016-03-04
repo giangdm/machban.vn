@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#định luật nhiệt độ thứ nhất
+#định luật nhiệt động thứ nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#định luật nhiệt độ thứ nhất
+#định luật nhiệt động thứ nhất

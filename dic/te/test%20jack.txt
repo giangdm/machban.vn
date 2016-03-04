@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#giắc thử nghiệm
+#lỗ cắm thử
+#ổ cắm thử
+#ổ cắm thử nghiệm
+@Lĩnh vực: điện lạnh
+#jắc thử
+#phích thử

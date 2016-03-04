@@ -1,0 +1,2 @@
+﻿@mfm
+#Một phương pháp ghi thông tin dạng số lên môi trường từ tính, như băng và đựa, bằng cách loại bỏ những khu vực dư thừa hoặc trống

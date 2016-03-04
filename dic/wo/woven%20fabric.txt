@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hàng dệt
+#khăn mặt
+#quần áo
+#tấm vải
+#vải dệt
+@Lĩnh vực: dệt may
+#vải dệt thoi

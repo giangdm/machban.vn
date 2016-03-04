@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị an toàn
+@Chuyên ngành kỹ thuật
+#cơ cấu an toàn
+#dụng cụ an toàn
+#dụng cụ bảo vệ
+#khí cụ an toàn
+#thiết bị an toàn
+#thiết bị bảo hiểm
+#thiết bị bảo vệ
+@Lĩnh vực: xây dựng
+#thiết bị bảo vệ (điện)
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị khảo sát Schlumberger

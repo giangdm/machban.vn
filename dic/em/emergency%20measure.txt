@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#sự đo lường khẩn cấp
+@Lĩnh vực: xây dựng
+#biện pháp cấp cứu
+@Lĩnh vực: điện
+#biện pháp khẩn cấp
+@Chuyên ngành kỹ thuật
+#sự đo lường khẩn cấp
+@Lĩnh vực: xây dựng
+#biện pháp cấp cứu
+@Lĩnh vực: điện
+#biện pháp khẩn cấp

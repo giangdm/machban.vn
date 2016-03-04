@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chế tạo
+#cho công việc làm tại nhà
+#cho thầu lại
+#cho vay lấy lãi
+#sản xuất
+@Chuyên ngành kỹ thuật
+#vật chắn

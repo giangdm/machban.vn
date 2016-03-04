@@ -1,0 +1,2 @@
+﻿@autocorrelation analyser
+#(Tech) bộ phân tích tự tương quan

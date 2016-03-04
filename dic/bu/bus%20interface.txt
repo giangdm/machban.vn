@@ -1,0 +1,5 @@
+﻿@bus interface
+#(Tech) giao diện mạch nối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giao diện buýt

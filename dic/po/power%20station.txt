@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nhà máy phát điện (trung ương)
+@Chuyên ngành kỹ thuật
+#nhà máy điện
+@Lĩnh vực: điện
+#trạm phát điện (nhà máy điện)

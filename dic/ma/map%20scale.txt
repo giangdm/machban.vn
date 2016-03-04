@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tỉ lệ bản đồ
+@Lĩnh vực: toán & tin
+#tỷ lệ bản đồ
+@Lĩnh vực: giao thông & vận tải
+#tỷ lệ hải đồ

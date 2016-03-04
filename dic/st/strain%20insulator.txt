@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ cách điện biến dạng
+#các cách điện ăng ten
+#vật cách điện méo
+@Lĩnh vực: toán & tin
+#cục cách điện ăng ten
+@Lĩnh vực: xây dựng
+#cực cách điện ăng ten
+@Lĩnh vực: điện lạnh
+#sứ chịu ứng lực

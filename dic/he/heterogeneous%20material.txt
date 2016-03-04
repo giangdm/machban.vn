@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vật liệu không đồng nhất
+#vật liệu pha tạp

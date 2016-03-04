@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#quạt có bộ phận hạn chế tự động (sự quá tải)
+@Lĩnh vực: điện lạnh
+#quạt tự ngắt quá tải

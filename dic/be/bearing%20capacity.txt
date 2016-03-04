@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#sức nở của nấm men
+@Chuyên ngành kỹ thuật
+#khả năng chịu lực
+#khả năng chịu tải
+#sức chịu tải
+#sức mang tải
+#sức nâng
+#tải trọng nâng
+@Lĩnh vực: toán & tin
+#tải dung

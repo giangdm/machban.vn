@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin chứa đoạn
+#tệp chứa đoạn
+@Lĩnh vực: điện tử & viễn thông
+#tệp phân đoạn

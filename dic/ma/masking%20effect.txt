@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#hiệu ứng che chắn
+@Lĩnh vực: toán & tin
+#hiệu ứng mặt nạ

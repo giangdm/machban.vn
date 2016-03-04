@@ -1,0 +1,9 @@
+﻿@run-through
+*danh từ
+#sự xem lại, sự tóm tắt
+#sự tập luyện, sự diễn tập
+@Chuyên ngành kỹ thuật
+#bước chạy
+#sự chạy
+#sự chạy suốt
+#sự thực hiện

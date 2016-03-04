@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khoản cho vay không có bảo đảm
+#thư tín dụng để trống (không ghi số tiền tín dụng)
+#tín dụng không bảo đảm

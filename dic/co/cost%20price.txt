@@ -1,0 +1,11 @@
+﻿@cost price
+*danh từ
+#giá vốn, giá bán sỉ
+@Chuyên ngành kinh tế
+#giá mua
+#giá thành
+#giá vốn
+@Chuyên ngành kỹ thuật
+#giá thành
+#giá vốn
+#giá vốn (giá tại kho)

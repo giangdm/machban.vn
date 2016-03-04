@@ -1,0 +1,2 @@
+﻿@amplitude fading
+#(Tech) biến hiệu mờ dần biên độ

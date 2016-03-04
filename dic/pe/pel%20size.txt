@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cỡ điểm ảnh
+#kích thước điểm ảnh

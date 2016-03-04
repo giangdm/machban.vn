@@ -1,0 +1,10 @@
+﻿@coding system
+#(Tech) hệ thống biên mã
+@Chuyên ngành kinh tế
+#hệ thống dán nhãn hiệu
+#hệ thống khắc dấu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống lập trình
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống mã hóa

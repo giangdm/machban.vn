@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#mật độ khách
+@Chuyên ngành kỹ thuật
+#mật độ giao thông
+@Lĩnh vực: xây dựng
+#cường độ vận tải
+#mật độ lưu thông
+#mật độ xe cộ
+@Lĩnh vực: điện tử & viễn thông
+#mật độ đường truyền
+@Lĩnh vực: toán & tin
+#mật độ vận chuyển

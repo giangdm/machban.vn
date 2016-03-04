@@ -1,0 +1,5 @@
+﻿@Net barter terms of trade
+#(Econ) Tỷ giá trao đổi ròng.
+: Xem TERMS OF TRADE.
+@Chuyên ngành kinh tế
+#tỷ lệ ròng trao đổi sản phẩm

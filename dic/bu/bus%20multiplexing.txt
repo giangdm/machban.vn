@@ -1,0 +1,2 @@
+﻿@bus multiplexing
+#(Tech) đa kết mạch nối

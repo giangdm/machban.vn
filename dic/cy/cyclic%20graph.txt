@@ -1,0 +1,5 @@
+﻿@cyclic graph
+#(Tech) đồ thị tuần hoàn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đồ thị tuần hoàn

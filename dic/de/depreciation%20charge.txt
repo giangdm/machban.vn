@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tiền cấp cho khấu hao
+@Chuyên ngành kỹ thuật
+#chi phí khấu hao

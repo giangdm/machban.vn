@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dBx trên liên kết tham chiếu
+#số đexiben trên liên kết huẩn

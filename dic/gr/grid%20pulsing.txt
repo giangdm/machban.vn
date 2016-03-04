@@ -1,0 +1,5 @@
+﻿@grid pulsing
+#(Tech) phát xung ở lưới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự tạo xung lưới

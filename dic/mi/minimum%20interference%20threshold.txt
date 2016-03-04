@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#ngưỡng giao thoa tối thiểu
+@Lĩnh vực: điện tử & viễn thông
+#ngưỡng nhiễu tối thiểu

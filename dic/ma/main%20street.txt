@@ -1,0 +1,9 @@
+﻿@main street ['mein'stri:t]
+*danh từ
+# (từ Mỹ, nghĩa Mỹ) phố chính
+# (từ Mỹ, nghĩa Mỹ) khu phố của những người bảo thủ chật hẹp, ích kỷ chỉ biết lợi nhuận (do tiểu thuyết Main Street của Sinclair Lewis)
+@Chuyên ngành kinh tế
+#đại lộ
+#đường chính
+@Chuyên ngành kỹ thuật
+#đường phố chính

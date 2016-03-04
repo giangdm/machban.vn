@@ -1,0 +1,3 @@
+﻿@Simultaneous equation bias
+#(Econ) Độ lệch do phương trình đồng thời.
+: Độ lệch trong những ước lượng bằng phương pháp bình phương nhỏ nhất thông thường là kết qủa của những tác động phản hồi giữa các phương trìnhkhi mô hình được dự đoán bao gồm một tập hợp những PHƯƠNG TRÌNH ĐỒNG THỜI.

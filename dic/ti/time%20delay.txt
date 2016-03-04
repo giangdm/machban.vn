@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian trễ
+@Lĩnh vực: toán & tin
+#chậm về thời gian
+@Lĩnh vực: điện tử & viễn thông
+#độ trễ thời gian
+#thời gian trễ (của tín hiệu)

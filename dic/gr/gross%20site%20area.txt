@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#diện tích xây dựng toàn bộ
+@Lĩnh vực: xây dựng
+#toàn bộ khu vực công trường

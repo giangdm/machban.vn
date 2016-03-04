@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bức xạ hạt nhân
+@Lĩnh vực: xây dựng
+#sự bức xạ nguyên tử
+#sự phóng xạ nguyên tử

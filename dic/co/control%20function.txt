@@ -1,0 +1,10 @@
+﻿@control function
+#(Tech) hàm điều khiển; cơ năng điều khiển
+@Chuyên ngành kinh tế
+#chức năng kiểm soát
+@Chuyên ngành kỹ thuật
+#chức năng điều khiển
+#chức năng kiểm soát
+#hàm kiểm tra
+@Lĩnh vực: toán & tin
+#hàm điều khiển

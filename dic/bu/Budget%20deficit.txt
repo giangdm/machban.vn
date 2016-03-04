@@ -1,0 +1,11 @@
+﻿@Budget deficit
+#(Econ) Thâm hụt ngân sách.
+: Chi tiêu hiện tại vượt thu nhập hiện tại. Thường được sử dụng nhiều nhất để được miêu tả tình trạng trong đó thu nhập của chính phủ, thu từ thuế không đủ trang trải để chi tiêu của chính phủ.
+@Chuyên ngành kinh tế
+#bội chi ngân sách
+#thâm hụt ngân quỹ
+#thâm hụt ngân sách
+#thâm thủng ngân sách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#thâm hụt ngân sách

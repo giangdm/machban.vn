@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#luồng vốn chảy ngược
+#sự chảy ngược về của đồng vốn
+@Chuyên ngành kỹ thuật
+#dòng chảy ngược
+#dòng ngược
+#luồng ngược

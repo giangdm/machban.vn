@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#cho vay tiền mặt
+#số dư quỹ
+#số dư tiền mặt
+#tiền mặt tồn quỹ
+#tồn quỹ
+#ứng trước tiền mặt

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khuôn ép
+@Lĩnh vực: xây dựng
+#khuôn đúc (áp lực)
+#khuôn nén

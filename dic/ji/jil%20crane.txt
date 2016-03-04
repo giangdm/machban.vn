@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cần trục quay tay
+@Lĩnh vực: toán & tin
+#cần trục xoay tay

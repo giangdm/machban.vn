@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thử làm việc lâu
+#sự thử nghiệm lâu
+@Lĩnh vực: điện
+#thử dài hạn
+@Lĩnh vực: điện lạnh
+#thử nghiệm dài hạn

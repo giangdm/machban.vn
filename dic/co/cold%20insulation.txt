@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự cách nhiệt ở nhiệt độ thấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cách nhiệt lạnh
+#sự cách nhiệt lạnh

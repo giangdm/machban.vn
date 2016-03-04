@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#giếng tháo nước
+#giếng tiêu
+@Lĩnh vực: xây dựng
+#giếng dỡ tải
+#giếng tiêu nước (giảm phản áp lực)
+#giếng xả áp
+@Lĩnh vực: giao thông & vận tải
+#giếng giảm áp

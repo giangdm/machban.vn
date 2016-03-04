@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#đường viền thượng lưu (của mặt cắt ngang đập vòm)

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#điều tra mẫu
+#nghiên cứu án lệ
+#nghiên cứu tình huống
+@Chuyên ngành kỹ thuật
+#nghiên cứu trường hợp

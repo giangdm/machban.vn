@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#chuyển dòng
+@Lĩnh vực: toán & tin
+#chuyển kênh
+#sự chuyển đường truyền
+#sự chuyển mạch
+#sự chuyển mạch đường truyền
+#sự chuyển tuyến
+@Lĩnh vực: điện tử & viễn thông
+#hệ chuyển mạch
+@Chuyên ngành kỹ thuật
+#chuyển dòng
+@Lĩnh vực: toán & tin
+#chuyển kênh
+#sự chuyển đường truyền
+#sự chuyển mạch
+#sự chuyển mạch đường truyền
+#sự chuyển tuyến
+@Lĩnh vực: điện tử & viễn thông
+#hệ chuyển mạch

@@ -1,0 +1,8 @@
+﻿@Capital gain
+#(Econ) Khoản lãi vốn.
+: Chênh lệc giữa giá mua một tài sản  và giá bán lại vào một ngày nào đó mà chênh lệch này là dương.
+@Chuyên ngành kinh tế
+#lãi vốn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#độ tăng tích chủ yếu

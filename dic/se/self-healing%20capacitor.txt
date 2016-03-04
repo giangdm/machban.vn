@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tụ điện tự phục hồi
+@Lĩnh vực: điện
+#tụ tự phục hồi

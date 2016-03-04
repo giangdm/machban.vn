@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hình phối cảnh
+#phối cảnh
+@Lĩnh vực: xây dựng
+#hình chiếu phối
+@Lĩnh vực: cơ khí & công trình
+#hình chiếu phối cảnh

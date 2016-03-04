@@ -1,0 +1,4 @@
+﻿@pack-cloth
+*danh từ
+#số nhiều pack-cloths
+#vải bao bì

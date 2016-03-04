@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cuộc gọi thường trình con
+#gọi chương trình con
+#lệnh gọi chương trình con
+#lệnh gọi thủ tục con
+@Lĩnh vực: điện tử & viễn thông
+#gọi thủ tục con

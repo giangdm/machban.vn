@@ -1,0 +1,8 @@
+﻿@answer signal
+#(Tech) tín hiệu trả lời
+@Chuyên ngành kỹ thuật
+#tín hiệu đáp
+@Lĩnh vực: điện lạnh
+#tiín hiệu đáp
+@Lĩnh vực: toán & tin
+#tín hiệu trả lời

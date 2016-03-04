@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện áp hình sin
+@Lĩnh vực: điện tử & viễn thông
+#điện áp sóng (sin)

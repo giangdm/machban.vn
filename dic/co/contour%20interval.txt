@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#khoảng cách đường đồng mức
+#mặt cắt địa hình
+@Lĩnh vực: toán & tin
+#khoảng cách đường bình độ
+@Lĩnh vực: hóa học & vật liệu
+#khoảng cách đường đẳng cao
+@Lĩnh vực: xây dựng
+#khoảng cao đều

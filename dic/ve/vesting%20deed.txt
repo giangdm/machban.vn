@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chứng thư giao tài sản
+#chứng thư trao tài sản
+#chứng thư ủy quyền

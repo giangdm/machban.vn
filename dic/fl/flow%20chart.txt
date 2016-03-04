@@ -1,0 +1,15 @@
+﻿@flow chart
+*danh từ
+#biểu đồ phát triển
+@Chuyên ngành kinh tế
+#biểu đồ luồng
+@Chuyên ngành kỹ thuật
+#lưu đồ
+#sơ đồ công nghệ
+@Lĩnh vực: hóa học & vật liệu
+#bản đồ dòng chảy
+@Chuyên ngành kỹ thuật
+#lưu đồ
+#sơ đồ công nghệ
+@Lĩnh vực: hóa học & vật liệu
+#bản đồ dòng chảy

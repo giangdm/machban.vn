@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#giản đồ hướng tính
+@Lĩnh vực: điện lạnh
+#biểu đồ hướng tính
+@Lĩnh vực: vật lý
+#đặc tuyến hướng tính

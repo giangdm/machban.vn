@@ -1,0 +1,3 @@
+﻿@Manager controlled firm
+#(Econ) Hãng do nhà quản lý kiểm soát.
+: Là một công ty không có một cổ đông hoặc một nhóm cổ đông nào chiếm được tỷ lệ biểu quyết đủ cao để nắm quyền kiểm soát các chính sách của công ty.

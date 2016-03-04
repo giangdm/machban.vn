@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nhân tử nguyên tố
+@Lĩnh vực: toán & tin
+#thừa số nguyên tố

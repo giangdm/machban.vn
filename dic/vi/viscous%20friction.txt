@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#ma sát nhớt
+@Lĩnh vực: cơ khí & công trình
+#sự ma sát nhờn
+@Lĩnh vực: xây dựng
+#sự ma-sát nhờn
+@Lĩnh vực: toán & tin
+#sự ma-xat nhờn

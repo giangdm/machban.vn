@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ nở dài
+@Lĩnh vực: điện lạnh
+#hệ số nở dài
+@Chuyên ngành kỹ thuật
+#độ nở dài
+@Lĩnh vực: điện lạnh
+#hệ số nở dài

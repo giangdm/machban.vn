@@ -1,0 +1,8 @@
+﻿@archived file
+#(Tech) tập tin lưu trữ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin lưu trữ
+#tệp đã được lưu trữ
+#tệp được lưu trữ
+#tệp được niêm cất

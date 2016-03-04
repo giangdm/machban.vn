@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mạch biến điệu
+@Lĩnh vực: cơ khí & công trình
+#mạch lắp ráp
+@Lĩnh vực: toán & tin
+#mạch môđun

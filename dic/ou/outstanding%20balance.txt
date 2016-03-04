@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số dư chưa kết
+#số dư chưa thanh toán

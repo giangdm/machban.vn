@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hơi có nồng độ cao
+#hơi giàu
+#hơi giầu (có nồng độ cao)

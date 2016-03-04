@@ -1,0 +1,9 @@
+﻿@decimal notation
+#(Tech) ký hiệu thập phân
+@Chuyên ngành kỹ thuật
+#ký hiệu thập phân
+@Lĩnh vực: toán & tin
+#biểu diễn thập phân
+#hệ cơ số mười
+@Lĩnh vực: điện tử & viễn thông
+#ký pháp thập phân

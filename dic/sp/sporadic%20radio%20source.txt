@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nguồn vô tuyến điện không đều
+#nguồn vô tuyến điện lác đác
+#nguồn vô tuyến điện ngẫu nhiên

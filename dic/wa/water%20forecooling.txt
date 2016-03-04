@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#làm lạnh nước sơ bộ
+#làm mát nước sơ bộ
+#sự làm lạnh (mát) nước sơ bộ

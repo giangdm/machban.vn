@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ giãn phần trăm
+@Lĩnh vực: cơ khí & công trình
+#độ giãn tương đối (tính bằng phần trăm)

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sàng rung
+@Chuyên ngành kỹ thuật
+#máy sàng rung
+#sàng lắc
+#sàng rung
+@Lĩnh vực: xây dựng
+#sàn rung

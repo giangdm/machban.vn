@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mạch logic điot
+@Lĩnh vực: toán & tin
+#mạch logic dùng diode

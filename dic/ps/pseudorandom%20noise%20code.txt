@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mã nhiễu giả ngẫu nhiên
+@Lĩnh vực: điện tử & viễn thông
+#mã tiếng ồn giả ngẫu nhiên

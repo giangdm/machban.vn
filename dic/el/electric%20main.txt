@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#cáp điện
+#đường dây điện
+#lưới điện
+#lưới điện chính
+@Lĩnh vực: điện lạnh
+#đường truyền công suất
+#đường truyền điện lực
+@Chuyên ngành kỹ thuật
+#cáp điện
+#đường dây điện
+#lưới điện
+#lưới điện chính
+@Lĩnh vực: điện lạnh
+#đường truyền công suất
+#đường truyền điện lực

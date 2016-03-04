@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#việc lập kế hoạch sử dụng đất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#quy hoạch sử dụng đất
+@Lĩnh vực: cơ khí & công trình
+#quy hoạch sử dụng đất đai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#quy hoạch sử dụng đất
+@Lĩnh vực: cơ khí & công trình
+#quy hoạch sử dụng đất đai

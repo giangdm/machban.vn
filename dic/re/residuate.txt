@@ -1,0 +1,6 @@
+﻿@residuate
+#định phần dư, thặng dư
+@Chuyên ngành kỹ thuật
+#thặng dư
+@Lĩnh vực: toán & tin
+#định phần dư

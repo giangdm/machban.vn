@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự cấp liệu tự chảy
+@Chuyên ngành kỹ thuật
+#ống dẫn trọng lực
+@Lĩnh vực: điện lạnh
+#cấp liệu kiểu trọng lực
+#cấp liệu kiểu tự chảy

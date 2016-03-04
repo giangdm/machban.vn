@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#độ phóng xạ riêng
+@Lĩnh vực: hóa học & vật liệu
+#hoạt tính riêng
+@Lĩnh vực: ô tô
+#tốc độ hóa khử

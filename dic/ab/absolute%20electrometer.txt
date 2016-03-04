@@ -1,0 +1,5 @@
+﻿@absolute electrometer
+#(Tech) điện tĩnh kế tuyệt đối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tĩnh điện kế tuyệt đối

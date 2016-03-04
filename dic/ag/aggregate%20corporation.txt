@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#công ty hợp cổ (chỉ công ty có trên một cổ đông)
+#pháp nhân đoàn thể

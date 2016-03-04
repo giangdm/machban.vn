@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lô sao thử
+#tải trọng thí nghiệm
+@Lĩnh vực: cơ khí & công trình
+#tải thử
+#tải thử nghiệm
+#tải trọng thử
+@Lĩnh vực: xây dựng
+#tải trọng cho phép tối đa (không gây biến dạng dư)
+#tải trọng không nguy hiểm

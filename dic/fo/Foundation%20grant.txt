@@ -1,0 +1,7 @@
+﻿@Foundation grant
+#(Econ) Trợ cấp cơ bản.
+: Một dạng trợ cấp giữa các chính quyền được sử dụng rộng rãi ở Mỹ nhằm mục đích san bằng chi phí đối với từng cộng đồng địa phương (về phương diện thuế suất đặt ra cho từng địa phương) trong việc cung cấp một mức dịch vụ công cộng tối thiểu.
+@Chuyên ngành kinh tế
+#khoản cấp bù
+#khoản tài trợ bù
+#khoản tại trợ bù

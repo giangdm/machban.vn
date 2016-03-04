@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#ký quỹ biến động giá cả
+#tiền ký quỹ biến động giá cả (ở Sở giao dịch hàng hóa)

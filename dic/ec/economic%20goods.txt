@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hàng hóa kinh tế
+#hàng hóa kinh tế (gồm cả tư liệu sản xuất và hàng tiêu dùng)
+#hàng kinh tế

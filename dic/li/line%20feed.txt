@@ -1,0 +1,24 @@
+﻿@Chuyên ngành kỹ thuật
+#cho ăn đường chữ
+@Lĩnh vực: toán & tin
+#chuyển dòng
+#sự đẩy dòng
+#sự nhảy dòng
+#tín hiệu chuyển dòng
+#tín hiệu xuống dòng
+#xuống dòng
+@Lĩnh vực: điện tử & viễn thông
+#đẩy dòng in
+#sự tiếp sóng đường truyền
+@Chuyên ngành kỹ thuật
+#cho ăn đường chữ
+@Lĩnh vực: toán & tin
+#chuyển dòng
+#sự đẩy dòng
+#sự nhảy dòng
+#tín hiệu chuyển dòng
+#tín hiệu xuống dòng
+#xuống dòng
+@Lĩnh vực: điện tử & viễn thông
+#đẩy dòng in
+#sự tiếp sóng đường truyền

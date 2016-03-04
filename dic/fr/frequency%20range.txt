@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#dải tần
+#dải tần số
+#khoảng tần
+#miền tần
+@Lĩnh vực: cơ khí & công trình
+#biên độ tần số
+@Lĩnh vực: ô tô
+#dãi đài (rađiô)
+#độ rộng băng tần
+@Lĩnh vực: hóa học & vật liệu
+#khoảng tần số

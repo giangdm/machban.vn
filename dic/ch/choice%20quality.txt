@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giống chọn lọc
+#loại chọn lọc
+#phẩm chất thượng hạng
+@Chuyên ngành kỹ thuật
+#chất lượng chọn lọc

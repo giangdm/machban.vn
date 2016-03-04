@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự phơi
+#sự sấy ngoài trời
+@Chuyên ngành kỹ thuật
+#sự phơi khô ngoài trời
+@Lĩnh vực: cơ khí & công trình
+#sự hóa già không khí
+#sự sấy không khí

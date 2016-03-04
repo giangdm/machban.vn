@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#đích đo
+#đo hạng
+#giá trị đo
+#giá trị quan sát
+#giá trị thí nghiệm
+#giá trị thử
+#giá trị thử nghiệm
+@Lĩnh vực: toán & tin
+#giá trị kiểm tra
+@Lĩnh vực: giao thông & vận tải
+#kết qủa thử nghiệm
+@Lĩnh vực: xây dựng
+#trị số trắc nghiệm

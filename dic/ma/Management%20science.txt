@@ -1,0 +1,10 @@
+﻿@Management science
+#(Econ) Khoa học quản lý.
+: Trong khuôn khổ của việc nghiên cứu doanh nghiệp, môn học này áp dụng các nguyên tắc khoa học nhằm hỗ trợ cho việc đạt được hiệu quả hoạt động trong việc thực hiện các mục tiêu kinh doanh.
+@Chuyên ngành kinh tế
+#khoa học quản lý
+#quản lý học
+@Chuyên ngành kỹ thuật
+#khoa học quản lí
+@Lĩnh vực: toán & tin
+#khoa học quản lý

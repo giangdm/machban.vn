@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#nguyên liệu rời
+#vật liệu xốp
+@Chuyên ngành kỹ thuật
+#hàng rời
+#vật liệu chất đống
+#vật liệu đổ đống
+#vật liệu rời
+@Lĩnh vực: xây dựng
+#khối (đất) đắp
+#vật liệu không đóng bao

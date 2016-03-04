@@ -1,0 +1,6 @@
+﻿@numeric coprocessor
+#số, tính chất số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ đồng xử lý số
+#bộ đồng xử lý toán

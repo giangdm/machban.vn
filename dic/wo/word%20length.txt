@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dài từ
+@Lĩnh vực: toán & tin
+#độ dài chuỗi ký tự
+#kích thước từ
+#phương sai trong nhóm

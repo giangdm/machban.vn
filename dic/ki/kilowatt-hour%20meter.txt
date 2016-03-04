@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đồng hồ đo kilôoát-giờ
+@Lĩnh vực: điện lạnh
+#máy đếm kilooat giờ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đồng hồ đo kilôoát-giờ
+@Lĩnh vực: điện lạnh
+#máy đếm kilooat giờ

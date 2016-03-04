@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nhiệt độ ở điểm tới hạn
+#nhiệt độ ở tới hạn

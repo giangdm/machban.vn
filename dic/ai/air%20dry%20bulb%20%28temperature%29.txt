@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt kế bầu khô
+@Lĩnh vực: điện lạnh
+#nhiệt độ nhiệt kế bầu khô

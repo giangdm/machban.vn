@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ xốp toàn thể
+#độ xốp tổng
+@Lĩnh vực: cơ khí & công trình
+#tổng độ rỗng

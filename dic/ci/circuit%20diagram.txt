@@ -1,0 +1,8 @@
+﻿@circuit diagram
+#(Tech) giản đồ bản điện
+@Chuyên ngành kỹ thuật
+#sơ đồ đấu dây
+#sơ đồ mạch
+#sơ đồ mạch điện
+#sơ đồ nối dây
+#sơ đồ nối mạch

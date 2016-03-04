@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thẩm quyền về quy hoạch
+#thành quyền (quy hoạch, lập kế hoạch)

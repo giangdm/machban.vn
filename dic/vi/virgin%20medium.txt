@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#môi trường trắng
+#môi trường trống
+#vật chứa tin chưa dùng

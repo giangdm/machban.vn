@@ -1,0 +1,7 @@
+﻿@default value
+#(Tech) trị số mặc định, trị số định sẵn
+@Chuyên ngành kỹ thuật
+#trị số chuẩn
+@Lĩnh vực: toán & tin
+#giá trị mặc định
+#giá trị ngầm định

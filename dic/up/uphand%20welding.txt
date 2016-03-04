@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự hàn ngược
+@Lĩnh vực: xây dựng
+#sự hàn từ dưới lên

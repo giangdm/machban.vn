@@ -1,0 +1,9 @@
+﻿@job lot
+*danh từ
+#hàng bán để thanh lý, hàng bán lạc son
+@Chuyên ngành kinh tế
+#lô hàng bán xôn
+#lô hàng lẻ
+#lô hàng rời rạc
+@Chuyên ngành kỹ thuật
+#lô hàng, lô công việc

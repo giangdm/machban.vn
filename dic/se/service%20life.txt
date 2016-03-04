@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#niên hạn sử dụng
+#tuổi thọ (của một món đồ dùng ...)
+#tuổi thọ (của một món đồ)
+@Chuyên ngành kỹ thuật
+#thời hạn phục vụ
+@Lĩnh vực: xây dựng
+#tuổi thọ (công trình)
+@Lĩnh vực: điện
+#tuổi thọ (thiết bị)
+@Lĩnh vực: ô tô
+#tuổi thọ máy móc

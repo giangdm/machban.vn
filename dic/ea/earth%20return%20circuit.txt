@@ -1,0 +1,2 @@
+﻿@earth return circuit
+#(Tech) mạch trở về đất

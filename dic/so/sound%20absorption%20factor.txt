@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số hút âm
+@Lĩnh vực: điện lạnh
+#thừa số hấp thụ âm (thanh)

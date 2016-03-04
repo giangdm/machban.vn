@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#công trình (học) hệ thống
+#thiết kế toàn bộ hiệu suất công trình
+#việc thiết kế hiệu suất toàn bộ công trình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kế hoạch hóa hệ thống
+#kỹ thuật hẹ thống
+#kỹ thuật hệ thống

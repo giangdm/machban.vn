@@ -1,0 +1,5 @@
+﻿@Paid-up capital
+#(Econ) Vốn đã được huy động
+: Phần vốn phát hành của một công ty mà những người góp vốn yêu cầu phải thanh toán.
+@Chuyên ngành kinh tế
+#vốn đã góp

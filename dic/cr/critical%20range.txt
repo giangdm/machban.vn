@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phạm vi tới hạn
+@Chuyên ngành kỹ thuật
+#giới hạn tới hạn
+#miền tới hạn
+#vùng tới hạn
+@Lĩnh vực: điện tử & viễn thông
+#vùng giới hạn

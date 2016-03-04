@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#cần cẩu hình tháp
+@Chuyên ngành kỹ thuật
+#máy trục kiểu tháp
+@Lĩnh vực: xây dựng
+#cần cẩu tháp

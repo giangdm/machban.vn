@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#nhân viên phụ trách lập trình
+#nhóm lập trình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ban lập trình
+#nhóm lập trình

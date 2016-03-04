@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dấu cách
+#ký tự khoảng cách
+#ký tự rỗi
+@Lĩnh vực: toán & tin
+#kí tự rỗi
+#ký tự không tác dụng

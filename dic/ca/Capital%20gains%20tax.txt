@@ -1,0 +1,8 @@
+﻿@Capital gains tax
+#(Econ) Thuế lãi vốn.
+: Thuế đánh vào sự tăng thêm của tài sản
+@Chuyên ngành kinh tế
+#thuế doanh lợi
+#thuế lãi vốn
+#thuế tăng trị vốn
+#thuế thu nhập bán tài sản

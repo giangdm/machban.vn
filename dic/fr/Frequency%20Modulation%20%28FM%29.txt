@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến điệu tần số-FM
+@Lĩnh vực: điện tử & viễn thông
+#điều chế tần số
+@Chuyên ngành kỹ thuật
+#sự điều tần
+@Lĩnh vực: xây dựng
+#biến điệu tần số
+@Lĩnh vực: điện tử & viễn thông
+#mã thông tin bằng tần số
+@Lĩnh vực: ô tô
+#sóng FM (radio)
+@Lĩnh vực: toán & tin
+#sự điều chế tần số

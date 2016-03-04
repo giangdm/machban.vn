@@ -1,0 +1,5 @@
+﻿@European Community Budget
+#(Econ) Ngân sách Cộng đồng Châu Âu.
+: Một ngân sách do các nước thành viên của cộng đồng Châu Âu đóng góp nhằm tài trợ cho các hoạt động của cộng đồng. Các khoản đóng góp từ các thành viên ở dạng 90% là doanh thu từ thuế NÔNG NGHIỆP và BIỂU THUẾ QUAN CHUNG và dưới 1% doanh thu từ thuế GIÁ TRỊ GIA TĂNG được tính cho mực đích làm hài hoà thuế giữa các nước thành viên.
+@Chuyên ngành kinh tế
+#ngân sách cộng đồng Châu Âu

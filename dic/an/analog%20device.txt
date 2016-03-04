@@ -1,0 +1,4 @@
+﻿@analog device
+#(Tech) thiết bị tương tự
+@Chuyên ngành kỹ thuật
+#thiết bị tương tự

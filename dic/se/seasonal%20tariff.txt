@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#mức phí từng mùa
+#mức thuế, thuế suất theo mùa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biểu giá (điện) theo mùa
+@Lĩnh vực: điện lạnh
+#biểu giá theo mùa

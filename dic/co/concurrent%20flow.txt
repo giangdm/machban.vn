@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dòng chảy thẳng
+@Lĩnh vực: hóa học & vật liệu
+#dòng cùng chiều

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ số bào mòn
+@Lĩnh vực: cơ khí & công trình
+#hệ số mòn

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#công trình bao thầu toàn bộ
+#công trình chìa khóa trao tay
+#dự án bao thầu toàn bộ
+#hạng mục công trình "mở khóa"

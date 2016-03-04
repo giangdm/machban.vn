@@ -1,0 +1,5 @@
+﻿@Factor-price equalization
+#(Econ) Sự cân bằng yếu tố sản xuất - giá cả.
+: Một định đề nảy sinh từ CÁCH TIẾP CẬN HECKSCHER - OHLIN VỀ THƯƠNG MẠI QUỐC TẾ cho rằng với một số giả thiết hạn chế, THƯƠNG MẠI TỰ DO là sự thay thế hoàn hảo cho việc di chuyển yếu tố sản xuất và sẽ có tác dụng san bằng mức thanh toán cho bất kỳ một yếu tố sản xuất nào trên phạm vi toàn thế giới, chẳng hạn như mức tiền công của tất cả các nước phải bằng nhau.
+@Chuyên ngành kinh tế
+#sự cân bằng giá cả yếu tố sản xuất

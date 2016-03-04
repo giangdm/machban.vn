@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy bơm bùn
+#máy hút bùn
+#tàu hút bùn
+@Lĩnh vực: xây dựng
+#máy bơm hút bùn
+@Lĩnh vực: cơ khí & công trình
+#tầu hút bùn

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#màn hình video hỗn hợp
+#màn hình video phức hợp

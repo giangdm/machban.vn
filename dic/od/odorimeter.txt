@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#cái đo mùi vị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dụng cụ đo mùi
+#máy đo mùi
+@Lĩnh vực: đo lường & điều khiển
+#mùi (vị) kế

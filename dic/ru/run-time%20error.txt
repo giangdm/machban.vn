@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lỗi khi chạy
+#lỗi lúc chạy
+#lỗi thi hành
+#lỗi thời gian chạy

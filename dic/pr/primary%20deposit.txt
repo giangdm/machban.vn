@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tiền đặt cọc lúc đầu
+#tiền gởi ban đầu
+#tiền gởi tiền mặt (của khách hàng ở ngân hàng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#khoáng sàng nguyên sinh

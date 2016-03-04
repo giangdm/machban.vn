@@ -1,0 +1,4 @@
+﻿@debounce
+#(Tech) phòng bật lên, ngừa bật lên
+@Chuyên ngành kỹ thuật
+#hãm

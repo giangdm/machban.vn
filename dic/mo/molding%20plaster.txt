@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thạch cao làm khuôn
+#thạch cao làm mô hình
+#thạch cao tạo hình

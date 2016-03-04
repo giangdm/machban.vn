@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự phân bố ẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phân phối hơi ẩm
+#sự phân phối (độ) ẩm
+@Lĩnh vực: cơ khí & công trình
+#sự phân bố độ ẩm

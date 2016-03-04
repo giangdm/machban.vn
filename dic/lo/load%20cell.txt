@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#áp kế áp điện
+@Lĩnh vực: xây dựng
+#bộ phận đo lực
+#đo áp lực
+@Lĩnh vực: cơ khí & công trình
+#cảm biến tải trọng
+@Lĩnh vực: đo lường & điều khiển
+#hộp đo lực
+#máy cảm biến tải trọng
+@Chuyên ngành kỹ thuật
+#áp kế áp điện
+@Lĩnh vực: xây dựng
+#bộ phận đo lực
+#đo áp lực
+@Lĩnh vực: cơ khí & công trình
+#cảm biến tải trọng
+@Lĩnh vực: đo lường & điều khiển
+#hộp đo lực
+#máy cảm biến tải trọng

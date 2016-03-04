@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khả năng sửa lỗi
+#phục hồi khi lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khả năng sửa lỗi
+#phục hồi khi lỗi

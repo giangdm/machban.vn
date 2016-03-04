@@ -1,0 +1,3 @@
+﻿@Consumer durable
+#(Econ) Hàng tiêu dùng lâu bền
+: Là bất cứ hàng tiêu dùng nào có tuổi thọ dài, do đó không được tiêu dùng ngay lập tức (như thức ăn).

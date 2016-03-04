@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#phân xưởng lắp ráp
+#xưởng đóng tàu
+#xưởng lắp ráp
+@Lĩnh vực: vật lý
+#nhà xưởng lắp ráp
+@Chuyên ngành kỹ thuật
+#phân xưởng lắp ráp
+#xưởng đóng tàu
+#xưởng lắp ráp
+@Lĩnh vực: vật lý
+#nhà xưởng lắp ráp

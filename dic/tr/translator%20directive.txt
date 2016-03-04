@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chỉ thị dịch
+#dẫn hướng chương trình dịch
+@Lĩnh vực: điện tử & viễn thông
+#chỉ thị thông dịch

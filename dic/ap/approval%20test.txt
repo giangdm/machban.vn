@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thí nghiệm giám định
+@Chuyên ngành kỹ thuật
+#sự thí nghiệm kiểm tra
+#sự thí nghiệm nghiệm thu
+#sự thử kiểm tra
+#sự thử nghiệm thu

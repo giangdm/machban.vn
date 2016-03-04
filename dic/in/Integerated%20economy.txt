@@ -1,0 +1,3 @@
+﻿@Integerated economy
+#(Econ) Nền kinh tế liên kết.
+: Cụm thuật ngữ chỉ tình huống khi mà các khu vực tư nhân khác nhau của một nền kinh tế, thường là các khu vực công nghiệp và nông nghiệp, hoạt động phối hợp với nhau một cách có hiệu quả và phụ thuộc lẫn nhau.

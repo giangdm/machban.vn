@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#trại cá
+#trại nuôi cá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khu nuôi thủy sản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khu nuôi thủy sản

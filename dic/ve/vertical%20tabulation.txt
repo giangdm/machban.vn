@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự định cột dọc
+#sự lập bảng dọc
+#sự lập bảng thẳng đứng

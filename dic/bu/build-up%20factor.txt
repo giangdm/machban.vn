@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số ráp lại
+#hệ số tăng ích
+#hệ số tập hợp
+#hệ số tích lũy
+#hệ số tổ hợp

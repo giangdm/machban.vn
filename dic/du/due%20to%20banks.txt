@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khoản tiền ngân hàng phải trả
+#tiền gửi của các ngân hàng đồng nghiệp
+#tiền thiếu các ngân hàng

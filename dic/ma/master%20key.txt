@@ -1,0 +1,8 @@
+﻿@master key ['mɑ:stə'ki:]
+*danh từ
+# chìa khoá mở được nhiều khoá khác nhau, tuy các ổ khoá này vẫn có chìa riêng; chìa cái; chìa vạn năng
+# then chốt để giải quyết nhiều vấn đề
+@Chuyên ngành kỹ thuật
+#khóa chính
+#khóa chung
+#machine chìa khóa chính

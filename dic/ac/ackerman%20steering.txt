@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ phận lái ackerman
+@Lĩnh vực: ô tô
+#hệ thống lái kiểu ackerman
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#Bộ giàn lái Ackerman

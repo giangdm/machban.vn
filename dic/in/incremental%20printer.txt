@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy in từng ký tự
+@Lĩnh vực: toán & tin
+#máy in tăng

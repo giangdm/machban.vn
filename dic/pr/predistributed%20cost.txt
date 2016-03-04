@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#chi phí mua trước
+#chi phí thu mua (của hải quan)

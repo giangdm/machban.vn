@@ -1,0 +1,7 @@
+﻿@Reciprocal demand
+#(Econ) Cầu qua lại.
+: Là cầu của một nước đối với hàng hoá của một nước khác trong quan hệ trao đổi hàng giữa hai nước.
+@Chuyên ngành kinh tế
+#cầu đối xứng
+#cầu tương hỗ
+#nhu cầu tương hỗ

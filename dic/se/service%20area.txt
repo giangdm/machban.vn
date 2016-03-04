@@ -1,0 +1,10 @@
+﻿@service area /'sə:vis'eəriə/
+*danh từ
+#khu vực xung quanh đài phát thanh
+@Chuyên ngành kỹ thuật
+#vùng dịch vụ
+#vùng phục vụ
+@Lĩnh vực: xây dựng
+#khu dịch vụ
+@Lĩnh vực: điện
+#vùng phát tuyến

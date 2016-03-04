@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm bắt đầu
+#điểm gốc
+#khởi điểm
+@Lĩnh vực: toán & tin
+#điểm ban đầu
+#điểm khởi tạo
+@Lĩnh vực: cơ khí & công trình
+#vị trí ban đầu

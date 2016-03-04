@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nhiễu mạch
+#tạp nhiễu đường dây
+#tiếng ồn đường dây
+#tiếng ồn mạch
+@Lĩnh vực: hóa học & vật liệu
+#tạp âm đường dây

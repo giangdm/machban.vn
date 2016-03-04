@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#có tình huống trái thường
+#có trục trặc
+#hỗn loạn
+#hỏng
+#không hợp quy tắc
+#lộn xộn
+#mất trật tự
+@Chuyên ngành kỹ thuật
+#bị hỏng
+#bị loại bỏ
+#hư hỏng
+#sai quy định
+@Lĩnh vực: xây dựng
+#không trật tự

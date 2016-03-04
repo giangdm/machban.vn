@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ngôn ngữ biên dịch
+@Lĩnh vực: toán & tin
+#ngôn ngữ diễn dịch
+#ngôn ngữ diễn giải
+#ngôn ngữ thông dịch

@@ -1,0 +1,5 @@
+﻿@submanifold
+#(hình học) đa tập con
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đa tạp con

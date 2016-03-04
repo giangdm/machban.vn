@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#phòng mua bán ngoại hối
+#phòng thu đổi ngoại hối
+#phòng thu đổi ngoại tệ

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch điện phản ứng
+@Lĩnh vực: điện
+#phụ tải phản kháng
+#tải có điện kháng
+@Lĩnh vực: điện lạnh
+#tải phản kháng

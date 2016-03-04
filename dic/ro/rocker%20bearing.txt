@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#cân bằng gối tựa
+#gối khớp
+#gối lắc
+@Lĩnh vực: xây dựng
+#bộ phận tựa lắc
+#gối tựa lắc
+#thớt gối tựa
+#trụ quay
+@Lĩnh vực: toán & tin
+#gối khớp, gối lắc
+@Lĩnh vực: cơ khí & công trình
+#ổ lắc

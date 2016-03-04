@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ trộn âm
+@Lĩnh vực: toán & tin
+#bộ pha âm
+@Lĩnh vực: điện lạnh
+#micropin
+@Lĩnh vực: điện
+#pin cực nhỏ
+@Lĩnh vực: điện tử & viễn thông
+#pin tiểu

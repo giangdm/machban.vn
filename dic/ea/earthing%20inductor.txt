@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn cảm nối đất
+@Lĩnh vực: điện lạnh
+#cuộn điện kháng nối đất

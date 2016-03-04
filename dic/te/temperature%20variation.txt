@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thay đổi nhiệt độ
+@Lĩnh vực: cơ khí & công trình
+#sự biến động nhiệt độ
+@Lĩnh vực: điện lạnh
+#sự thay đổi nhiệt độ

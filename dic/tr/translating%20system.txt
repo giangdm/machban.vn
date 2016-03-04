@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự dịch
+@Lĩnh vực: toán & tin
+#hệ thống dịch
+#phép tịnh tiến

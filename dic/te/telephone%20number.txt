@@ -1,0 +1,8 @@
+﻿@telephone number
+*danh từ
+#số điện thoại, số dây nói
+@Chuyên ngành kinh tế
+#số dây nói
+#số điện thoại
+@Chuyên ngành kỹ thuật
+#số điện thoại

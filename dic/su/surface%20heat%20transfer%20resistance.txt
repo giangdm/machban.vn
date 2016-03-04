@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện trở (bên ngoài) truyền nhiệt bề mặt
+#nhiệt trở trên mặt

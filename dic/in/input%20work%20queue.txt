@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hàng chờ vào
+#hàng công việc chờ nhập
+#hàng nhập
+@Lĩnh vực: toán & tin
+#hàng đợi công việc đưa vào
+#hàng đợi công việc nhập

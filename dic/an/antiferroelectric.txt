@@ -1,0 +1,6 @@
+﻿@antiferroelectric
+#(Tech) chất phản thiết điện; thuộc phản thiết điện (tt)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chất phản sắt điện
+#chất phản xenhet điện

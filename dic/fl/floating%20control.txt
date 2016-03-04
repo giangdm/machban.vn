@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều chỉnh nổi
+#điều khiển động
+#sự điều chỉnh thả trôi
+@Lĩnh vực: toán & tin
+#điều chỉnh phiếm định
+@Lĩnh vực: xây dựng
+#sự điều khiển vô hướng
+@Chuyên ngành kỹ thuật
+#bộ điều chỉnh nổi
+#điều khiển động
+#sự điều chỉnh thả trôi
+@Lĩnh vực: toán & tin
+#điều chỉnh phiếm định
+@Lĩnh vực: xây dựng
+#sự điều khiển vô hướng

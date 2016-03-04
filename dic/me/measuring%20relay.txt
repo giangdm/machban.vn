@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle cảm biến
+#rơle đo lường
+#rơle kiểu dụng cụ đo
+@Lĩnh vực: đo lường & điều khiển
+#rơle phát hiện

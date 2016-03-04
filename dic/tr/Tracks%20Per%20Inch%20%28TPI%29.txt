@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Số rãnh trong một inch (đơn vị đo chiều dài của Anh)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số rãnh trong một inch
+#số vết trên insơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số rãnh trên mỗi inch

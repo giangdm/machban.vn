@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản chung
+#tài khoản liên doanh
+#tài khoản liên hợp
+#tài khoản xí nghiệp hợp doanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tài khoản hợp nhất

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#lực cản của đường (lốp)
+@Lĩnh vực: vật lý
+#lực cản mặt đường (tạo cho bánh xe khi lăn)

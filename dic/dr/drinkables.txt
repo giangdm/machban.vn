@@ -1,0 +1,4 @@
+﻿@drinkables
+*danh từ số nhiều
+#thức uống
+=eatables and drinkables:đồ ăn và thức uống

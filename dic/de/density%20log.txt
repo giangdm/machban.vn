@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#biểu đồ mật độ
+#biểu đồ tỷ trọng
+#carota mật độ

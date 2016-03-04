@@ -1,0 +1,6 @@
+﻿@name-plate /'neimpleit/
+*danh từ
+#biển đề tên (ở cửa)
+#(kỹ thuật) tấm nhân (tấm để nhân hiệu của nhà máy sản xuất, gắn ở sản phẩm)
+@Chuyên ngành kỹ thuật
+#nhãn máy

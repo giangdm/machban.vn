@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#áp lực cho phép đối với đất
+#áp lực đất cho phép
+@Lĩnh vực: cơ khí & công trình
+#áp lực nền cho phép

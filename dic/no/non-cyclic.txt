@@ -1,0 +1,9 @@
+﻿@non-cyclic
+#không có chu trình, không tuần hoàn, không xilic
+@Chuyên ngành kỹ thuật
+#không tuần hoàn
+@Lĩnh vực: điện tử & viễn thông
+#không chu kỳ
+@Lĩnh vực: toán & tin
+#không chu trình
+#không xíclic

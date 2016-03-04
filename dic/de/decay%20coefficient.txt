@@ -1,0 +1,6 @@
+﻿@decay coefficient
+#(Tech) hệ số thoái hóa
+@Chuyên ngành kỹ thuật
+#hệ số tắt dần
+@Lĩnh vực: hóa học & vật liệu
+#hệ số phân rã

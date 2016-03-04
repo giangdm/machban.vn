@@ -1,0 +1,3 @@
+﻿@gram atom ['græm,ætəm]
+*danh từ, cũng gramme-atom
+# (hoá học) trọng lượng nguyên tử

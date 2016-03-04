@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#luân chuyển (vòng quay) các khoản phải thu
+#luân chuyển các khoản phải thu
+#mức chu chuyển nợ phải thu

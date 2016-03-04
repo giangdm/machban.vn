@@ -1,0 +1,5 @@
+﻿@connection time
+#(Tech) thời gian nối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thời gian kết nối

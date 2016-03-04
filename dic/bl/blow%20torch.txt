@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đèn hàn
+@Lĩnh vực: xây dựng
+#đèn nung đỏ
+@Lĩnh vực: toán & tin
+#đèn nung nhỏ

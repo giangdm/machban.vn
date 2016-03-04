@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công tơ ghi nhu cầu cực đại
+@Lĩnh vực: điện
+#công tơ tự ghi phụ tải cực đại

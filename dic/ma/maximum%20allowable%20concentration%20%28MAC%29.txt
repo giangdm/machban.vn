@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#giá trị nồng độ giới hạn ngưỡng
+#nồng độ được phép cực đại

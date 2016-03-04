@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#khoản cãi hoàn trương mục
+#khoản ghi sổ ngược lại (để triệt tiêu một khoản ghi sai)

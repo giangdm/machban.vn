@@ -1,0 +1,2 @@
+﻿@device driver software
+#(Tech) nhu liệu điều khiển thiết bị

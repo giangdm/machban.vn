@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#đã thu đủ
+#giá trị nhận được
+#khoản giá đã thu
+#khoản giá đã thu (cụm từ ghi ở sau số tiền trên hối phiếu)

@@ -1,0 +1,2 @@
+﻿@external register
+#(Tech) bộ ghi ngoài

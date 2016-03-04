@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nguyên lý hoạt động
+@Lĩnh vực: cơ khí & công trình
+#nguyên lý vận hành

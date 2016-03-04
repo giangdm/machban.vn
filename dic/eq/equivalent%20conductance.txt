@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện dẫn tương đương
+@Lĩnh vực: vật lý
+#độ dẫn tương dương
+@Lĩnh vực: điện
+#độ dẫn tương đương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện dẫn tương đương
+@Lĩnh vực: vật lý
+#độ dẫn tương dương
+@Lĩnh vực: điện
+#độ dẫn tương đương

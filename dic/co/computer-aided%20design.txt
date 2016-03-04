@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự thiết kế bằng máy tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#thiết kế bằng vi tính

@@ -1,0 +1,2 @@
+﻿@Innocent entry barrier
+#(Econ) Cản trở vô tình đối với việc nhập ngành; Cản trở ngẫu nhiên đối với việc nhập ngành.

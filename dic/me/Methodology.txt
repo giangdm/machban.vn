@@ -1,0 +1,11 @@
+﻿@Methodology
+#(Econ) Phương pháp luận.
+: Là một thuật ngữ thường được sử dụng một cách không chặt chẽ trong kinh tế học để mô tả cách thức mà các nhà kinh tế sử dụng trong cách phân tích vấn đề.
+<!-- more -->
+@methodology /,meθə'dɔlədʤi/
+*danh từ
+#phương pháp học
+@Chuyên ngành kinh tế
+#phương pháp học
+@Chuyên ngành kỹ thuật
+#phương pháp luận

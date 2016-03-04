@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nối nhánh kiểu túm
+@Lĩnh vực: điện lạnh
+#mối nối rẽ đuôi

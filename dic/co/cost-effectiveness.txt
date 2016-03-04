@@ -1,0 +1,8 @@
+﻿@cost-effectiveness
+*danh từ
+#sự sinh lợi nhuận, sự sinh lãi
+@Chuyên ngành kinh tế
+#hiệu suất phí tổn
+#phí tổn-hiệu quả
+#tính sinh lợi
+#tương quan phí tổn-hiệu quả

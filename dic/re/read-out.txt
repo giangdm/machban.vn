@@ -1,0 +1,9 @@
+﻿@read-out
+*danh từ
+#kết quản đọc được; số liệu đưa ra
+#sự chỉ thị (khí cụ đo)
+#sự chọn tin
+@Chuyên ngành kỹ thuật
+#đọc ra
+@Lĩnh vực: toán & tin
+#sự đọc ra

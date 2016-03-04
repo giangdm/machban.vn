@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#toa tàu được làm lạnh
+#toa xe được làm lạnh
+@Lĩnh vực: điện lạnh
+#toa tàu (toa xe) được làm lạnh

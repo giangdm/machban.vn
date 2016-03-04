@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bước cố định
+#khoảng cách cố định
+@Lĩnh vực: điện tử & viễn thông
+#cỡ cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bước cố định
+#khoảng cách cố định
+@Lĩnh vực: điện tử & viễn thông
+#cỡ cố định

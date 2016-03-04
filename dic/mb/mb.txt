@@ -1,0 +1,2 @@
+﻿@mb
+#Viết tắt của megabyte (1 048 576 bytes)

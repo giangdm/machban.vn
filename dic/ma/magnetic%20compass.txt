@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đĩa bàn có nam châm
+@Lĩnh vực: xây dựng
+#địa bàn có nam châm
+@Lĩnh vực: hóa học & vật liệu
+#địa bàn từ
+@Lĩnh vực: đo lường & điều khiển
+#la bàn từ
+#la bàn từ tính

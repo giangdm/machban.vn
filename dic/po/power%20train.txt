@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ bánh răng truyền động
+#hệ thống truyền lực
+@Lĩnh vực: ô tô
+#hệ thống động lực (bao gồm động cơ và hộp số)

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#khối lượng vận tải
+@Chuyên ngành kỹ thuật
+#khối lượng lưu thông
+#khối lượng vận tải
+#lưu lượng giao thông
+#mật độ giao thông
+@Lĩnh vực: xây dựng
+#khối lượng giao thông
+@Lĩnh vực: toán & tin
+#khối lượng vận chuyển

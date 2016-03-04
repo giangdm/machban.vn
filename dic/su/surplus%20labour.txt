@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#lao động thặng dư
+@Chuyên ngành kỹ thuật
+#lao động thặng dư
+@Lĩnh vực: toán & tin
+#dao động thặng dư

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tổng lưu lượng cơ số hai
+#tổng lưu lượng nhị phân

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#siêu âm tần
+@Lĩnh vực: y học
+#tần số siêu âm

@@ -1,0 +1,11 @@
+﻿@front panel
+#(Tech) bảng mặt trước
+@Chuyên ngành kỹ thuật
+#tấm mặt trước
+#tấm tỳ ngực
+@Lĩnh vực: toán & tin
+#bảng mặt trước
+@Lĩnh vực: ô tô
+#phần khung trước đầu xe
+@Lĩnh vực: đo lường & điều khiển
+#tấm mặt (máy đo)

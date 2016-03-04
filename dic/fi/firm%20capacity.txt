@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#lực lượng của một hãng
+@Lĩnh vực: vật lý
+#khả năng vững chắc
+@Lĩnh vực: toán & tin
+#tiềm lực của một hãng
+@Chuyên ngành kỹ thuật
+#lực lượng của một hãng
+@Lĩnh vực: vật lý
+#khả năng vững chắc
+@Lĩnh vực: toán & tin
+#tiềm lực của một hãng

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thành phần trễ
+@Lĩnh vực: vật lý
+#bộ phận trễ
+@Lĩnh vực: toán & tin
+#bộ trễ
+#thiết bị trễ

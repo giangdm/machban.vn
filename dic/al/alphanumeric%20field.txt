@@ -1,0 +1,2 @@
+﻿@alphanumeric field
+#(Tech) lĩnh vực chữ-số

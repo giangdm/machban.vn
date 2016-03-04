@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#âm lượng kế
+@Lĩnh vực: toán & tin
+#bộ chỉ báo âm lượng
+#đèn chỉ báo âm lượng
+@Lĩnh vực: điện lạnh
+#VU kế

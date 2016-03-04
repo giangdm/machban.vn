@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự tự bảo vệ
+#sự tự chắn
+@Lĩnh vực: điện lạnh
+#tự bảo vệ
+#tự chắn

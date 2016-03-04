@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#điện trở nhiệt
+@Chuyên ngành kỹ thuật
+#điện trở nhiệt
+#độ bền nhiệt
+#nhiệt trở
+#sức cản nhiệt
+#sức chịu nhiệt
+@Lĩnh vực: điện lạnh
+#độ cản nhiệt

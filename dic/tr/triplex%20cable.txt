@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cáp 3 dây
+@Lĩnh vực: điện lạnh
+#cáp ba sợi (cách điện từng sợi)

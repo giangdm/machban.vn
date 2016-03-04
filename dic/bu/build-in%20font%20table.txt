@@ -1,0 +1,2 @@
+﻿@build-in font table
+#(Tech) bảng dạng chữ có sẵn

@@ -1,0 +1,2 @@
+﻿@bunching factor
+#(Tech) hệ số tụ nhóm

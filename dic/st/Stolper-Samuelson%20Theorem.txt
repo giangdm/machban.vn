@@ -1,0 +1,3 @@
+﻿@Stolper-Samuelson Theorem
+#(Econ) Định lý Stolper-Samuelson.
+: Sử dụng mô hình của HECKSCHER-OHLIN, Stolper và Samuelson đã chứng minh rằng trên cơ sở một số các giả thiết hạn chế, thương mại quốc tế nhất thiết làm giảm tiền thuê thực tế đối với YẾU TỐ SẢN XUẤT khan hiếm mà không nhất thiết phải chỉ ra hình thái tiêu dùng của nó.

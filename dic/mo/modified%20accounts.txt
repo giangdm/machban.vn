@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#báo cáo kế toán giản ước
+#báo cáo kế toán gián ước (đơn giản hóa)

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực nước kẽ rỗng
+@Lĩnh vực: xây dựng
+#áp lực bên trong
+@Lĩnh vực: cơ khí & công trình
+#áp lực trong
+@Lĩnh vực: điện lạnh
+#áp suất bên trong
+#áp suất nội
+#nội áp suất
+@Lĩnh vực: y học
+#áp suất trong

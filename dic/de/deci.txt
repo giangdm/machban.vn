@@ -1,0 +1,2 @@
+﻿@deci
+#(Tech) phần mười, deci (10 lũy thừa trừ 1)

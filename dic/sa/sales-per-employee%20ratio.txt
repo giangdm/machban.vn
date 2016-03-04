@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tỉ lệ bán hàng trên mỗi người làm công
+#tỷ lệ bán hàng theo đầu người làm công

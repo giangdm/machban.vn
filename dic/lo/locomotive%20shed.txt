@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch quặng
+@Lĩnh vực: điện
+#lõi (dây)
+@Lĩnh vực: xây dựng
+#nhà kho chứa đầu tàu
+<!-- more -->
+@Chuyên ngành kỹ thuật
+#mạch quặng
+@Lĩnh vực: điện
+#lõi (dây)
+@Lĩnh vực: xây dựng
+#nhà kho chứa đầu tàu

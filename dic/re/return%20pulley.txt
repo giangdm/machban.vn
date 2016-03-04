@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#puli chân (ở đuôi băng truyền)
+#puli hành trình ngược
+#ròng rọc dẫn về

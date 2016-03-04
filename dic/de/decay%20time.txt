@@ -1,0 +1,11 @@
+﻿@decay time
+#(Tech) thời gian thoái hóa
+@Chuyên ngành kỹ thuật
+#thời gian tắt dần
+@Lĩnh vực: điện
+#thời gian giảm
+#thời gian giảm xung
+@Lĩnh vực: toán & tin
+#thời gian phân hủy
+@Lĩnh vực: ô tô
+#thời gian rã

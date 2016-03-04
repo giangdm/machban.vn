@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị quá lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ làm quá lạnh
+#dàn quá lạnh
+#giàn quá lạnh

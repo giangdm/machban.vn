@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng điều khiển
+#bảng đồng hồ lái xe
+#bảng dụng cụ
+#bảng thiết bị điện tử
+#bảng tín hiệu
+@Lĩnh vực: điện tử & viễn thông
+#bảng chỉ báo điều khiển
+@Lĩnh vực: cơ khí & công trình
+#bảng đồng hồ tín hiệu
+@Lĩnh vực: hóa học & vật liệu
+#bảng thao tác

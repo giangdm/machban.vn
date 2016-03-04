@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#đế cách điện
+@Lĩnh vực: xây dựng
+#giá cách điện
+@Lĩnh vực: điện lạnh
+#giá đỡ cách điện
+@Lĩnh vực: hóa học & vật liệu
+#giá đỡ cách ly

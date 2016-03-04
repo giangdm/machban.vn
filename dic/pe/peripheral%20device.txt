@@ -1,0 +1,6 @@
+﻿@peripheral device
+#chu vi, ngoại vi; ngoại biên
+#<bóng> lề, rìa; mặt bao quanh, mặt ngoài
+#phụ kiện, thiết bị ngoại vi
+@Chuyên ngành kỹ thuật
+#thiết bị ngoại vi

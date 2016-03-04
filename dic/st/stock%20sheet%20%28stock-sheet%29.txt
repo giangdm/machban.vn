@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bản kê tồn kho
+#bảng tồn kho hàng hóa
+#phiếu kho

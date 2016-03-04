@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#giá trị bình phương trung bình
+#giá trị quân phương

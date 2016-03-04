@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#khủng hoảng kinh tế
+#nguy cơ kinh tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khủng hoảng kinh tế

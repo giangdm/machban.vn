@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#kho lạnh
+#kho sinh lạnh
+#nhà lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị bảo quản lạnh

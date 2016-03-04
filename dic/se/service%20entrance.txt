@@ -1,0 +1,9 @@
+﻿@service entrance /'sə:vis'entrəns/
+*danh từ
+#lối vào dành cho nhân viên phục vụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cửa chuyên dụng
+#cửa nội bộ
+@Lĩnh vực: điện
+#phần nhận điện

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#phiếu chuyển tiền
+#phiếu thanh toán
+#phiếu trả tiền

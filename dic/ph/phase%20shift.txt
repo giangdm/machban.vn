@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dịch chuyển pha
+#độ dịch pha
+#độ lệch pha
+#độ trễ pha
+#góc lệch pha
+#lệch pha
+#sự dịch pha
+#sự lệch pha
+@Lĩnh vực: điện tử & viễn thông
+#dịch chuyển pha
+@Lĩnh vực: y học
+#sự dịch chuyển pha
+@Lĩnh vực: toán & tin
+#sự đổi pha
+@Lĩnh vực: hóa học & vật liệu
+#sự thay đổi pha

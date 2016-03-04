@@ -1,0 +1,2 @@
+﻿@elliptical waveguide
+#(Tech) ống dẫn sóng hình bầu dục

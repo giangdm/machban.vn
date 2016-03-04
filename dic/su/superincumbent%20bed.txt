@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#cánh treo
+#lớp mái
+#lớp phủ
+@Lĩnh vực: xây dựng
+#đá lớp nóc
+#vỉa nóc
+@Lĩnh vực: toán & tin
+#vỉa móc, đá lớp nóc

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#không khí ra
+@Lĩnh vực: xây dựng
+#không khí thoát ra ngoài
+@Chuyên ngành kỹ thuật
+#không khí ra
+@Lĩnh vực: xây dựng
+#không khí thoát ra ngoài

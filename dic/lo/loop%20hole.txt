@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗ châu mai
+#lỗ thoát hơi
+#mắt gió
+@Lĩnh vực: toán & tin
+#hở vòng
+#lỗ hổng vòng lặp
+#sai sót vòng lặp

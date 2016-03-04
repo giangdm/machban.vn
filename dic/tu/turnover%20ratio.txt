@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tỉ suất chu chuyển
+#tỉ suất doanh số giá trị tài sản cố định

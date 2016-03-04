@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn chảy
+#ứng suất phá hoại
+#ứng suất phá hủy
+@Lĩnh vực: xây dựng
+#ứng suất thí nghiệm
+@Lĩnh vực: hóa học & vật liệu
+#ứng suất thử
+@Lĩnh vực: cơ khí & công trình
+#ứng suất thử kéo

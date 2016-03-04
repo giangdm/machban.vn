@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#phân chia thời gian
+#sự cắt lát thời gian
+#sự phân lượng thời gian
+@Lĩnh vực: toán & tin
+#sự chia lát thời gian
+#sự phân chia thời gian
+#sự phân khoảng thời gian

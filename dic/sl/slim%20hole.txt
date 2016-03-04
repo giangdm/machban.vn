@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗ khoan rất nhỏ ( dùng trong khảo sát địa tầng học)
+@Lĩnh vực: hóa học & vật liệu
+#giếng khoan đường kính nhỏ (kỹ thuật khoan)

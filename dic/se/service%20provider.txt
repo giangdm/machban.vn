@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#người cung cấp dịch vụ
+#người làm xâu
+@Chuyên ngành kỹ thuật
+#người cung cấp dịch vụ
+@Lĩnh vực: điện tử & viễn thông
+#hãng cung cấp dịch vụ
+#nhà cung cấp dịch vụ

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự trao đổi nhiệt (bằng) bức xạ
+#sự truyền nhiệt do bức xạ

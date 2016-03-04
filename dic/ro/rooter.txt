@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đào gốc
+#máy nhổ gốc cây
+@Lĩnh vực: toán & tin
+#mạch khai căn

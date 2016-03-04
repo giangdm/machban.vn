@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#kho nguyên liệu
+#thùng (đo) lưu lượng
+@Lĩnh vực: hóa học & vật liệu
+#bể cấp
+#bể cấp liệu
+#bể nạp liệu
+#thùng cấp
+#thùng tiếp liệu
+@Lĩnh vực: cơ khí & công trình
+#bình cung cấp
+@Chuyên ngành kỹ thuật
+#kho nguyên liệu
+#thùng (đo) lưu lượng
+@Lĩnh vực: hóa học & vật liệu
+#bể cấp
+#bể cấp liệu
+#bể nạp liệu
+#thùng cấp
+#thùng tiếp liệu
+@Lĩnh vực: cơ khí & công trình
+#bình cung cấp

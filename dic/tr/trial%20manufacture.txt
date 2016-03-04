@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mẫu ban đầu
+@Lĩnh vực: toán & tin
+#bản chạy thử

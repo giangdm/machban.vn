@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hoạt động đơn công
+#sự thao tác đơn công
+#sự vận hành một chiều
+#vận hành đơn công

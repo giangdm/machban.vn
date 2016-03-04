@@ -1,0 +1,5 @@
+﻿@cycle timer
+#(Tech) máy đếm chu kỳ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ định thời chu trình

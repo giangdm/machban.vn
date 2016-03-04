@@ -1,0 +1,2 @@
+﻿@double stub transformer
+#(Tech) bộ biến áp hai nhánh cụt

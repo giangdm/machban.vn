@@ -1,0 +1,37 @@
+﻿@Efficiency
+#(Econ) Tính hiệu quả; Tính hiệu dụng.
+<!-- more -->
+@efficiency /i'fiʃəni/
+*danh từ
+#hiệu lực, hiệu quả
+#năng lực, khả năng
+#năng suất, hiệu suất
+=labour efficiency: năng suất lao động
+@Chuyên ngành kinh tế
+#hệ số có ích
+#hiệu lực
+#hiệu năng
+#hiệu quả
+#hiệu suất
+#lợi suất
+#năng suất
+#tính hiệu quả
+@Chuyên ngành kỹ thuật
+#hiệu lực
+#hiệu quả
+#hiệu suất
+#hiệu suất nhiệt
+#hiệu suất sáng
+#khả năng
+#năng lực
+#năng suất
+#sản lượng
+@Lĩnh vực: điện
+#công hiệu
+<!-- more -->
+@efficiency
+#hiệu suất; (thống kê) hiệu quả, hiệu lực; sản lượng
+#average e. hiệu suất trung bình
+#luminous e. hiệu suất phát sáng
+#net e. hệ số tổng hợp sản lượng có ích; kết quả tính
+#transmilting e. hiệu suất truyền đạt

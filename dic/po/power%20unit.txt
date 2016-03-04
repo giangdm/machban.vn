@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ cấp liệu
+#bộ nguồn
+#đơn vị công suất
+#động cơ
+#động cơ chính
+#nguồn cung cấp năng lượng
+#máy phát điện năng
+#máy phát lực
+#tổ máy phát điện
+@Lĩnh vực: điện lạnh
+#bộ nuôi
+@Lĩnh vực: cơ khí & công trình
+#phần phát động

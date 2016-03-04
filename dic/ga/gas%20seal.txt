@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đệm kín khí
+#mối hàn khí, mối bịt khí
+#van khí
+@Lĩnh vực: điện lạnh
+#dăng kín khí
+#doăng kín khí
+@Lĩnh vực: điện
+#vành chèn (khí)

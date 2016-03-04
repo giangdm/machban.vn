@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ tự động hạn chế nhiễu
+#mạch tự động giảm tạp âm

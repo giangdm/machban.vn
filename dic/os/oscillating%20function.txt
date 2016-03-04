@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm dao động
+@Lĩnh vực: hóa học & vật liệu
+#hàm số dao động

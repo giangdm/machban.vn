@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị bốc hơi kiểu ống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giàn ống bay hơi

@@ -1,0 +1,3 @@
+﻿@variably
+#trạng từ
+#xem variable

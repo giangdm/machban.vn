@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khóa riêng, khóa mật
+@Lĩnh vực: toán & tin
+#khóa bí mật
+#khóa cá nhân
+#khóa riêng

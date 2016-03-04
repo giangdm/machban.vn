@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hệ số an toàn
+@Chuyên ngành kỹ thuật
+#hệ số an toàn
+#hệ số an toàn (SF)

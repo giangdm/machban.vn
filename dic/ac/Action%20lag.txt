@@ -1,0 +1,6 @@
+﻿@Action lag
+#(Econ) Độ trễ của hành động.
+: Mức độ trễ giữa việc quyết định một chính sách (đặc biệt trong kinh tế học vĩ mô) và việc thực hiện chính sách đó.
+@Chuyên ngành kinh tế
+#thời gian chờ đợi hành động
+#thời gian chờ hành động

@@ -1,0 +1,6 @@
+﻿@Retentions
+#(Econ) Các khoản giữ lại.
+: Là tên gọi khác của THU NHẬP GIỮ LẠI hoặc LỢI NHUẬN KHÔNG CHIA.
+@Chuyên ngành kinh tế
+#lợi nhuận giữ lại
+#lợi nhuận không chia

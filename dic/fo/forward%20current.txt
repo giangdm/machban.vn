@@ -1,0 +1,8 @@
+﻿@forward current
+#(Tech) dòng thuận
+@Chuyên ngành kỹ thuật
+#dòng điện thuận
+#dòng hướng tới
+#dòng thuận
+@Lĩnh vực: điện
+#dòng xuôi

@@ -1,0 +1,29 @@
+﻿@exhaust fan [ig'zɔ:st,fæn]
+*danh từ
+# (kỹ thuật) quạt hút
+@Chuyên ngành kỹ thuật
+#quạt đẩy thải
+#quạt hút
+#quạt hút gió
+#quạt thông khí thải
+@Lĩnh vực: điện lạnh
+#quạt đẩy
+@Lĩnh vực: xây dựng
+#quạt hút khí
+@Lĩnh vực: hóa học & vật liệu
+#quạt thải khí
+@Lĩnh vực: vật lý
+#quạt xả
+@Chuyên ngành kỹ thuật
+#quạt đẩy thải
+#quạt hút
+#quạt hút gió
+#quạt thông khí thải
+@Lĩnh vực: điện lạnh
+#quạt đẩy
+@Lĩnh vực: xây dựng
+#quạt hút khí
+@Lĩnh vực: hóa học & vật liệu
+#quạt thải khí
+@Lĩnh vực: vật lý
+#quạt xả

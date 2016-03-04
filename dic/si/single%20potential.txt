@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp điện cực
+@Lĩnh vực: điện lạnh
+#điện thế một cực
+@Lĩnh vực: điện
+#thế đơn

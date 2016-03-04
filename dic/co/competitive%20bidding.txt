@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phương thức gọi thầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đấu thầu cạnh tranh

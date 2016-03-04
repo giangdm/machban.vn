@@ -1,0 +1,5 @@
+﻿@Commodity space
+#(Econ) Không gian hàng hoá.
+: Giới hạn giữa hai trục biểu thị lượng hàng hoá hay dịch vụ sẵn có tiềm năng để người tiêu dùng mua.
+@Chuyên ngành kinh tế
+#không gian hàng hóa

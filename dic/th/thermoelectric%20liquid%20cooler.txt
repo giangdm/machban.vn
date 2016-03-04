@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ làm lạnh chất lỏng kiểu nhiệt điện (Peltier)
+#bộ làm lạnh chất lỏng Peltier

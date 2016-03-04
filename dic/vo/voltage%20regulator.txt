@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều chỉnh điện áp
+#bộ điều tiết điện thế
+#bộ ổn áp
+@Lĩnh vực: ô tô
+#bộ điều chỉnh điện thế
+@Lĩnh vực: điện
+#bộ ổn định điện áp

@@ -1,0 +1,8 @@
+﻿@duplex transmission
+#(Tech) sự truyền dẫn hai chiều
+@Chuyên ngành kỹ thuật
+#sự truyền hai chiều
+@Lĩnh vực: toán & tin
+#sự truyền song công
+@Lĩnh vực: điện tử & viễn thông
+#truyền song công

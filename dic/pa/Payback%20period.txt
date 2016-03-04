@@ -1,0 +1,11 @@
+﻿@Payback period
+#(Econ) Thời kỳ hoàn vốn.
+: Một phương pháp kế toán truyền thống để thẩm định các dự án đầu tư. Thời gian cần thiết cho một dự án để sinh ra lượng tiền tăng thêm đủ để bù các chi tiêu về vốn ban đầu.
+@Chuyên ngành kinh tế
+#giai đoạn thu hồi vốn
+#thời gian hoàn vốn
+#thời hạn hoàn vốn
+#thời kỳ hoàn vốn (đầu tư)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chu kỳ trả dần

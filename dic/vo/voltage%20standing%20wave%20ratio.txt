@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số sóng đứng
+#hệ số sóng đứng điện áp
+@Lĩnh vực: điện lạnh
+#tỷ số sóng dừng điện áp

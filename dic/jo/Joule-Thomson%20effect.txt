@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu ứng Joule-Thomson
+#sự giãn nở Joule-Thomson
+@Lĩnh vực: điện lạnh
+#hiệu ứng joule-Kelvin

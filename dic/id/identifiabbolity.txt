@@ -1,0 +1,3 @@
+﻿@identifiabbolity
+#tính có thể đồng nhất được; (thống kê) khả năng đánh giá các tham số
+#riêng lẻ

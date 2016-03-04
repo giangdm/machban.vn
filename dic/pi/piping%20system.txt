@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống ống
+@Lĩnh vực: điện lạnh
+#hệ (thống) ống
+@Lĩnh vực: hóa học & vật liệu
+#mạng ống

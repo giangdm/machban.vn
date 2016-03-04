@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biến áp khô
+@Lĩnh vực: điện lạnh
+#máy biến áp khô

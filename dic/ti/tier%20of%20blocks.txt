@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#một hàng khối xây đá
+#một hàng khối xây gạch

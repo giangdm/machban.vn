@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giá trị tịnh tài sản hữu hình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#Tài sản hữu hình ròng (NTA)

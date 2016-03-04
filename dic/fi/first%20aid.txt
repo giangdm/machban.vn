@@ -1,0 +1,23 @@
+﻿@first aid ['fə:st'eid]
+*danh từ
+# sự cấp cứu, sự sơ cứu
+@Chuyên ngành kỹ thuật
+#việc sơ cấp
+@Lĩnh vực: y học
+#cấp cứu
+@Lĩnh vực: hóa học & vật liệu
+#giúp đỡ ban đầu
+#sơ cứu
+@Lĩnh vực: xây dựng
+#sự cấp cứu
+#sự sơ cứu
+@Chuyên ngành kỹ thuật
+#việc sơ cấp
+@Lĩnh vực: y học
+#cấp cứu
+@Lĩnh vực: hóa học & vật liệu
+#giúp đỡ ban đầu
+#sơ cứu
+@Lĩnh vực: xây dựng
+#sự cấp cứu
+#sự sơ cứu

@@ -1,0 +1,9 @@
+﻿@Clearing house
+#(Econ) Phòng thanh toán bù trừ
+: Một địa danh của London mà các NGÂN HÀNG THANH TOÁN BÙ TRỪ LONDON, NGÂN HÀNG ANH và ở Edinburgh, ngân hàng cổ phần Scotland tiến hành thanh toán bù trừ séc và các khiếu nợ khác với nhau
+@Chuyên ngành kinh tế
+#phòng bù trừ (giữa các ngân hàng)
+#phòng thanh toán bù trừ (của ngân hàng Luân Đôn)
+#phòng thanh tra thanh toán bù trừ
+#quầy thanh toán (của sở giao dịch chứng khoán)
+#sở giao hoán

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thiời gian khởi hành ước chừng
+#thời gian rời bến dự kiến (của tàu bè)
+#thời gian rời bến dự kiến (của tàu, hàng)

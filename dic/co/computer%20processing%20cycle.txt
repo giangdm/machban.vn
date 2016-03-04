@@ -1,0 +1,2 @@
+﻿@computer processing cycle
+#(Tech) chu kỳ xử lý điện toán

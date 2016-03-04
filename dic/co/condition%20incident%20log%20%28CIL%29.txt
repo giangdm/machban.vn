@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhật ký về tình trạng sự cố
+@Lĩnh vực: toán & tin
+#bản ghi tình trạng sự cố

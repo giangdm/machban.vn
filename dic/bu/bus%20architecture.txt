@@ -1,0 +1,6 @@
+﻿@bus architecture
+#(Tech) cấu trúc mạch nối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cấu trúc bus
+#cấu trúc đường truyền dẫn

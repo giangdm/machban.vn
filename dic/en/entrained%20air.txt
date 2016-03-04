@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khí bị cuốn vào
+@Lĩnh vực: điện lạnh
+#không khí bị cuốn theo
+#không khí cuốn theo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khí bị cuốn vào
+@Lĩnh vực: điện lạnh
+#không khí bị cuốn theo
+#không khí cuốn theo

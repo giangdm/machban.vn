@@ -1,0 +1,2 @@
+﻿@global system
+#(Tech) hệ thống (truyền thông vệ tinh) toàn cầu [ĐL]

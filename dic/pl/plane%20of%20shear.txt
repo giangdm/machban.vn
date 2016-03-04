@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt cắt
+#mặt phẳng cắt
+#mặt phẳng trượt
+#mặt trượt

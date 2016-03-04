@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hỏng hóc do cảm ứng
+@Lĩnh vực: toán & tin
+#sai hỏng cảm ứng
+#sự cố cảm ứng

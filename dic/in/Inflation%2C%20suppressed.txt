@@ -1,0 +1,3 @@
+﻿@Inflation, suppressed
+#(Econ) Lạm phát bị nén.
+: Lạm phát bị nén nảy sinh nếu việc kiểm soát giá giữ giá cả ở mức thấp trong khi nền kinh tế đang có xu hướng lạm phát nói chung. Xem Inflation.

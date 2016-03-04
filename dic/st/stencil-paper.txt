@@ -1,0 +1,3 @@
+﻿@stencil-paper
+*danh từ
+#giấy nến để in

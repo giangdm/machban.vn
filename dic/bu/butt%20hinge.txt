@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản ghép hàn đối dầu
+#bản lệ bàn đối đầu
+#bản lề dẹt cỡ nhỏ

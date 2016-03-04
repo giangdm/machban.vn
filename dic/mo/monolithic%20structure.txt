@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cấu trúc đơn khối
+@Lĩnh vực: xây dựng
+#kết cấu liền khối

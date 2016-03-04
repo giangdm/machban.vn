@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuyển mạch ngang dọc
+#chuyển mạch thanh chéo
+@Lĩnh vực: điện
+#ngắt điện thanh chéo

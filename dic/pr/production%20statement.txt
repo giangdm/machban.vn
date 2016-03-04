@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#bảng báo cáo sản xuất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lệnh sản xuất

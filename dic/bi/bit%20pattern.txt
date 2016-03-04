@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dạng bit
+@Lĩnh vực: toán & tin
+#dạng mẫu bit
+#mẫu bit
+#mô hình bit

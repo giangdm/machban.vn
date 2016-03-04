@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bó đòi hỏi nhả mạch
+#gói đòi hỏi nhả mạch
+@Lĩnh vực: toán & tin
+#chương trình yêu cầu xóa
+#gói yêu cầu xóa

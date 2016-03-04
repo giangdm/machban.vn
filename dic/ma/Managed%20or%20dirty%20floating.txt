@@ -1,0 +1,2 @@
+﻿@Managed or dirty floating
+#(Econ) Sự thả nổi có quản lý hay không thuần khiết.

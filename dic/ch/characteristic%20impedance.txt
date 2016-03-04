@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự kháng đặc trưng
+@Lĩnh vực: điện
+#tổng trở đặc tính
+#trở kháng riêng
+@Lĩnh vực: điện lạnh
+#tổng trở đặc trưng

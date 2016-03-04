@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cuộn Pupin
+@Lĩnh vực: điện
+#cuộn dây gia cảm
+@Lĩnh vực: điện lạnh
+#cuộn phụ tải

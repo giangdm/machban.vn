@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dụng cụ đo mức tạp nhiễu
+#dụng cụ đo mức tiếng ồn

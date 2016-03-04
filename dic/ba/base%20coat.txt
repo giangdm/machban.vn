@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp lót
+#lớp nền
+#lớp phủ gốc
+#lớp sơn lót
+#lớp sơn nền

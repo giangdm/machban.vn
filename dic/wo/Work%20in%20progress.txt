@@ -1,0 +1,12 @@
+﻿@Work in progress
+#(Econ) Sản phẩm đang gia công.
+: Phần sản phẩm vẫn chưa được hoàn thanh tại thời điểm cuối kỳ kế toán.
+@Chuyên ngành kinh tế
+#bán thành phẩm, sản phẩm dở dang
+#công việc đang tiến hành
+#hàng đang sản xuất
+#sản phẩm đang dở
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công trình đang thi công
+#việc đang tiến

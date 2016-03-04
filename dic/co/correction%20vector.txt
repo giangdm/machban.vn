@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vectơ hiệu chính
+#vectơ hiệu chỉnh

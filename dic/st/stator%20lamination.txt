@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#kỹ thuật ghép stato
+@Lĩnh vực: cơ khí & công trình
+#lá ghép stato

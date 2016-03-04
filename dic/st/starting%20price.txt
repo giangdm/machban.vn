@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giá khởi đầu (chứng khoán)
+#giá trả đầu tiên (trong cuộc bán đấu giá)

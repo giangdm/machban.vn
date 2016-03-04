@@ -1,0 +1,11 @@
+﻿@Auctioneer
+#(Econ) Người bán đấu giá.
+: Một thuật ngữ chung chỉ nhân viên bán đấu giá, tại đó những người mua tương lai đấu với nhau bằng cách đặt giá, vật đấu giá sẽ thuộc về người nào đặt giá cao nhất.
+<!-- more -->
+@auctioneer /,ɔkʃə'niə/
+*danh từ
+#người bán đấu giá
+*nội động từ
+#phụ trách việc bán đấu giá, điều khiển việc bán đấu giá
+@Chuyên ngành kinh tế
+#người bán đấu giá

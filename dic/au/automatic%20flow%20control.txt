@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều chỉnh lưu lượng tự động
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển luồng tự động

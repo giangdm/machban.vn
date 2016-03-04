@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kết đông kiểu giá
+#kết đông kiểu tầng
+#sự kết đông kiểu giá (tầng)

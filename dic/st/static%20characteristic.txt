@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đặc trưng tĩnh
+@Lĩnh vực: điện lạnh
+#đặc tính tĩnh
+@Lĩnh vực: điện
+#đặc tuyến tĩnh

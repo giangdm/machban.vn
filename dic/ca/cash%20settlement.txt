@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#kết toán tiền mặt
+#thanh toán bằng tiền mặt (trong giao dịch chứng khoán)

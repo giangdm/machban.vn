@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#hộp cầu dao
+#hộp chuyển mạch
+@Lĩnh vực: điện
+#hộp công tắc
+@Lĩnh vực: cơ khí & công trình
+#hộp công tắc điện
+@Lĩnh vực: hóa học & vật liệu
+#hộp đổi số
+@Lĩnh vực: giao thông & vận tải
+#hộp ghi điện

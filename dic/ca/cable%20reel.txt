@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#ống cuộn cáp
+@Lĩnh vực: xây dựng
+#cuộn dây cáp
+@Lĩnh vực: điện
+#lõi quấn cáp
+@Lĩnh vực: hóa học & vật liệu
+#trục quấn cáp

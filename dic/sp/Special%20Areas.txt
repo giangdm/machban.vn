@@ -1,0 +1,6 @@
+﻿@Special Areas
+#(Econ) Các khu vực đặc biệt.
+: Là hình thái đầu tiên của KHU VỰC ĐƯỢC TRỢ GIÚP, được thành lập ở Anh. Việc tạo ra các khu vực đặc biệt ở Scotland, Wales, và Bắc Ireland là kết quả của tình trạng thất nghiệp ở địa phương này tăng cao và nó cũng thể hiện một bước tiến đáng kể trong CHÍNH SÁCH KHU VỰC của Anh quốc.
+@Chuyên ngành kinh tế
+#các khu công nghiệp không phồn thịnh lâu dài
+#khu công nghiệp phồn thịnh lâu dài

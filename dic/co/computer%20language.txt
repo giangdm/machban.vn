@@ -1,0 +1,8 @@
+﻿@computer language
+#(Tech) ngôn ngữ điện toán
+@Chuyên ngành kỹ thuật
+#ngôn ngữ máy
+@Lĩnh vực: toán & tin
+#ngôn ngữ máy (tính)
+@Lĩnh vực: xây dựng
+#Ngôn ngữ MTĐT

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mức cách điện
+@Lĩnh vực: điện lạnh
+#cấp cách điện
+@Lĩnh vực: điện
+#độ cách điện

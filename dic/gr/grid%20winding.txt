@@ -1,0 +1,2 @@
+﻿@grid winding
+#(Tech) cuộn dây lưới

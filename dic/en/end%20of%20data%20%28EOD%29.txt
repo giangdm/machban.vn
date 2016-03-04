@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cuối dữ liệu
+#điểm kết thúc dữ liệu
+#sự kết thúc dữ liệu
+@Lĩnh vực: xây dựng
+#hết dự liễu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cuối dữ liệu
+#điểm kết thúc dữ liệu
+#sự kết thúc dữ liệu
+@Lĩnh vực: xây dựng
+#hết dự liễu

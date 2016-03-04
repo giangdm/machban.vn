@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kinh tế
+#đường chính (đường sắt, kênh đào, đương dây điện ...)
+#đường chính (đường sắt, kênh đào, đường dây điện...)
+#tuyến chính
+@Chuyên ngành kỹ thuật
+#đường chính
+#đường dây trục
+#đường nối thông
+#đường trục chính
+#đường trung chuyển
+@Lĩnh vực: xây dựng
+#đường dây liên tỉnh
+#đường điện thoại chính
+#tuyến đường sắt chính
+@Lĩnh vực: điện tử & viễn thông
+#đường trung kế
+@Lĩnh vực: điện
+#tuyến đường chính

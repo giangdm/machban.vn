@@ -1,0 +1,34 @@
+﻿@Aid
+#(Econ) Viện trợ
+: Xem FOREIGN AID.
+<!-- more -->
+@aid /eid/
+*danh từ
+#sự giúp đỡ, sự cứu giúp, sự viện trợ
+#người giúp đỡ, người phụ tá
+#(sử học) thuế (nộp cho nhà vua); công trái
+#((thường) số nhiều) những phương tiện để giúp đỡ
+=aids and appliances: đồ gá lắp, thiết bị, dụng cụ, phương tiện vật chất
+#by (with) the aid of
+#nhờ sự giúp đỡ của
+#to lend aid to
+#(xem) lend
+#what's all this aid of?
+#tất cả những cái này dùng để làm gì?
+@Chuyên ngành kinh tế
+#sự viện trợ
+@Chuyên ngành kỹ thuật
+#hỗ trợ
+#phụ vào
+#thêm vào
+@Lĩnh vực: hóa học & vật liệu
+#giúp đỡ
+@Lĩnh vực: toán & tin
+#phương tiện trợ giúp
+@Lĩnh vực: cơ khí & công trình
+#viện trợ
+<!-- more -->
+@aid
+#thêm vào, phụ vào // sự thêm vào, sư phụ vào
+#training a. sách giáo khoa
+#visual a. đồ dùng giảng dạy

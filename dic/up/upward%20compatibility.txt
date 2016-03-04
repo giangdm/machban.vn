@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#tương thích tiến
+@Lĩnh vực: toán & tin
+#sự tương thích hướng lên
+#tính tương thích dưới lên

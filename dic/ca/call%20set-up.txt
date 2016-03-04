@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thiết lập cuộc gọi
+@Lĩnh vực: điện tử & viễn thông
+#sự nối cuộc gọi
+@Lĩnh vực: điện lạnh
+#thiết lập gọi

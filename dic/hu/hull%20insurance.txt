@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bảo hiểm tàu
+#bảo hiểm thân tàu
+#bảo hiểm thân tầu
+#bảo hiểm vỏ tàu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#bảo hiểm thân tàu

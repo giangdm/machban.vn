@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#câu lệnh mô tả tập tin
+@Lĩnh vực: điện tử & viễn thông
+#lệnh khai báo tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#câu lệnh mô tả tập tin
+@Lĩnh vực: điện tử & viễn thông
+#lệnh khai báo tệp

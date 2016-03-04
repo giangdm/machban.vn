@@ -1,0 +1,13 @@
+﻿@Explicit function
+#(Econ) Hàm hiện
+: Dạng thông thường nhất của một hàm số trong đó biến số PHỤ THUỘC được viết bên trái của dấu bằng và các BIẾN ĐỘC LẬP viết bên phải, thường để chỉ mối liên hệ nhân quả hoặc xác định.
+@Chuyên ngành kinh tế
+#hàm hiện
+@Chuyên ngành kỹ thuật
+#hàm hiện
+@Lĩnh vực: toán & tin
+#hàm rõ
+@Chuyên ngành kỹ thuật
+#hàm hiện
+@Lĩnh vực: toán & tin
+#hàm rõ

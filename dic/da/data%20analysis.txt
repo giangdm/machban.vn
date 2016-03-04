@@ -1,0 +1,6 @@
+﻿@data analysis
+#(Tech) phân tích dữ liệu
+@Chuyên ngành kinh tế
+#phân tích dữ liệu
+@Chuyên ngành kỹ thuật
+#phân tích dữ liệu

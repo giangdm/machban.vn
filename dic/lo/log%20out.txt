@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#ra sổ ghi
+@Lĩnh vực: toán & tin
+#kết thúc phiên làm việc
+#rời khỏi hệ thống
+#thoát khỏi hệ thống
+@Lĩnh vực: xây dựng
+#ký sổ ra log
+@Chuyên ngành kỹ thuật
+#ra sổ ghi
+@Lĩnh vực: toán & tin
+#kết thúc phiên làm việc
+#rời khỏi hệ thống
+#thoát khỏi hệ thống
+@Lĩnh vực: xây dựng
+#ký sổ ra log

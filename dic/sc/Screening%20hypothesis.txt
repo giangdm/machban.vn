@@ -1,0 +1,6 @@
+﻿@Screening hypothesis
+#(Econ) Giả thiết sàng lọc.
+: Lập luận rằng giáo dục ít có tác động trực tiếp đến hiệu quả tăng năng suất lao động mà giáo dục chủ yếu đóng vai trò của một bộ lọc, hay thiết bị sàng lọc mà nhằm phát hiện ra những tài năng sẵn có, sự bền trí, động cơ mà người sử dung lao động thấy hấp dẫn.
+@Chuyên ngành kinh tế
+#giả thiết màng lọc
+#giả thiết sàng lọc

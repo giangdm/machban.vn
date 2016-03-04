@@ -1,0 +1,3 @@
+﻿@Value, money, a standard of
+#(Econ) Tiêu chuẩn giá trị của tiền.
+: Một trong các chức năng của tiền là vai trò tiêu chuẩn giá trị. Nghĩa là nó tạo một hệ thống đơn vị kế toán mà qua đó giá cả được biểu hiện và các khoản trả chậm như nợ được xác định.

@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#bít ít quan trọng nhất
+@Lĩnh vực: toán & tin
+#bit có giá trị thấp
+@Lĩnh vực: điện lạnh
+#bit giá trị thấp
+#bit ít ý nghĩa
+@Lĩnh vực: xây dựng
+#bít ít ý nghĩa nhất
+@Chuyên ngành kỹ thuật
+#bít ít quan trọng nhất
+@Lĩnh vực: toán & tin
+#bit có giá trị thấp
+@Lĩnh vực: điện lạnh
+#bit giá trị thấp
+#bit ít ý nghĩa
+@Lĩnh vực: xây dựng
+#bít ít ý nghĩa nhất

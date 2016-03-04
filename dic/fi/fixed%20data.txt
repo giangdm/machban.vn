@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dữ liệu bất biến
+#dữ liệu cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dữ liệu bất biến
+#dữ liệu cố định

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#máy bán tem tự động
+#máy dập viên
+#máy in tem
+@Chuyên ngành kỹ thuật
+#máy đầm
+@Lĩnh vực: cơ khí & công trình
+#máy đập (nổi)
+#máy đóng nhãn

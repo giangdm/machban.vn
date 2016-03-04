@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dung tích phòng bảo quản
+#thể tích (dung dịch) phòng bảo quản
+#thể tích phòng bảo quản

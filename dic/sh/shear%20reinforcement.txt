@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cốt xiên
+@Lĩnh vực: xây dựng
+#cốt thép chịu cắt
+#cốt thép chịu lực cắt
+#đặt cốt xiên
+@Lĩnh vực: toán & tin
+#cốt thép ứng lực cắt

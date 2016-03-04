@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ số truyền qua (của bức xạ)
+#hệ số truyền trong (của chất không khuếch tán)

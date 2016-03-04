@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#van đĩa
+#van hình đĩa
+#van nâng
+#van tháo
+#xupáp hình nấm
+@Lĩnh vực: xây dựng
+#van hình nấm
+@Lĩnh vực: điện lạnh
+#van trục ren
+@Lĩnh vực: ô tô
+#xú páp (nấm)

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ mođula
+#hệ thống module
+#hệ thống theo khối
+@Lĩnh vực: cơ khí & công trình
+#hệ modun

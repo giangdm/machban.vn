@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#công suất lạnh qui ước
+#năng suất lạnh quy ước
+#năng suất lạnh thông dụng

@@ -1,0 +1,5 @@
+﻿@badge reader
+#(Tech) bộ đọc thẻ nhân viên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ đọc thẻ

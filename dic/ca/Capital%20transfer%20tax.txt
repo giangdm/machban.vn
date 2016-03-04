@@ -1,0 +1,6 @@
+﻿@Capital transfer tax
+#(Econ) Thuế chuyển giao vốn
+: Thuế đánh vào việc chuyển giao TÀI SẢN áp dụng ở Anh từ năm 1974 để thay thế THUẾ BẤT ĐỘNG SẢN  và được đặt tên lại là thuế thừa kế năm 1986.Thuế chuyển giao vốn bao gồm thuế quà tặng cho suốt đời và thuế thừa kế.
+@Chuyên ngành kinh tế
+#thuế chuyển giao vốn (của chính phủ Anh)
+#thuế di chuyển vốn

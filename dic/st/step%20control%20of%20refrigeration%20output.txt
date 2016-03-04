@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự điều chỉnh từng nấc năng suất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh năng suất lạnh theo bậc
+#điều chỉnh năng suất lạnh theo bậc (theo cấp)
+#điều chỉnh năng suất lạnh theo cấp

@@ -1,0 +1,5 @@
+﻿@Revenue maximization
+#(Econ) Tối đa hoá doanh thu.
+: Xem SALES MAXIMIZATION HYPOTHESIS.
+@Chuyên ngành kinh tế
+#sự tối đa hóa thu nhập

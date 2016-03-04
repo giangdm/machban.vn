@@ -1,0 +1,26 @@
+﻿@Factorial
+#(Econ) Giai thừa.
+<!-- more -->
+@factorial /fæk'tɔ:riəl/
+*tính từ
+#(thuộc) thừa số
+*danh từ
+#(toán học) giai thừa
+@Chuyên ngành kinh tế
+#giai thừa
+@Chuyên ngành kỹ thuật
+#giai thừa
+#hệ số
+#nhân tố
+#thừa số
+#yếu tố
+@Chuyên ngành kỹ thuật
+#giai thừa
+#hệ số
+#nhân tố
+#thừa số
+#yếu tố
+<!-- more -->
+@factorial
+#giai thừa; nhân tố
+#generalized f. giai thừa suy rộng

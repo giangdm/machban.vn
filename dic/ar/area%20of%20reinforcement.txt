@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#diện tích cốt thép
+#diện tích mặt cốt thép

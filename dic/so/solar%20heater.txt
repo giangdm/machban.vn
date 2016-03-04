@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ gia nhiệt mặt trời
+@Lĩnh vực: điện lạnh
+#bộ làm nóng (nước) bằng nhiệt mặt trời

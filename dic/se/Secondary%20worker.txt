@@ -1,0 +1,5 @@
+﻿@Secondary worker
+#(Econ) Công nhân hạng hai.
+: Những nhóm công nhân mà việc được tham gia vào lực lượng lao động không chắc chắn bằng những nhóm công nhân hạng nhất.
+@Chuyên ngành kinh tế
+#công nhân cấp hai

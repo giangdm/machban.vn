@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#bản đồ hàng hải
+@Chuyên ngành kỹ thuật
+#hải đồ
+@Lĩnh vực: hóa học & vật liệu
+#bản đồ biển
+@Lĩnh vực: xây dựng
+#bản đồ hải cảng
+@Lĩnh vực: toán & tin
+#bản đồ hàng hải

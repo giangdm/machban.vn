@@ -1,0 +1,2 @@
+﻿@asynchron
+#dị bộ (một cách truyền dữ liệu cho phép khoảng thời gian truyền giữa các kí tự được thay đổi)

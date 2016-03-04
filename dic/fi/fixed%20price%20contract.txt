@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hợp đồng giá cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hợp đồng giá cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hợp đồng giá cố định

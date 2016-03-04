@@ -1,0 +1,3 @@
+﻿@Automatic stabilizers
+#(Econ) Các biện pháp ổn định tự động.
+: Các mối quan hệ làm giảm biên độ của biến động chu kỳ trong một nền kinh tế mà không cần hành động trực tiếp của chính phủ.

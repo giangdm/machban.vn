@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#bình chữa cháy
+#bình dập lửa
+#máy chữa lửa
+#máy dập lửa
+@Lĩnh vực: cơ khí & công trình
+#bình cứu hỏa
+@Lĩnh vực: xây dựng
+#bình dập tắt đám cháy
+#thiết bị dập tắt lửa
+@Chuyên ngành kỹ thuật
+#bình chữa cháy
+#bình dập lửa
+#máy chữa lửa
+#máy dập lửa
+@Lĩnh vực: cơ khí & công trình
+#bình cứu hỏa
+@Lĩnh vực: xây dựng
+#bình dập tắt đám cháy
+#thiết bị dập tắt lửa

@@ -1,0 +1,5 @@
+﻿@automatic request for repetition
+#(Tech) yêu cầu tự động xin lập lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#yêu cầu tự động lặp lại

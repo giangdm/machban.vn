@@ -1,0 +1,2 @@
+﻿@applet
+#vi mã (một chương trình ứng dụng nhỏ thực hiện một nhiệm vụ cụ thể)

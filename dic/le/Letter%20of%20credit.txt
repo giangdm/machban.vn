@@ -1,0 +1,9 @@
+﻿@Letter of credit
+#(Econ) Thư tín dụng.
+: Một văn bản do một ngân hàng phát hành thay mặt khách hàng bảo đảm rằng ngân hàng sẽ thanh toán các séc do khách hàng đó rút, hay phổ biến hơn ngày nay gọi là các hối phiếu do các bên mà khách hàng mua hàng rút theo tên của khách hàng.
+<!-- more -->
+@letter of credit /'letəəv'kredit/
+*danh từ
+#thư tín dụng
+@Chuyên ngành kinh tế
+#thư tín dụng

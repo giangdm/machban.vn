@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí đã quá kỳ
+#đã qua đi
+#đã tiêu mất

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chạy không
+#dòng phản kháng
+#dòng vô công
+#dòng vuông góc

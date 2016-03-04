@@ -1,0 +1,2 @@
+﻿@Balanced GDP
+#(Econ) GDP được cân đối

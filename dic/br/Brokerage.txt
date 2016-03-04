@@ -1,0 +1,15 @@
+﻿@Brokerage
+#(Econ) Hoa hồng môi giới.
+: Một khoản tiền được yêu cầu bởi một người môi giới vì đã thực hiện việc mua bán thay mặt một khách hàng.
+<!-- more -->
+@brokerage /'broukəridʤ/
+*danh từ
+#sự môi giới
+#nghề môi giới
+@Chuyên ngành kinh tế
+#hoa hồng môi giới
+#nghề môi giới
+#phí môi giới
+@Chuyên ngành kỹ thuật
+#môi giới
+#tiền hoa hồng

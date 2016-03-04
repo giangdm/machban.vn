@@ -1,0 +1,6 @@
+﻿@partial correlation ['pa:∫əl ,kɔri'lei∫n]
+*danh từ
+# (toán học) tương quan riêng phần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tương quan riêng

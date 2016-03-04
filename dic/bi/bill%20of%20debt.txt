@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giấy nhận nợ
+@Chuyên ngành kỹ thuật
+#phiếu nợ

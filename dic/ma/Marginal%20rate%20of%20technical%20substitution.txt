@@ -1,0 +1,6 @@
+﻿@Marginal rate of technical substitution
+#(Econ) Tỷ suất thay thế kỹ thuật cận biên; thế suất kỹ thuật cận biên.
+: Là tỷ lệ thay thế kỹ thuật biên của hai yếu tố đầu vào.
+@Chuyên ngành kinh tế
+#mức thay thế kỹ thuật biên tế
+#tỷ lệ thay thế kỹ thuật biên

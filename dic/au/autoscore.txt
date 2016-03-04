@@ -1,0 +1,2 @@
+﻿@autoscore
+#(Tech) gạch dưới tự động

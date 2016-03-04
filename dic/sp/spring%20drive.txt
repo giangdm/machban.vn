@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điều khiển lò xo
+@Lĩnh vực: điện lạnh
+#truyền động lò xo

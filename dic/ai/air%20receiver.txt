@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#bình khí nén
+#thùng khí nén
+@Lĩnh vực: ô tô
+#bầu chứa không khí
+#bình nén khí
+@Lĩnh vực: xây dựng
+#bể chứa không khí
+@Lĩnh vực: cơ khí & công trình
+#buồng không khí
+#chụp khí
+@Lĩnh vực: hóa học & vật liệu
+#thùng chứa không khí

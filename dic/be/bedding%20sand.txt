@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp cát đệm
+@Lĩnh vực: xây dựng
+#cát bãi biển
+@Lĩnh vực: toán & tin
+#lớp đệm cát (dưới móng)

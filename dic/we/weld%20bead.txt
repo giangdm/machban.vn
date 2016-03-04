@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#dây điện hàn
+#hàn dây
+#mối hàn
+@Lĩnh vực: hóa học & vật liệu
+#dây hàn (mối hàn bằng một đường)
+@Lĩnh vực: xây dựng
+#đường viền chân cột
+#đường viền đỉnh

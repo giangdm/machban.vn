@@ -1,0 +1,6 @@
+﻿@Consumption expenditure
+#(Econ) Chi tiêu tiêu dùng
+: Tổng chi tiêu vào hàng hoá và dịch vụ nhằm thoả mãn nhu cầu hiện tại (Xem CONSUMPTION).
+@Chuyên ngành kinh tế
+#chi tiêu cho tiêu dùng
+#chỉ tiêu để tiêu dùng

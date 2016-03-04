@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#lực đẩy từ
+#lực đẩy từ tính
+@Lĩnh vực: điện
+#sự đẩy từ tính

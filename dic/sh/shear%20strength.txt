@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền cắt
+#sức bền cắt
+@Lĩnh vực: xây dựng
+#cường độ chống cắt
+#độ bền chịu trượt

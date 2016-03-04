@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng chuyển mạch
+#bảng phân phối điện
+@Lĩnh vực: điện lạnh
+#tủ cầu dao tủ

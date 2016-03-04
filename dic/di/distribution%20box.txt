@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hộp chia dây
+#hộp đấu dây
+#hộp phân phối
+#hộp phân phối điện
+@Lĩnh vực: xây dựng
+#giếng phân phối nước
+@Lĩnh vực: điện
+#hộp nối đầu cáp
+#hộp nối đầu dây

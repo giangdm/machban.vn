@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#vòng xếp chồng
+#vòng xếp thẳng đứng (anten)

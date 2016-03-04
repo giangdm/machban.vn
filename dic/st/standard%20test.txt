@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#mẫu thử tiêu chuẩn
+#sự thử tiêu chuẩn (hóa)
+@Lĩnh vực: xây dựng
+#phép thử tiêu chuẩn
+#thí nghiệm mẫu

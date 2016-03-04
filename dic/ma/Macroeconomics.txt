@@ -1,0 +1,10 @@
+﻿@Macroeconomics
+#(Econ) Kinh tế học vĩ mô.
+: Là khoa học nghiên cứu hành vi của toàn bộ nền kinh tế nói chung.
+@Chuyên ngành kinh tế
+#kinh tế học tổng thể
+#kinh tế học vĩ mô
+<!-- more -->
+@macroeconomics
+*danh từ
+#(kinh tế) ngành nghiên cứu toàn diện nền kinh tế của một quốc gia (lợi tức quốc gia, sản lượng quốc gia, mối tương quan giữa các khu vực trong nền (kinh tế) quốc gia); kinh tế vĩ mô

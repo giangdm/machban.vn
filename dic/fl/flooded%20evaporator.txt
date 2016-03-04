@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị bốc hơi chìm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dàn bay hơi kiểu ngập
+#giàn bay hơi kiểu ngập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dàn bay hơi kiểu ngập
+#giàn bay hơi kiểu ngập

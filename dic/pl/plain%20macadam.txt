@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt đường đá dăm thuần (không lớp phủ)
+@Lĩnh vực: xây dựng
+#mặt đường toàn đá dăm (không có tính dính kết)

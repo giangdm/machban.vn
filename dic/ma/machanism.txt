@@ -1,0 +1,15 @@
+﻿@machanism
+#cơ cấu; thiết bị máy móc; thiết bị hàm
+#actuating m. cơ cấu dẫn động, cơ cấu thừa hành
+#chance m. cơ cấu chọn ngẫu nhiên
+#clutch m. cơ cấu móc
+#computer m., cuonting m. bộ tính toán
+#coupling m. cơ cấu ghép
+#delent m. [chốt, cái] định, vị, cố định
+#feed m. cơ cấu tiếp liệu
+#pen-driving m. bộ phận dẫn động bằng bút
+#printing m. thiết bị in
+#quick-release m. cơ cấu ngắt nhanh
+#sine-cosine m. (máy tính) cơ cấu sin-cos
+#tape m. cơ cấu băng truyền
+#teleological m. (điều khiển học) cơ cấu có dáng hướng mục tiêu

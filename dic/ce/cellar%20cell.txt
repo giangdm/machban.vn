@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#cảm biến
+#máy tuyển nổi
+@Lĩnh vực: cơ khí & công trình
+#ngăn hốc
+#phần tử pin
+#tế bào (quang điện)

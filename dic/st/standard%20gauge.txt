@@ -1,0 +1,21 @@
+﻿@standard gauge /'stændəd'geidʤ/
+*danh từ
+#bề ngang tiêu chuẩn của đường sắt
+#đường sắt có bề ngang tiêu chuẩn
+#xe lửa chạy trên đường sắt có bề ngang tiêu chuẩn
+@Chuyên ngành kinh tế
+#khoảng cách tiêu chuẩn (đường sắt)
+@Chuyên ngành kỹ thuật
+#calip mẫu
+#đường chuẩn
+#khổ đường chuẩn
+#khổ đường ray tiêu chuẩn
+#khổ đường sắt chuẩn
+#khổ tiêu chuẩn
+#kích thước chuẩn
+#mô hình mẫu
+@Lĩnh vực: cơ khí & công trình
+#calip chuẩn
+#dưỡng tiêu chuẩn
+@Lĩnh vực: giao thông & vận tải
+#khổ đường tiêu chuẩn 1.435mm

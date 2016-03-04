@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi thiết bị
+@Lĩnh vực: toán & tin
+#sự cố thiết bị
+#sự hỏng thiết bị
+@Chuyên ngành kỹ thuật
+#lỗi thiết bị
+@Lĩnh vực: toán & tin
+#sự cố thiết bị
+#sự hỏng thiết bị

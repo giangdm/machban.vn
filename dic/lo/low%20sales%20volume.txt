@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#lượng tiêu thụ ít
+#mùa ế ẩm
+#mùa ít khách
+#mùa kém

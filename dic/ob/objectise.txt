@@ -1,0 +1,2 @@
+﻿@objectise
+#Cách viết khác : objectize

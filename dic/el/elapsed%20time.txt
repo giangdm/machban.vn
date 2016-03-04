@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian chạy
+@Lĩnh vực: vật lý
+#khoảng thời gian đã qua
+@Lĩnh vực: toán & tin
+#thời gian chạy máy
+#thời gian trôi qua

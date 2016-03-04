@@ -1,0 +1,2 @@
+﻿@gateway server
+#(Tech) bộ phục vụ cổng nối mạng

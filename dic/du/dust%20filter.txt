@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị lọc bụi
+@Chuyên ngành kỹ thuật
+#bộ lọc bụi
+#thiết bị lọc bụi
+@Lĩnh vực: điện lạnh
+#phin lọc bụi

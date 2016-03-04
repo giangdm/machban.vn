@@ -1,0 +1,29 @@
+﻿@Hysteresis
+#(Econ) Hiện tượng trễ.
+: Các nhà khoa học sử dụng thuật ngữ này để miêu tả một trạng thái trong đó cân bằng của một hệ thống phụ thuộc vào lịch sử của hệ thống đó.
+<!-- more -->
+@hysteresis /,histə'ri:sis/
+*danh từ
+#(vật lý) hiện tượng trễ
+=magnetic hysteresis: hiện tượng trễ từ
+=thermal hysteresis: hiện tượng trễ nhiệt
+@Chuyên ngành kinh tế
+#độ trễ
+#hiện tượng trễ
+@Chuyên ngành kỹ thuật
+#độ trễ
+#sự trễ
+#sự trễ từ
+@Lĩnh vực: điện lạnh
+#hiện tượng trễ
+#tính từ trễ
+@Lĩnh vực: hóa học & vật liệu
+#sự trì trệ
+@Lĩnh vực: điện
+#trễ điện môi
+#từ trễ
+<!-- more -->
+@hysteresis
+#(vật lí) hiện tượng trễ
+#elastic h. trễ đàn hồi
+#mechanical h. trễ cơ học

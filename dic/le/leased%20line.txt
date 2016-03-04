@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#đường cho thuê
+#đường dây thuê bao
+#đường riêng
+#đường thuê bao
+@Lĩnh vực: toán & tin
+#kênh dành riêng
+#kênh thuê bao
+@Lĩnh vực: điện tử & viễn thông
+#mạch thuê bao
+@Chuyên ngành kỹ thuật
+#đường cho thuê
+#đường dây thuê bao
+#đường riêng
+#đường thuê bao
+@Lĩnh vực: toán & tin
+#kênh dành riêng
+#kênh thuê bao
+@Lĩnh vực: điện tử & viễn thông
+#mạch thuê bao

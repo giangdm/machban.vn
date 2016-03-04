@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ tăng ích dòng
+#sự khuếch đại dòng
+@Lĩnh vực: điện lạnh
+#độ khuếch đại dòng
+#độ tăng ích (về) dòng
+@Lĩnh vực: toán & tin
+#độ lợi dòng điện

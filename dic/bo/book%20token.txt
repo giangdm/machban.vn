@@ -1,0 +1,6 @@
+﻿@book token ['buktoukən]
+*danh từ
+# biên lai có thể đổi lấy sách với một giá trị quy định; phiếu mua sách
+@Chuyên ngành kinh tế
+#phiếu biếu sách
+#phiếu tặng sách (chi phiếu quà tặng dùng để đổi lấy sách)

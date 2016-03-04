@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số suy giảm
+#hệ số tắt dần
+@Lĩnh vực: xây dựng
+#hệ số giảm yếu
+#hệ số thon dần

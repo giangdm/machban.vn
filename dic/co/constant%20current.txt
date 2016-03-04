@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng điện liên tục
+#dòng điện một chiều
+@Lĩnh vực: y học
+#dòng điện không đổi

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hệ số chặn y
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mặt phẳng y

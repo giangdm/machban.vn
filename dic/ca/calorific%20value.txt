@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giá rị nhiệt (của năng lượng)
+#giá trị năng lượng (của thực vật hoặc thức ăn)
+@Chuyên ngành kỹ thuật
+#năng suất tỏa nhiệt
+#nhiệt trị
+@Lĩnh vực: điện lạnh
+#hiệu quả calo
+#hiệu quả nhiệt

@@ -1,0 +1,2 @@
+﻿@stereometric(al)
+#(hình học) (thuộc) hình học không gian

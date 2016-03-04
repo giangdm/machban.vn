@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản ghi chuyển tác
+#bản ghi giao dịch
+#bản ghi toàn tác

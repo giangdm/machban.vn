@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#phần chịu lực chính
+@Lĩnh vực: cơ khí & công trình
+#phần tử chịu tải

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện thế màng
+@Lĩnh vực: y học
+#hiệu thế màng
+@Lĩnh vực: hóa học & vật liệu
+#thế màng

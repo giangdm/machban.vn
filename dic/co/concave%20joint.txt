@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mạch xây lõm
+#mối nối lõm
+#vỉa lõm

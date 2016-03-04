@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ống hình nón
+#ống nối trung gian
+@Lĩnh vực: xây dựng
+#ống nối chuyển tiếp (từ ống to đến ống nhỏ)

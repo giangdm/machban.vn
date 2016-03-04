@@ -1,0 +1,5 @@
+﻿@truetype
+#Một công nghệ tạo phông chữ kèm theo System 7 của hãng Apple Computer và Microsoft Windows 3 1 nó đưa ra các phông chữ có thể thay đổi tỉ lệ cho màn hình và máy in của các hệ Macitosh và Windows
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phông TrueType

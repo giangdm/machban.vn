@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sự trao đổi nhiệt qua vách
+#trao đổi nhiệt không tiếp xúc
+#trao đổi nhiệt không trực tiếp
+#trao đổi nhiệt qua vách

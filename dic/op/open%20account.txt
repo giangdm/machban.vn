@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch ghi sổ
+#khoản tín dụng không có đảm bảo
+#tài khoản chưa thanh toán
+#tài khoản ghi nợ
+#tài khoản ghi nợ, ghi sổ
+#tài khoản ghi sổ
+#tài khoản mua bán chịu
+#tài khoản ngỏ

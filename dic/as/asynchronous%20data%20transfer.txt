@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chuyển dữ liệu dị bộ
+@Lĩnh vực: toán & tin
+#chuyển dữ liệu không đồng bộ
+#sự phát dữ liệu bất đồng

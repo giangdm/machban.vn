@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nhỏ nhất
+#số lượng ít nhất
+#thấp nhất tối thiểu

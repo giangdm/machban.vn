@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo mưa
+@Lĩnh vực: cơ khí & công trình
+#cái đo mưa theo hướng gió (trong trận bão)

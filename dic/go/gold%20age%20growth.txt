@@ -1,0 +1,3 @@
+﻿@gold age growth
+#(Econ) Tăng trưởng thời kỳ hoàng kim.
+: Trong lý thuyết tăng trưởng, đó là một tình huống TĂNG TRƯỞNG CÂN ĐỐI trong đó TỶ LỆ TĂNG TRƯỞNG CÓ BẢO ĐẢM bằng với Tỷ lệ tăng trưởng tự nhiên khi có đủ việc làm.

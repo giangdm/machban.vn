@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#cách tính phí tổn từng công đoạn gia công
+#định phí theo quá trình

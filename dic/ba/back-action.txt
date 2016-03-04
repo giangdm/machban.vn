@@ -1,0 +1,5 @@
+﻿@back-action
+#phản tác dụng, tác dụng ngược
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tác dụng ngược

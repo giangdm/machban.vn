@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#người được ủy hưởng quyền lợi
+#người nhận giao phó (chỉ công ty bảo hiểm)

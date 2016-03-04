@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thanh chống di động
+#thanh chống phụ
+#thanh chống trên cao

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#định luật nhiệt động thứ ba
+@Lĩnh vực: vật lý
+#nguyên lý thứ ba của nhiệt động (lực) học

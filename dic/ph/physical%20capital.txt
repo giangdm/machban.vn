@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#vốn hiện vật
+#vốn hữu hình (như máy móc, nhà xưởng...)
+#vốn vật chất
+#vốn vật thể

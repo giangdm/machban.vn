@@ -1,0 +1,6 @@
+﻿@Marginal product
+#(Econ) Sản phẩm cận biên.
+: Là sản lượng tăng thêm do sử dụng thêm một đơn vị đầu vào.
+@Chuyên ngành kinh tế
+#nhà sản xuất biên tế
+#sản phẩm biên

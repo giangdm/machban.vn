@@ -1,0 +1,2 @@
+﻿@additive subtractive expression
+#(Tech) gia giảm thức [NB], biểu thức gia giảm

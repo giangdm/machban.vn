@@ -1,0 +1,5 @@
+﻿@bootstrap program
+#(Tech) chương trình khởi động, chương trình mồi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình tự khởi động

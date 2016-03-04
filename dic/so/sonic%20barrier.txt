@@ -1,0 +1,9 @@
+﻿@sonic barrier
+*danh từ
+#hàng rào âm thanh (điểm tại đó tốc độ của máy bay bằng tốc độ của sóng âm thanh, gây ra tiếng nổ âm thanh)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bức tường âm (thanh)
+#hàng rào âm (thanh)
+@Lĩnh vực: xây dựng
+#hàng rào âm thanh

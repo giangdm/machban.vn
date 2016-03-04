@@ -1,0 +1,2 @@
+﻿@diagnostic software
+#(Tech) nhu liệu chẩn đoán

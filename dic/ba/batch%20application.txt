@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ứng dụng bó
+#ứng dụng cả gói
+#ứng dụng chạy theo lô
+#ứng dụng lô

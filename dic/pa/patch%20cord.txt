@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dây nối
+@Lĩnh vực: điện lạnh
+#dây mềm nối tạm
+@Lĩnh vực: toán & tin
+#dây nối (các bộ phận)

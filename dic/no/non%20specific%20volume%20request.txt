@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#yêu cầu khối không riêng biệt
+#yêu cầu khối không rõ ràng

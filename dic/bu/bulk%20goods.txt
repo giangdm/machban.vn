@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hàng chất rời
+#khối lớn hàng hóa
+@Chuyên ngành kỹ thuật
+#hàng rời
+@Lĩnh vực: giao thông & vận tải
+#hàng rời khối lượng lớn

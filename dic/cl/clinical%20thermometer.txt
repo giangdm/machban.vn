@@ -1,0 +1,7 @@
+﻿@clinical thermometer
+*danh từ
+#cái cặp nhiệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt kế y học
+#nhiệt kế y tế

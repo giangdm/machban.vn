@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đường cho tàu thông qua
+@Lĩnh vực: xây dựng
+#chỗ tránh tàu (hỏa)
+#đường tránh tàu (hỏa)

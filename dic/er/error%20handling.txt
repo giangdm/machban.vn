@@ -1,0 +1,16 @@
+﻿@error handling
+#(Tech) xử lý sai lầm = error analysis
+@Chuyên ngành kỹ thuật
+#sự bẫy lỗi
+#sự khắc phục lỗi
+#sự xử lý lỗi
+@Lĩnh vực: toán & tin
+#bắt lỗi
+#quản lý lỗi
+@Chuyên ngành kỹ thuật
+#sự bẫy lỗi
+#sự khắc phục lỗi
+#sự xử lý lỗi
+@Lĩnh vực: toán & tin
+#bắt lỗi
+#quản lý lỗi

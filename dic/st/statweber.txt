@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#statWb (đơn vị từ thông trong hệ CGSE)
+#vêbe E
+#vêbe tĩnh điện

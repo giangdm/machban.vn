@@ -1,0 +1,5 @@
+﻿@Unsecured loan stock
+#(Econ) Cổ phần vay không bảo lãnh.
+: Xem FINANCIAL CAPITAL.
+@Chuyên ngành kinh tế
+#vốn vay không có bảo đảm

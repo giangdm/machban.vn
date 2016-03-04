@@ -1,0 +1,3 @@
+﻿@Price-push
+#(Econ) Giá đẩy.
+: Tên gọi một dạng lạm phát giống như chi phí đẩy trong đó các chủ doanh nghiệp bị chỉ trích đã gây ra lạm phát bằng cách tính giá cao một cách không cần thiết nhằm kiếm lợi nhuận lớn.

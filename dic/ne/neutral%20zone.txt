@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#khu trung lập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#miền trung hòa
+@Lĩnh vực: điện
+#vùng trung tính

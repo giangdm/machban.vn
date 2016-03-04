@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#bếp điện
+#bộ sấy
+#bộ sấy điện
+#bộ sưởi điện
+#lò nung điện
+#lò sưởi điện
+@Lĩnh vực: xây dựng
+#bình nóng lạnh dùng điện
+#máy sưởi bằng điện
+#thiết bị sưởi bằng điện
+@Chuyên ngành kỹ thuật
+#bếp điện
+#bộ sấy
+#bộ sấy điện
+#bộ sưởi điện
+#lò nung điện
+#lò sưởi điện
+@Lĩnh vực: xây dựng
+#bình nóng lạnh dùng điện
+#máy sưởi bằng điện
+#thiết bị sưởi bằng điện

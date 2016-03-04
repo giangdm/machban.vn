@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#mức nợ cố định
+#mức thu lợi không thay đổi
+#mức thu lợi không thay đổi theo qui mô

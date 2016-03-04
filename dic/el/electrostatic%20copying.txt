@@ -1,0 +1,2 @@
+﻿@electrostatic copying
+#(Tech) sao chép dạng điện tĩnh

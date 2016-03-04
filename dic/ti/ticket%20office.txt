@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#phòng bán vé
+@Chuyên ngành kỹ thuật
+#cửa bán vé

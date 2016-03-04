@@ -1,0 +1,14 @@
+﻿@en dash
+#nét en (vệt in liên tục có độ rộng bằng một en, đó là độ rộng bằng nửa khoảng em-độ rộng của chữ hoa M trong kiểu chữ đang dùng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#gạch ngắn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu gạch ngang-
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#gạch ngắn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dấu gạch ngang-

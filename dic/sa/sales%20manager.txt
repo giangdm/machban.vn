@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#giám đốc bán hàng
+#giám đốc kinh doanh
+#giám đốc tiêu thụ
+#người phụ trách việc tiêu thụ sản phẩm
+#trưởng phòng kinh tiêu
+#trưởng phòng mãi vụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#giám đốc kinh doanh

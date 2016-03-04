@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự hợp lực
+#tổng hợp lực
+@Lĩnh vực: vật lý
+#sự tổng hợp lực
+@Lĩnh vực: xây dựng
+#tổ hợp các lực

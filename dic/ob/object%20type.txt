@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểu đối tượng
+@Lĩnh vực: toán & tin
+#loại đối tượng

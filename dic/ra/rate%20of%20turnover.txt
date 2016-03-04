@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#mức doanh thu (kim ngạch)
+#tốc độ chu chuyển hàng dự trữ
+#tốc độ luân chuyển
+#tốc độ quay vòng

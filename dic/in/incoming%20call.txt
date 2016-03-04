@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#lời gọi tới
+@Lĩnh vực: toán & tin
+#cuộc gọi đến
+#gọi tới
+@Lĩnh vực: điện tử & viễn thông
+#cuộc gọi tới
+#sự gọi đến (tín hiệu)
+@Lĩnh vực: điện lạnh
+#gọi đến

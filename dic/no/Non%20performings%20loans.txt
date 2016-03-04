@@ -1,0 +1,2 @@
+﻿@Non performings loans
+#(Econ) Những khoản vay không thực hiện đúng hợp đồng.

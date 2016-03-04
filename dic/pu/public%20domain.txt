@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#đất công
+#tài sản công cộng
+#tài sản công hữu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#địa hạt công cộng
+@Lĩnh vực: toán & tin
+#miền công cộng

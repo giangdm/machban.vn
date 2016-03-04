@@ -1,0 +1,6 @@
+﻿@Degree of freedom
+#(Econ) Bậc tự do (df)
+: Số lượng các thông tin có thể thay đổi một cách độc lập với nhau.
+@Chuyên ngành kỹ thuật
+#bậc tự do
+#độ tự do

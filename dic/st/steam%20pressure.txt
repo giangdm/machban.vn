@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất hơi
+#áp suất hơi nước
+@Lĩnh vực: xây dựng
+#áp lực hơi
+@Lĩnh vực: cơ khí & công trình
+#áp lực hơi nước
+@Lĩnh vực: điện
+#áp suất hơi (nước)

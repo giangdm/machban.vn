@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị ngưng tụ bộ phận
+@Chuyên ngành kỹ thuật
+#bộ ngưng hồi lưu
+@Lĩnh vực: hóa học & vật liệu
+#bộ ngưng riêng phần
+@Lĩnh vực: điện lạnh
+#bộ ngưng tụ hồi lưu

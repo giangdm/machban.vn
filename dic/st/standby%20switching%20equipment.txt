@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị chuyển mạch dự bị
+#thiết bị chuyển mạch dự trữ

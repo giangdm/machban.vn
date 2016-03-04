@@ -1,0 +1,3 @@
+﻿@Public Expediture
+#(Econ) Chi tiêu công cộng.
+: Nói một cách rộng rãi, chi tiêu của các cơ quan  chính quyền địa phương và quốc gia được phân biệt với chi tiêu tư nhân, những tổ chức hoặc doanh nghiệp tư nhân.

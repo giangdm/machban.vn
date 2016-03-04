@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#đánh dấu bằng mũi đột
+#điểm mốc
+#vạch mốc
+@Lĩnh vực: cơ khí & công trình
+#dấu đục
+@Lĩnh vực: xây dựng
+#sự đánh dấu bằng lỗ
+@Lĩnh vực: toán & tin
+#sự đánh dấu đục lỗ

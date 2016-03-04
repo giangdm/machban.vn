@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt lượng
+#nhu cầu về nhiệt
+#tải nhiệt
+#tải trọng nhiệt
+@Lĩnh vực: điện tử & viễn thông
+#nhiệt tải
+@Lĩnh vực: xây dựng
+#tải trọng sưởi

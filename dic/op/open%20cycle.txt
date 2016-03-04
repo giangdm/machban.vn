@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chu kỳ hở
+@Lĩnh vực: toán & tin
+#chu trình mở

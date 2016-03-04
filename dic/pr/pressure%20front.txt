@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#mặt đầu áp suất
+#mặt đầu sóng xung kích

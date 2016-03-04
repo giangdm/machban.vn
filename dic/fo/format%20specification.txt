@@ -1,0 +1,7 @@
+﻿@format specification
+#(Tech) quy cách định khuôn dạng, đặc tả định khuôn dạng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đặc tả hình thức
+@Lĩnh vực: điện tử & viễn thông
+#đặc tính khuôn

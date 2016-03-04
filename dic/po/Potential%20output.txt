@@ -1,0 +1,6 @@
+﻿@Potential output
+#(Econ) Sản lượng tiềm năng.
+: Sản lượng khả thi tối đa của một doanh nghiệp, một ngành, một khu vực của một nền kinh tế hoặc toàn bộ một nền kinh tế là mức độ được xác định của các yếu tố sản xuất.
+@Chuyên ngành kinh tế
+#sản lượng tiềm năng
+#sản lượng tiềm tàng

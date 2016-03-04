@@ -1,0 +1,20 @@
+﻿@Beta
+#(Econ) Chỉ số Beta
+: Chỉ số tính sự biến động lợi tức của một cổ phiếu cùng với sự biến động lợi tức của toàn bộ thị trường chứng khoán.
+<!-- more -->
+@beta /'bi:tə/
+*danh từ
+#Bêta (chữ cái Hy lạp)
+#beta plus
+#hơn loại hai một ít
+#beta minus
+#kém loại hai một ít
+@Chuyên ngành kinh tế
+#hạng hai
+#hệ số bêta
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bêta
+<!-- more -->
+@beta
+#bêta (β); sao bêta của một chòm sao

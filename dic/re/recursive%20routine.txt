@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình đệ quy
+#đoạn chương trình đệ quy
+#thủ tục đệ quy
+@Lĩnh vực: điện tử & viễn thông
+#thường trình đệ quy

@@ -1,0 +1,3 @@
+﻿@Owner-controlled firms
+#(Econ) Các hãng do người chủ sở hữu kiểm soát.
+: NHững công ty có một nhóm các cổ đông rõ ràng là đồng quyền lợi, chiếm hữu một tỷ lệ cổ phần được bỏ phiếu khá lớn, làm cho họ có khả năng kiểm soát hữu hiệu chính sách công ty.ư

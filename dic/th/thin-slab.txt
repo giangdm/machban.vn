@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#kết cấu tấm mỏng
+@Lĩnh vực: toán & tin
+#kết cấu bản
+@Lĩnh vực: xây dựng
+#kết cấu bản mỏng

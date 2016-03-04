@@ -1,0 +1,2 @@
+﻿@frequency filtering
+#(Tech) lọc tần số

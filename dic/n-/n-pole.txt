@@ -1,0 +1,2 @@
+﻿@n-pole
+#cực điểm cấp n

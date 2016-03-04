@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#quy hoạch đô thị
+@Lĩnh vực: xây dựng
+#quy hoạch thành phố
+@Lĩnh vực: cơ khí & công trình
+#xây dựng đô thị

@@ -1,0 +1,2 @@
+﻿@Required reserve ratio
+#(Econ) Tỷ lệ dự trữ bắt buộc.

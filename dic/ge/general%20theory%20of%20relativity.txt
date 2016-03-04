@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#lý thuyết tương đối tổng quát
+#thuyết tương đối rộng
+@Lĩnh vực: điện lạnh
+#thuyết tương đối tổng quát

@@ -1,0 +1,6 @@
+﻿@arithmetic instruction
+#(Tech) chỉ thị số học
+@Chuyên ngành kỹ thuật
+#lệnh số học
+@Lĩnh vực: toán & tin
+#lệnh toán

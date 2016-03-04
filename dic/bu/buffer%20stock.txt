@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#hàng trữ đệm
+#kho đệm
+#kho điều hòa
+#sản phẩm thương mại
+#tồn kho bình chuẩn
+@Chuyên ngành kỹ thuật
+#nguyên liệu đệm
+#nguyên liệu điều chỉnh

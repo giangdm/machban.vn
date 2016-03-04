@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#băng tích di chuyển
+#băng tích lưu động
+@Lĩnh vực: hóa học & vật liệu
+#băng tích di động

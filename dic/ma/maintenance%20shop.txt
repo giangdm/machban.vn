@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#phân xưởng bảo trì
+#phân xưởng duy tu
+@Chuyên ngành kỹ thuật
+#xưởng sửa chữa
+@Lĩnh vực: xây dựng
+#trạm sửa chữa
+#xưởng bảo dưỡng

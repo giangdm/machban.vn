@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cầu chữ T song song
+@Lĩnh vực: điện lạnh
+#mạng T sinh đôi
+#mạng T song song

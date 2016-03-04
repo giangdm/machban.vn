@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#chương trình giao hàng
+#lịch giao hàng
+#thời gian biểu giao hàng
+@Chuyên ngành kỹ thuật
+#lịch phân phối
+@Lĩnh vực: xây dựng
+#biểu đồ cung ứng
+#kế hoạch giao hàng

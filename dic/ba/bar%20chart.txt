@@ -1,0 +1,13 @@
+﻿@bar chart
+#(Tech) biểu đồ thanh, biểu đồ dải
+@Chuyên ngành kinh tế
+#biểu đồ thanh
+@Chuyên ngành kỹ thuật
+#biểu đồ cột
+#biểu đồ thanh
+@Lĩnh vực: cơ khí & công trình
+#biểu đồ (dạng) cột
+@Lĩnh vực: điện tử & viễn thông
+#biểu đồ hình thanh
+@Lĩnh vực: toán & tin
+#biểu đồ tần suất

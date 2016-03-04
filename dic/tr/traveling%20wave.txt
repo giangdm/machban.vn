@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sóng chạy
+#sóng chuyền tới
+#sóng lan truyền
+#sóng tiến
+@Lĩnh vực: điện
+#sóng di động
+@Lĩnh vực: xây dựng
+#sóng lướt

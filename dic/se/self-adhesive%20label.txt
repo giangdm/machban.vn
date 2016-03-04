@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nhãn có keo dính sẵn, tự dính
+@Chuyên ngành kỹ thuật
+#nhãn tự dính

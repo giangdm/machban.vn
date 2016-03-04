@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#sóng ngắn
+@Lĩnh vực: điện
+#sóng SW

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đèn tia X
+@Lĩnh vực: y học
+#ống tia X

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#nguồn năng lượng riêng
+@Lĩnh vực: điện
+#được nuôi bằng ắcqui
+#nguồn riêng
+@Lĩnh vực: điện lạnh
+#tự cung cấp
+#tự nuôi

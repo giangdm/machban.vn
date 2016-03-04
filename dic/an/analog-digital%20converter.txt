@@ -1,0 +1,5 @@
+﻿@analog-digital converter
+#(Tech) bộ đổi tương tự-số tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ đổi tương tự-số

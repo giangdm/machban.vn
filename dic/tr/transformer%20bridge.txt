@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cần biến thế
+@Lĩnh vực: điện lạnh
+#cầu biến áp

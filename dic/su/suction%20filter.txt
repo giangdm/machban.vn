@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lọc chân không
+#bộ lọc hút
+@Lĩnh vực: y học
+#cái lọc chân không
+@Lĩnh vực: điện lạnh
+#phin hút
+@Lĩnh vực: xây dựng
+#thiết bị lọc kiểu hút

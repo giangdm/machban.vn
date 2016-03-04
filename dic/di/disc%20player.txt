@@ -1,0 +1,2 @@
+﻿@disc player
+#(Tech) máy quay đĩa

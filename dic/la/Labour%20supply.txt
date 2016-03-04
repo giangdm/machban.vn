@@ -1,0 +1,6 @@
+﻿@Labour supply
+#(Econ) Cung lao động.
+: Xem SUPPLT OF LABOUR.
+@Chuyên ngành kinh tế
+#cung ứng nhân công
+#sức lao động

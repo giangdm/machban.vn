@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch bán-mua kết hợp
+#giao dịch đối ứng
+#Giao dịch mua bán kết hợp (ở Hoa Kỳ)

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#bơm dầu
+@Chuyên ngành kỹ thuật
+#bơm dầu
+#nhớt
+@Lĩnh vực: cơ khí & công trình
+#bơm dầu (làm trơn)
+@Lĩnh vực: ô tô
+#bơm dầu (nhớt) bôi trơn
+@Lĩnh vực: toán & tin
+#bơm dầu, nhớt

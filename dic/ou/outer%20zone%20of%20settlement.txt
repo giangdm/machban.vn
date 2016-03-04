@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ngoại vi khu dân cư
+#vùng ngoài làng
+#vùng ven làng

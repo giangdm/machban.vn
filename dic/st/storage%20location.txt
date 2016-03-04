@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#nơi lưu trữ thông tin (trong máy tính)
+#nơi lưu trữ thông tin (trong máy vi tính)
+@Chuyên ngành kỹ thuật
+#phần tử của bộ nhớ
+#vị trí lưu trữ
+#vị trí nhớ
+@Lĩnh vực: toán & tin
+#mắt nhớ
+#vị trí bộ lưu trữ
+#vị trí bộ nhớ
+#vị trí lưu giữ
+#vùng nhớ

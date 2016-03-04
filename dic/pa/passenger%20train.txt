@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#tàu chợ
+#xe lửa chở khách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tàu chở hành khách
+@Lĩnh vực: giao thông & vận tải
+#tàu khách

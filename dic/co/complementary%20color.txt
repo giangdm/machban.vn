@@ -1,0 +1,7 @@
+﻿@complementary color
+#(Tech) mầu phụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#màu bổ sung
+@Lĩnh vực: vật lý
+#màu phụ

@@ -1,0 +1,4 @@
+﻿@Corporate state
+#(Econ) Địa phận của hợp doanh; Nhà nước công ty.
+@Chuyên ngành kinh tế
+#nhà nước công ty

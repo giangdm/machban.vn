@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#tài sản cố định
+@Chuyên ngành kỹ thuật
+#bất động sản
+#tài sản cố định
+@Lĩnh vực: xây dựng
+#vốn cố định
+@Chuyên ngành kỹ thuật
+#bất động sản
+#tài sản cố định
+@Lĩnh vực: xây dựng
+#vốn cố định

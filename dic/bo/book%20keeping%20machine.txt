@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#máy ghi sổ sách
+@Chuyên ngành kỹ thuật
+#máy kế toán

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#hồ chứa lũ
+#hồ điều tiết lũ
+#hồ làm chậm lũ
+@Lĩnh vực: cơ khí & công trình
+#hồ cắt lũ
+@Chuyên ngành kỹ thuật
+#hồ chứa lũ
+#hồ điều tiết lũ
+#hồ làm chậm lũ
+@Lĩnh vực: cơ khí & công trình
+#hồ cắt lũ

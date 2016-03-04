@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hãm bằng dòng điện xoáy
+@Lĩnh vực: điện
+#sự hãm dòng điện xoáy

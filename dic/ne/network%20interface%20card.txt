@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cạc giao diện mạng
+#tấm mạch khớp nối mạng
+@Lĩnh vực: điện tử & viễn thông
+#các giao trên mạng

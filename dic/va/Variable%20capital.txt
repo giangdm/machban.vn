@@ -1,0 +1,6 @@
+﻿@Variable capital
+#(Econ) Vốn (tư bản) khả biến.
+: Trong học thuyết của C.Mác, vốn khả biến ám chỉ phần vốn, đại diện bởi sức lao động, mà làm thay đổi giá trị trong quá trình sản xuất.
+@Chuyên ngành kinh tế
+#tư bản khả biến
+#vốn khả biến

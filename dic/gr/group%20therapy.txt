@@ -1,0 +1,6 @@
+﻿@group therapy
+*danh từ
+#phương thức trị liệu theo nhóm tâm lý
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#liệu pháp nhóm (một liệu pháp tâm lý bao gồm ít nhất hai bệnh nhân và một người điều trị)

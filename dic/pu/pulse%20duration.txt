@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ rộng xung
+@Lĩnh vực: toán & tin
+#bề rộng của xung
+@Lĩnh vực: điện tử & viễn thông
+#khoảng thời gian xung

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ ăng ten khử ồn
+#hệ ăng ten khử tạp nhiễu

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự chưa đủ nồng độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nồng độ không đủ
+#nồng độ thiếu

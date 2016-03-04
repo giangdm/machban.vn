@@ -1,0 +1,12 @@
+﻿@Complex number
+#(Econ) Số phức
+: Các số bao gồm những phân tử TƯỞNG TƯỢNG, nghĩa là nó chứa căn bậc hai của âm một.
+<!-- more -->
+@complex number
+#(Tech) số tạp
+@Chuyên ngành kinh tế
+#phức số
+#số phức
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số phức

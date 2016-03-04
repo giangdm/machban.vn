@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bể chứa
+#bể dự trữ
+#xitec chứa
+@Lĩnh vực: môi trường
+#bể chứa lưu giữ
+@Lĩnh vực: điện lạnh
+#thùng bảo quản

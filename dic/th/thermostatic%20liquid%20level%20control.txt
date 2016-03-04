@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh mức lỏng bằng ổn nhiệt
+#khống chế mức lỏng bằng ổn nhiệt

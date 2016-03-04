@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chốt (dừng) lập bảng
+#chốt dừng lập bảng
+@Chuyên ngành kỹ thuật
+#kết thúc bằng tab
+@Lĩnh vực: toán & tin
+#cữ dừng lập bảng
+#điểm dựng tab

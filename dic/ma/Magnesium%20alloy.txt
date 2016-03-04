@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#Hợp kim ma-nhê (Mg)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hợp kim ma nhê xi
+@Lĩnh vực: xây dựng
+#hợp kim ma-nhê-xi

@@ -1,0 +1,6 @@
+﻿@Fixed cost
+#(Econ) Chi phí cố định; định phí.
+: Đối với một hãng ngắn hạn được định nghĩa là một khoảng thời gian trong đó một số YẾU TỐ SẢN XUẤT không thể thay đổi được.
+@Chuyên ngành kinh tế
+#chi phí bất biến
+#chi phí cố định

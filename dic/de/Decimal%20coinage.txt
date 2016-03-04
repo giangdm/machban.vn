@@ -1,0 +1,5 @@
+﻿@Decimal coinage
+#(Econ) Tiền đúc ước số mười
+: Hệ thống tiền tệ dựa vào cơ sở số mười.
+@Chuyên ngành kinh tế
+#chế độ tiền tệ thập phân

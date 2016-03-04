@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#chi phí trả hết một lần
+#vận phí thuê bao
+#vận phí tính chung cả tàu

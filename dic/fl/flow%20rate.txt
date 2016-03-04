@@ -1,0 +1,31 @@
+﻿@Chuyên ngành kinh tế
+#sự hao phí chất lỏng
+#tốc độ dòng
+@Chuyên ngành kỹ thuật
+#độ chảy (của bột nhão)
+#khả năng thông qua
+#lưu lượng
+#lưu lượng (dòng chảy)
+#lưu lượng bơm
+#lưu lượng chất lỏng
+#lưu lượng của dòng chảy
+#vận tốc dòng chảy
+@Lĩnh vực: toán & tin
+#tốc độ dẻo
+@Lĩnh vực: điện lạnh
+#tốc độ dòng không khí
+#tốc độ luồng gió
+@Chuyên ngành kỹ thuật
+#độ chảy (của bột nhão)
+#khả năng thông qua
+#lưu lượng
+#lưu lượng (dòng chảy)
+#lưu lượng bơm
+#lưu lượng chất lỏng
+#lưu lượng của dòng chảy
+#vận tốc dòng chảy
+@Lĩnh vực: toán & tin
+#tốc độ dẻo
+@Lĩnh vực: điện lạnh
+#tốc độ dòng không khí
+#tốc độ luồng gió

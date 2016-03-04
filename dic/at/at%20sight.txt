@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chiếu phiếu trả tiền
+#khi xuất trình
+#sau lúc xuất trình
+#trả ngay khi xuất trình hối phiếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#khi xuất trình

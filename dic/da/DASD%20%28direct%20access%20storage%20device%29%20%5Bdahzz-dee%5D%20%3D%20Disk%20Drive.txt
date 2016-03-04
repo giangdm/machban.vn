@@ -1,0 +1,2 @@
+﻿@DASD (direct access storage device) [dahzz-dee] = Disk Drive
+#(Tech) ổ đĩa cứng

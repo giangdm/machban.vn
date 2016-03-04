@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu ra công suất
+@Lĩnh vực: điện lạnh
+#công suất hữu ích
+@Lĩnh vực: toán & tin
+#công suất ngõ ra
+#cường độ ra
+@Lĩnh vực: điện
+#công suất phát
+@Lĩnh vực: xây dựng
+#công suất phát ra

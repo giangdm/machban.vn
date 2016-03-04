@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#bạc lót (hai nửa)
+#bạc ổ trục
+#ống lót ổ trục
+@Lĩnh vực: ô tô
+#bạc lót hai nửa
+@Lĩnh vực: cơ khí & công trình
+#lớp bọc ổ trục
+@Lĩnh vực: hóa học & vật liệu
+#vỏ ổ trục

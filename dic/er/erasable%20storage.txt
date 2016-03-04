@@ -1,0 +1,10 @@
+﻿@erasable storage
+#(Tech) bộ trữ xóa được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ lưu giữ xóa được
+#bộ nhớ xóa được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ lưu giữ xóa được
+#bộ nhớ xóa được

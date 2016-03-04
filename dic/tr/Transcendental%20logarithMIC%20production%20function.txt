@@ -1,0 +1,3 @@
+﻿@Transcendental logarithMIC production function
+#(Econ) Hàm sản xuất trừu tượng dạng logarit
+: Xem TRANSLOG PRODUCTION FUNCTION.

@@ -1,0 +1,20 @@
+﻿@electrical installation
+#(Tech) lắp điện; thiết bị điện
+@Chuyên ngành kỹ thuật
+#thiết bị điện
+@Lĩnh vực: xây dựng
+#sự trang bị điện
+@Lĩnh vực: điện lạnh
+#trang thiết bị điện
+@Lĩnh vực: điện
+#việc lắp đặt điện
+#việc thiết trí điện
+@Chuyên ngành kỹ thuật
+#thiết bị điện
+@Lĩnh vực: xây dựng
+#sự trang bị điện
+@Lĩnh vực: điện lạnh
+#trang thiết bị điện
+@Lĩnh vực: điện
+#việc lắp đặt điện
+#việc thiết trí điện

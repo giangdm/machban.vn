@@ -1,0 +1,5 @@
+﻿@dial exchange
+#(Tech) (tổng đài) hoán chuyển quay số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tổng đài quay số

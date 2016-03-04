@@ -1,0 +1,11 @@
+﻿@Standard error
+#(Econ) Sai số chuẩn
+: Một số đo mức độ mà một THỐNG KÊ được tính toán phân tán xung quanh TRUNG BÌNH của nó.
+@Chuyên ngành kinh tế
+#sai sót tiêu chuẩn
+@Chuyên ngành kỹ thuật
+#độ sai chuẩn
+#lỗi chuẩn
+#sai số chuẩn
+@Lĩnh vực: y học
+#sai số chuẩn (của số trung bình)

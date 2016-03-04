@@ -1,0 +1,2 @@
+﻿@gate closing pulse
+#(Tech) xung đóng cổng

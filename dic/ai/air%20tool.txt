@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#công cụ khí nén
+#dụng cụ khí nén
+@Lĩnh vực: hóa học & vật liệu
+#dụng cụ chạy khí nén
+@Lĩnh vực: xây dựng
+#dụng cụ chạy khí nến

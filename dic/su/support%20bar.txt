@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thanh tựa
+@Lĩnh vực: xây dựng
+#thanh gối
+@Lĩnh vực: toán & tin
+#thanh gối, thanh tựa

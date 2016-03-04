@@ -1,0 +1,2 @@
+﻿@current average
+#(Tech) trung bình cường độ

@@ -1,0 +1,16 @@
+﻿@Labour force
+#(Econ) Lực lượng lao động.
+: Lực lượng lao động bao gồm những người đang làm việc và đang tìm việc, nó bao gồm những người có việc làm và cả những người thất nghiệp.
+<!-- more -->
+@labour force /'leibə'fɔ:s/
+*danh từ
+#lực lượng lao động (của một xí nghiệp, một vùng...)
+@Chuyên ngành kinh tế
+#dân lao động
+#lực lượng lao động
+#nhân số lao động
+#nhân số lao động, dân số lao động
+@Chuyên ngành kỹ thuật
+#nhân lực
+@Chuyên ngành kỹ thuật
+#nhân lực

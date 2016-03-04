@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#ô tô chở gỗ
+@Lĩnh vực: xây dựng
+#xe chở gỗ cây

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chữ số chỉ dấu
+#chữ số dấu
+#chữ số đầu
+#chữ số mang dấu
+#hàng chỉ dấu
+#số có dấu

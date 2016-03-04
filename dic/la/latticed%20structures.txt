@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#kết cấu lưới
+#kết cấu rỗng
+@Lĩnh vực: xây dựng
+#kết cấu thanh
+@Chuyên ngành kỹ thuật
+#kết cấu lưới
+#kết cấu rỗng
+@Lĩnh vực: xây dựng
+#kết cấu thanh

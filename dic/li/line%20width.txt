@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ rộng dòng
+#khổ dòng
+@Lĩnh vực: vật lý
+#độ rộng vạch phổ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ rộng dòng
+#khổ dòng
+@Lĩnh vực: vật lý
+#độ rộng vạch phổ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hiệu ứng Joule-Thomson
+#sự giãn nở Joule-Thomson
+@Lĩnh vực: điện lạnh
+#giãn nở Joule-Thomson
+#quá trình Joule-Thomson

@@ -1,0 +1,7 @@
+﻿@configurational
+#xem configuration
+@Chuyên ngành kỹ thuật
+#hình dạng
+#hình thể
+@Lĩnh vực: toán & tin
+#thuộc cấu hình

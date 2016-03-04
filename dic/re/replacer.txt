@@ -1,0 +1,3 @@
+﻿@replacer
+*danh từ
+#sản phẩm thay thế; thế phẩm

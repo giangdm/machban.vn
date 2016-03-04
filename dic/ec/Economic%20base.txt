@@ -1,0 +1,5 @@
+﻿@Economic base
+#(Econ) Cơ sở kinh tế.
+: Những hoạt đông kinh tế mà sự tăng trưởng và phát triển của chúng được coi là có vai trò quyết địng đối với  tăng trưởng kinh tế của một vùng hay của một thị trấn.
+@Chuyên ngành kinh tế
+#cơ sở kinh tế

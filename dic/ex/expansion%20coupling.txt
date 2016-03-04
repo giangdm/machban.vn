@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp tự lựa
+#mối ghép bù giãn nở
+@Lĩnh vực: xây dựng
+#khớp nối kéo dài
+@Lĩnh vực: cơ khí & công trình
+#mối ghép bù trừ
+@Chuyên ngành kỹ thuật
+#khớp tự lựa
+#mối ghép bù giãn nở
+@Lĩnh vực: xây dựng
+#khớp nối kéo dài
+@Lĩnh vực: cơ khí & công trình
+#mối ghép bù trừ

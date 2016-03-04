@@ -1,0 +1,3 @@
+﻿@Reduced form (RF)
+#(Econ) Dạng rút gọn.
+: Là các dạng của một tập hợp CÁC PHƯƠNG TRÌNH ĐỒNG THỜI trong đó các biến số nội sinh đươc biểu thị như là các hàm của các BIẾN SỐ NGOẠI SINH, nghĩa là không có biến số nội sinh nào xuất hiện phía bên phải của các phương trình.

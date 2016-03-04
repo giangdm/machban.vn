@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ tách khối
+#ký tự phân chia khối
+@Lĩnh vực: điện tử & viễn thông
+#dấu tách khối

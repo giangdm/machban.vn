@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#áp lực chênh
+#áp suất chênh
+#độ chênh áp suất
+#sự chênh lệch áp suất
+@Lĩnh vực: xây dựng
+#chênh áp lực

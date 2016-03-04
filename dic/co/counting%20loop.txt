@@ -1,0 +1,5 @@
+﻿@counting loop
+#(Tech) vòng đếm, vòng tính số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vòng lặp đếm

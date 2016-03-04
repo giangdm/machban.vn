@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ điều hành cơ sở
+@Lĩnh vực: toán & tin
+#hệ điều hành cơ bản

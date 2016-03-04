@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#trạm đổ xăng
+@Chuyên ngành kỹ thuật
+#trạm bán xăng dầu
+@Lĩnh vực: ô tô
+#trạm (cây) xăng
+@Lĩnh vực: xây dựng
+#trạm điều chỉnh áp lực

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ chỉ báo chế độ
+#chỉ báo chế độ
+#chỉ thị chế độ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bức xạ không điện hóa
+#bức xạ không ly hóa
+@Lĩnh vực: vật lý
+#bức xạ không iôn hóa

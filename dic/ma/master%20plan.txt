@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kinh tế
+#chiến lược tổng thể
+#kế hoạch chủ đạo
+#kế hoạch tổng thể
+#tổng kế hoạch
+#tổng quy hoạch
+@Chuyên ngành kỹ thuật
+#mặt bằng chung
+#quy hoạch chung
+#quy hoạch tổng thể
+#tổng mặt bằng
+@Lĩnh vực: cơ khí & công trình
+#kế hoạch chỉ đạo
+@Lĩnh vực: xây dựng
+#mặt bằng chủ yếu
+#qui hoạch chung
+#tổng sơ đồ

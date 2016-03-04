@@ -1,0 +1,2 @@
+﻿@direct line subscriber
+#(Tech) người thuê bao đường dây trực tiếp

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#vận đơn chậm (giao sau khi hàng đến)
+#vận đơn chậm (xuất trình)
+#vận đơn mất hiệu lực
+#vận đơn quá hạn

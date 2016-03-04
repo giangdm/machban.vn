@@ -1,0 +1,2 @@
+﻿@escape sequence code
+#(Tech) mã trình tự thoát, mã nối tiếp khuyếch trương (ký tự) [NB]

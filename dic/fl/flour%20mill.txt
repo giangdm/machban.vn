@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#cối xay bột
+#nhà máy bột
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#xưởng xay bột
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#xưởng xay bột

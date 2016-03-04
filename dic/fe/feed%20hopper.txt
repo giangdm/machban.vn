@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#phễu rót
+#thùng nạp
+@Chuyên ngành kỹ thuật
+#bunke xếp liệu
+#phễu đổ liệu
+#phễu đổ phôi (ép đùn)
+#phễu tiếp liệu
+@Chuyên ngành kỹ thuật
+#bunke xếp liệu
+#phễu đổ liệu
+#phễu đổ phôi (ép đùn)
+#phễu tiếp liệu

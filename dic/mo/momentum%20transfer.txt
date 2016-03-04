@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chuyển xung lượng
+@Lĩnh vực: điện tử & viễn thông
+#sự chuyển giao động lượng
+@Lĩnh vực: toán & tin
+#sự truyền động lượng

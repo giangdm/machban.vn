@@ -1,0 +1,9 @@
+﻿@Natural resources
+#(Econ) Tài nguyên thiên nhiên.
+: Là những hiện tượng vật chất của thiên nhiên nảy sinh một cách tự do trong phạm ví những ranh giới của hoạt động của con người.
+@Chuyên ngành kinh tế
+#tài nguyên thiên nhiên
+@Chuyên ngành kỹ thuật
+#nguồn lợi thiên nhiên
+@Lĩnh vực: xây dựng
+#tài nguyên tự nhiên

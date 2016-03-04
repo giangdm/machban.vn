@@ -1,0 +1,3 @@
+﻿@Redundancies
+#(Econ) Nhân viên thừa.
+: Những người mất việc không tự nguyện do yêu cầu về nhân lực của doanh nghiệp giảm.

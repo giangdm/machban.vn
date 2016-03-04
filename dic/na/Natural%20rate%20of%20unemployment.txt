@@ -1,0 +1,6 @@
+﻿@Natural rate of unemployment
+#(Econ) Tỷ lệ thất nghiệp tự nhiên.
+: Là tỷ lệ thất nghiệp được ngầm hiểu theo cơ cấu hiện đại của nền kinh tế. Tỷ lệ thất nghiệp này được xác định bởi các tác nhân cơ cấu và tác nhân dai dẳng trong nền kinh tế, những tác nhân nay không hề giảm bớt khi tăng tổng cầu Đường Philips thẳng đứng cho ta thấy rằng bất kỳ nỗ lực nào trong việc giữ cho việc giữ cho mức thất nghiệp thấp hơn tỷ lệ tự nhiên của nó sẽ làm gia tăng lạm phát.
+@Chuyên ngành kinh tế
+#mức thất nghiệp tự nhiên
+#tỉ lệ, mức thất nghiệp tự nhiên

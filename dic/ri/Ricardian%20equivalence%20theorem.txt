@@ -1,0 +1,3 @@
+﻿@Ricardian equivalence theorem
+#(Econ) Định lý Ricardo về tính tương đương .
+: Theo định lý này, việc đánh thuế và việc phát hành nợ của nhính phủ, khi được sử dụng như một công cụ tài trợ cho chi tiêu ngắn hạn của chính phủ, đều có các hiệu ứng tương đương với nhau đối với nền kinh tế.

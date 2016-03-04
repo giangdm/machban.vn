@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đường chọn trước tiên
+#đường trực tiếp
+@Lĩnh vực: điện lạnh
+#đường sử dụng nhiều

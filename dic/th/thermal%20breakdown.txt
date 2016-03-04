@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phá hủy nhiệt
+@Lĩnh vực: điện lạnh
+#đánh thủng nhiệt
+@Lĩnh vực: điện tử & viễn thông
+#sự đánh thủng nhiệt (bán dẫn)

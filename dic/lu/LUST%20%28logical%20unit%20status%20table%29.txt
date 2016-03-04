@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng trạng thái LU
+#bảng trạng thái thiết bị logic

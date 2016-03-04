@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#cái kẹp ống
+@Lĩnh vực: hóa học & vật liệu
+#bộ kẹp ống
+#khóa giữ ống khoan
+@Lĩnh vực: xây dựng
+#cái cặp ống
+@Lĩnh vực: điện
+#kìm cặp ống

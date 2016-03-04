@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Các khuyến nghị G.703/G704 của ITU về các đặc trưng vật lý/điện của các giao diện số phân cấp

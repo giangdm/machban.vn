@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mômen khởi động
+@Lĩnh vực: hóa học & vật liệu
+#mômen quay khởi động
+@Lĩnh vực: giao thông & vận tải
+#mômen xoắn khởi động

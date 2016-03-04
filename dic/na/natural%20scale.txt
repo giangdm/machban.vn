@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#kích cỡ tự nhiên
+@Chuyên ngành kỹ thuật
+#kích thước thực
+#trị số thực
+@Lĩnh vực: điện lạnh
+#âm giai tự nhiên
+@Lĩnh vực: cơ khí & công trình
+#độ lớn thực

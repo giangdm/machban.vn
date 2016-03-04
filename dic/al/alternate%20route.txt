@@ -1,0 +1,10 @@
+﻿@alternate route
+#(Tech) đường vòng [NB]
+@Chuyên ngành kỹ thuật
+#đường vòng
+#phương án tuyến
+@Lĩnh vực: điện tử & viễn thông
+#đường thay thế
+@Lĩnh vực: toán & tin
+#đường truyền thay thế
+#tuyến luân phiên

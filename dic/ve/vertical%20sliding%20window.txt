@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cửa sổ có cánh trượt đứng
+#cửa sổ đẩy đứng
+#cửa sổ trượt theo chiều đứng

@@ -1,0 +1,6 @@
+﻿@Contingency reserve
+#(Econ) Dự trữ phát sinh
+: Dự trữ không phân bổ dành cho sự cố bất thường và các nhu cầu khác, nó không thể được định lượng khi xem xét các kế hoạch chi tiêu định lượng của Anh.
+@Chuyên ngành kinh tế
+#dự phòng
+#dự trữ tùy thuộc

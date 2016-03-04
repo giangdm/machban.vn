@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#mỡ có độ nóng chảy thấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#mỡ mềm

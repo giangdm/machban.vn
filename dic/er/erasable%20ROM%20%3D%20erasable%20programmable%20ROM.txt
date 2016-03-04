@@ -1,0 +1,2 @@
+﻿@erasable ROM = erasable programmable ROM
+#(Tech)

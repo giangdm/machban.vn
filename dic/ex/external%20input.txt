@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#đầu vào bên ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đầu vào ngoài
+#sự nhập từ ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đầu vào ngoài
+#sự nhập từ ngoài

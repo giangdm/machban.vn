@@ -1,0 +1,2 @@
+﻿@electron wavelength
+#(Tech) độ dài sóng điện tử

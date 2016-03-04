@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị đốt nóng kiểu ống
+#thiết bị thanh trùng kiểu ống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị nung kiểu ống

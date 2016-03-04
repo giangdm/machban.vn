@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#bồn mạ
+@Lĩnh vực: xây dựng
+#sự nhúng trong kẽm

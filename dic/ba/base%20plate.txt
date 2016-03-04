@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#bản gối
+#bản tựa
+#bệ
+#đá cột
+#đế cột
+#đế tựa
+#nền
+#móng
+#tấm nền
+@Lĩnh vực: xây dựng
+#bản đế (của cột)
+#đệm cột
+#tấm đệm cửa
+@Lĩnh vực: giao thông & vận tải
+#bản đệm thép (đế ray)
+@Lĩnh vực: cơ khí & công trình
+#bản đồ thực địa gốc
+@Lĩnh vực: điện
+#tấm để

@@ -1,0 +1,17 @@
+﻿@up-to-date /' pt 'deit/
+*tính từ
+#(thuộc) kiểu mới nhất, hiện đại (hàng)
+#cập nhật (sổ sách)
+@Chuyên ngành kinh tế
+#cập nhật
+#hiện đại
+#hợp thời thượng
+#kiểu mới
+@Chuyên ngành kỹ thuật
+#cập nhật
+#hiện đại
+@Lĩnh vực: toán & tin
+#hiện đại, cập nhật
+<!-- more -->
+@up-to-date
+#hiện đại

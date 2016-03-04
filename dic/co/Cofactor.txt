@@ -1,0 +1,10 @@
+﻿@Cofactor
+#(Econ) Đồng hệ số.
+: Đồng hệ số của một phần tử trong một ma trận là ĐỊNH THỨC của ma trận mới được tạo nên bằng cách xoá hàng và cột của ma trận gốc có chứa phần tử đó.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#đồng yếu tố
+<!-- more -->
+@cofactor
+*danh từ
+#(toán học) phần phụ đại số

@@ -1,0 +1,2 @@
+﻿@accounting journal
+#(Tech) biên bản kế toán, nhật ký kế toán

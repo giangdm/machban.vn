@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giá trị gộp trên sổ sách
+#giá trị kế toán gộp
+#tổng giá trị trên sổ sách

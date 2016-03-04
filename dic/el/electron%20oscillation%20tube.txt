@@ -1,0 +1,2 @@
+﻿@electron oscillation tube
+#(Tech) ống dao động điện tử

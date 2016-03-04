@@ -1,0 +1,6 @@
+﻿@International liquidity
+#(Econ) Thanh khoản quốc tế.
+: Phân tích đến cùng, các khoản nợ giữa các nước khác nhau được giải quyết bằng cách chuyển giao các phương tiện thanh toán được quốc tế chấp nhận như: vàng, một hoặc nhiều ĐỒNG TIỀN DỰ TRỮ chủ yếu, hoặc trong phạm vi hẹp hơn là các QUYỀN RÚT TIỀN ĐẶC BIỆT (SDRs).
+@Chuyên ngành kinh tế
+#khả năng thanh toán quốc tế
+#phương tiện thanh toán quốc tế

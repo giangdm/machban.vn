@@ -1,0 +1,7 @@
+﻿@access hole
+#<tin> khe đầu từ
+@Chuyên ngành kỹ thuật
+#lỗ kiểm tra
+#lỗ quan sát
+#lỗ thăm
+#lỗ thông

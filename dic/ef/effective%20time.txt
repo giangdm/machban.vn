@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#thời gian hữu hiệu
+#thời gian tiêu hao thực tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thời gian hiệu dụng
+#thời gian hữu hiệu
+@Lĩnh vực: điện lạnh
+#thời gian hữu ích

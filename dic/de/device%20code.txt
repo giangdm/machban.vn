@@ -1,0 +1,6 @@
+﻿@device code
+#(Tech) mã thiết bị
+@Chuyên ngành kỹ thuật
+#mã thiết bị
+@Lĩnh vực: toán & tin
+#cờ thiết bị

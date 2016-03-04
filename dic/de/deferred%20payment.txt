@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#số tiền (hàng) trả từng kỳ
+#sự trả chậm
+#trả chậm
+#trả theo định kỳ
+#trả tiền sau

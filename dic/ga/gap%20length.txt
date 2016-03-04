@@ -1,0 +1,5 @@
+﻿@gap length
+#(Tech) độ dài khoảng hở, độ dài khe
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#độ dài khe

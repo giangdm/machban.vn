@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng bít
+#vòng đệm
+#vòng đệm kín
+#vòng găng
+@Lĩnh vực: hóa học & vật liệu
+#vòng đệm chặt
+#vòng làm chặt
+@Lĩnh vực: xây dựng
+#vòng nêm
+@Lĩnh vực: toán & tin
+#vòng nêm, vòng đệm

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#máy chọn lọc quang điện
+@Lĩnh vực: đo lường & điều khiển
+#máy phân loại quang điện

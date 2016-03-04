@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#trụ chính
+#xi lanh hãm chính
+@Lĩnh vực: xây dựng
+#ống xi-lanh chính
+@Lĩnh vực: hóa học & vật liệu
+#xi lanh chính
+@Lĩnh vực: ô tô
+#xylanh cái (phanh)
+@Lĩnh vực: cơ khí & công trình
+#xylanh thắng cái

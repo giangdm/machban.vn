@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kiểm soát cú pháp
+@Lĩnh vực: toán & tin
+#sự kiểm tra cú pháp

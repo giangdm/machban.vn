@@ -1,0 +1,5 @@
+﻿@assembly program
+#(Tech) chương trình dịch mã số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình hợp dịch

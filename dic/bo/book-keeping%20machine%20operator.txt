@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#người thao tác máy kế toán
+#người vận hành máy kế toán

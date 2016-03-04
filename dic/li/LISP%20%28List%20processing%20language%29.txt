@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ lập trình LISP
+#ngôn ngữ xử lý danh sách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ lập trình LISP
+#ngôn ngữ xử lý danh sách

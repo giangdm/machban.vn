@@ -1,0 +1,2 @@
+﻿@computer print out
+#(Tech) bản in bằng máy điện toán

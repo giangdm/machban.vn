@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất áp kế
+@Lĩnh vực: xây dựng
+#áp suất (theo) áp kế
+@Lĩnh vực: y học
+#áp suất của áp kế

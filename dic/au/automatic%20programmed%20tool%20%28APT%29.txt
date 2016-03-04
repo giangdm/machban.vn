@@ -1,0 +1,2 @@
+﻿@automatic programmed tool (APT)
+#(Tech) công cụ thảo chương tự động

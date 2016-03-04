@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tổ thiết kế
+@Chuyên ngành kỹ thuật
+#mặt cắt thiết kế
+#mặt cắt tính toán

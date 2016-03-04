@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#điều chỉnh
+#sự kiểm soát cơ năng
+@Lĩnh vực: cơ khí & công trình
+#công suất điều khiển
+#đòn khởi động
+#sự điều chỉnh công suất
+#sự điều khiển lực
+@Lĩnh vực: hóa học & vật liệu
+#điều khiển công suất
+@Lĩnh vực: điện tử & viễn thông
+#sự điều khiển công suất

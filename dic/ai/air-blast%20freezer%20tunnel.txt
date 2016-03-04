@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hầm lạnh nhanh có băng tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hầm kết đông dùng quạt gió

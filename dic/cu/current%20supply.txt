@@ -1,0 +1,2 @@
+﻿@current supply
+#(Tech) nguồn dòng điện

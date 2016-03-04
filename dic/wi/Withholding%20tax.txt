@@ -1,0 +1,7 @@
+﻿@Withholding tax
+#(Econ) Thuế chuyển lợi nhuận về nước.
+: Thông thường là thứ thuế đánh vào cổ tức và tiền lãi do một công ty trả ra nước ngoài.
+@Chuyên ngành kinh tế
+#khoản thu thuế thu nhập
+#thuế khấu lưu
+#thuế lợi tức

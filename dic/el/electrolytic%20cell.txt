@@ -1,0 +1,12 @@
+﻿@electrolytic cell
+#(Tech) pin điện giải
+@Chuyên ngành kỹ thuật
+#bể điện phân
+#bình điện phân
+@Lĩnh vực: hóa học & vật liệu
+#pin điện phân
+@Chuyên ngành kỹ thuật
+#bể điện phân
+#bình điện phân
+@Lĩnh vực: hóa học & vật liệu
+#pin điện phân

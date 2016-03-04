@@ -1,0 +1,12 @@
+﻿@film resistor
+#(Tech) cái điện trở màng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện trở màng
+@Lĩnh vực: điện
+#điện trở màng mỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điện trở màng
+@Lĩnh vực: điện
+#điện trở màng mỏng

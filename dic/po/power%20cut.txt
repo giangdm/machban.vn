@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#cúp điện
+#sự cắt điện
+#sự cúp điện
+@Chuyên ngành kỹ thuật
+#sự cắt điện
+@Lĩnh vực: điện lạnh
+#cắt mạch
+#cắt nguồn điện

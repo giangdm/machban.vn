@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bắt đầu-kết thúc đồng bộ
+@Lĩnh vực: điện tử & viễn thông
+#sự điều bộ khởi dừng
+#sự điều bộ phi nhịp

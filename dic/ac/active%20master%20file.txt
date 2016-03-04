@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin chính hoạt động
+#tệp chỉ hoạt động
+#tệp chủ tích cực

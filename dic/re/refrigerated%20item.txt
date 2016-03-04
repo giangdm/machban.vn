@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sản phẩm được làm lạnh
+@Chuyên ngành kỹ thuật
+#sản phẩm được làm lạnh
+@Lĩnh vực: điện lạnh
+#mặt hàng được làm lạnh

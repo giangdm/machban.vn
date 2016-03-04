@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#mô hình quyết định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#mô hình phán quyết

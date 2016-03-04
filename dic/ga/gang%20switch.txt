@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chuyển mạch ghép liền
+@Lĩnh vực: điện lạnh
+#bộ chuyển mạch liên động
+@Lĩnh vực: điện
+#bộ công tắc
+#công tắc giàn
+#thiết bị chuyển mạch ghép liền

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thị trường mẫn cảm
+#thị trường nhạy cảm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thị trường dễ biến động

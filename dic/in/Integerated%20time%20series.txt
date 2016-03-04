@@ -1,0 +1,2 @@
+﻿@Integerated time series
+#(Econ) Chuỗi thời gian được lấy tích phân.

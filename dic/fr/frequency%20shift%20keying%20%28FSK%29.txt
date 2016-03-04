@@ -1,0 +1,5 @@
+﻿@frequency shift keying (FSK)
+#(Tech) gõ di tần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khóa di tần, điều chế di tần

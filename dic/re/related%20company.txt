@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công ty con
+#công ty liên doanh
+#công ty liên hệ
+#công ty liên hệ, công ty liên doanh, công ty con
+#công ty liên kết
+#công ty liên quan

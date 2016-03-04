@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp cách ly dạng sợi
+#lớp cách ly dùng sợi
+@Lĩnh vực: điện lạnh
+#cách nhiệt dạng bông
+#cách nhiệt dạng sợi
+#sự cách nhiệt dạng sợi
+@Chuyên ngành kỹ thuật
+#lớp cách ly dạng sợi
+#lớp cách ly dùng sợi
+@Lĩnh vực: điện lạnh
+#cách nhiệt dạng bông
+#cách nhiệt dạng sợi
+#sự cách nhiệt dạng sợi

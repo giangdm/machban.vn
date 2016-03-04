@@ -1,0 +1,12 @@
+﻿@job description
+*danh từ
+#sự mô tả chi tiết về công việc
+@Chuyên ngành kinh tế
+#mô tả việc làm
+#thuyết minh, mô tải việc làm
+@Chuyên ngành kỹ thuật
+#sự đặc tả công việc
+#sự miêu tả công việc
+#sự mô tả công việc
+@Lĩnh vực: giao thông & vận tải
+#bản mô tả công việc

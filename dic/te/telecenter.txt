@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#telecentre
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trung tâm (xử lý) từ xa

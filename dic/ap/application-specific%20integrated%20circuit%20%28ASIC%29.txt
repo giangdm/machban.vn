@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy tích hợp chuyên dụng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ASIC
+#mạch tích hợp ứng dụng đặc biệt

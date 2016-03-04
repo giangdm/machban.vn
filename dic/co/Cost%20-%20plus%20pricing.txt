@@ -1,0 +1,3 @@
+﻿@Cost - plus pricing
+#(Econ) Cách định giá chi phí-cộng lợi; Cách định giá dựa vào chi phí và cộng thêm lợi nhuận.
+: Là định giá bằng cách cộng thêm một khoản lợi nhuận vào CHI PHÍ KHẢ BIẾN BÌNH QUÂN nhằm trang trải CHI PHÍ CỐ ĐỊNH và một mức lợi nhuận hợp lý nào đó.

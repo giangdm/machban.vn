@@ -1,0 +1,3 @@
+﻿@Translog production function
+#(Econ) Hàm sản xuất chuyển dạng lô-ga-rít.
+: Hàm sản xuất trừu tượng dạng lô-ga-rít.Là dạng tổng quát của hàm sản xuất COBB-DOUGLAS.

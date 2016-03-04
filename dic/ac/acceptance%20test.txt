@@ -1,0 +1,25 @@
+﻿- (tin học) kiểm nhận. Một cuộc đánh giá hình thức do khách àhng tiến hành, thường là tại nhà máy, để kiểm chứng nhà chế tạo có đáp ứng được các tính năng kỹ thuật theo như hợp đồng và xem một thiết bị có vận hành như mong muốn hay không.
+@Chuyên ngành kỹ thuật
+#phép kiểm tra sự chấp nhận
+#sự kiểm tra nghiệm thu
+#sự thí nghiệm nghiệm thu
+#sự thử nghiệm thu
+@Lĩnh vực: toán & tin
+#kiểm nhận
+#kiểm tra để chấp nhận
+#kiểm tra để nghiệm thu
+#kiểm tra nhận hàng
+#sự thí nghiệm thu
+#tự kiểm nhận
+@Lĩnh vực: hóa học & vật liệu
+#sự thử độ tiếp nhận
+@Lĩnh vực: xây dựng
+#sự thử nghiệm nghiệm thu
+#thí nghiệm nghiệm thu
+@Lĩnh vực: điện tử & viễn thông
+#sự thử việc thu nhận
+@Lĩnh vực: điện
+#thử (nghiệm) nghiệm thu
+#thử nghiệm chấp nhận được
+@Lĩnh vực: điện lạnh
+#thử nghiệm thu

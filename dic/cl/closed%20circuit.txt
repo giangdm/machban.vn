@@ -1,0 +1,10 @@
+﻿@closed circuit
+#(Tech) mạch kín
+@Chuyên ngành kinh tế
+#mạch đóng
+@Chuyên ngành kỹ thuật
+#mạch đóng
+#mạch động
+#mạch kín
+@Lĩnh vực: xây dựng
+#chu trình khép kín

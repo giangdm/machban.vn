@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản vẽ phóng đại
+@Lĩnh vực: cơ khí & công trình
+#bản vẽ tỷ lệ lớn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản vẽ phóng đại
+@Lĩnh vực: cơ khí & công trình
+#bản vẽ tỷ lệ lớn

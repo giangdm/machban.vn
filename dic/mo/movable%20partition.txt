@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vách ngăn cơ động
+#vách ngăn di chuyển được
+#vách ngăn di động

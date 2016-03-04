@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#khe phóng điện đo
+#khe phóng điện hình cầu

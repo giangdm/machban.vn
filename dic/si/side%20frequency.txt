@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biên tần
+@Lĩnh vực: điện
+#tần số biên
+@Lĩnh vực: điện lạnh
+#tần số dải biên

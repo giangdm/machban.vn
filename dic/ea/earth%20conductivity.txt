@@ -1,0 +1,2 @@
+﻿@earth conductivity
+#(Tech) tính dẫn điện của đất

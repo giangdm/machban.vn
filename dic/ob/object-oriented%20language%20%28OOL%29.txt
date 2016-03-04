@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#ngôn ngữ hướng đối tượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ định hướng đối tượng

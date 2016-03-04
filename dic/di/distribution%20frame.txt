@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng phân phối
+@Lĩnh vực: toán & tin
+#khung phân phối
+@Lĩnh vực: điện tử & viễn thông
+#thanh chuyển

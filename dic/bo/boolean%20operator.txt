@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#toán tử logic
+#toán tử luận lý
+@Lĩnh vực: toán & tin
+#toán tử lôgic
+#toán tử luân lý
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#toán tử Boole

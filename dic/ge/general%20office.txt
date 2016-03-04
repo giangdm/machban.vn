@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phòng hành chính tổng hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#văn phòng tổng hợp

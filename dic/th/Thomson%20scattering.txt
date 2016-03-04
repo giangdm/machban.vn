@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự tán xạ Thomson
+@Lĩnh vực: điện lạnh
+#tán xạ Thomson

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#bảng biên chế (xí nghiệp)
+#biểu đồ các tổ chức
+#biều đồ tổ chức
+#biểu đồ tổ chức
+@Chuyên ngành kỹ thuật
+#biểu đồ tổ chức
+#lưu đồ tổ chức
+@Lĩnh vực: toán & tin
+#sơ đồ tổ chức

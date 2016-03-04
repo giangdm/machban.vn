@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhị phân theo bó
+#sự truyền BSC theo bó
+#truyền thông đồng bộ

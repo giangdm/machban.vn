@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy gọi tự động
+@Lĩnh vực: toán & tin
+#khối tự động gọi
+#thiết bị gọi tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khối gọi tự động

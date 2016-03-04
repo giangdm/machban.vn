@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mạch cộng hưởng song
+#mạch cộng hưởng song hàng

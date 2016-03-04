@@ -1,0 +1,2 @@
+﻿@Velocity of money
+#(Econ) Vòng quay của tiền, tốc độ lưu chuyển của tiền.

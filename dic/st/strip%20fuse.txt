@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#lá mỏng
+@Lĩnh vực: điện
+#cầu chì dạng tấm
+#cầu chì loại miếng mỏng
+#cầu trì mỏng
+@Lĩnh vực: toán & tin
+#cầu chì mỏng
+#thanh cầu chì
+@Lĩnh vực: xây dựng
+#thanh cầu trì

@@ -1,0 +1,4 @@
+﻿@conditional implication
+#(Tech) liên quan tùy điều kiện
+@Chuyên ngành kỹ thuật
+#thao tác nếu-thì

@@ -1,0 +1,24 @@
+﻿@life raft
+#bè cứu đắm(có thể bơm phồng lên)
+@Chuyên ngành kỹ thuật
+#bè cứu hộ
+#bè cứu sinh
+#phao cứu sinh
+@Lĩnh vực: điện tử & viễn thông
+#bè cấp cứu
+#bè câu phao
+@Lĩnh vực: xây dựng
+#mảng cứu nguy
+@Lĩnh vực: giao thông & vận tải
+#phà cứu đắm
+@Chuyên ngành kỹ thuật
+#bè cứu hộ
+#bè cứu sinh
+#phao cứu sinh
+@Lĩnh vực: điện tử & viễn thông
+#bè cấp cứu
+#bè câu phao
+@Lĩnh vực: xây dựng
+#mảng cứu nguy
+@Lĩnh vực: giao thông & vận tải
+#phà cứu đắm

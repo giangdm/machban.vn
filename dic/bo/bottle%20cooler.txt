@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống làm lạnh chai
+#phòng làm lạnh chai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ (dàn) làm lạnh chai
+#giàn làm lạnh chai
+#máy làm lạnh chai

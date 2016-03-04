@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bão hòa khí
+@Lĩnh vực: điện
+#bộ đóng mạch
+#bộ đóng mạch điện
+@Lĩnh vực: cơ khí & công trình
+#bộ phận đóng mạch
+#cái đóng mạch
+@Lĩnh vực: giao thông & vận tải
+#thiết bị đóng mạch

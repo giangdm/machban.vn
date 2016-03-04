@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#điều kiện bề mặt
+#trạng thái bề mặt
+@Lĩnh vực: toán & tin
+#điều kiện mặt
+@Lĩnh vực: điện lạnh
+#tình trạng bề mặt

@@ -1,0 +1,18 @@
+﻿@Pay-off
+#(Econ) Lợi ích ròng.
+: Lợi ích ròng có được khi thực hiện một quá trình hành động cụ thể.
+<!-- more -->
+@pay-off /'peiɔf/
+*danh từ
+#(từ Mỹ,nghĩa Mỹ) sự trả lương, sự trả tiền
+#kỳ trả lương, kỳ trả tiền
+#sự thưởng phạt
+#phần, tỷ lệ phần trăm
+@Chuyên ngành kinh tế
+#kỳ trả lương
+#kỳ trả tiền
+#sự đút lót tiền (cho ai)
+#sự thanh toán
+#sự thưởng phạt
+#sự trả lương
+#sự trả tiền

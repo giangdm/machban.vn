@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#thử nghiệm dung nạp glucose (dùng trong chần đoán đái tháo đường)

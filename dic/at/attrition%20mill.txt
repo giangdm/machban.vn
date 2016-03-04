@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#máy xay đĩa
+#sự nghiền đĩa
+@Chuyên ngành kỹ thuật
+#máy nghiền
+@Lĩnh vực: xây dựng
+#máy nghiền dùng đĩa
+@Lĩnh vực: cơ khí & công trình
+#máy xay xát

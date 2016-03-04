@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khối phổ ký
+@Lĩnh vực: điện lạnh
+#máy phổ ký khối
+@Lĩnh vực: điện
+#phổ ký khối lượng

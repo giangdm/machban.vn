@@ -1,0 +1,35 @@
+﻿@Marginal
+#(Econ) Cận biên, gia lượng.
+: Một đơn vị biên là đơn vị tăng thên\\m của một cái gì đó, chẳng hạn như với CHI PHÍ BIÊN, ĐỘ THOẢ DỤNG BIÊN..
+<!-- more -->
+@marginal /'mɑ:dʤinl/
+*tính từ
+#(thuộc) mép, ở mép, ở bờ, ở lề
+=marginal notes: những lời ghi chú ở lề
+#sát giới hạn
+#khó trồng trọt, trồng trọt không có lợi (đất đai)
+@Chuyên ngành kinh tế
+#biên hạn
+#biên vực
+#thuộc bên lề
+@Chuyên ngành kỹ thuật
+#biên
+#bờ
+#lề
+#mép
+#ở bên
+@Lĩnh vực: cơ khí & công trình
+#ở cạnh
+#ở mép
+@Lĩnh vực: xây dựng
+#ở lề
+#thuộc biên
+#thuộc lề
+#thuộc mép
+#thuộc rìa
+#thuộc viền
+@Lĩnh vực: y học
+#thuộc bờ, thuộc rìa
+<!-- more -->
+@marginal
+#biên duyên

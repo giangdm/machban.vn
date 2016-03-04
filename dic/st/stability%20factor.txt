@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số ổn định
+@Lĩnh vực: xây dựng
+#hệ số ổn định bờ
+#hệ số ổn định dốc

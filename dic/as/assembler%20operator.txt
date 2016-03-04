@@ -1,0 +1,5 @@
+﻿@assembler operator
+#(Tech) toán tử hợp ngữ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#toán tử hợp dịch

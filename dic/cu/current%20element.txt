@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#phần tử dòng điện
+@Lĩnh vực: điện lạnh
+#dây dẫn điện nguyên tố
+@Lĩnh vực: vật lý
+#phần tử dòng
+@Lĩnh vực: toán & tin
+#phần tử hiện tại

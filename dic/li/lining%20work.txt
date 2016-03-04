@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công tác bọc
+#công tác lót
+#công tác ốp lát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công tác bọc
+#công tác lót
+#công tác ốp lát

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy có cuộn dây động
+@Lĩnh vực: điện
+#máy đo (kiểu) khung quay

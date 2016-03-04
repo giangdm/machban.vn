@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗi phụ thuộc mẫu
+@Lĩnh vực: toán & tin
+#sai hỏng nhạy mẫu

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chuỗi con
+@Lĩnh vực: toán & tin
+#xâu con

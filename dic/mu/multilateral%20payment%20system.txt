@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chế độ chi trả đa phương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống trả lương nhiều bên

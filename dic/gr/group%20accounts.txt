@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#báo cáo kế toán gộp
+#tài khoản chung của tập đoàn
+#tài khoản tập thể
+#tổng tài khoản tập đoàn

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#danh sách hợp chuẩn (đủ tiêu chuẩn)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#danh mục thích hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#danh mục thích hợp

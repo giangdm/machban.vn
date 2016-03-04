@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đơn vị đo theo tỷ lệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đơn vị đo được tỷ lệ hóa

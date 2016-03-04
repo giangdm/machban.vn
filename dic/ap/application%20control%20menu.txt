@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#menu điều khiển ứng dụng
+#trình đơn điều khiển ứng dụng
+#trình đơn kiểm soát ứng dụng

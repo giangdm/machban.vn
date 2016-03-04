@@ -1,0 +1,2 @@
+﻿@blinking cursor
+#(Tech) con trỏ nhấp nháy

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thang cố định
+#thang đặt cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thang cố định
+#thang đặt cố định

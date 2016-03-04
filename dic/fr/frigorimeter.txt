@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#cái đo nhiệt độ thấp
+#dụng cụ đo nhiệt độ thấp
+@Chuyên ngành kỹ thuật
+#hàn kế

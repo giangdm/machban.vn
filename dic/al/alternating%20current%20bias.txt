@@ -1,0 +1,2 @@
+﻿@alternating current bias
+#(Tech) thiên áp dòng xoay chiều = magnetic bias

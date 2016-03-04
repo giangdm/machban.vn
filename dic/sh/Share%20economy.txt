@@ -1,0 +1,5 @@
+﻿@Share economy
+#(Econ) Kinh tê phân phối.
+: Một nền kinh tế trong đó tiền trả cho người lao động được gắn bởi một công thức với doanh thu hay lợi nhuận của công ty mà học làm việc.
+@Chuyên ngành kinh tế
+#nền kinh tế chia phần

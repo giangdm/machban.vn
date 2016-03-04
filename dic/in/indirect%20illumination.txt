@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chiếu sáng bằng phản xạ
+@Lĩnh vực: xây dựng
+#sự chiếu sáng gián tiếp

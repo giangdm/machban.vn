@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#thân xú bắp
+#thân xupap
+@Lĩnh vực: cơ khí & công trình
+#cần trụ trượt
+#cần van trượt
+@Lĩnh vực: xây dựng
+#cần xú bắp
+@Lĩnh vực: toán & tin
+#cần, thân xú bắp
+@Lĩnh vực: hóa học & vật liệu
+#trục van

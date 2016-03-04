@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giai đoạn kết cứng
+#thời gian đông cứng (ximăng)
+#thời gian kết cứng (ximăng)

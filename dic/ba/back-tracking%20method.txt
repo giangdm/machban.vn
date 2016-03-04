@@ -1,0 +1,2 @@
+﻿@back-tracking method
+#(Tech) phương pháp truy tích ngược

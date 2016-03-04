@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cán cân chi trả bất lợi
+#cán cân thanh toán thiếu hụt
+#nhập siêu

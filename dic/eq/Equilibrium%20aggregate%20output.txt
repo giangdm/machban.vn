@@ -1,0 +1,2 @@
+﻿@Equilibrium aggregate output
+#(Econ) Tổng sản lượng cân bằng.

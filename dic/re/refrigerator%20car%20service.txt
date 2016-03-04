@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#toa phục vụ cách nhiệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phục vụ bằng ô tô lạnh
+#sự phục vụ bằng ôtô lạnh

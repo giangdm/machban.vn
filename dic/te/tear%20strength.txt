@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#ứng suất đứt
+@Chuyên ngành kỹ thuật
+#độ bền chống kéo đứt
+#độ bền chống xé rách
+#độ bền đứt
+#độ bền kéo
+#độ bền xé rách
+@Lĩnh vực: xây dựng
+#cường độ chịu xé
+@Lĩnh vực: hóa học & vật liệu
+#độ bền nứt

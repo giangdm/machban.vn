@@ -1,0 +1,6 @@
+﻿@Stamp duty
+#(Econ) Thuế tem .
+: Một loại thuế cũ lần đầu tiên áp dụng ở Anh năm 1694. Nhiều loại giấy tờ pháp lý và thương mại phải được đóng dấu để trả thúê.
+@Chuyên ngành kinh tế
+#thuế tem
+#thuế trước bạ

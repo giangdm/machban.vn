@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#quán tính nhiệt
+@Lĩnh vực: điện lạnh
+#trễ nhiệt

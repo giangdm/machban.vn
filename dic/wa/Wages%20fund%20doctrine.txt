@@ -1,0 +1,3 @@
+﻿@Wages fund doctrine
+#(Econ) Học thuyết quỹ lương.
+: Xem IRON LAW OF WAGE.

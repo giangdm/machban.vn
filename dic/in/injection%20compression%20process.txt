@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#quá trình nén áp lực
+#quá trình nén phun
+#quá trình phun ép

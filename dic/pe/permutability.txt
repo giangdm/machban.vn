@@ -1,0 +1,5 @@
+﻿@permutability
+#xem permute
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tính hoán vị được

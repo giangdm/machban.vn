@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#cột hấp thụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#cột hấp thụ
+@Lĩnh vực: xây dựng
+#cột hút thu
+#tháp hấp thu
+#tháp hút thu

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mức thành công gọi điện thoại
+#suất thành công gọi điện thoại
+#tỷ lệ gọi được
+#tỷ lệ gọi thành công

@@ -1,0 +1,5 @@
+﻿@ambient condition
+#(Tech) điều kiện chung quanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điều kiện xung quanh

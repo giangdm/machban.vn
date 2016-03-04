@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#đèn báo bên hông (báo kích thước xe)
+#đèn mốc bên cạnh

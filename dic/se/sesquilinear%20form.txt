@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dạng bán song tuyến tính
+#dạng nửa song tuyến tính

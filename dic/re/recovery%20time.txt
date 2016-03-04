@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thời gian khôi phục
+@Lĩnh vực: xây dựng
+#thời gian phục hồi (nhiệt đến nhiệt độ làm việc)

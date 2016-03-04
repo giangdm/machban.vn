@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#kích thước quy định chất hàng
+@Chuyên ngành kỹ thuật
+#khổ xếp hàng
+#kích thước chất hàng
+@Lĩnh vực: hóa học & vật liệu
+#dụng cụ đo sức tải
+@Lĩnh vực: giao thông & vận tải
+#giới hạn chất hàng
+@Chuyên ngành kỹ thuật
+#khổ xếp hàng
+#kích thước chất hàng
+@Lĩnh vực: hóa học & vật liệu
+#dụng cụ đo sức tải
+@Lĩnh vực: giao thông & vận tải
+#giới hạn chất hàng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cái phân đoạn
+#thanh phân đoạn
+@Lĩnh vực: điện lạnh
+#thanh cái phân đoạn

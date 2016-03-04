@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đường hàn
+#mối hàn
+#mối nối hàn
+#vạch hàn
+@Lĩnh vực: xây dựng
+#vết hàn
+@Lĩnh vực: toán & tin
+#vết hàn, đường hàn

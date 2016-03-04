@@ -1,0 +1,2 @@
+﻿@console printer
+#(Tech) máy in tại bàn kiểm soát

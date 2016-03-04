@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phương pháp Runge-Kutta
+@Lĩnh vực: toán & tin
+#phương pháp Rungơ-kuta

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+#hệ thử nghiệm vật liệu

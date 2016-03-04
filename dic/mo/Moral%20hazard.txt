@@ -1,0 +1,5 @@
+﻿@Moral hazard
+#(Econ) Mối nguy đạo đức; Sự lạm tín.
+: Là ảnh hưởng của một số loại hình nhất định của các hệ thống bảo hiểm trong việc gây ra sự chênh lệc giữa chi phí biên cá nhân của một hành động và Chi phí biên xã hội của hành động đó, do vậy dẫn đến việc phân bổ các nguồn lực không tối ưu.
+@Chuyên ngành kinh tế
+#mối nguy về đạo đức

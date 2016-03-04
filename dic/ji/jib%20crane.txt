@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#cần cẩu kiểu mũi tên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cần cẩu tay quay
+#cần trục cánh nghiêng
+#máy trục có cần

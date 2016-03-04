@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phần tử nguyên khối
+@Lĩnh vực: toán & tin
+#phần tử tích phân

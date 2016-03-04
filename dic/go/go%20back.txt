@@ -1,0 +1,14 @@
+﻿@go back
+#trở về, về, trở lại
+=to go back to one's homeland: về quê quán, trở về quê hương
+#lui
+=to go back two paces: lui hai bước, bước lui hai bước
+#xem xét lại, làm lại, trở lại
+=to back to a beginning: làm lại từ đầu
+=to go back to a suject: trở lại vấn đề
+#đi ngược lại, truy nguyên
+=to go back to the past: nhớ lại những việc đã qua, nhớ lại dĩ vãng
+#không giữ (lời hứa)
+=to go back on (upon) one's word: không giữ lời hứa
+@Chuyên ngành kỹ thuật
+#đi ngược về

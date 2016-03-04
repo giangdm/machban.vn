@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#số dự trữ tiền mặt bằng ngoại tệ của ngân hàng
+#số ngoại tệ nắm giữ
+#tiền lời đổi tiền
+#tình trạng dự trữ ngoại hối
+#vị thế ngoại hối

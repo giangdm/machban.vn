@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ dốc của bờ dốc
+#độ dốc của sườn dốc
+#độ dốc của taluy

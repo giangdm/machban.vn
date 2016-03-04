@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#làm lạnh bằng bay hơi
+@Lĩnh vực: điện lạnh
+#làm mát bằng bay hơi
+@Chuyên ngành kỹ thuật
+#làm lạnh bằng bay hơi
+@Lĩnh vực: điện lạnh
+#làm mát bằng bay hơi

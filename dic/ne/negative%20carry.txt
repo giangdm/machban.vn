@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chênh lệch âm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự mang sang âm

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tàu cung ứng
+#tàu hỗ trợ
+@Lĩnh vực: hóa học & vật liệu
+#tàu cung cấp
+@Lĩnh vực: giao thông & vận tải
+#tàu tiếp tế (kiểu tàu)

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu van
+#đĩa van
+@Lĩnh vực: ô tô
+#đầu xú páp
+@Lĩnh vực: cơ khí & công trình
+#đầu xupáp
+@Lĩnh vực: hóa học & vật liệu
+#đầu xuppap

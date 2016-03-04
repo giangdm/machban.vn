@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hòm đóng hàng (bằng gỗ)
+#thùng bao bì
+#thùng đóng gói
+#thùng đựng hàng

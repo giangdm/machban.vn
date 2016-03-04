@@ -1,0 +1,2 @@
+﻿@Chuyên ngành kinh tế
+#ma trận phụ hợp của ma trận A

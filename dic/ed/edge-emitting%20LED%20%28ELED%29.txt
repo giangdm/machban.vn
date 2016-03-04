@@ -1,0 +1,2 @@
+﻿@edge-emitting LED (ELED)
+#(Tech) đèn hai cực phát sáng biên

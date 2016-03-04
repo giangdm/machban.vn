@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cường độ (sóng) xung kích
+@Lĩnh vực: toán & tin
+#cường độ kích động

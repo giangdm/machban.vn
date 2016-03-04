@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phòng ngoài khách sạn
+@Lĩnh vực: xây dựng
+#tiền sảnh khách sạn

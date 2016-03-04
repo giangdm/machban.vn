@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bể lắng
+#thùng lắng
+@Chuyên ngành kỹ thuật
+#bể nước
+@Lĩnh vực: vật lý
+#chậu nước
+@Lĩnh vực: xây dựng
+#sự nhúng trong nước

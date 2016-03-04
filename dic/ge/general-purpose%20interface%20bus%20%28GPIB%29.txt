@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#buýt giao diện đa (chức) năng
+#đường truyền giao diện đa (chức) năng

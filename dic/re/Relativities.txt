@@ -1,0 +1,7 @@
+﻿@Relativities
+#(Econ) Chênh lệch lương trong một nghề.
+: Là thuật ngữ được sử dụng để mô tả những chênh lệch giữa các mức lương trung bình của các nhóm công nhân trong cùng một nghề, do các nhóm chủ khác nhau trả.
+@Chuyên ngành kinh tế
+#các yếu tố tương đối
+#những mức tiền lương tương đối
+#yếu tố tương đối

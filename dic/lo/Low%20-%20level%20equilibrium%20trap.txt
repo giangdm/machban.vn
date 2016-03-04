@@ -1,0 +1,3 @@
+﻿@Low - level equilibrium trap
+#(Econ) Bẫy cân bằng mức thấp.
+: Xem POPULATION POLYCY, POPULATION.

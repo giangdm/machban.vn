@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ phát xạ nhiệt
+#năng lượng nhiệt
+#nhiệt năng
+@Lĩnh vực: điện lạnh
+#hệ số phát xạ
+#hệ số phát xạ nhiệt
+#khả năng (độ, tính) phát xạ nhiệt

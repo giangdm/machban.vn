@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đột biến do bị ghép
+@Lĩnh vực: vật lý
+#quá điện áp ngẫu hợp

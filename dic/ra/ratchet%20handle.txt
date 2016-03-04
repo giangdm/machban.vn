@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#cần siết 2 chiều
+#con cóc, bánh cóc (chạy 1 chiều)

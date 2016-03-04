@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tàu chậm
+@Lĩnh vực: giao thông & vận tải
+#tàu chạy chậm

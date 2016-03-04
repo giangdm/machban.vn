@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ cryo kiểu ghép tầng
+#hệ thống cryo kiểu ghép tầng

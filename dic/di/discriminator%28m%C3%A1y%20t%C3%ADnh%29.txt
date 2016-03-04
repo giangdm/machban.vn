@@ -1,0 +1,5 @@
+﻿@discriminator(máy tính)
+#thiết bị so sánh, máy phân biệt (các xung)
+#pulse height d. (máy tính) máy phân biệt biên độ xung
+#pulse with d. (máy tính) máy phân biệt bề rộng xung
+#trigger d. (máy tính) máy phân biệt xung khởi động

@@ -1,0 +1,5 @@
+﻿@ebcdic
+#Một nguyên tắc mã hoá tập ký tự máy tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mã EBCDIC

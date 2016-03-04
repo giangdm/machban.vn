@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#trạng thái tiêu chuẩn
+@Chuyên ngành kỹ thuật
+#điều kiện tiêu chuẩn
+@Lĩnh vực: điện lạnh
+#điều kiện (tiêu) chuẩn

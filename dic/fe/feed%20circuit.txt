@@ -1,0 +1,16 @@
+﻿@feed circuit
+#(Tech) mạch cung cấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mạch cấp điện
+#mạch cung cấp
+@Lĩnh vực: điện lạnh
+#mạch nguồn
+#mạch nuôi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mạch cấp điện
+#mạch cung cấp
+@Lĩnh vực: điện lạnh
+#mạch nguồn
+#mạch nuôi

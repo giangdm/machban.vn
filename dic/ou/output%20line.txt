@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đường ra
+@Lĩnh vực: toán & tin
+#dòng xuất, dòng ra
+#đường truyền ra

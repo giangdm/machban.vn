@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sao chụp từ xa
+@Chuyên ngành kỹ thuật
+#fax
+@Lĩnh vực: toán & tin
+#sao chép từ xa
+@Lĩnh vực: điện tử & viễn thông
+#viễn sao

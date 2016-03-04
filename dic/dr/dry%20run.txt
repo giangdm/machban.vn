@@ -1,0 +1,7 @@
+﻿@dry run
+*danh từ
+#sự tập dượt, sự diễn tập
+@Chuyên ngành kinh tế
+#chạy thử
+@Chuyên ngành kỹ thuật
+#sự chạy thử

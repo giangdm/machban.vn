@@ -1,0 +1,3 @@
+﻿@Turnpike theorems
+#(Econ) Các định lý cổng ngăn.
+: Một loại định đề trong thuyết tăng trưởng liên quan đến sự gần gũi của các đường tăng trưởng tối ưu với tăng trưởng cân bằng với tốc độ cao nhất.

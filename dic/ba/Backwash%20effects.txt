@@ -1,0 +1,3 @@
+﻿@Backwash effects
+#(Econ) Hiệu ứng ngược.
+: Hiệu ứng ngược xảy ra khi tăng trưởng kinh tế ở một vùng của một nền kinh tế có những tác động ngược tới tăng trưởng của các vùng khác.

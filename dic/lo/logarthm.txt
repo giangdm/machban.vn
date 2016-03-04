@@ -1,0 +1,10 @@
+﻿@logarthm
+#lôga l. to the base... lôga cơ số..., l. to the base e. lôga tự
+#nhiên, lôga cơ số e, l. to the base ten lôga cơ số qo; to take a l. lấy lôga
+#common l. lôga thập phân
+#complex l. lôga phức
+#hyperbolic l. lôga tự nhiên
+#inverse l. lôga ngược
+#natural l. lôga tự nhiên
+#Naperian l. lôga tự nhiên, lôga Nêpe
+#seven-place l. lôga với bảy chữ số thập phân

@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+#độ cảm ứng
+#độ cảm ứng điện
+#độ dịch điện môi
+#độ điện dịch
+#mật độ điện dịch
+#mật độ thông lượng điện
+@Lĩnh vực: toán & tin
+#sự cảm ứng điện
+@Chuyên ngành kỹ thuật
+#độ cảm ứng
+#độ cảm ứng điện
+#độ dịch điện môi
+#độ điện dịch
+#mật độ điện dịch
+#mật độ thông lượng điện
+@Lĩnh vực: toán & tin
+#sự cảm ứng điện

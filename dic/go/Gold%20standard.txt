@@ -1,0 +1,15 @@
+﻿@Gold standard
+#(Econ) Bản vị vàng.
+: Hệ thống tổ chức tiền tệ theo giá trị tiền của một nước là được xác định theo luật bằng một lượng vàng cố định, và đồng tiền trong nước có dạng tiền vàng và/ hoặc tiền giấy khi cần có thể chuyển đổi thành với tỷ lệ được xác định theo luật.
+@Chuyên ngành kinh tế
+#bản vị vàng
+#chế độ bản vị vàng
+#kim bản vị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự lấy chuẩn vàng
+#vàng tiêu chuẩn
+<!-- more -->
+@gold standard
+*danh từ
+#<kinh tế> kim bản vị

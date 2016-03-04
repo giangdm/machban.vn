@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chia vùng lôgic
+#sự định séctơ mềm
+#sự phân cung tạm thời
+#sự phân séctơ mềm

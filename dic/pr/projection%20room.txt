@@ -1,0 +1,8 @@
+﻿@projection room
+*danh từ
+#phòng chiếu phim (nhất là trong rạp hát)
+@Chuyên ngành kỹ thuật
+#phòng khán giả
+@Lĩnh vực: xây dựng
+#phòng chiếu (trong rạp chiếu bóng)
+#phòng chiếu phim

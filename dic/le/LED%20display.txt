@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#màn hình LED
+@Lĩnh vực: vật lý
+#màn điot phát quang
+@Lĩnh vực: toán & tin
+#sự hiển thị bằng LED
+@Chuyên ngành kỹ thuật
+#màn hình LED
+@Lĩnh vực: vật lý
+#màn điot phát quang
+@Lĩnh vực: toán & tin
+#sự hiển thị bằng LED

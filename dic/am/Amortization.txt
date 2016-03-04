@@ -1,0 +1,45 @@
+﻿@Amortization
+#(Econ) Chi trả từng kỳ.
+: Phương thức thanh toán nợ trên cơ sở trả dần. Thỉnh thoảng chi trả từng kỳ được sử dụng như thuật ngữ thay thế cho khấu hao.
+<!-- more -->
+@amortization /ə,mɔ:ti'zeiʃn/
+*danh từ
+#sự truyền lại, sự để lại (tài sản)
+#sự trả dần, sự trừ dần (món nợ)
+@Chuyên ngành kinh tế
+#khấu hao
+#khấu hao dần
+#khấu nợ
+#phí dụng trừ đi làm nhiều kỳ
+#rút dần
+#sự chia ra từng kỳ
+#sự xóa dần
+#trả dần
+#trả nợ dần
+#trừ dần
+@Chuyên ngành kỹ thuật
+#chống rung
+#khấu hao
+#sự giảm chấn
+#sự khấu hao
+#sự tắt dần
+#sự trừ nợ dần
+#sự truyền lại
+@Lĩnh vực: điện tử & viễn thông
+#để lại (tài sản)
+#trả dần
+#trừ dần (món nợ)
+@Lĩnh vực: cơ khí & công trình
+#khoản tiền khấu hao
+#sự trả nợ dần
+@Lĩnh vực: xây dựng
+#sự để lại
+#sự giảm chất
+#sự khử rung
+@Lĩnh vực: toán & tin
+#sự giảm chấn (động)
+#sự trả dần
+<!-- more -->
+@amortization
+#(kỹ thuật) sự tắt dần; sự giảm chấn (động); (toán kinh tế) sự thanh toán
+#a. of a debt (toán kinh tế) sự thanh toán nợ

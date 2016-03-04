@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tủ lạnh
+@Chuyên ngành kỹ thuật
+#buồng lạnh
+#tủ lạnh
+@Lĩnh vực: điện lạnh
+#khoang làm lạnh

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#máy lạnh cryo
+@Lĩnh vực: điện lạnh
+#máy [thiết bị] lạnh cryo
+#thiết bị lạnh cryo

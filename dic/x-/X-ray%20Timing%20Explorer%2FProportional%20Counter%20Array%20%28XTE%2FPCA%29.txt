@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Bộ dò định thời X quang/Mảng bộ đếm theo tỷ lệ

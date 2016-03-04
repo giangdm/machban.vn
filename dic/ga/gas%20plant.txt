@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#nhà máy hơi đốt
+@Lĩnh vực: hóa học & vật liệu
+#nhà máy khí đốt
+@Lĩnh vực: xây dựng
+#trạm axetylen

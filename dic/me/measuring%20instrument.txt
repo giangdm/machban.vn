@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#dụng cụ đo lường
+@Chuyên ngành kỹ thuật
+#đồng hồ
+#dụng cụ đo
+#khí cụ đo
+#máy đo
+#thiết bị đo
+#thước đo
+@Lĩnh vực: điện lạnh
+#từ thẩm kế

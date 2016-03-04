@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng điện
+#bảng phân phối điện
+@Lĩnh vực: toán & tin
+#bảng (danh sách) dụng cụ
+@Lĩnh vực: xây dựng
+#bảng đồ nghề

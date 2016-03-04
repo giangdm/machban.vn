@@ -1,0 +1,2 @@
+﻿@build-up time
+#(Tech) thời gian tăng trưởng, thời gian thiết lập

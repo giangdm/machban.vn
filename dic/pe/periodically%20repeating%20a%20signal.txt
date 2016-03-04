@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu kỳ hóa tín hiệu
+@Lĩnh vực: điện tử & viễn thông
+#lặp tín hiệu theo chu kỳ

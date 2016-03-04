@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp đệm
+@Lĩnh vực: cơ khí & công trình
+#cốt thép lưới
+@Lĩnh vực: xây dựng
+#cốt thép lưới dây

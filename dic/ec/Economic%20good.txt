@@ -1,0 +1,3 @@
+﻿@Economic good
+#(Econ) Hàng hoá kinh tế.
+: Một mặt hàng khan hiếm và mặt hàng mà người ta sẽ lựa chọn nhiều hơn nếu có thể. Xem FREE GOOD.

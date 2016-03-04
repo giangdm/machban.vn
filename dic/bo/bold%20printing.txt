@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#in có sự cố
+#in hỏng
+#sự in đậm nét
+#sự in hỏng

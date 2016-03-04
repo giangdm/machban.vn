@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bút toán kế toán
+#ghi chép kế toán
+#khoản bút toán
+#khoản ghi sổ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#mục kiểm
+#mục nhập kế toán

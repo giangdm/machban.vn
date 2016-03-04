@@ -1,0 +1,2 @@
+﻿@frequency distortion transmission impairment
+#(Tech) sự giảm chất lượng truyền dẫn do biến dạng tần số

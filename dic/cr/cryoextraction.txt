@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chiết suất cryo
+#sự chiết cryo
+@Lĩnh vực: y học
+#thủ thuật lấy thể thủy tinh bằng lạnh

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#khe hở chỗ nối
+#khe hở mối hàn
+#khe hở mối nối
+#khe mối hàn vảy
+#khoảng cách khớp nối

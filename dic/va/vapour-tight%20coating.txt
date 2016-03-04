@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp bọc cách hơi
+#lớp bọc không thấm hơi
+#lớp bọc kín hơi

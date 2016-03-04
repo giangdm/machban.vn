@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#diện tích nền
+#khoảng sàn
+@Lĩnh vực: xây dựng
+#diện tích mặt sàn
+#diện tích sàn
+@Chuyên ngành kỹ thuật
+#diện tích nền
+#khoảng sàn
+@Lĩnh vực: xây dựng
+#diện tích mặt sàn
+#diện tích sàn

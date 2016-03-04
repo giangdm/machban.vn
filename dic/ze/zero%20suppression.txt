@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bỏ số không
+#hủy số không
+#khử số không
+#sự bỏ zero
+#sự dịch điểm không
+#sự khử số không
+#sự loại bỏ số không
+#sự xóa số không

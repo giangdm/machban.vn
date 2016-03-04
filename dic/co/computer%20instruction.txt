@@ -1,0 +1,7 @@
+﻿@computer instruction
+#(Tech) chỉ thị máy điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chỉ thị máy
+@Lĩnh vực: toán & tin
+#lệnh máy (tính)

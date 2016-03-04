@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#điện áp ngược tự cảm
+#sức điện động tự cảm

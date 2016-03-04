@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bề mặt bức xạ
+#bề mặt phát xạ
+@Lĩnh vực: xây dựng
+#mặt bức xạ

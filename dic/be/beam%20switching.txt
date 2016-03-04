@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự bật chùm tia
+#sự chuyển chùm tia
+@Lĩnh vực: điện tử & viễn thông
+#sự chuyển mạch chùm tia

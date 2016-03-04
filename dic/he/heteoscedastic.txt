@@ -1,0 +1,2 @@
+﻿@heteoscedastic
+#(thống kê) có phương sai thực sự phụ thuộc vào một biến ngẫu nhiên khác

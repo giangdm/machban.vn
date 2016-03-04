@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bộ nhớ chỉ đọc
+#bộ nhớ cố định
+@Chuyên ngành kỹ thuật
+#bộ nhớ không xóa được (ROM)
+@Lĩnh vực: điện
+#bộ nhớ chỉ đọc [ROM]

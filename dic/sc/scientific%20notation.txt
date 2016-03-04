@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biểu diễn khoa học
+#ký hiệu khoa học
+#ký pháp khoa học

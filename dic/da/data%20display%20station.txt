@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trạm hiển thị dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#trạm hiển thị số liệu

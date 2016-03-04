@@ -1,0 +1,3 @@
+﻿@Damage cost
+#(Econ) Chi phí bồi thường thiệt hại; Chi phí bù đắp thiệt hại; Chi phí thiệt hại
+: Là chi phí phải trả cho thiệt hại gây ra, thường là thiệt hại do ô nhiễm.

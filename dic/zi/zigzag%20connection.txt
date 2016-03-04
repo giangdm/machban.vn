@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cách nối chữ chi
+#nối dích dắc
+@Lĩnh vực: điện
+#nối chữ chi
+@Lĩnh vực: cơ khí & công trình
+#mối nối chữ chi
+@Lĩnh vực: xây dựng
+#mối nối dích dắc

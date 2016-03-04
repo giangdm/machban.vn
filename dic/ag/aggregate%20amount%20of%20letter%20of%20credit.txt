@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tổng hạn ngạch thư tín dụng,
+#tổng số tiền của thư tín dụng

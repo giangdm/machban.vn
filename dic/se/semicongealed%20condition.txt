@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều kiện bán đông cứng
+#trạng thái (điều kiện) bán đông cứng
+#trạng thái bán đông cứng

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị lạnh thứ cấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ làm nguội phụ
+@Lĩnh vực: điện lạnh
+#bộ quá lạnh

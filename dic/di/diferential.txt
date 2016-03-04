@@ -1,0 +1,9 @@
+﻿@diferential
+#vi phân
+#d. of vomume, element of volume vi phân thể tích, yếu tố thể tích
+#associated homogeneous d. vi phân thuần nhất liên đới
+#binomial d. vi phân nhị thức
+#computing d. máy tính vi phân
+#harmonic d. vi phân điều hoà
+#total d. vi phân toàn phần
+#trigonometric d. vi phân lượng giác

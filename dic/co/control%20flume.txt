@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kênh đo nước
+#khay thủy văn
+@Lĩnh vực: đo lường & điều khiển
+#máng đo nước
+@Lĩnh vực: cơ khí & công trình
+#máng kiểm định (lưu lượng)

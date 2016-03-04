@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#định luật quán tính
+@Lĩnh vực: toán & tin
+#định luật Newton thứ nhất
+#định luật Niutơn thứ nhất

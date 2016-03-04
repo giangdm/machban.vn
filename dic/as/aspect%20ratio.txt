@@ -1,0 +1,14 @@
+﻿@aspect ratio
+#(Tech) cỡ ảnh (tỷ lệ dài-rộng, tỷ lệ dài-cao)
+@Chuyên ngành kỹ thuật
+#hệ số co
+@Lĩnh vực: toán & tin
+#số co
+#tỷ lệ co
+@Lĩnh vực: điện
+#tỉ số màn ảnh
+@Lĩnh vực: xây dựng
+#tỷ lệ màn ảnh
+#tỷ lệ phương diện
+#tỷ số hướng
+#tỷ số mặt cắt

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#sổ ghi bán hàng
+#sổ ghi hàng bán

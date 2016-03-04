@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bình khí
+#bình không khí
+@Lĩnh vực: ô tô
+#bầu chứa khí nén
+@Lĩnh vực: giao thông & vận tải
+#bình khí nén (đóng tàu)

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#xác xuất kép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#xác suất phức
+@Lĩnh vực: toán & tin
+#xác suất phức hợp

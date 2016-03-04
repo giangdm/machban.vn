@@ -1,0 +1,13 @@
+﻿@random access memory
+*danh từ
+#<vt>  RAM con Ram, bộ nhớ truy xuất ngẫu nhiên (của máy tính)
+@Chuyên ngành kinh tế
+#nhớ thâm nhập bấp bênh, rủi ro
+@Chuyên ngành kỹ thuật
+#bộ nhớ truy cập ngẫu nhiên
+#bộ nhớ truy nhập ngẫu nhiên
+#RAM
+@Lĩnh vực: điện
+#bộ nhớ tạm thời (RAM)
+@Lĩnh vực: điện tử & viễn thông
+#bộ nhớ truy ngẫu nhiên

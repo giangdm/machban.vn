@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#lỗ ròng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#mất mát thực
+@Lĩnh vực: toán & tin
+#tổn hao mạng

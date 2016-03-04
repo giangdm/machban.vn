@@ -1,0 +1,6 @@
+﻿@Unit tax
+#(Econ) Thuế đơn vị.
+: Xem CUSTOMS, EXCISE AND PROTECTIVE DUTIES.
+@Chuyên ngành kinh tế
+#thế theo đơn vị hàng hóa
+#thuế theo đơn vị hàng hóa

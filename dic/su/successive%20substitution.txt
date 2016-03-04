@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp thay dần
+@Lĩnh vực: toán & tin
+#phép thế liên tiếp

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Giao thức dư thừa server đơn giản [Cisco]- Tính năng dự phòng cho phép chịu được sự cố khi sử dụng giao thức và cơ chế LANE

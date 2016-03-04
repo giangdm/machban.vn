@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ giãn dư
+@Lĩnh vực: xây dựng
+#độ giãn dài thường xuyên
+@Lĩnh vực: cơ khí & công trình
+#độ giản dư
+@Lĩnh vực: hóa học & vật liệu
+#độ giãn vĩnh cửu

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sản phẩm mỏ
+@Chuyên ngành kỹ thuật
+#khoáng sản
+@Lĩnh vực: hóa học & vật liệu
+#sản phẩm khoáng vật

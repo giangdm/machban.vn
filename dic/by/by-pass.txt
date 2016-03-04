@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#đi vòng quanh
+#kênh (dẫn) vòng
+#lò tránh
+#lò vòng
+#mạch rẽ
+#mạch sun
+@Lĩnh vực: xây dựng
+#đường vòng tránh
+#tuyến tránh

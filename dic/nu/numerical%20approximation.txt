@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lượng xấp xỉ
+@Lĩnh vực: toán & tin
+#phép xấp xỉ bằng số
+#phép xấp xỉ số

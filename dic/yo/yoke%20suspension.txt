@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kiểu lắp treo gông (động cơ)
+@Lĩnh vực: điện
+#sự treo gông

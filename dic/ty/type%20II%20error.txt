@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#lỗi loại 2
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sai lầm kiểu II

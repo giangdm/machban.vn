@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thép cán
+@Lĩnh vực: xây dựng
+#sắt cán
+@Lĩnh vực: toán & tin
+#sắt cán, thép cán

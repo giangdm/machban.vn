@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#liên kết đối đầu
+#mối ghép nối
+#mối nối đối đầu
+#mộng ghép
+@Lĩnh vực: điện lạnh
+#bộ nối khía rãnh
+@Lĩnh vực: điện
+#nối vát mép
+@Lĩnh vực: cơ khí & công trình
+#mối hàn xiên tiếp đầu
+@Lĩnh vực: xây dựng
+#mối nối mộng vát
+#mộng xẻ họng cắt bậc

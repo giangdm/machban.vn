@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#vi khuẩn lên men đồng nhất
+#vi khuẩn lên men thuần nhất

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#sự ghép cảm ứng
+@Lĩnh vực: điện lạnh
+#độ kết từ thông
+@Lĩnh vực: điện
+#độ liên kết từ thông
+#từ thông liên kết vòng

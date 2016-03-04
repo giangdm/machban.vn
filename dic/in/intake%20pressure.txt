@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#áp suất hút
+@Lĩnh vực: hóa học & vật liệu
+#áp suất hút vào
+@Lĩnh vực: cơ khí & công trình
+#áp suất nạp vào
+@Lĩnh vực: điện lạnh
+#áp suất ở cửa vào

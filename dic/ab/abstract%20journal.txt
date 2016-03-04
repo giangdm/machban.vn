@@ -1,0 +1,2 @@
+﻿@abstract journal
+#(Tech) báo trích yếu, báo sao lục [NB]

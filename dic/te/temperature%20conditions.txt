@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#các điều kiện nhiệt độ
+@Lĩnh vực: cơ khí & công trình
+#chế độ nhiệt

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bảo hiểm bên thứ ba
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bảo hiểm (rủi ro) do bên thứ ba gây ra

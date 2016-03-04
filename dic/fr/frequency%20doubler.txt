@@ -1,0 +1,12 @@
+﻿@frequency doubler
+#(Tech) bộ nhân đôi tần số
+@Chuyên ngành kỹ thuật
+#độ dịch tần
+#khoảng dịch tần
+#sự dịch tần số
+@Lĩnh vực: toán & tin
+#bộ nhân đôi tần số
+@Lĩnh vực: điện
+#mạch nhân đôi tần suất
+@Lĩnh vực: điện tử & viễn thông
+#sự kéo tần số

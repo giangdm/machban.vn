@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quy hoạch lồi
+#sự lập trình lồi
+@Lĩnh vực: xây dựng
+#sự lập chương trình lồi

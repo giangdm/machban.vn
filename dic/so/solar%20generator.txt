@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#máy phát điện (chạy bằng năng lượng) mặt trời
+@Lĩnh vực: điện
+#máy phát điện mặt trời
+#trạm điện mặt trời
+@Lĩnh vực: điện lạnh
+#máy phát điện mặt trời (ở một số vệ tinh)
+@Lĩnh vực: ô tô
+#pin năng lượng mặt trời

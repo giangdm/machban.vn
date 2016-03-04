@@ -1,0 +1,9 @@
+﻿@Import tariff
+#(Econ) Thuế quan nhập khẩu.
+: Xem TARIFFS.
+@Chuyên ngành kinh tế
+#biểu thuế nhập
+#biểu thuế nhập khẩu
+#biểu thuế quan
+#suất thuê nhập
+#suất thuế nhập

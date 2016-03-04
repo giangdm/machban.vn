@@ -1,0 +1,6 @@
+﻿@Dated securities
+#(Econ) Chứng khoán ghi ngày hoàn trả.
+: Các chứng khoán đựoc ghi thành chứng khoán hoàn trả ngắn hạn, trung hạn và dài hạn tuỳ thuộc vào thời gian đáo hạn
+@Chuyên ngành kinh tế
+#chứng khoán có định thời điểm cố định để thu hồi (chuộc lại)
+#chứng khoán ghi ngày hoàn trả

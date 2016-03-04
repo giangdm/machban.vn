@@ -1,0 +1,5 @@
+﻿@conjugate complex number
+#(Tech) số tạp liên hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số phức liên hợp

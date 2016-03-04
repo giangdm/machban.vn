@@ -1,0 +1,4 @@
+﻿@automatic teller
+#(Tech) thâu ngân viên tự động (máy gởi-rút tiền tự động)
+@Chuyên ngành kinh tế
+#máy thủ quỹ tự động (của ngân hàng)

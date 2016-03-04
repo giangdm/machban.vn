@@ -1,0 +1,7 @@
+﻿@Market economy
+#(Econ) Nền kinh tế thị trường
+: Là một hệ thống kinh tế trong đó các quyết định về việc phân bổ nguồn lực và sản xuất được diễn ra trên cơ sở các mức giá được xác định qua những giao dịch tự nguyện giữa các nhà sản xuất, người  tiêu dùng, công nhân và chủ sở hữu các yếu tố sản xuất.
+@Chuyên ngành kinh tế
+#kinh tế thị trường
+@Chuyên ngành kỹ thuật
+#kinh tế thị trường

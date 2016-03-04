@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng danh định
+@Lĩnh vực: điện
+#phụ tải danh nghĩa
+#phụ tải đầy đủ
+#phụ tải được ghép
+@Lĩnh vực: xây dựng
+#tải trọng danh nghĩa

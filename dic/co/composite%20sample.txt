@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#mẫu góp
+#mẫu hàng đối đẳng
+@Chuyên ngành kỹ thuật
+#mẫu phức hợp
+@Lĩnh vực: hóa học & vật liệu
+#mẫu hỗn hợp

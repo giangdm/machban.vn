@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phá hỏng do mỏi
+@Lĩnh vực: hóa học & vật liệu
+#gãy mỏi
+@Lĩnh vực: cơ khí & công trình
+#sự đứt gãy mỏi
+@Chuyên ngành kỹ thuật
+#sự phá hỏng do mỏi
+@Lĩnh vực: hóa học & vật liệu
+#gãy mỏi
+@Lĩnh vực: cơ khí & công trình
+#sự đứt gãy mỏi

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#hối phiếu đã thanh toán hết
+#hối phiếu thu hồi

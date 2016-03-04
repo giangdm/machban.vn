@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hợp kim fero
+@Lĩnh vực: điện
+#hợp kim sắt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hợp kim fero
+@Lĩnh vực: điện
+#hợp kim sắt

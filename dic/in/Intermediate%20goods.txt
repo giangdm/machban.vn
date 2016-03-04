@@ -1,0 +1,6 @@
+﻿@Intermediate goods
+#(Econ) Hàng hoá trung gian.
+: Hàng hoá được sử dụng vào một thời điểm nào đó trong quá trình sản xuất các hàng hoá khác chứ không phải để cho tiêu dùng cuối cùng.
+@Chuyên ngành kinh tế
+#bán thành phẩm
+#hàng hóa trung gian

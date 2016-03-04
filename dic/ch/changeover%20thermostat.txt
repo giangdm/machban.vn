@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#rơle nhiệt độ chuyển đổi
+#tecmostat chuyển đổi
+#thermostat chuyển đổi

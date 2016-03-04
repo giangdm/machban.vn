@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng tuyến tính
+@Lĩnh vực: toán & tin
+#biến dạng dài
+@Lĩnh vực: cơ khí & công trình
+#biến dạng thẳng
+@Lĩnh vực: xây dựng
+#sự biến dạng tuyến tính
+@Chuyên ngành kỹ thuật
+#biến dạng tuyến tính
+@Lĩnh vực: toán & tin
+#biến dạng dài
+@Lĩnh vực: cơ khí & công trình
+#biến dạng thẳng
+@Lĩnh vực: xây dựng
+#sự biến dạng tuyến tính

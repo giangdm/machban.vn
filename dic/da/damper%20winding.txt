@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn cản dịu
+@Lĩnh vực: điện lạnh
+#cuộn dây cản dịu
+#cuộn dây giảm xóc

@@ -1,0 +1,2 @@
+﻿@dumb show
+#sự giao tiếp bằng điệu bộ

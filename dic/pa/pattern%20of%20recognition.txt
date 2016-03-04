@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhận dạng
+@Lĩnh vực: toán & tin
+#mẫu nhận dạng

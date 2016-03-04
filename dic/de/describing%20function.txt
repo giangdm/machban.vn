@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#hàm mô tả
+@Lĩnh vực: điện lạnh
+#hàm truyền tổng quát
+#hàm truyền tương đương

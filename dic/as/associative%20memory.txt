@@ -1,0 +1,4 @@
+﻿@associative memory
+#(Tech) bộ nhớ liên kết
+@Chuyên ngành kỹ thuật
+#bộ nhớ kết hợp

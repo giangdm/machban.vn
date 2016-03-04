@@ -1,0 +1,2 @@
+﻿@frequency inverse
+#(Tech) sự ngịch đảo tần số

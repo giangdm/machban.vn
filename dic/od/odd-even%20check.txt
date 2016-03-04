@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra chẵn lẻ
+@Lĩnh vực: toán & tin
+#kiểm chẵn lẻ
+#kiểm tra tính chẵn lẻ
+#sự kiểm tra chẵn lẻ

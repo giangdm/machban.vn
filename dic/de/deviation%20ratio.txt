@@ -1,0 +1,8 @@
+﻿@deviation ratio
+#(Tech) hệ số lệch
+@Chuyên ngành kỹ thuật
+#hệ số lệch
+@Lĩnh vực: điện
+#tỷ lệ lệch tần
+@Lĩnh vực: xây dựng
+#tỷ số độ lệch

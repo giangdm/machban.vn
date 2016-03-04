@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đầu cuối kiểm tra
+#đầu cuối thử
+#đầu cuối thử nghiệm
+#đầu dây thử

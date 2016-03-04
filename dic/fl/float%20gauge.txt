@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#dưỡng nổi
+#mức lỏng kế kiểu phao
+@Lĩnh vực: điện lạnh
+#chỉ thị mức bằng phao
+#phao chỉ mức
+@Lĩnh vực: đo lường & điều khiển
+#phao đo mức nước
+@Chuyên ngành kỹ thuật
+#dưỡng nổi
+#mức lỏng kế kiểu phao
+@Lĩnh vực: điện lạnh
+#chỉ thị mức bằng phao
+#phao chỉ mức
+@Lĩnh vực: đo lường & điều khiển
+#phao đo mức nước

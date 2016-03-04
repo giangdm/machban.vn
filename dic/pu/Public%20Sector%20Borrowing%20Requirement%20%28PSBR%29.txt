@@ -1,0 +1,3 @@
+﻿@Public Sector Borrowing Requirement (PSBR)
+#(Econ) Nhu cầu vay của khu vực công cộng.
+: Tổng giá trị mà số thu của các tổ chức Khu vực công cộng thiếu hụt so với số chi.

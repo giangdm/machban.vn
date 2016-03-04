@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhà máy điện hạt nhân
+@Lĩnh vực: điện
+#nhà máy thủy điện nguyên tử

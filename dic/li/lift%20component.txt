@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thành phần dương lực
+@Lĩnh vực: toán & tin
+#thành phần đương lực
+@Lĩnh vực: giao thông & vận tải
+#thành phần lực nâng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thành phần dương lực
+@Lĩnh vực: toán & tin
+#thành phần đương lực
+@Lĩnh vực: giao thông & vận tải
+#thành phần lực nâng

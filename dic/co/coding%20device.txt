@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#cơ cấu dán nhãn
+@Chuyên ngành kỹ thuật
+#bộ mã hóa
+@Lĩnh vực: xây dựng
+#thiết bị mã hóa

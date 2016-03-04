@@ -1,0 +1,2 @@
+﻿@cosine potentiometer
+#(Tech) bộ phân áp côsin

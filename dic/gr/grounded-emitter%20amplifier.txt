@@ -1,0 +1,2 @@
+﻿@grounded-emitter amplifier
+#(Tech) bộ khuếch đại cực phát nối đất

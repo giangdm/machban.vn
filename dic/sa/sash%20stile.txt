@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#trụ đứng của khung cửa
+#trụ khung cửa sổ

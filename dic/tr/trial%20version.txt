@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phiên bản dùng thử
+@Lĩnh vực: toán & tin
+#bản dùng thử

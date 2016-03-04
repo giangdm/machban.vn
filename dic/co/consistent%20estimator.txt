@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thống kê ước lượng
+#thống kê ước lượng vững
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ước lượng vững

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy đo độ sáng
+@Lĩnh vực: vật lý
+#quang kế nhìn (bằng) mắt

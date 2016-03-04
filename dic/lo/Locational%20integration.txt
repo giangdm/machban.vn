@@ -1,0 +1,3 @@
+﻿@Locational integration
+#(Econ) Liên kết theo vị trí.
+: Một tập hợp những đầu mối quan hệ tồn tại giữa một số ngành vừa gần nhau về mặt vị trí địa lý vừa liên quan với nhau do sản phẩm của một số ngành là đầu vào của ngành khác.

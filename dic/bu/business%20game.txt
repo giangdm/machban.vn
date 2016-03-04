@@ -1,0 +1,7 @@
+﻿@business game
+#(Tech) trò chơi kinh doanh
+@Chuyên ngành kinh tế
+#sách lược quản lý kinh doanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trò chơi thương mại

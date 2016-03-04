@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chuyển đổi áp điện
+@Lĩnh vực: điện
+#bộ chuyển đổi điện áp
+@Lĩnh vực: xây dựng
+#máy biến năng áp điện
+@Lĩnh vực: điện lạnh
+#thiết bị chuyển đổi áp điện

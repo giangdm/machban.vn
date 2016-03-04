@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#sứ xuyên
+@Lĩnh vực: điện tử & viễn thông
+#cái cách ly sứ xuyên
+@Lĩnh vực: điện lạnh
+#sứ dây vào
+@Lĩnh vực: điện
+#vật cách điện đầu vào
+@Chuyên ngành kỹ thuật
+#sứ xuyên
+@Lĩnh vực: điện tử & viễn thông
+#cái cách ly sứ xuyên
+@Lĩnh vực: điện lạnh
+#sứ dây vào
+@Lĩnh vực: điện
+#vật cách điện đầu vào

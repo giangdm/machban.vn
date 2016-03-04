@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kiểm tra chức năng
+@Lĩnh vực: toán & tin
+#sự kiểm tra chức năng

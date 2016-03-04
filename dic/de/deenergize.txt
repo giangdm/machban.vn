@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ngắt nguồn
+@Lĩnh vực: điện lạnh
+#ngắt dòng

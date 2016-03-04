@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu tốc
+#tốc độ dòng chảy
+#vận tốc chảy
+#vận tốc dòng chảy
+@Lĩnh vực: điện lạnh
+#tốc độ của dòng chảy
+#vận tốc dòng
+@Chuyên ngành kỹ thuật
+#lưu tốc
+#tốc độ dòng chảy
+#vận tốc chảy
+#vận tốc dòng chảy
+@Lĩnh vực: điện lạnh
+#tốc độ của dòng chảy
+#vận tốc dòng

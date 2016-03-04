@@ -1,0 +1,3 @@
+﻿@Interquartile range
+#(Econ) Khoảng cách giữa các tứ vị phân vị.
+: Một thước đo sự phân tán của số liệu mẫu hoặc phân phối, thuật ngữ này được định nghĩa như sự chênh lệch giữa giá trị cao nhất và thấp nhất của các tứ phân vị, và vì vậy nó chứa 50% giá trị trung tâm các quan sát của các biến số liên quan.

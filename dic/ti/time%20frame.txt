@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#lát thời gian
+#phạm vi kéo dài của thời gian
+#phạm vi kéo dài của thời gian, lát thời gian
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khung thời gian
+@Lĩnh vực: điện tử & viễn thông
+#mành thời gian

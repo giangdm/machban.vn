@@ -1,0 +1,3 @@
+﻿@yellow line
+*danh từ
+#vạch màu vàng chỉ giới hạn đỗ xe

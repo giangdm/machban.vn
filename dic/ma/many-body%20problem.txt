@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bài toán nhiều vật
+#bài toán nhiều vật thể
+@Lĩnh vực: điện lạnh
+#bài toán hệ nhiều vật
+#hiệu ứng nhiều hạt

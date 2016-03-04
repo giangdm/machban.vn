@@ -1,0 +1,3 @@
+﻿@efl
+*(viết tắt) (English as Foreign Language)
+#Anh ngữ với tính cách là ngoại ngữ

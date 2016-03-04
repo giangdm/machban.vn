@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểu dữ liệu Boole
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dữ liệu ấn mẫu boole
+@Lĩnh vực: toán & tin
+#kiểu dữ liệu logic

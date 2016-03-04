@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#bình phân ly tác nhân lạnh
+#bình thăng bằng
+#bộ phận làm khô hơi nước
+@Chuyên ngành kỹ thuật
+#bình tách lỏng
+#bình trung gian
+@Lĩnh vực: điện lạnh
+#bình gom lỏng
+@Lĩnh vực: hóa học & vật liệu
+#thùng đệm
+#thùng hoãn xung

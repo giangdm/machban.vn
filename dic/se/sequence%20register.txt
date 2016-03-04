@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đếm tuần tự
+@Lĩnh vực: toán & tin
+#thanh ghi dãy địa chỉ

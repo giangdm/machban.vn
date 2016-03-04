@@ -1,0 +1,19 @@
+﻿@Revaluation
+#(Econ) Sự nâng giá trị; sự tăng giá.
+: Là một thay đổi theo hướng đi lên của sức mua ngang giá đối với một đồng tiền trong một hệ thống tỷ giá hối đoái cố định.
+<!-- more -->
+@revaluation /'ri:,vælju'eiʃn/
+*danh từ
+#sự đánh giá lại, sự ước lượng lại
+@Chuyên ngành kinh tế
+#định giá lại
+#dự trữ do định giá lại
+#nâng giá (tiền tệ)
+#sự đánh giá, định giá, ước lượng lại
+#sự điều chỉnh lại giá trị tiền tệ
+#sự tái định giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự đánh giá lại
+@Lĩnh vực: xây dựng
+#tái định phẩm

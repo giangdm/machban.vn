@@ -1,0 +1,7 @@
+﻿@delay component
+#(Tech) thành phần trễ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#bộ phận trễ
+@Lĩnh vực: điện tử & viễn thông
+#linh kiện trễ

@@ -1,0 +1,2 @@
+﻿@droid
+#(Tech) người máy (như người) = humanlike robot

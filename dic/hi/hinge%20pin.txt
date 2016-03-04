@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#chốt pittông
+#trục bản lề
+#trục quay của chi tiết
+#trục xoay
+@Lĩnh vực: cơ khí & công trình
+#cốt bản lề

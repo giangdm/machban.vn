@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự chuyển dữ liệu đồng bộ
+@Lĩnh vực: điện tử & viễn thông
+#truyền dữ liệu đồng bộ

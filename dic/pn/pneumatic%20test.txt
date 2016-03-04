@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#lỗ thấm
+#sự thử nghiệm bơm hơi
+#sự thử nghiệm khí nén

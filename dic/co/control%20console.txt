@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#đài kiểm soát
+@Chuyên ngành kỹ thuật
+#bàn điều khiển
+#cần điều khiển
+#cần lái
+@Lĩnh vực: toán & tin
+#bàn giao tiếp điều khiển
+@Lĩnh vực: giao thông & vận tải
+#cột vô lăng điều khiển

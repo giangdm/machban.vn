@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngưỡng tỷ lệ lỗi
+#ngưỡng tỷ suất sai hỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngưỡng tỷ lệ lỗi
+#ngưỡng tỷ suất sai hỏng

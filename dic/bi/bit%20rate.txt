@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tốc độ bốt
+#tốc độ dữ liệu
+#tốc độ truyền dữ liệu
+@Lĩnh vực: toán & tin
+#tốc độ (truyền) bit

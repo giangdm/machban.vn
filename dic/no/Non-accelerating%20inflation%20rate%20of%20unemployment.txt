@@ -1,0 +1,3 @@
+﻿@Non-accelerating inflation rate of unemployment
+#(Econ) Tỷ lệ thất nghiệp không làm tăng lạm phát.
+: Đồng nghĩa với tỷ lệ thất nghiệp tự nhiên.

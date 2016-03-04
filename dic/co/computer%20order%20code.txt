@@ -1,0 +1,2 @@
+﻿@computer order code
+#(Tech) mã lệnh máy điện toán

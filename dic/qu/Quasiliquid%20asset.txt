@@ -1,0 +1,2 @@
+﻿@Quasiliquid asset
+#(Econ) Tài sản bán thanh toán.

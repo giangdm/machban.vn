@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp bình phương nhỏ nhất
+@Lĩnh vực: xây dựng
+#phương pháp bình sai nhỏ nhất

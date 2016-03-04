@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#lấy mẫu có hệ thống
+#phương pháp lấy mẫu hệ thống

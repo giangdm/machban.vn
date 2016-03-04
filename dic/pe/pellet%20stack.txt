@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#ngăn xếp viên (nhiên liệu lò phản ứng hạt nhân)

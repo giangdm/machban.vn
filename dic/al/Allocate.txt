@@ -1,0 +1,23 @@
+﻿@Allocate
+#(Econ) Phân bổ, ấn định
+<!-- more -->
+@allocate /'æləkeit/
+*ngoại động từ
+#chỉ định; dùng (số tiền vào việc gì)
+#cấp cho (ai cái gì)
+#phân phối, phân phát; chia phần
+#định rõ vị trí
+@Chuyên ngành kinh tế
+#phân bổ (một món tiền vào việc gì)
+#phân phối (vốn)
+#trợ cấp
+@Chuyên ngành kỹ thuật
+#chia phần
+#gán
+#phân tán
+@Lĩnh vực: toán & tin
+#định phần
+#phân bổ
+<!-- more -->
+@allocate
+#sắp xếp, phân bố

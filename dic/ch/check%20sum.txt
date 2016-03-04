@@ -1,0 +1,2 @@
+﻿@check sum
+#(Tech) tổng số kiểm

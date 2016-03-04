@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự đối lưu tự nhiên
+@Chuyên ngành kỹ thuật
+#đối lưu tự nhiên
+#sự đối lưu tự nhiên
+@Lĩnh vực: điện lạnh
+#đối lưu tự do

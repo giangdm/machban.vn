@@ -1,0 +1,2 @@
+﻿@eprom
+#bộ nhớ ROM xoá và lập trình được

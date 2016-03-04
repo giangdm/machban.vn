@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#động cơ rôto dây quấn
+#động cơ vòng trượt
+@Lĩnh vực: điện
+#động cơ rôto quấn dây

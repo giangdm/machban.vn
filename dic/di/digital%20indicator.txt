@@ -1,0 +1,5 @@
+﻿@digital indicator
+#(Tech) bộ chỉ báo dạng số tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#số chỉ thị

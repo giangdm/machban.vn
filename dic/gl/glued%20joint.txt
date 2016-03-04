@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#chỗ nối dán
+#điểm dán
+#mối dán keo
+#mối hàn bằng keo
+@Lĩnh vực: xây dựng
+#nối keo
+#mối nối dán (keo)
+#sự liên kết dán (keo)

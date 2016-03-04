@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng báo động
+@Lĩnh vực: điện tử & viễn thông
+#bảng sự cố

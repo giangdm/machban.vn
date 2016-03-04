@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cột (mặt đất) tự nhiên
+#độ cao hiện trường
+@Lĩnh vực: cơ khí & công trình
+#độ cao mặt đất thiên nhiên

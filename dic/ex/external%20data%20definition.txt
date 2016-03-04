@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đinh nghĩa dữ liệu ngoài
+@Lĩnh vực: điện tử & viễn thông
+#định nghĩa dữ liệu ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đinh nghĩa dữ liệu ngoài
+@Lĩnh vực: điện tử & viễn thông
+#định nghĩa dữ liệu ngoài

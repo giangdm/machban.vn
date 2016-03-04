@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#cơ chế điều chỉnh tự động (của cán cân thanh toán)
+#cơ chế tự động điều chỉnh

@@ -1,0 +1,6 @@
+﻿@numerable
+*tính từ
+#có thể đếm được
+@Chuyên ngành kỹ thuật
+#chữ số
+#đếm được

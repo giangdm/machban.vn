@@ -1,0 +1,2 @@
+﻿@external impedance
+#(Tech) trở kháng ngoài

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ảnh hiển thị mặt trước
+#ảnh hiển thị nổi

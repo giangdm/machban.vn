@@ -1,0 +1,5 @@
+﻿@double word
+#(Tech) từ đôi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tử kép

@@ -1,0 +1,3 @@
+﻿@New-new microeconomics
+#(Econ) Kinh tế học vi mô mới-mới.
+: Là tên gọi được đặt cho những phương pháp xây dựng mô hình trong đó tìm cách giải thích những hợp đồng về lương và giá trên cơ sở xem xét hành vi tối ưu hoá của kinh tế học vi mô.

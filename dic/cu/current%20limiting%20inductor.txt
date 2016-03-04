@@ -1,0 +1,2 @@
+﻿@current limiting inductor
+#(Tech) cuộn cảm hạn chế dòng

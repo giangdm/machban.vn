@@ -1,0 +1,10 @@
+﻿@Short run
+#(Econ) Ngắn hạn.
+: Khoảng thời gian trong quá trình sản xuất trong đó các yếu tố sản xuất cố định không thay đổi, nhưng mức độ sử dụng các yếu tố khả biến có thể bị thay đổi.
+@Chuyên ngành kinh tế
+#ngắn hạn
+#thời gian ngắn
+@Chuyên ngành kỹ thuật
+#chạy ngắn
+#loại nhỏ
+#số lượng nhỏ

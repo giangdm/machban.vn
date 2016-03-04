@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chế độ hỏi
+@Lĩnh vực: toán & tin
+#chế độ vấn tin

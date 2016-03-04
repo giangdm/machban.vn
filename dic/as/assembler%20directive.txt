@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chỉ thị dịch hợp
+#chỉ thị kết hợp
+#hướng dẫn dịch hợp
+@Lĩnh vực: điện tử & viễn thông
+#chỉ thị hợp dịch

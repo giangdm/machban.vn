@@ -1,0 +1,8 @@
+﻿@Rank correlation
+#(Econ) Tương quan bậc.
+: Phương pháp đo mức độ mà hai biến số liên quan với nhau, không nhất thiết theo giá trị mà theo bậc.
+@Chuyên ngành kinh tế
+#phương pháp tương quan hạng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tương quan hạng

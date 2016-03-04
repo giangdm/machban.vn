@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#cái chuyển mạch lật
+@Lĩnh vực: điện
+#cầu dao điện

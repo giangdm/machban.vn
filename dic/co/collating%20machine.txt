@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy sắp xếp
+#máy so lựa
+#máy tuyển chọn
+@Lĩnh vực: toán & tin
+#máy đối chiếu
+#máy so sánh

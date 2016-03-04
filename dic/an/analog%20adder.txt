@@ -1,0 +1,7 @@
+﻿@analog adder
+#(Tech) bộ cộng tương tự
+@Chuyên ngành kỹ thuật
+#bộ cộng tương tự
+@Lĩnh vực: toán & tin
+#máy cộng analog
+#máy cộng tương tự

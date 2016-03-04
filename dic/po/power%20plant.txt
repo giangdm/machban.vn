@@ -1,0 +1,23 @@
+﻿@power plant
+*danh từ
+#<Mỹ> nhà máy điện
+@Chuyên ngành kinh tế
+#nhà máy phát điện
+#thiết bị động lực
+@Chuyên ngành kỹ thuật
+#khởi động cơ
+#nhà máy điện
+#nhà máy phát điện
+#nhà máy thủy điện
+#thiết bị động lực
+#thiết bị phát điện
+#trạm phát điện
+#trạm thủy điện
+@Lĩnh vực: điện lạnh
+#bộ phát động lực
+@Lĩnh vực: cơ khí & công trình
+#khối động cơ
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị cấp điện
+@Lĩnh vực: điện
+#thiết bị phát lực

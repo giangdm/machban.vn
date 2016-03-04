@@ -1,0 +1,3 @@
+﻿@run-back
+*danh từ
+#ống dẫn trở về

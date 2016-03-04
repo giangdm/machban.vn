@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phòng máy
+@Lĩnh vực: vật lý
+#phòng thiết bị ngưng tụ

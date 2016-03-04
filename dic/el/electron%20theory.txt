@@ -1,0 +1,18 @@
+﻿@electron theory
+#(Tech) lý thuyết điện tử, điện tử luận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lý thuyết điện tử
+@Lĩnh vực: vật lý
+#lý thuyết electron
+@Lĩnh vực: điện lạnh
+#thuyết điện tử
+#thuyết electron
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lý thuyết điện tử
+@Lĩnh vực: vật lý
+#lý thuyết electron
+@Lĩnh vực: điện lạnh
+#thuyết điện tử
+#thuyết electron

@@ -1,0 +1,17 @@
+﻿@prime mover
+*danh từ
+#năng lượng nguồn
+#người khởi xướng
+@Chuyên ngành kinh tế
+#nguyên động lực
+#yếu tố động lực
+#yếu tố động lực ban đầu
+@Chuyên ngành kỹ thuật
+#đầu máy kéo
+#động cơ chính
+#động cơ chủ lực
+#động cơ sơ cấp
+@Lĩnh vực: cơ khí & công trình
+#động cơ nguồn
+#động cơ phát lực
+#xe kéo (moóc, pháo, ...)

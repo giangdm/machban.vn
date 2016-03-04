@@ -1,0 +1,2 @@
+﻿@full-wave doubler
+#(Tech) bộ bội áp toàn sóng

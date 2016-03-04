@@ -1,0 +1,15 @@
+﻿@utilize /'ju:tilaiz/ (utilise) /'ju:tilaiz/
+*ngoại động từ
+#dùng, sử dụng
+#lợi dụng
+@Chuyên ngành kinh tế
+#dùng
+#lợi dụng (cái gì)
+#sử dụng
+@Chuyên ngành kỹ thuật
+#dùng
+@Lĩnh vực: xây dựng
+#tận dụng (phế liệu)
+<!-- more -->
+@utilize
+#dùng

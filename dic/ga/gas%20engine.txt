@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ chạy hơi
+#động cơ ga
+#động cơ gasolin
+#động cơ khí
+#động cơ xăng
+@Lĩnh vực: ô tô
+#động cơ chạy ga
+@Lĩnh vực: toán & tin
+#động cơ chạy gas

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chế bản gốc
+#in bản gốc
+@Chuyên ngành kỹ thuật
+#bản in mẫu
+#sự đánh dấu chính

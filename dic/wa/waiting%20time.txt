@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thời gian chờ đợi
+#thời gian đợi
+@Chuyên ngành kỹ thuật
+#thời gian đợi (máy điện thoại)

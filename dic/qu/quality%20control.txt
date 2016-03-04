@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#kiểm soát chất lượng
+#kiểm soát, kiểm tra, quản lý chất lượng
+#sự kiểm tra chất lượng
+@Chuyên ngành kỹ thuật
+#kiểm tra chất lượng
+#quản lí chất lượng
+@Lĩnh vực: toán & tin
+#sự điều chỉnh chất lượng

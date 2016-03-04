@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#bộ khuếch đại lái tia quét (máy hiện sóng)
+#bộ khuếch đại làm lệch quét
+#bộ khuếch đại quét lệch

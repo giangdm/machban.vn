@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#chìa vặn mặt đầu
+#ống
+#ống tuýp
+@Lĩnh vực: xây dựng
+#chìa khóa (mở bu-gi)
+#clê kiểu đui đèn
+#clê kiểu ống vặn
+@Lĩnh vực: cơ khí & công trình
+#chìa vặn có đui
+@Lĩnh vực: hóa học & vật liệu
+#tay vặn có ổ

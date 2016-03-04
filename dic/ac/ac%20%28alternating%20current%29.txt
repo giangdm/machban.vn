@@ -1,0 +1,4 @@
+﻿@ac (alternating current)
+#(Tech) dòng điện xoay chiều, dòng điện hai chiều; xoay chiều
+@Chuyên ngành kỹ thuật
+#dòng điện xoay chiều

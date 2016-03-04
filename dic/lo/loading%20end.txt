@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phía cấp liệu
+#phía cấp tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phía cấp liệu
+#phía cấp tải

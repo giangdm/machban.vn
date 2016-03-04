@@ -1,0 +1,5 @@
+﻿@full-size
+#cỡ toàn phần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cỡ toàn phần

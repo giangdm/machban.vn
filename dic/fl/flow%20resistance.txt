@@ -1,0 +1,22 @@
+﻿@Chuyên ngành kỹ thuật
+#lực cản dòng chảy
+@Lĩnh vực: vật lý
+#sự cản dòng chảy
+@Lĩnh vực: toán & tin
+#sức cản của dòng
+@Lĩnh vực: cơ khí & công trình
+#sức cản dòng
+@Lĩnh vực: điện lạnh
+#sức cản dòng chảy
+#trở lực của dòng chảy
+@Chuyên ngành kỹ thuật
+#lực cản dòng chảy
+@Lĩnh vực: vật lý
+#sự cản dòng chảy
+@Lĩnh vực: toán & tin
+#sức cản của dòng
+@Lĩnh vực: cơ khí & công trình
+#sức cản dòng
+@Lĩnh vực: điện lạnh
+#sức cản dòng chảy
+#trở lực của dòng chảy

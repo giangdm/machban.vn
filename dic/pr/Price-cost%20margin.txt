@@ -1,0 +1,5 @@
+﻿@Price-cost margin
+#(Econ) Mức chênh lệch giá-chi phí.
+: Các số đo thực nghiệm của CHÊNH LỆCH LỢI NHUÂN nơi mà các số liệu kế toán được sử dụng và do đó ta không thể trực tiếp quan sát được định nghĩa kinh tế về lợi nhuận.
+@Chuyên ngành kinh tế
+#biên tế giá-phí

@@ -1,0 +1,7 @@
+﻿@double precision
+#(Tech) độ chính xác kép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chuẩn xác kép
+@Lĩnh vực: toán & tin
+#độ chính xác kép

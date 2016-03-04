@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khoảng nhiệt thiêu kết
+#phạm vi thiêu kết

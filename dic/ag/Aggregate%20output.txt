@@ -1,0 +1,8 @@
+﻿@Aggregate output
+#(Econ) Sản lượng gộp.
+: Xem INTERNATION INCOME
+@Chuyên ngành kinh tế
+#tổng sản lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#công suất tổ hợp máy

@@ -1,0 +1,8 @@
+﻿@fetch protection bit
+#(Tech) bit bảo vệ chống rút ra
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bit bảo vệ tìm nạp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bit bảo vệ tìm nạp

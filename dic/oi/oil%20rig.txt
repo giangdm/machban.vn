@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#dàn khoan (dầu)
+#thiết bị khoan dầu
+#thiết bị thăm dò dầu mỏ
+@Chuyên ngành kỹ thuật
+#giàn khoan
+@Lĩnh vực: giao thông & vận tải
+#thiết bị khoan dầu

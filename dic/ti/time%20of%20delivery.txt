@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#kỳ hạn giao hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thời gian chuyển giao (thông báo)
+#thời gian phân phối

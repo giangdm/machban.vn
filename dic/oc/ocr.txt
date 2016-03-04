@@ -1,0 +1,2 @@
+﻿@ocr
+#nhận biết ký tự bằng quang học, nhận dạng ký tự

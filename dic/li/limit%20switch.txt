@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#công tắc giới hạn
+@Lĩnh vực: điện
+#cầu dao giới hạn
+@Lĩnh vực: điện lạnh
+#khóa thời hạn hành trình
+@Chuyên ngành kỹ thuật
+#công tắc giới hạn
+@Lĩnh vực: điện
+#cầu dao giới hạn
+@Lĩnh vực: điện lạnh
+#khóa thời hạn hành trình

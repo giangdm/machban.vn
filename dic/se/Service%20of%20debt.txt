@@ -1,0 +1,5 @@
+﻿@Service of debt
+#(Econ) Trả lãi suất nợ.
+: Việc thanh toán lãi các khoản lãi suất của nợ.
+@Chuyên ngành kinh tế
+#trả lãi khoản vay

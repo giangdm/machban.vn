@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bãi công-ten-nơ
+#bãi container
+#trạm bốc dỡ công-ten-nơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#kho contenơ
+#kho thùng chứa

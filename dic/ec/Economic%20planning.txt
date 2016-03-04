@@ -1,0 +1,7 @@
+﻿@Economic planning
+#(Econ) Hoạch định kinh tế.
+: Sự phối hợp một các có tổ chức các hoạt động kinh tế.
+@Chuyên ngành kinh tế
+#quy hoạch, kế hoạch hóa kinh tế
+@Chuyên ngành kỹ thuật
+#lập kế hoạch kinh tế

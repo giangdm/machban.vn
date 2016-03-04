@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#trần kiểu ô rỗng
+#trần lắp
+#trần lắp các tấm panen

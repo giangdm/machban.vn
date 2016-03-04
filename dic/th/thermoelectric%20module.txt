@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#môđun nhiệt điện
+@Lĩnh vực: điện lạnh
+#giàn lạnh Peltier
+#giàn nhiệt điện

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu lượng
+#năng suất cấp
+#sản lượng
+#tải trọng
+#tốc độ cấp
+@Lĩnh vực: cơ khí & công trình
+#khả năng (mang) tải

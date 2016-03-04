@@ -1,0 +1,3 @@
+﻿@Standard Industrial Classification (SIC)
+#(Econ) Phân loại Công nghiệp theo Tiêu chuẩn.
+: Sự phân loại theo số các nghành công nghiệp được áp dụng ở Anh năm 1948. Các cơ sở được phân bổ theo hạng số theo mcác sản phẩm chính của cơ sở. Điều này dẫn đến khó khăn cho việc đo quy mô của nghành, sử dụng giải thích các hệ số tập trung.

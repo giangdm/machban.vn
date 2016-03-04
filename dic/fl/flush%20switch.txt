@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cái chuyển mạch phẳng
+@Lĩnh vực: điện
+#công tắc ngang bằng

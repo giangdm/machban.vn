@@ -1,0 +1,10 @@
+﻿@accidental error
+#(Tech) sai số rủi ro
+@Chuyên ngành kinh tế
+#sai sót ngẫu nhiên
+@Chuyên ngành kỹ thuật
+#sai số ngẫu nhiên
+@Lĩnh vực: xây dựng
+#độ sai ngẫu nhiên
+@Lĩnh vực: toán & tin
+#sai ngẫu nhiên

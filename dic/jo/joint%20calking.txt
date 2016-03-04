@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự trét kín khe hở
+#sự xảm mạch rỗng
+#sự xảm mối

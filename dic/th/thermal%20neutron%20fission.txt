@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phân hạch do nơtron nhiệt
+@Lĩnh vực: vật lý
+#sự phân hạch bởi nơtron nhiệt

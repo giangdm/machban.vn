@@ -1,0 +1,3 @@
+﻿@Accommodation transactions
+#(Econ) Các giao dịch điều tiết.
+: Trong CÁN CÂN THANH TOÁN, một loại giao dịch tư bản do CÁC CƠ QUAN TIỀN TỆ áp dụng hoặc điều hành để làm đối trọng lại tình trạng tín dụng hoặc tình trạng nợ nần nảy sinh trong các GIAO DỊCH TỰ ĐỊNH.

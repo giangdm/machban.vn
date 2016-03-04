@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhà máy điện mặt trời
+@Lĩnh vực: điện
+#thiết bị điện tử mặt trời

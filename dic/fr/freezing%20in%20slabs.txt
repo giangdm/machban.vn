@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#kết đông bloc
+#kết đông dạng khối
+#kết đông lạnh dạng khối

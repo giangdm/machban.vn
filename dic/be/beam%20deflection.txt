@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự lái tia
+@Lĩnh vực: toán & tin
+#độ lệch chùm tia
+@Lĩnh vực: xây dựng
+#độ võng của dầm

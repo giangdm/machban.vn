@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công trình bằng vỏ mỏng
+#kết cấu bằng vỏ mỏng

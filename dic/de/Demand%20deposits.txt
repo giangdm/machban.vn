@@ -1,0 +1,3 @@
+﻿@Demand deposits
+#(Econ) Tiền gửi không kỳ hạn.
+: Xem SIGHT DEPOSITE.

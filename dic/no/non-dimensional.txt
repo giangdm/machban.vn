@@ -1,0 +1,4 @@
+﻿@non-dimensional
+#không thứ nguyên
+@Chuyên ngành kỹ thuật
+#không thứ nguyên

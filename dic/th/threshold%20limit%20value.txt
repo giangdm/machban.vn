@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giá trị giới hạn ngưỡng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#giá trị giới hạn ngưỡng
+@Lĩnh vực: điện
+#trị số ngưỡng giới hạn

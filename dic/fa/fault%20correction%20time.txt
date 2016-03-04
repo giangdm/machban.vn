@@ -1,0 +1,8 @@
+﻿@fault correction time
+#(Tech) thời gian hiệu chỉnh lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thời gian chỉnh lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thời gian chỉnh lỗi

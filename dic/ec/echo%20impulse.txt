@@ -1,0 +1,5 @@
+﻿@echo impulse
+#(Tech) xung dội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#xung dội

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nguyên nhân tình cờ
+@Chuyên ngành kỹ thuật
+#nguyên nhân ngẫu nhiên

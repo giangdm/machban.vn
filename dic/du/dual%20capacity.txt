@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#khả năng kép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tụ điện kép

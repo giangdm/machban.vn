@@ -1,0 +1,12 @@
+﻿@error checking code
+#(Tech) mã kiểm sai lầm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mã kiểm sai
+@Lĩnh vực: toán & tin
+#mã kiểm tra sai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mã kiểm sai
+@Lĩnh vực: toán & tin
+#mã kiểm tra sai

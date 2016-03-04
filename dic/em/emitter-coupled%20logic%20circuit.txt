@@ -1,0 +1,2 @@
+﻿@emitter-coupled logic circuit
+#(Tech) mạch luận lý ghép cực phát

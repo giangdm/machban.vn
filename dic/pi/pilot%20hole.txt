@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗ dẫn hướng
+#lỗ khoan dẫn hướng
+#lỗ khoan mồi định hướng
+#lỗ thí điểm để đóng
+@Lĩnh vực: xây dựng
+#khoan dẫn hướng
+#lỗ mở giếng (khoan)
+@Lĩnh vực: đo lường & điều khiển
+#lỗ khoan định hướng
+#lỗ thí điểm đinh khoan

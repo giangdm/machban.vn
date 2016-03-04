@@ -1,0 +1,24 @@
+﻿@go on
+#đi tiếp, tiếp tục, làm tiếp
+=go on!: cứ làm tiếp đi!
+=to go on with one's work: tiếp tục làm công việc của mình
+=it will go on raining: trời còn mưa nữa
+=we go on to the next item of the agenda: chúng ta tiếp tục qua mục sau của chương trình nghị sự
+#trôi qua (thời gian)
+#xảy ra, diễn ra, tiếp diễn
+#ra (sân khấu) (diễn viên)
+#cư xử, ăn ở (một cách đáng chê trách)
+#căn cứ, dựa vào
+=what evidence are you going on?: anh dựa vào chứng cớ nào?
+#vừa
+=the lid won't go on [the pot]: vung đậy không vừa
+=these shoes are not going on [my feet]: đôi giày này không vừa chân tôi
+#to be going on for
+#gần tới, xấp xỉ
+=it is going on for lunch-time: gần đến giờ ăn trưa rồi
+=to be going on for fifty: gần năm mươi tuổi
+#to go on at
+#chửi mắng, mắng nhiếc
+=to go on at somebody: mắng nhiếc ai
+#go on with you!
+#(thông tục) đừng có nói vớ vẩn!

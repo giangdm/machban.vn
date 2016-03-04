@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hấp thụ (hồi nhiệt)
+#hấp thụ hồi nhiệt
+#hấp thụ tái sinh

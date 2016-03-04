@@ -1,0 +1,2 @@
+﻿@cyclic(al)
+#(Tech) thuộc chu kỳ/tuần hoàn

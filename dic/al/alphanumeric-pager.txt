@@ -1,0 +1,2 @@
+﻿@alphanumeric-pager
+#(Tech) máy nhắn tin dùng chữ-số

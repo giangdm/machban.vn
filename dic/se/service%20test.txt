@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thử vận hành
+@Lĩnh vực: cơ khí & công trình
+#sự thử làm việc
+@Lĩnh vực: hóa học & vật liệu
+#thí nghiệm sử dụng
+@Lĩnh vực: xây dựng
+#thử (nghiệm) khai thác
+#thử nghiệm vận hành
+@Lĩnh vực: điện lạnh
+#thử nghiệm phóng điện

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#diện tích vẽ
+#panen bản vẽ
+#vùng bản vẽ

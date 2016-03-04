@@ -1,0 +1,17 @@
+﻿@ground line
+#(Tech) dây đất
+@Chuyên ngành kỹ thuật
+#cao trình mặt đất
+#dây chống sét
+#dây dẫn ngầm dưới đất
+#dây đất
+#dây dưới đất
+#dây nối đất
+#đường nền
+#đường ngang mặt đất
+@Lĩnh vực: toán & tin
+#dây ngầm
+@Lĩnh vực: xây dựng
+#đường đen
+#đường gáy
+#đường liền

@@ -1,0 +1,5 @@
+﻿@diagnostic program
+#(Tech) chương trình chẩn đoán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình chuẩn đoán

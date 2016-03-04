@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phòng lạnh nhiều tầng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bộ làm lạnh cascade

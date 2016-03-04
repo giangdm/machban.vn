@@ -1,0 +1,8 @@
+﻿@Invisibles
+#(Econ) Khoản vô hình
+: Xem BALANCE OF PAYMENTS, BALANCE OF TRADE, CURRENT ACCOUNT, EXPORTS.
+@Chuyên ngành kinh tế
+#những khoản mục vô hình
+#những mặt hàng xuất nhập vô hình
+#những vật không nhìn thấy được
+#những vật vô hình

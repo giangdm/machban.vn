@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#hiệu suất làm lạnh
+#tác dụng làm nguội
+@Chuyên ngành kỹ thuật
+#hiệu ứng lạnh
+@Lĩnh vực: xây dựng
+#hiệu quả làm lạnh
+@Lĩnh vực: điện lạnh
+#hiệu quả lạnh

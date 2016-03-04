@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chuyển dao mạch chính
+@Lĩnh vực: cơ khí & công trình
+#bộ khống chế chính
+#cái chuyển mạch chính
+@Lĩnh vực: điện
+#cầu dao chủ
+#công tắc chính
+@Lĩnh vực: điện lạnh
+#cầu dao tổng
+#công tắc chủ

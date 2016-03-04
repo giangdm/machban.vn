@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#vị thế lắp
+@Lĩnh vực: điện lạnh
+#vị trí lắp đặt

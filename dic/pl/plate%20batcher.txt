@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy định lượng kiểu đĩa
+#máy trộn kiểu đĩa

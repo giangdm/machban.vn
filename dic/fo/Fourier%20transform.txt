@@ -1,0 +1,11 @@
+﻿@Fourier transform
+#(Tech) biến hoán Fourier
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự biến đổi Fourien
+@Chuyên ngành kỹ thuật
+#biến đổi Fourier
+@Lĩnh vực: xây dựng
+#khai triển Fourier
+@Lĩnh vực: điện
+#sự chuyển đổi Fourier

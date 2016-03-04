@@ -1,0 +1,2 @@
+﻿@decision algorithm
+#(Tech) thuật toán để quyết định

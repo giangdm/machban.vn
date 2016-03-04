@@ -1,0 +1,5 @@
+﻿@digital switching system
+#(Tech) hệ thống chuyển dạng dạng số tự
+@Chuyên ngành kỹ thuật
+#bộ chuyển mạch số
+#hệ chuyển mạch số

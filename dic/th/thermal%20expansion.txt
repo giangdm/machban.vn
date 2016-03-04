@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#dãn nở nhiệt
+#giãn nở nhiệt
+#sự giãn nở vì nhiệt
+@Lĩnh vực: xây dựng
+#co dãn do nhiệt
+#độ nở nhiệt
+#sự giãn nở do nhiệt
+@Lĩnh vực: toán & tin
+#độ giãn nhiệt
+#sự dãn nở do nhiệt
+@Lĩnh vực: điện
+#sự giãn nở nhiệt

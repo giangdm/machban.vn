@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khối xây (mạch) lõm
+#khối xây mỏ hốc
+#khối xây ngoẵm

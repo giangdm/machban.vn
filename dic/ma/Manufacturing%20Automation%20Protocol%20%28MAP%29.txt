@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giao thức tự động chế tạo
+@Lĩnh vực: toán & tin
+#giao thức tự động hóa sản xuất

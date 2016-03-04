@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lực phản điện động
+#sức phản điện động
+@Lĩnh vực: điện lạnh
+#suất phản điện động

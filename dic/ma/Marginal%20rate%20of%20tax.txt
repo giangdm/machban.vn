@@ -1,0 +1,5 @@
+﻿@Marginal rate of tax
+#(Econ) Thuế suất cận biên.
+: Là mức thuế đối với một đơn vị thu nhập tăng thêm, nhưng khái niện này cũng được áp dụng tương đương với việc tăng thêm của chi tiêu, của quà tặng.
+@Chuyên ngành kinh tế
+#suất thế biên

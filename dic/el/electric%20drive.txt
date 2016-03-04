@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#điều khiển bằng điện
+@Lĩnh vực: vật lý
+#sự dẫn động bằng điện
+@Lĩnh vực: xây dựng
+#truyền động điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#điều khiển bằng điện
+@Lĩnh vực: vật lý
+#sự dẫn động bằng điện
+@Lĩnh vực: xây dựng
+#truyền động điện

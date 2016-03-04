@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chi phiếu khống
+#chi phiếu không tiền bảo chứng
+#chi phiếu ma
+#séc trả lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#séc khống

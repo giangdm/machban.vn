@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#tải nhiệt khai thác
+#tải nhiệt tiêu dùng
+#tải trọng làm việc
+@Lĩnh vực: xây dựng
+#tải trọng khai thác
+#tải trọng vận hành

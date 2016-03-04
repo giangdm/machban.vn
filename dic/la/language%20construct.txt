@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cấu trúc ngôn ngữ
+@Lĩnh vực: toán & tin
+#xây dựng ngôn ngữ
+@Chuyên ngành kỹ thuật
+#cấu trúc ngôn ngữ
+@Lĩnh vực: toán & tin
+#xây dựng ngôn ngữ

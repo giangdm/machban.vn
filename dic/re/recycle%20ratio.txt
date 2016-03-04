@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hệ số tuần hoàn kín
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hệ số tuần hoàn
+#tỷ lệ chu chuyển
+#tỷ lệ tái chế

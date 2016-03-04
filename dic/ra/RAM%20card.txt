@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản mạch RAM
+#cạc RAM
+#thẻ RAM

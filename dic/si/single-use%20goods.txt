@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#hàng dùng một lần (không phải hàng dùng bền)
+#hàng xài một lần

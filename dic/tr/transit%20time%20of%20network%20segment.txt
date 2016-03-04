@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thời gian chuyển (giao) qua đoạn mạng viễn thông
+#thời gian chuyển (giao) qua khâu mạng viễn thông

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khả năng [che khuất, xóa]
+#khả năng bao che
+#khả năng che phủ
+@Lĩnh vực: hóa học & vật liệu
+#khả năng bọc
+#khả năng phủ

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chương mục đã thẩm định
+#quyết toán đã thẩm định
+#sổ cái đã thẩm định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#quỹ được hạch toán

@@ -1,0 +1,1 @@
+﻿@AM wave = amplitude-modulated wave

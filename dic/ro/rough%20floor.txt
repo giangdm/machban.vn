@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sàn chưa lát gạch
+#sàn không lát
+#sàn thô

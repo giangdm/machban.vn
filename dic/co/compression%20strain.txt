@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng nén
+#lực nén
+#sự biến dạng nén

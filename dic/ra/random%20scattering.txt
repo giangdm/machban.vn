@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#sự tán xạ ngẫu nhiên
+@Lĩnh vực: điện lạnh
+#tán xạ hỗn độn

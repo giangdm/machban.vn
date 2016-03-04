@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#giá trị tổng sản lượng quốc dân GNP
+#tổng sản phẩm quốc dân
+#tổng sản phẩm quốc gia
+#tổng thu nhập quốc dân
+@Chuyên ngành kỹ thuật
+#tổng sản lượng quốc gia
+#tổng sản phẩm quốc gia
+@Lĩnh vực: hóa học & vật liệu
+#tổng sảng phẩm quốc dân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#GNP Tổng sản phẩm quốc gia

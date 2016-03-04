@@ -1,0 +1,2 @@
+﻿@Real interest rate.
+#(Econ) Mức lãi suất thực tế.

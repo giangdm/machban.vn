@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dẫn nhiệt
+#độ khuếch tán nhiệt
+#hệ số khuếch tán nhiệt
+@Lĩnh vực: điện lạnh
+#độ dẫn nhiệt kế
+#độ khuếch tán
+#tính dẫn nhiệt độ

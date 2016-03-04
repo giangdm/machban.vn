@@ -1,0 +1,8 @@
+﻿@display terminal
+#(Tech) đầu cuối hiển thị, trạm hiển thị
+@Chuyên ngành kỹ thuật
+#màn hình
+@Lĩnh vực: điện tử & viễn thông
+#đầu cuối hiện hình
+@Lĩnh vực: toán & tin
+#đầu cuối hiển thị

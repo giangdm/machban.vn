@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tecmostat trong kênh dẫn
+#thermostat trong kênh dẫn

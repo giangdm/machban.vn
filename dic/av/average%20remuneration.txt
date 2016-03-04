@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thù lao bình quân
+@Chuyên ngành kỹ thuật
+#lương bổng trung bình

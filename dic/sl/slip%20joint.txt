@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#khớp các đăng
+#khớp nối trượt
+#khớp trượt
+#khớp tự lựa
+#mối ghép bù trừ
+@Lĩnh vực: hóa học & vật liệu
+#đầu nối co giãn
+#khe nứt trượt
+#tiếp hợp co giãn
+@Lĩnh vực: xây dựng
+#mối nối trượt
+#sự ghép trượt

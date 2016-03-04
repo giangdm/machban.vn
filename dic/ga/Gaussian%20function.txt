@@ -1,0 +1,4 @@
+﻿@Gaussian function
+#(Tech) hàm Gauss (Gauxơ)
+@Chuyên ngành kỹ thuật
+#hàm Gauss

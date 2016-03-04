@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dữ liệu thô
+#số liệu chưa xử lý
+#số liệu thô
+@Lĩnh vực: điện tử & viễn thông
+#nhân tử hữu tỷ hóa
+@Lĩnh vực: cơ khí & công trình
+#số liệu chưa chỉnh biên

@@ -1,0 +1,5 @@
+﻿@Multiple correlation coefficient
+#(Econ) Hệ số đa tương quan.
+: Xem Coefficient determi-nation.
+@Chuyên ngành kinh tế
+#hệ số tương quan bội

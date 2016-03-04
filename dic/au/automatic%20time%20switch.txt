@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chuyển mạch thời gian tự động
+@Lĩnh vực: điện lạnh
+#công tắc thời gian tự động

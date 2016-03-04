@@ -1,0 +1,3 @@
+﻿@reference room
+*danh từ
+#thư viện tra cứu (không được mượn về)

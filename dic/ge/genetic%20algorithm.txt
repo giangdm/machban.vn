@@ -1,0 +1,2 @@
+﻿@genetic algorithm
+#(Tech) thuật toán di truyền

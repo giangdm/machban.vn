@@ -1,0 +1,10 @@
+﻿@Net national product
+#(Econ) Sản phẩm quốc dân ròng.
+: Xem NATIONAL INCOME.
+@Chuyên ngành kinh tế
+#giá trị sản lượng quốc dân tịnh
+#sản lượng quốc dân thực tế
+#tổng sản phẩm quốc dân thuần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#Sản phẩm quốc dân ròng (NNP)

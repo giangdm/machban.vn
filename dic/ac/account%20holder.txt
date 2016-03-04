@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chủ tài khoản
+#người giữ một tài khoản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chủ tài khoản

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#định mức lỏng
+#đường đo thủy chuẩn
+#đường mức
+#đường nằm ngang
+@Lĩnh vực: điện lạnh
+#đường mức lỏng
+@Chuyên ngành kỹ thuật
+#định mức lỏng
+#đường đo thủy chuẩn
+#đường mức
+#đường nằm ngang
+@Lĩnh vực: điện lạnh
+#đường mức lỏng

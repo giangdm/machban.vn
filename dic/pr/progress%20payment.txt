@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thanh toán theo tiến độ
+#theo tiến độ công việc
+#trả tiền
+#trả tiền theo tiến độ (thi công hoặc giao hàng)
+#trả tiền theo từng giai đoạn
+#trả tiền từng giai đoạn

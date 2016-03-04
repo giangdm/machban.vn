@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cuộn dây kiểu cuộn chỉ
+@Lĩnh vực: điện
+#cuộn dây ống

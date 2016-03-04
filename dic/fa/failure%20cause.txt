@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#nguyên nhân sự cố
+#nguyên nhân thất bại
+@Lĩnh vực: điện tử & viễn thông
+#nguyên nhân hư hỏng
+@Chuyên ngành kỹ thuật
+#nguyên nhân sự cố
+#nguyên nhân thất bại
+@Lĩnh vực: điện tử & viễn thông
+#nguyên nhân hư hỏng

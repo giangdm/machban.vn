@@ -1,0 +1,3 @@
+﻿@Lagrangean technique
+#(Econ) Phương pháp nhân tử Lagrange.
+: Một phương pháp giải quyết các bài toán tối ưu hoá có ràng buộc, trong đó các ràng buộc được viết thành HÀM ẨN gộp cùng với HÀM MỤC TIÊU để tạo ra phương trình gọi là phương trình Lagrange.

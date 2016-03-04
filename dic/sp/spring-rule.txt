@@ -1,0 +1,3 @@
+﻿@spring-rule
+*danh từ
+#thước cuộn có lò xo (để cuộn lại)

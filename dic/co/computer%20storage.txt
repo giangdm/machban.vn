@@ -1,0 +1,5 @@
+﻿@computer storage
+#(Tech) bộ trữ điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ lưu trữ máy tính

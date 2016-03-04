@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dòng siêu chảy tồn lưu (trong đường khép kín)
+#dòng siêu dẫn tồn lưu (ở chất hoặc mạch siêu dẫn)

@@ -1,0 +1,13 @@
+﻿@Convertibility
+#(Econ) Khả năng chuyển đổi
+: Một thuộc tính của một đồng tiền có thể trao đổi một cách thoải mái với một đồng tiền khác hay với vàng. (Xem EXCHANGE RATES, GOLD STANDARD, EXCHANGE RESERVES, GOLD RESERVES).
+<!-- more -->
+@convertibility /kən,və:tə'biliti/
+*danh từ
+#sự có thể đổi, sự có thể hoán cải được
+@Chuyên ngành kinh tế
+#khả năng chuyển đổi
+#khả năng chuyển đổi (của tiền tệ, chứng khoán...)
+#tính chuyển đổi
+#tính chuyển đổi được
+#tính khả hoán

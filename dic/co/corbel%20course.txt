@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp gờ hẫng
+@Lĩnh vực: xây dựng
+#hàng (gạch) xây nhô ra

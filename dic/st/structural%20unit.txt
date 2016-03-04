@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cấu kiện
+@Lĩnh vực: xây dựng
+#chi tiết kết cấu
+@Lĩnh vực: hóa học & vật liệu
+#đơn vị cấu trúc

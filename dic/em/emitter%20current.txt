@@ -1,0 +1,10 @@
+﻿@emitter current
+#(Tech) dòng cực phát xạ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dòng cực phát
+#dòng emitơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dòng cực phát
+#dòng emitơ

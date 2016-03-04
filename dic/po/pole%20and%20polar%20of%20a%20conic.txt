@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cực và cực tuyến của thiết diện conic
+#cực và cực tuyến của tiết diện conic

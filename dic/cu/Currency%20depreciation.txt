@@ -1,0 +1,5 @@
+﻿@Currency depreciation
+#(Econ) Sự sụt giảm giá trị tiền tệ
+: Là sự giảm giá trị của một đồng tiền so với đồng tiền khác, có nghĩa là sự giảm TỶ GIÁ HỐI ĐOÁI  trong hệ thống TỶ GIÁ HỐI ĐOÁI THẢ NỔI.
+@Chuyên ngành kinh tế
+#sự sụt giá tiền tệ

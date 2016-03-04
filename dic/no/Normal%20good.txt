@@ -1,0 +1,3 @@
+﻿@Normal good
+#(Econ) Hàng hoá thông thường.
+: Là loại hàng hoá mà cầu đối với nó sẽ giảm đi khi thu nhập giảm xuống.

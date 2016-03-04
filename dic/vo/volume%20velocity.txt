@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#dòng âm thanh
+#luồng âm thanh
+#tốc độ khối
+#tốc độ thể tích
+@Lĩnh vực: điện lạnh
+#vận tốc khối

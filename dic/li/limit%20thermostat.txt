@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy điều nhiệt giới hạn
+#rơle nhiệt độ giới hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy điều nhiệt giới hạn
+#rơle nhiệt độ giới hạn

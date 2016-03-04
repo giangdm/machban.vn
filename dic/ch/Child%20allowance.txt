@@ -1,0 +1,3 @@
+﻿@Child allowance
+#(Econ) Trợ cấp trẻ em.
+: Trong hầu hết các hệ thống THUẾ THU NHẬP đều trợ cấp cho trẻ em ăn theo.Ý tưởng này là giảm nhẹ gánh nặng chi phí nuôi dạy con cái mà gia đình phải gánh chịu.

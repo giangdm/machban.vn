@@ -1,0 +1,11 @@
+﻿@batch file
+#(Tech) tập tin theo lô
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tệp BAT
+#tệp bó
+#tệp bó, tệp BAT
+@Lĩnh vực: xây dựng
+#tệp đợt
+@Lĩnh vực: điện tử & viễn thông
+#tệp lô

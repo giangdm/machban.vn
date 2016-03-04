@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dãn nở đẳng entropy
+#giãn nở đẳng entropy

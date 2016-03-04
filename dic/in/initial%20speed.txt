@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#vận tốc ban đầu
+@Lĩnh vực: xây dựng
+#tốc độ ban đầu

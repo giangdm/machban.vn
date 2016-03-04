@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đối tượng liên kết
+@Lĩnh vực: xây dựng
+#vật thể bị buộc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đối tượng liên kết
+@Lĩnh vực: xây dựng
+#vật thể bị buộc

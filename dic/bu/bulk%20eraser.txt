@@ -1,0 +1,8 @@
+﻿@bulk eraser
+#(Tech) bộ xóa dữ kiện, đầu xóa dữ kiện = degausser
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ tẩy khối
+#bộ xóa khối
+@Lĩnh vực: điện lạnh
+#bộ xóa khối (băng từ)

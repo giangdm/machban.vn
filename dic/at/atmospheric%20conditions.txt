@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#các điều kiện atmosphe
+#các điều kiện khí quyển
+@Lĩnh vực: xây dựng
+#điều kiện khí trời

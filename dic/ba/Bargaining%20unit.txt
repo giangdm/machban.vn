@@ -1,0 +1,6 @@
+﻿@Bargaining unit
+#(Econ) Đơn vị thương lượng; đơn vị mặc cả.
+: Một đơn vị đại diện cho quyền lợi của người lao động trong thương lượng về quản lý lao động ở Mỹ. Các đơn vị này có thể là rất nhỏ, là các nhân viên được tuyển trong một hãng đơn lẻ hay rất lớn, tất cả những người được tuyển dụng trong một ngành trên khắp đất nước. Các đơn vị thương lượng khác nhau về quy mô và cơ cấu.
+@Chuyên ngành kinh tế
+#đơn vị đại diện đàm phán (với giới chủ)
+#đơn vị đàm phán

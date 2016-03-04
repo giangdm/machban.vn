@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự ô nhiễm dầu hỏa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nhiễm bẩn của dầu
+@Lĩnh vực: điện lạnh
+#sự nhiễm bẩn của dầu

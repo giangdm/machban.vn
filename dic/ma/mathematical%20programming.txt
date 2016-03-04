@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chương trình toán học
+@Lĩnh vực: toán & tin
+#lập trình toán
+#quy hoạch toán học
+#sự lập trình toán học

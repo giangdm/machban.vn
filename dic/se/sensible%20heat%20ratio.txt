@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hệ số nhiệt cảm thấy được
+@Lĩnh vực: điện lạnh
+#tỷ lệ nhiệt cảm nhận được
+#tỷ lệ nhiệt hiện

@@ -1,0 +1,9 @@
+﻿@baud rate
+#(Tech) tốc độ bốt, tốc độ truyền [NB]
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tốc độ baud
+#tốc độ truyền
+#tốc độ truyền thông
+@Lĩnh vực: giao thông & vận tải
+#tốc độ truyền (số liệu)

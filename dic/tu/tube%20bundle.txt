@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bó ống
+#chùm ống
+@Lĩnh vực: vật lý
+#bộ ống
+@Lĩnh vực: hóa học & vật liệu
+#hệ thống ống (dẫn)

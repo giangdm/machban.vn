@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điểm giữ khoảng nhóm
+#điểm giữa khoảng nhóm
+#ký hiệu lớp

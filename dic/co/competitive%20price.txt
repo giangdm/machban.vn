@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giá cạnh tranh
+#giá không có đối thủ cạnh tranh
+#giá không đánh đổ được
+#giá thách thức mọi cạnh tranh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giá cạnh tranh
+#giá đấu thầu

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#động cơ micrô
+@Lĩnh vực: cơ khí & công trình
+#động cơ nhỏ

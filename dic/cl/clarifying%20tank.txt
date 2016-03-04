@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bể lắng trong
+#thiết bị lắng
+#thùng lắng
+@Chuyên ngành kỹ thuật
+#bể làm trong
+#bể lắng
+#bể lọc
+#thùng lắng

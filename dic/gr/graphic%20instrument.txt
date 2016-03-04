@@ -1,0 +1,7 @@
+﻿@graphic instrument
+#(Tech) máy ghi đồ họa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dụng cụ vẽ đồ thị
+@Lĩnh vực: điện lạnh
+#máy đồ thị

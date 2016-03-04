@@ -1,0 +1,5 @@
+﻿@grid capacitance
+#(Tech) điện dung lưới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện dung lưới

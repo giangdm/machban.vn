@@ -1,0 +1,9 @@
+﻿@information science
+*danh từ
+#công nghệ thông tin
+@Chuyên ngành kinh tế
+#khoa học thông tin
+@Chuyên ngành kỹ thuật
+#khoa học thông tin
+@Lĩnh vực: toán & tin
+#khoa học máy tính

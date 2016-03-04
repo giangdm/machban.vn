@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#điều kiện thanh toán
+#điều kiện trả tiền
+#thể thức thanh toán
+@Chuyên ngành kỹ thuật
+#điều kiện thanh toán

@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#sự phát nhiệt
+#sự tự nóng lên
+#sự tự nung
+@Lĩnh vực: điện
+#sự phát nóng
+#sự tự phát nhiệt
+@Lĩnh vực: hóa học & vật liệu
+#sự tự đốt nóng
+#sự tự gia nhiệt

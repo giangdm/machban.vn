@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ chỉ báo ngắt nhập/xuất
+#bộ chỉ báo ngắt ra/vào

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tổn thất thực tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thiệt hại thực tế

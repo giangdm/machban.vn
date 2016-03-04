@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình IRC
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Chat chuyển tiếp Internet (giao thức "party-line"toàn cầu)

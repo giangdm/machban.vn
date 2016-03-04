@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#cột phân đoạn
+#cột tinh chế
+#thiết bị chưng cất phân đoạn
+#thiết bị ngưng tụ hồi lưu
+@Chuyên ngành kỹ thuật
+#tháp tinh chế
+@Lĩnh vực: điện lạnh
+#tháp tinh cất
+#tháp tinh luyện

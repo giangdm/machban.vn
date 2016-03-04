@@ -1,0 +1,14 @@
+﻿@Cartel
+#(Econ) Cartel
+: Thoả thuận chính thức giữa các hãng trong một thị trường độc quyền nhóm để kết hợp các thủ tục đã được thống nhất về các biến như giá cả và sản lượng. Xem OLIGOPOLY.
+<!-- more -->
+@cartel /kɑ:'tel/ (kartell) /kɑ:'tel/
+*danh từ
+#(kinh tế) cacten ((cũng) kartell)
+#sự phối hợp hành động chung (giữa các nhóm chính trị)
+#sự thoả thuận giữa hai nước đang đánh nhau (về việc trao đổi tù binh...)
+#việc trao đổi tù binh
+#thử thách đấu gươm
+@Chuyên ngành kinh tế
+#cacten
+#liên hợp lũng đoạn

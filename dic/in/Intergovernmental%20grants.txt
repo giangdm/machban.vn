@@ -1,0 +1,3 @@
+﻿@Intergovernmental grants
+#(Econ) Các trợ cấp liên chính quyền.
+: Số tiền do một cấp chính phủ ở một nước (ví dụ chính phủ trung ương) cấp cho một chính phủ nước khác.

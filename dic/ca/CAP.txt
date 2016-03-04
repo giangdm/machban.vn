@@ -1,0 +1,90 @@
+﻿@CAP
+#(Econ) Xem COMMON AGRICULTURAL POLICY.
+<!-- more -->
+@cap /kæp/
+*danh từ
+#mũ lưỡi trai, mũ vải (y tá cấp dưỡng...); mũ (công nhân, giáo sư, quan toà, lính thuỷ...)
+#nắp, mũ (chai, van, bút máy...); đầu (đạn...); tai (nấm...)
+#mỏm, chỏm, chóp, đỉnh
+#(kiến trúc) đầu cột
+#(hàng hải) miếng tháp cột buồm
+#bao giấy hình loa, phễu giấy (để gói)
+#khổ giấy 0, 43 x 0, 35 cm
+#cap in hand
+#khúm núm
+#if the cap fits, wear it
+#(tục ngữ) có tật giật mình
+#to put on one's thinhking (considering) cap
+#suy nghĩ đắn đo; suy nghĩ kỹ lưỡng
+#to set one's cap at (for) somebody
+#quyến rũ ai, chài ai (để lấy làm chồng)
+#to throw (fling) one's cap over the mill (windmil)
+#làm bừa không kể gì dư luận; hành động tếu
+*ngoại động từ
+#đội mũ cho (ai)
+#đậy nắp, bịt nắp (cái gì)
+#vượt, làm tốt hơn, làm hay hơn
+=to cap an anecdote: kể một câu chuyện hay hơn
+=to cap a quotation: trích dẫn một câu hay hơn; trích dẫn một câu ngược lại
+#ngã mũ chào (ai)
+#(thể dục,thể thao) chính thức nhận (một đấu thủ) vào đội
+#phát bằng cho (ở trường đại học)
+#(thú y học) làm sưng (một chỗ nào)
+*nội động từ
+#ngả mũ chào, chào
+@Chuyên ngành kinh tế
+#chóp
+#đỉnh
+#giấy lọc
+#mức đỉnh
+#mức tột
+#nấm
+#nắp
+#nút
+@Chuyên ngành kỹ thuật
+#bệ
+#cái chụp
+#cái mũ
+#cái nắp
+#cái nút
+#chóp
+#đầu cột
+#đầu mút
+#đậy
+#đậy nắp
+#đỉnh
+#đỉnh cột
+#đóng chốt
+#đui đèn
+#đuôi
+#đuôi đèn
+#làm nắp
+#làm vỡ
+#long ra
+#lớp phủ ngoài
+#nắp
+#nắp (bình xăng...)
+#ngòi nổ
+#nút, nắp
+#mũ
+#mũ cọc
+#mũ cột
+#mũ đầu cọc
+#mũi
+#phủ
+#rời ra
+#sàn nâng
+#xà mũ
+@Lĩnh vực: xây dựng
+#bê tông lót đáy mỏng
+@Lĩnh vực: điện lạnh
+#chân bóng đèn
+#chóp nối
+@Lĩnh vực: y học
+#chụp, mủ
+@Lĩnh vực: hóa học & vật liệu
+#ngòi thuốc nổ
+<!-- more -->
+@cap
+#mũ; ngòi thuốc nổ
+#speracal c. (hình học) cầu phân

@@ -1,0 +1,4 @@
+﻿@decay curve
+#(Tech) đường thoái hóa
+@Chuyên ngành kỹ thuật
+#đường cong phân rã

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều chỉnh
+@Lĩnh vực: đo lường & điều khiển
+#điều khiển đóng mở
+@Lĩnh vực: hóa học & vật liệu
+#khống chế đóng mở
+@Lĩnh vực: điện
+#sự điều khiển đóng-ngắt

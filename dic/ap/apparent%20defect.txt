@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hiện tì
+#hiện tì (của hàng hóa)
+#khuyết tật dễ thấy
+#tì vết dễ thấy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#khuyết tật trông thấy

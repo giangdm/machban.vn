@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#trắc nghiệm hiệu quả
+@Chuyên ngành kỹ thuật
+#sự thí nghiệm va đập
+#sự thử dát
+#sự thử va chạm
+#sự va đập
+#thử va đập
+@Lĩnh vực: xây dựng
+#sự thử nghiệm va đập
+@Lĩnh vực: hóa học & vật liệu
+#thí nghiệm va đập
+@Lĩnh vực: toán & tin
+#thí nghiệm xung kích
+@Lĩnh vực: điện lạnh
+#thử nghiệm va đập

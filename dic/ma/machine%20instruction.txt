@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#lệnh của máy (vi tính)
+@Chuyên ngành kỹ thuật
+#lệnh máy
+@Lĩnh vực: toán & tin
+#chỉ thị máy

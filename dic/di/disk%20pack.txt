@@ -1,0 +1,9 @@
+﻿@disk pack
+#(Tech) bộ đĩa từ (đóng trong hộp)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bó đĩa
+#bộ đĩa
+#chồng đĩa
+#gói đĩa
+#tập đĩa

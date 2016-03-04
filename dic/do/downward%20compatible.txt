@@ -1,0 +1,2 @@
+﻿@downward compatible
+#(Tech) tương thích trên xuống

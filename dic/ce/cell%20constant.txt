@@ -1,0 +1,7 @@
+﻿@cell constant
+#(Tech) hằng số pin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#hằng số ngăn
+@Lĩnh vực: điện lạnh
+#hắng số pin

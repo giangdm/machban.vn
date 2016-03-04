@@ -1,0 +1,2 @@
+﻿@antialiasing
+#<tin> khử răng cưa, chống răng cưa (tự động khử bỏ hoặc giảm bớt méo dạng răng cưa (hoặc bậc thang) trong các hình đồ họa do máy tính tạo ra)

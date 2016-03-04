@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đánh giá mức tổn hao
+#ước lượng mức tổn hao

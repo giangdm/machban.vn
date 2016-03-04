@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#phân hạch
+#sự phân chia hạt nhân
+#sự phân hạch
+#sự phân rã hạt nhân
+@Lĩnh vực: điện lạnh
+#phân chia hạt nhân
+@Lĩnh vực: điện
+#sự phân hạch hạt nhân
+@Lĩnh vực: toán & tin
+#sự phân hạch nguyên tử
+#sự phân hạch tự phát

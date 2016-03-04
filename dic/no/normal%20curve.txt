@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#khúc tuyến bình thường
+#khúc tuyến Gauss
+#khúc tuyến hình chuông (thống kê)

@@ -1,0 +1,6 @@
+﻿@Substitution effect
+#(Econ) Hiệu ứng thay thế.
+: Tác động đối với cầu về một hàng hoá nào đó khi có một sự thay đổi trong giá cả của hàng hoá đó với giả thiết  thu nhập thực tế không đổi. Hiệu ứng thay thế luôn luôn âm, nghĩa là khi giá cả tăng thì lượng cầu giảm.
+@Chuyên ngành kinh tế
+#hiệu quả thay thế
+#hiệu ứng (tác động) thay thế

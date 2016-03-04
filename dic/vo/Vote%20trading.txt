@@ -1,0 +1,5 @@
+﻿@Vote trading
+#(Econ) Trao đổi phiếu bầu.
+: Xem LOGROLLING.
+@Chuyên ngành kinh tế
+#kinh doanh bỏ phiếu

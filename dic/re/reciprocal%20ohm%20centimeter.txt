@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#ôm xentimet nghịch đảo
+@Lĩnh vực: điện lạnh
+#roc (đơn vị độ dẫn điện)

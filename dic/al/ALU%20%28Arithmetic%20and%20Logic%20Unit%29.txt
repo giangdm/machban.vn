@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khối số học và lôgic
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ logic và số học
+#đơn vị lôgic và số học

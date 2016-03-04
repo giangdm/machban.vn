@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#calip hàm
+#calip nút hình trụ
+#căn lá
+#cữ cặp
+#thước cặp
+@Lĩnh vực: đo lường & điều khiển
+#calip nút dẹt

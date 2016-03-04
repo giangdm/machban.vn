@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy đo độ hấp thụ
+@Chuyên ngành kỹ thuật
+#hấp thụ kế
+#máy đo hấp thụ ánh sáng
+@Lĩnh vực: điện lạnh
+#máy đo độ hấp thụ

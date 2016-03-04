@@ -1,0 +1,3 @@
+﻿@Central Statical office
+#(Econ) Cục thống kê trung ương
+: Một cục của chính phủ Anh có trách nhiệm thu thập, tổng hợp xuất bản các số liệu thống kê do văn phòng chính phủ và các cơ quan không chính thức và bán chính thức ở Anh cung cấp.

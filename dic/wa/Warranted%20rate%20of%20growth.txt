@@ -1,0 +1,5 @@
+﻿@Warranted rate of growth
+#(Econ) Tốc độ tăng trưởng đảm bảo.
+: Tốc độ tăng trưởng của thu nhập quốc dân duy trì được sự cân bằng giữa tiết kiệm tự định và đầu tư tự định theo thời gian, bằng cách đó phát triển ý tưởng của Keynes về thu nhập cân bằng sang trạng thái sôi động.
+@Chuyên ngành kinh tế
+#mức tăng trưởng có bảo đảm

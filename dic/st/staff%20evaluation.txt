@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự đánh giá (chất lượng) nhân viên
+#sự đánh giá chất lượng nhân viên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự đánh giá nhân viên

@@ -1,0 +1,2 @@
+﻿@Interest sensitivity
+#(Econ) Độ nhạy theo lãi suất.

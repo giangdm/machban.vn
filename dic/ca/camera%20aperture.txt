@@ -1,0 +1,2 @@
+﻿@camera aperture
+#(Tech) khẩu độ máy (thu) hình

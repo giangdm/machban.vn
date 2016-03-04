@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chức năng bẩm
+@Lĩnh vực: toán & tin
+#hàm băm

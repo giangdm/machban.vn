@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#to lách dạng tủy tự phát, to lách hoại tủy

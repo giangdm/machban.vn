@@ -1,0 +1,6 @@
+﻿@diode laser
+#(Tech) bộ kích quang đèn hai cực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đèn hai cực laze
+#laze điot

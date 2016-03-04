@@ -1,0 +1,7 @@
+﻿@Frame Relay
+#(Tech) quy ước truyền thông tiếp mành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ tiếp sóng khung
+@Lĩnh vực: điện lạnh
+#rơle mành

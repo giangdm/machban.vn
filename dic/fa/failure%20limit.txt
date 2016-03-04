@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#giới hạn bền
+@Lĩnh vực: xây dựng
+#giới hạn phá hoại
+@Chuyên ngành kỹ thuật
+#giới hạn bền
+@Lĩnh vực: xây dựng
+#giới hạn phá hoại

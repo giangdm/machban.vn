@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phí chiêu đãi
+#phí giao tế
+@Chuyên ngành kỹ thuật
+#lệ phí cho khác
+@Lĩnh vực: điện tử & viễn thông
+#chi tiêu cho khác

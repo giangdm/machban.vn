@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#trở kháng chân không đặc trưng
+#trở kháng không gian tự do
+@Lĩnh vực: điện tử & viễn thông
+#trở kháng của không gian tự do

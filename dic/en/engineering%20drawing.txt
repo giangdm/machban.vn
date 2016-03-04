@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#bản vẽ kỹ thuật
+#vẽ kỹ thuật
+@Lĩnh vực: xây dựng
+#bản vẽ công trình
+@Lĩnh vực: toán & tin
+#kỹ thuật họa
+@Chuyên ngành kỹ thuật
+#bản vẽ kỹ thuật
+#vẽ kỹ thuật
+@Lĩnh vực: xây dựng
+#bản vẽ công trình
+@Lĩnh vực: toán & tin
+#kỹ thuật họa

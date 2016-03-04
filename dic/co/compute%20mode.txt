@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chế độ hoạt động
+@Lĩnh vực: toán & tin
+#chế độ tính toán

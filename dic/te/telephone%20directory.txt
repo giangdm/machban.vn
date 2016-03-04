@@ -1,0 +1,11 @@
+﻿@telephone directory
+*danh từ
+#danh bạ điện thoại
+@Chuyên ngành kinh tế
+#danh bạ điện thoại
+#niên giám
+#niên giám, danh bạ điện thoại
+@Chuyên ngành kỹ thuật
+#danh bạ điện thoại
+@Lĩnh vực: điện tử & viễn thông
+#thư mục điện thoại

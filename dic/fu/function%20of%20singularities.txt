@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm các điểm kỳ dị
+@Lĩnh vực: toán & tin
+#thành phần kỳ dị

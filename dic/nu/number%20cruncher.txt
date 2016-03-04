@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#siêu máy tính
+@Lĩnh vực: toán & tin
+#bộ tốc hoạt số
+#máy tính siêu tốc

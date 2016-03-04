@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#mật độ bit
+#mật độ ghi
+#mật độ lưu trữ
+#mật độ nhớ
+@Lĩnh vực: toán & tin
+#bước ghi
+#mật độ thu

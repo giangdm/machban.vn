@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#xác suất trễ quá mức
+#xác suất vượt thời gian chờ đợi

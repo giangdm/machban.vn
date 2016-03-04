@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hơi quá nhiệt
+@Lĩnh vực: điện lạnh
+#ga quá nhiệt
+#khí quá nhiệt

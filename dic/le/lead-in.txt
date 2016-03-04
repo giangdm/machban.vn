@@ -1,0 +1,17 @@
+﻿@lead-in /'li:d'in/
+*danh từ
+#(điện học) đầu vào
+@Chuyên ngành kỹ thuật
+#dẫn vào
+@Lĩnh vực: điện lạnh
+#dây nối vào
+@Lĩnh vực: điện
+#dây truyền sóng
+#dây vào
+@Chuyên ngành kỹ thuật
+#dẫn vào
+@Lĩnh vực: điện lạnh
+#dây nối vào
+@Lĩnh vực: điện
+#dây truyền sóng
+#dây vào

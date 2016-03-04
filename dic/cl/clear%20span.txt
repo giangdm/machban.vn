@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#khẩu độ trống
+#nhịp thông thủy
+@Lĩnh vực: xây dựng
+#khẩu độ/nhịp thông thủy
+#khoảng cách trống (nhịp trống)
+@Lĩnh vực: toán & tin
+#khoảng thông thủy
+@Lĩnh vực: y học
+#nhịp tĩnh không

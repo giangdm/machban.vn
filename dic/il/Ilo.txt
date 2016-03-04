@@ -1,0 +1,7 @@
+﻿@Ilo
+#(Econ) Văn phòng Lao động Quốc tế.
+: Xem INTERNATIONAL LABOR OFFICE.
+<!-- more -->
+@ilo
+*(viết tắt)
+#Tổ chức lao động quốc tế (International Labour Organization)

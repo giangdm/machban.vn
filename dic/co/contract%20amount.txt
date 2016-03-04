@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#số tiền hợp đồng
+#số tiền nhận thầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tổng giá trị hợp đồng

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trường địa chỉ đích đến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trường địa chỉ đích
+#vùng địa chỉ đích

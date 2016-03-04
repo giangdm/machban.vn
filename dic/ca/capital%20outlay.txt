@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chi tiêu (cho) tài sản cố định
+@Chuyên ngành kỹ thuật
+#vốn đầu tư cơ bản
+@Lĩnh vực: hóa học & vật liệu
+#sự xuất vốn đầu tư

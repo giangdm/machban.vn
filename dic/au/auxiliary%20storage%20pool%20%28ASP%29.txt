@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vùng bộ nhớ phụ
+#vùng lưu trữ phụ

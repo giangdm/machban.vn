@@ -1,0 +1,24 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biến trở điều chỉnh trường
+#biến trở kích thích
+#biến trở kích từ
+#biến trở từ trường
+#bộ điều chỉnh trường
+#kích từ
+@Lĩnh vực: cơ khí & công trình
+#bộ biến trở từ trường
+@Lĩnh vực: điện lạnh
+#bộ điều kiển từ trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biến trở điều chỉnh trường
+#biến trở kích thích
+#biến trở kích từ
+#biến trở từ trường
+#bộ điều chỉnh trường
+#kích từ
+@Lĩnh vực: cơ khí & công trình
+#bộ biến trở từ trường
+@Lĩnh vực: điện lạnh
+#bộ điều kiển từ trường

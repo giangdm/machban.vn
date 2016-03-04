@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giấy chứng nơi sản xuất
+#giấy chứng xuất xứ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#giấy chứng nhận nguồn gốc
+@Lĩnh vực: xây dựng
+#giấy chứng nhận xuất xứ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phòng sấy
+@Chuyên ngành kỹ thuật
+#buồng sấy
+@Lĩnh vực: vật lý
+#buồng sấy khô

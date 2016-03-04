@@ -1,0 +1,5 @@
+﻿@Profit maximization
+#(Econ) Tối đa hoá lợi nhuận.
+: Giả thiết cho rằng các doanh nghiệp đều nhằm tối đa hoá lợi nhuận.
+@Chuyên ngành kinh tế
+#sự tối đa hóa lợi nhuận

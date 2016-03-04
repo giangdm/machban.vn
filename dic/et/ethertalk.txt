@@ -1,0 +1,8 @@
+﻿@ethertalk
+#Một bộ phận bổ sung trong phần cứng của mạng cục bộ Ethernet, do các hãng Apple và 3 Com hợp tác chế độ, được thiết kế để hoạt động cùng với hệ điều hành mạng AppleShare EtherTalk truyền dữ liệu qua cáp đồng trục với tốc độ 10 megabit mỗi giây (tốc độ của Ethernet), trong khi tốc độ của mạng AppleTalk chỉ có 230 kilobit/giây
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#EtherTalk
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#EtherTalk

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#statT (đơn vị cảm ứng từ trong hệ CGSE)
+#tesla tĩnh điện

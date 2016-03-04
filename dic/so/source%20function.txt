@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm nguồn
+@Lĩnh vực: toán & tin
+#hàm Grin
+#hàm nguồn, hàm Grin

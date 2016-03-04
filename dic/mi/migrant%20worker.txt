@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#công nhân di trú
+#công nhân nước ngoài
+#người làm theo mùa
+#người làm từng vụ
+#nhập cư

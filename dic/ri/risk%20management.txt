@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#quản lý rủi ro
+@Chuyên ngành kỹ thuật
+#sự quản lý rủi ro
+@Lĩnh vực: điện tử & viễn thông
+#sự phân tích rủi ro

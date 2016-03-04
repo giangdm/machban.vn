@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#giá ban đầu
+#giá khởi đầu
+#giá yết
+#nguyên giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giá ban đầu

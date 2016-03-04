@@ -1,0 +1,2 @@
+﻿@computer watch
+#(Tech) theo dõi điện toán

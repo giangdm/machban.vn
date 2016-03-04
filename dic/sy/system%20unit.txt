@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đơn vị hệ
+@Lĩnh vực: toán & tin
+#hộp máy chỉnh
+#hộp xử lý
+@Lĩnh vực: điện tử & viễn thông
+#khối hệ thống

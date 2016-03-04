@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểu dữ liệu được liệt kê
+#kiểu vô hướng đánh số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểu dữ liệu được liệt kê
+#kiểu vô hướng đánh số

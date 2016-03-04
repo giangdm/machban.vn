@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#xi lanh động cơ
+#xi lanh phát lực (bằng khí nén)
+@Lĩnh vực: ô tô
+#xi lanh làm việc
+#xi lanh sinh công
+@Lĩnh vực: đo lường & điều khiển
+#xylanh điện

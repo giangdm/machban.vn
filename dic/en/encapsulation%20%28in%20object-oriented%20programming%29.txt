@@ -1,0 +1,2 @@
+﻿@encapsulation (in object-oriented programming)
+#(Tech) sự bao bọc

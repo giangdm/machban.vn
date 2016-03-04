@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thử nghiệm phản xạ xung
+@Lĩnh vực: điện lạnh
+#thử phản hồi xung

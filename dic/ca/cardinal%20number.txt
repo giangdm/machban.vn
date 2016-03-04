@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bản số
+#cơ số
+#lực lượng
+@Lĩnh vực: toán & tin
+#số từ chỉ số lượng

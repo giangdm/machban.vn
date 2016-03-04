@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số nhân xuất khẩu
+#số nhân xuất khẩu (số tăng gấp bội của mức xuất khẩu)

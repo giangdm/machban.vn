@@ -1,0 +1,34 @@
+﻿@Threshold
+#(Econ) Ngưỡng.
+: Điểm mà bên ngoài đó sẽ có thay đổi trong hành vi của tác nhân kinh tế, ví dụ như một ngưỡng đối với kỳ vọng giá cả, có nghĩa là kỳ vọng sẽ không liên tục được thay đổi dưới ánh sáng của các bằng chứng tích tụ, nhưng sẽ được thay đổi trong các khoảng thời gian khi tốc độ thay đổi giá đã vượt quá một điểm nào đó.
+<!-- more -->
+@threshold /'θreʃhould/
+*danh từ
+#ngưỡng cửa
+=to lay a sin a another's threshold: đổ tội cho người khác
+#bước đầu, ngưỡng cửa
+=to stand on the threshold of life: đứng trước ngưỡng cửa của cuộc đời
+=on the threshold of a revolution: bước vào một cuộc cách mạng
+=on the threshold of a new century: bước vào một thế kỷ mới
+#(tâm lý học) ngưỡng
+@Chuyên ngành kinh tế
+#mốc
+#ngưỡng
+#ngưỡng cửa
+@Chuyên ngành kỹ thuật
+#bậu cửa
+#đầu vào bảo vệ
+#giá trị ngưỡng
+#giới hạn
+#lối đi
+#lối vào
+#ngưỡng cửa
+#ngưỡng, giới hạn
+#mức
+@Lĩnh vực: y học
+#ngưỡng (trong thần kinh học)
+<!-- more -->
+@threshold
+#mức; ngưỡng
+#resolution t. ngưỡng giải
+#signal t. (điều khiển học) ngưỡng tín hiệu

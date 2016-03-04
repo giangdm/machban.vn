@@ -1,0 +1,2 @@
+﻿@EAROM (electrically alterable read-only memory)
+#(Tech) ROM thay đổi được bằng điện

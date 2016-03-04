@@ -1,0 +1,2 @@
+﻿@audio (frequency) effect
+#(Tech) hiệu ứng (tần số) âm thanh

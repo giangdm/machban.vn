@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự cài chốt tự động
+@Lĩnh vực: cơ khí & công trình
+#sự hãm tự động
+#sự khóa tự động

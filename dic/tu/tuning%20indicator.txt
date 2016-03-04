@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ chỉ thị điều hưởng
+@Lĩnh vực: điện
+#bộ phận báo điều hợp
+#đèn báo cộng hưởng
+@Lĩnh vực: toán & tin
+#chỉ báo cộng hưởng
+#chỉ báo điều hưởng

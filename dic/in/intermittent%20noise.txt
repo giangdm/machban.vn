@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tạp âm gián đoạn
+@Lĩnh vực: vật lý
+#tạp nhiễu gián đoạn

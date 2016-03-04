@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#gọi điện thoại
+#thẻ (gọi) điện thoại
+@Chuyên ngành kỹ thuật
+#cạc điện thoại

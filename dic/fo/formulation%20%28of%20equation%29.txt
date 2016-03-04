@@ -1,0 +1,5 @@
+﻿@formulation (of equation)
+#lập phương trình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lập phương trình

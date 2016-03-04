@@ -1,0 +1,2 @@
+﻿@smalltalk
+#Tên một ngôn ngữ lập trình và môi trường lập trình bậc cao, xem các quá trình điện toán như là những đối tượng gửi thông báo tin lẫn cho nhau

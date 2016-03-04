@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#đơn thỉnh cầu của các chủ nợ
+#đơn thỉnh cầu của các trái chủ
+#đơn thỉnh cầu của thương gia phá sản
+#đơn tuyên bố vỡ nợ
+#đơn xin thanh toán tài phán (của chủ nợ)
+#đơn xin thanh toán theo phán quyết của tòa (của chủ nợ)
+#đơn xin tuyên bố phá sản

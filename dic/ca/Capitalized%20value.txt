@@ -1,0 +1,7 @@
+﻿@Capitalized value
+#(Econ) Giá trị được vốn hoá
+: Trị giá được định cho một tài sản theo mức lợi nhuận hiện tại và lãi suất thị trường hiện hành.
+@Chuyên ngành kinh tế
+#giá trị được biến thành vốn
+#giá trị vốn hóa
+#trị giá tư bản hóa

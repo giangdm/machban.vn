@@ -1,0 +1,9 @@
+﻿@Stationary state
+#(Econ) Trạng thái tĩnh tại.
+: Một nền kinh tế sẽ ở trong trạng thái tĩnh tại khi sản lượng trong mọi giai đoạn được tiêu dùng hết trong giai đoạn đó .
+@Chuyên ngành kinh tế
+#trạng thái dừng
+@Chuyên ngành kỹ thuật
+#trạng thái ổn định
+@Lĩnh vực: điện lạnh
+#trạng thái bền

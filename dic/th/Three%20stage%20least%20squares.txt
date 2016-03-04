@@ -1,0 +1,3 @@
+﻿@Three stage least squares
+#(Econ) Bình phương nhỏ nhất của ba giai đoạn.
+: (3SLS hay Th SLS). Một giá trị của họ các ước lượng theo phương pháp bình phương nhỏ nhất áp dụng đối với việc ước lượng các thông số của hệ phương trình đồng thời, mà trong đó các hệ số nhiễu có thể tương quan với các phương trình.

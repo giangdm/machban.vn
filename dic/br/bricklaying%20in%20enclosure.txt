@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khối xây chèn
+@Lĩnh vực: xây dựng
+#khối xây bao che
+#khối xây vỏ mỏng

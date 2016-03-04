@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#lớp trát cách âm
+#lớp trát hút âm
+#vữa hút âm

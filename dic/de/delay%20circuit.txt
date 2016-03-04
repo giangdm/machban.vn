@@ -1,0 +1,7 @@
+﻿@delay circuit
+#(Tech) mạch tạo trễ
+@Chuyên ngành kỹ thuật
+#mạch trễ
+#mạch trì hoãn
+@Lĩnh vực: toán & tin
+#mạch làm trễ

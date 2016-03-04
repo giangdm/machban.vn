@@ -1,0 +1,2 @@
+﻿@guarded command
+#(Tech) lệnh bảo vệ

@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kỹ thuật
+#kim loại phụ gia
+#kim loại phụ gia (hàn)
+@Lĩnh vực: vật lý
+#kim loại độn hàn
+#kim loại trợ dung hàn
+@Lĩnh vực: xây dựng
+#kim loại pha
+@Lĩnh vực: cơ khí & công trình
+#kim loại pha thêm
+@Chuyên ngành kỹ thuật
+#kim loại phụ gia
+#kim loại phụ gia (hàn)
+@Lĩnh vực: vật lý
+#kim loại độn hàn
+#kim loại trợ dung hàn
+@Lĩnh vực: xây dựng
+#kim loại pha
+@Lĩnh vực: cơ khí & công trình
+#kim loại pha thêm

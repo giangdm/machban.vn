@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#trục bánh xe dẫn hướng
+@Lĩnh vực: cơ khí & công trình
+#trục tay lái (dẫn hướng)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#biệt lệ số học
+@Lĩnh vực: toán & tin
+#ngoại lệ số học

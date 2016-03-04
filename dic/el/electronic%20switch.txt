@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#cái chuyển điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ chuyển mạch điện tử
+@Lĩnh vực: toán & tin
+#chuyển mạch điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ chuyển mạch điện tử
+@Lĩnh vực: toán & tin
+#chuyển mạch điện tử

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#biến áp nhiều đầu (ra)
+@Lĩnh vực: điện lạnh
+#máy biến áp nhiều đầu ra

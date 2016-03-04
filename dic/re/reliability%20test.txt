@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#trắc nghiệm độ tin cậy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phép thử độ tin cậy
+#sự độ tin cậy
+@Lĩnh vực: điện tử & viễn thông
+#sự thử độ tin cậy

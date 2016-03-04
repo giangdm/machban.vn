@@ -1,0 +1,7 @@
+﻿@block mark
+#(Tech) dấu khối
+@Chuyên ngành kỹ thuật
+#nhãn khối
+@Lĩnh vực: toán & tin
+#dấu khối
+#ký hiệu khối

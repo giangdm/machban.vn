@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dồn kênh phân thời gian
+@Lĩnh vực: toán & tin
+#dồn theo phân chia thời gian

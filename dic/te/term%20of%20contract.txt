@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hạn hợp đồng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#các điều khoản trong hợp đồng

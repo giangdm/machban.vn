@@ -1,0 +1,4 @@
+﻿@checking procedure
+#(Tech) thủ tục kiểm
+@Chuyên ngành kỹ thuật
+#phương pháp kiểm tra

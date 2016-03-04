@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#biến logic
+@Lĩnh vực: toán & tin
+#biến luận lý
+<!-- more -->
+@Chuyên ngành kỹ thuật
+#biến logic
+@Lĩnh vực: toán & tin
+#biến luận lý

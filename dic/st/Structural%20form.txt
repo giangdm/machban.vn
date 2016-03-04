@@ -1,0 +1,6 @@
+﻿@Structural form
+#(Econ) Dạng cơ cấu.
+: Dạng của một hệ các PHƯƠNG TRÌNH ĐỒNG THỜI, trong đó các quan hệ nhân quả và định nghĩa giữa các BIẾN NỘI SINH được xem xét.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dạng cấu trúc

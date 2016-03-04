@@ -1,0 +1,2 @@
+﻿@basic address
+#(Tech) địa chỉ cơ bản

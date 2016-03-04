@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phân tích viên hệ thống (máy vi tính)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhà phân tích hệ thống
+@Lĩnh vực: xây dựng
+#phân tích viên hệ

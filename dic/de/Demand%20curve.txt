@@ -1,0 +1,7 @@
+﻿@Demand curve
+#(Econ) Đường cầu.
+: Một minh hoạ đồ thị về sơ đồ cầu hay hàm cầu với điều kiện đồ thị này chỉ được vẽ trong một không gian hai hoặc ba chiều, biểu hiện mối quan hệ giữa cầu và chỉ một hoặc hai biến số ảnh hưởng đến cầu, các nhân tố khác không đổi.
+@Chuyên ngành kinh tế
+#đường cầu
+#đường cong cầu
+#khúc tuyến cầu

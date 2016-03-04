@@ -1,0 +1,5 @@
+﻿@Menu cost of inflation
+#(Econ) Chi phí thực đơn của lạm phát.
+@Chuyên ngành kinh tế
+#chi phí "thực đơn" của lạm phát
+#đào tạo kèm cặp người quản lý

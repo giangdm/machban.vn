@@ -1,0 +1,7 @@
+﻿@tax-deductible
+*tính từ
+#có thể được trừ vào thu nhập trước khi tính thuế phải đóng (về chi tiêu)
+@Chuyên ngành kinh tế
+#có thể giảm miễn thuế
+#có thể miễn giảm thuế
+#được khấu trừ thuế

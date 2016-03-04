@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bề rộng
+#chiều cao
+@Lĩnh vực: xây dựng
+#tỷ số nhịp

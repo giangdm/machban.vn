@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#rơle điện động
+@Lĩnh vực: điện lạnh
+#rơle kiểu động lực

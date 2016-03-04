@@ -1,0 +1,5 @@
+﻿@share index
+*danh từ
+#chỉ số cổ phần (con số được dùng để chỉ giá trị của các cổ phần ở thị trường chứng khoán, dựa trên giá một số cổ phần đã chọn lựa)
+@Chuyên ngành kinh tế
+#chỉ số cổ phiếu

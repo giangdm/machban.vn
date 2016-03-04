@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm chuyển tiếp
+#điểm nối
+#điểm nút
+#điểm phân nhánh
+#nút
+@Lĩnh vực: điện lạnh
+#điểm nút (ở mạng điện)
+@Lĩnh vực: toán & tin
+#nút, điểm nút

@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kỹ thuật
+#áp kế nước
+#công tơ nước
+#đồng hồ nước
+#dụng cụ đo mực nước
+#máy đo mức nước
+#thước đo mức nước
+#thủy chí
+@Lĩnh vực: xây dựng
+#cái đo mực nước
+#thiết bị đo nước
+@Lĩnh vực: điện lạnh
+#máy đo mực nước
+@Lĩnh vực: cơ khí & công trình
+#một loại hơi đốt

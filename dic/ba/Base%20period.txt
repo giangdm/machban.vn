@@ -1,0 +1,5 @@
+﻿@Base period
+#(Econ) Giai đoạn gốc.
+: Một thời điểm được dùng để tham khảo khi so sánh với giai đoạn sau.
+@Chuyên ngành kinh tế
+#tiền cơ sở

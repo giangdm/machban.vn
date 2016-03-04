@@ -1,0 +1,5 @@
+﻿@Subsistence expenditures
+#(Econ) Chi tiêu cho mức đủ sống.
+: Một mức chi tiêu cần thiết để duy trì mức tồn tại hay mức sống sóng sót.
+@Chuyên ngành kinh tế
+#chi tiêu (chỉ vừa) đủ sống

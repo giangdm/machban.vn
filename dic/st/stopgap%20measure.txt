@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#biện pháp tạm thời, lâm thời, quá độ
+#khoản vay tạm, chuyển tiếp, lấp trống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#biện pháp tạm thời

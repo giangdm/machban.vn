@@ -1,0 +1,8 @@
+﻿@audit trail
+#(Tech) vết kiểm tra, dấu kiểm tra
+@Chuyên ngành kinh tế
+#kiểm toán trên giấy
+#kiểm toán truy nguyên
+@Chuyên ngành kỹ thuật
+#biên bản kiểm tra
+#lịch sử hoạt động

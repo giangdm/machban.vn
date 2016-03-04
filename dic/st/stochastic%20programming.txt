@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#quy hoạch ngẫu nhiên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quy hoạch ngẫu nhiên

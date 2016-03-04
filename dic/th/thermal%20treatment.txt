@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự xử lý bằng nhiệt
+@Chuyên ngành kỹ thuật
+#sự gia công nhiệt
+#sự xử lý nhiệt
+#xử lý nhiệt
+@Lĩnh vực: điện
+#việc nhiệt luyện

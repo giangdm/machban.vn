@@ -1,0 +1,9 @@
+﻿@balanced load
+#(Tech) tải cân bằng, tải đối xứng
+@Chuyên ngành kỹ thuật
+#phụ tải cân bằng
+#tải trọng đối xứng
+@Lĩnh vực: điện
+#phụ tải đối xứng
+@Lĩnh vực: toán & tin
+#tải cân bằng

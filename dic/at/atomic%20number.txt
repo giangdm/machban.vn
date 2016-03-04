@@ -1,0 +1,10 @@
+﻿@atomic number
+#(Tech) số nguyên tử
+@Chuyên ngành kỹ thuật
+#nguyên tử số
+#số nguyên tử
+@Lĩnh vực: điện
+#số (thứ tự) nguyên tử
+@Lĩnh vực: điện lạnh
+#số hiệu nguyên tử
+#số thứ tự nguyên tử

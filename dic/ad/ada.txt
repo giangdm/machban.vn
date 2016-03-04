@@ -1,0 +1,5 @@
+﻿@ada
+#Tên một ngôn ngữ lập trình bậc cao
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ Ada

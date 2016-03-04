@@ -1,0 +1,4 @@
+﻿@accounting software
+#(Tech) nhu liệu/phần mềm kế toán
+@Chuyên ngành kỹ thuật
+#phần mềm kế toán

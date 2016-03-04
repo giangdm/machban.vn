@@ -1,0 +1,2 @@
+﻿@active encapsulation
+#(Tech) bao bọc hoạt tính

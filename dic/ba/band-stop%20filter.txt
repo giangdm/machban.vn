@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lọc bỏ dải
+@Lĩnh vực: điện lạnh
+#bộ lọc chắn dải
+#bộ lọc chặn dải
+@Lĩnh vực: toán & tin
+#bộ lọc ngừng dải

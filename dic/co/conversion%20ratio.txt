@@ -1,0 +1,7 @@
+﻿@conversion ratio
+#(Tech) tỉ số hoán đổi
+@Chuyên ngành kinh tế
+#tỷ lệ chuyển đổi
+@Chuyên ngành kỹ thuật
+#hệ số biến đổi
+#hệ số tính đổi

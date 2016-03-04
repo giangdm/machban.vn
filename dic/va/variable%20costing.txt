@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phương pháp định giá biến đổi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#hạch toán theo biến phí

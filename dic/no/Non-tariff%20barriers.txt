@@ -1,0 +1,6 @@
+﻿@Non-tariff barriers
+#(Econ) Các hàng rào phi thuế quan.
+: Là những hạn chế đối với thương mại quốc tê như hạn ngạch, các chính sách thu mua trong nước của chính phủ và các tiêu chuẩn về kỹ thuật và an toàn nhằm giúp cho các nhà sản xuất trong nước có lợi thế hơn so với các nhà sản xuất nước ngoài.
+@Chuyên ngành kinh tế
+#hàng rào phi quan thuế
+#hàng rào phi thuế quan

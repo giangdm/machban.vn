@@ -1,0 +1,3 @@
+﻿@Historical model
+#(Econ) Các mô hình lịch sử.
+: Các mô hình kinh tế có khả năng phân tích các biến đổi vàtình hình trong thế giới hiên thực, đối lập với các mô hình CÂN BẰNG thường nặng tính lý thuyết.

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#ắcqui kích hoạt bằng nước
+@Lĩnh vực: hóa học & vật liệu
+#pin kích hoạt bằng nước

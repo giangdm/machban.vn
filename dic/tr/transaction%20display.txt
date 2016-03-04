@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#màn hình giao dịch (kinh doanh)
+#sự hiển thị giao dịch

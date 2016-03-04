@@ -1,0 +1,11 @@
+﻿@cold start
+#(Tech) khởi động nguội
+@Chuyên ngành kinh tế
+#cuộc khai trương lạnh
+#cuộc khai trương mới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khởi động lạnh
+#khởi động nguội
+@Lĩnh vực: xây dựng
+#khởi lạnh

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chân trị
+#giá trị chân lý
+#giá trị thực (đúng hoặc sai)
+#giá trị tin cậy

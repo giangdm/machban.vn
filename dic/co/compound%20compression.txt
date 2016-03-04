@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự nén nhiều cấp
+@Lĩnh vực: điện lạnh
+#nén hai cấp
+@Lĩnh vực: hóa học & vật liệu
+#nén nhiều nấc

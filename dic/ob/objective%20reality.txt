@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hiện thực khách quan
+@Lĩnh vực: điện lạnh
+#thực tế khách quan

@@ -1,0 +1,9 @@
+﻿@character recognition
+#(Tech) nhận dạng ký tự
+@Chuyên ngành kỹ thuật
+#nhận dạng ký tự
+@Lĩnh vực: xây dựng
+#nhận dạng kí tự
+@Lĩnh vực: toán & tin
+#sự đoán nhận chữ
+#sự nhận dạng ký tự

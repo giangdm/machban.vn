@@ -1,0 +1,2 @@
+﻿@automatic segmentation
+#(Tech) phân đoạn tự động

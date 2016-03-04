@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tương quan (không thật, giả tạo)
+#tương quan giả
+#tương quan không thật

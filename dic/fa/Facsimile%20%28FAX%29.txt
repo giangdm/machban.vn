@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#fax, điện báo truyền ảnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản fax
+#gửi fax
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#fax, điện báo truyền ảnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản fax
+#gửi fax

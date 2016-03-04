@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ghi hóa đơn
+#phân tích hàng bán
+#tài khoản nhận

@@ -1,0 +1,2 @@
+﻿@dc (direct-current) Josephson effect
+#(Tech) hiệu ứng dòng điện Josephson (Jôzepsơn) một chiều

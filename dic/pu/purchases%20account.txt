@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản mua hàng
+#tài khoản mua hàng (trong sổ cái mua hàng)

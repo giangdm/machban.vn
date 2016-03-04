@@ -1,0 +1,7 @@
+﻿@Foreign aid
+#(Econ) Viện trợ nước ngoài.
+: Một luồng vốn đổ vào hoặc một sự trợ giúp nào đó cho một nước không do các tác nhân thị trường tự nhiên cung cấp.
+@Chuyên ngành kinh tế
+#đại diện ở nước ngoài
+#ngoại viện
+#viện trợ của nước ngoài

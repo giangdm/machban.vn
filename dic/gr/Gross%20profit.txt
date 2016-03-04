@@ -1,0 +1,14 @@
+﻿@Gross profit
+#(Econ) Tổng lợi nhuận
+: Xem PROFIT.
+@Chuyên ngành kinh tế
+#lãi mộc
+#lợi nhuận gộp
+#lợi nhuận mộc
+#tổng lợi nhuận
+@Chuyên ngành kỹ thuật
+#lãi gộp
+@Lĩnh vực: hóa học & vật liệu
+#tổng lợi nhuận
+@Lĩnh vực: cơ khí & công trình
+#tổng thu

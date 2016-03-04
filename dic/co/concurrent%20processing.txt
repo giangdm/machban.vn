@@ -1,0 +1,6 @@
+﻿@concurrent processing
+#(Tech) xử lý đồng thời
+@Chuyên ngành kỹ thuật
+#sự xử lý tương tranh
+@Lĩnh vực: toán & tin
+#xử lý trùng hợp

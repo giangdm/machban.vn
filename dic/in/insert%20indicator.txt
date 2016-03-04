@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đèn báo ghi chèn
+@Lĩnh vực: toán & tin
+#đèn báo ghi chèn hình

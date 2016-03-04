@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cột ở bìa (đục lỗ)
+#cột phiếu
+#cột thẻ

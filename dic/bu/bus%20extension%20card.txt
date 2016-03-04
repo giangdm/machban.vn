@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cạc mở rộng đường truyền dẫn
+#tấm mạch mở rộng bus
+#thẻ mở rộng bus

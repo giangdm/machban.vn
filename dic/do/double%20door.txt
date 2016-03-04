@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa hai lớp
+@Lĩnh vực: giao thông & vận tải
+#cửa hai cánh
+@Lĩnh vực: điện lạnh
+#cửa hai cánh lật
+@Lĩnh vực: xây dựng
+#cửa kép

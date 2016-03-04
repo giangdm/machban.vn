@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#tính co giãn thay thế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ co giãn thay thế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ co giãn thay thế

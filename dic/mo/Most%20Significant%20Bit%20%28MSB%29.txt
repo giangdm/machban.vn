@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bít có trọng số lớn nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bit có giá trị cao nhất
+#bít có giá trị cao nhất
+#bit có nghĩa nhất
+#bít có nghĩa nhất
+#bit ở cực trái
+#bít quan trọng nhất

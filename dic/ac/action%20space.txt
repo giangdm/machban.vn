@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#không gian hành động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#không gian tác động
+@Lĩnh vực: toán & tin
+#không gian tác dụng

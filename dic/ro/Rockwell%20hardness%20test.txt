@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#kiểm tra độ cứng Rockwell
+@Lĩnh vực: cơ khí & công trình
+#phép thử độ cứng Rockwell

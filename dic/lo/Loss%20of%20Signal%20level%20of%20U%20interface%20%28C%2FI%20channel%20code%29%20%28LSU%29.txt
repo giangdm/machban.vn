@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Mất mức tín hiệu của giao hiệu U (mã kênh C/I)

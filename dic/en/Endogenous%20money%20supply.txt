@@ -1,0 +1,3 @@
+﻿@Endogenous money supply
+#(Econ) Cung tiền tệ nội sinh.
+: Theo quan điểm này, mức cung tiền được quyết định bởi các tác nhân bên trong nền kinh tế, chẳng hạn như lãi suất và mức độ hoạt động kinh doanh.

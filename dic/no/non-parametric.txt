@@ -1,0 +1,2 @@
+﻿@non-parametric
+#không có tham biến

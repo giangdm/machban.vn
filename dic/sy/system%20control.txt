@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#kiểm tra hệ thống
+@Lĩnh vực: xây dựng
+#sự điều chỉnh (một) hệ thống
+@Lĩnh vực: đo lường & điều khiển
+#sự điều khiển hệ thống

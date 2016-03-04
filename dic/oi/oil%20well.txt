@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#giếng dầu
+@Chuyên ngành kỹ thuật
+#giếng dầu
+#lỗ khoan dầu
+#ngăn dầu
+@Lĩnh vực: cơ khí & công trình
+#ổ dầu
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị giếng dầu

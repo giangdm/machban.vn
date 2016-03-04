@@ -1,0 +1,44 @@
+﻿@Debt
+#(Econ) Nợ.
+: Trách nhiệm hoặc khoản tiền nợ nảy sinh do vay mượn về tài chính hay nhận các hàng hoá hoặc dịch vụ dưới dạng tín dụng tức là sẽ trả sau.
+<!-- more -->
+@debt /det/
+*danh từ
+#nợ
+#a bad debt
+#món nợ không hy vọng được trả
+#to be in debt
+#mang công mắc nợ
+#to be in somebody's debt
+#mắc nợ ai
+#to be deep (deeply) in debt
+#nợ ngập đầu
+#to be out of debt
+#trả hết nợ
+#to fall (gets, run) into debt
+#to incur a debt
+#to run in debt
+#mắc nợ
+#he that dies, pays all debts
+#(tục ngữ) chết là hết nợ
+#a debt of honour
+#nợ danh dự
+#a debt of gratitude
+#chịu ơn ai
+#debt of nature
+#sự chết
+#to pay one's debt to nature
+#chết, trả nợ đời
+@Chuyên ngành kinh tế
+#công nợ
+#nợ
+@Chuyên ngành kỹ thuật
+#món nợ
+#sự mắc nợ
+@Lĩnh vực: xây dựng
+#nợ
+<!-- more -->
+@debt
+#(toán kinh tế) món nợ
+#national d. quốc trái
+#public d. công trái

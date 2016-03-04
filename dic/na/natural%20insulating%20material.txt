@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chất cách nhiệt tự nhiên
+#vật liệu cách nhiệt tự nhiên

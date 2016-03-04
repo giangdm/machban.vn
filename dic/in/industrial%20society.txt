@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#giới công nghiệp
+#xã hội công nghiệp
+@Chuyên ngành kỹ thuật
+#công ty công nghiệp
+@Lĩnh vực: xây dựng
+#hãng công nghiệp

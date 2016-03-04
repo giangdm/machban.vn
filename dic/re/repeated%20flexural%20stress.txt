@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ứng suất uốn lặp
+#ứng suất uốn theo chu kỳ

@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#biến điệu pha
+#điều biến pha
+#sự điều biến pha
+@Lĩnh vực: xây dựng
+#biến điệu vị tướng
+@Lĩnh vực: toán & tin
+#điều chế pha
+#sự biến điệu pha
+@Lĩnh vực: điện tử & viễn thông
+#sự điều chế pha
+#sự điều pha

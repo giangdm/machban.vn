@@ -1,0 +1,4 @@
+﻿@active node
+#(Tech) nút hoạt động
+@Chuyên ngành kỹ thuật
+#nút hoạt động

@@ -1,0 +1,20 @@
+﻿@Chuyên ngành kinh tế
+#sự dò tìm độ hở
+@Chuyên ngành kỹ thuật
+#sự phát hiện rò rỉ
+@Lĩnh vực: điện lạnh
+#dò hở
+#sự dò hở
+#tìm kiếm chỗ rò rỉ
+#xác định chỗ rò rỉ
+@Lĩnh vực: xây dựng
+#sự dò lỗ rò
+@Chuyên ngành kỹ thuật
+#sự phát hiện rò rỉ
+@Lĩnh vực: điện lạnh
+#dò hở
+#sự dò hở
+#tìm kiếm chỗ rò rỉ
+#xác định chỗ rò rỉ
+@Lĩnh vực: xây dựng
+#sự dò lỗ rò

@@ -1,0 +1,7 @@
+﻿@Issued capital
+#(Econ) Vốn phát hành.
+: Khi một công ty có hạn chế về cổ phần được thành lập, công ty này được phép tăng vốn bằng cách phát hành cổ phiếu với một số lượng nhất định.
+@Chuyên ngành kinh tế
+#vốn (cổ phần) đã phát hành, đã nhận góp
+#vốn đã phát hành
+#vốn phát hành

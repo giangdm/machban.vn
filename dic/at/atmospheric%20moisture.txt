@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#độ ẩm không khí
+@Lĩnh vực: điện lạnh
+#độ ẩm khí quyển
+@Lĩnh vực: xây dựng
+#độ ẩm trong khí quyển

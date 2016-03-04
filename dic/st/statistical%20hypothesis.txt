@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giả thiết thống kê
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giả thiết thống kê

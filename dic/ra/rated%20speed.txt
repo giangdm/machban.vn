@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tốc độ danh định
+#tốc độ định mức
+@Lĩnh vực: xây dựng
+#tốc độ qui định

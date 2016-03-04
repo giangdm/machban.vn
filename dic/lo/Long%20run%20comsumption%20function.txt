@@ -1,0 +1,3 @@
+﻿@Long run comsumption function
+#(Econ) Hàm tiêu dùng dài hạn.
+: Mối quan hệ hàm số giữa tiêu dùng và thu nhập trong giai đoạn hơn 50 năm.

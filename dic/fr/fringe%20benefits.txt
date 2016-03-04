@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#các lợi ích linh tinh
+#những lợi ích bằng tiền vật
+#những phúc lợi phụ
+#những phúc lợi xã hội (ngoài tiền lương)
+#phụ cấp
+#tiền thưởng thêm
+@Chuyên ngành kỹ thuật
+#phúc lợi phụ
+@Lĩnh vực: điện tử & viễn thông
+#sự phụ cấp ngoài

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ngưỡng suy giảm độ rõ phát âm
+#ngưỡng suy giảm độ rõ tiếng

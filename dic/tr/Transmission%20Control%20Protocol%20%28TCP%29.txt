@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giao thức điều khiển truyền dẫn
+@Lĩnh vực: toán & tin
+#giao thức điều khiển truyền dữ liệu

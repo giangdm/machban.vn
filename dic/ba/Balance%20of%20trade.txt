@@ -1,0 +1,12 @@
+﻿@Balance of trade
+#(Econ) Cán cân thương mại.
+: Thường chỉ cán cân mậu dịch hữu hình, đó là buôn bán hàng hoá trong một giai đoạn nhất định. Trên thực tế cán cân mậu dịch chỉ là một yếu tố, các yếu tố khác là vô hình trong Cán cân thanh toán vãng lai mà nó chỉ là một phần của toàn bộ CÁN CÂN THANH TOÁN của một nước.
+@Chuyên ngành kinh tế
+#cán cân buôn bán
+#cán cân thương mại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#cán cân thương mại
+<!-- more -->
+@balance of trade
+#cán cân thương mại

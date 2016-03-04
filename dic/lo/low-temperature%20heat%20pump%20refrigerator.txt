@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tủ lạnh bơm nhiệt độ thấp
+#tủ lạnh bơm nhiệt nhiệt độ thấp

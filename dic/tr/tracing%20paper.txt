@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#giấy
+#giấy can
+#giấy mỏng để đồ lại
+#giấy vẽ
+@Lĩnh vực: xây dựng
+#bản (vẽ) can
+@Lĩnh vực: cơ khí & công trình
+#giấy mờ (để đồ lại hình vẽ ở dưới)

@@ -1,0 +1,2 @@
+﻿@delayed sweep storage scope
+#(Tech) bộ chỉ báo bộ trữ quét trễ

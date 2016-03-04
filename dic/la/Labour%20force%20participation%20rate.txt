@@ -1,0 +1,3 @@
+﻿@Labour force participation rate
+#(Econ) Tỷ lệ tham gia Lực lượng lao động.
+: Đối với toàn bộ dân số hay đối với một bộ phận của dân số tính theo tuổi tác, giới tính hay chủng tộc, tỷ lệ tham gia lao động được định nghĩa là tỷ lệ giữa số dân (có việc hay thất nghiệp) có khả năng hoạt động kinh tế so với tổng số dân cùng loại.

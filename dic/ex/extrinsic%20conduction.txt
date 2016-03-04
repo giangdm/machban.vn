@@ -1,0 +1,12 @@
+﻿@extrinsic conduction
+#(Tech) độ dẫn ngoại lai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#dẫn điện ngoại lai
+@Lĩnh vực: điện
+#sự dẫn điện ngoại lai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#dẫn điện ngoại lai
+@Lĩnh vực: điện
+#sự dẫn điện ngoại lai

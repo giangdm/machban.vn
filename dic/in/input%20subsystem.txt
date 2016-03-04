@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống con đầu vào
+#hệ thống con nhập
+#hệ thống con nhập liệu
+@Lĩnh vực: điện tử & viễn thông
+#tiểu hệ nhập

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#góc độ của hệ thống dẫn hướng (lái xe)
+@Lĩnh vực: ô tô
+#hình dạng cơ cấu lái
+#hình học cơ cấu lái

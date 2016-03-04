@@ -1,0 +1,3 @@
+﻿@Mixed estimation
+#(Econ) Phương pháp ước tính hỗn hợp.
+: Là phương pháp ước tính trong đó có sử dụng thông tin phụ.

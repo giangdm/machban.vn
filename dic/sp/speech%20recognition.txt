@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhận dạng tiếng nói
+#sự nhận biết tiếng nói
+#sự nhận dạng tiếng nói

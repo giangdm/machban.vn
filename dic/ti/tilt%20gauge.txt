@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#thước đo độ dốc
+@Lĩnh vực: toán & tin
+#thước đo tốc độ

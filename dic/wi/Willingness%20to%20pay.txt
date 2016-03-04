@@ -1,0 +1,3 @@
+﻿@Willingness to pay
+#(Econ) Mức sẵn sàng trả.
+: Việc định giá của một cá nhân đối với một hàng hoá hoặc một dịch vụ bằng tiền.

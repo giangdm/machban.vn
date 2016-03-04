@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#cảm biến lưu lượng khí
+@Lĩnh vực: đo lường & điều khiển
+#lưu lượng kế dòng khí

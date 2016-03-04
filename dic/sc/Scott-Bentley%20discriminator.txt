@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ phân biệt Scott-Bentley
+@Lĩnh vực: điện
+#máy phân biệt Scott-Bentley

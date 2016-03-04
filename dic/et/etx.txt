@@ -1,0 +1,10 @@
+﻿@etx/ack handshaking
+#thiết lập quan hệ, tay bắt tay (một phương pháp để kiểm soát sự thông suốt của quá trình truyền tin nối tiếp giữa hai thiết bị, sao cho thiết bị này chỉ phát tin khi thiết bị kia đã sẵn sàng nhận)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#end-of-text
+#kết thúc text
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#end-of-text
+#kết thúc text

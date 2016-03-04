@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#biểu đồ
+#biểu đồ hành trình
+#cờ lê đường
+#đồ thị liên tục
+#giản đồ
+@Lĩnh vực: đo lường & điều khiển
+#biểu đồ băng (cho máy ghi băng điện báo)
+@Lĩnh vực: điện
+#biểu đồ dải
+@Lĩnh vực: hóa học & vật liệu
+#biểu đồ hình trụ (ghi các biến số)

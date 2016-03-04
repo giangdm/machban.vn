@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#trạm điều khiển lưới điện
+@Lĩnh vực: toán & tin
+#trạm điều khiển mạng

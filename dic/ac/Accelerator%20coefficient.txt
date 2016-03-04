@@ -1,0 +1,5 @@
+﻿@Accelerator coefficient
+#(Econ) Hệ số gia tốc.
+: Một bội số theo đó đầu tư mới sẽ tăng lên khi có sự thay đổi về sản lượng.
+@Chuyên ngành kinh tế
+#hệ số gia tốc

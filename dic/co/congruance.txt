@@ -1,0 +1,22 @@
+﻿@congruance
+#(đại số) đồng dư, tương đẳng; (hình học) doàn; sự so sánh, đồng dư thức
+#c. of circles đoàn vòng tròn
+#c. of curves đoàn đường cong
+#c. of first degree đồng dư thứ bậc nhất
+#c. of lines đoàn đường thẳng
+#c. of matrices (đại số) sự tương đẳng của các ma trận
+#c. of spheres đoàn mặt cần
+#algebraic c. đoàn đại số
+#canonical c. đoàn chỉnh tắc
+#confocal c.s đoàn đồng tiêu
+#elliptic c. đoàn eliptic
+#hyperbolic c. đoàn hipebolic
+#isotropic c. đoàn đẳng hướng
+#linear c. đoàn tuyến tính
+#linear line c. đoàn đường thẳng
+#normal c. đoàn pháp tuyến
+#quadraitic c. đoàn bậc hai
+#rectilinear c. đoàn đường thẳng
+#sextic c. đồng dư thức bậc sáu
+#special c. đoàn đặc biệt
+#tetrahedral c. đoàn tứ diện

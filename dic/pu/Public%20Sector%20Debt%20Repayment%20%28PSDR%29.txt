@@ -1,0 +1,3 @@
+﻿@Public Sector Debt Repayment (PSDR)
+#(Econ) Hoàn trả nợ của khu vực công cộng.
+: Xem Pulic Sector Borrowing Requirement (PSBR).

@@ -1,0 +1,6 @@
+﻿@Demand shift inflation
+#(Econ) Lạm phát do dịch chuyển cầu.
+: Một lý thuyết kết hợp các yếu tố của lạm phát cầu kéo với lạm phát chi phí đẩy, cho thấy rằng lạm phát là do thay đổi cơ cấu của tổng cầu.
+@Chuyên ngành kinh tế
+#lạm phát do dịch chuyển mức cầu
+#lạm phát do thay đổi tổn cầu

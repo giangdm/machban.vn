@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ chỉnh lưu quang (học)
+#thiết bị tách sóng quang (học)

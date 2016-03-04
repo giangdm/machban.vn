@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ điều hợp
+@Lĩnh vực: toán & tin
+#bộ điều hợp giao diện
+#bộ giao tiếp
+#bộ tương hợp giao diện

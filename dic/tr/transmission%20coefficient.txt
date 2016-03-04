@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số truyền
+#hệ số truyền dẫn
+@Lĩnh vực: vật lý
+#hệ số truyền (âm thanh)
+@Lĩnh vực: điện lạnh
+#hệ số truyền (qua)

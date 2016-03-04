@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự phân tích bằng phép đo hạt
+@Chuyên ngành kỹ thuật
+#sự phân tích cỡ hạt
+@Lĩnh vực: xây dựng
+#sự phân tích nhóm hạt

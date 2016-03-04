@@ -1,0 +1,3 @@
+﻿@Luxury taxes
+#(Econ) Thuế hàng xa xỉ.
+: Tăng thuế cho ngân sách chính phủ có thể rất rắc rối ở các nước kém phát triển, nhiều người tự hành nghề hoặc được trả bằng hiện vật và không thể đánh thuế thu nhập được.

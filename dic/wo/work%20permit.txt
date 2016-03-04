@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giấy phép hành nghề
+#giấy phép làm việc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giấy phép làm việc

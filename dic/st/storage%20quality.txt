@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#loại có khả năng cất giữ được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chất lượng bảo quản

@@ -1,0 +1,5 @@
+﻿@vga
+#Một tiêu chuẩn hiển thị đồ họa màu ánh xạ bit, được IBM giới thiệu vào năm 1987 cùng với loạt máy tính PS/ 2 của họ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#VGA

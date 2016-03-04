@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#lưỡi khoan lấy mẫu
+@Lĩnh vực: đo lường & điều khiển
+#mũi khoan lấy lõi
+#mũi khoan lấy mẫu lõi
+@Lĩnh vực: xây dựng
+#mũi khoan lõi
+@Lĩnh vực: cơ khí & công trình
+#mũi khoan vòng

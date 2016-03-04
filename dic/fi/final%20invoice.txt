@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#hóa đơn chính thức
+#hóa đơn cuối cùng
+#hóa đơn sau cùng là hóa đơn thay thế cho hóa đơn tạm
+#hóa đơn xác định

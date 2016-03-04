@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị lạnh kiểu phun
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#thiết bị tưới nguội

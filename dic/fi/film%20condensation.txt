@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#ngưng màng
+@Lĩnh vực: điện lạnh
+#sự ngưng màng
+@Lĩnh vực: xây dựng
+#sự ngưng tụ màng mỏng
+@Chuyên ngành kỹ thuật
+#ngưng màng
+@Lĩnh vực: điện lạnh
+#sự ngưng màng
+@Lĩnh vực: xây dựng
+#sự ngưng tụ màng mỏng

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#Nghiên cứu phổ vi ba bằng biến đổi Furiê

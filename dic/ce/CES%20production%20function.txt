@@ -1,0 +1,5 @@
+﻿@CES production function
+#(Econ) hàm sản xuất có độ co giãn thay thế cố định.
+: Xem CONSTANT ELASTICITY OF SUBTITUTION PRODUCTION FUNCTION.
+@Chuyên ngành kinh tế
+#hàm lượng sản xuất CES (có hệ số co dãn thay thế không đổi)

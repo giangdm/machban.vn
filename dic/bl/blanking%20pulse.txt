@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#xung triệt
+@Lĩnh vực: toán & tin
+#mức xóa (tín hiệu)
+@Lĩnh vực: xây dựng
+#tia điện tử mất dấu
+#xung lực làm mất dấu
+@Lĩnh vực: điện lạnh
+#xung hóa
+@Lĩnh vực: điện
+#xung xóa

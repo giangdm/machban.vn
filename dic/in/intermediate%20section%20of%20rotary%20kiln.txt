@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bộ phận trung gian của lò quay
+#vành trung gian của lò quay

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự nhận ra dấu chữ bằng mực từ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đoán nhận ký tự bằng mực từ

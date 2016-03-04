@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#ngắn hạn
+@Chuyên ngành kỹ thuật
+#ngắn hạn
+@Lĩnh vực: xây dựng
+#tính ngắn hạn

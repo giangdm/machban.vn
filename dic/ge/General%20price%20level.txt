@@ -1,0 +1,6 @@
+﻿@General price level
+#(Econ) Mức giá chung.
+: Mức giá chung của tất cả hàng hoá trong nền kinh tế.
+@Chuyên ngành kinh tế
+#mức giá cả chung
+#tổng mức giá cả

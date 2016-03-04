@@ -1,0 +1,11 @@
+﻿@Industrial dispute
+#(Econ) Tranh chấp lao động
+: Mọi sự bất đồng hay sự bất hoà hoặc là giữa chủ và người làm thuê hoặc là giữa những người làm thuê về thời hạn và điều kiện làm việc của một người, một nhóm người hay là tình trạng không có việc làm của một người.
+@Chuyên ngành kinh tế
+#tranh chấp chủ thợ
+#xung đột lao động
+#xung đột tư bản-lao động
+<!-- more -->
+@industrial dispute
+*danh từ
+#tranh chấp giữa người sử dụng lao động và người lao động, tranh chấp giữa chủ và thợ

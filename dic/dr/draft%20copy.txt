@@ -1,0 +1,6 @@
+﻿@draft copy
+#(Tech) bản nháp, bản thảo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản sao phác thảo
+#bản sao thô

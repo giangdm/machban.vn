@@ -1,0 +1,2 @@
+﻿@allocation space
+#(Tech) không gian phân định

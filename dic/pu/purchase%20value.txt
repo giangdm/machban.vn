@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giá trị (hàng) mua
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giá trị mua

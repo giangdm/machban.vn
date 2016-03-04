@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chỉ thị mức lỏng
+#mức lỏng kế
+#ống thủy
+@Lĩnh vực: điện lạnh
+#kính quan sát mức lỏng
+@Chuyên ngành kỹ thuật
+#bộ chỉ thị mức lỏng
+#mức lỏng kế
+#ống thủy
+@Lĩnh vực: điện lạnh
+#kính quan sát mức lỏng

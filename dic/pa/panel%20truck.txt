@@ -1,0 +1,6 @@
+﻿@panel truck
+*danh từ
+#xe tải nhỏ kín để đi giao hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#xe chở panen

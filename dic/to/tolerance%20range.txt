@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bảng dung sai
+#giới hạn dung sai
+#phạm vi dung sai

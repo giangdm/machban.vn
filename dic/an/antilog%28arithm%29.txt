@@ -1,0 +1,2 @@
+﻿@antilog(arithm)
+#(Tech) đối đối số, đối loga

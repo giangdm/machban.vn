@@ -1,0 +1,6 @@
+﻿@Potential entry
+#(Econ) Sự nhập ngành tiềm năng.
+: Đối với một ngành cụ thể, đó là khả năng cạnh tranh mới của các hãng - các hãng chưa sản xuất các sản phẩm cạnh tranh.
+@Chuyên ngành kinh tế
+#sự thâm nhập tiềm ẩn
+#sự xâm nhập tiềm tàng

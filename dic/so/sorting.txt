@@ -1,0 +1,24 @@
+﻿@sorting
+*danh từ
+#sự tuyển chọn; phân loại
+@Chuyên ngành kinh tế
+#lựa chọn phân loại
+#sự phân loại
+@Chuyên ngành kỹ thuật
+#phân loại
+#sắp xếp
+#so lựa
+#sự chọn
+#sự chọn quặng
+#sự chọn than
+#sự lựa chọn
+#sự phân loại
+#sự sắp xếp
+#sự so lựa
+@Lĩnh vực: điện tử & viễn thông
+#sắp
+<!-- more -->
+@sorting
+#sự chọn, sự phana loại
+#card s. (máy tính) sự chọn bìa đục lỗ
+#radix s. (máy tính) chọn theo cơ số đếm

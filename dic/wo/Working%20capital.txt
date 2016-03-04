@@ -1,0 +1,19 @@
+﻿@Working capital
+#(Econ) Vốn lưu động.
+: Thường là những khoản của tài sản ngắn hạn do nguồn vốn dài hạn tạo nên.
+@Chuyên ngành kinh tế
+#vốn chu chuyển
+#vốn hoạt động
+#vốn kinh doanh
+#vốn luân chuyển
+#vốn lưu động, vốn chu chuyển, vốn kinh doanh
+@Chuyên ngành kỹ thuật
+#công
+#công trình
+#vốn luân chuyển
+@Lĩnh vực: xây dựng
+#vốn lao động
+<!-- more -->
+@working capital
+*danh từ
+#vốn luân chuyển (vốn cần thiết để sử dụng cho việc điều hành một doanh nghiệp, chứ không đầu tư vào nhà cửa, thiết bị...)

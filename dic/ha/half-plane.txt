@@ -1,0 +1,7 @@
+﻿@half-plane
+#giá trị. nửa mặt phẳng
+#h. of convergence nửa mặt phẳng hộ tụ
+#lower h. giá trị. nửa mặt phẳng dưới
+#upper h. giá trị. nửa mặt phẳng trên
+@Chuyên ngành kỹ thuật
+#nửa mặt phẳng

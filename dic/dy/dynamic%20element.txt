@@ -1,0 +1,2 @@
+﻿@dynamic element
+#(Tech) phần tử động

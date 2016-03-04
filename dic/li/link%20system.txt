@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#chế độ dây chuyền (xuất nhập khẩu)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ liên kết
+#hệ thống nối mạng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ liên kết
+#hệ thống nối mạng

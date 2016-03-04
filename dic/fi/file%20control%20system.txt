@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ điều khiển tệp
+@Lĩnh vực: toán & tin
+#hệ thống điều khiển tập tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ điều khiển tệp
+@Lĩnh vực: toán & tin
+#hệ thống điều khiển tập tin

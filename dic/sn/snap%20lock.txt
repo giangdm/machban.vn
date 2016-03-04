@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#khóa lò xo
+#ổ khóa kiểu lò xo
+@Lĩnh vực: xây dựng
+#then cửa tự động

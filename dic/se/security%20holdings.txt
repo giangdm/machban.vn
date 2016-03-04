@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#số chứng khoán có giá nắm giữ
+#số chứng khoán có giá nắm giữ, tổ hợp các chứng khoán có giá
+#tổ hợp các chứng khoán có giá

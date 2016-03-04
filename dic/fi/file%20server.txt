@@ -1,0 +1,24 @@
+﻿@file server
+#(Tech) bộ phục vụ tập tin
+@Chuyên ngành kỹ thuật
+#bộ phục vụ tệp
+#máy chủ
+@Lĩnh vực: toán & tin
+#bộ phục vụ tập tin
+#máy dịch vụ tập tin
+#máy dịch vụ tệp
+@Lĩnh vực: điện tử & viễn thông
+#máy chủ (cung cấp) tệp
+@Lĩnh vực: xây dựng
+#thụ ủy tệp
+@Chuyên ngành kỹ thuật
+#bộ phục vụ tệp
+#máy chủ
+@Lĩnh vực: toán & tin
+#bộ phục vụ tập tin
+#máy dịch vụ tập tin
+#máy dịch vụ tệp
+@Lĩnh vực: điện tử & viễn thông
+#máy chủ (cung cấp) tệp
+@Lĩnh vực: xây dựng
+#thụ ủy tệp

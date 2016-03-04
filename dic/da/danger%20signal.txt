@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tín hiệu báo động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#tín hiệu nguy hiểm

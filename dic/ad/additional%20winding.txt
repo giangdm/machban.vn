@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn dây bổ sung
+@Lĩnh vực: đo lường & điều khiển
+#cuộn dây phụ

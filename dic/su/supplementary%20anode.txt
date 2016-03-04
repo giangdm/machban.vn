@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#anôt bổ sung (trong mạ điện)
+@Lĩnh vực: điện
+#anôt phụ (bổ sung)

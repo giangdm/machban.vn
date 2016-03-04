@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự phân tích sai biệt
+#sự phân tích sai biệt (trong kế toán)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#phân tích biên độ
+@Lĩnh vực: toán & tin
+#phân tích phương sai

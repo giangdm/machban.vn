@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ dốc 33, 50
+@Lĩnh vực: xây dựng
+#độ dốc 33, 5R

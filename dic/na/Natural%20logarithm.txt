@@ -1,0 +1,5 @@
+﻿@Natural logarithm
+#(Econ) Lôgarit tự nhiên.
+: Xem LOGARITHM.
+@Chuyên ngành kỹ thuật
+#lôgarit tự nhiên

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ tạo nhịp âm thanh
+#chuông nhịp
+#tạo chuông định pha

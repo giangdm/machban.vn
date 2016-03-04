@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#đài mặt đất
+#trạm mặt đất
+@Lĩnh vực: điện tử & viễn thông
+#đài trên mặt đất
+@Lĩnh vực: toán & tin
+#trạm phát mặt đất
+@Chuyên ngành kỹ thuật
+#đài mặt đất
+#trạm mặt đất
+@Lĩnh vực: điện tử & viễn thông
+#đài trên mặt đất
+@Lĩnh vực: toán & tin
+#trạm phát mặt đất

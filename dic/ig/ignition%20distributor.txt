@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ chia điện
+#bộ phân phối đánh lửa
+@Lĩnh vực: xây dựng
+#đấu phát lửa
+@Lĩnh vực: toán & tin
+#đầu phát lửa

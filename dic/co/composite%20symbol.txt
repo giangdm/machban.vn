@@ -1,0 +1,6 @@
+﻿@composite symbol
+#(Tech) ký hiệu đa hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký hiệu hỗn hợp
+#ký hiệu phức hợp

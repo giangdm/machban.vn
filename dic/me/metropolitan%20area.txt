@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#đại đô thị
+#phố lớn
+#thành phố lớn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khu đô thị lớn

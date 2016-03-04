@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#các tập hợp rời nhau
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập hợp rời nhau
+#tập rời nhau

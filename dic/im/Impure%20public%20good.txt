@@ -1,0 +1,3 @@
+﻿@Impure public good
+#(Econ) Hàng hoá công cộng không thuần tuý.
+: Xem MIXED GOOD.

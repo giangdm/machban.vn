@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chỉ số bazơ toàn phần
+@Lĩnh vực: hóa học & vật liệu
+#tổng giá trị bazơ
+#tổng giá trị kiềm

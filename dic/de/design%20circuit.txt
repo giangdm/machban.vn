@@ -1,0 +1,2 @@
+﻿@design circuit
+#(Tech) mạch thiết kế

@@ -1,0 +1,2 @@
+﻿@cross check(ing)
+#(Tech) kiểm tra chéo/hỗ tương

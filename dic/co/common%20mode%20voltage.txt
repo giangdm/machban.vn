@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#điện áp chế độ thông thường
+@Lĩnh vực: điện lạnh
+#điện áp tín hiệu cùng pha

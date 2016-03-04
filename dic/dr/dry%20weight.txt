@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#trọng lượng khô
+#trọng lượng khô (của bản thân động cơ máy bay)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#khối lượng trống

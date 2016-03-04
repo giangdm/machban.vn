@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#bệ máy
+#khung máy
+@Lĩnh vực: hóa học & vật liệu
+#giá đỡ máy phát
+#khung đỡ động cơ
+@Lĩnh vực: cơ khí & công trình
+#khung động cơ
+@Chuyên ngành kỹ thuật
+#bệ máy
+#khung máy
+@Lĩnh vực: hóa học & vật liệu
+#giá đỡ máy phát
+#khung đỡ động cơ
+@Lĩnh vực: cơ khí & công trình
+#khung động cơ

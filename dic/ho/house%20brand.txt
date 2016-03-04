@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#nhãn hiệu (riêng) của công ty
+#nhãn hiệu riêng của người bán lẻ
+@Chuyên ngành kỹ thuật
+#nhãn sản xuất
+@Lĩnh vực: cơ khí & công trình
+#nhãn hiệu chế tạo

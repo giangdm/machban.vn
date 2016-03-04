@@ -1,0 +1,2 @@
+﻿@group attribute
+#(Tech) thuộc tính nhóm

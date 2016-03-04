@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt kế điện trở
+@Lĩnh vực: ô tô
+#cảm biến nhiệt trở

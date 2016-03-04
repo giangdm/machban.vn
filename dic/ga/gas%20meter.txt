@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#đồng hồ đo khí
+#dụng cụ đo khí
+#khí kế
+#máy đo khí
+@Lĩnh vực: cơ khí & công trình
+#đồng hồ (đo) khí
+@Lĩnh vực: đo lường & điều khiển
+#lưu lượng kế ga
+@Lĩnh vực: xây dựng
+#máy đo lưu lượng khí

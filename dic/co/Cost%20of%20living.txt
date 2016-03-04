@@ -1,0 +1,8 @@
+﻿@Cost of living
+#(Econ) Chi phí cho sinh hoạt; Giá sinh hoạt.
+:  Xem RETAIL PRICE INDEX.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chi phí sinh hoạt
+@Lĩnh vực: xây dựng
+#giá sinh hoạt

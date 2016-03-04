@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#giấy không thấm nước
+@Lĩnh vực: xây dựng
+#giấy chịu ẩm
+@Lĩnh vực: điện lạnh
+#giấy không thấm ẩm
+#giấy không thấm nước (không thấm ẩm)

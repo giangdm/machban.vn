@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng đàn hồi
+#độ đàn hồi dư
+@Lĩnh vực: điện lạnh
+#độ đàn hồi còn dư
+#tính đàn hồi còn dư

@@ -1,0 +1,4 @@
+﻿@acoustic impedance
+#(Tech) trở kháng âm thanh, âm trở
+@Chuyên ngành kỹ thuật
+#âm trở

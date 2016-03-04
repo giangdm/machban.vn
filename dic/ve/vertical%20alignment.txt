@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt cắt đứng
+@Lĩnh vực: xây dựng
+#sắp thẳng đứng
+#sự vạch tuyến trắc đồ (một con đường)
+#trắc dọc tuyến
+#vạch đường thẳng đứng
+@Lĩnh vực: toán & tin
+#sự chỉnh thẳng hàng đứng
+#sự sắp hàng dọc

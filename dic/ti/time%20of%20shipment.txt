@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#kỳ hạn xếp chở
+#thời gian chở
+#thời gian chở, kỳ hạn xếp chở (hàng hóa)

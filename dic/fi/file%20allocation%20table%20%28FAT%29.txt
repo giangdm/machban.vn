@@ -1,0 +1,24 @@
+﻿@file allocation table (FAT)
+#(Tech) bảng phân bố tập tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bảng phân phối tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản cấp phát tập tin
+#bảng định vị tệp
+#bảng phân bố tập tin
+#bảng phân bố tệp
+@Lĩnh vực: xây dựng
+#bảng kê cấp phát tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bảng phân phối tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bản cấp phát tập tin
+#bảng định vị tệp
+#bảng phân bố tập tin
+#bảng phân bố tệp
+@Lĩnh vực: xây dựng
+#bảng kê cấp phát tệp

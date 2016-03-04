@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#cổ phiếu ký danh
+@Chuyên ngành kỹ thuật
+#cổ phần ký danh

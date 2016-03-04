@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sức chịu
+@Lĩnh vực: toán & tin
+#kéo không đều
+@Lĩnh vực: điện
+#phụ tải không cân bằng
+#tải không cân bằng
+@Lĩnh vực: xây dựng
+#sức kéo không đều

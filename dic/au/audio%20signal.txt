@@ -1,0 +1,5 @@
+﻿@audio signal
+#(Tech) tín hiệu âm thanh
+@Chuyên ngành kỹ thuật
+#tín hiệu âm tần
+#tín hiệu nghe được

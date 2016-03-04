@@ -1,0 +1,13 @@
+﻿@pitot tube
+*danh từ
+#ống nhỏ, hở một đầu (dùng trong các dụng cụ đo áp suất, tốc độ của chất lỏng)
+@Chuyên ngành kỹ thuật
+#ống Pitot
+@Lĩnh vực: điện
+#ống Pitô (đo lưu lượng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#ống đo tốc độ nước
+@Lĩnh vực: vật lý
+#ống pitôt
+#ống thủy văn

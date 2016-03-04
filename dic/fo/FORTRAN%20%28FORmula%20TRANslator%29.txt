@@ -1,0 +1,2 @@
+﻿@FORTRAN (FORmula TRANslator)
+#(Tech) chương ngữ FORTRAN (bộ phiên dịch công thức)

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#vệt định thời
+#vệt đồng hồ
+@Lĩnh vực: toán & tin
+#kiểm tra đồng hồ
+#rãnh đồng hồ
+#vạch đồng hồ
+#vết đồng hồ

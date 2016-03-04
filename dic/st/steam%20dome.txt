@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#nắp hơi
+@Chuyên ngành kỹ thuật
+#đôm hơi
+@Lĩnh vực: điện lạnh
+#vòm thu hơi nước

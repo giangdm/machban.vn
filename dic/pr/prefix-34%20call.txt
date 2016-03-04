@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cuộc gọi đầu 34
+#cuộc gọi tiền tố 34
+@Lĩnh vực: điện tử & viễn thông
+#liên lạc cá nhân

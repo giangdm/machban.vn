@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự nén quá
+@Lĩnh vực: xây dựng
+#sự ép quá
+#sự ép thêm
+#sự nén thêm

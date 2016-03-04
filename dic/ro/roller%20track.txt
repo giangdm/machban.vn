@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đường lăn
+#mặt lăn
+@Lĩnh vực: cơ khí & công trình
+#đường kính lăn trên xích
+@Lĩnh vực: xây dựng
+#đường lăn tên xích
+@Lĩnh vực: toán & tin
+#đường lăn trên xích

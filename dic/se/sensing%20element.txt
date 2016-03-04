@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bầu cảm
+#đầu cảm nhiệt
+@Lĩnh vực: toán & tin
+#phần tử cảm biến

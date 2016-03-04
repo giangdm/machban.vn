@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#vị trí làm việc
+#vị trí thao tác
+@Lĩnh vực: xây dựng
+#vị trí điều hành
+@Lĩnh vực: toán & tin
+#vị trí hoạt động
+@Lĩnh vực: điện tử & viễn thông
+#vị trí thao tác viên
+#vị trí vận hành

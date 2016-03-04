@@ -1,0 +1,7 @@
+﻿@Social cost
+#(Econ) Phí tổn xã hội; Chi phí xã hội.
+: Chi phí xã hội của một sản lượng nào đó được coi là số tiền vừa đủ để đền bù phục hồi độ thoả dụng ban đầu mất đi của bất kỳ người nào do hậu quả của việc sản xuất ra sản lượng đó.
+@Chuyên ngành kinh tế
+#cái giá xã hội phải trả
+#chi phí của xã hội
+#phí tổn xã hội

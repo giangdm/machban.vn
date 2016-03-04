@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#mức luân chuyển lao động
+@Chuyên ngành kỹ thuật
+#sự luân chuyển lao động
+#sự lưu chuyển lao động
+@Chuyên ngành kỹ thuật
+#sự luân chuyển lao động
+#sự lưu chuyển lao động

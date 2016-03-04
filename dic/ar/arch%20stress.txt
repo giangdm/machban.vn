@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#nội lực ở vòm
+@Lĩnh vực: toán & tin
+#ứng suất nén lệch tâm
+#ứng suất ở vòm
+@Lĩnh vực: xây dựng
+#ứng xuất nén lệch tâm
+#ứng xuất ở vòm

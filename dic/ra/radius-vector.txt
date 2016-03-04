@@ -1,0 +1,7 @@
+﻿@radius-vector
+*danh từ
+#bán kính vectơ; vectơ tia
+@Chuyên ngành kỹ thuật
+#bán kính vectơ
+@Lĩnh vực: điện lạnh
+#vectơ theo tia

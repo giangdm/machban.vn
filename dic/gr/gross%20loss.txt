@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#lỗ mộc
+#tổng lỗ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#tổng hao hụt

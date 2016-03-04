@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#ăng ten chảo
+#bộ phản sóng hình parabôn
+#bóng đèn
+#gương phản chiếu
+@Lĩnh vực: điện tử & viễn thông
+#ăng ten phản xạ parabon
+@Lĩnh vực: điện lạnh
+#bộ phản xạ lõm
+#bộ phản xạ parabon
+@Lĩnh vực: cơ khí & công trình
+#gương phản chiếu dạng parabôn
+@Lĩnh vực: vật lý
+#gương phản xạ parabon

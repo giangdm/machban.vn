@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#thời gian âm vang
+@Lĩnh vực: điện lạnh
+#thời gian phản hồi âm
+#thời gian vang
+@Lĩnh vực: xây dựng
+#thời gian phản xạ
+@Lĩnh vực: điện tử & viễn thông
+#thời gian vang dội

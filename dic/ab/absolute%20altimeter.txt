@@ -1,0 +1,2 @@
+﻿@absolute altimeter
+#(Tech) máy đo độ cao tuyệt đối

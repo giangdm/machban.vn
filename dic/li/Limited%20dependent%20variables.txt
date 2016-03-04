@@ -1,0 +1,3 @@
+﻿@Limited dependent variables
+#(Econ) Các biến số phụ thuộc hạn chế.
+: Xảy ra trong mô hình hồi quy theo đó biến phụ thuộc bị hạn chế ở một số khoảng giá trị nào đó.

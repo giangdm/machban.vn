@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt kế khí
+@Lĩnh vực: đo lường & điều khiển
+#nhiệt kế dùng khí

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giấy chấp nhận mậu dịch
+#hối phiếu được người mua chấp nhận
+#hối phiếu nhận trả thương mại
+#hối phiếu thương mại

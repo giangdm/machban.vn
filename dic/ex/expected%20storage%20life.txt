@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#khả năng bảo quản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thời gian bảo quản dự kiến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thời gian bảo quản dự kiến

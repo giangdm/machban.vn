@@ -1,0 +1,5 @@
+﻿@non-overlapping
+#không giao nhau, không dẫm lên nhau
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#không giao nhau

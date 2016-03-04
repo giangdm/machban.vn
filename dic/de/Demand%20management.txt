@@ -1,0 +1,5 @@
+﻿@Demand management
+#(Econ) Quản lý cầu.
+: Việc kiểm soát mức tổng cầu trong một nền kinh tế thông qua việc sử dụng CHÍNH SÁCH TIỀN TỆ, CHÍNH SÁCH TÀI CHÍNH.
+@Chuyên ngành kinh tế
+#sự quản lý mức cầu

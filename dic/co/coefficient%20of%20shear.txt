@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số trượt
+@Lĩnh vực: xây dựng
+#hệ số cắt
+#hệ số dịch chuyển

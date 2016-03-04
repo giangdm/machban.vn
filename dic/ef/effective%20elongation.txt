@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#độ giãn tỷ đối thực
+@Lĩnh vực: toán & tin
+#ly độ hiệu dụng
+#ly độ hữu hiệu
+#sự giãn hiệu dụng
+#sự giãn hữu hiệu
+@Lĩnh vực: cơ khí & công trình
+#sự giản tỷ đối thực

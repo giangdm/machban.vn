@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#hiệu chỉnh gió
+@Lĩnh vực: đo lường & điều khiển
+#ngắm thẳng

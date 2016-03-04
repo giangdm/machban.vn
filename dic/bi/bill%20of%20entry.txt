@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#giấy khai hải quan
+#giấy trình báo vào cảng
+#tờ khai chi tiết thuế hải quan
+#tờ khai hải quan
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#bản khai thuế quan nhập cảnh
+@Lĩnh vực: điện
+#giấy khai hải quan

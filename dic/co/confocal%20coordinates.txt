@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tọa độ đồng tiêu
+#tọa độ elipxoit
+#tọa độ ellipsoit

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#bọc một lớp cao su
+#vỏ bao bằng cao su (dây dẫn điện)

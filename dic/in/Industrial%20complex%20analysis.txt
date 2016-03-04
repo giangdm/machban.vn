@@ -1,0 +1,6 @@
+﻿@Industrial complex analysis
+#(Econ) Phân tích tổ hợp công nghiệp.
+: Một kỹ thuật được sử dụng trong kế hoạch hoá vùng lãnh thổ, nó tập trung vào phân tích mối quan hệ tương tác giữa các hoạt động công nghiệp được thực hiện trên cùng một vùng địa lý.
+@Chuyên ngành kinh tế
+#phân tích khu liên hợp công nghiệp
+#sự phân tích khu công nghiệp

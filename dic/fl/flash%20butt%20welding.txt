@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hàn chảy giáp nối
+@Lĩnh vực: điện
+#hàn giáp mối do chớp sáng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hàn chảy giáp nối
+@Lĩnh vực: điện
+#hàn giáp mối do chớp sáng

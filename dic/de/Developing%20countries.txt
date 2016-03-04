@@ -1,0 +1,5 @@
+﻿@Developing countries
+#(Econ) Các nước đang phát triển.
+: Để miêu tả tình trạng kinh tế của các nước nghèo hơn của thế giới, được bắt đầu sử dụng trong những năm 1960 để thay thế các cụm thuật ngữ ít hoàn chỉnh hơn như kém phát triển hoặc lạc hậu. Xem ADVANCED COUNTRIES.
+@Chuyên ngành kinh tế
+#các nước đang phát triển

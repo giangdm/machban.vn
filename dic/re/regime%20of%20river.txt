@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#chế độ của dòng sông
+#chế độ dòng sông
+@Lĩnh vực: môi trường
+#chế độ sông ngòi
+@Lĩnh vực: xây dựng
+#trạng thái của dòng sông

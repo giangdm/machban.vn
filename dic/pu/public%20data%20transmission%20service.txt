@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dịch vụ truyền dữ liệu chung
+#dịch vụ truyền dữ liệu công cộng

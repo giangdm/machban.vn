@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#quá trình đo độ ẩm (không khí)
+#quá trình nhiệt ẩm

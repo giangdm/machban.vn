@@ -1,0 +1,2 @@
+﻿@azimuth potentiometer
+#(Tech) máy điện thế phương vị, bộ biến trở phương vị

@@ -1,0 +1,2 @@
+﻿@aix
+#Phiên bản IBM của hệ điều hành UNIX

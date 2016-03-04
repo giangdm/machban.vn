@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#trung hòa dao động
+@Lĩnh vực: điện
+#trung tính dao động

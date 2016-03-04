@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tổ máy nén bình ngưng amoniac
+#tổ ngưng tụ NH3

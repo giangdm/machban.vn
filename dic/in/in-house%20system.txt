@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống nội sở
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ thống nội bộ
+#hệ thống trong nhà

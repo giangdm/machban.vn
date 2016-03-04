@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sản lượng đã định
+@Chuyên ngành kỹ thuật
+#công suất danh định
+#công suất danh nghĩa
+@Lĩnh vực: toán & tin
+#công suất ra danh định

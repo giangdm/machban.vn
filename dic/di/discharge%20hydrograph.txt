@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#đường cong lưu lượng
+@Lĩnh vực: cơ khí & công trình
+#biểu đồ lưu lượng
+#đường lưu lượng
+@Lĩnh vực: xây dựng
+#biểu đồ thủy văn
+@Lĩnh vực: hóa học & vật liệu
+#biểu đồ tiêu thoát

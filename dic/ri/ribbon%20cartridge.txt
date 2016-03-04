@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#băng mực
+@Chuyên ngành kỹ thuật
+#ruy băng mực
+@Lĩnh vực: toán & tin
+#hộp ruy-băng

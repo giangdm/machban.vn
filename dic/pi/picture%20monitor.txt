@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ kiểm tra hình
+@Lĩnh vực: điện lạnh
+#máy thu hình kiểm tra

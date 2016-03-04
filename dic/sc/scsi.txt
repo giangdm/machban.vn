@@ -1,0 +1,2 @@
+﻿@scsi
+#Một giao diện, thực chất là một loại bus mở rộng phức tạp, trong đó bạn có thể cắm vào các thiết bị như ổ đựa cứng, ổ đựa CD ROM, máy quét hình và máy in laser Thiết bị SCSI thông dụng nhất là ổ cứng SCSI có chứa hầu hết các mạch điều khiển, nên đã làm cho giao diện SCSI trở nên tự do để thực hiện thông tin với các thiết bị ngoại vi khác Tối đa có thể mắc bảy thiết bị SCSI vào một cổng SCSI

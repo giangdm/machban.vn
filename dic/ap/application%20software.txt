@@ -1,0 +1,10 @@
+﻿@application software
+#(Tech) nhu kiện ứng dụng
+@Chuyên ngành kinh tế
+#phần mềm ứng dụng
+@Chuyên ngành kỹ thuật
+#chương trình phần mềm
+#ứng dụng
+@Lĩnh vực: toán & tin
+#chương trình ứng dụng
+#phần mềm ứng dụng

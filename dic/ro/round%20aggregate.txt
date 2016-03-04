@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cốt liệu dạng đá cuội
+#cốt liệu dạng sỏi tròn
+@Lĩnh vực: cơ khí & công trình
+#cốt liệu hạt tròn

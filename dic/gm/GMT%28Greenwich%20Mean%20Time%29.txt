@@ -1,0 +1,2 @@
+﻿@GMT(Greenwich Mean Time)
+#(Tech) giờ Grinvic, giờ quốc tế GMT

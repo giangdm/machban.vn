@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phương tiện truy nhập đầu cuối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình truy cập đầu cuối

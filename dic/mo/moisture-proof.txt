@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#bền với nước
+#chống ẩm
+@Chuyên ngành kỹ thuật
+#chống ẩm
+#không thấm ẩm
+@Lĩnh vực: xây dựng
+#được cách ẩm

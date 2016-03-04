@@ -1,0 +1,3 @@
+﻿@run by
+#chạy ngang qua trước (cửa sổ...)
+#trôi qua (thời gian...)

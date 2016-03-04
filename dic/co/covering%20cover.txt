@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cách bọc
+#kiểu bọc
+#việc bọc dây

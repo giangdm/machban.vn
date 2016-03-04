@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sai lệch lưu lượng chữ
+#sai lệch mức độ chữ

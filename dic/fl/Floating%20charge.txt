@@ -1,0 +1,21 @@
+﻿@Floating charge
+#(Econ) Phí linh động
+: Một dạng đảm bảo của người đi vay đối với các khoản vay hay các khoản nợ khác, ví dụ như cổ phiếu công ty.
+@Chuyên ngành kinh tế
+#báo chứng không cố định
+#bảo chứng không cố định
+#phí không cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện tích giọt
+#điện tích lơ lửng
+#điện tích thả nổi
+@Lĩnh vực: điện lạnh
+#sự nạp động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện tích giọt
+#điện tích lơ lửng
+#điện tích thả nổi
+@Lĩnh vực: điện lạnh
+#sự nạp động

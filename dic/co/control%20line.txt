@@ -1,0 +1,6 @@
+﻿@control line
+#(Tech) dây điều khiển
+@Chuyên ngành kỹ thuật
+#dòng điều khiển
+@Lĩnh vực: điện
+#dây điều khiển

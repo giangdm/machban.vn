@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#lò xo đĩa
+#lò xo lá
+@Lĩnh vực: ô tô
+#chốt cờ la vét
+@Lĩnh vực: toán & tin
+#chốt woodruff
+@Lĩnh vực: xây dựng
+#chốt woodruff (hình bán nguyệt)
+@Lĩnh vực: cơ khí & công trình
+#then woodruff

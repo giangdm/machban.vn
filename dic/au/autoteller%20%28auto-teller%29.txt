@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ghi-sê tự động
+#máy thu chi tự động
+#thủ quỹ tự động

@@ -1,0 +1,5 @@
+﻿@non-recursive
+#(logic học) không đệ quy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#không đệ quy

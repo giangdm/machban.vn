@@ -1,0 +1,3 @@
+﻿@Pareto non-comparability
+#(Econ) Tính không thể so sánh Pareto.
+: Một tình trạng xã hội mà một số cá nhân thích tình trạng này hơn và một số khác lại thích tình trạng kia hơn thì hai tình trạng này được coi là tình trạng không thể so sánh Pareto.

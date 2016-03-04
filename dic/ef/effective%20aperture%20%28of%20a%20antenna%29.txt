@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#góc mở hiệu dụng (của ăng ten)
+#khẩu độ hiệu dụng (của anten)

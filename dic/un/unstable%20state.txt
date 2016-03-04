@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#trạng thái không ổn định
+@Lĩnh vực: toán & tin
+#trạng thái không bền

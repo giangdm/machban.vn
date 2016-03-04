@@ -1,0 +1,3 @@
+﻿@Central Limit Theorem.
+#(Econ) Định lý giới hạn trung tâm.
+: Định lý nói rằng tổng (và trung bình) của một nhóm các biến ngẫu nhiên sẽ tuân theo phân phối chuẩn nếu mẫu chọn đủ lớn, không phụ thuộc vào dạng phân phối mà các biến riêng biệt có.

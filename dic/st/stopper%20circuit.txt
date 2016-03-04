@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch cộng hưởng song song
+@Lĩnh vực: điện lạnh
+#mạch chặn

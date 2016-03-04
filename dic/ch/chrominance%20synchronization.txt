@@ -1,0 +1,2 @@
+﻿@chrominance synchronization
+#(Tech) đồng bộ màu sắc

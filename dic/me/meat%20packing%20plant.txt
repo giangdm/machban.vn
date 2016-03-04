@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#xí nghiệp liên hợp sản xuất thịt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+#nhà máy thịt hộp

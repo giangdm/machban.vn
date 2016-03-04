@@ -1,0 +1,2 @@
+﻿@finite difference method (FDM)
+#(Tech) phương pháp vi phân hữu hạn

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sức nâng tối đa
+#tải trọng giới hạn cho phép

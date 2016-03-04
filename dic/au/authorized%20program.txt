@@ -1,0 +1,6 @@
+﻿@authorized program
+#(Tech) chương trình được quyền/cho phép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chương trình được phép
+#chương trình được quyền

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự đo dài
+#sự đo khoảng cách
+@Lĩnh vực: xây dựng
+#đo khoảng cách

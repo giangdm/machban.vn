@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#biểu đồ độ rỗng
+#carota độ rỗng
+@Lĩnh vực: đo lường & điều khiển
+#log độ xốp (kỹ thuật đo)

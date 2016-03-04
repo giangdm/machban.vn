@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#đồ gửi
+#hàng gửi bán
+#hàng hóa gửi đi
+#hàng nhận bán

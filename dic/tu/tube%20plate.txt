@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#lưới ống
+@Lĩnh vực: xây dựng
+#tấm thép để làm ống
+@Lĩnh vực: vật lý
+#tôn kéo ống
+#tôn làm ống
+@Lĩnh vực: cơ khí & công trình
+#vách hộp lửa

@@ -1,0 +1,6 @@
+﻿@Disutility
+#(Econ) Độ bất thoả dung.
+: Sự không thoả mãn hoặc không hài lòng do một sản phẩm hay hàng xấu gây ra.Xem Utility.
+@Chuyên ngành kinh tế
+#phản hiệu dụng
+#sự trái hiệu ích

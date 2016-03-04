@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#sự phân phối nguồn vốn
+@Chuyên ngành kỹ thuật
+#cấp phát tài nguyên
+#nguồn phụ trợ
+#nguyên liệu
+#phân phối nguồn lực
+#sự cấp phát tài nguyên
+#tài nguyên
+@Lĩnh vực: toán & tin
+#sự cấp phát nguồn
+#sự phân phối tài nguyên
+#sự phân phối tài nguyên (nguồn sự trữ)

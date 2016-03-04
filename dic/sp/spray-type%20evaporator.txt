@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị bốc hơi kiểu phun
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dàn bay hơi kiểu phun
+#giàn bay hơi kiểu phun

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#con chốt quay chuyển (để chận)
+@Lĩnh vực: xây dựng
+#con chốt quay chuyển (để chặn)

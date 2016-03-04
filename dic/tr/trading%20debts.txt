@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#nợ thương nghiệp (nợ công ty thiếu của người khác)
+#trái quyền thương nghiệp (nợ người khác thiếu của công ty)

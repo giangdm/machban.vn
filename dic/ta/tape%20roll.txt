@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cuộn băng nhận điện tín
+@Lĩnh vực: xây dựng
+#cuộn băng nhận tín hiệu

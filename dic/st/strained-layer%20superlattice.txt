@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#siêu cấu trúc lớp biến dạng (bán dẫn)
+@Lĩnh vực: điện lạnh
+#siêu mạng lớp biến dạng

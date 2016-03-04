@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#thư tín dụng (du lịch) lưu thông hạn chế
+#thư tín dụng lưu thông hạn chế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tín dụng thư giới hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#tín dụng thư giới hạn

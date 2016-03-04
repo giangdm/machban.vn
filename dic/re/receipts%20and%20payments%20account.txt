@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản thu chi
+#tài khoản thu chi (tiền mặt)
+#tài khoản thu-chi

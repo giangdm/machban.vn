@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#tấm khuếch tán
+@Lĩnh vực: điện lạnh
+#bộ khuếch tán không khí
+#bộ phân phối không khí
+#miệng thổi không khí
+#vòi phun khí
+@Lĩnh vực: xây dựng
+#khuếch tán không khí

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số nhân
+#thừa số
+@Lĩnh vực: toán & tin
+#thừa số nhân

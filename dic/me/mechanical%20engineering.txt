@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#công trình cơ giới
+#công trình tự động
+@Chuyên ngành kỹ thuật
+#kỹ thuật cơ khí
+#ngành chế tạo máy
+#ngành cơ khí
+@Lĩnh vực: toán & tin
+#công nghệ chế tạo máy
+#kỹ thuật chế tạo máy
+@Lĩnh vực: hóa học & vật liệu
+#kỹ thuật cơ học

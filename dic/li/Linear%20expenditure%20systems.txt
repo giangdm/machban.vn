@@ -1,0 +1,3 @@
+﻿@Linear expenditure systems
+#(Econ) Các hệ thống chi tiêu tuyến tính.
+: Trong các hệ thống chi tiêu tuyến tính, các HÀM CẦU được diễn tả đối với các nhóm hàng hoá, chức không phải với các hàng hóa đơn lẻ.

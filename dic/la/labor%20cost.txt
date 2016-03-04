@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#các chi phí về lao động
+#chi phí nhân công
+@Chuyên ngành kỹ thuật
+#chi phí lao động
+@Chuyên ngành kỹ thuật
+#chi phí lao động

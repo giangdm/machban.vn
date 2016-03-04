@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sổ đăng ký số tiền cho vay
+#sổ ghi phiếu khoán đáo
+#sổ ghi phiếu khoán đáo hạn

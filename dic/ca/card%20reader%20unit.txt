@@ -1,0 +1,6 @@
+﻿@card reader unit
+#(Tech) bộ đọc phiếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy đọc phiếu
+#thiết bị đọc thẻ

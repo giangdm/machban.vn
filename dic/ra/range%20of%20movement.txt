@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#khoảng đo
+#khoảng đo của khí cụ
+#phạm vi đo

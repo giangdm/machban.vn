@@ -1,0 +1,11 @@
+﻿@clock rate
+#(Tech) tần số đồng hồ
+@Chuyên ngành kỹ thuật
+#nhịp đồng hồ
+#tốc độ đồng hồ
+@Lĩnh vực: điện lạnh
+#tần số gốc
+@Lĩnh vực: toán & tin
+#tốc độ xung nhịp
+@Lĩnh vực: xây dựng
+#tỷ suất đồng hồ

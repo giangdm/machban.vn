@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt độ đông đặc
+#nhiệt độ làm lạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#điểm đông
+#điểm kết tinh (parafin)
+@Lĩnh vực: xây dựng
+#điểm tôi

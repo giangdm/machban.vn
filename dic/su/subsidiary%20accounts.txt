@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản bổ sung
+#tài khoản bổ trợ
+#tài khoản chi tiết
+#tài khoản phụ trợ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#trương mục phụ

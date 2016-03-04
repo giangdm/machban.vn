@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#máy thu chi tiền mặt điện tử
+#sổ quỹ ghi bằng điện tử
+@Chuyên ngành kỹ thuật
+#máy tính tiền hàng hóa
+@Chuyên ngành kỹ thuật
+#máy tính tiền hàng hóa

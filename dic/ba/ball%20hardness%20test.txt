@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thí nghiệm độ cứng brinell
+@Lĩnh vực: hóa học & vật liệu
+#phép thử độ cứng Brinell

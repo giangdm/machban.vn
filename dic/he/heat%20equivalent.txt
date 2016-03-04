@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#sự cân bằng nhiệt
+@Chuyên ngành kỹ thuật
+#đương lượng nhiệt

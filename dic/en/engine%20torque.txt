@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#ngẫu lực phát động
+@Lĩnh vực: ô tô
+#mômen quay của động cơ
+#mômen quay động cơ
+@Lĩnh vực: xây dựng
+#trục cơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#ngẫu lực phát động
+@Lĩnh vực: ô tô
+#mômen quay của động cơ
+#mômen quay động cơ
+@Lĩnh vực: xây dựng
+#trục cơ

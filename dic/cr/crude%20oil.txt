@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#dầu ma-zút
+#dầu thô
+@Chuyên ngành kỹ thuật
+#dầu mỏ
+#dầu thô
+#nhớt
+@Lĩnh vực: hóa học & vật liệu
+#dầu nguyên chất

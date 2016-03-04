@@ -1,0 +1,8 @@
+﻿@Gross national income
+#(Econ) Tổng thu nhập quốc dân.
+: Xem NATIONAL INCOME.
+@Chuyên ngành kinh tế
+#tổng thu nhập quốc dân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#GNI Tổng thu nhập quốc dân

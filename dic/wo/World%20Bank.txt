@@ -1,0 +1,7 @@
+﻿@World Bank
+#(Econ) Ngân hàng thế giới.
+: Xem International Bank For Reconstruction And Development.
+@Chuyên ngành kinh tế
+#Ngân hàng Thế giới
+@Chuyên ngành kỹ thuật
+#ngân hàng thế giới

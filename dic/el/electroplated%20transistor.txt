@@ -1,0 +1,2 @@
+﻿@electroplated transistor
+#(Tech) trănsito được mạ điện

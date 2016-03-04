@@ -1,0 +1,24 @@
+﻿@flat rate /'flæt'reit/
+*danh từ
+#tỷ lệ cố định
+@Chuyên ngành kinh tế
+#giá bán đồng nhất
+#lãi suất đồng loạt
+#mức phí (thu) thống nhất
+#suất cước thống nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biểu giá khoán
+@Lĩnh vực: xây dựng
+#mức phí đồng loạt
+@Lĩnh vực: điện tử & viễn thông
+#số tiền bao biện
+#số tiền lãng khoán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#biểu giá khoán
+@Lĩnh vực: xây dựng
+#mức phí đồng loạt
+@Lĩnh vực: điện tử & viễn thông
+#số tiền bao biện
+#số tiền lãng khoán

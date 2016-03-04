@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bình ngưng (có) một dòng (lối)
+#bình ngưng một dòng

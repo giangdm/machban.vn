@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự kiểm tra dư dọc
+#sự kiểm tra dư thẳng đứng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kiểm tra độ dư theo chiều dọc
+@Lĩnh vực: toán & tin
+#kiểm tra dư thừa dọc

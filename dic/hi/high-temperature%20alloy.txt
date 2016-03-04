@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hợp kim chịu nhiệt cao
+@Lĩnh vực: vật lý
+#hợp kim nhiệt độ cao

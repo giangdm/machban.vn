@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mạch lọc R.C
+@Lĩnh vực: toán & tin
+#mạch lọc RC

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy thí nghiệm dây xích
+@Lĩnh vực: cơ khí & công trình
+#máy thử xích

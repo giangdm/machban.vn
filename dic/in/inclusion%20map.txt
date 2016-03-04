@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ánh xạ nhúng chìm
+@Lĩnh vực: toán & tin
+#phép nhúng chìm

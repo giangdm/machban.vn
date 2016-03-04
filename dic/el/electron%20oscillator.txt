@@ -1,0 +1,2 @@
+﻿@electron oscillator
+#(Tech) bộ dao động điện tử

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ tách góc (giấy)
+#dấu tách góc
+#thiết bị tách góc (giấy)
+@Lĩnh vực: điện tử & viễn thông
+#dấu tách móc

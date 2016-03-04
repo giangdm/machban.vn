@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#năng suất làm lạnh đông
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#năng suất kết đông

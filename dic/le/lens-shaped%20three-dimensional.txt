@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khối thấu kính ba chiều
+#khối thấu kính không gian
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khối thấu kính ba chiều
+#khối thấu kính không gian

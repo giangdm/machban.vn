@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nhãn cuối
+#nhãn cuối tập tin
+#nhãn kết thúc file
+#nhãn kết thúc tệp

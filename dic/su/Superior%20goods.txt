@@ -1,0 +1,6 @@
+﻿@Superior goods
+#(Econ) Siêu hàng hoá.
+: Xem NORMAL GOODS.
+@Chuyên ngành kinh tế
+#hàng cao cấp
+#hàng hóa cao cấp

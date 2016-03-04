@@ -1,0 +1,10 @@
+﻿@exception handler
+#(Tech) thủ trình ngoại lệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều hành ngoại lệ
+#bộ xử lý ngoại lệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều hành ngoại lệ
+#bộ xử lý ngoại lệ

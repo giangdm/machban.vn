@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thông báo chất vấn ban đầu
+#thông báo đòi hỏi ban đầu
+#thông báo yêu cầu ban đầu

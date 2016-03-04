@@ -1,0 +1,56 @@
+﻿@Access/space trade - off model
+#(Econ) Mô hình đánh đổi không gian hay mô hình tiếp cận.
+: Một mô hình lý thuyết được sử dụng (chủ yếu) trong phân tích địa điểm dân cư ở các vùng đô thị, giải thích các hình thái vị trí do đánh đổi giữa khả năng tiếp cận của một địa điểm tới trung tâm của vùng và không gian của địa điểm đó.
+<!-- more -->
+@access /'ækses/
+*danh từ
+#lối vào, cửa vào, đường vào
+#sự đến gần, sự cho vào, sự lui tới; quyền đến gần, quyền lui tới
+=easy of access: dễ đến gần, dễ lui tới
+=difficult of access: khó đến gần, khó lui tới
+=to have access to somebody: được gần gũi ai, được lui tới nhà ai
+#sự dâng lên (nước triều)
+=the access and recess of the sea: lúc triều lên và triều xuống ở biển
+#cơn
+=access of anger: cơn giận
+=access of illness: cơn bệnh
+#sự thêm vào, sự tăng lên
+=access of wealth: sự giàu có thêm lên
+@Chuyên ngành kinh tế
+#lối đến
+#sự thâm nhập
+#tiếp cận
+@Chuyên ngành kỹ thuật
+#cổng vào
+#dữ liệu
+#đường dẫn
+#đường nhánh
+#đường vào
+#lối đi
+#lối vào
+#tiếp cận
+#truy cập
+#truy nhập
+#truy xuất
+@Lĩnh vực: ô tô
+#cách đạt được
+#sự tiến đến
+@Lĩnh vực: toán & tin
+#lối vào nhận tin
+#sự cho vào
+#sự truy cập
+#sự truy nhập
+#truy đạt
+@Lĩnh vực: xây dựng
+#lối vào, sự truy nhập
+#sự dâng lên (triều)
+#sự tiếp cận
+#sự vào được
+@Lĩnh vực: giao thông & vận tải
+#sự dâng thủy triều
+@Lĩnh vực: cơ khí & công trình
+#sự đến gần
+<!-- more -->
+@access
+#sự cho vào; (máy tính) lối vào nhận tin
+#random a. thứ tự chọn ngẫu nhiên

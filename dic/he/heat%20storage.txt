@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ trữ nhiệt
+#lưu nhiệt
+#sự tích nhiệt
+#trữ nhiệt
+@Lĩnh vực: xây dựng
+#bộ tích nhiệt
+#sự tích tụ nhiệt
+#thiết bị tích tụ nhiệt
+@Lĩnh vực: cơ khí & công trình
+#sự tái sinh nhiệt
+@Lĩnh vực: điện lạnh
+#tích nhiệt

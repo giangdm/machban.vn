@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#sự điều chỉnh mức
+@Lĩnh vực: điện lạnh
+#điều chỉnh mức
+@Lĩnh vực: cơ khí & công trình
+#sự điều khiển (bằng) đòn
+@Lĩnh vực: điện tử & viễn thông
+#sự điều khiển mức
+@Chuyên ngành kỹ thuật
+#sự điều chỉnh mức
+@Lĩnh vực: điện lạnh
+#điều chỉnh mức
+@Lĩnh vực: cơ khí & công trình
+#sự điều khiển (bằng) đòn
+@Lĩnh vực: điện tử & viễn thông
+#sự điều khiển mức

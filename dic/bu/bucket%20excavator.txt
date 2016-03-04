@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#máy xúc có gàu
+@Lĩnh vực: toán & tin
+#máy xúc có gầu
+@Lĩnh vực: xây dựng
+#máy xúc dùng gàu thìa
+@Lĩnh vực: hóa học & vật liệu
+#máy xúc kiểu chạy ngoạm

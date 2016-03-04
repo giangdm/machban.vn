@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hợp kim điện trở
+@Lĩnh vực: xây dựng
+#hợp kim cường độ cao

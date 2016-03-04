@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#những yêu cầu cách nhiệt
+#những yêu cầu về cách nhiệt

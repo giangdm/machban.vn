@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#tiêu dùng hàng loạt
+#tiêu thụ đại quy mô
+#tiêu thụ hàng loạt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khối lượng tiêu dùng

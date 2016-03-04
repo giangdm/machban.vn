@@ -1,0 +1,2 @@
+﻿@CADD (computer aided design and drafting)
+#(Tech) thiết kế và phát họa nhờ máy điện toán

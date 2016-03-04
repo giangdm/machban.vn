@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#công nghiệp xe hơi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#công nghiệp ô tô

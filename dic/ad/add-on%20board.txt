@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bo mạch bổ sung
+#bo mạch phụ trợ
+#mạch bổ sung
+#mạch phụ trợ

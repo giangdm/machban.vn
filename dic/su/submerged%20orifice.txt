@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗ có dòng
+#lỗ có luồng
+#lỗ ngập
+@Lĩnh vực: xây dựng
+#cửa tràn ngập

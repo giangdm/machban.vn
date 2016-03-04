@@ -1,0 +1,6 @@
+﻿@blocking layer
+#(Tech) lớp chặn
+@Chuyên ngành kỹ thuật
+#lớp chặn
+@Lĩnh vực: hóa học & vật liệu
+#tầng chắn

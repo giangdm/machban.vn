@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#không có cặn
+#không có vảy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#không có vỏ cứng
+#không vảy

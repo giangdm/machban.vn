@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự bitum hóa
+#sự dải bitum
+#sự đổ bitum

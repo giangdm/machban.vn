@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#buồng cách âm
+#buồng điếc
+#buồng không dội
+#buồng trường tự do
+@Lĩnh vực: xây dựng
+#phòng không phản âm
+@Lĩnh vực: điện lạnh
+#phòng tiêu âm

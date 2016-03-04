@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng chuẩn
+#tải trọng tiêu chuẩn
+@Lĩnh vực: xây dựng
+#tải trọng giả thiết

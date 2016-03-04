@@ -1,0 +1,4 @@
+﻿@External balance
+#(Econ) Cân bằng bên ngoài.
+@Chuyên ngành kinh tế
+#cân bằng đối ngoại

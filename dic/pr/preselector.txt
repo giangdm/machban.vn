@@ -1,0 +1,7 @@
+﻿@preselector
+*danh từ
+#(kỹ thuật) bộ chọn trước
+@Chuyên ngành kỹ thuật
+#bộ chọn trước
+@Lĩnh vực: hóa học & vật liệu
+#máy chọn trước

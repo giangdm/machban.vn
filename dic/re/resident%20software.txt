@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phần mềm lưu trú
+#phần mềm thường trú
+@Lĩnh vực: điện tử & viễn thông
+#phần mềm thường trực

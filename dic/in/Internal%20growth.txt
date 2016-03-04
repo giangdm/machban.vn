@@ -1,0 +1,5 @@
+﻿@Internal growth
+#(Econ) Tăng trưởng nhờ nội ứng.
+: Phần mở rộng của một doanh nghiệp được tạo ra bởi đầu tư trong nội bộ doanh nghiệp chứ không phải đầu tư có được thông qua thu mua của các doanh nghiệp khác và hoạt động hợp nhất, nghĩa là TĂNG TRƯỞNG TỪ BÊN NGOÀI.
+@Chuyên ngành kinh tế
+#sự tăng trưởng từ bên trong

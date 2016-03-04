@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đầm chặt lớn nhất
+#tỷ trọng nén lớn nhất
+@Lĩnh vực: toán & tin
+#mật độ đầm chặt lớn nhất
+#tỷ trọng được đầm lớn nhất

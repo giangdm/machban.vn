@@ -1,0 +1,5 @@
+﻿@Profit constraint
+#(Econ) Ràng buộc về lợi nhuận.
+: Một khái niệm thường được sử dụng trong các thuyết QUẢN LÝ DOANH NGHIỆP. Nó là lợi nhuận tối thiểu đòi hỏi để đảm bảo sự đồng ý của cổ đông đối với chính sách của công ty.
+@Chuyên ngành kinh tế
+#sự ép buộc lợi nhuận

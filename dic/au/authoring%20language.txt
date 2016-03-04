@@ -1,0 +1,5 @@
+﻿@authoring language
+#(Tech) ngôn ngữ trứ tác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ qui tắc

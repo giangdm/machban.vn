@@ -1,0 +1,7 @@
+﻿@automatic frequency control
+#(Tech) điều khiển tần số tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh tần số tự động
+@Lĩnh vực: ô tô
+#dò đài FM tự động

@@ -1,0 +1,6 @@
+﻿@backward signal
+#(Tech) tín hiệu nghịch hướng [NB]
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu ngược
+#tín hiệu về phía sau

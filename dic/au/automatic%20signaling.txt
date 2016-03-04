@@ -1,0 +1,5 @@
+﻿@automatic signaling
+#(Tech) báo hiệu tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự báo hiệu tự động

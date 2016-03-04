@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#ống cảm quang
+@Lĩnh vực: hóa học & vật liệu
+#ống nhạy sáng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#ống cảm quang
+@Lĩnh vực: hóa học & vật liệu
+#ống nhạy sáng

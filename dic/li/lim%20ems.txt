@@ -1,0 +1,2 @@
+﻿@lim ems
+#Một tiêu chuẩn về bộ nhớ mở rộng

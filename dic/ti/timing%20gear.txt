@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle thời gian
+@Lĩnh vực: ô tô
+#bánh răng điều phối
+@Lĩnh vực: hóa học & vật liệu
+#bánh răng định giờ
+#bộ phân phối (trong động cơ đối trong)
+@Lĩnh vực: vật lý
+#cấu điều phối
+#cấu định thời
+@Lĩnh vực: xây dựng
+#cơ cấu phân phối

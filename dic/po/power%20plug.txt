@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#chốt cắm điện
+@Chuyên ngành kỹ thuật
+#lỗ ra công suất
+#phích cắm điện lưới
+@Lĩnh vực: toán & tin
+#sự nối vào nguồn điện

@@ -1,0 +1,3 @@
+﻿@Numbers equivalent index
+#(Econ) Chỉ số đương lượng.
+: Xem HERFINDAHL INDEX.

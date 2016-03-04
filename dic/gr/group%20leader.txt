@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#người đứng đầu nhóm
+#trưởng nhóm
+@Chuyên ngành kỹ thuật
+#tổ trưởng
+@Lĩnh vực: xây dựng
+#nhóm trưởng

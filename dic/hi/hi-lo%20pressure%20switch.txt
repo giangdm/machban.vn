@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle áp suất kép
+@Lĩnh vực: điện lạnh
+#công tắc áp suất cao-thấp
+#rơle áp suất cao-thấp

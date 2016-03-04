@@ -1,0 +1,3 @@
+﻿@Cartel sanctions
+#(Econ) Sự trừng phạt của Cartel
+: Các hình phạt áp đặt bởi các thành viên của Cartel nhằm đạt được sự kết dính với mục tiêu chung của cả nhóm.

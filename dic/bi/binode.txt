@@ -1,0 +1,5 @@
+﻿@binode
+#nút kép
+#b. of surface nút kép của một mặt
+@Chuyên ngành kỹ thuật
+#nút kép

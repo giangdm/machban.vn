@@ -1,0 +1,5 @@
+﻿@bypass capacitor
+#(Tech) bộ điện dung vòng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tụ phân dòng

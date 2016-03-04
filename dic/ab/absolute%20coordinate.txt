@@ -1,0 +1,8 @@
+﻿@absolute coordinate
+#(Tech) tọa độ tuyệt đối. Các toạ độ (các điểm trên một mặt phẳng hay trong không gian) được định nghĩa theo dạng khoảng cách của chúng tính từ điểm cắt của các trục chiệutai các góc vuông đến một điểm cắt khác (được gọi là điểm gốc). Các toạ độ tuyệt đối được dùng trong các đồ thị và đồ hoạ máy tính để định vị các điểm trên biểu đồ hoặc trên một khung kẻ ô của màn hình - chẳng hạn, các điểm trên các trục x và y của một đồ thị hoặc trên các trục x, y,  z dùng để mô tả vị trí của một đối tượng đồ hoạ 3 chiều trên màn hình.
+#Xem relative coordinate
+#Xem coordinate
+@Chuyên ngành kỹ thuật
+#địa chỉ tuyệt đối
+@Lĩnh vực: toán & tin
+#tọa độ tuyệt đối

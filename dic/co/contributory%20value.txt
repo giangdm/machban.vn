@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#mức chia chịu thiệt hại đường biển
+#mức giá chia nhận
+#mức giá chịu phần

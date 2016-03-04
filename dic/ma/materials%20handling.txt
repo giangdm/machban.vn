@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chuyển giao vật tư
+#vận chuyển vật liệu
+#việc vận chuyển vật liệu
+@Chuyên ngành kỹ thuật
+#quản lí nguyên liệu
+@Lĩnh vực: vật lý
+#sự xử lý vật liệu

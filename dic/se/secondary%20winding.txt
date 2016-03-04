@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#cuộn thứ cấp
+@Lĩnh vực: điện
+#cuộn dây thứ cấp
+@Lĩnh vực: điện lạnh
+#cuộn dây thứ cấp (ở máy biến áp)
+@Lĩnh vực: ô tô
+#cuộn thứ cấp (đánh lửa)

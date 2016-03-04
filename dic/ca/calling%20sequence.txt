@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#lệnh gọi
+@Lĩnh vực: toán & tin
+#chuỗi gọi
+#dãy (lệnh) gọi
+#dãy lệnh gọi
+@Lĩnh vực: điện tử & viễn thông
+#dãy gọi

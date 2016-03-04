@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp gợn sóng
+#điện thế gợn sóng
+@Lĩnh vực: điện
+#điện áp dư
+@Lĩnh vực: điện lạnh
+#thế hiệu gợn sóng

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#khu vực kinh tế nhất đẳng
+#khu vực kinh tế nhất đẳng (đất đai, nông nghiệp)
+#khu vực sản xuất cấp một
+#khu vực sản xuất đệ nhất cấp
+#khu vực thứ nhất

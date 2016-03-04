@@ -1,0 +1,5 @@
+﻿@demagnetization coefficient
+#(Tech) hệ số khử từ hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ số khử từ

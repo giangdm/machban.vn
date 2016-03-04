@@ -1,0 +1,7 @@
+﻿@Fraunhofer diffraction
+#(Tech) nhiễu xạ Fraunhofer
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hiện tượng nhiễu xạ Fraunhofer
+@Lĩnh vực: vật lý
+#sự nhiễm xạ Fraunhofer

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#loại bỏ sáp bằng urea
+#tách parafin trong ure

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cân định lượng
+@Lĩnh vực: đo lường & điều khiển
+#máy đo định lượng

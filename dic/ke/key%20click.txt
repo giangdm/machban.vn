@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#sự gõ phím
+@Lĩnh vực: toán & tin
+#tiếng gõ phím
+@Lĩnh vực: điện
+#tiếng ù lách tách
+@Chuyên ngành kỹ thuật
+#sự gõ phím
+@Lĩnh vực: toán & tin
+#tiếng gõ phím
+@Lĩnh vực: điện
+#tiếng ù lách tách

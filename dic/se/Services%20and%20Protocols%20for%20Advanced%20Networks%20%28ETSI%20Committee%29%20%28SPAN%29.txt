@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Các dịch vụ và các giao thức cho các mạng cao cấp ( Ủy ban ETSI )

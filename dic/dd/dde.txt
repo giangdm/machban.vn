@@ -1,0 +1,2 @@
+﻿@dde
+#trao đổi dữ liệu động

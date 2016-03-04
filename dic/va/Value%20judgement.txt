@@ -1,0 +1,7 @@
+﻿@Value judgement
+#(Econ) Đánh giá chủ quan.
+: Một nhận định mà nói chung có thể được tóm tắt là X là tốt (hay xấu). Cụm thuật ngữ chủ quan gây nhiều nhầm lẫn trong kinh tế học.
+<!-- more -->
+@value judgement
+*danh từ
+#sự đánh giá (giá trị đạo đức, <nghệ>

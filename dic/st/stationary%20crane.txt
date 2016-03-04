@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cần cẩu cố định
+#máy trục cố định
+@Lĩnh vực: cơ khí & công trình
+#cần trục tĩnh tại

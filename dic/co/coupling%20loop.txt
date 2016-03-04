@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch ghép
+@Lĩnh vực: điện lạnh
+#vòng ghép
+@Lĩnh vực: điện
+#vòng khép

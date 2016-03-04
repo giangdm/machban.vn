@@ -1,0 +1,2 @@
+﻿@charging by time
+#(Tech) tính tiền theo thời gian

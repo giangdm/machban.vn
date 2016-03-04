@@ -1,0 +1,4 @@
+﻿@deterministic model
+#(Tech) mẫu xác định
+@Chuyên ngành kinh tế
+#mô hình tất định

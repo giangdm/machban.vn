@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đuờng dây song song
+@Lĩnh vực: toán & tin
+#đường truyền song song

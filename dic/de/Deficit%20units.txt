@@ -1,0 +1,3 @@
+﻿@Deficit units
+#(Econ) Các đơn vị thâm hụt
+: Các đơn vị kinh tế mà thu nhập trong một giai đoạn nào đó không thể đáp ứng chi tiêu trong giai đoạn đó.

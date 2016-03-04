@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#núm chuyển mạch
+@Lĩnh vực: toán & tin
+#phím chuyển mạch

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dây G
+@Lĩnh vực: vật lý
+#ống dẫn trường điện từ

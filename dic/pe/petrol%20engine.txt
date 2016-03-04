@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#động cơ ga
+#động cơ xăng
+@Lĩnh vực: cơ khí & công trình
+#động cơ chạy xăng
+@Lĩnh vực: giao thông & vận tải
+#động cơ ga solin

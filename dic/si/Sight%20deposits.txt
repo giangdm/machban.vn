@@ -1,0 +1,3 @@
+﻿@Sight deposits
+#(Econ) Tiền gửi vô kỳ hạn.
+: Những khoản tiền gửi tại các ngân hàng và những thể chế nhận tiền gửi tương tự có thể chuyển đổi sang séc hoặc có thể rút bằng tiền mặt mà không cần báo trước.

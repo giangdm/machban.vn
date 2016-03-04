@@ -1,0 +1,8 @@
+﻿@fault-tolerant system
+#(Tech) hệ thống dung sai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ kháng lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ kháng lỗi

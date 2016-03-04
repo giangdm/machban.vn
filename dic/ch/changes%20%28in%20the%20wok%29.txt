@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#những sửa đổi trong hợp đồng bớt
+#những sửa đổi trong hợp đồng thêm

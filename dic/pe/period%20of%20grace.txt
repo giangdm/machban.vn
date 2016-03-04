@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#ân hạn
+#thời gian được triển hạn (cảu các phiếu khoán đã đáo hạn)
+#thời gian được triển hạn (của các phiếu khoán đã đáo hạn)
+#thời hạn ưu đãi
+@Chuyên ngành kỹ thuật
+#ân hạn

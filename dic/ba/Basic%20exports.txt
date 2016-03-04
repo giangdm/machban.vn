@@ -1,0 +1,3 @@
+﻿@Basic exports
+#(Econ) Hàng xuất khẩu cơ bản
+: Tên gọi của các hàng xuất khẩu sơ chế của các nước kém phát triển.

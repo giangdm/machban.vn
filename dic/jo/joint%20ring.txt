@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#vòng đệm bịt kín
+#vòng đệm mối nối
+@Lĩnh vực: vật lý
+#vòng đệm nối

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phòng sinh hoạt
+@Lĩnh vực: xây dựng
+#góc sinh hoạt (của phòng)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#các chuẩn tắc của hành vi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tiêu chuẩn quản lý

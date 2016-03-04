@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phương thức mua bán trả góp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hệ bán góp dần

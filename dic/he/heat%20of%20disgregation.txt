@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt ẩn
+@Lĩnh vực: điện lạnh
+#ẩm nhiệt

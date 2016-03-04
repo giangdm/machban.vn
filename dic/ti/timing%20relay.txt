@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#rơle định thời
+#rơle thời gian
+@Lĩnh vực: điện
+#rơle đồng bộ

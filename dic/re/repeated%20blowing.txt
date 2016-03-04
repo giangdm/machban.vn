@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự thổi quá (trong lò chuyển)
+#sự thổi sâu (trong lò chuyển)

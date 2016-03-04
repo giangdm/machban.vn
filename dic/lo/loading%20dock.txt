@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bến chất hàng
+#bến tàu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#sân bốc hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#sân bốc hàng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#kết số thiếu
+#mức thiếu
+#số dư nợ
+#số tiền còn thiếu (của bảng cân đối)

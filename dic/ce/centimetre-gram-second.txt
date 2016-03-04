@@ -1,0 +1,3 @@
+﻿@centimetre-gram-second
+*danh từ
+#hệ thống đơn vị dựa trên centimet là đơn vị chiều dài,  gram là đơn vị khối lượng; giây là đơn vị thời gian

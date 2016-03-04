@@ -1,0 +1,6 @@
+﻿@inspectability /in,spektə'biliti/
+*danh từ
+#tính có thể xem xét kỹ được, tính có thể kiểm tra được, tính có thể thanh tra được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khả năng kiểm tra

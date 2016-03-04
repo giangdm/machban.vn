@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#đuôi đèn
+@Lĩnh vực: điện
+#đui đèn ngạnh trê (chốt)
+@Lĩnh vực: điện lạnh
+#đuôi đèn có ngạnh

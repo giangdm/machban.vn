@@ -1,0 +1,5 @@
+﻿@daughter board
+#(Tech) bảng con
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng con

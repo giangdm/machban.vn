@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#bãi phân loại
+#đường dồn tàu
+#ga dồn tàu
+#ga phân loại tàu
+#sân ga chọn tàu
+#trạm chuyển
+#trạm dồn tàu
+#trạm phân loại
+@Lĩnh vực: giao thông & vận tải
+#bãi dồn lập tàu

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#diện tích chung
+#diện tích toàn bộ
+@Lĩnh vực: xây dựng
+#diện tích nguyên
+#diện tích sàn tổng cộng
+@Lĩnh vực: cơ khí & công trình
+#tổng diện tích vùng tưới

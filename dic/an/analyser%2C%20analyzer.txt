@@ -1,0 +1,2 @@
+﻿@analyser, analyzer
+#(Tech) bộ phân tích, máy phân tích

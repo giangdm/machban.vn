@@ -1,0 +1,3 @@
+﻿@Reserve base
+#(Econ) Cơ số dự trữ.
+: Là số lượng những tài sản trong hệ thống tài chính mà xét trên thực tế hoặc về mặt pháp lý, có thể hình thành nên dự trữ của hệ thống ngân hàng, và theo lý thuyết truyền thống về SỐ NHÂN TÍN DỤNG, hình thành nên số bị nhân giúp cho việc sử dụng số nhân để xác định tổng số tiền gửi ngân hàng.

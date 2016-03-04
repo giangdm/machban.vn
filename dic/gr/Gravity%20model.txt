@@ -1,0 +1,8 @@
+﻿@Gravity model
+#(Econ) Mô hình lực hấp dẫn.
+: Một cách tiếp cận được sử dụng rộng rãi nhằm giải một số bài toán trong Kinh tế học khu vực và nghiên cứu vận tải, thể hiện được số lượng quan hệ tương tác lẫn nhau giữa 2 vị trí và được xác định bởi quy mô tương tác hoặc tầm quan trọng của các vị trí này và khoảng cáchgiữa chúng. Một dạng tương tác này là sự di chuyển về dân số. Các quan hệ tương tác khác là đi lại bằng ôtô hay đi lại bằng máy bay.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mô hình trọng lực
+@Lĩnh vực: toán & tin
+#mô hình tương hỗ

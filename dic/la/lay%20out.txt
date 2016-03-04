@@ -1,0 +1,33 @@
+﻿@Chuyên ngành kinh tế
+#bố thí
+#chi tiền
+#chi tiền, xuất tiền
+#sắp đặt
+#tiêu (tiền)
+#xuất tiền
+@Chuyên ngành kỹ thuật
+#chia ra
+#đập vỡ
+#làm vỡ
+#lát
+#phân ra
+#sắp đặt
+#trải
+#trình bày
+#vạch tuyến
+#xây
+@Lĩnh vực: xây dựng
+#giải ra
+@Chuyên ngành kỹ thuật
+#chia ra
+#đập vỡ
+#làm vỡ
+#lát
+#phân ra
+#sắp đặt
+#trải
+#trình bày
+#vạch tuyến
+#xây
+@Lĩnh vực: xây dựng
+#giải ra

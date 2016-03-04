@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#nén (ghép) tầng
+@Lĩnh vực: điện lạnh
+#sự nén (ghép) tầng

@@ -1,0 +1,2 @@
+﻿@Income approach
+#(Econ) Phương pháp dựa theo thu nhập (để tính GDP).

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống lạnh nén khí
+#tổ máy lạnh nén khí
+@Lĩnh vực: điện lạnh
+#máy lạnh chu (trình) nén (không) khí

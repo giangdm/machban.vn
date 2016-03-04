@@ -1,0 +1,5 @@
+﻿@subbasis
+#cơ sở con
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cơ sở con

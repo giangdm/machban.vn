@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#ghi tên khi tan sở
+#thanh toán hóa đơn (khi rời khách sạn, nhà hàng, siêu thị...)
+#trả phòng khách sạn

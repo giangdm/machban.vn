@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#giá trị thực
+#trị số thực
+@Lĩnh vực: toán & tin
+#giá trị ảo

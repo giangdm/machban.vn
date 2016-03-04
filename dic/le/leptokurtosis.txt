@@ -1,0 +1,2 @@
+﻿@leptokurtosis
+#(thống kê) độ nhọn vượt chuẩn

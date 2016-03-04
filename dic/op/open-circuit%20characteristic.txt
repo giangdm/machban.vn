@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đặc tính không tải
+@Lĩnh vực: điện lạnh
+#đặc tính mạch hở

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#ứng suất kéo đứt
+@Lĩnh vực: điện lạnh
+#ứng suất kéo gãy

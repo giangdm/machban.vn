@@ -1,0 +1,16 @@
+﻿@Duopoly
+#(Econ) Lưỡng độc quyền bán.
+: Một cơ cấu thị trường chỉ có 2 hãng. Các mô hình lý giải có ý giải thích sự xác định sản lượng và giá cả trên cơ cấu thị trường này đặt cơ sở phân tích của mình lên những giả định xem xét đến việc đưa ra quyết định trong đó có sự phụ thuộc lẫn nhau được thấy rõ.
+@Chuyên ngành kinh tế
+#độc quyền hai người bán
+#độc quyền hai người mua
+#độc quyền lưỡng cực bán
+#độc quyền lưỡng cực mua
+#độc quyền song mãi
+#độc quyền song mại
+#lưỡng độc quyền bán
+#lưỡng độc quyền sản xuất
+<!-- more -->
+@duopoly
+*danh từ
+#tình trạng thị trường do hai công ty độc quyền lũng đoạn

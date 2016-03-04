@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#động cơ điện điezen
+@Lĩnh vực: hóa học & vật liệu
+#máy phát điện điezen

@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh trước kì hạn
+@Lĩnh vực: đo lường & điều khiển
+#điều khiển tín hiệu trước
+@Lĩnh vực: toán & tin
+#sự điều khiển tiếp thuận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh trước kì hạn
+@Lĩnh vực: đo lường & điều khiển
+#điều khiển tín hiệu trước
+@Lĩnh vực: toán & tin
+#sự điều khiển tiếp thuận

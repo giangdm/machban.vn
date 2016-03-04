@@ -1,0 +1,9 @@
+﻿@back panel
+#(Tech) bảng mặt sau (máy điện toán)
+@Chuyên ngành kỹ thuật
+#tấm nền
+@Lĩnh vực: toán & tin
+#bảng sau
+#mặt sau (thân máy)
+@Lĩnh vực: ô tô
+#panô phía sau

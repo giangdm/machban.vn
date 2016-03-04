@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#buýt dữ liệu hai chiều
+#đường truyền dẫn hai chiều

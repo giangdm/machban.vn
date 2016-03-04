@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ đọc
+@Lĩnh vực: cơ khí & công trình
+#hệ thống đọc
+#thiết bị đọc

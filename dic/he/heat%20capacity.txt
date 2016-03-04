@@ -1,0 +1,18 @@
+﻿@heat capacity /'hi:tkə'pæsiti/
+*danh từ
+#(vật lý) nhiệt dung; tỷ nhiệt
+=atomic heat_capacity: tỷ nhiệt nguyên tử
+=molecular heat_capacity: tỷ nhiệt phân tử
+@Chuyên ngành kỹ thuật
+#công suất nhiệt
+#hiệu suất nhiệt
+#năng suất tỏa nhiệt
+#nhiệt dung
+#nhiệt dung riêng
+#nhiệt dung tích tụ
+#nhiệt hàm
+#nhiệt liên kết
+@Lĩnh vực: toán & tin
+#dung nhiệt
+@Lĩnh vực: xây dựng
+#tỷ nhiệt

@@ -1,0 +1,5 @@
+﻿@Abatement cost
+#(Econ) Chi phí kiểm soát; chi phí chống (ô nhiễm)
+: Chi phí làm giảm sự khó chịu như ô nhiễm hay tắc đường.
+@Chuyên ngành kinh tế
+#chi phí giảm hại môi trường

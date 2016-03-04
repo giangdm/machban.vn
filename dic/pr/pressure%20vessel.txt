@@ -1,0 +1,19 @@
+﻿@Chuyên ngành kỹ thuật
+#bể áp lực
+#bình áp lực
+#bình áp suất
+#bình cao áp
+#bình chịu áp suất
+#bình chứa chịu áp suất
+#bình có áp suất cao
+#lò phản ứng
+#nồi áp suất
+#nồi hấp
+@Lĩnh vực: điện lạnh
+#bình (chứa) áp suất cao
+#bình áp suất cao
+#bình chịu áp (suất)
+@Lĩnh vực: xây dựng
+#bình chịu áp
+@Lĩnh vực: hóa học & vật liệu
+#thùng chứa chịu áp suất

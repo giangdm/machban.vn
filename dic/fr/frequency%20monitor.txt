@@ -1,0 +1,6 @@
+﻿@frequency monitor
+#(Tech) bộ kiểm tra tần số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ giám sát tần số
+#bộ kiểm tra tần số

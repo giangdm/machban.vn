@@ -1,0 +1,5 @@
+﻿@E vector
+#(Tech) véctơ E
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#vectơ E

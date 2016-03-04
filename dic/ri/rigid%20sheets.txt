@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tôn mỏng cứng
+#tôn mỏng được tăng cứng

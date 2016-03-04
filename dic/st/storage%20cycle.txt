@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chu kỳ lưu trữ
+#chu trình dự trữ
+#chu trình nhớ
+@Lĩnh vực: xây dựng
+#chu trình tích tụ (hồ chứa nước)

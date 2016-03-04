@@ -1,0 +1,3 @@
+﻿@Unanimity rule
+#(Econ) Quy tắc nhất trí hoàn toàn.
+: Một thủ tục lựa chọn tập thể mà đòi hỏi rằng trước khi một chính sách được chấp nhận, nó phải được mọi thành viên của cộng đồng bị tác động bởi quyết định này thông qua.

@@ -1,0 +1,6 @@
+﻿@Margin requirement
+#(Econ) Yêu cầu về mức chênh lệch.
+: Là tỷ lệ giá trị thị trường của 1 chứng khoán mà người mua có thể vay được khi mua chứng khoán đó.
+@Chuyên ngành kinh tế
+#mức đòi hỏi biên
+#tiền bảo chứng bắt buộc

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#suất sử dụng thiết bị
+@Chuyên ngành kỹ thuật
+#hệ số sử dụng
+@Lĩnh vực: toán & tin
+#hệ thống sử dụng

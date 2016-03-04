@@ -1,0 +1,3 @@
+﻿@Pigovian tax
+#(Econ) Thuế Pigou.
+: Một loại thuế đánh vào người sản xuất do tạo ra một ngoại ứng theo một cách mà sau khi thuế này được áp dụng thì các chi phí cá nhân do bên tạo ra ngoại ứng cảm nhận được bằng với CHI PHÍ XÃ HỘI của hoạt động này.

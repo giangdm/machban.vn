@@ -1,0 +1,8 @@
+﻿@angle bracket
+#(Tech) dấu ngoặc nhọn
+@Chuyên ngành kinh tế
+#dấu ngoặc nhọn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#côngxon ở góc
+#dầm góc chìa

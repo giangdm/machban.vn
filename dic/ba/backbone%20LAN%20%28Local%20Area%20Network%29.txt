@@ -1,0 +1,2 @@
+﻿@backbone LAN (Local Area Network)
+#(Tech) LAN (Mạng Cục Bộ) cột trụ

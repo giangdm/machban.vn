@@ -1,0 +1,3 @@
+﻿@Transfer incomes
+#(Econ) Thu nhập do chuyển nhượng.
+: Thu nhập không thể coi là thanh toán cho dịch vụ hện tại và do vậy không tạo thành một phần của thu nhập quốc dân.

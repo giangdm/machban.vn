@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khối truy cập
+#khối truy xuất
+@Lĩnh vực: điện tử & viễn thông
+#khối truy nhập

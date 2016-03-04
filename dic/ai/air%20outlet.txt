@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa thông gió
+#đường thoát khí
+#hơi phát ra
+#lỗ xả không khí
+#ngã khí xuất
+#ngả khí xuất
+#sự xả không khí
+@Lĩnh vực: điện lạnh
+#cửa thoát không khí
+@Lĩnh vực: cơ khí & công trình
+#cửa xả không khí
+@Lĩnh vực: xây dựng
+#lỗ tháo không khí

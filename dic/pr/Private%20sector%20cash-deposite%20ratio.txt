@@ -1,0 +1,2 @@
+﻿@Private sector cash-deposite ratio
+#(Econ) Tỷ số giữa tiền mặt và số tiền gửi của khu vực tư nhân.

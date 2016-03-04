@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bộ nối lưỡng cực
+#bộ nối vô tính
+@Lĩnh vực: điện
+#bộ nối lưỡng tính

@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giá "dính"
+#giá không dễ biến động

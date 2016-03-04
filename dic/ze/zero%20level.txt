@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#mức độ không
+#mức zero
+@Lĩnh vực: xây dựng
+#bằng số không
+#mức số không
+@Lĩnh vực: điện
+#mức 0
+@Lĩnh vực: toán & tin
+#mức không
+@Lĩnh vực: hóa học & vật liệu
+#mực không
+#mực zero

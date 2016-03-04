@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#Thì nổ dãn (Thì phát động)
+@Chuyên ngành kỹ thuật
+#hành trình làm việc
+@Lĩnh vực: cơ khí & công trình
+#hành trình làm việc (động cơ)
+@Lĩnh vực: ô tô
+#hành trình sinh công
+@Lĩnh vực: điện
+#thì giãn nở

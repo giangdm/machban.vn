@@ -1,0 +1,14 @@
+﻿@Conversion factor
+#(Econ) Hệ số chuyển đổi.
+@Chuyên ngành kinh tế
+#hệ số chuyển
+#hệ số quy đổi
+@Chuyên ngành kỹ thuật
+#chế độ hội thoại
+#chế độ tương tác
+#hệ số biến đổi
+#hệ số chuyển
+#hệ số chuyển đổi
+#hệ số quy đổi
+@Lĩnh vực: toán & tin
+#nhân tử chuyển hoán

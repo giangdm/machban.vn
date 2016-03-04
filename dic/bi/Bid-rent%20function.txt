@@ -1,0 +1,3 @@
+﻿@Bid-rent function
+#(Econ) Hàm giá thầu thuê đất.
+: Mối quan hệ chỉ ra khoản tiền mà một gia đình hoặc hãng có thể trả để sử dụng một mảnh đất nhất định với các khoảng khác nhau so với trung tâm của một vùng đô thị trong khi vẫn duy trì mức không đổi ĐỘ THOẢ DỤNG hay LƠỊ NHUẬN.

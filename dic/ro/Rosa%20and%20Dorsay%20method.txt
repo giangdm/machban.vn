@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#phương pháp Rosa and Dorsay (đo tốc độ ánh sáng)

@@ -1,0 +1,2 @@
+﻿@computor method
+#(Tech) phương pháp máy điện toán

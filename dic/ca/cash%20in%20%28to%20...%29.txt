@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bán lấy tiền mặt
+#đổi lấy tiền mặt
+#rút lui (khỏi một giao dịch có rủi ro...)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#buồng bảo dưỡng bê tông
+@Lĩnh vực: hóa học & vật liệu
+#phòng lưu hóa

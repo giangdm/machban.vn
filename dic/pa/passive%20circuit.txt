@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mạch bị động
+@Lĩnh vực: điện lạnh
+#mạch không nguồn
+#mạch thụ động

@@ -1,0 +1,5 @@
+﻿@computer integrated manufacturing (CIM)
+#(Tech) sản xuất tập trung bằng máy điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sản xuất kết hợp với máy tính

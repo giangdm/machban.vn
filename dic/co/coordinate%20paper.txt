@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#giấy kẻ tọa độ
+#giấy vẽ biểu đồ
+@Lĩnh vực: toán & tin
+#giấy tọa độ

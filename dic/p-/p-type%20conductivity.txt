@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dẫn điện loại p
+@Lĩnh vực: điện
+#sự dẫn điện loại p
+#tính dẫn điện loại p

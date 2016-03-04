@@ -1,0 +1,15 @@
+﻿@semi-
+#tiền tố
+#một nửa
+=semiellipse:nửa enlip
+#nửa chừng; giữa một thời kỳ
+=semi-annual:nửa năm
+#một phần
+=semi-independent:bán độc lập
+#phần nào
+=semi-darkness:sự tối nhá nhem
+#gần như
+=semimonastic:gần như tu viện
+#có một vài đặc điểm của
+#semimetal
+#nửa kim loại

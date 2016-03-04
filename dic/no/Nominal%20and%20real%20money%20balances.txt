@@ -1,0 +1,2 @@
+﻿@Nominal and real money balances
+#(Econ) Số dư tiền mặt danh nghĩa và thực tế.

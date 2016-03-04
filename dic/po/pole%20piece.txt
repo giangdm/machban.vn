@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#cột
+#đầu cực
+#đầu nối cực
+#guốc cực
+#lõi từ
+#trụ
+@Lĩnh vực: điện
+#đế cực
+#má cực
+@Lĩnh vực: điện lạnh
+#khối cực từ

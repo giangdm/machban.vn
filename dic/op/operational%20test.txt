@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#kiểm tra vận hành
+#thử vận hành
+@Lĩnh vực: xây dựng
+#sự thử nghiệm công nghệ

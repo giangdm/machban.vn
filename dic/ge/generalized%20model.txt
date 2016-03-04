@@ -1,0 +1,2 @@
+﻿@generalized model
+#(Tech) mô hình được tổng quát hóa

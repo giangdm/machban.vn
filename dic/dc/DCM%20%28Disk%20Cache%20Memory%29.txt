@@ -1,0 +1,2 @@
+﻿@DCM (Disk Cache Memory)
+#(Tech) bộ nhớ trữ tạm đĩa (loại cao tốc)

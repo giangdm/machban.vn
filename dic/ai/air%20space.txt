@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#khe hở không khí
+#khoảng trống
+#lớp không khí ở giữa
+@Lĩnh vực: cơ khí & công trình
+#khe hở (ở ghi lò)
+#khe lọt sáng
+@Lĩnh vực: điện tử & viễn thông
+#không gian lãng không
+#vùng trời lãnh không

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#năng lượng hạt nhân
+@Chuyên ngành kỹ thuật
+#năng lượng hạt nhân
+#năng lượng nguyên tử
+@Lĩnh vực: hóa học & vật liệu
+#lượng hạt nhân
+@Lĩnh vực: điện
+#năng lượng nhiệt hạch

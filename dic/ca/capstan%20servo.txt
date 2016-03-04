@@ -1,0 +1,4 @@
+﻿@capstan servo
+#(Tech) trợ động trục quay chủ
+@Chuyên ngành kỹ thuật
+#ổ cần băng

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#phân tích nhân tố
+#phân tích yếu tố (sản xuất)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân tích hệ số
+#phân tích nhân tố
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân tích hệ số
+#phân tích nhân tố

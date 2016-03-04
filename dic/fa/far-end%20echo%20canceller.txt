@@ -1,0 +1,2 @@
+﻿@far-end echo canceller
+#(Tech) âm dội đầu xa

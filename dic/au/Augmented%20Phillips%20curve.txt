@@ -1,0 +1,3 @@
+﻿@Augmented Phillips curve
+#(Econ) Đường Phillips bổ sung.
+: Việc đưa biến giá cả vào đường Phillips gốc đã dịch chuyển học thuyết một các hiệu quả từ một giải thích về tiền công bằng tiền thành cách giải thích theo nghĩa thực tế.

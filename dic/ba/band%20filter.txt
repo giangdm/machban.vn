@@ -1,0 +1,8 @@
+﻿@band filter
+#(Tech) bộ lọc dải
+@Chuyên ngành kinh tế
+#băng tải lọc vô tận
+@Chuyên ngành kỹ thuật
+#bộ lọc dải
+@Lĩnh vực: xây dựng
+#thiết bị lọc kiểu dải

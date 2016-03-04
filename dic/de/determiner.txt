@@ -1,0 +1,3 @@
+﻿@determiner
+*danh từ
+#từ hạn định (chẳng hạn some, your, the...)

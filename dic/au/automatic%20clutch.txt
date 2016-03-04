@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ ly kết tự động
+@Lĩnh vực: cơ khí & công trình
+#bộ ly hợp tự động
+#khớp ly hợp tự động
+@Lĩnh vực: xây dựng
+#sự mắc nối tự động

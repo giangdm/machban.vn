@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#tính lưu động dọc
+#tính lưu động thẳng đứng (của lao động)

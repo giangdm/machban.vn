@@ -1,0 +1,14 @@
+﻿@Excess demand
+#(Econ) Mức cầu dư; Dư cầu.
+: Là tình trạng CẦU vượt CUNG ở một mức giá nào đó.
+@Chuyên ngành kinh tế
+#cầu quá nhiều
+#cầu vượt cung
+#cầu vượt quá
+#mức cầu thái quá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số quá (nhu) cầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#số quá (nhu) cầu

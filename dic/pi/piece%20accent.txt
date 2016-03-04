@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dấu nhấn chi tiết
+#dấu trọng âm chạy
+#dấu trọng âm ghép

@@ -1,0 +1,9 @@
+﻿@tachograph
+*danh từ
+#đồng hồ tốc độ (thiết bị trên xe có động cơ, tự động ghi tốc độ của xe trong khi chạy và ghi số km nó đã chạy)
+@Chuyên ngành kinh tế
+#máy đo tốc độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#bản ghi hành trình
+#bản ghi tốc độ

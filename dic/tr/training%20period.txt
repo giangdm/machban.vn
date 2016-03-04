@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#thời kỳ đào tạo
+#thời kỳ tập sự
+#thời kỳ thực tập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#giai đoạn đào tạo

@@ -1,0 +1,3 @@
+﻿@Risk-spreading
+#(Econ) Dàn trải rủi ro.
+: Xem INSURANCE.

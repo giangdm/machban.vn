@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#hàng chở không đầy xe
+@Chuyên ngành kỹ thuật
+#hàng đóng gói
+#phần trọng lượng
+@Lĩnh vực: ô tô
+#một phần tải trọng
+#tải bộ phận
+#tải trọng bộ phận

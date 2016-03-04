@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy bơm ga
+#máy bơm nhiên liệu
+#máy bơm xăng
+@Lĩnh vực: hóa học & vật liệu
+#bơm khí

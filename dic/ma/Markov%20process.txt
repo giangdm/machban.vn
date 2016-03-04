@@ -1,0 +1,5 @@
+﻿@Markov process
+#(Econ) Quá trình Markov.
+: Là một quá trình liên kết giá trị hiện tại của một biến số với những giá trị trước đó của chính nó và một sai số ngẫu nhiên.
+@Chuyên ngành kỹ thuật
+#quy trình Markov

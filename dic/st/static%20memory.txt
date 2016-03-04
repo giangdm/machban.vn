@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ lưu trữ tĩnh
+@Lĩnh vực: toán & tin
+#bộ nhớ tĩnh
+@Lĩnh vực: xây dựng
+#trí nhớ tĩnh

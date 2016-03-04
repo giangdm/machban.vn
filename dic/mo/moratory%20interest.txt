@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#lãi triển hạn
+#lãi triển kỳ
+#tiền lời do triển hạn thanh toán

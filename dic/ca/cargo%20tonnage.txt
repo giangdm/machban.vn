@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tải trọng hàng hóa
+@Chuyên ngành kỹ thuật
+#trọng lượng vận chuyển

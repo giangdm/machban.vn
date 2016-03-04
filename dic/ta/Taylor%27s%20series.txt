@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#chuỗi Taylo
+@Lĩnh vực: toán & tin
+#chuỗi Taylo (của hàm số thực)

@@ -1,0 +1,8 @@
+﻿@data format
+#(Tech) khuôn dạng dữ liệu
+@Chuyên ngành kỹ thuật
+#khuôn dữ liệu
+@Lĩnh vực: toán & tin
+#dạng dữ liệu
+#dạng thức dữ liệu
+#khuôn dạng dữ liệu

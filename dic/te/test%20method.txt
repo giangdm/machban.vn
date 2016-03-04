@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp kiểm tra
+#phương pháp thí nghiệm
+#phương pháp thử
+@Lĩnh vực: điện lạnh
+#phương pháp thử nghiệm

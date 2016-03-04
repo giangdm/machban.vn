@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Dịch vụ cổng mạng cho NetWare (hệ điều hành mạng) (Microsoft)

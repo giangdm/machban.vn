@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thí nghiệm uốn đổi dấu
+@Lĩnh vực: xây dựng
+#thí nghiệm uốn đan dấu
+#thí nghiệm uốn đổi dấu

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ pin tự đo
+#hộp tụ
+@Lĩnh vực: điện lạnh
+#hộp điện dung

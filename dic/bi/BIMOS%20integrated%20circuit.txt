@@ -1,0 +1,2 @@
+﻿@BIMOS integrated circuit
+#(Tech) mạch tích hợp BIMOS

@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống điện
+#lưới điện chính
+#mạng điện
+@Lĩnh vực: điện lạnh
+#hệ thống điện năng
+@Lĩnh vực: điện
+#mạng cung cấp điện
+@Chuyên ngành kỹ thuật
+#hệ thống điện
+#lưới điện chính
+#mạng điện
+@Lĩnh vực: điện lạnh
+#hệ thống điện năng
+@Lĩnh vực: điện
+#mạng cung cấp điện

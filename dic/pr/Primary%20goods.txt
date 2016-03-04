@@ -1,0 +1,5 @@
+﻿@Primary goods
+#(Econ) Các hàng hoá cơ bản.
+: Như được định nghĩa trong thuyết về công bằng do John Rawls đưa ra, những loại hàng hoá này là những quyền cơ bản, các quyền tự do, thu nhập và của cải sẵn có để phân phối trong một xã hội.
+@Chuyên ngành kinh tế
+#hàng hóa sơ cấp

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#bộ cảm biến Hall
+#máy phát sóng Hall
+@Lĩnh vực: điện lạnh
+#máy phát Hall

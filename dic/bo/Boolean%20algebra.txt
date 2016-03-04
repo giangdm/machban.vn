@@ -1,0 +1,12 @@
+﻿@Boolean algebra
+#(Tech) đại số Boole, đại số luận lý
+@Chuyên ngành kỹ thuật
+#đại số lôgic
+@Lĩnh vực: toán & tin
+#đại số học boole
+#đại số luận lý
+@Chuyên ngành kỹ thuật
+#đại số Boole
+@Lĩnh vực: toán & tin
+#đại số Bool (Bun)
+#đại số Bun

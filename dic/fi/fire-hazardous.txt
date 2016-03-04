@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#dễ bắt lửa
+#dễ cháy
+@Lĩnh vực: xây dựng
+#cần tránh lửa
+@Chuyên ngành kỹ thuật
+#dễ bắt lửa
+#dễ cháy
+@Lĩnh vực: xây dựng
+#cần tránh lửa

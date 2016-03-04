@@ -1,0 +1,2 @@
+﻿@electron emission density
+#(Tech) mật độ phát xạ điện tử

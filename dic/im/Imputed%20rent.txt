@@ -1,0 +1,6 @@
+﻿@Imputed rent
+#(Econ) Tiền thuê không quy đổi.
+: Khái niệm tiền thuê do doanh nhiệp tự trả cho mình trong việc sử dụng đất đai mà doanh nghiệp sở hữu. Xe, IMPLICIT COST.
+@Chuyên ngành kinh tế
+#tiền thuê ẩn tàng
+#tiền thuê phải quy vào

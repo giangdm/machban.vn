@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#thí nghiệm phá hoại
+@Lĩnh vực: xây dựng
+#sử thử (nghiệm) kéo đứt
+@Lĩnh vực: toán & tin
+#sự thử (nghiệm) kéo đứt
+@Lĩnh vực: hóa học & vật liệu
+#sự thử nghiệm kéo nứt

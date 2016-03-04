@@ -1,0 +1,6 @@
+﻿@Business risk
+#(Econ) Rủi ro kinh doanh
+: Xem CORPORATE RISK.
+@Chuyên ngành kinh tế
+#rủi ro doanh nghiệp
+#rủi ro kinh doanh

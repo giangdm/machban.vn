@@ -1,0 +1,2 @@
+﻿@audible tone
+#(Tech) giọng nghe được

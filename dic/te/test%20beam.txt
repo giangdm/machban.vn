@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dầm mẫu thử
+#dầm thí nghiệm
+#rầm mẫu thử

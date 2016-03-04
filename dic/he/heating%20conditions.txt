@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều kiện đốt nóng
+#điều kiện gia nhiệt
+#điểu kiện sưởi

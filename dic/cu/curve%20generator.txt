@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ sinh đường cong
+@Lĩnh vực: toán & tin
+#bộ tạo đường cong

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kiến trúc bộ nhớ định kỳ
+@Lĩnh vực: toán & tin
+#kiến trúc bộ nhớ nối tiếp

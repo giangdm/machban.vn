@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#điện áp lệch
+#thiên áp
+@Lĩnh vực: vật lý
+#điện áp định thiên
+@Lĩnh vực: toán & tin
+#điện áp phân cực
+@Lĩnh vực: xây dựng
+#điện thế phân cực

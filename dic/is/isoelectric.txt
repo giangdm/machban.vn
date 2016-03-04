@@ -1,0 +1,6 @@
+﻿@isoelectric /,aisoui'lektrik/
+*tính từ
+#(vật lý) đẳng điện
+=isoelectric points: điểm đẳng điện
+@Chuyên ngành kỹ thuật
+#đẳng điện

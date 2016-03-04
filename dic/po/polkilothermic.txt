@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#biến nhiệt (máu lạnh, nhiệt độ cơ thể dao động theo nhiệt độ môi trường xung quanh)

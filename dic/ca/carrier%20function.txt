@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm đặc trưng
+@Lĩnh vực: toán & tin
+#hàm mang

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đập có toán xếp đứmg
+@Lĩnh vực: xây dựng
+#đập con toán xếp đứng
+#đập tháp nhọn

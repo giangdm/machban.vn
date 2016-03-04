@@ -1,0 +1,6 @@
+﻿@command list
+#(Tech) bảng kê lệnh
+@Chuyên ngành kỹ thuật
+#danh sách lệnh
+@Lĩnh vực: toán & tin
+#bản liệt kê lệnh

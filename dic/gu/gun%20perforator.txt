@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#máy khoan kiểu bắn súng
+#máy khoan kiểu bi
+@Lĩnh vực: hóa học & vật liệu
+#súng bắn vỉa
+#súng mở vỉa

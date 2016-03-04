@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bớt giá theo thời gian (mua, quảng cáo)
+#chiết khấu
+#chiết khấu, bớt giá theo thời gian (mua quảng cáo)

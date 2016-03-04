@@ -1,0 +1,2 @@
+﻿@active call
+#(Tech) gọi chủ động

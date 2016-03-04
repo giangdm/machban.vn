@@ -1,0 +1,8 @@
+﻿@control character
+#(Tech) ký tự điều khiển, kiểm tự
+@Chuyên ngành kinh tế
+#ký tự điều khiển (để tạo dòng mới hoặc quay lại)
+@Chuyên ngành kỹ thuật
+#ký tự điều khiển
+@Lĩnh vực: xây dựng
+#ký tự khiển

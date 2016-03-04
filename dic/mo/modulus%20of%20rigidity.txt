@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số cứng
+#môđun đàn hồi loại hai
+#môđun đàn hồi ngang
+#môđun đàn hồi trượt
+#môđun trượt
+@Lĩnh vực: xây dựng
+#môđun cứng
+#môđun độ cứng

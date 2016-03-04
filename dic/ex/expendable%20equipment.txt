@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị có tính tiêu hao
+#thiết bị thông thường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị mở rộng được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị mở rộng được

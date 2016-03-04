@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ôm chuẩn
+@Lĩnh vực: xây dựng
+#ôm mẫu
+@Lĩnh vực: điện
+#ôm tiêu chuẩn

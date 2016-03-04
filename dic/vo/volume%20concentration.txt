@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự cô thể tích
+#sự làm bay hơi theo thê tích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nồng độ theo thể tích

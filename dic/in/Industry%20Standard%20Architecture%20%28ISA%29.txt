@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#Cấu trúc chuẩn công nghiệp (ISA)
+@Lĩnh vực: điện tử & viễn thông
+#cấu trúc tiêu chuẩn công nghiệp
+@Lĩnh vực: toán & tin
+#kiến trúc chuẩn công nghiệp

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#thanh ngắt giấy ghi biểu đồ
+#thanh xé tách giấy biểu đồ

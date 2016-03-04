@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Cổng phương tiện (thuật ngữ tiêu chuẩn chung để chỉ Gateway)

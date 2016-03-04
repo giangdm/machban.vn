@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#được nối nguồn chính
+#được nối với lưới điện chính
+#được nối với mạng điện

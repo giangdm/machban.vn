@@ -1,0 +1,8 @@
+﻿@multiplicator
+#xem multiplier
+@Chuyên ngành kỹ thuật
+#bộ nhân
+#nhân tử
+#số nhân
+@Lĩnh vực: toán & tin
+#số bị nhân

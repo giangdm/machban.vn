@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#số thập phân tuần hoàn
+@Lĩnh vực: toán & tin
+#số thập phân lặp lại

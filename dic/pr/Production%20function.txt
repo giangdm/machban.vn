@@ -1,0 +1,8 @@
+﻿@Production function
+#(Econ) Hàm sản xuất.
+: Mối liên hệ giữa SẢN LƯỢNG (đầu ra) của một hàng hoá và đầu vào (nhân tố sản xuất) được yêu cầu làm ra hàng hoá đó.
+@Chuyên ngành kinh tế
+#hàm sản xuất
+#hàm số sản xuất
+@Chuyên ngành kỹ thuật
+#hàm sản xuất

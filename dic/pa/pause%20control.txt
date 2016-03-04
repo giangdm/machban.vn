@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nút chỉnh tạm dừng
+#sự điều khiển tạm dừng
+@Lĩnh vực: điện tử & viễn thông
+#điều khiển tạm dừng

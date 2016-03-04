@@ -1,0 +1,2 @@
+﻿@Yield on external debt
+#(Econ) Lãi trên nợ nước ngoài.

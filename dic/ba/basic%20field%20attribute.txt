@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thuộc tính trường căn bản
+#thuộc tính trường cơ bản

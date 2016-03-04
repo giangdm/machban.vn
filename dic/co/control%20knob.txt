@@ -1,0 +1,8 @@
+﻿@control knob
+#(Tech) núm điều chỉnh
+@Chuyên ngành kỹ thuật
+#nút điều khiển
+@Lĩnh vực: toán & tin
+#núm điều khiển
+@Lĩnh vực: hóa học & vật liệu
+#nút điều chỉnh

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#nền hiển thị
+@Lĩnh vực: toán & tin
+#nền màn hình
+#phông màn hình

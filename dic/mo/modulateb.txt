@@ -1,0 +1,2 @@
+﻿@modulateb
+#(vật lí)biến điệu

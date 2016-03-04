@@ -1,0 +1,2 @@
+﻿@computer numerical control (CNC)
+#(Tech) điều khiển bằng số bởi máy điện toán

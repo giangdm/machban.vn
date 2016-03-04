@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#bộ nhớ
+#thiết bị nhớ
+@Chuyên ngành kỹ thuật
+#bộ lưu trữ
+#bộ nhớ
+#thiết bị nhớ
+@Lĩnh vực: toán & tin
+#thiết bị tồn trữ
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị trữ

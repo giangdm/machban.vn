@@ -1,0 +1,6 @@
+﻿@Spatial monopoly
+#(Econ) Độc quyền nhờ không gian; Độc quyền vùng.
+: Một yếu tố của quyền lực độc quyền mà một người bán lẻ hay một nhà sản xuất bán được do nằm cách xa những đối thủ cạnh tranh với mình.
+@Chuyên ngành kinh tế
+#độc quyền (về) không gian
+#độc quyền về không gian

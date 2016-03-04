@@ -1,0 +1,18 @@
+﻿@fault detector
+#(Tech) bộ phát hiện lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ báo sự cố
+@Lĩnh vực: điện lạnh
+#bộ dò chỗ hỏng
+#bộ phát hiện chỗ hỏng
+@Lĩnh vực: hóa học & vật liệu
+#máy dò chỗ hỏng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#bộ báo sự cố
+@Lĩnh vực: điện lạnh
+#bộ dò chỗ hỏng
+#bộ phát hiện chỗ hỏng
+@Lĩnh vực: hóa học & vật liệu
+#máy dò chỗ hỏng

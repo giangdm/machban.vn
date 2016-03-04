@@ -1,0 +1,2 @@
+﻿@atomic frequency standard
+#(Tech) tiêu chuẩn tần số nguyên tử

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#điều kiện ổn định
+@Lĩnh vực: điện lạnh
+#chế độ xác lập
+#trạng thái xác lập
+@Lĩnh vực: đo lường & điều khiển
+#tính trạng ổn định
+@Lĩnh vực: cơ khí & công trình
+#trạng thái bền vững

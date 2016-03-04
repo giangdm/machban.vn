@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đường sóng mang
+@Lĩnh vực: toán & tin
+#đường truyền sóng mang

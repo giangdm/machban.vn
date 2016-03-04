@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#tiền tố
+@Lĩnh vực: điện
+#bằng 10

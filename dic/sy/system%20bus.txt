@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#buýt hệ thống
+#đường dẫn truyền hệ thống
+#kênh hệ thống

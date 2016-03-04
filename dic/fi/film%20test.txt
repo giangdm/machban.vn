@@ -1,0 +1,3 @@
+﻿@film test
+*danh từ
+#sự tuyển chọn diễn viên bằng cách kiểm tra xem họ có ăn ảnh hay không

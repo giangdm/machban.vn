@@ -1,0 +1,6 @@
+﻿@Check off
+#(Econ) Trừ công đoàn phí trực tiếp.
+: Việc chủ thuê trừ trực tiếp phí công đoàn từ lương nhân viên. Phí này sau đó được trả cho công đoàn.
+@Chuyên ngành kinh tế
+#đánh dấu
+#ghi ký hiệu

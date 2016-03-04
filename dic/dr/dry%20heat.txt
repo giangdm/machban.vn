@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt khô
+@Chuyên ngành kỹ thuật
+#nhiệt khô
+#nhiệt lượng khô
+@Lĩnh vực: môi trường
+#nóng khô

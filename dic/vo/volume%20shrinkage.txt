@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#sự khô hao theo thể tích
+@Chuyên ngành kỹ thuật
+#sự co ngót thể tích
+#sự co thể tích
+@Lĩnh vực: điện lạnh
+#độ co thể tích
+#khô ngót thể tích
+#sự khô ngót thể tích

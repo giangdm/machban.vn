@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#rỉ dầu
+#rò dầu
+#sự rò rỉ dầu
+@Lĩnh vực: cơ khí & công trình
+#chảy dầu
+@Lĩnh vực: điện lạnh
+#rò rỉ dầu
+@Lĩnh vực: xây dựng
+#sự chảy dầu
+@Lĩnh vực: toán & tin
+#sự chảy dầu, rỉ dầu

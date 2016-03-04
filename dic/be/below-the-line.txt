@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#các bút toán chú thích dưới cùng của bản kê lãi lỗ
+#khoản thể hiện các chi phí quảng cáo khác
+#khoản thể hiện các giao dịch liên quan đến nguồn vốn

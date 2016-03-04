@@ -1,0 +1,2 @@
+﻿@execute-only program
+#(Tech) chương trình chỉ thi hành

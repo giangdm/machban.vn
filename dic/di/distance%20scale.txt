@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#thang khoảng cách
+@Lĩnh vực: toán & tin
+#thang tuyến tính
+#thang tỷ lệ thẳng

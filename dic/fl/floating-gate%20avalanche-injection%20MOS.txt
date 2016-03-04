@@ -1,0 +1,2 @@
+﻿@floating-gate avalanche-injection MOS
+#(Tech) MOS phun thác cổng phù động

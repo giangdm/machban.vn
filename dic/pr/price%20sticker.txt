@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nhãn dính có ghi giá
+#nhãn giá
+#nhãn giá (gắn vào hàng bán ở cửa hàng)

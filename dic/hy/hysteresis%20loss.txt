@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#độ hao tán do trễ
+#tổn hao do trễ
+@Lĩnh vực: điện
+#tổn hao do từ trễ
+#tổn hao từ trễ
+#tổn thất trễ

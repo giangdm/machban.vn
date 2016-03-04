@@ -1,0 +1,24 @@
+﻿@Chuyên ngành kinh tế
+#tấm sắt để làm nắp đáy hội (đồ hộp)
+@Chuyên ngành kỹ thuật
+#đáy
+#đáy nồi hơi
+#nắp đầu mút
+#tấm đáy
+@Lĩnh vực: xây dựng
+#bản biên
+@Lĩnh vực: điện lạnh
+#tấm cuối
+@Lĩnh vực: điện
+#tấm cuối (đáy)
+@Chuyên ngành kỹ thuật
+#đáy
+#đáy nồi hơi
+#nắp đầu mút
+#tấm đáy
+@Lĩnh vực: xây dựng
+#bản biên
+@Lĩnh vực: điện lạnh
+#tấm cuối
+@Lĩnh vực: điện
+#tấm cuối (đáy)

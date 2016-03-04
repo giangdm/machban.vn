@@ -1,0 +1,5 @@
+﻿@computer-aided manufacturing (CAM)
+#(Tech) chế tạo bằng máy điện toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự sản xuất bằng máy tính

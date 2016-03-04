@@ -1,0 +1,2 @@
+﻿@automatic regulator
+#(Tech) bộ chỉnh tự động

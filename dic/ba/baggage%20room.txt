@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#khoang hành lý
+#nơi gửi hành lý
+#phòng hành lý
+@Chuyên ngành kỹ thuật
+#buồng hành lý
+#khoang hành lý

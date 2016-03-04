@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hộp văn bản
+@Lĩnh vực: xây dựng
+#hộp chữ
+@Lĩnh vực: toán & tin
+#hộp ký tự

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị làm lạnh đồ uống
+@Chuyên ngành kỹ thuật
+#máy làm lạnh nước uống

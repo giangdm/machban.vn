@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đặc tính chất cách điện
+#đặc tính vật liệu cách điện

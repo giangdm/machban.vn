@@ -1,0 +1,3 @@
+﻿@Self-liquidating advances
+#(Econ) Các khoản ứng trước tự thanh toán.
+: Một câu châm ngôn truyền thống tròn ngành ngân hàng của Anh là các hình hức tín dụng tự thanh toán là hình thức cho vay an toàn nhất cho ngân hàng.

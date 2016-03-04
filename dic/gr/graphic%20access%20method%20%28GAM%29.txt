@@ -1,0 +1,2 @@
+﻿@graphic access method (GAM)
+#(Tech) phương pháp truy cập đồ họa

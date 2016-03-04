@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#giếng thế
+@Lĩnh vực: điện tử & viễn thông
+#giếng nhiệt năng
+@Lĩnh vực: điện lạnh
+#hố thế

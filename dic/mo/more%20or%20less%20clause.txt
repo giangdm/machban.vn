@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#điều khoản chất hàng thừa thiếu
+#điều khoản dung sai
+#điều khoản gia giảm
+#điều khoản khoan dung

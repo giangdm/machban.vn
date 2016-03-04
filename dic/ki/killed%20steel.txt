@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thép lặng
+@Lĩnh vực: cơ khí & công trình
+#thép nặng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thép lặng
+@Lĩnh vực: cơ khí & công trình
+#thép nặng

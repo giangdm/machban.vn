@@ -1,0 +1,6 @@
+﻿@Reserve ratio
+#(Econ) Tỷ lệ dự trữ.
+: Là tỷ lệ giữa một tài sản, hoặc một nhóm các tài sản, được giữ làm quỹ dự trữ so với tổng số các khoản nợ hoặc cam kết nhất định, và xét về một mức độ nào đó thì đây là đối tượng của chính sách hoạt động của các tổ chức có liên quan.
+@Chuyên ngành kinh tế
+#mức, tỉ suất dự trữ
+#tỷ lệ dự trữ

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị phụ trợ, ngoại vi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết bị ngoại biên
+@Lĩnh vực: xây dựng
+#trang bị ngoài trung tâm
+#trang bị ở ngoại vi

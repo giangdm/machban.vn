@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chu trình nhiệt
+#chu trình nhiệt động (lực) học
+#quá trình nhiệt động (lực) học

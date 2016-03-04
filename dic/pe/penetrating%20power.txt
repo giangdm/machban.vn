@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#công suất xuyên
+@Lĩnh vực: cơ khí & công trình
+#khả năng xâm nhập
+@Lĩnh vực: điện lạnh
+#khả năng xuyên
+#năng suất xuyên

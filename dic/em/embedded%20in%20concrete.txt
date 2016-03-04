@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#được bọc bằng bê tông
+#được đặt trong bê tông
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#được bọc bằng bê tông
+#được đặt trong bê tông

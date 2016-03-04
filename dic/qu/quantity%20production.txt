@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sản xuất đại trà
+#sản xuất hàng loạt
+#sản xuất số lượng lớn
+@Chuyên ngành kỹ thuật
+#sản suất lượng lớn
+#săn xuất theo lô lớn

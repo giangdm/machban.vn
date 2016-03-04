@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khối cấp phát tài nguyên
+#khối phân phát tài nguyên

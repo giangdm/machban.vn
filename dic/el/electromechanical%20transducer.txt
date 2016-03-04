@@ -1,0 +1,12 @@
+﻿@electromechanical transducer
+#(Tech) bộ biến hoán điện cơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ chuyển đổi cơ điện
+@Lĩnh vực: điện lạnh
+#bộ chuyển đổi điện cơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ chuyển đổi cơ điện
+@Lĩnh vực: điện lạnh
+#bộ chuyển đổi điện cơ

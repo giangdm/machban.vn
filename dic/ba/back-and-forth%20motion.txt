@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#chuyển động xuôi-ngược (tới lui)
+#hành trình xuôi-ngược

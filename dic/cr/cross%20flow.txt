@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy hướng ngang
+#dòng ngang
+#luồng chéo
+#luồng ngang
+#luồng ngược
+@Lĩnh vực: ô tô
+#sự thổi gió ngang

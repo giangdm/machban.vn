@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#giải pháp thiết kế
+#sơ đồ thiết kế
+@Lĩnh vực: xây dựng
+#sơ đồ tính toán

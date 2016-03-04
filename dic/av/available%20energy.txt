@@ -1,0 +1,4 @@
+﻿@available energy
+#(Tech) năng lượng khả dụng
+@Chuyên ngành kỹ thuật
+#năng lực có sẵn

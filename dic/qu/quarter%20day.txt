@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#kỳ hạn thanh toán
+#ngày kết toán cuối quý
+#ngày kì hạn
+#ngày thanh toán quý
+#ngày thanh toán theo quý

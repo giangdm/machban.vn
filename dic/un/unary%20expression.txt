@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#biểu thức đơn nguyên
+@Lĩnh vực: toán & tin
+#biểu thức đơn phân
+#biểu thức một ngôi
+#biểu thức toán một hạng

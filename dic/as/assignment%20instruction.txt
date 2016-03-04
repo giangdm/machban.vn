@@ -1,0 +1,5 @@
+﻿@assignment instruction
+#(Tech) chỉ thị gán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#lệnh gán

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sóng mang phách âm thanh
+#sóng tải phách âm thanh

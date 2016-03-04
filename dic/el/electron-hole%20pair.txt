@@ -1,0 +1,2 @@
+﻿@electron-hole pair
+#(Tech) cặp lỗ trống điện tử

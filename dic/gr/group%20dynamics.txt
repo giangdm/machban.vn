@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#động lực quần thể
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#động lực nhóm

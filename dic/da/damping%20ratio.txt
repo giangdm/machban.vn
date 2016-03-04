@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số chống rung
+#hệ số giảm sóc
+#hệ số suy giảm
+#hệ số tắt dần
+@Lĩnh vực: điện
+#hệ số cản dịu

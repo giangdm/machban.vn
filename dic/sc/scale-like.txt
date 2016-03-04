@@ -1,0 +1,4 @@
+﻿@scale-like
+*tính từ
+#giống như vảy
+=scale-like leaves:lá giống như vảy

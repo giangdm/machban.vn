@@ -1,0 +1,11 @@
+﻿@Rate of interest
+#(Econ) Lãi xuất.
+: Giá cả của dịch vụ tiền tệ.
+@Chuyên ngành kinh tế
+#lãi suất
+@Chuyên ngành kỹ thuật
+#lợi suất
+#mức lời
+#mức lợi nhuận
+@Lĩnh vực: xây dựng
+#tỷ suất lợi tức

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#tỉ lệ thay thế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tốc độ thay thế

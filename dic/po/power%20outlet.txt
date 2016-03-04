@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#chỗ câu điện
+#chỗ cầu điện
+@Chuyên ngành kỹ thuật
+#lỗ ra công suất
+#phích cắm điện lưới
+@Lĩnh vực: điện
+#ổ cắm dây điện

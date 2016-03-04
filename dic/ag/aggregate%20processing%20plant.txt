@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhà máy cốt liệu
+@Lĩnh vực: xây dựng
+#nhà máy cán truyền
+@Lĩnh vực: điện tử & viễn thông
+#nhà máy cán tuyền

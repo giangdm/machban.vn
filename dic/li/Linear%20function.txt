@@ -1,0 +1,7 @@
+﻿@Linear function
+#(Econ) Hàm tuyến tính.
+: Một mối quan hệ toán học trong đó các biến số xuất hiện như là các yếu tố cộng, không có các thành phần số mũ hay nhân.
+@Chuyên ngành kỹ thuật
+#hàm tuyến tính
+@Chuyên ngành kỹ thuật
+#hàm tuyến tính

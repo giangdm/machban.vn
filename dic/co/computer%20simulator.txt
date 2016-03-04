@@ -1,0 +1,4 @@
+﻿@computer simulator
+#(Tech) bộ mô phỏng điện toán
+@Chuyên ngành kỹ thuật
+#bộ mô phỏng máy tính

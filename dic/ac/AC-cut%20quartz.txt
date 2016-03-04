@@ -1,0 +1,2 @@
+﻿@AC-cut quartz
+#(Tech) thạch anh kiểu cắt AC

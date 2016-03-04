@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng nhiệt
+@Lĩnh vực: vật lý
+#nhiệt thông
+@Lĩnh vực: điện lạnh
+#thông lượng nhiệt

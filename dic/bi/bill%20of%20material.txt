@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bản kê nguyên vật liệu (dùng trong sản xuất)
+#phiếu sử dụng vật liệu
+#phiếu vật tư
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#danh mục vật liệu

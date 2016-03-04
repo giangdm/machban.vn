@@ -1,0 +1,6 @@
+﻿@amplitude gate
+#(Tech) cổng biên độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cổng biên độ
+#cửa biên độ

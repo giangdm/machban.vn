@@ -1,0 +1,3 @@
+﻿@filtering-machine
+*danh từ
+#máy lọc

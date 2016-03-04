@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đếm
+#máy tính
+@Lĩnh vực: toán & tin
+#thiết bị đếm
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị kế toán

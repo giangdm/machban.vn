@@ -1,0 +1,2 @@
+﻿@wmf
+#Một đuôi mở rộng của tên tệp chỉ rõ rằng tệp đó có chứa một hinfh đồ họa dưới cất giữ theo khuôn thức windows Metafile Format

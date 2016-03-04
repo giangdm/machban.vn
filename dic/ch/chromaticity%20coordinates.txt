@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tọa độ màu
+@Lĩnh vực: điện tử & viễn thông
+#tọa độ màu sắc
+@Lĩnh vực: vật lý
+#tọa độ sắc độ

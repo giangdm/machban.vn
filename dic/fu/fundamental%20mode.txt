@@ -1,0 +1,11 @@
+﻿@fundamental mode
+#(Tech) kiểu cơ bản
+@Chuyên ngành kỹ thuật
+#kiểu (dao động) chính
+#kiểu (dao động) trội
+#kiểu cơ bản
+@Lĩnh vực: toán & tin
+#chế độ cơ bản
+@Lĩnh vực: điện lạnh
+#kiểu (dao động) cơ bản
+#kiểu dao động chuẩn

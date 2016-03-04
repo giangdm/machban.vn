@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#dấu đầu băng
+@Lĩnh vực: toán & tin
+#dấu hiệu đầu băng
+#ký hiệu bắt đầu băng

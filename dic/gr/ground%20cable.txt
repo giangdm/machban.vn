@@ -1,0 +1,8 @@
+﻿@ground cable
+#(Tech) cáp chôn dưới đất
+@Chuyên ngành kỹ thuật
+#dây đất
+@Lĩnh vực: toán & tin
+#cáp dưới đất
+@Lĩnh vực: điện lạnh
+#cáp tiếp đất

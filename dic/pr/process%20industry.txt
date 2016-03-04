@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#công nghiệp chế tạo
+#công nghiệp gia công
+#công nghiệp sử dụng các phương pháp chế tạo liên tiếp nhau
+@Chuyên ngành kỹ thuật
+#quá trình công nghệ

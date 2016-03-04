@@ -1,0 +1,10 @@
+﻿@auxiliary storage
+#(Tech) bộ trữ phụ
+@Chuyên ngành kỹ thuật
+#bộ lưu trữ ngoài
+#bộ lưu trữ phụ
+#bộ nhớ ngoài
+#bộ nhớ phụ
+@Lĩnh vực: toán & tin
+#bộ lưu trữ hỗ trợ
+#bộ nhớ hỗ trợ

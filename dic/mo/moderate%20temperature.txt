@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ trung bình
+@Lĩnh vực: điện lạnh
+#nhiệt độ vừa phải

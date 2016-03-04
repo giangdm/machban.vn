@@ -1,0 +1,2 @@
+﻿@echo delay line
+#(Tech) dây trì hoãn tiếng dội

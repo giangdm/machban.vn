@@ -1,0 +1,3 @@
+﻿@Time varying parameter models
+#(Econ) Các mô hình biến số  thay đổi theo thời gian.
+: Xem VARIABLE PARAMETER MODELS.

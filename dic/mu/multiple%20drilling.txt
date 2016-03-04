@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự khoan chùm
+#sự khoan nhiều hướng
+#sự khoan nhiều mũi

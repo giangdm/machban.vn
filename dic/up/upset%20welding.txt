@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#sự hàn chồn
+#sự hàn ép chồn
+@Lĩnh vực: toán & tin
+#han rùn đầu
+@Lĩnh vực: xây dựng
+#hàn rùn đầu
+@Lĩnh vực: điện
+#mối hàn bằng điện trở

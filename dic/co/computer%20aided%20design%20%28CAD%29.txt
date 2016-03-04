@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết kế có máy tính hỗ trợ
+@Lĩnh vực: xây dựng
+#thiết kế được máy toán hỗ trợ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ đếm trùng hợp
+@Lĩnh vực: điện lạnh
+#máy đếm trùng phùng
+#ống đếm trùng phùng

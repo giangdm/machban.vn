@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy phân tích khí
+@Lĩnh vực: điện lạnh
+#dụng cụ phân tích khí

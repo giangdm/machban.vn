@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#mômen bản lề
+#mômen khớp xoay trụ
+#mômen tiếp hợp

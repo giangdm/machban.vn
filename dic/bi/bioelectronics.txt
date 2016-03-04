@@ -1,0 +1,5 @@
+﻿@bioelectronics
+#(Tech) môn điện tử sinh vật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sinh điện tử học

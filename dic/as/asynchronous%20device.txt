@@ -1,0 +1,5 @@
+﻿@asynchronous device
+#(Tech) thiết bị dị bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thiết bị bất đồng bộ

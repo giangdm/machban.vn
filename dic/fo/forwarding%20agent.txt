@@ -1,0 +1,12 @@
+﻿@forwarding agent
+*danh từ
+#nhân viên chuyển phát hàng hoá, hãng chuyển phát hàng hoá
+@Chuyên ngành kinh tế
+#người đại lý giao nhận hàng hóa
+#người giao nhận
+#người thầu vận tải hàng hóa
+@Chuyên ngành kỹ thuật
+#đại lý chuyển tiếp
+#đại lý giao nhận
+#đại lý vận tải
+#người gửi hàng

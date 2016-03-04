@@ -1,0 +1,5 @@
+﻿@conversion operator
+#(Tech) tác tử hoán đổi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#toán tử chuyển đổi

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cực tính của tín hiệu thị tần
+#cực tính của tín hiệu video

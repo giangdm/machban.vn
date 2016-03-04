@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#áp suất hút vào
+@Chuyên ngành kỹ thuật
+#áp lực thoát
+@Lĩnh vực: hóa học & vật liệu
+#áp suất cửa ra
+@Lĩnh vực: điện lạnh
+#áp suất đẩy
+#áp suất xả
+@Lĩnh vực: ô tô
+#áp suất ra (bơm)

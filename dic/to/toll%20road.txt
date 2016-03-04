@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#đường có thuế thông lưu
+#đường thu phí
+@Chuyên ngành kỹ thuật
+#đường thu lệ phí
+@Lĩnh vực: xây dựng
+#đường thu phí giao thông

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giấy bảo đảm (thực hiện nghĩa vụ)
+#trái khoán bảo đảm
+#trái phiếu được bảo đảm

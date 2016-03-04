@@ -1,0 +1,2 @@
+﻿@duplex repeater
+#(Tech) bộ chuyển tiếp hai chiều

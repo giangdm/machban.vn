@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#công nghiệp đồ gốm
+@Chuyên ngành kỹ thuật
+#nghành công nghiệp gốm
+@Lĩnh vực: xây dựng
+#công nghệ đồ gốm

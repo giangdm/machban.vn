@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#phòng chẩn đoán bệnh học
+@Lĩnh vực: xây dựng
+#phòng chẩn đoán bệnh lý

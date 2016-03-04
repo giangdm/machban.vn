@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lỗ kiểm tra
+@Lĩnh vực: đo lường & điều khiển
+#nắp kiểm tra

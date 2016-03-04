@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#sự biến đổi đến không
+@Lĩnh vực: toán & tin
+#sự dịch chuyển số không

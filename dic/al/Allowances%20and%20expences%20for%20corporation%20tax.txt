@@ -1,0 +1,3 @@
+﻿@Allowances and expences for corporation tax
+#(Econ) Khấu trừ và chi phí đôí với thuế công ty.
+: Những chi phí cho phép nhất định khi được khấu trừ từ doanh thu của công ty là phần thu nhập bị đánh thuế.

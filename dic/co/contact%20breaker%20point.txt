@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#điểm ngắt điện (động cơ)
+#điểm tiếp xúc của vít lửa

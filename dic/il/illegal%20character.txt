@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#ký tự không hợp lệ
+@Lĩnh vực: toán & tin
+#kí tự cấm
+#kí tự không hợp lệ
+#ký tự bất hợp lệ
+#ký tự cấm

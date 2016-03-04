@@ -1,0 +1,27 @@
+﻿@emergency exit /i'mə:dʤənsi'eksit/
+*danh từ
+#lối ra khi khẩn cấp, lối ra an toàn
+@Chuyên ngành kinh tế
+#lối ra (khi) khẩn cấp
+@Chuyên ngành kỹ thuật
+#lỗ ra khi khẩn cấp
+#lối ra khẩn cấp
+#lối thoát cấp cứu
+#lối thoát dự phòng
+#lối thoát khi hỏa hoạn
+#lối thoát sự cố
+@Lĩnh vực: xây dựng
+#cửa thoát người
+@Lĩnh vực: cơ khí & công trình
+#lối ra cấp cứu
+@Chuyên ngành kỹ thuật
+#lỗ ra khi khẩn cấp
+#lối ra khẩn cấp
+#lối thoát cấp cứu
+#lối thoát dự phòng
+#lối thoát khi hỏa hoạn
+#lối thoát sự cố
+@Lĩnh vực: xây dựng
+#cửa thoát người
+@Lĩnh vực: cơ khí & công trình
+#lối ra cấp cứu

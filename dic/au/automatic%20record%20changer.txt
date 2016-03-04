@@ -1,0 +1,4 @@
+﻿@automatic record changer
+#(Tech) bộ thay đĩa tự động (máy quay đĩa)
+@Chuyên ngành kỹ thuật
+#máy hát quay đĩa tự động

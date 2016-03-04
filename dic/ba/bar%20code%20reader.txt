@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ đọc mã sọc
+#bộ đọc mã vạch
+@Lĩnh vực: toán & tin
+#đầu đọc mã sọc

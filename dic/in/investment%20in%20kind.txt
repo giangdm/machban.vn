@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#đầu tư hiện vật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#sự góp vốn bằng hiện vật
+#sự hùn vốn bằng hiện vật

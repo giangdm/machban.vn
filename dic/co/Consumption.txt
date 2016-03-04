@@ -1,0 +1,37 @@
+﻿@Consumption
+#(Econ) Sự tiêu dùng
+: Hành động sử dụng hàng hoá và dịch vụ để thoả mãn nhu cầu hiện tại.
+<!-- more -->
+@consumption /kən'sʌmpʃn/
+*danh từ
+#sự tiêu thụ, sự tiêu dùng (hàng hoá, điện, than, nước...)
+=home consumption: sự tiêu thụ trong nước
+#sự tiêu diệt, sự tiêu huỷ, sự tàn phá
+=consumption of a fortume: sự tiêu phá tài sản
+#(y học) bệnh lao phổi
+@Chuyên ngành kinh tế
+#lượng tiêu dùng
+#lượng tiêu phí
+#sự tiêu thụ
+#tiêu dùng
+@Chuyên ngành kỹ thuật
+#lượng tiêu thụ
+#nhu cầu
+#mức tiêu thụ
+#mức tiêu thụ xăng
+#phí tổn
+#sự tiêu hao
+#sự tiêu hủy
+#sự tiêu thụ
+#tiêu thụ
+@Lĩnh vực: điện
+#điện năng tiêu thụ
+@Lĩnh vực: cơ khí & công trình
+#lượng tiêu hao
+@Lĩnh vực: toán & tin
+#sự tiêu dùng
+@Lĩnh vực: hóa học & vật liệu
+#tiêu dùng
+<!-- more -->
+@consumption
+#sự tiêu dùng

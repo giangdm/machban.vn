@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt độ chuyển tiếp
+@Lĩnh vực: điện lạnh
+#nhiệt độ không ổn định

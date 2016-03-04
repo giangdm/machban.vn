@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#quá trình tuần hoàn
+@Lĩnh vực: toán & tin
+#phương pháp tái hồi
+#quá trình chu kỳ lặp

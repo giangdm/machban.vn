@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cái chiết áp dây quấn
+@Lĩnh vực: điện lạnh
+#chiết áp quấn dây

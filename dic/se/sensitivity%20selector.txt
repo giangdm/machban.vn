@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy lựa độ nhạy
+@Lĩnh vực: toán & tin
+#máy chọn độ cảm
+@Lĩnh vực: xây dựng
+#máy tuyển độ cảm

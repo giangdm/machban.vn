@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đối hợp
+@Lĩnh vực: toán & tin
+#phép đối xạ
+#phép đối xạ đối hợp

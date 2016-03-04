@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khối đầu nối
+@Lĩnh vực: xây dựng
+#khối liên kết
+@Lĩnh vực: điện
+#khối nối

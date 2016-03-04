@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#đánh giá cổ phiếu
+#định giá kho hàng
+#sự định giá hàng trong kho

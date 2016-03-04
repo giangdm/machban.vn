@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#cho vay tiền mặt
+#khoản cho vay tín dụng không kỳ hạn
+#khoản nợ tiền mặt
+#tín dụng tiền mặt

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#phân tích hồi quy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#phân tích hồi quy
+@Lĩnh vực: xây dựng
+#phân tích thoái hóa
+@Lĩnh vực: toán & tin
+#sự phân tích hồi quy

@@ -1,0 +1,2 @@
+﻿@frequency-division multiplex(ing)
+#(Tech) đa hợp phân tần

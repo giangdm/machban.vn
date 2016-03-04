@@ -1,0 +1,2 @@
+﻿@antenna field gain
+#(Tech) tăng ích trường ăngten

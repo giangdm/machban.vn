@@ -1,0 +1,9 @@
+﻿@clock cycle
+#(Tech) chu kỳ đồng hồ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#chu kì đồng hồ
+@Lĩnh vực: toán & tin
+#chu kỳ đồng hồ
+#chu kỳ xung nhịp
+#vòng đồng hồ

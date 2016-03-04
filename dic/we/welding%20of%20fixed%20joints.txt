@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự hàn nối đầu cố định
+#sự hàn nối đầu không xoay

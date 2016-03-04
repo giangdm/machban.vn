@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#mạch bẫy
+#mạch khởi động
+#mạch kích thích
+@Lĩnh vực: điện tử & viễn thông
+#bộ phận khởi động
+@Lĩnh vực: xây dựng
+#mạch lẩy
+@Lĩnh vực: toán & tin
+#mạch trigger
+@Lĩnh vực: điện lạnh
+#mạch trigơ

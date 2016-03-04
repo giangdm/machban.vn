@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#clê kiểu ống
+@Lĩnh vực: ô tô
+#cần siết tuýt
+@Lĩnh vực: cơ khí & công trình
+#chìa vặn có đui
+#chìa vặn ống lồng
+@Lĩnh vực: xây dựng
+#clê kiểu đui đèn
+@Lĩnh vực: điện
+#cờ lê ổ

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp dừng bình lưu
+@Lĩnh vực: điện lạnh
+#đỉnh bình lưu

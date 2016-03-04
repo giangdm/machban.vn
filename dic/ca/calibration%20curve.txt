@@ -1,0 +1,7 @@
+﻿@calibration curve
+#(Tech) đường lấy chuẩn
+@Chuyên ngành kỹ thuật
+#đồ thị điều chỉnh
+#đường chuẩn
+@Lĩnh vực: điện lạnh
+#đường cong hiệu chỉnh

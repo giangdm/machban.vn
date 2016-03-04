@@ -1,0 +1,7 @@
+﻿@Capital requirements
+#(Econ) Các yêu cầu về vốn
+: Việc ước tính các yêu cầu về vốn là cần thiết để xác định TỶ SỐ VỐN GIA TĂNG SẢN LƯỢNG, tức là mối liên hệ giữa đầu tư và tăng thu nhập nhờ đầu tư đó.
+@Chuyên ngành kinh tế
+#lượng vốn cần thiết
+#nhu cầu về vốn
+#nhu cầu vốn

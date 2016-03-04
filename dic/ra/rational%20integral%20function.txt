@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hàm hữu tỷ
+@Lĩnh vực: toán & tin
+#hàm nguyên hữu tỷ

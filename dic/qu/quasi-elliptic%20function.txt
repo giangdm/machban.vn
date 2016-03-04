@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm tựa eliptic
+@Lĩnh vực: toán & tin
+#hàm tựa elliptic

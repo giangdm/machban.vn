@@ -1,0 +1,3 @@
+﻿@Financial Times Actuaries Share Indices
+#(Econ) Chỉ số giá cổ phiếu thống kê của báo Financial Times.
+: Tập hợp các chỉ số giá và thu nhập trung bình và tiền lãi của các chứng khoán Anh trong sở giao dịch chứng khoán.

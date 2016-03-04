@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng chia
+#vòng lăn
+#vòng tròn chia
+#vòng tròn lăn
+#vòng tròn sinh
+@Lĩnh vực: cơ khí & công trình
+#quỹ đạo bước răng
+#vòng (tròn) chia
+#vòng (tròn) lăn
+#vòng tròn nguyên bản
+@Lĩnh vực: hóa học & vật liệu
+#vòng gốc (của bánh răng)

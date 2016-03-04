@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#các số phức liên hợp
+@Chuyên ngành kỹ thuật
+#những số phức liên hợp

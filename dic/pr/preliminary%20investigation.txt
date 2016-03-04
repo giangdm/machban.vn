@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#ban khai giá ước lượng
+#bản ước giá
+#sự điều tra sơ bộ (vụ án)
+@Chuyên ngành kỹ thuật
+#khảo sát sơ bộ
+#sự nghiên cứu

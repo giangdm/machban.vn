@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#tài khoản có thời hạn
+#tài khoản ghi sổ
+#tài khoản lưu giữ
+#tài khoản phong tỏa
+#tài khoản ủy thác giữ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt lớp
+@Lĩnh vực: hóa học & vật liệu
+#mặt địa tầng
+@Lĩnh vực: xây dựng
+#mặt phẳng vỉa

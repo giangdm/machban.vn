@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#dây cách điện
+@Lĩnh vực: điện
+#dây bọc cách điện
+@Lĩnh vực: điện lạnh
+#dây dẫn cách điện

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy biến áp tần số vô tuyến
+#máy biến áp vô tuyến

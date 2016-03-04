@@ -1,0 +1,2 @@
+﻿@augend digit
+#(Tech) số tự số hạng thứ hai

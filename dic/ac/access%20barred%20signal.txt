@@ -1,0 +1,2 @@
+﻿@access barred signal
+#(Tech) tín hiệu cản truy cập

@@ -1,0 +1,3 @@
+﻿@Structure of taxes
+#(Econ) Biểu khung thuế; Cơ cấu thuế.
+: Mỗi nước có một hệ thống các loại thuế khác nhau. Cơ cấu của hệ thống thuế chỉ hỗn hợp này.

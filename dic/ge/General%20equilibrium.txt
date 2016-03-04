@@ -1,0 +1,12 @@
+﻿@General equilibrium
+#(Econ) Cân bằng chung; Cân bằng tổng thể.
+: Tình huống trong đó tất cả các thị trường trong nền kinh tế đồng thời ở trạng thái cân bằng, nghĩa là giá cả và số lượng không đổi.
+@Chuyên ngành kinh tế
+#cân bằng chung
+#cân bằng toàn diện
+#cân bằng tổng quát
+#cân bằng tổng thể
+#sự cân bằng tổng quát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tổng cân bằng

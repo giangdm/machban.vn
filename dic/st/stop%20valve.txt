@@ -1,0 +1,19 @@
+﻿@Chuyên ngành kỹ thuật
+#nắp hầm, van ngưng
+#thiết bị nối cáp
+#van chặn
+#van chặn (thiết bị gia công chất dẻo)
+#van đóng
+#van khóa
+#van kiểm tra
+@Lĩnh vực: cơ khí & công trình
+#nắp hãm
+@Lĩnh vực: xây dựng
+#nắp hầm
+#thiết bị kẹp chặt cáp
+#van ngưng
+@Lĩnh vực: điện
+#van "stop"
+#van dừng máy
+@Lĩnh vực: hóa học & vật liệu
+#van dừng

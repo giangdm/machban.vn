@@ -1,0 +1,5 @@
+﻿@delphi
+#Một mạng máy tính trực tuyến dịch vụ tổng hợp, được thành lập năm 1982 với danh nghĩa là một bộ bách khoa toàn thư trên đường đây
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ngôn ngữ Delphi

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dụng cụ SOS
+@Lĩnh vực: điện tử & viễn thông
+#linh kiện SOS (silic trên saphia)

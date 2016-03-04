@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống bật tắt
+#hệ thống đóng mở
+#hệ thống khởi dừng

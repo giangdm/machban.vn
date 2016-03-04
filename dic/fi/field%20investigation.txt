@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kinh tế
+#điều tra thực địa
+@Chuyên ngành kỹ thuật
+#khảo sát hiện trường
+#khảo sát tại hiện trường
+#nghiên cứu tại hiện trường
+@Lĩnh vực: cơ khí & công trình
+#khảo sát thực địa
+@Chuyên ngành kỹ thuật
+#khảo sát hiện trường
+#khảo sát tại hiện trường
+#nghiên cứu tại hiện trường
+@Lĩnh vực: cơ khí & công trình
+#khảo sát thực địa

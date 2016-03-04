@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thủ tục kiểm tra
+@Lĩnh vực: toán & tin
+#chương trình con kiểm tra
+#chương trình kiểm định
+#thường trình kiểm tra

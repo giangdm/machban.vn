@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự treo thanh
+@Lĩnh vực: điện lạnh
+#treo vào thanh dầm

@@ -1,0 +1,5 @@
+﻿@Interest equalization tax
+#(Econ) Thuếu san bằng lãi suất.
+: Vào đầu những năm 1960, nước Mỹ trải qua một thời kỳ cán cân thanh toán liên tục thâm hụt với số lượng lớn do vốn chay khỏi đất nước. Thuế san bàng lãi suất là một ý định nhằm ngăn luồng vốn đi ra này bằng cách đánh thuế vào việc công dân Mỹ mua trái phiếu và tài sản nước ngoài.
+@Chuyên ngành kinh tế
+#thuế cân bằng lãi

@@ -1,0 +1,3 @@
+﻿@Positional good
+#(Econ) Hàng  hoá theo vị trí.
+: Một thuật ngữ của F.Hirsch sử dụng trong các giới hạn xã hội đối với tăng trưởng (1976) để chỉ một loại hàng hoá bị giới hạn về khả năng cung cấp tuyệt đối hoặc một cách tự nhiên hoặc thông qua các khía cạnh xã hội và có thể bị tắc nghẽn nếu sử dụng rộng rãi hơn.

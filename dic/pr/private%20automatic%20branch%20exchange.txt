@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#hệ thống điện đàm riêng tự động
+#hệ thống điện đàm riêng tự động Vi.PABE
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tổng đài tự động nhánh lẻ

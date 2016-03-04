@@ -1,0 +1,2 @@
+﻿@actual amount
+#(Tech) số lượng thực tế

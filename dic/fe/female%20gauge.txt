@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#calip hàm
+#calip vòng
+@Lĩnh vực: cơ khí & công trình
+#calip kiểm ngoài
+#calip ống
+@Lĩnh vực: điện lạnh
+#cỡ đo ngoài
+@Chuyên ngành kỹ thuật
+#calip hàm
+#calip vòng
+@Lĩnh vực: cơ khí & công trình
+#calip kiểm ngoài
+#calip ống
+@Lĩnh vực: điện lạnh
+#cỡ đo ngoài

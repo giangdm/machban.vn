@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường nối tới điểm
+#kết nối điểm-điểm
+#liên kết điểm-điểm
+#sự kết nối tới điểm

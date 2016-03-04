@@ -1,0 +1,2 @@
+﻿@automatic compiler
+#(Tech) chương trình biên dịch tự động

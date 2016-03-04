@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bit dừng
+#phần tử dừng
+@Lĩnh vực: điện tử & viễn thông
+#phần tử ngừng

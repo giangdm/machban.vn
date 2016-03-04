@@ -1,0 +1,13 @@
+﻿@FOB
+#(Econ) Giá không tính phí vận tải, giá FOB.
+: Cụm thuật ngữ này chỉ giá hay giá trị của một hàng hoá được tính trên cơ sở quá trình sản xuất và không bao gồm chi phí vận chuyển hàng hoá đến người tiêu dùng.
+<!-- more -->
+@fob /fɔb/
+*danh từ
+#túi đồng hồ
+#(từ Mỹ,nghĩa Mỹ) dây đeo đồng hồ bỏ túi
+#cho vào túi, đút túi
+*ngoại động từ
+#đánh lừa, lừa dối, lừa bịp
+#(: off) đánh tráo
+=to fob something off upon somebody; to fob someone off with something: đánh tráo cho ai cái gì (xấu hơn)

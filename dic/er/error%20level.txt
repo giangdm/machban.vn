@@ -1,0 +1,12 @@
+﻿@error level
+#(Tech) mức sai lầm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cấp độ lỗi
+#mức độ lỗi
+#mức lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cấp độ lỗi
+#mức độ lỗi
+#mức lỗi

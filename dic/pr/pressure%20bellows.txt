@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hộp gió
+#hộp xếp
+@Lĩnh vực: đo lường & điều khiển
+#bẻ tạo áp suất
+#hộp xếp tạo áp suất

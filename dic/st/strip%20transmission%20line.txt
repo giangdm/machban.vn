@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đường dẫn sóng mảnh
+@Lĩnh vực: điện lạnh
+#đường truyền kiểu băng (vi ba)

@@ -1,0 +1,6 @@
+﻿@Intermediate lag
+#(Econ) Độ trễ trung gian.
+: Đây là một phần trễ của độ trễ hoạt động có liên quan với CHÍNH SÁCH TIỀN TỆ.
+@Chuyên ngành kinh tế
+#độ trễ trung gian
+#khoảng trống trung gian

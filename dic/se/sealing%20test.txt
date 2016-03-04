@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thử độ kín
+@Lĩnh vực: điện lạnh
+#thử nghiệm độ kín

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#kho ướp lạnh
+@Chuyên ngành kỹ thuật
+#kho lạnh
+@Lĩnh vực: xây dựng
+#kho ướp lạnh
+@Lĩnh vực: điện lạnh
+#nhà chứa hàng lạnh

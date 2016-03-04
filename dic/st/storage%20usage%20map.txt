@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bản đồ sử dụng bộ nhớ
+@Lĩnh vực: toán & tin
+#sơ đồ dùng bộ nhớ
+#sơ đồ sử dụng bộ nhớ

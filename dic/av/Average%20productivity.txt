@@ -1,0 +1,3 @@
+﻿@Average productivity
+#(Econ) Năng suất bình quân.
+: Xem PRODUCTIVITY.

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#goòng chở (đổ nghiêng được)
+@Lĩnh vực: xây dựng
+#goòng trở (đổ nghiêng được)

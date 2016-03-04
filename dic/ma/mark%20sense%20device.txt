@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ đọc dấu hiệu
+#dụng cụ cảm biến dấu hiệu

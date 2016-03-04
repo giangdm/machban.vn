@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#dịch vụ cứu hộ
+@Chuyên ngành kỹ thuật
+#giá trị còn lại
+@Lĩnh vực: hóa học & vật liệu
+#giá trị tận dụng

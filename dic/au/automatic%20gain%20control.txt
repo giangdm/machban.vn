@@ -1,0 +1,5 @@
+﻿@automatic gain control
+#(Tech) điều khiển gia lượng tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều chỉnh khuếch đại tự động

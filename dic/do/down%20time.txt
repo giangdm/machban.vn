@@ -1,0 +1,10 @@
+﻿@down time
+#(Tech) thời gian máy hư
+@Chuyên ngành kinh tế
+#thời gian máy hỏng (không hoạt động)
+@Chuyên ngành kỹ thuật
+#giai đoạn tạm nghỉ
+@Lĩnh vực: toán & tin
+#thời gian đã mất
+@Lĩnh vực: điện tử & viễn thông
+#thời gian máy hỏng

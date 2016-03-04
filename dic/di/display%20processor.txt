@@ -1,0 +1,2 @@
+﻿@display processor
+#(Tech) bộ xử lý hiển thị

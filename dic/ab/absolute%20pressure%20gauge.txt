@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#áp kế tuyệt đối
+#máy đo áp suất tuyệt đối

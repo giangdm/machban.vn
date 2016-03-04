@@ -1,0 +1,3 @@
+﻿@Short run consumption function
+#(Econ) Hàm tiêu dùng ngắn hạn.
+: Mối quan hệ hàm số giữa tiêu dùng và thu nhập trong khoảng thời gian của chu kỳ kinh doanh.

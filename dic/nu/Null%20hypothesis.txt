@@ -1,0 +1,8 @@
+﻿@Null hypothesis
+#(Econ) Giả thiết Không.
+: Trong những kiểm định giả thuyết, đó là giả thiết mà trong đó thống kê kiểm định sẽ dựa vào một hàm phân phối xác suất cho trước.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#giả thiết không
+@Lĩnh vực: điện tử & viễn thông
+#giả thiết rỗng

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng chảy laminar
+#dòng chảy tầng
+#dòng chảy thành lớp
+#dòng chảy thành tầng
+@Lĩnh vực: xây dựng
+#dòng chảy phân tầng

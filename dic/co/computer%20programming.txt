@@ -1,0 +1,10 @@
+﻿@computer programming
+#(Tech) thảo chương điện toán
+@Chuyên ngành kinh tế
+#lập trình vi tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lập trình máy tính
+#sự lập trình máy tính
+@Lĩnh vực: xây dựng
+#sự lập chương máy tính

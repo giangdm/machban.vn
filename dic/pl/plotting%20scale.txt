@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#thang tỷ lệ
+@Lĩnh vực: xây dựng
+#thang tỉ lệ (bản đồ)
+@Lĩnh vực: điện tử & viễn thông
+#thang vẽ
+@Lĩnh vực: toán & tin
+#theo tỷ lệ
+#tỷ lệ xích
+@Lĩnh vực: hóa học & vật liệu
+#thước vẽ

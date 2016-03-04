@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#chất giải tụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#chất gây phân tán
+#chất giải keo tụ
+#chất khử đông tụ
+#chất khử keo tụ
+#tác nhân khử tụ

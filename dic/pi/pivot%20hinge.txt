@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bản lề có khớp xoay
+#chất quay (bản lề cửa sổ)
+#khớp nối kiểu bản lề
+#khớp ổ đứng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#thanh điều khiển
+#thanh giằng
+@Lĩnh vực: đo lường & điều khiển
+#tác dụng điều khiển

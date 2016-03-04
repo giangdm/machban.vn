@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#sự phân tích hệ thống
+@Chuyên ngành kỹ thuật
+#sự phân tích hệ thống
+@Lĩnh vực: đo lường & điều khiển
+#phân tích hệ thống

@@ -1,0 +1,2 @@
+﻿@Short run aggregate suply schedule
+#(Econ) Biểu cung gộp ngắn hạn.

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#tính không thấm dầu mỡ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#độ cản mỡ
+#độ chịu mỡ
+@Lĩnh vực: xây dựng
+#tính chịu dầu
+#tính chịu mỡ

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cầu dao nhiệt đới
+@Lĩnh vực: điện lạnh
+#cầu dao nhiệt đới hóa

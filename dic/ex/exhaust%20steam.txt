@@ -1,0 +1,17 @@
+﻿@Chuyên ngành kinh tế
+#hơi thải
+#hơi tiết lưu
+@Chuyên ngành kỹ thuật
+#hơi đã sử dụng
+#hơi nước thải
+#hơi thải
+#hơi xả
+@Lĩnh vực: hóa học & vật liệu
+#hơi nước xả
+@Chuyên ngành kỹ thuật
+#hơi đã sử dụng
+#hơi nước thải
+#hơi thải
+#hơi xả
+@Lĩnh vực: hóa học & vật liệu
+#hơi nước xả

@@ -1,0 +1,55 @@
+﻿@aggregate /'ægrigit/
+*tính từ
+#tập hợp lại, kết hợp lại
+#gộp chung, tính toàn thể, tính tổng số
+#(pháp lý) gồm nhiều cá nhân hợp lại, gồm nhiều đơn vị hợp lại
+*danh từ
+#khối tập hợp, khối kết tập, thể tụ tập
+#toàn bộ, toàn thể, tổng số
+=in the aggregate: tính gộp, tính chung, tính tổng số
+#(vật lý) kết tập
+=polycrystalline aggregate: kết tập đa tinh thể
+*ngoại động từ
+#tập hợp lại, kết hợp lại
+#tổng số lên đến
+=these armies aggregate 500,000 men: những đạo quân ấy tổng số lên đến 500, 000 người
+@Chuyên ngành kinh tế
+#có tính chất tổng hợp
+#tính gộp (số tiền)
+#tổ hợp
+#tổng
+#tổng gộp
+#tổng hợp
+#tổng kế
+@Chuyên ngành kỹ thuật
+#bộ
+#cấp phối
+#chất kết tụ
+#gộp
+#hệ (thống) thiết bị
+#hệ thống thiết bị
+#hợp nhất
+#hợp thể
+#kết tập
+#kết tụ
+#khối kết tập
+#ngưng đọng
+#máy liên hợp
+#tổ hợp
+#toàn thể
+#tổng số
+#vật liệu nghèo
+@Lĩnh vực: cơ khí & công trình
+#cốt liệu bê tông
+@Lĩnh vực: xây dựng
+#cốt liệu cát
+#cốt liệu sỏi
+#kết trộn
+#tụ
+@Lĩnh vực: toán & tin
+#gộp chung
+@Lĩnh vực: hóa học & vật liệu
+#hỗn hợp khô tạo bê tông
+<!-- more -->
+@aggregate
+#(Tech) tập hợp, kết tụ

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hàm hipebolic
+@Lĩnh vực: toán & tin
+#hàm hiperbolic

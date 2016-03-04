@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#tệp chuyển tác
+#tệp sửa đổi
+@Lĩnh vực: toán & tin
+#tập tin giao dịch
+#tệp di chuyển
+#tệp thay đổi
+#tệp toàn tác
+@Lĩnh vực: điện tử & viễn thông
+#tệp giao dịch

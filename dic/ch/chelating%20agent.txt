@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#chất tạo keo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#chất càng hóa
+#chất tạo càng
+#chất tạo chelat
+#chất tạo phức
+@Lĩnh vực: y học
+#tác nhân chelat

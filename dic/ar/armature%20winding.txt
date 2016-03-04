@@ -1,0 +1,10 @@
+﻿@armature winding
+#(Tech) cuộn dây của phần ứng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cuộn dây phần ứng điện
+#kiểu quấn dây phần ứng
+@Lĩnh vực: cơ khí & công trình
+#cuộn dây ứng điện
+@Lĩnh vực: điện lạnh
+#dây quấn phần ứng

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#mạch ghép dẫn điện
+@Lĩnh vực: toán & tin
+#mạnh ghép dẫn điện

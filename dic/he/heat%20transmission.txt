@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#sự tách ẩm
+#sự truyền âm
+@Chuyên ngành kỹ thuật
+#dòng nhiệt
+#sự truyền nhiệt
+@Lĩnh vực: điện lạnh
+#dòng truyền nhiệt
+@Lĩnh vực: điện
+#sự tải nhiệt

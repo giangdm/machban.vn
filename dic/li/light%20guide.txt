@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dây dẫn ánh sáng
+@Lĩnh vực: xây dựng
+#khoang dẫn ánh sáng
+#ống dẫn ánh sáng
+@Lĩnh vực: vật lý
+#ống dẫn quang
+#ống dẫn sáng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dây dẫn ánh sáng
+@Lĩnh vực: xây dựng
+#khoang dẫn ánh sáng
+#ống dẫn ánh sáng
+@Lĩnh vực: vật lý
+#ống dẫn quang
+#ống dẫn sáng

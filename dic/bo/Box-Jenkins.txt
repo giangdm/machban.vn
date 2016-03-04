@@ -1,0 +1,3 @@
+﻿@Box-Jenkins
+#(Econ) Phương pháp Box-Jenkins.
+: Một phương pháp dự báo dựa trên mô hình CHUỖI THỜI GIAN ARIMA.

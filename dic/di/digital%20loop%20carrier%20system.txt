@@ -1,0 +1,2 @@
+﻿@digital loop carrier system
+#(Tech) hệ thống tải chu trình số tự

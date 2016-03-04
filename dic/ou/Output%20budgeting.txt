@@ -1,0 +1,6 @@
+﻿@Output budgeting
+#(Econ) Lập ngân sách theo Sản lượng (hay đầu ra).
+: Là một hệ thống kế toán phân loại các chi phí theo sản lượng được sản xuất ra dựa vào quá trình sản xuất chứ không dựa theo những đầu vào được mua.
+@Chuyên ngành kinh tế
+#lập ngân sách theo đầu ra
+#lập ngân sách theo sản lượng

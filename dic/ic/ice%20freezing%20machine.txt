@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kinh tế
+#máy làm băng
+@Chuyên ngành kỹ thuật
+#nhà máy nước đá
+#máy làm (nước) đá
+#máy làm đá
+#máy sản xuất (nước) đá
+@Lĩnh vực: hóa học & vật liệu
+#nhà máy (nước) đá
+@Lĩnh vực: điện lạnh
+#máy kết đông (nước) đá
+#máy lạnh đông để làm đá

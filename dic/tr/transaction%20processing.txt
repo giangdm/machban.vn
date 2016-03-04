@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phương pháp tổ chức một hệ thống xử lý dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự xử lý toàn tác

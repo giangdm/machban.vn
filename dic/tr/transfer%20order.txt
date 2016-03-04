@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#đơn đặt hàng chuyển nhượng
+#giấy báo chuyển khoản (của ngân hàng)
+#giấy ủy quyền chuyển nhượng
+#lệnh chuyển khoản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lệnh chuyển
+#lệnh di chuyển
+@Lĩnh vực: xây dựng
+#lệnh chuyển tiền

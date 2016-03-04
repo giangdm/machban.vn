@@ -1,0 +1,3 @@
+﻿@Truncated earnings function
+#(Econ) Hàm thu nhập rút gọn.
+: Một kiểm nghiệm giả thuyết của thị trường lao động NHỊ NGUYÊN rằng cơ chế quyết định tiền công khác nhau giữa khu vực thứ nhất và thứ hai của thị trường lao động, khu vực thứ nhất trả cho VỐN NHÂN LỰC, khu vực thứ hai trả cho những người vừa không có kinh nghiệm và không có học vấn.

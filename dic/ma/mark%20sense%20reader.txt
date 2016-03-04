@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị đọc nhãn
+@Lĩnh vực: toán & tin
+#thiết bị nhận dạng nhãn

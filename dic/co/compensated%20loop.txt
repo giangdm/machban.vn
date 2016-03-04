@@ -1,0 +1,2 @@
+﻿@compensated loop
+#(Tech) vòng bù trừ

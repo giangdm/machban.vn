@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bộ chuyển mã tương tự sang tín hiệu số
+@Chuyên ngành kỹ thuật
+#bộ biến đổi A/D
+#bộ chuyển đổi AD
+@Lĩnh vực: điện lạnh
+#bộ đổi tương tự -số

@@ -1,0 +1,8 @@
+﻿@electron-molecule collision
+#(Tech) sự va chạm điện tử-phân tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#va chạm electron-phân tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#va chạm electron-phân tử

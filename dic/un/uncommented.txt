@@ -1,0 +1,3 @@
+﻿@uncommented
+*tính từ
+#không được bình luận, không được giải thích

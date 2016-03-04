@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thẻ trả tiền
+@Chuyên ngành kỹ thuật
+#thẻ thông minh
+@Lĩnh vực: toán & tin
+#cạc chíp
+#thẻ chip
+#thẻ mạch

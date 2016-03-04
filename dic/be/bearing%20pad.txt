@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#gối đỡ
+#gối tựa
+#lớp đệm
+#lớp lót
+@Lĩnh vực: xây dựng
+#bản đệm gối cầu
+@Lĩnh vực: vật lý
+#đệm tựa
+#lớp đệm tựa

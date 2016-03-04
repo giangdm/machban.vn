@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#đại lượng đầu ra
+@Lĩnh vực: điện tử & viễn thông
+#lượng tín hiệu ra

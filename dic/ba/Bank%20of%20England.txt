@@ -1,0 +1,6 @@
+﻿@Bank of England
+#(Econ) Ngân hàng Anh
+: Là ngân hàng TRUNG ƯƠNG của Anh. Do thương nhân London đề xướng như một ngân hàng thương mại và được thành lập theo đạo luật của Quốc hội năm 1694.
+@Chuyên ngành kinh tế
+#Ngân hàng Anh (ngân hàng trung ương Anh quốc)
+#ngân hàng trung ương Anh Quốc

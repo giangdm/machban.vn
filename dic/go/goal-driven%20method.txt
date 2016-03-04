@@ -1,0 +1,2 @@
+﻿@goal-driven method
+#(Tech) phương pháp hướng về đích

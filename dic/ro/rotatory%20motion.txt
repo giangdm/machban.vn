@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chuyển động quay (tròn)
+@Lĩnh vực: xây dựng
+#chuyển động xoay

@@ -1,0 +1,3 @@
+﻿@Overdraff
+#(Econ) Chi dôi; Thấu chi.
+: Là hệ thống cho vay trong ngân hàng, do các ngân hàng của Xcốtlen khởi xướng, theo đó người đi vay được phép rút séc vượt quá số dư tín dụng trong tài khoản của mình, cho đến một hạn mức được thoả thuận và chỉ phải trả hàng ngày tính trên số tiền rút quá số dư.

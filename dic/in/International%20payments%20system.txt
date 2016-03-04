@@ -1,0 +1,3 @@
+﻿@International payments system
+#(Econ) Hệ thống thanh toán quốc tế.
+: Một cụm thuật ngữ chung chỉ cách thức tiến hành các giao dịch tài chính quốc tế, nghĩa là các thanh toán giữa công dân của các nước đang giữ các đồng nội tệ khác nhau.

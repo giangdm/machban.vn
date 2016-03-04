@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#hộp cắm điện
+#hộp đấu dây
+#hộp đầu ra
+@Lĩnh vực: điện
+#hộp nối ra
+@Lĩnh vực: điện lạnh
+#hộp ổ cắm

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#cơ học kết cấu
+#phân tích cấu trúc
+#sự phân tích cấu tạo
+#sự phân tích cấu trúc
+#sự phân tích kết cấu
+@Lĩnh vực: xây dựng
+#phân tích kết cấu
+#sự tính toán kết cấu

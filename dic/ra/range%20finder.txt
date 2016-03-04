@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy định cự ly
+#máy đo khoảng cách
+@Lĩnh vực: xây dựng
+#cái đo xa
+@Lĩnh vực: điện tử & viễn thông
+#máy đo lường từ xa
+#máy viễn trắc
+#viễn trắc kế

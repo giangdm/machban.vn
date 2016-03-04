@@ -1,0 +1,8 @@
+﻿@arithmetic and logic unit (ALU)
+#(Tech) bộ số học và luận lý, bộ số học lôgíc, bộ lý toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ logic và số học
+#đơn vị lôgic số học
+#đơn vị số học - lôgic - ALU
+#khối số học - lôgic - ALU

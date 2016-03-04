@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#sức cản bề mặt (nước) đá
+#trở lực bề mặt (nước) đá
+#trở lực bề mặt nước đá

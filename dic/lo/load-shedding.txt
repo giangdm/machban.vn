@@ -1,0 +1,6 @@
+﻿@load-shedding
+*danh từ
+#sự cắt nguồn cung cấp điện ở một số đường dây khi nhu cầu chung về điện lớn hơn khả năng cung cấp
+@Chuyên ngành kinh tế
+#cắt điện
+#sự tạm ngưng cung cấp điện

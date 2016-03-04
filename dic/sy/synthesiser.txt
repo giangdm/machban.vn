@@ -1,0 +1,2 @@
+﻿@synthesiser
+#Cách viết khác : synthesizer

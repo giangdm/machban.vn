@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chu kỳ cản dịu
+#thời gian tắt dần
+@Lĩnh vực: đo lường & điều khiển
+#thời gian làm nhụt

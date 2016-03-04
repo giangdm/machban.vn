@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#màn ảnh hiển thị (máy tính)
+@Chuyên ngành kỹ thuật
+#bộ hiển thị
+#màn hình
+@Lĩnh vực: toán & tin
+#thiết bị màn hình

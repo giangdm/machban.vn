@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#khe hở giữa các bản ghi
+#lỗ hổng giữa các bản ghi

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phiếu khía rãnh ở lề
+#thẻ khía rãnh ở mép

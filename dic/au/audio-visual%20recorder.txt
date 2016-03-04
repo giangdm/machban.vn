@@ -1,0 +1,2 @@
+﻿@audio-visual recorder
+#(Tech) máy ghi thính thị

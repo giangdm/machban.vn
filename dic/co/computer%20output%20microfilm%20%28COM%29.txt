@@ -1,0 +1,2 @@
+﻿@computer output microfilm (COM)
+#(Tech) vi phim dùng xuất phẩm máy điện toán

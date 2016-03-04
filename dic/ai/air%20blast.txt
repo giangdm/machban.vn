@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#gió
+#luồng gió
+#luồng khí
+#nổ
+#máy quạt gió
+#phun khí
+#sóng hơi do nổ
+#sự thổi khí
+@Lĩnh vực: xây dựng
+#máy thổi gió
+@Lĩnh vực: điện lạnh
+#sự quạt gió tăng cường
+#sự thổi gió mạnh
+@Lĩnh vực: hóa học & vật liệu
+#thổi không khí

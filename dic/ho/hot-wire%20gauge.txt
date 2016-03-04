@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#áp kế Pirani
+@Lĩnh vực: đo lường & điều khiển
+#áp kế nhiệt

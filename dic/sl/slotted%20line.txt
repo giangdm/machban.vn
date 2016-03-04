@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#đầu dây cảm biến
+#đoạn xẻ khe
+#đường truyền có khe
+#ống dẫn sóng có khe

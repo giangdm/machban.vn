@@ -1,0 +1,22 @@
+﻿@Attribute
+#(Econ) Thuộc tính.
+: Một nét đặc trưng hay thuộc tính của hàng hoá. Xem CHARACTERISICS THEORY.
+<!-- more -->
+@attribute /'ætribju:t/
+*danh từ
+#thuộc tính
+#vật tượng trưng
+#(ngôn ngữ học) thuộc ngữ
+*ngoại động từ
+#cho là do, quy cho
+=to attribute one's success to hard work: cho thành công là do sự cần cù
+=to attribute a crime to somebody: quy tội cho ai
+@Chuyên ngành kinh tế
+#thuộc tính
+@Chuyên ngành kỹ thuật
+#chỉ định
+#cho... là do
+#thuộc tính
+<!-- more -->
+@attribute
+#thuộc tính

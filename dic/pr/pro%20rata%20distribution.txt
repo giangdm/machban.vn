@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#chia (chịu) theo tỉ lệ
+#chia (chịu) theo tỷ lệ

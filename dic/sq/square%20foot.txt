@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phút, mét, bộ vuông Anh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#fut vuông
+@Lĩnh vực: đo lường & điều khiển
+#fút vuông

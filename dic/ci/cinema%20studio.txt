@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#rạp chiếu phim
+@Lĩnh vực: xây dựng
+#xưởng phim

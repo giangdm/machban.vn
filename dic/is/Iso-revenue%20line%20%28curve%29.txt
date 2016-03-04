@@ -1,0 +1,3 @@
+﻿@Iso-revenue line (curve)
+#(Econ) Đường đẳng thu.
+: Quỹ tích các tổ hợp SẢN LƯỢNG và phí tổn tiếp thị tạo nên một mức TỔNG DOANH THU nhất định.

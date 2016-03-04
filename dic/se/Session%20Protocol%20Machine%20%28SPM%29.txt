@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị giao thức phiên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy giao thức luôn phiên

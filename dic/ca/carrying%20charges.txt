@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#chi phí tính thêm (bán trả góp)
+#phí tổn giữ gìn tài sản
+#phí tổn trữ hàng
+#tiền lời (phải trả)

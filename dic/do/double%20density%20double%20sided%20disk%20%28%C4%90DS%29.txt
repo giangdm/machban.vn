@@ -1,0 +1,2 @@
+﻿@double density double sided disk (ĐDS)
+#(Tech) đĩa hai mặt mật độ kép

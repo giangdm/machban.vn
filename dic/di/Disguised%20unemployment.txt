@@ -1,0 +1,5 @@
+﻿@Disguised unemployment
+#(Econ) Thất nghiệp trá hình.
+: Xem HIDDEN UNEMPLOYMENT.
+@Chuyên ngành kinh tế
+#thất nghiệp trá hình

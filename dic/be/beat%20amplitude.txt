@@ -1,0 +1,5 @@
+﻿@beat amplitude
+#(Tech) biên độ phách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#biên độ của độ đảo

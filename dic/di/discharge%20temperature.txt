@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt độ nạp vào
+@Chuyên ngành kỹ thuật
+#nhiệt độ xả
+@Lĩnh vực: điện lạnh
+#nhiệt độ đường đẩy
+@Lĩnh vực: hóa học & vật liệu
+#nhiệt độ phóng điện

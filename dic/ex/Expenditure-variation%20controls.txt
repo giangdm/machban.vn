@@ -1,0 +1,3 @@
+﻿@Expenditure-variation controls
+#(Econ) Kiểm soát mức biến động trong chi tiêu; Kiểm soát sự thay đổi của chi tiêu.
+: Điều chỉnh lại sự mất cân bằng kinh doanh bằng cách thay đổi mức và thành phần của ngân sách và bằng cách kiểm soát quy mô và chi phí của tín dụng.

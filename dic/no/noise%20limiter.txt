@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ hạn chế tạp nhiễu
+#bộ hạn chế tiếng ồn
+@Lĩnh vực: toán & tin
+#bộ hạn chế nhiễu
+#hạn chế ồn
+@Lĩnh vực: điện
+#mạch hạn chế nhiễu âm

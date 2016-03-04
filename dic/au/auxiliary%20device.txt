@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị hỗ trợ
+@Lĩnh vực: toán & tin
+#dụng cụ hỗ trợ
+@Lĩnh vực: xây dựng
+#thiết bị phụ (trợ)

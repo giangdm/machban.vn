@@ -1,0 +1,3 @@
+﻿@Engineering method
+#(Econ) Phương pháp kỹ thuật.
+: Một phương pháp được dùng trong PHÂN TÍCH CHI PHÍ THÔNG KÊ, trong đó những ước tính của người kỹ sư về mối liên hệ đầu vào- đầu ra là cơ sở để tính toán chi phí sản xuất tối thiểu tại các mức sản lượng khác nhau.

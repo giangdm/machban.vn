@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đáp ứng ngoại lệ
+@Lĩnh vực: toán & tin
+#sự đáp ứng ngoại lệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đáp ứng ngoại lệ
+@Lĩnh vực: toán & tin
+#sự đáp ứng ngoại lệ

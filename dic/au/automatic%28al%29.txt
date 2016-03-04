@@ -1,0 +1,2 @@
+﻿@automatic(al)
+#tự động

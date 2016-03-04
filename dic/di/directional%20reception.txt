@@ -1,0 +1,2 @@
+﻿@directional reception
+#(Tech) sự tiếp thu hướng tính

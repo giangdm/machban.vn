@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#đơn đặt hàng có điều kiện
+#lệnh trả tiền có điều kiện (của ngân hàng gửi)
+@Chuyên ngành kỹ thuật
+#lệnh có điều kiện

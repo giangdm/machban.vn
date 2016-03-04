@@ -1,0 +1,7 @@
+﻿@Transfer earnings
+#(Econ) Thặng dư kinh tế.
+: Xem ECONOMIC RENT.
+@Chuyên ngành kinh tế
+#tiền kiếm được
+#tiền kiếm được do chuyển dùng
+#tiền lãi do chuyển nhượng

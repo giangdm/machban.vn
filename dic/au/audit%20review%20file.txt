@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#tập tin duyệt kiểm tra
+#tập tin xem lại kiểm tra
+#tệp khảo kiểm toán
+@Lĩnh vực: điện tử & viễn thông
+#tệp khảo hiểm

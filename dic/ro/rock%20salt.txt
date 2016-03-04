@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#muối dạng đá
+#muối mỏ
+@Chuyên ngành kỹ thuật
+#muối mỏ
+@Lĩnh vực: hóa học & vật liệu
+#muối khoáng

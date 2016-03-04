@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị làm nguội kiểu ống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#giàn lạnh kiểu ống

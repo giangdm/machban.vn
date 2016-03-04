@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#giá thành
+#nguyên giá
+#phí tổn đầu tiên
+#phí tổn sáng lập
+@Chuyên ngành kỹ thuật
+#chi phí ban đầu
+#giá thành ban đầu
+#vốn đầu tư

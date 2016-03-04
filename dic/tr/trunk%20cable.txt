@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cáp đường trung kế
+@Lĩnh vực: toán & tin
+#cáp trục chính
+@Lĩnh vực: xây dựng
+#đường cáp liên đài

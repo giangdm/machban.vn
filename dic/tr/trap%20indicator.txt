@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#cái chỉ bẫy
+@Lĩnh vực: hóa học & vật liệu
+#dấu hiệu bẫy

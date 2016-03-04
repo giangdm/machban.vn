@@ -1,0 +1,2 @@
+﻿@differential gain control
+#(Tech) điều chỉnh tăng ích vi phân

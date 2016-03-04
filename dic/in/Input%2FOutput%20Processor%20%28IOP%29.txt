@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ xử lý vào/ra
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ xử lý nhập/xuất

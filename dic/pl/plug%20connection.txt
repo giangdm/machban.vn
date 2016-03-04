@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#phích nối
+@Lĩnh vực: điện
+#cách nối cắm
+#mạch nối cắm
+#sự nối bảng phích cắm
+@Lĩnh vực: xây dựng
+#phích đóng mạch

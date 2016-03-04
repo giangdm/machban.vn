@@ -1,0 +1,2 @@
+﻿@electron transit time error
+#(Tech) sai số thời gian vượt quãng điện tử

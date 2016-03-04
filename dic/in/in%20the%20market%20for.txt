@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#có ý muốn mua (thứ gì)
+#nghĩ đến việc mua (món hàng nào đó)

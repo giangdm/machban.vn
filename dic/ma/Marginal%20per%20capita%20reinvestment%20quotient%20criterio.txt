@@ -1,0 +1,3 @@
+﻿@Marginal per capita reinvestment quotient criterio
+#(Econ) Tiêu chuẩn về thương số tái đầu tư cận biên theo đầu người.
+: Là một tiêu chuẩn về đầu tư với mục tiêu tối đa hoá thu nhập bình quân đầu người tại một thời điểm trong tương lai.

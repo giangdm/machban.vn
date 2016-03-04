@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#nạp liệu dưới áp suất
+@Lĩnh vực: cơ khí & công trình
+#sự tăng áp (động cơ đốt trong)

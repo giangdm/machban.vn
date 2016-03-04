@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#thuyền nhỏ chuyển hàng (từ tàu lớn vào đất liền)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#xuồng trên tàu

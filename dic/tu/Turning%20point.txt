@@ -1,0 +1,14 @@
+﻿@Turning point
+#(Econ) Điểm ngoặt
+: Điểm trong chu kỳ kinh doanh khi TRẠNG THÁI MỞ RỘNG của chu kỳ được thay thế bằng trạng thái thu hẹp hoặc ngược lại. Điểm đỉnh và điểm đáy được goi là các bước ngoặt.
+@Chuyên ngành kinh tế
+#bước chuyển
+#bước ngoặt
+#điểm chuyển
+#điểm ngoặt
+#điểm ngoặt (của đường cong trên đồ thị)
+@Chuyên ngành kỹ thuật
+#điểm ngoặt
+#điểm xoay
+@Lĩnh vực: hóa học & vật liệu
+#điểm chuyển

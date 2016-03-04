@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số khấu trừ tiền lương
+#số khấu trừ tiền lương (tiền lương giữ lại)

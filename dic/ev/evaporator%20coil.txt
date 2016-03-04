@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#dàn bay hơi
+@Lĩnh vực: điện lạnh
+#giàn ống xoắn bay hơi
+@Lĩnh vực: xây dựng
+#ống xoắn bay hơi
+@Chuyên ngành kỹ thuật
+#dàn bay hơi
+@Lĩnh vực: điện lạnh
+#giàn ống xoắn bay hơi
+@Lĩnh vực: xây dựng
+#ống xoắn bay hơi

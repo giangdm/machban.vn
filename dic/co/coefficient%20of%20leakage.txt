@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ nở dài
+#hệ số nở dài
+#hệ số phân tán
+@Lĩnh vực: cơ khí & công trình
+#hệ số rò (rỉ)
+@Lĩnh vực: điện lạnh
+#hệ số rò rỉ

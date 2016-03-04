@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#tải trọng lặp
+@Lĩnh vực: xây dựng
+#sự chất tải nhiều lần
+@Lĩnh vực: hóa học & vật liệu
+#sự đặt tải lặp lại

@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ căn lá
+@Lĩnh vực: cơ khí & công trình
+#cái đo chiều dày
+@Lĩnh vực: điện lạnh
+#cỡ đo khe
+@Lĩnh vực: ô tô
+#cỡ lá (đo khe hở)
+@Chuyên ngành kỹ thuật
+#bộ căn lá
+@Lĩnh vực: cơ khí & công trình
+#cái đo chiều dày
+@Lĩnh vực: điện lạnh
+#cỡ đo khe
+@Lĩnh vực: ô tô
+#cỡ lá (đo khe hở)

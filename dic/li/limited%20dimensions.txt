@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#hạn định
+#kích thước giới hạn
+@Lĩnh vực: toán & tin
+#kích thước hạn định
+@Chuyên ngành kỹ thuật
+#hạn định
+#kích thước giới hạn
+@Lĩnh vực: toán & tin
+#kích thước hạn định

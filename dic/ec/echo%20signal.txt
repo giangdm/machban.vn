@@ -1,0 +1,9 @@
+﻿@echo signal
+#(Tech) tín hiệu dội
+@Chuyên ngành kỹ thuật
+#tín hiệu dội
+#tín hiệu mục tiêu
+#tín hiệu video (ở rađa)
+@Lĩnh vực: điện tử & viễn thông
+#tiếng dội
+#tiếng hiệu dội

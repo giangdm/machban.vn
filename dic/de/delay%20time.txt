@@ -1,0 +1,6 @@
+﻿@delay time
+#(Tech) thời gian trễ, thời gian trì hoãn
+@Chuyên ngành kỹ thuật
+#thời gian xếp hàng
+@Lĩnh vực: điện
+#thời gian trì hoãn

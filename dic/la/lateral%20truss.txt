@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#giàn bên
+#giàn dọc
+@Lĩnh vực: toán & tin
+#giàn gió
+@Lĩnh vực: xây dựng
+#giàn gió (cầu)
+#giàn trên phương ngang
+@Chuyên ngành kỹ thuật
+#giàn bên
+#giàn dọc
+@Lĩnh vực: toán & tin
+#giàn gió
+@Lĩnh vực: xây dựng
+#giàn gió (cầu)
+#giàn trên phương ngang

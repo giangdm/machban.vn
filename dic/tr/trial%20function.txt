@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hàm cơ sở
+@Lĩnh vực: toán & tin
+#hàm cơ sở (thuộc không gian cơ sở)

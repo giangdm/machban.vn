@@ -1,0 +1,2 @@
+﻿@Parallel market premium rate
+#(Econ) Tỷ lệ chênh lệch giá của thị trường song hành.

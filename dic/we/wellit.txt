@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#velit (vật liệu cách nhiệt)
+#vellit (vật liệu cách nhiệt)

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy đo ampe giờ
+@Lĩnh vực: điện
+#ampe giờ kế
+#ampe kế giờ
+#đồng hồ ampe-giờ
+@Lĩnh vực: điện lạnh
+#công tơ điện lượng
+#máy đếm ampe giờ

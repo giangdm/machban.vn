@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ cộng nhị phân
+@Lĩnh vực: toán & tin
+#máy cộng nhị phân

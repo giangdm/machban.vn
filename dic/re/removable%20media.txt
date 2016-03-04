@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#phương tiện di dời được
+@Lĩnh vực: cơ khí & công trình
+#phương tiện tháo lắp được

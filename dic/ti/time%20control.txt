@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểm tra thời gian
+@Lĩnh vực: đo lường & điều khiển
+#sự điều khiển thời gian
+#sự định thời gian

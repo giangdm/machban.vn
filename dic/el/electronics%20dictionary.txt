@@ -1,0 +1,2 @@
+﻿@electronics dictionary
+#(Tech) từ điển ngành điện tử

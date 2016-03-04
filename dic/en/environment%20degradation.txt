@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#sự xuống cấp môi trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#suy thoái môi trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#suy thoái môi trường

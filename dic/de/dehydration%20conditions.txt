@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều kiện hút
+#điều kiện hút nước
+#điều kiện khử nước

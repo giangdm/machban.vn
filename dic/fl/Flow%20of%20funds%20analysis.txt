@@ -1,0 +1,6 @@
+﻿@Flow of funds analysis
+#(Econ) Phân tích luồng tiền quỹ
+: Sự phân tích trên các giác độ tổng hợp khác nhau, luồng tiền quỹ từ các khu vực thặng dư về tài chính tới các khu vực thâm hụt.
+@Chuyên ngành kinh tế
+#phân tích luồng vốn di chuyển
+#sự phân tích luồng vốn di chuyển

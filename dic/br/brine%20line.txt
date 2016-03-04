@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#ống dẫn dịch nước muối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đường ống nước muối

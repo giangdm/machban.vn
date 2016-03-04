@@ -1,0 +1,9 @@
+﻿@communication satellite
+#(Tech) vệ tinh truyền thông
+@Chuyên ngành kinh tế
+#vệ tinh truyền thông
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#vệ tính truyền thông-BS
+@Lĩnh vực: điện
+#vệ tinh viễn thông

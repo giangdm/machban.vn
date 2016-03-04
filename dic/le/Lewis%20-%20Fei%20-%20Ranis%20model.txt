@@ -1,0 +1,3 @@
+﻿@Lewis - Fei - Ranis model
+#(Econ) Mô hình Lewis - Fei - Ranis.
+: Một mô hình kinh tế về thất nghiệp ở các nước đang phát triển được A.Lewis giới thiệu năm 1954 và 1958 và sau đó đươch chín thức hoá bởi Fei và Ranis năm 1964.

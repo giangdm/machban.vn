@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bút kẻ mực
+@Lĩnh vực: xây dựng
+#bút kẻ đường
+#bút kim
+#set bộ bút kim

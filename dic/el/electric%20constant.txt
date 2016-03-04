@@ -1,0 +1,10 @@
+﻿@electric constant
+#(Tech) hằng số điện
+@Chuyên ngành kỹ thuật
+#hằng số điện môi
+@Lĩnh vực: vật lý
+#hằng số điện
+@Chuyên ngành kỹ thuật
+#hằng số điện môi
+@Lĩnh vực: vật lý
+#hằng số điện

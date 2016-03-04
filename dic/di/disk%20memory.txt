@@ -1,0 +1,4 @@
+﻿@disk memory
+#(Tech) bộ nhớ đĩa
+@Chuyên ngành kỹ thuật
+#bộ nhớ đĩa

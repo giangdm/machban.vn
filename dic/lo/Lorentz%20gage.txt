@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+#áp kế Lorentz
+@Lĩnh vực: điện lạnh
+#chuẩn cỡ Lorentz

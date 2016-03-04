@@ -1,0 +1,5 @@
+﻿@block cancel character
+#(Tech) ký tự bỏ khối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#ký tự hủy bỏ khối

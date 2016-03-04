@@ -1,0 +1,3 @@
+﻿@Allowances and expencess for income tax
+#(Econ) Khấu trừ và chi phí đôí với thuế thu nhập.
+: Hệ thống thuế thu nhập bao gồm hệ thống các khoản khấu trừ và chi phí. Chúng được trừ từ tổng thu nhập để xác định chịu thuế.

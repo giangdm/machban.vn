@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chất đổ kín
+#vật liệu lấp kín
+@Lĩnh vực: xây dựng
+#vật liệu dùng để phun
+#vật liệu dùng để phụt

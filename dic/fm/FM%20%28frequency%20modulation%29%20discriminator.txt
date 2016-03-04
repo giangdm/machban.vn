@@ -1,0 +1,2 @@
+﻿@FM (frequency modulation) discriminator
+#(Tech) bộ tách sóng biến điệu tần số, bộ giải điều tần

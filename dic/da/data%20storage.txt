@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ nhớ
+#bộ nhớ dữ liệu
+#kho dữ liệu
+@Lĩnh vực: toán & tin
+#bộ nhớ thông tin

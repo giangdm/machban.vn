@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#âm lượng tử
+@Lĩnh vực: điện lạnh
+#tạp âm lượng tử

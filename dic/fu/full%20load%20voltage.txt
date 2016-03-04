@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điện áp khi đầy tải
+#điện thế có tải toàn phần

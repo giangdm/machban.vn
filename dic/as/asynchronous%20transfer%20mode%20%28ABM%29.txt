@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#sự truyền không đồng bộ
+@Lĩnh vực: toán & tin
+#sự chuyển không đồng bộ

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ngói amian
+@Lĩnh vực: toán & tin
+#tấm fibôximăng
+@Lĩnh vực: xây dựng
+#tấm fibrôximăng

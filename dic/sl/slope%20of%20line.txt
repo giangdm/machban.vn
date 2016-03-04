@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ dốc của đường thẳng
+@Lĩnh vực: toán & tin
+#hệ số góc của đường thẳng

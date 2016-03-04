@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#clê kiểu ống
+#kìm cặp ống
+@Lĩnh vực: hóa học & vật liệu
+#kìm ngàm xiết ống
+@Lĩnh vực: ô tô
+#mỏ lết có răng
+@Lĩnh vực: cơ khí & công trình
+#mỏ lết mở ống

@@ -1,0 +1,7 @@
+﻿@delta modulation
+#(Tech) biến điệu đenta
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều biến đenta
+@Lĩnh vực: toán & tin
+#sự điều chế delta

@@ -1,0 +1,3 @@
+﻿@Wage leadership
+#(Econ) Xác định tiền công theo mức tham khảo.
+: Tình thế trong đó việc trả lương cho một hoặc một số người trong một khu vực cụ thể được coi là mức tham khảo cho mọi yêu cầu lương sau này.

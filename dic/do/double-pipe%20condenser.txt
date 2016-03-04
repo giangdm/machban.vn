@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị ngưng tụ hai ống
+@Chuyên ngành kỹ thuật
+#giàn ngưng ống lồng
+@Lĩnh vực: điện lạnh
+#giàn ngưng ống đúp

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khẩu độ hạ lưu
+@Lĩnh vực: cơ khí & công trình
+#lỗ hạ lưu

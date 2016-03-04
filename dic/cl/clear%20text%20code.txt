@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mã bằng ngôn ngữ rõ ràng
+#mã bằng văn bản rõ ràng

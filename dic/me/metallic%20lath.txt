@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lati kim loại
+@Lĩnh vực: xây dựng
+#dải kim loại dài
+#dải kim loại hẹp
+#dải kim loại mỏng

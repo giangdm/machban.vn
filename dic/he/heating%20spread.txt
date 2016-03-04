@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chăn nhiệt
+#lan truyền nhiệt
+#sự lan truyền nhiệt

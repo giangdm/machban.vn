@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#điện thoại cầm tay
+@Chuyên ngành kỹ thuật
+#điện thoại không dây

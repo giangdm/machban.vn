@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đường cong nhiệt độ bầu ướt
+#đường cong nhiệt độ bầu ướt (của nhiệt kế)

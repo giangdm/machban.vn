@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#biến dạng dư khi nén
+#sự biến dạng dư

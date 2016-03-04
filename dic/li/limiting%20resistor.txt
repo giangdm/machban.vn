@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#điện trở phụ
+@Lĩnh vực: điện
+#điện trở hạn chế
+@Chuyên ngành kỹ thuật
+#điện trở phụ
+@Lĩnh vực: điện
+#điện trở hạn chế

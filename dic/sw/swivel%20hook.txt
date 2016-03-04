@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#móc chuyển động
+@Lĩnh vực: cơ khí & công trình
+#móc kiểu khớp khuyên
+@Lĩnh vực: xây dựng
+#móc quay
+@Lĩnh vực: giao thông & vận tải
+#móc vòng ngoặc

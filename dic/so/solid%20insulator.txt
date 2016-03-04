@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#chất cách điện rắn
+@Lĩnh vực: điện lạnh
+#dụng cụ cách điện rắn (làm bằng chất rắn)

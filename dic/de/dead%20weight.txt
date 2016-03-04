@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#hàng dằn tàu
+#trọng lượng không tải
+@Chuyên ngành kỹ thuật
+#tải trọng không đổi
+@Lĩnh vực: vật lý
+#trọng lượng chết

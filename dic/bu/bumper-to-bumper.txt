@@ -1,0 +1,8 @@
+﻿@bumper-to-bumper
+#thành ngữ bumper
+#bumper-to-bumper
+#theo hàng dọc, nối đuôi nhau
+=all the cars in this garage must be parked bumper-to-bumper:tất cả các xe trong gara này phải đậu nối đuôi nhau
+#thành ngữ bumper
+=bumper-to-bumper:theo hàng dọc, nối đuôi nhau
+=all the cars in this garage must be parked bumper-to-bumper:tất cả các xe trong gara này phải đậu nối đuôi nhau

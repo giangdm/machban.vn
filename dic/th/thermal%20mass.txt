@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#khối lượng tác dụng nhiệt
+@Lĩnh vực: điện lạnh
+#lượng nhiệt

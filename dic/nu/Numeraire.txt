@@ -1,0 +1,3 @@
+﻿@Numeraire
+#(Econ) Đơn vị tính toán.
+: Là một đơn vị hạch toán, hoặc là một biểu thức của tiêu chuẩn giá trị.

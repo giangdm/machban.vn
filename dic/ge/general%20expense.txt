@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#chi phí quản lý
+#chi phí tổng quát
+#chi tiêu thường ngày
+@Chuyên ngành kỹ thuật
+#chi phi ban đầu

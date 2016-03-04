@@ -1,0 +1,4 @@
+﻿@Cobb-Douglas production function
+#(Econ) Hàm sản xuất Cobb-Douglas.
+@Chuyên ngành kinh tế
+#hàm sản xuất Cobb-Douglas

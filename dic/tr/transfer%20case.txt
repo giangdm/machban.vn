@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#hộp văn kiện cũ chuyển vào nơi lưu trữ
+@Chuyên ngành kỹ thuật
+#hộp phân phối
+#hộp số phụ
+@Lĩnh vực: hóa học & vật liệu
+#hộp chuyển động
+@Lĩnh vực: cơ khí & công trình
+#hộp phân công suất (ôtô)

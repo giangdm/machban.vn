@@ -1,0 +1,8 @@
+﻿@in brief
+*thành ngữ brief
+@Chuyên ngành kinh tế
+#tin ngắn
+#tóm lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tóm lại

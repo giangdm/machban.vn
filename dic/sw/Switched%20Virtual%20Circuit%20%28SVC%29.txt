@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kênh thoại chuyển mạch
+@Lĩnh vực: toán & tin
+#mạch ảo chuyển mạch-SVC

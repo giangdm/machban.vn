@@ -1,0 +1,68 @@
+﻿@Output
+#(Econ) Sản lượng (hay đầu ra).
+: Là sản phẩm cuối cùng của quá trình chuyển đổi đầu vào thành hàng hoá.
+<!-- more -->
+@output /'autput/
+*danh từ
+#sự sản xuất
+#sản phẩm
+#khả năng sản xuất, sảm lượng
+#(kỹ thuật) hiệu suất
+@Chuyên ngành kinh tế
+#công suất
+#đầu ra
+#hiệu suất
+#mức sản xuất
+#sản lượng
+#sản phẩm
+#sự sản xuất
+@Chuyên ngành kỹ thuật
+#cửa ra
+#đầu ra
+#đầu ra công suất
+#điện lượng
+#dữ liệu ra
+#dữ liệu xuất
+#đưa ra
+#hiệu suất
+#kết quả
+#kết quả tính toán
+#lối ra
+#lối ra, lối thoát
+#lối thoát
+#luợng ra
+#lượng ra
+#lưu lượng
+#năng suất
+#năng suất, công suất
+#năng xuất
+#mài mòn
+#sản lượng
+#sản phẩm
+#sự cung cấp
+#sự khấu
+#sự khởi hành
+#sự ra đi
+#sự sản xuất
+#sự xuất phát
+@Lĩnh vực: xây dựng
+#công trình khai đào
+#độ dầy (vỉa quặng)
+@Lĩnh vực: toán & tin
+#đưa ra, đề xuất
+#ngõ ra
+#ra
+#xuất
+#xuất (dữ liệu)
+@Lĩnh vực: điện tử & viễn thông
+#ngõ xuất tín hiệu
+@Lĩnh vực: điện
+#trở kháng đầu ra
+<!-- more -->
+@output
+#(máy tính) lối ra, tín hiệu ra, kết quả
+#add o. lối ra của phép cộng
+#final o. kết quả cuối cùng
+#flow o. sự sản xuất hiện hành
+#gross o. sản xuất toàn bộ
+#power o. cường độ ra, công suất ra

@@ -1,0 +1,5 @@
+﻿@frequency function
+#(Tech) hàm tần số
+@Chuyên ngành kỹ thuật
+#hàm mật độ
+#hàm tần số

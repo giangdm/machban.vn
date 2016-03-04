@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#trả sau khi viết phiếu... ngày.
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#số ngày sau kỳ hạn

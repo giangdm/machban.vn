@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#profin chỉ số theo luật lũy thừa
+#profin chiết suất dạn hàm mũ
+#profin chiết suất theo luật lũy thừa

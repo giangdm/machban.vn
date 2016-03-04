@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biên dịch độc lập
+#biên dịch riêng
+#sự biên dịch độc lập

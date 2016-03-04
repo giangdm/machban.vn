@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#yêu cầu lặp tự động
+@Lĩnh vực: toán & tin
+#tự yêu cầu lặp lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tự động lặp lại quá trình hỏi

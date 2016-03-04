@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#dung tích xi lanh
+#khoảng dịch pittông
+@Lĩnh vực: ô tô
+#độ dịch chuyển của pittông
+@Lĩnh vực: cơ khí & công trình
+#khoảng chạy của pit tông
+@Lĩnh vực: điện lạnh
+#thể tích quét của pittông

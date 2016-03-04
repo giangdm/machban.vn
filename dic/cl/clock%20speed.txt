@@ -1,0 +1,6 @@
+﻿@clock speed
+#(Tech) tốc độ đồng hồ
+@Chuyên ngành kỹ thuật
+#tốc độ đồng hồ
+@Lĩnh vực: toán & tin
+#tốc độ giữ nhịp

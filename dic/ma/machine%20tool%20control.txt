@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#điều khiển máy công cụ
+@Lĩnh vực: đo lường & điều khiển
+#sự điều khiển máy công cụ

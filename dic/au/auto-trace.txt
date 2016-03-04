@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#truy vết tự động
+@Lĩnh vực: toán & tin
+#tự động dò vết

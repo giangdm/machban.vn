@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#giờ bận
+#giờ cao điểm
+#thời gian bận
+@Lĩnh vực: toán & tin
+#giai đoạn bận
+@Lĩnh vực: điện tử & viễn thông
+#giờ tải nặng

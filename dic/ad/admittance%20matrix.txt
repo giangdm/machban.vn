@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ma trận dẫn nạp
+@Lĩnh vực: điện
+#ma trận tổng dẫn

@@ -1,0 +1,10 @@
+﻿@Simultaneous equations
+#(Econ) Các phương trình đồng thời.
+: Một tập hợp gồm hai hay nhiều hơn các phương trình có chung những biến số mà giá trị của các biến số này phải đồng thời thoả mãn tất cả các phương trình.
+@Chuyên ngành kinh tế
+#phương trình đồng thời
+#phương trình liên lập
+@Chuyên ngành kỹ thuật
+#hệ phương trình
+@Lĩnh vực: toán & tin
+#phương trình xét đồng thời

@@ -1,0 +1,15 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị điều khiển (máy tính)
+@Chuyên ngành kỹ thuật
+#bộ điều chỉnh
+#bộ điều khiển
+#hộp điều khiển
+@Lĩnh vực: xây dựng
+#blốc điều khiển
+#đơn vị khiển
+@Lĩnh vực: ô tô
+#cụm điều khiển điện tử
+@Lĩnh vực: toán & tin
+#đơn vị điều khiển
+@Lĩnh vực: giao thông & vận tải
+#tháp điều khiển

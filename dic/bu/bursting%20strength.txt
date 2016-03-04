@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#độ bền chống tõe
+#sức chống vỡ toác
+@Lĩnh vực: xây dựng
+#cường độ chống vỡ
+@Lĩnh vực: hóa học & vật liệu
+#sức nổ

@@ -1,0 +1,7 @@
+﻿@visual display unit
+*danh từ
+# (tin học) thiết bị hiển thị
+@Chuyên ngành kinh tế
+#bàn điều khiển hiển thị
+@Chuyên ngành kỹ thuật
+#màn hình

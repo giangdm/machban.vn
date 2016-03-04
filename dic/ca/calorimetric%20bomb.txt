@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bình nhiệt lượng kế
+@Lĩnh vực: điện
+#bom nhiệt lượng

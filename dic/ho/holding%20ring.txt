@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng giữ
+#vòng hãm
+@Lĩnh vực: hóa học & vật liệu
+#vòng giữ cố định

@@ -1,0 +1,7 @@
+﻿@disk sector
+#(Tech) cung đĩa
+@Chuyên ngành kỹ thuật
+#đĩa
+@Lĩnh vực: toán & tin
+#cung từ đĩa
+#séctơ đĩa

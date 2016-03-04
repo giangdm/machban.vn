@@ -1,0 +1,4 @@
+﻿@cps
+*(viết tắt)
+#vòng /giây (cycles per second)
+#ký tự/giây, số ký tự trong mỗi giây (đơn vị đo tốc độ thiết bị truyền thông hoặc thiết bị in)

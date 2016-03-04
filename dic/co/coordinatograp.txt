@@ -1,0 +1,2 @@
+﻿@coordinatograp
+#(thống kê) dụng cụ chỏ toạ độ (của các điểm ngẫu nhiên trên mặt phẳng)

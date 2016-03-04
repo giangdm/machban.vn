@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đồ thị entanpy-độ chứa ẩm
+#giản đồ entanpy-hàm lượng ẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đồ thị entanpy-độ chứa ẩm
+#giản đồ entanpy-hàm lượng ẩm

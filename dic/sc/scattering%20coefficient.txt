@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số khuếch tán
+#hệ số tán xạ
+@Lĩnh vực: xây dựng
+#hệ số khuếch xạ

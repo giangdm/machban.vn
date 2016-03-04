@@ -1,0 +1,2 @@
+﻿@electron admittance
+#(Tech) dẫn nạp điện tử

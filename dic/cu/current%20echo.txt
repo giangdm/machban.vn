@@ -1,0 +1,2 @@
+﻿@current echo
+#(Tech) sóng dội dòng điện

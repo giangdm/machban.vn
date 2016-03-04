@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Tín hiệu hoàn thành địa chỉ có tính cước ( xem AND )

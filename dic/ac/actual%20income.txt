@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#thu nhập thực tế
+@Chuyên ngành kỹ thuật
+#doanh thu thực tế
+@Lĩnh vực: hóa học & vật liệu
+#thu nhập hữu hiệu

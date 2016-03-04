@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#số lượng loại bỏ
+@Lĩnh vực: toán & tin
+#mức bác bỏ
+@Lĩnh vực: điện tử & viễn thông
+#mức loại bỏ

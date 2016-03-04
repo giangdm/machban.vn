@@ -1,0 +1,5 @@
+﻿@attached device
+#(Tech) thiết bị gắn nối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#thiết bị được gắn

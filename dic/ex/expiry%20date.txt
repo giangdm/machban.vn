@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#ngày còn hiệu lực
+#ngày còn hiệu lực (của thư tín dụng)
+#ngày hết hạn
+#ngày hết hiệu lực
+#ngày kết thúc

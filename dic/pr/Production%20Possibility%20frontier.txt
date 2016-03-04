@@ -1,0 +1,2 @@
+﻿@Production Possibility frontier
+#(Econ) Đường giới hạn khả năng sản xuất.

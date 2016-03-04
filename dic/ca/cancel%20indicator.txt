@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ chỉ báo hủy
+@Lĩnh vực: toán & tin
+#sự chỉ báo hủy

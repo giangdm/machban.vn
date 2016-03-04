@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#tụ điện bản song song
+#tụ điện có phiến song song (tụ điện phẳng)

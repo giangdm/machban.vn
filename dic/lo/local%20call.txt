@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#điện thoại nội hạt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cuộc gọi nội hạt
+#cuộc nói chuyện nội thị
+@Lĩnh vực: toán & tin
+#sự gọi cục bộ
+#sự gọi nội hạt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#cuộc gọi nội hạt
+#cuộc nói chuyện nội thị
+@Lĩnh vực: toán & tin
+#sự gọi cục bộ
+#sự gọi nội hạt

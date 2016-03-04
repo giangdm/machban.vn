@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#công tắc điện
+@Lĩnh vực: điện lạnh
+#bộ chuyển mạch công suất
+#công tắc nguồn
+@Lĩnh vực: điện tử & viễn thông
+#cầu dao cấp điện
+@Lĩnh vực: điện
+#cầu dao nguồn nuôi
+#sự chuyển mạch công suất

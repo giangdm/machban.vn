@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#biển hiệu
+#nhãn máy
+@Lĩnh vực: điện
+#biển thông số (định mức, danh định)

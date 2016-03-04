@@ -1,0 +1,25 @@
+﻿@Uncertainty
+#(Econ) Sự không chắc chắn.
+: Là một tình huống mà trong đó khả năng xuất hiện của một sự kiện sẽ không được biết, có nghĩa là không có phân phối xác suất gắn với kết cục.
+<!-- more -->
+@uncertainty /ʌn'sə:tnti/
+*danh từ
+#sự không chắc chắn
+#điều không chắc chắn; điều không rõ; điều không xác thực
+#tính dễ đổi, tính dễ biến
+@Chuyên ngành kinh tế
+#điều bất định
+#điều vất trắc
+#không xác thực
+#rủi ro không thể nhận bảo hiểm
+#sự không chắc chắn
+#sự không rõ ràng
+#tính không ổn định
+#tính không xác định
+#tính không xác định, tính không ổn định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ bất định
+<!-- more -->
+@uncertainty
+#tính bất định, tính không chắc chắn

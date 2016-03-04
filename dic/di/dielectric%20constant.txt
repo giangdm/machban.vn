@@ -1,0 +1,6 @@
+﻿@dielectric constant
+#(Tech) hằng số điện môi
+@Chuyên ngành kỹ thuật
+#hắng số điện môi
+@Lĩnh vực: điện
+#hàng số điện môi

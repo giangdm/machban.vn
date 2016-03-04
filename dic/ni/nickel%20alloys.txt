@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#các hợp kim của niken
+@Lĩnh vực: điện lạnh
+#hợp kim niken

@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#mức
+#tỷ lệ sử dụng
+#tỷ suất sử dụng (giường phòng khách sạn)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#mức bận

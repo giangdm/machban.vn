@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#cột nước áp lực tĩnh
+@Lĩnh vực: xây dựng
+#cột nước thủy tĩnh

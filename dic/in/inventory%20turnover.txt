@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#mức luân chuyển kho hàng
+#mức quay vòng tồn kho
+#tỉ lệ chu chuyển tồn kho
+#tỷ lệ luân chuyển hàng hóa

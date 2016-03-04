@@ -1,0 +1,6 @@
+﻿@current attenuation
+#(Tech) suy giảm cường độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#độ suy giảm dòng
+#sự suy giảm dòng

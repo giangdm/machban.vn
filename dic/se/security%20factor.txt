@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số an toàn
+#hệ số tin cậy
+@Lĩnh vực: điện
+#hệ số bảo hiểm

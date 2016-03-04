@@ -1,0 +1,7 @@
+﻿@call by name
+#(Tech) gọi bằng tên
+@Chuyên ngành kinh tế
+#sự gọi theo tên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#gọi theo tên

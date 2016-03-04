@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#cửa kiểm tra
+#cửa quan sát
+#lỗ kiểm tra
+@Lĩnh vực: xây dựng
+#cửa chui vào nơi kín
+#cửa ra vào
+#lỗ chui vào nơi kín
+@Lĩnh vực: giao thông & vận tải
+#cửa công tác
+#cửa tiếp cận
+@Lĩnh vực: điện lạnh
+#của vào

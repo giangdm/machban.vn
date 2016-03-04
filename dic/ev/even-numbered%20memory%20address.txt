@@ -1,0 +1,2 @@
+﻿@even-numbered memory address
+#(Tech) địa chỉ bộ nhớ số chẵn

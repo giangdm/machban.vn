@@ -1,0 +1,3 @@
+﻿@reception-class
+*danh từ
+#lớp tiếp nhận các em mới vào trường

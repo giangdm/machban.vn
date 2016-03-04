@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#kích thước thực
+#kích thước thực tế
+#kích thước tự nhiên
+@Lĩnh vực: điện tử & viễn thông
+#cỡ thực
+@Lĩnh vực: toán & tin
+#đại lượng tự nhiên

@@ -1,0 +1,6 @@
+﻿@Population trap
+#(Econ) Bẫy dân số.
+: Cũng còn gọi là bẫy cân bằng mức thấp. Một nền kinh tế có mức thu nhập tính theo đầu người thấp có thể thấy rõ ràng tỷ lệ tăng trưởng dân số vượt quá mức tỷ lệ tăng trưởng của thu nhập thực tế.
+@Chuyên ngành kinh tế
+#bẫy dân số
+#cái bẫy mức thăng bằng (dân số) thấp

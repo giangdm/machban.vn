@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#thiết bị lọc thô
+@Chuyên ngành kỹ thuật
+#bộ lọc sơ bộ
+#bộ lọc thô
+#lớp lọc khô
+@Lĩnh vực: điện lạnh
+#phin lọc khô
+#phin lọc thô

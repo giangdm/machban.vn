@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#tổng trọng tải
+@Lĩnh vực: cơ khí & công trình
+#tải trọng toàn bộ
+#tải trọng tổng (cộng)
+#trọng tải toàn phần
+@Lĩnh vực: xây dựng
+#tải trọng toàn phần
+#tải trọng tổng cộng

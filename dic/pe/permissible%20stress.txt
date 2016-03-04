@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất cho phép
+@Lĩnh vực: điện lạnh
+#ứng suất được phép

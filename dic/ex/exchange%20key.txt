@@ -1,0 +1,2 @@
+﻿@exchange key
+#(Tech) phím biến hoán (biến đổi mẫu âm Hoa hay Nhật ra chữ Hán)

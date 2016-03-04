@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#dãy buồng giam (nhà tù)
+#dãy phòng (bệnh viện)

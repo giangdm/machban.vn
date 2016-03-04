@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#sự chiếm hữu đất (ở địa phương)
+#sự chỉnh đốn lãnh thổ (của quốc gia)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự sử dụng đất
+@Lĩnh vực: cơ khí & công trình
+#việc sử dụng đất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#sự sử dụng đất
+@Lĩnh vực: cơ khí & công trình
+#việc sử dụng đất

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#khí dầu
+@Lĩnh vực: xây dựng
+#dầu khí
+@Lĩnh vực: cơ khí & công trình
+#hơi dầu dùng đốt
+@Lĩnh vực: hóa học & vật liệu
+#khí dầu mỏ

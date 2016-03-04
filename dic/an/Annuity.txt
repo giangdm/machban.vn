@@ -1,0 +1,16 @@
+﻿@Annuity
+#(Econ) Niên kim.
+: Lời hứa trả một khoản nào đó mỗi thời kỳ trong một số các thời kỳ mà khoản trả cho mỗi thời kỳ là cố định.
+<!-- more -->
+@annuity /ə'nju:iti/
+*danh từ
+#tiền góp hằng năm, tiền trả hằng năm, tiền trợ cấp hàng năm
+@Chuyên ngành kinh tế
+#niên kim
+@Chuyên ngành kỹ thuật
+#niên khoản
+@Lĩnh vực: cơ khí & công trình
+#trợ cấp hàng năm
+<!-- more -->
+@annuity
+#(toán kinh tế) niên khoản

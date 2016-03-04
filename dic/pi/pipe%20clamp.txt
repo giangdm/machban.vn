@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#vòng kẹp
+#vòng kẹp ống
+@Lĩnh vực: điện
+#cô dê
+@Lĩnh vực: xây dựng
+#ê tô ống
+#kẹp ống
+#vòng kẹp ống cứng
+@Lĩnh vực: toán & tin
+#ê tô ống, kẹp ống

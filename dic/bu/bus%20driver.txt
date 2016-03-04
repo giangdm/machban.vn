@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ điều khiển buýt
+#mạch dẫn động bus
+#trình điều khiển bus
+#trình điều khiển kênh
+@Lĩnh vực: xây dựng
+#trạm cuối

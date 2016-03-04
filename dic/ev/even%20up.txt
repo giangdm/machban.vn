@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#giao trả sòng (cổ phiếu)
+#giao trả xong (cổ phiếu)
+#làm cho bằng nhau
+#san bằng

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#hàm số phí tổn
+@Chuyên ngành kỹ thuật
+#hàm chi phí
+@Lĩnh vực: toán & tin
+#hàm giá (trị)
+@Lĩnh vực: điện tử & viễn thông
+#hàm giá trị

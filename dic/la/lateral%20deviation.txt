@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#độ lệch ngang
+@Lĩnh vực: xây dựng
+#độ lệch trên phương ngang
+@Lĩnh vực: cơ khí & công trình
+#sự lệch bên
+@Chuyên ngành kỹ thuật
+#độ lệch ngang
+@Lĩnh vực: xây dựng
+#độ lệch trên phương ngang
+@Lĩnh vực: cơ khí & công trình
+#sự lệch bên

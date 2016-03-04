@@ -1,0 +1,5 @@
+﻿@Investment criteria
+#(Econ) Các tiêu chuẩn đầu tư.
+: (Đối với các nước ĐANG PHÁT TRIỂN). Các tiêu chuẩn được đề ra nhằm làm cơ sở cho việc phân bố các nguồn lực đầu tư.
+@Chuyên ngành kinh tế
+#tiêu chuẩn đầu tư

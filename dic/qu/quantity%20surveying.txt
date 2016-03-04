@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sự đo bằng thước
+#sự khảo sát số lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#khảo sát lượng công việc
+#thống kê lượng công trình

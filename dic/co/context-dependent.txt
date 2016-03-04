@@ -1,0 +1,2 @@
+﻿@context-dependent
+#(Tech) tùy thuộc ngữ cảnh

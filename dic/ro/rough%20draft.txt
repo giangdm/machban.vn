@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#phác thảo
+@Lĩnh vực: toán & tin
+#bản vẽ phác thảo
+@Lĩnh vực: xây dựng
+#giấy nháp

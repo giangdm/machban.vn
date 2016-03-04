@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sự giảm nhiệt độ
+@Lĩnh vực: xây dựng
+#sự tụt do nhiệt độ
+@Lĩnh vực: hóa học & vật liệu
+#sụt nhiệt độ

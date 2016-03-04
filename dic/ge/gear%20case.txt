@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cat te (xe đạp)
+#cạt te (xe đạp)
+#hộp chạy dao
+#hộp số
+#hộp tốc độ

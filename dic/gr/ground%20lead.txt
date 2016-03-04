@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kỹ thuật
+#dây dẫn nối đất
+#dây dẫn tiếp đất
+#dây nối đất
+@Lĩnh vực: điện
+#cáp nối đất
+#dây dẫn chôn dưới đất
+#dây dẫn ngầm
+#đây dẫn nối vỏ máy
+@Lĩnh vực: cơ khí & công trình
+#dây cáp dẫn điện mát

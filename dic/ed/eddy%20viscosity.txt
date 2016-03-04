@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#độ nhớt rối
+@Lĩnh vực: toán & tin
+#độ nhớt xoáy
+@Lĩnh vực: điện lạnh
+#độ nhớt xoáy (cuốn)
+@Lĩnh vực: xây dựng
+#nhớt động học

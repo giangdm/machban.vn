@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công suất quy đổi
+@Lĩnh vực: toán & tin
+#lũy thừa rút gọn

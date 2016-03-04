@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hoạt động tuần tự
+#thao tác tuần tự
+@Lĩnh vực: điện tử & viễn thông
+#phép toán tuần tự

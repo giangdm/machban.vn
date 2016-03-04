@@ -1,0 +1,7 @@
+﻿@forward error correction
+#(Tech) sự hiệu chỉnh sai lầm nơi nhận
+@Chuyên ngành kỹ thuật
+#sự hiệu chỉnh phòng lỗi
+#sự sửa lỗi trước
+@Lĩnh vực: điện lạnh
+#hiệu chỉnh lỗi trước

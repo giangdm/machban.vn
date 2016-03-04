@@ -1,0 +1,6 @@
+﻿@food processor
+*danh từ
+#thiết bị chế biến thực phẩm
+@Chuyên ngành kinh tế
+#công nhân chế biến thực phẩm
+#người chế biến thực phẩm

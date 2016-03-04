@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cưa đai
+@Lĩnh vực: xây dựng
+#cưa bản
+@Lĩnh vực: toán & tin
+#cưa đai, cưa bản

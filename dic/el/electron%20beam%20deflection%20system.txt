@@ -1,0 +1,2 @@
+﻿@electron beam deflection system
+#(Tech) hệ thống làm lệch tia tia điện tử

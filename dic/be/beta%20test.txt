@@ -1,0 +1,10 @@
+﻿@beta test
+#B-kiểm, thứ kiểm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kiểm tra bêta
+#phép kiểm tra beta
+#phép thử beta
+#sự thử beta
+@Lĩnh vực: y học
+#trắc nghiệm bêta

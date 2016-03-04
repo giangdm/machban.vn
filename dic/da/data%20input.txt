@@ -1,0 +1,7 @@
+﻿@data input
+#(Tech) đầu vào dữ liệu
+@Chuyên ngành kỹ thuật
+#nhập dữ liệu
+@Lĩnh vực: toán & tin
+#mục nhập dữ liệu
+#sự nhập dữ liệu

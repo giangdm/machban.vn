@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#công ty hợp pháp
+#pháp nhân
+#thực thể pháp lý
+#tổ chức hợp pháp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thực thể pháp lý
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#thực thể pháp lý

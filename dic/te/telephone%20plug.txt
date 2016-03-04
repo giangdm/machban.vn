@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#chỗ cắm điện thoại
+#giắc điện thoại
+@Lĩnh vực: điện lạnh
+#đầu cắm điện thoại
+#phích cắm điện thoại
+@Lĩnh vực: điện tử & viễn thông
+#ổ cắm điện thoại

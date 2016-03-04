@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ thống
+@Lĩnh vực: toán & tin
+#hệ không
+@Lĩnh vực: điện tử & viễn thông
+#hệ rỗng

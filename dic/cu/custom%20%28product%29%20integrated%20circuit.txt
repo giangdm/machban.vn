@@ -1,0 +1,2 @@
+﻿@custom (product) integrated circuit
+#(Tech) mạch tập thành (IC) đặc chế

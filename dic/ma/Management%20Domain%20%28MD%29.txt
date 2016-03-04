@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#lĩnh vực quản lý
+@Lĩnh vực: điện tử & viễn thông
+#miền quản lý
+@Lĩnh vực: toán & tin
+#vùng quản lý

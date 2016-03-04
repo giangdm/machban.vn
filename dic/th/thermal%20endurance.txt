@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#tính chịu nhiệt
+@Chuyên ngành kỹ thuật
+#sức chịu nhiệt

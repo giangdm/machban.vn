@@ -1,0 +1,5 @@
+﻿@color background
+#(Tech) nền màu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#nền màu

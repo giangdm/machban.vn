@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số cân
+#hệ số tỉ lệ
+#hệ số tỷ lệ
+@Lĩnh vực: toán & tin
+#bội suất
+#hệ số thang độ
+#hệ số thang tỷ lệ
+@Lĩnh vực: hóa học & vật liệu
+#hệ số độ chia
+@Lĩnh vực: điện
+#hệ số thang đo
+@Lĩnh vực: xây dựng
+#tỷ lệ (trong bản vẽ)

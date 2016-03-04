@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#khả năng phân giải màu
+@Lĩnh vực: điện tử & viễn thông
+#năng suất phân giải hữu sắc

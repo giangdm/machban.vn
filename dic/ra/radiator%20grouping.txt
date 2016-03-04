@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cụm lò sưởi
+#sự ghép bộ máy sưởi
+@Lĩnh vực: điện lạnh
+#cụm thiết bị tản nhiệt

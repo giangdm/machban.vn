@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#phép kiểm định dấu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kiểm tra dấu
+@Lĩnh vực: toán & tin
+#tiêu chuẩn dấu

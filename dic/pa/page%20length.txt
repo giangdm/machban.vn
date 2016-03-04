@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dài trang
+@Lĩnh vực: toán & tin
+#chiều dài trang
+#số dòng trên một trang

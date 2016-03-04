@@ -1,0 +1,21 @@
+﻿@Chuyên ngành kinh tế
+#cho thôi việc
+#giảm rủi ro
+#giảm thợ
+#giãn thợ
+#Làm giảm rủi ro-Giãn công nhân
+#sa thải
+@Chuyên ngành kỹ thuật
+#cho nghỉ việc
+#đuổi việc
+#sa thải
+#sự kéo giãn, sự giãn thợ
+@Lĩnh vực: xây dựng
+#ngừng làm việc
+@Chuyên ngành kỹ thuật
+#cho nghỉ việc
+#đuổi việc
+#sa thải
+#sự kéo giãn, sự giãn thợ
+@Lĩnh vực: xây dựng
+#ngừng làm việc

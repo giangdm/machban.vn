@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bit có giá trị cao
+#bit trái
+#bit trọng số cao
+@Lĩnh vực: điện lạnh
+#bit giá trị cao

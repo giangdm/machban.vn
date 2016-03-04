@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bông khoáng
+#len thoáng
+@Lĩnh vực: điện lạnh
+#bông đá
+@Lĩnh vực: xây dựng
+#len đá

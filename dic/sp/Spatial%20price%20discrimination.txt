@@ -1,0 +1,6 @@
+﻿@Spatial price discrimination
+#(Econ) Sự phân biệt giá cả theo khu vực.
+: Một chiến lược định giá mà trong chiến lược đó các công ty bán hàng cho những người tiêu dùng nằm cách xa người sản xuất không đặt cho mỗi người tiêu dùng một mức giá đủ trang trải giá trị tương đương tổng mức giá tại cổng nhà máy (giá FOB) và những chi phí vận chuyển thực khi vận chuyển hàng hoá.
+@Chuyên ngành kinh tế
+#sự phân biệt giá cả do (khoảng cách) không gian
+#sự phân biệt giá cả do khoảng cách

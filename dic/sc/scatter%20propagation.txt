@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lan truyền bằng tán xạ
+#truyền thông ngoài chân trời
+@Lĩnh vực: điện
+#sự truyền tán sóng điện

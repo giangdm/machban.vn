@@ -1,0 +1,7 @@
+﻿@Just price
+#(Econ) Giá công bằng.
+: Một tiêu chuẩn đạo đức về giá trị của một hàng hoá hay dịch vụ - nghĩa là một mức giá mà được coi là đúng về đạo lý.
+@Chuyên ngành kinh tế
+#giá chính đáng
+#giá công bình
+#giá phải chăng

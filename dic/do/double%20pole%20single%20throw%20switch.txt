@@ -1,0 +1,6 @@
+﻿@double pole single throw switch
+#(Tech) cái chuyển mạch hai cực/dao một đầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cái chuyển mạch hai cực một ngả
+#cầu dao hai cực một ngả

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đẩy môi chất lạnh
+#xả môi chất lạnh
+@Lĩnh vực: hóa học & vật liệu
+#nén môi chất lạnh

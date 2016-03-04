@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự dịch bằng máy tính
+#sự dịch có máy tính hỗ trợ

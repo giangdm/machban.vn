@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#công nghiệp dệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#kỹ nghệ dệt
+@Lĩnh vực: cơ khí & công trình
+#ngành công nghiệp dệt

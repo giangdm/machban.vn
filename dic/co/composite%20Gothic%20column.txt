@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#cột gôtic (kép, ghép)
+#cột tổ hợp gôtic

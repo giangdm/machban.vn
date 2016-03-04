@@ -1,0 +1,13 @@
+﻿@Funded debt
+#(Econ) Nợ vô thời hạn; Nợ được tài trợ.
+: Thông thường nợ của chính phủ không định ngày trả lại theo hợp đồng. Lúc đầu, cụm thuật ngữ này chỉ hoạt động của thay thế nợ được tài trợ cho nợ với một ngày trả nhất định. Giờ đây, nó được sử dụng rộng rãi hơn để chỉ sự thay thế của các khoản nợ dài hạn cho các khoản nợ ngắn hạn.
+@Chuyên ngành kinh tế
+#công trái dài hạn
+#công trái gây quỹ
+#nợ cố định (như công trái)
+#nợ dài hạn
+#nợ vĩnh cửu
+#nợ vô thời hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#công trái cố định

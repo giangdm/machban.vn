@@ -1,0 +1,12 @@
+﻿@control key
+#(Tech) phím điều khiển
+@Chuyên ngành kinh tế
+#phím điều khiển
+@Chuyên ngành kỹ thuật
+#nút điều khiển
+#phím điều khiển
+@Lĩnh vực: toán & tin
+#phím control
+#phím Ctrl
+@Lĩnh vực: xây dựng
+#phím khiển

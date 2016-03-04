@@ -1,0 +1,2 @@
+﻿@depletion FET (Field Effect Transistor)
+#(Tech) trănsito FET (trường hiệu ứng) khuyết lập

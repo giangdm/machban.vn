@@ -1,0 +1,2 @@
+﻿@data specification
+#(Tech) quy định dữ liệu

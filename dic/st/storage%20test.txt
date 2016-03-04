@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự xác định độ bền khi bảo quản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#thử nghiệm bảo quản

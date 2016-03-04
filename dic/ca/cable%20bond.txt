@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#liên kết cáp
+@Lĩnh vực: xây dựng
+#liên kết dây cáp
+@Lĩnh vực: điện lạnh
+#nối tiếp xúc

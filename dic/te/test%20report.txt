@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#bản ghi kiểm tra
+#bản ghi thử nghiệm
+#báo cáo kiểm tra
+#báo cáo thí nghiệm
+#báo cáo thử nghiệm
+#biên bản thử nghiệm
+@Lĩnh vực: điện
+#biên bản thí nghiệm

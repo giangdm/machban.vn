@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#máy ghi thời gian
+@Lĩnh vực: điện tử & viễn thông
+#máy ghi biến cố
+@Lĩnh vực: đo lường & điều khiển
+#máy ghi sự kiện
+@Chuyên ngành kỹ thuật
+#máy ghi thời gian
+@Lĩnh vực: điện tử & viễn thông
+#máy ghi biến cố
+@Lĩnh vực: đo lường & điều khiển
+#máy ghi sự kiện

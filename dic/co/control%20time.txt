@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#thời gian kiểm tra
+@Lĩnh vực: điện
+#bộ chuyển mạch điều khiển
+#công tắc điều khiển
+@Lĩnh vực: điện tử & viễn thông
+#thời gian điều khiển

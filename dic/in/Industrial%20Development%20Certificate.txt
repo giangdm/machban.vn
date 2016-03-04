@@ -1,0 +1,6 @@
+﻿@Industrial Development Certificate
+#(Econ) Chứng chỉ Phát triển công nghiệp.
+: Một sự kiểm soát trước đây về xây dựng công nghiệp được hình thành theo Đạo luật Kế hoạch hoá quận và thị xã năm 1947, đòi hỏi phải có một chứng chỉ (IDC) trước khi xây dựng hay mở rộng một khu công nghiệp quá một quy mô nhất định. Sau khi thông qua Luật Công nghiệp năm 1972, IDCS không còn cần cho sự phát triển trong CÁC KHU VỰC CẦN PHÁT TRIỂN hay các KHU VỰC ĐẶC BIỆT CẦN PHÁT TRIỂN và IDCS thực tế đã bị bỏ từ năm 1982.
+@Chuyên ngành kinh tế
+#chứng chỉ phát triển công nghiệp
+#giấy phép phát triển công nghiệp

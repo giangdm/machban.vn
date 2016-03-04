@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#bề lưng
+#mặt lưng
+#mặt sau
+#mặt sau (của tờ giấy, đồng tiền...)
+@Chuyên ngành kỹ thuật
+#mặt sau

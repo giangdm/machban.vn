@@ -1,0 +1,3 @@
+﻿@Capital turnover criterion
+#(Econ) Tiêu chuẩn quay vòng vốn
+: Một tiêu chuẩn đầu tư được đề xuất từ lâu để sử dụng ở CÁC NƯỚC ĐANG PHÁT TRIỂN. Đề xuất này cho rằng các dự án được lựa chọn phù hợp với TỶ SỐ VỐN GIA TĂNG - SẢN LƯỢNG của chúng và những dự án có tỷ số thấp nhất sẽ được ưu tiên.

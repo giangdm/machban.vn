@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#nút nhấn đổi chữ hoa trên máy chữ
+#phím chuyển đổi (máy vi tính)
+@Chuyên ngành kỹ thuật
+#phím shift

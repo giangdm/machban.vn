@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#số dư của hạng mục thường xuyên
+#số dư tài khoản vãng lai

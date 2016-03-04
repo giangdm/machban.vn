@@ -1,0 +1,3 @@
+﻿@Factor reverals
+#(Econ) Sự đảo ngược các yếu tố sản xuất.
+: Một trong các giả thiết củaCÁCH TIẾP CẬN HECKSCHER - OHLIN VỀ THƯƠNG MẠI QUỐC TẾ là các hàm sản xuất hàng hoá khác nhau ở tỷ số, cường độ sử dụng các yếu tố sản xuất và một hàng hoá sử dụng.

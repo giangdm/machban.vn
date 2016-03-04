@@ -1,0 +1,6 @@
+﻿@guest computer
+#(Tech) máy điện toán khách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy khách
+#máy tính khách

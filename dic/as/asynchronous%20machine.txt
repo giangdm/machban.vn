@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#máy điên không đồng bộ
+@Lĩnh vực: điện
+#máy điện không đồng bộ
+@Lĩnh vực: toán & tin
+#máy không đồng bộ

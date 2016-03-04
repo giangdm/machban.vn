@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#sự không đạt yêu cầu chất lượng
+@Chuyên ngành kỹ thuật
+#khuyết tật chất lượng
+#sự không đủ chất lượng

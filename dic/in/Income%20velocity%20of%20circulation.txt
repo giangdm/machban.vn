@@ -1,0 +1,6 @@
+﻿@Income velocity of circulation
+#(Econ) Tốc độ lưu thông của thu nhập.
+: Số đo tốc độ lưu thông của tiền có nguồn gốc từ sự phân tích của trường phái Cambridge (xem QUANTITY, THEORY OF MONEY ), trong đó số lượng tiền mặt trung bình có quan hệ với mức thu nhập trong một thời kỳ nhất định.
+@Chuyên ngành kinh tế
+#tốc độ quay vòng của thu nhập
+#vận tốc quay vòng thu nhập

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#máy dán nhãn
+@Chuyên ngành kỹ thuật
+#máy dán nhãn
+#máy tạo đai nhãn
+@Chuyên ngành kỹ thuật
+#máy dán nhãn
+#máy tạo đai nhãn

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#hệ thống đun nước nóng
+@Lĩnh vực: điện lạnh
+#hệ thống sưởi bằng nước nóng

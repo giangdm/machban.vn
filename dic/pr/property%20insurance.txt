@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#bảo hiểm tài sản
+@Chuyên ngành kỹ thuật
+#bảo hiểm tài sản
+@Lĩnh vực: hóa học & vật liệu
+#bảo hiểm bất động sản

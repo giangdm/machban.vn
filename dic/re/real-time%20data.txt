@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#dữ kiện thời gian thực
+@Lĩnh vực: toán & tin
+#dữ liệu thời gian thực

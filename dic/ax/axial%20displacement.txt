@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#sự di động theo trục
+#sự dịch chuyển chiều trục
+@Lĩnh vực: xây dựng
+#chuyển vị dọc trục

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự truyền không đồng thời
+#truyền dị bộ
+#truyền không đẳng thời
+#truyền không đồng bộ

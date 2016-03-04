@@ -1,0 +1,12 @@
+﻿@even parity check
+#(Tech) kiểm đồng đẳng chẵn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự kiểm tra tính chẵn
+@Lĩnh vực: điện tử & viễn thông
+#sự kiểm tra tính chẵn lẻ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#sự kiểm tra tính chẵn
+@Lĩnh vực: điện tử & viễn thông
+#sự kiểm tra tính chẵn lẻ

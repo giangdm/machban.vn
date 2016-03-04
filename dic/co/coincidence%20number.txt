@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#số các điểm trùng
+@Lĩnh vực: toán & tin
+#chỉ số trùng

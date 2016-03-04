@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#chế độ đa công chèn khối
+#chế độ dồn kênh chèn khối

@@ -1,0 +1,10 @@
+﻿@Curie point
+#(Tech) điểm Curie
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#điểm Quiri
+@Chuyên ngành kỹ thuật
+#điểm curie
+#nhiệt độ curie
+@Lĩnh vực: điện
+#nhiệt độ triệt từ

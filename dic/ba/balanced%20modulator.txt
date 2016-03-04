@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#bộ điều biến cân bằng
+@Lĩnh vực: toán & tin
+#bộ điều chế cân bằng
+@Lĩnh vực: điện
+#mạch điều biên cân bằng
+@Lĩnh vực: xây dựng
+#máy biến điệu cân bằng

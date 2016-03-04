@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#nhà máy tách phế thải
+#thiết bị phân loại
+@Lĩnh vực: xây dựng
+#nhà máy sàng cốt liệu
+#xưởng chọn lọc vật liệu
+@Lĩnh vực: hóa học & vật liệu
+#thiết bị tuyển

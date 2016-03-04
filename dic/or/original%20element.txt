@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#nguyên tố đầu dãy
+@Lĩnh vực: hóa học & vật liệu
+#nguyên tố khởi đầu

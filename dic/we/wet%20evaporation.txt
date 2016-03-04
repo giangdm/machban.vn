@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#bay hơi ẩm (bay hơi mà hơi còn chứa ẩm)
+#sự bay hơi ẩm (sự bay hơi mà còn chứa ẩm)

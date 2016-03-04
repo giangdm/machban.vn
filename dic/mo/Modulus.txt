@@ -1,0 +1,18 @@
+﻿@Modulus
+#(Econ) Giá trị tuyệt đối.
+: Xem ABSOLUTE VALUE.
+@Chuyên ngành kỹ thuật
+#độ
+#độ cứng
+#hệ số
+#môđun
+#mức
+#suất
+#tỷ lệ
+@Lĩnh vực: hóa học & vật liệu
+#muđun
+<!-- more -->
+@modulus
+*danh từ
+#<lý> môđun, suất
+#<kỹ> bộ phận tháo rời được (máy tính điện tử...)

@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#phòng giặt
+@Lĩnh vực: xây dựng
+#nhà giặt
+@Chuyên ngành kỹ thuật
+#phòng giặt
+@Lĩnh vực: xây dựng
+#nhà giặt

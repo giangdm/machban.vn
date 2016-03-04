@@ -1,0 +1,2 @@
+﻿@quicktime
+#Một phát triển đối với phần mềm hệ thống của Macintosh, cho phép các trình ứng dụng phù hợp với Quick Time có thể hiện thị các cảnh video hoặc cảnh động một cách chính xác đồng bộ với âm thanh dạng số chất lượng cao Trong một tài liệu huấn luyện chẳng hạn, bạn có thể click chuột vào một biểu tượng để xem một cảnh video QuickTime (một "cuộn phim") trình bày một kỹ thuật hoặc một qui trình nào đó

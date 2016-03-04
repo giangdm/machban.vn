@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bản chỉ dẫn kỹ thuật (kèm theo máy...)
+#bản chỉ dẫn kỹ thuật kèm theo máy
+@Chuyên ngành kỹ thuật
+#đặc điểm kỹ thuật
+#đặc tính kỹ thuật
+#điều kiện kỹ thuật
+@Lĩnh vực: toán & tin
+#đặc tả kỹ thuật

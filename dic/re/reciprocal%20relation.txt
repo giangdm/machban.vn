@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#hệ thức tương hoán
+@Lĩnh vực: toán & tin
+#quan hệ thuận nghịch

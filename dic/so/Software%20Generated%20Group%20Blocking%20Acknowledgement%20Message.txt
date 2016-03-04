@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tin báo báo nhận chặn nhóm mạch do phần mềm tạo ra

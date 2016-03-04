@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lĩnh vực ngân hàng
+@Lĩnh vực: toán & tin
+#môi trường ngân hàng

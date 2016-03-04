@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kinh tế
+#giao dịch ngoại hối giao sau
+#giao dịch ngoại hối kỳ hạn

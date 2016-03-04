@@ -1,0 +1,32 @@
+﻿@Identity
+#(Econ) Đồng nhất thức.
+: Một phương trình đúng theo định nghĩa hay có tác dụng xác định một biến nào đó.
+<!-- more -->
+@identity /ai'dentiti/
+*danh từ
+#tính đồng nhất; sự giống hệt
+=a case of mistaken identity: trường hợp nhầm lẫn hai người vì giống hệt
+#cá tính, đặc tính; nét để nhận biết; nét để nhận dạng, nét để nhận diện (của người nào, vật gì...)
+#(toán học) đồng nhất thức
+@Chuyên ngành kinh tế
+#đồng nhất thức
+#giám định
+#nhận dạng
+#nhận diện
+#nhận ra
+#nhận rõ
+#sự đồng nhất
+#sự giống nhau hoàn toàn
+#tính đồng nhất
+@Chuyên ngành kỹ thuật
+#đồng nhất
+@Lĩnh vực: toán & tin
+#đồng nhất thức
+#mã đồng nhất
+#phép đồng nhất
+<!-- more -->
+@identity
+#đồng nhất thức
+#parallelogram i. đồng nhất thức bình hành
+#polynomial i. đồng nhất thức đa thức
+#trigonometrical i. đồng nhất thức lượng giác

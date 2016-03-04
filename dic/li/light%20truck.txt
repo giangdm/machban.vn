@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#xe tải nhẻ
+@Lĩnh vực: xây dựng
+#xe vận tải nhẹ
+#xe vận tải nhẹ (Camionnette)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#xe tải nhẻ
+@Lĩnh vực: xây dựng
+#xe vận tải nhẹ
+#xe vận tải nhẹ (Camionnette)

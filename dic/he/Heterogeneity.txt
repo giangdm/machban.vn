@@ -1,0 +1,14 @@
+﻿@Heterogeneity
+#(Econ) Tính không đồng nhất.
+: Chất lượng của hàng hoá, dịch vụ hoặc các yếu tố tạo ra sự khác nhau trong quan niệm của người tiêu dùng và người sản xuất.
+<!-- more -->
+@heterogeneity /,hetəroudʤi'ni:iti/
+*danh từ
+#tính hỗn tạp, tính khác thể, tính không đồng nhất
+@Chuyên ngành kinh tế
+#tính không đồng nhất (của hàng hóa)
+@Chuyên ngành kỹ thuật
+#tính không đồng nhất
+<!-- more -->
+@heterogeneity
+#tính không thuần nhất, tính phức tạp, tính hỗn tạp

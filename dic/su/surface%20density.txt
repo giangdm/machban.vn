@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mật độ bề mặt
+#mật độ mặt
+@Lĩnh vực: hóa học & vật liệu
+#mật độ trên mặt
+@Lĩnh vực: điện lạnh
+#tỷ trọng mặt

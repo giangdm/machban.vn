@@ -1,0 +1,2 @@
+﻿@gated decoder
+#(Tech) bộ giải mã cổng

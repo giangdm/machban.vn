@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đynamômet Siemens
+@Lĩnh vực: đo lường & điều khiển
+#lực kế Siemens

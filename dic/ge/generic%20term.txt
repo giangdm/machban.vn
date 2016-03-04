@@ -1,0 +1,5 @@
+﻿@generic term
+#(Tech) thuật ngữ chung
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thuật ngữ loại

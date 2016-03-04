@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#quá trình phá băng tự động
+@Lĩnh vực: điện lạnh
+#chu kỳ phá băng tự động

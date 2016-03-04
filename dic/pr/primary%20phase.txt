@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#pha ban đầu
+@Lĩnh vực: vật lý
+#pha sơ cấp

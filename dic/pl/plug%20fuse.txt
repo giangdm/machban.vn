@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cầu chảy cắm
+#cầu chảy nút
+#cầu chì điện
+@Lĩnh vực: điện lạnh
+#cầu chì phích cắm

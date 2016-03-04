@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#bu lông xuyên
+@Lĩnh vực: xây dựng
+#bulông hai đầu
+@Lĩnh vực: cơ khí & công trình
+#bulông neo suốt
+@Lĩnh vực: hóa học & vật liệu
+#bulông xuyên suốt

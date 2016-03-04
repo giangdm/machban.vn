@@ -1,0 +1,8 @@
+﻿@computer programmer
+#(Tech) thảo chương viên điện toán, lập trình viên
+@Chuyên ngành kinh tế
+#người lập trình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#lập trình viên máy tính
+#người lập trình máy tính

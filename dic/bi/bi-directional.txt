@@ -1,0 +1,2 @@
+﻿@bi-directional
+#(Tech) hai hướng, hai chiều

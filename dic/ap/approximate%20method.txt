@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phương pháp ước lượng
+@Chuyên ngành kỹ thuật
+#phương pháp gần đúng
+@Lĩnh vực: toán & tin
+#phương pháp gần dúng

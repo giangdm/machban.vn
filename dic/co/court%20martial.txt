@@ -1,0 +1,8 @@
+﻿@court martial /'kɔ:t'mɑ:ʃəl/
+*danh từ,  số nhiều courts martial
+#toà án quân sự
+=to be tried by court_martial: bị đem xử ở toà án quân sự
+#phiên toà quân sự
+=drumhead court_martial: phiên toà quân sự bất thường (ở mặt trận)
+*ngoại động từ
+#xử (ai) ở toà án quân sự

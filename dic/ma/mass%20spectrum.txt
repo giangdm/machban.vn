@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#khối phổ
+#phổ khối lượng
+@Lĩnh vực: hóa học & vật liệu
+#quang phổ khối

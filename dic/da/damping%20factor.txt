@@ -1,0 +1,9 @@
+﻿@damping factor
+#(Tech) yếu tố suy giảm; thừa số suy giảm
+@Chuyên ngành kỹ thuật
+#hệ số tắt
+#hệ số tắt dần
+@Lĩnh vực: điện
+#hệ số cản dịu
+@Lĩnh vực: hóa học & vật liệu
+#thừa số tắt dần

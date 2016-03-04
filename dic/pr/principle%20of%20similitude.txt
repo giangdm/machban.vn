@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#nguyên lý đồng dạng
+@Lĩnh vực: xây dựng
+#nguyên lý về tính tương tự

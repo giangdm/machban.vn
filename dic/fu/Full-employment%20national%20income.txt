@@ -1,0 +1,3 @@
+﻿@Full-employment national income
+#(Econ) Thu nhập quốc dân ở mức nhân công toàn dụng; Thu nhập quốc dân khi có đủ việc làm.
+: Là số đo các giá trị thực tế của hàng hoá và dịch vụ có thể được sản xuất ra khi các yếu tố sản xuất của đất nước được sử dụng hết, khi nền kinh tế ở mức thất nghiệp tự nhiên.

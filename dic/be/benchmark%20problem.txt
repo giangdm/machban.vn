@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bài toán điểm chuẩn
+#bài toán điểm mốc
+@Lĩnh vực: điện tử & viễn thông
+#bài toán định chuẩn

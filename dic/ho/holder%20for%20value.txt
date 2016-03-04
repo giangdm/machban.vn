@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#người giữ hối phiếu cho giá trị đã được trả
+#người giữ hối phiếu đã đổi giá
+#người giữ phiếu đã đối giá

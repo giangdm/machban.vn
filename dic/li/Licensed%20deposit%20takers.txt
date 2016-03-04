@@ -1,0 +1,5 @@
+﻿@Licensed deposit takers
+#(Econ) Cơ quan được cấp giấy phép nhận tiền gửi.
+: Theo Luật ngân hàng của Anh năm 1979, một loại tổ chức tín dụng được phép nhận tiền gửi. Bộ luật nhằm thiết lập một hệ thống quy định và kiểm soát để bảo vệ công chúng có tiền gửi, và có tác dụng làm hạn chế các hoạt động nhận tiền gửi ở hai loại tổ chức tín dụng, các ngân hàng được công nhân và các cơ quan được phép nhận tiền gửi.
+@Chuyên ngành kinh tế
+#những tổ chức được phép nhận tiền gửi

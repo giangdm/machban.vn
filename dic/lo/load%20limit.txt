@@ -1,0 +1,19 @@
+﻿@Chuyên ngành kinh tế
+#lượng chở hàng tối đa
+#trọng tải tối đa (của xe)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#giới hạn phụ tải
+#giới hạn tải
+@Lĩnh vực: xây dựng
+#giới hạn tải trọng
+@Lĩnh vực: giao thông & vận tải
+#trọng tải lớn nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#giới hạn phụ tải
+#giới hạn tải
+@Lĩnh vực: xây dựng
+#giới hạn tải trọng
+@Lĩnh vực: giao thông & vận tải
+#trọng tải lớn nhất

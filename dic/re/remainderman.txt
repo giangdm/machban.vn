@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#người được hưởng quyền còn lại
+#người được nhận tài sản còn lại
+#người kế thừa

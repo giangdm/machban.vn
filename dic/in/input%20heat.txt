@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#nhiệt dẫn vào
+@Lĩnh vực: điện lạnh
+#lượng nhiệt vào
+#nhiệt cấp
+#nhiệt đưa vào

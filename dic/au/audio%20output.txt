@@ -1,0 +1,6 @@
+﻿@audio output
+#(Tech) phát âm thanh
+@Chuyên ngành kỹ thuật
+#ngõ ra âm thanh
+@Lĩnh vực: toán & tin
+#đầu ra âm thanh

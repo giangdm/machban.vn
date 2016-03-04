@@ -1,0 +1,5 @@
+﻿@discrete signal
+#(Tech) tín hiệu phân rời
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu số

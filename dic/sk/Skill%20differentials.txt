@@ -1,0 +1,3 @@
+﻿@Skill differentials
+#(Econ) Các chênh lệch theo kỹ năng lao động.
+: Những chênh lệch giữa các mức lương trung bình của các nhóm lao động thoạt đầu phân loại theo nghề nghiệp, sau đó phân loại tiếp thành những nhóm kỹ năng cụ thể.

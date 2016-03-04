@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#nhiệt độ ga hút
+#nhiệt độ hơi hút
+#nhiệt độ hơi hút (gas hút)

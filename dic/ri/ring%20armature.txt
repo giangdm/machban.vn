@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#phần ứng hình vòng
+#phần ứng quấn vòng

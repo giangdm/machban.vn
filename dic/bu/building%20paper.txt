@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#các tông xây dựng
+#giấy dầu
+@Lĩnh vực: xây dựng
+#các tông dùng trong xây dựng
+#giấy cách âm
+#giấy cách nhiệt
+#giấy chống thấm

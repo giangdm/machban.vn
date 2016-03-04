@@ -1,0 +1,6 @@
+﻿@Supernumerary expenditure
+#(Econ) Siêu chi tiêu.
+: Chi tiêu đối với một hàng hoá hay nhóm hàng hoá vượt quá mức tối thiểu hay mức CHI TIÊU TỒN TẠI.
+@Chuyên ngành kinh tế
+#chi phí thừa (ngoài chi phí sinh hoạt tối thiểu)
+#chi tiêu trên mức bình thường

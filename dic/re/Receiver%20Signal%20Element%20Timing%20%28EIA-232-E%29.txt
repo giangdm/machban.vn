@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#định thời thành phần tín hiệu máy thu (EIA-232-E)

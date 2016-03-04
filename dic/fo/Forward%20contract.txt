@@ -1,0 +1,8 @@
+﻿@Forward contract
+#(Econ) Hợp đồng định trước; Hợp đồng kỳ hạn.
+: Còn gọi là hợp đồng tương lai. Xem Forward market.
+@Chuyên ngành kinh tế
+#hợp đồng (giao hàng) dài hạn
+#hợp đồng giao sau
+#hợp đồng hàng hóa kỳ hạn
+#hợp đồng kỳ hạn

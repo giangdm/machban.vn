@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kinh tế
+#máy cán mỏng
+#máy dát mỏng
+@Chuyên ngành kỹ thuật
+#máy cán mỏng
+#máy dát
+@Lĩnh vực: cơ khí & công trình
+#máy cán (thép) tấm
+@Chuyên ngành kỹ thuật
+#máy cán mỏng
+#máy dát
+@Lĩnh vực: cơ khí & công trình
+#máy cán (thép) tấm

@@ -1,0 +1,3 @@
+﻿@queue-jump
+*nội động từ
+#đứng vào hàng người đã nối đuôi nhau

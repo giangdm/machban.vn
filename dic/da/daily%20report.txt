@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#báo cáo hằng ngày
+#báo cáo lượng bán mỗi ngày
+#từng ngày
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#báo các hàng ngày
+@Lĩnh vực: cơ khí & công trình
+#báo cáo hàng ngày

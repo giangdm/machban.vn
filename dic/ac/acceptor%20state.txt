@@ -1,0 +1,5 @@
+﻿@acceptor state
+#(Tech) trạng thái nhận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#trạng thái nhận

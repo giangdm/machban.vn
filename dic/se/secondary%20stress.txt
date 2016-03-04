@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất phụ
+@Lĩnh vực: toán & tin
+#ứng lực phụ
+#ứng lực thứ cấp
+#ứng suất thứ cấp
+@Lĩnh vực: xây dựng
+#ứng suất thứ

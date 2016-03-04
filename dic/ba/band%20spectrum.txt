@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#lý thuyết vùng
+#lý thuyết vùng chất rắn
+@Lĩnh vực: y học
+#phổ dải, phổ đám
+@Lĩnh vực: điện lạnh
+#phổ đám

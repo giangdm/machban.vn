@@ -1,0 +1,6 @@
+﻿@Accrued expenses
+#(Econ) Chi phí phát sinh (tính trước).
+: Thương mục trong tài khoản của một công ty được ghi như một khoản nợ của các dịch vụ đã sử dụng nhưng chưa được thanh toán.
+@Chuyên ngành kinh tế
+#chi phí phát sinh điều chỉnh
+#chi phí tính dồn

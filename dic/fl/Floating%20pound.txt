@@ -1,0 +1,5 @@
+﻿@Floating pound
+#(Econ) Đồng bảng Anh thả nổi.
+: Xem EXCHANGE RATE.
+@Chuyên ngành kinh tế
+#trong bảng (Anh) thả nổi

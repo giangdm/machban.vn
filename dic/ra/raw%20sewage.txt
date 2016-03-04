@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#bùn cặn chưa xử lý
+#nước cống chưa xử lý
+#nước thải chưa xử lý
+#rác thải thô

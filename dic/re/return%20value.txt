@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#giá thanh lý
+#giá trị còn lại
+@Lĩnh vực: toán & tin
+#giá sau khi sử dung
+#giá trị trả về
+@Lĩnh vực: xây dựng
+#giá trị sau sử dụng

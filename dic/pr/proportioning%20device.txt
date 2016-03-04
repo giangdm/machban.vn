@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#thiết bị phối liệu
+@Lĩnh vực: đo lường & điều khiển
+#dụng cụ định liều lượng
+@Lĩnh vực: xây dựng
+#thiết bị định lượng

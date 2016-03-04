@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#mạng hai cổng
+@Lĩnh vực: điện
+#mạng điện bóng cực
+#mạng điện hai cửa
+@Lĩnh vực: toán & tin
+#mạng hai cổng (cửa)

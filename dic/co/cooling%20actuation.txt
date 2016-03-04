@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cho máy lạnh hoạt động
+#kích hoạt máy lạnh

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#đồ thị Carrier
+#đồ thị độ ẩm-nhiệt độ
+#đồ thị nhiệt ẩm
+#giản đồ độ ẩm-nhiệt độ

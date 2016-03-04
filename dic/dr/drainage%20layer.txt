@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp thoát nước
+#lớp tiêu nước
+@Lĩnh vực: xây dựng
+#tầng thoát nước

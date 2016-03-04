@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#định lý thuận nghịch
+#định lý tương hoán
+#nguyên lý tương hoán

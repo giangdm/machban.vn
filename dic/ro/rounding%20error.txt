@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kinh tế
+#sai số (được) tính tròn
+@Chuyên ngành kỹ thuật
+#sai số làm tròn
+@Lĩnh vực: toán & tin
+#lỗi do làm tròn
+#sai số do làm tròn

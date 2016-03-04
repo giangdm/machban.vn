@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#abculong trên centimét vuông
+@Lĩnh vực: đo lường & điều khiển
+#aC/cm2

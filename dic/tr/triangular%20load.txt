@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#tải trọng hình tam giác
+@Lĩnh vực: toán & tin
+#tải trọng tam giác

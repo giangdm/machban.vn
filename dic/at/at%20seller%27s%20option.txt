@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#bên bán có quyền (lựa chọn)
+#do bên bán lựa chọn
+#tùy ý người bán

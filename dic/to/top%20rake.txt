@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dốc dọc
+#độ nghiêng dọc (cắt gọt)
+#góc nghiêng dọc
+#mặt trước (dao)

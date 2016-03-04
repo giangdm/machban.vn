@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#máy phát điện báo
+#thiết bị truyền điện báo
+@Lĩnh vực: điện lạnh
+#máy truyền điện báo

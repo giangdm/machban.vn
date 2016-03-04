@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phương tiện bộ nhớ khối
+#phương tiện lưu trữ dung lượng lớn

@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#mẫu nguyên dạng
+@Lĩnh vực: toán & tin
+#mẫu thử nguyên dạng
+@Lĩnh vực: xây dựng
+#mẫu thử theo mặt cắt

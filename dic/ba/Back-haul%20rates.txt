@@ -1,0 +1,5 @@
+﻿@Back-haul rates
+#(Econ) Cước vận tải ngược.
+: Cước phí hay vận chuyển thấp hơn đối với vận chuyển theo một hướng này so với hướng khác.
+@Chuyên ngành kinh tế
+#cước chuyển về

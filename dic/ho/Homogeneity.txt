@@ -1,0 +1,22 @@
+﻿@Homogeneity
+#(Econ) Tính thuần nhất, tính đồng nhất.
+: Tính chất của hàng hoá dịch vụ hoặc các yếu tố giống nhau theo cách suy nghĩ của nhà phân phối và người tiêu dùng.
+<!-- more -->
+@homogeneity /,hɔmoudʤe'ni:iti/ (homogeneousness) /,hɔmə'dʤi:njəsnis/
+*danh từ
+#tính đồng nhất, tình đồng đều, tính thuần nhất
+@Chuyên ngành kinh tế
+#độ đồng nhất
+#tính thuần nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#tính đồng chất
+#tính đồng tính
+@Lĩnh vực: xây dựng
+#tính đồng thể
+<!-- more -->
+@homogeneity
+#(thống kê) tính thuần nhất
+#h. of set of averages (thống kê) tính thuần nhất của tập hợp các số trung bình
+#h. of set of variances (thống kê) tính thuần nhất của tập phương sai
+#dimensional h. tính thuần nhất thứ nguyên

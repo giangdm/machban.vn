@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#độ dốc mái
+#độ nghiêng
+#đường dốc
+#đường dốc lên
+#mái dốc
+@Lĩnh vực: xây dựng
+#gradien độ dốc

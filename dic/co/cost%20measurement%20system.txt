@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#phương thức tính toán giá thành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#hệ thống đo lường giá cả

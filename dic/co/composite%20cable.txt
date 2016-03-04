@@ -1,0 +1,10 @@
+﻿@composite cable
+#(Tech) cáp đa hợp, cáp nhiều loại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#cáp bọc composit
+#cáp bọc nhựa phức hợp
+#cáp compozit
+#cáp tổ hợp
+@Lĩnh vực: điện lạnh
+#cáp phức hợp

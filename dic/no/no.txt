@@ -1,0 +1,20 @@
+﻿@no /nou/
+*phó từ
+#không
+=no, I don't think so: không, tôi không nghĩ như vậy
+=whether he comes or no: dù nó đến hay không
+=no some said than done: nói xong là làm ngay
+=I say no more: tôi không nói nữa
+=he is no longer here: anh ta không còn ở đây nữa
+=he is no more: anh ta không còn nữa (chết rồi)
+*danh từ,  số nhiều noes
+#lời từ chối, lời nói "không" ; không
+=we can't take no for an answer: chúng tôi không thể chấp nhận được câu trả lời từ chối
+#phiếu chống; người bỏ phiếu chống
+=the noes have it: phiếu chống chiếm đa số; đa số bỏ phiếu chống
+=the ayes and the noes: phiếu thuận và phiếu chống
+@Chuyên ngành kỹ thuật
+#không
+<!-- more -->
+@no
+#không

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#phương pháp đánh giá xem xét theo chương trình
+@Lĩnh vực: toán & tin
+#kỹ thuật xem xét và đánh giá chương trình

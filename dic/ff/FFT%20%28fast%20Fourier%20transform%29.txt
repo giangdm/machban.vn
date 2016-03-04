@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#biến quả Fourier nhanh
+@Lĩnh vực: toán & tin
+#phép biến đổi Pourier nhanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến đổi Fourier nhanh-FFT
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#biến quả Fourier nhanh
+@Lĩnh vực: toán & tin
+#phép biến đổi Pourier nhanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#biến đổi Fourier nhanh-FFT

@@ -1,0 +1,11 @@
+﻿@Chuyên ngành kinh tế
+#máy in ký tự
+@Chuyên ngành kỹ thuật
+#máy in ký tự
+#máy in từng ký tự
+@Lĩnh vực: toán & tin
+#máy in chữ
+#máy in nối tiếp
+#máy in theo ký tự
+@Lĩnh vực: xây dựng
+#máy in kí tự

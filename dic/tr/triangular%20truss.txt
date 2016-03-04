@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#giàn mạng tam giác
+@Lĩnh vực: xây dựng
+#giàn hình tam giác

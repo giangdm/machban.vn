@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#loa giám kiểm
+#loa giám sát
+#loa kiểm tra
+#máy phóng thanh nghe thử

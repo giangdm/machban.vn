@@ -1,0 +1,6 @@
+﻿@Debt ratio
+#(Econ) Tỷ số nợ giữa vốn vay và vốn cổ phần
+: Xem GEARING.
+@Chuyên ngành kinh tế
+#tỉ suất nợ
+#tỷ số nợ

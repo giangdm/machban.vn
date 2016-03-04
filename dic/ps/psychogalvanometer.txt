@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ đo phản ứng thần kinh khi tác động điện
+@Lĩnh vực: y học
+#tâm thần điện kế

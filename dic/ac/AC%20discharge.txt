@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sự phóng điện AC
+#sự phóng điện xoay chiều

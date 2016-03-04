@@ -1,0 +1,20 @@
+﻿@switchgear
+*danh từ
+#cơ cấu bẻ ghi; chuyển ghi
+#cơ cấu đóng mạch; chuyển mạch
+@Chuyên ngành kỹ thuật
+#bộ chuyển mạch
+@Lĩnh vực: vật lý
+#cấu chuyển ghi
+#cấu đóng cắt
+@Lĩnh vực: toán & tin
+#dụng cụ chuyển mạch
+#dụng cụ đảo mạch
+#dụng cụ phân phối
+@Lĩnh vực: điện
+#sân phân phối
+#thiết bị đóng cắt
+#thiết bị đóng ngắt
+#trạm phân phối
+@Lĩnh vực: xây dựng
+#thiết bị phân phối

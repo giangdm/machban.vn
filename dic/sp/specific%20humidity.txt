@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#độ ẩm riêng
+#hàm ẩn
+@Chuyên ngành kỹ thuật
+#độ ẩm riêng
+@Lĩnh vực: toán & tin
+#độ ẩm riêng, tỷ thấp
+@Lĩnh vực: xây dựng
+#tỷ thấp

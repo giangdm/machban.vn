@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#đúc chân không
+#sự đúc trong chân không
+@Lĩnh vực: vật lý
+#sự đúc trong chân khong

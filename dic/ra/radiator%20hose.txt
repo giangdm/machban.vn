@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+#ống mềm bộ tản nhiệt
+@Lĩnh vực: điện lạnh
+#ống vòi lò sưởi

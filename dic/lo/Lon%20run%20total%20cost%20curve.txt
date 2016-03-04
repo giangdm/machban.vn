@@ -1,0 +1,2 @@
+﻿@Lon run total cost curve
+#(Econ) Đường tổng chi phí dài hạn.

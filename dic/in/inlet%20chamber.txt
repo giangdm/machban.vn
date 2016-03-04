@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#buồng hút
+#buồng nạp
+#khoang hút (bơm)
+#khoang nạp
+#ngăn nạp
+#ngăn nhập
+@Lĩnh vực: điện lạnh
+#buồng cấp (vào)
+@Lĩnh vực: xây dựng
+#buồng để không khí vào
+#giếng đưa nước vào

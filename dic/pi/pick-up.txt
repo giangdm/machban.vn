@@ -1,0 +1,33 @@
+﻿@pick-up /'pikʌp/
+*danh từ
+#người quen tình cờ, người quen ngẫu nhiên
+#vật nhặt được; tin bắt được (trên làn sóng điện)
+#(thông tục),  (như) pick-me-up
+#(rađiô) cái piccơp
+#cái cảm biến
+#sự tăng tốc độ
+#(thông tục) sự khá hơn (về sức khoẻ, sản xuất...)
+#sự dừng lại để nhặt hàng nhặt khách; sự nhặt hàng, sự nhặt khách (xe buýt...)
+@Chuyên ngành kinh tế
+#phòng còn sạch
+@Chuyên ngành kỹ thuật
+#bắt
+#bộ cảm biến
+#đầu dò
+#đầu đọc
+#đầu thụ chuyển
+#nâng lên
+#nhận
+#sự bắt giấy
+#sự dính ngẫu nhiên
+#sự tiếp nhận
+@Lĩnh vực: toán & tin
+#đầu độc
+@Lĩnh vực: điện
+#đầu đọc điện từ
+@Lĩnh vực: ô tô
+#khả năng tăng tốc
+#ô tô loại nhỏ
+#toa xe đẩy tay
+#xe có toa sàn
+#xe tải lấy hàng

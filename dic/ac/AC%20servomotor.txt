@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#động cơ secvo AC
+#động cơ trợ động AC
+#mô tơ secvo AC
+#secvomoto AC

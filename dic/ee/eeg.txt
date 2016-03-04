@@ -1,0 +1,6 @@
+﻿@eeg
+*(viết tắt)
+#điện não đồ (electroencephalogram)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#điện não đồ

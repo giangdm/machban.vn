@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#dụng cụ đo nhiệt độ
+@Lĩnh vực: đo lường & điều khiển
+#hỏa kế
+#khí cụ đo nhiệt độ

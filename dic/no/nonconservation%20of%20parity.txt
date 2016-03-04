@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#điện cực không tiêu hao
+#điện cực thường xuyên
+@Lĩnh vực: điện lạnh
+#không bảo toàn tính chẵn lẻ

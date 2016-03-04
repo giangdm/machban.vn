@@ -1,0 +1,2 @@
+﻿@decision feedback equalizer
+#(Tech) bộ cân bằng hồi tiếp để quyết định

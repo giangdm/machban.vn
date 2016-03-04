@@ -1,0 +1,7 @@
+﻿@Expense preference
+#(Econ) Ưu tiên chi tiêu.
+: Là một khái niệm nói về sự hài lòng của các nhà quản lý đạtđược trong việc chi tiêu cho một số công việc của hãng như chi tiêu cho việc Marketing và cho đôi ngũ nhân viên.
+@Chuyên ngành kinh tế
+#sự ưu tiên chi tiêu
+#sự ưu tiên chi tiêu (trong công việc quản lý xí nghiệp)
+#ưu tiên chỉ tiêu

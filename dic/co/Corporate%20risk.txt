@@ -1,0 +1,6 @@
+﻿@Corporate risk
+#(Econ) Rủi ro hợp doanh; Rủi ro công ty.
+: Toàn bộ rủi ro liên quan tới một doanh nghiệp.
+@Chuyên ngành kinh tế
+#rủi ro công ty
+#rủi ro của công ty

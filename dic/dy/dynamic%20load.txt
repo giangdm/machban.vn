@@ -1,0 +1,8 @@
+﻿@dynamic load
+#(Tech) tải động
+@Chuyên ngành kỹ thuật
+#nạp động
+#tải trọng động
+@Lĩnh vực: xây dựng
+#tải động
+#tải trọng động lực

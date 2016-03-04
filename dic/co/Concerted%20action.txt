@@ -1,0 +1,5 @@
+﻿@Concerted action
+#(Econ) Hành động phối hợp.
+: Đây là tên đặt cho một phương án của CHÍNH SÁCH THU NHẬP CỦA ĐỨC mà chính phủ, mặc dù không phải là một bên tham gia quá trình đàm phán tập thể, đặt ra những tiêu chuẩn gắn tăng tiền lương với mục đích ổn định và tăng trưởng.
+@Chuyên ngành kinh tế
+#hành động phối hợp

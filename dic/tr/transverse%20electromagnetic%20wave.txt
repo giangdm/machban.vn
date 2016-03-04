@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#sóng điện ngang
+@Lĩnh vực: vật lý
+#sóng điện từ ngang
+@Lĩnh vực: điện lạnh
+#sóng TEM

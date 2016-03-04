@@ -1,0 +1,5 @@
+﻿@init
+#Trong môi trường Macintosh, đây là một chương trình tiện ích thực hiện trong khi một hệ đang khởi động hoặc khởi động lại, như SuperClock hiển thị ngày và giờ hiện hành của hệ thống trong dải lệnh đơn, hoặc Adobe Type Manager dùng công nghệ phong chữ hình bao để hiển thị các phông chữ màn hình của Adobe
+@Chuyên ngành kỹ thuật
+#khởi đầu
+#khởi tạo

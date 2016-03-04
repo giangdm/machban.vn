@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#máy cán dây
+#máy cán phôi
+#máy cán thanh
+@Lĩnh vực: xây dựng
+#máy xay (bằng) trục

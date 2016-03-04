@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ dao động thạch anh
+#bộ dao động tinh thể
+@Lĩnh vực: điện
+#mạch dao động tinh thể
+@Lĩnh vực: xây dựng
+#máy dao động tinh thể

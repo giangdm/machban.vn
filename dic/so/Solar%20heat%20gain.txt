@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#độ tăng nhiệt Mặt Trời
+#Thu nhiệt Mặt Trời
+@Chuyên ngành kỹ thuật
+#lượng gia nhiệt mặt trời
+@Lĩnh vực: điện lạnh
+#cường độ bức xạ mặt trời

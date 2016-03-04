@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chỗ uốn E
+#mặt phẳng E
+@Lĩnh vực: điện lạnh
+#độ cong E
+#độ cong mặt phẳng E

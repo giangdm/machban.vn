@@ -1,0 +1,10 @@
+﻿@direct access
+#(Tech) trực truy, truy cập tùy ý
+@Chuyên ngành kinh tế
+#sự truy cập trực tiếp (máy vi tính)
+#tiếp cận
+#truy cập trực tiếp
+@Chuyên ngành kỹ thuật
+#lối vào trực tiếp
+@Lĩnh vực: toán & tin
+#truy cập trực tiếp

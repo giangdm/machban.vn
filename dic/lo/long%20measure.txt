@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#đơn vị đo chiều dài
+#thước đo bề dài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#đơn vị đo (chiều) dài
+@Lĩnh vực: đo lường & điều khiển
+#số đo chiều dài
+@Lĩnh vực: hóa học & vật liệu
+#sự đo chiều dài

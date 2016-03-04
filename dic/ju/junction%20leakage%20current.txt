@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+#chỗ rò
+#dòng rò
+@Lĩnh vực: điện
+#dòng điện rò chỗ nối

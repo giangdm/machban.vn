@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#chiều dài khoảng cột
+#chiều dài khoảng vượt
+@Lĩnh vực: xây dựng
+#sải nhịp

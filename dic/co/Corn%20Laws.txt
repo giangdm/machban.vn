@@ -1,0 +1,9 @@
+﻿@Corn Laws
+#(Econ) Các bộ luật về Ngô.
+: Các bộ luật áp dụng ở Anh từ năm 1815 và được bãi bỏ từ năm 1846 nhằm duy trì giá ngũ cốc bằng cách cấm nhập khẩu khi giá trong nước giảm xuống dưới một mức nhất định.
+@Chuyên ngành kinh tế
+#luật hạn chế nhập khẩu mễ cốc (của Anh, đã hủy bỏ năm 1864)
+<!-- more -->
+@corn laws
+*danh từ
+#(lịch sử) luật hạn chế nhập khẩu ngô vào Anh quốc

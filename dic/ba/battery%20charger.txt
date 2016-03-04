@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#bình nạp điện
+#bộ nạp ắcqui
+#bộ nạp điện
+@Lĩnh vực: cơ khí & công trình
+#máy nạp bình điện
+#thiết bị nạp ắcquy
+@Lĩnh vực: ô tô
+#máy sạc bình
+@Lĩnh vực: giao thông & vận tải
+#thiết bị nạp ắc quy
+@Lĩnh vực: điện
+#thiết bị nạp acquy

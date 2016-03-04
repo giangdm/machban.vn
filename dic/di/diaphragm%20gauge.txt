@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#dụng cụ đo sử dụng màng chắn
+@Lĩnh vực: đo lường & điều khiển
+#áp kế màng mỏng

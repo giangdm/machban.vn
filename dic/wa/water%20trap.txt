@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#bộ tách nước
+@Chuyên ngành kỹ thuật
+#bẫy nước
+#bình tách nước
+@Lĩnh vực: hóa học & vật liệu
+#bình gom nước
+@Lĩnh vực: xây dựng
+#giữ nước

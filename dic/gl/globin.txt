@@ -1,0 +1,6 @@
+﻿@globin
+*danh từ
+#(sinh,  (hoá học)) globin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#một loại protein có trong cơ thể (có thể kết hợp với các nhóm chứa sắt để tạo thành hemoglobin)

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#cân bằng không phân biệt
+@Lĩnh vực: xây dựng
+#sự cân bằng phiếm định

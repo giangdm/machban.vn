@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#chỗ để ghi đầu đề
+#khối nhan đề (bản vẽ)
+#khung tên
+@Lĩnh vực: xây dựng
+#khuôn dập góc

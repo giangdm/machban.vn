@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#chất dẫn điện hữu cơ
+#vật dẫn điện hữu cơ

@@ -1,0 +1,5 @@
+﻿@Fringe benefit
+#(Econ) Phúc lợi phi tiền tệ.
+: Tất cả các yếu tố phi tiền công hay tiền lương trong tổng lợi ích bằng tiền mà một người đi làm nhận được từ công việc của mình.
+@Chuyên ngành kỹ thuật
+#phúc lợi phụ

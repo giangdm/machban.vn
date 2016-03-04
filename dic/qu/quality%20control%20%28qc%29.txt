@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#kiểm tra chất lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#kiểm soát chất lượng

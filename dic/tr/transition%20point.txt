@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#điểm chuyển tiếp
+@Lĩnh vực: giao thông & vận tải
+#chỗ môđun đường thay đổi
+@Lĩnh vực: vật lý
+#chuyển tiếp điểm
+@Lĩnh vực: điện lạnh
+#điểm chuyển pha
+#điểm chuyển tiếp (ở một mạch)
+#nhiệt độ chuyển (pha)

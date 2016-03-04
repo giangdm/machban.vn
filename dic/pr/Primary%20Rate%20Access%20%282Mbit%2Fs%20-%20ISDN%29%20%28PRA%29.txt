@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#Truy nhập tốc độ sơ cấp (2 Mbit/s - ISDN)

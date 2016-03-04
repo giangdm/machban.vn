@@ -1,0 +1,12 @@
+﻿@error ratio
+#(Tech) tỷ số sai lầm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ số lỗi
+@Lĩnh vực: điện lạnh
+#tỷ số lỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#hệ số lỗi
+@Lĩnh vực: điện lạnh
+#tỷ số lỗi

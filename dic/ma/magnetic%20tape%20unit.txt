@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#máy ghi băng từ
+#thiết bị băng từ
+@Lĩnh vực: toán & tin
+#bộ băng từ
+@Lĩnh vực: điện tử & viễn thông
+#mâm băng từ
+@Lĩnh vực: điện
+#máy đọc và ghi băng từ

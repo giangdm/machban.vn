@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kỹ thuật
+#mặt cắt nguy hiểm
+#mặt cắt tới hạn
+@Lĩnh vực: toán & tin
+#đoạn (chương trình) tới hạn
+#phần (chương trình) tới hạn
+@Lĩnh vực: xây dựng
+#tiết diện tới hạn

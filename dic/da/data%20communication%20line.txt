@@ -1,0 +1,6 @@
+﻿@data communication line
+#(Tech) đường dây truyền thông dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#đường truyền thông dữ liệu
+#tuyến truyền thông dữ liệu

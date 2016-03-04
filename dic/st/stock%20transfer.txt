@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#giấy chuyển nhượng chứng khoán
+#sang tên cổ phiếu
+#sự chuyển nhượng cổ phiếu

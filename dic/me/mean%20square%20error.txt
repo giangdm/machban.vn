@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+#sai số bình phương trung bình
+#sai số quân phương

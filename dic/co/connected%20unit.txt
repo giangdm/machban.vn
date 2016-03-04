@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#đơn vị kết nối
+@Lĩnh vực: toán & tin
+#thiết bị kết nối

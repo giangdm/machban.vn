@@ -1,0 +1,2 @@
+﻿@current sensitivity
+#(Tech) độ nhạy cường độ

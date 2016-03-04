@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#thời gian cắt hoàn toàn
+@Lĩnh vực: điện lạnh
+#tổng thời gian cắt mạch

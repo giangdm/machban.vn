@@ -1,0 +1,5 @@
+﻿@Factor-price frontier
+#(Econ) Giới hạn yếu tố sản xuất - giá cả.
+: Thuật ngữ này do PAUL SAMUELSON đưa ra, chỉ mối quan hệ tỷ lệ nghịch giữa mức tiền công và lợi nhuận trong lý thuyết tăng trưởng.
+@Chuyên ngành kinh tế
+#giới hạn giá cả yếu tố (sản xuất)

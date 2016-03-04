@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#hệ số liên hệ tương hỗ
+@Lĩnh vực: toán & tin
+#hệ số ghép tương hỗ

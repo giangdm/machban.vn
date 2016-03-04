@@ -1,0 +1,12 @@
+﻿@erase character
+#(Tech) ký tự xóa = delete character
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ký tự xóa
+@Lĩnh vực: toán & tin
+#xóa ký tự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#ký tự xóa
+@Lĩnh vực: toán & tin
+#xóa ký tự

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#áp suất dưới (điểm) tới hạn
+#áp suất dưới tới hạn

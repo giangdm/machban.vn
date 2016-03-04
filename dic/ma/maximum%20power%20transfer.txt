@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#công suất vận chuyển tối đa
+@Lĩnh vực: điện
+#sự truyền công suất tối đa

@@ -1,0 +1,13 @@
+﻿@Chuyên ngành kỹ thuật
+#sự thí nghiệm va chạm
+@Lĩnh vực: toán & tin
+#sự thí nghiệm xung động
+@Lĩnh vực: xây dựng
+#sự thí nghiệm xung đột
+@Lĩnh vực: điện
+#sự thử điện áp xung
+#thử điện áp xung
+#thử nghiệm xung
+@Lĩnh vực: điện lạnh
+#thử nghiệm sóng xung
+#thử phóng điện xung

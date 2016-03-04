@@ -1,0 +1,5 @@
+﻿@Bank advance
+#(Econ) Khoản vay ngân hàng.
+: Một cụm thuật ngữ chung dùng cho bất kỳ một loại vay ngân hàng nào. Xem BANK LOAN.
+@Chuyên ngành kinh tế
+#khoản vay ngân hàng

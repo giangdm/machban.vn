@@ -1,0 +1,5 @@
+﻿@Endogenous income hypothesis
+#(Econ) Giả thiết thu nhập nội sinh
+: Một giả thiết cho rằng độ thoả dụng là một hàm của chi tiêu TIÊU DÙNG và CỦA CẢI.
+@Chuyên ngành kinh tế
+#giả thiết thu nhập nội sinh

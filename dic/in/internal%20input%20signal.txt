@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#tín hiệu đầu vào bên trong
+#tín hiệu nhập nội bộ
+#tín hiệu vào bên trong

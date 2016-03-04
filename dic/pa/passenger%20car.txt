@@ -1,0 +1,18 @@
+﻿@Chuyên ngành kinh tế
+#xe (lửa chở) khách
+#xe đò
+@Chuyên ngành kỹ thuật
+#buýt
+#ô tô khách, toa khách
+#toa khách
+#xe con
+#xe du lịch
+#xe khách
+@Lĩnh vực: giao thông & vận tải
+#toa chở khách (Mỹ)
+#toa tầu khách
+@Lĩnh vực: xây dựng
+#toa xe chở hành khách
+@Lĩnh vực: ô tô
+#xe buýt
+#xe chở khách

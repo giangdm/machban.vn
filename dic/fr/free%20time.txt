@@ -1,0 +1,8 @@
+﻿@Chuyên ngành kinh tế
+#thời gian sử dụng miễn phí
+@Chuyên ngành kỹ thuật
+#khoảng thời gian tự do
+@Lĩnh vực: điện tử & viễn thông
+#khoảng thời gian rảnh rỗi
+@Lĩnh vực: xây dựng
+#thời gian rảnh rỗi

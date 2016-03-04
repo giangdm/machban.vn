@@ -1,0 +1,11 @@
+﻿@Decile
+#(Econ) Thập phân vị
+: Là số liệu mẫu hoặc là số đo vị trí của một phân phối.
+@Chuyên ngành kinh tế
+#thập phân vị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#thập phân vị
+<!-- more -->
+@decile
+#thập phân vị

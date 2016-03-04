@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#độ Brix
+@Chuyên ngành kỹ thuật
+#độ làm lạnh
+@Lĩnh vực: cơ khí & công trình
+#mức độ làm nguội

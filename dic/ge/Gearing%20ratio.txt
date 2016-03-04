@@ -1,0 +1,3 @@
+﻿@Gearing ratio
+#(Econ) Tỷ số ăn khớp
+: Tỷ số của tài chính nợ với tổng số của nợ và tài chính vốn cổ phiếu thông thường.

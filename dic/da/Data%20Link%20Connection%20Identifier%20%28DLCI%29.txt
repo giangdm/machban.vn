@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#phần tử nhận dạng kết nối tuyến số liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bộ xác định kết nối dữ liệu

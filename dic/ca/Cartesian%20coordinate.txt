@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#Tọa độ Đề-Các
+@Lĩnh vực: điện lạnh
+#tọa độ Descartes

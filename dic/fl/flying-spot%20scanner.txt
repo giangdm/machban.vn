@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ quét bằng tia quét
+#bộ quét vết di động
+#máy quét vết bay
+@Lĩnh vực: toán & tin
+#máy quét vết di động

@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#trữ kho dài hạn
+#trữ kho sẵn để dùng
+@Chuyên ngành kỹ thuật
+#kho dự trữ

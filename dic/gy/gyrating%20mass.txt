@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#khối lượng hồi chuyển
+#khối lượng ly tâm
+@Lĩnh vực: cơ khí & công trình
+#khối lượng quay

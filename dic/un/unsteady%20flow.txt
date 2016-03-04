@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng bất định
+#dòng chảy không ổn định
+#dòng không ổn định
+@Lĩnh vực: hóa học & vật liệu
+#dòng chảy không đều
+@Lĩnh vực: xây dựng
+#dòng chảy không dừng
+@Lĩnh vực: điện lạnh
+#luồng không ổn định

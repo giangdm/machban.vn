@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt lượng nén
+@Chuyên ngành kỹ thuật
+#nhiệt lèn
+#nhiệt nén
+@Lĩnh vực: vật lý
+#nhiệt của quá trình nén
+#nhiệt do quá trình nén ép
+#nhiệt ép
+#nhiệt nén (không khí)

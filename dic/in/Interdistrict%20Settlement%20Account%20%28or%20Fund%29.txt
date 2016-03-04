@@ -1,0 +1,3 @@
+﻿@Interdistrict Settlement Account (or Fund)
+#(Econ) Tài khoản (hay quỹ) Thanh toán liên vùng.
+: Một tài khoản đặc biệt của sở thanh toán bù trừ được sử dụng để điều tiết sự chuyển tiền giữa 12 Ngân hàng vùng thuộc HỆ THỐNG DỰ TRỮ LIÊN BANG.

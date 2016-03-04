@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#máy tạo cơ bản thời gian
+@Lĩnh vực: điện tử & viễn thông
+#máy tạo sóng quét (dao động ký tia catot)

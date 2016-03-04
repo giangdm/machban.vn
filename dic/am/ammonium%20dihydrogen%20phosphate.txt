@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#có hiệu ứng áp điện
+#một vật liệu
+#thường gọi là ADP

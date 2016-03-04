@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giữ chỗ trước (ở khách sạn, nhà hàng...)
+#sự mua (vé) trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sự đặt (hàng) trước

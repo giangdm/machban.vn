@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+#băng chuyền có cần đẩy
+#băng tải có cần gạt

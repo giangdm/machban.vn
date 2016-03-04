@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+#mặt có phần lõm
+#mặt có rãnh
+@Lĩnh vực: hóa học & vật liệu
+#mặt kiểu vỏ sò

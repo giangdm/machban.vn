@@ -1,0 +1,2 @@
+﻿@dc (direct-current) transformer
+#(Tech) bộ biến áp dòng điện một chiều

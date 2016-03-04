@@ -1,0 +1,14 @@
+﻿@Chuyên ngành kỹ thuật
+#dòng đất chảy
+@Lĩnh vực: cơ khí & công trình
+#sự biến dạng dẻo của đất
+@Lĩnh vực: xây dựng
+#sự chảy dẻo của đất
+#sự đẩy trôi đất
+@Chuyên ngành kỹ thuật
+#dòng đất chảy
+@Lĩnh vực: cơ khí & công trình
+#sự biến dạng dẻo của đất
+@Lĩnh vực: xây dựng
+#sự chảy dẻo của đất
+#sự đẩy trôi đất

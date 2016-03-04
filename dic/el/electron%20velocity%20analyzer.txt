@@ -1,0 +1,2 @@
+﻿@electron velocity analyzer
+#(Tech) bộ phân tích vận tốc điện tử

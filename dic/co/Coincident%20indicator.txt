@@ -1,0 +1,7 @@
+﻿@Coincident indicator
+#(Econ) Chỉ số báo trùng hợp.
+: Một dãy số liệu kinh tế biến động theo cùng chu kỳ kinh doanh, nghĩa là tăng lên cùng một lúc với giai đoạn tăng lên của chu kỳ kinh doanh và tụt xuống khi chu kỳ kinh doanh tụt xuốn.
+@Chuyên ngành kinh tế
+#chỉ báo đồng thời
+#chỉ số tương quan
+#số chỉ báo trùng hợp

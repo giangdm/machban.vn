@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#ứng suất biên gián
+@Lĩnh vực: xây dựng
+#ứng suất cách dầm
+@Lĩnh vực: toán & tin
+#ứng suất cánh dầm

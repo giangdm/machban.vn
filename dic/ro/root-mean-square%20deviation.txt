@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#độ lệch tiêu chuẩn
+@Lĩnh vực: toán & tin
+#độ lệch rms

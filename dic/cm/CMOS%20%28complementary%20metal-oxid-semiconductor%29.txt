@@ -1,0 +1,2 @@
+﻿@CMOS (complementary metal-oxid-semiconductor)
+#(Tech) CMOS (mạch bán dẫn ôxit kim loại đối nghịch)

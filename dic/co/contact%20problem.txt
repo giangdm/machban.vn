@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bài toán Hertz
+@Lĩnh vực: toán & tin
+#bài toán tiếp xúc

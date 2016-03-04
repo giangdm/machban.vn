@@ -1,0 +1,8 @@
+﻿@data path
+#(Tech) đường dữ liệu
+@Chuyên ngành kỹ thuật
+#đường dẫn dữ liệu
+@Lĩnh vực: toán & tin
+#đường (vào) dữ liệu
+@Lĩnh vực: điện tử & viễn thông
+#đường dữ liệu

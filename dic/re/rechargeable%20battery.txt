@@ -1,0 +1,12 @@
+﻿@Chuyên ngành kỹ thuật
+#ắcqui
+#bộ pin nạp lại được
+#bộ pin thứ cấp
+#bộ pin trữ điện
+#bộ tích trữ điện
+#pin nạp được
+@Lĩnh vực: điện
+#ắcqui có thể sạc lại
+#pin nạp
+@Lĩnh vực: ô tô
+#pin sạc

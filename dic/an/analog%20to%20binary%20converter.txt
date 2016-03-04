@@ -1,0 +1,2 @@
+﻿@analog to binary converter
+#(Tech) bộ đổi tương tự ra nhị phân

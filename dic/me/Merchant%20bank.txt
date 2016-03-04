@@ -1,0 +1,8 @@
+﻿@Merchant bank
+#(Econ) Ngân hàng nhà buôn
+: Là một nhóm trong số các thể chế tài chính ở Anh tiến hành một loạt các hoạt động đa dạng về tài chính hoặc liên quan đến tài chính.
+@Chuyên ngành kinh tế
+#ngân hàng thương mại
+#phẩm chất có thể bán được
+@Chuyên ngành kỹ thuật
+#ngân hàng buôn

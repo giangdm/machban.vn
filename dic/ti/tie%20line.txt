@@ -1,0 +1,10 @@
+﻿@Chuyên ngành kỹ thuật
+#dây nối
+#đường dây liên kết
+#đường liên kết
+#đường nối
+@Lĩnh vực: điện lạnh
+#đường dây néo
+#tuyến nối ngang (giữa các PABX)
+@Lĩnh vực: toán & tin
+#tuyến liên kết

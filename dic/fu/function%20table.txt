@@ -1,0 +1,7 @@
+﻿@function table
+#(Tech) bảng hàm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#bảng hàm
+@Lĩnh vực: điện tử & viễn thông
+#bảng hàm số

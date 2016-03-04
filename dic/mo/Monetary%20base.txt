@@ -1,0 +1,4 @@
+﻿@Monetary base
+#(Econ) Cơ số tiền tệ.
+@Chuyên ngành kinh tế
+#cơ sở, cơ số (lưu thông) tiền tệ

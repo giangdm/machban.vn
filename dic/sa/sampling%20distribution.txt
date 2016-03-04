@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#phân phối chọn mẫu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#phân bố mẫu
+#phân phối mẫu

@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#hoa hồng bao tiêu chứng khoán
+#hoa hồng bao tiêu chứng khoán (đối với công ty tín dụng)
+#hoa hồng đầu tư (đối với người môi giới)

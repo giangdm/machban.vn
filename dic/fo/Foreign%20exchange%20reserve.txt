@@ -1,0 +1,5 @@
+﻿@Foreign exchange reserve
+#(Econ) Dự trữ ngoại hối.
+: Xem EXTERNAL RESERVE.
+@Chuyên ngành kinh tế
+#dự trữ ngoại hối

@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#sóng liên tục ngắt quãng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#sóng không điều chế ngắt quãng
+#sóng liên cách
+@Lĩnh vực: toán & tin
+#sóng liên tục có ngắt

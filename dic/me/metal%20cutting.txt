@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kỹ thuật
+#cắt kim loại
+#sự bào phoi
+#sự cắt phoi
+#sự gia công cắt gọt
+@Lĩnh vực: xây dựng
+#sự cắt gọt kim loại
+@Lĩnh vực: cơ khí & công trình
+#sự gia công cơ

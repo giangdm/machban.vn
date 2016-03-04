@@ -1,0 +1,2 @@
+﻿@alphanumeric tabulator
+#(Tech) máy lập bảng chữ-số

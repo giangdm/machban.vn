@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#xí nghiệp thí điểm
+#xưởng sản xuất thử
+@Chuyên ngành kỹ thuật
+#nhà máy thử nghiệm
+#xưởng bán sản xuất
+@Lĩnh vực: điện lạnh
+#cơ sở sản xuất pilôt
+#cơ sở sản xuất thử

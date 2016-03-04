@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#ốc di động
+@Lĩnh vực: cơ khí & công trình
+#ốc vi động

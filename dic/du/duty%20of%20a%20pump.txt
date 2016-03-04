@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#lưu lượng bơm
+@Lĩnh vực: hóa học & vật liệu
+#công suất của bơm

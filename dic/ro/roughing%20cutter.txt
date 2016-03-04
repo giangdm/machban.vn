@@ -1,0 +1,7 @@
+﻿@Chuyên ngành kỹ thuật
+#máy cán phá
+#máy cán thô
+#máy phay thô
+@Lĩnh vực: cơ khí & công trình
+#dao phay cắt khô
+#dao phay cắt thô

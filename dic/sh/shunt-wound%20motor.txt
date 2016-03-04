@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#động cơ quấn song song
+@Lĩnh vực: điện lạnh
+#động cơ song song

@@ -1,0 +1,4 @@
+﻿@data set label (DSL)
+#(Tech) nhãn hiệu của tập hợp dữ liệu
+@Chuyên ngành kỹ thuật
+#nhãn tập dữ liệu

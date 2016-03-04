@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kinh tế
+#sự quản lý tệp dữ liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quản lý tập tin
+#quản lý tệp
+#sự nắm bắt tệp
+#sự quản lý tập tin
+#sự quản lý tệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#quản lý tập tin
+#quản lý tệp
+#sự nắm bắt tệp
+#sự quản lý tập tin
+#sự quản lý tệp

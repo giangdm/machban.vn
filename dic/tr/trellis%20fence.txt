@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#rào lưới
+#rào thoáng
+#rào thưa
+#rào tường hoa

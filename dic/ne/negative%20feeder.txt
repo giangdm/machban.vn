@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+#dây tải mạch âm
+#phiđơ âm
+#tuyến dây âm

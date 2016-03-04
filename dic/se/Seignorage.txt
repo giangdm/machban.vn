@@ -1,0 +1,3 @@
+﻿@Seignorage
+#(Econ) Thuế đúc tiền, phí đúc tiền.
+: Từ xa xưa và áp dụng đối với tiền, đây là một loại thuế đánh vào những kim loại được mang đến xưởng để đúc tiền, nhằm trang trải các chi phí đúc tiền và  là một nguồn thu cho nhà cầm quyền, người cho đó là một đặc quyền.

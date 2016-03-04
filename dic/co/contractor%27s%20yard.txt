@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+#bãi vật tư xây dựng
+#sân vật tư xây dựng
+@Lĩnh vực: điện
+#kho bãi vật tư

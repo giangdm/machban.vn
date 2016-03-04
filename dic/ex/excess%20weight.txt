@@ -1,0 +1,9 @@
+﻿@Chuyên ngành kinh tế
+#trọng lượng dư thừa
+#trọng lượng hành lý phụ trội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#trọng lượng dư
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+#trọng lượng dư

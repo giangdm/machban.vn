@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#đầu mục ghi sổ (kế toán)
+#đầu mục ghi sổ kế toán
+@Chuyên ngành kỹ thuật
+#đầu ghi
+#đầu từ

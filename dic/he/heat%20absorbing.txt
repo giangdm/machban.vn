@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#nhiệt hấp thụ
+@Chuyên ngành kỹ thuật
+#sự hấp thụ nhiệt

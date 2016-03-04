@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#luật hồi dưỡng
+#luật nghịch
+#luật phản liên
+#luật thuận
+#luật thuận nghịch
+@Lĩnh vực: điện lạnh
+#định luật tương hoán
+@Chuyên ngành kỹ thuật
+#luật hồi dưỡng
+#luật nghịch
+#luật phản liên
+#luật thuận
+#luật thuận nghịch
+@Lĩnh vực: điện lạnh
+#định luật tương hoán

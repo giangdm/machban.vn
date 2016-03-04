@@ -1,0 +1,4 @@
+﻿@Monetary aggregate
+#(Econ) Cung tiền (M1,M2,M3).
+@Chuyên ngành kinh tế
+#bất kỳ sự đo lường

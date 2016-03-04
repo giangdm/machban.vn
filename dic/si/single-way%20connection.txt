@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+#cách nối mạch đơn
+#cách nối một chiều
+@Lĩnh vực: điện
+#nối dây một hướng

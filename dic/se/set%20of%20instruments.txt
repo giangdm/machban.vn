@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+#bộ dụng cụ
+@Lĩnh vực: xây dựng
+#bộ khí cụ đo

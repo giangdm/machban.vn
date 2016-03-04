@@ -1,0 +1,5 @@
+﻿@perishability
+#xem perishable
+@Chuyên ngành kinh tế
+#sự hư hại
+#sự hư hỏng

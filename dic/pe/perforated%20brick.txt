@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#gạch có lỗ
+@Lĩnh vực: xây dựng
+#gạch (có lỗ) rỗng
+#gạch đã xuyên lỗ
+#gạch lỗ

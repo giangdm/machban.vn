@@ -1,0 +1,3 @@
+﻿@Augmented Dickey Fuller test
+#(Econ) ADF - Kiểm định Dickey Fuller bổ sung.
+: Kiểm định này là một phiên bản của kiểm định Dickey Fuller đối với một đơn vị gốc khi tiêu thức xáo động là tương quan theo chuỗi sau khi đã xem xét sự khác nhau trong quá trình tĩnh khác (DSP).

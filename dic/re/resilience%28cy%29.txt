@@ -1,0 +1,2 @@
+﻿@resilience(cy)
+#(vật lí) năng lượng đàn hồi tích tụ tối đa trong một đơn vị

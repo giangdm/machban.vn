@@ -1,0 +1,4 @@
+﻿@Economic rate of return
+#(Econ) Tỷ suất lợi nhuận kinh tế.
+@Chuyên ngành kinh tế
+#lợi suất kinh tế

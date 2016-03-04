@@ -1,0 +1,5 @@
+﻿@Chuyên ngành kinh tế
+#đường chuyển hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+#đường khử

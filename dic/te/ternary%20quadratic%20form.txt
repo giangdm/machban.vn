@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+#dạng toan phương tam nguyên
+#dạng toàn phương tam nguyên

@@ -1,0 +1,3 @@
+﻿@spright
+*danh từ
+#xem sprite

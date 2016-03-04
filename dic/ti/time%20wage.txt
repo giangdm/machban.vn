@@ -1,0 +1,4 @@
+﻿@Chuyên ngành kinh tế
+#lương (theo) thời gian
+#lương (tính theo) giờ
+#lương tính theo giờ

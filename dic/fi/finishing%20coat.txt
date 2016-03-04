@@ -1,0 +1,16 @@
+﻿@Chuyên ngành kỹ thuật
+#lớp (trát) cuối
+#lớp hoàn thiện
+#lớp phủ hoàn thiện
+#lớp phủ ngoài
+#lớp phủ trên cùng
+#lớp trang trí
+#mặt ngoài
+@Chuyên ngành kỹ thuật
+#lớp (trát) cuối
+#lớp hoàn thiện
+#lớp phủ hoàn thiện
+#lớp phủ ngoài
+#lớp phủ trên cùng
+#lớp trang trí
+#mặt ngoài

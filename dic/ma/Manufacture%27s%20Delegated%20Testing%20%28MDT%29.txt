@@ -1,0 +1,3 @@
+﻿@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+#đo thử đại diện của nhà chế tạo (đo theo xác suất)

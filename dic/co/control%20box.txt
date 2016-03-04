@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kỹ thuật
+#cụm điều khiển
+#hộp điều khiển
+@Lĩnh vực: xây dựng
+#blốc điều khiển
+#hàng rào kiểm tra

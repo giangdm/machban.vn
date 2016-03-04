@@ -1,0 +1,6 @@
+﻿@Chuyên ngành kinh tế
+#giao cho người chuyên chở
+#giao cho người vận tải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+#giao cho người chuyên chở
